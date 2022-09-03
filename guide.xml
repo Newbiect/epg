@@ -19,6 +19,24 @@
     <icon src="https://www.izzi.mx/bcanales/img/canal237.png" />
     <url>http://www.izzi.mx</url>
   </channel>
+  <channel id="TVN">
+    <display-name lang="es">TVN (CHI)</display-name>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/149.png" />
+    <url>http://www.directv.cl</url>
+  </channel>
+  <channel id="Caracol TV (COL)">
+    <display-name lang="es">Caracol TV (COL)</display-name>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/132.png" />
+    <url>http://www.directv.com.co</url>
+  </channel>
+  <channel id="RCN Novelas">
+    <display-name lang="es">RCN Novelas</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="UniMás">
+    <display-name lang="en">UniMás</display-name>
+    <url>http://www.tvguide.com</url>
+  </channel>
   <programme start="20220903050000 +0000" stop="20220903053000 +0000" channel="Dreamworks">
     <title lang="es">La escuela del terror de Casper</title>
     <desc lang="es">Casper es el único estudiante que recupera sus poderes. Casper encuentra ayuda para desafiar a Razznik.(n)</desc>
@@ -765,5 +783,430 @@
     <desc lang="es">La mejor selección de música urbana de todos los tiempos.(n)</desc>
     <icon src="http://demo.tmsimg.com/assets/p21575169_b_h8_aa.jpg" />
     <country lang="es">MEX</country>
+  </programme>
+  <programme start="20220903024500 -0400" stop="20220903033000 -0400" channel="TVN">
+    <title lang="es">El día menos pensado</title>
+    <desc lang="es">Historias que parecen desafiar todo lo que hasta hoy es posible.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220903033000 -0400" stop="20220903034500 -0400" channel="TVN">
+    <title lang="es">TV Tiempo</title>
+    <desc lang="es">El informe del tiempo y los pronósticos climáticos para todo Chile.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220903034500 -0400" stop="20220903080000 -0400" channel="TVN">
+    <title lang="es">Fuera del aire</title>
+    <title lang="en">SIGN OFF</title>
+    <desc lang="es">Fin de emisión.(n)</desc>
+    <rating system="CL">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220903080000 -0400" stop="20220903100000 -0400" channel="TVN">
+    <title lang="es">Hermanos a la obra</title>
+    <title lang="en">Property Brothers</title>
+    <desc lang="es">Los hermanos gemelos Jonathan y Drew Scott ayudan a parejas en la transformación de la casa de sus sueños. Los hermanos utilizan tecnología de punta digital para revelar los planes de una propiedad tras la renovación.(n)</desc>
+    <rating system="CL">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220903100000 -0400" stop="20220903140000 -0400" channel="TVN">
+    <title lang="es">Buen finde en TVN</title>
+    <desc lang="es">Un recorrido por el país en busca de historias únicas, para conectar realidades desde lo local a lo nacional, abordando también la contingencia de una manera simple y amena.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220903140000 -0400" stop="20220903160000 -0400" channel="TVN">
+    <title lang="es">24 Tarde</title>
+    <desc lang="es">La información más relevante a nivel internacional, nacional y regional.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220903160000 -0400" stop="20220903195000 -0400" channel="TVN">
+    <title lang="es">Sucupira</title>
+    <desc lang="es">La gente del pequeño pueblo de Sucupira todavía cree en una leyenda sobre una mujer que emerge del mar para enamorar a los hombres y llevarlos a su mundo. Los que han sobrevivido dicen que la hija del alcalde tiene el mismo rostro.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220903195000 -0400" stop="20220903211500 -0400" channel="TVN">
+    <title lang="es">Zona de encuentro</title>
+    <desc lang="es">Una franja dedicada al entretenimiento que busca celebrar la diversidad chilena.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220903211500 -0400" stop="20220903220000 -0400" channel="TVN">
+    <title lang="es">Chile Intimo</title>
+    <desc lang="es">Excelente serie documental nacional que cuenta la historia de Chile desde una mirada diferente.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220903220000 -0400" stop="20220903233000 -0400" channel="TVN">
+    <title lang="es">24 horas central</title>
+    <desc lang="es">La información de mayor importancia internacional, nacional y regional.(n)</desc>
+    <rating system="CL">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220903233500 -0400" stop="20220903235900 -0400" channel="TVN">
+    <title lang="es">Sandro de América</title>
+    <desc lang="es">La historia de cómo una guitarra convirtió a Roberto Sánchez en Sandro, una leyenda popular que con su carisma y talento musical lo llevaron a superar las más difíciles circunstancias en su vida, superando la pobreza y los prejuicios.-- Changed stoptime! --.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220903004500 -0500" stop="20220903011500 -0500" channel="Caracol TV (COL)">
+    <title lang="es">El diario de Diana</title>
+    <desc lang="es">Junto a entrevistas a diferentes expertos, lecciones sobre cómo armonizar todas las áreas de la vida, manejar las emociones y cambiar creencias para entender la felicidad como una oportunidad de vivir a plenitud.(n)</desc>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220903011500 -0500" stop="20220903041500 -0500" channel="Caracol TV (COL)">
+    <title lang="es">También caerás</title>
+    <desc lang="es">Este programa de humor es un espacio abierto a la alegría y la espontaneidad, que lleva las cámaras escondidas a otro nivel. La gente común y corriente se convierte en protagonista de situaciones divertidas, inusuales y hasta aterrorizantes.(n)</desc>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220903041500 -0500" stop="20220903050000 -0500" channel="Caracol TV (COL)">
+    <title lang="es">También caerás</title>
+    <desc lang="es">Este programa de humor es un espacio abierto a la alegría y la espontaneidad, que lleva las cámaras escondidas a otro nivel. La gente común y corriente se convierte en protagonista de situaciones divertidas, inusuales y hasta aterrorizantes.(n)</desc>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220903050000 -0500" stop="20220903060000 -0500" channel="Caracol TV (COL)">
+    <title lang="es">La finca de hoy</title>
+    <desc lang="es">Programa dedicado a la producción agropecuaria, economía campesina, tecnología, investigación, sanidad y muchos temas más, relacionados con el campo y su gente.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220903060000 -0500" stop="20220903070000 -0500" channel="Caracol TV (COL)">
+    <title lang="es">Los cuentos de los hermanos Grimm</title>
+    <desc lang="es">Una narración de los célebres cuentos clásicos infantiles de los hermanos Grimm.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220903070000 -0500" stop="20220903073000 -0500" channel="Caracol TV (COL)">
+    <title lang="es">Doble vía</title>
+    <desc lang="es">Un espacio del Defensor del Televidente en el que se expresan los diferentes puntos de vista de los espectadores acerca de la programación que se emite en el canal con el fin de brindar una televisión responsable y de calidad.(n)</desc>
+    <rating system="CO">
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220903073000 -0500" stop="20220903084000 -0500" channel="Caracol TV (COL)">
+    <title lang="es">Los cuentos de los hermanos Grimm</title>
+    <desc lang="es">Una narración de los célebres cuentos clásicos infantiles de los hermanos Grimm.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220903084000 -0500" stop="20220903103000 -0500" channel="Caracol TV (COL)">
+    <title lang="es">Vuelta a España 2022</title>
+    <title lang="es">2022 Vuelta a España - Stage 14: Montoro to Sierra de la Pandera</title>
+    <sub-title lang="es">Etapa 14</sub-title>
+    <desc lang="es">Trayecto de Montoro a Sierra de la Pandera (160.3 km).(n)</desc>
+    <date>2022</date>
+    <category lang="es">Series</category>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220903103000 -0500" stop="20220903123000 -0500" channel="Caracol TV (COL)">
+    <title lang="es">Swallows and Amazons</title>
+    <desc lang="es">Los niños Walker obtienen permiso para acampar en una isla en el medio de un gran lago. Cuando llegan al lugar, deberán luchar contra una banda de jóvenes por el control de la isla.(n)</desc>
+    <date>2016</date>
+    <category lang="es">Drama</category>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220903123000 -0500" stop="20220903150000 -0500" channel="Caracol TV (COL)">
+    <title lang="es">Noticias Caracol: Fin de semana</title>
+    <desc lang="es">Los hechos que son noticia, en compañía de un excelente equipo periodístico.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220903150000 -0500" stop="20220903180000 -0500" channel="Caracol TV (COL)">
+    <title lang="es">La red</title>
+    <desc lang="es">Los chismes, la información más detallada de los famosos de la farándula y lo que está sucediendo en el mundo del entretenimiento, son transmitidos en este espacio en que se revela lo más íntimo y secreto de las estrellas y sus escándalos.(n)</desc>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220903180000 -0500" stop="20220903190000 -0500" channel="Caracol TV (COL)">
+    <title lang="es">Se dice de mí</title>
+    <desc lang="es">Un programa que muestra la historia de vida y trayectoria de cantantes, deportistas, actores y presentadores, donde hablan sobre los aspectos positivos y negativos de sus vidas.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220903190000 -0500" stop="20220903200000 -0500" channel="Caracol TV (COL)">
+    <title lang="es">Noticias Caracol: Fin de semana</title>
+    <desc lang="es">Los hechos que son noticia, en compañía de un excelente equipo periodístico.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220903200000 -0500" stop="20220903220000 -0500" channel="Caracol TV (COL)">
+    <title lang="es">Sábados felices</title>
+    <desc lang="es">El legendario programa televisivo presenta en sus segmentos característicos, una gama variada de estilos de comedia, cuenta chistes, parodias originales, caracterizaciones de importantes personalidades, cuenteros y troveros.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220903220000 -0500" stop="20220903230000 -0500" channel="Caracol TV (COL)">
+    <title lang="es">Sábados felices</title>
+    <desc lang="es">El legendario programa televisivo presenta en sus segmentos característicos, una gama variada de estilos de comedia, cuenta chistes, parodias originales, caracterizaciones de importantes personalidades, cuenteros y troveros.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220903230000 -0500" stop="20220904000000 -0500" channel="Caracol TV (COL)">
+    <title lang="es">Entre ojos</title>
+    <desc lang="es">Un espacio que profundiza en diversos personajes y hechos reales, para hacerlos públicos y trascendentes a partir de material documental y de archivo.(n)</desc>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220903010000 -0500" stop="20220903020000 -0500" channel="RCN Novelas">
+    <title lang="es">Francisco, el matemático</title>
+  </programme>
+  <programme start="20220903020000 -0500" stop="20220903030000 -0500" channel="RCN Novelas">
+    <title lang="es">Te quiero Pecas</title>
+  </programme>
+  <programme start="20220903030000 -0500" stop="20220903040000 -0500" channel="RCN Novelas">
+    <title lang="es">Garzón</title>
+  </programme>
+  <programme start="20220903040000 -0500" stop="20220903050000 -0500" channel="RCN Novelas">
+    <title lang="es">No olvidaras mi nombre</title>
+  </programme>
+  <programme start="20220903050000 -0500" stop="20220903090000 -0500" channel="RCN Novelas">
+    <title lang="es">No olvidaras mi nombre</title>
+  </programme>
+  <programme start="20220903090000 -0500" stop="20220903140000 -0500" channel="RCN Novelas">
+    <title lang="es">Doña Bella</title>
+  </programme>
+  <programme start="20220903140000 -0500" stop="20220903190000 -0500" channel="RCN Novelas">
+    <title lang="es">Francisco, el matemático</title>
+  </programme>
+  <programme start="20220903190000 -0500" stop="20220904000000 -0500" channel="RCN Novelas">
+    <title lang="es">Garzón</title>
+  </programme>
+  <programme start="20220903000000 +0000" stop="20220903020000 +0000" channel="UniMás">
+    <title lang="en">Enamorándonos (live)</title>
+    <sub-title lang="en">09-02-2022</sub-title>
+    <date>2022</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220903020000 +0000" stop="20220903030000 +0000" channel="UniMás">
+    <title lang="en">Reto 4 Elementos, Naturaleza Extrema (new)</title>
+    <sub-title lang="en">09-01-2022</sub-title>
+    <date>2022</date>
+    <premiere />
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220903030000 +0000" stop="20220903040000 +0000" channel="UniMás">
+    <title lang="en">Faisy Nights (new)</title>
+    <sub-title lang="en">09-02-2022</sub-title>
+    <date>2021</date>
+    <premiere />
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220903040000 +0000" stop="20220903043000 +0000" channel="UniMás">
+    <title lang="en">Una Familia de Diez</title>
+    <date>2007</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220903043000 +0000" stop="20220903050000 +0000" channel="UniMás">
+    <title lang="en">Goin' Loco</title>
+    <sub-title lang="en">09-02-2022</sub-title>
+    <date>2017</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220903050000 +0000" stop="20220903053000 +0000" channel="UniMás">
+    <title lang="en">Nosotros los Guapos</title>
+    <sub-title lang="en">06-15-2021</sub-title>
+    <date>2016</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220903053000 +0000" stop="20220903060000 +0000" channel="UniMás">
+    <title lang="en">Nosotros Los Guapos</title>
+    <sub-title lang="en">07-04-2021</sub-title>
+    <date>2016</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220903060000 +0000" stop="20220903070000 +0000" channel="UniMás">
+    <title lang="en">Esta historia me suena</title>
+    <sub-title lang="en">Mujer contra mujer</sub-title>
+    <desc lang="en">Karen una adolescente de origen humilde y buenos valores, becada en las mejores instituciones, tiene un gran secreto, es lesbiana y está enamorada de su mejor amiga, Alexa estudiosa, de buena posición económica y presionada por sus papás para ser la mejor.(n)</desc>
+    <date>2020</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220903070000 +0000" stop="20220903073000 +0000" channel="UniMás">
+    <title lang="en">Programa Pagado</title>
+    <date>2021</date>
+  </programme>
+  <programme start="20220903073000 +0000" stop="20220903080000 +0000" channel="UniMás">
+    <title lang="en">Programa Pagado</title>
+    <date>2021</date>
+  </programme>
+  <programme start="20220903080000 +0000" stop="20220903083000 +0000" channel="UniMás">
+    <title lang="en">Programa Pagado</title>
+    <date>2021</date>
+  </programme>
+  <programme start="20220903083000 +0000" stop="20220903090000 +0000" channel="UniMás">
+    <title lang="en">Programa Pagado</title>
+    <date>2021</date>
+  </programme>
+  <programme start="20220903090000 +0000" stop="20220903100000 +0000" channel="UniMás">
+    <title lang="en">Veredicto Final</title>
+    <sub-title lang="en">08-08-2021</sub-title>
+    <date>2007</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220903100000 +0000" stop="20220903103000 +0000" channel="UniMás">
+    <title lang="en">Programa Pagado</title>
+    <date>2021</date>
+  </programme>
+  <programme start="20220903103000 +0000" stop="20220903110000 +0000" channel="UniMás">
+    <title lang="en">Programa Pagado</title>
+    <date>2021</date>
+  </programme>
+  <programme start="20220903110000 +0000" stop="20220903113000 +0000" channel="UniMás">
+    <title lang="en">Programa Pagado</title>
+    <date>2021</date>
+  </programme>
+  <programme start="20220903113000 +0000" stop="20220903120000 +0000" channel="UniMás">
+    <title lang="en">Programa Pagado</title>
+    <date>2021</date>
+  </programme>
+  <programme start="20220903120000 +0000" stop="20220903123000 +0000" channel="UniMás">
+    <title lang="en">Vecinos</title>
+    <date>2005</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220903123000 +0000" stop="20220903130000 +0000" channel="UniMás">
+    <title lang="en">Vecinos</title>
+    <sub-title lang="en">09-03-2022</sub-title>
+    <date>2005</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220903130000 +0000" stop="20220903133000 +0000" channel="UniMás">
+    <title lang="en">Una Familia de Diez</title>
+    <date>2007</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220903133000 +0000" stop="20220903140000 +0000" channel="UniMás">
+    <title lang="en">Una Familia de Diez</title>
+    <date>2007</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220903140000 +0000" stop="20220903150000 +0000" channel="UniMás">
+    <title lang="en">Como Dice el Dicho (new)</title>
+    <date>2011</date>
+    <premiere />
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220903150000 +0000" stop="20220903153000 +0000" channel="UniMás">
+    <title lang="en">Programa Pagado</title>
+    <date>2021</date>
+  </programme>
+  <programme start="20220903153000 +0000" stop="20220903160000 +0000" channel="UniMás">
+    <title lang="en">Programa Pagado</title>
+    <date>2021</date>
+  </programme>
+  <programme start="20220903160000 +0000" stop="20220903163000 +0000" channel="UniMás">
+    <title lang="en">Programa Pagado</title>
+    <date>2021</date>
+  </programme>
+  <programme start="20220903163000 +0000" stop="20220903170000 +0000" channel="UniMás">
+    <title lang="en">Programa Pagado</title>
+    <date>2021</date>
+  </programme>
+  <programme start="20220903170000 +0000" stop="20220903190000 +0000" channel="UniMás">
+    <title lang="en">Shockwave: Countdown to Disaster</title>
+    <desc lang="en">La geofísica Kate Ferris se encuentra en una carrera contra reloj para salvar el planeta. Pero primero debe convencer al Departamento de Defensa de los Estados Unidos del grave peligro al que se enfrentan. El gobierno no toma dimensión de las consecuencias que generan los robots militares estrellados en una isla desierta del Pacífico. Sólo encontrar un dispositivo tecnológico permitirá evitar el desastre.(n)</desc>
+    <date>2017</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220903190000 +0000" stop="20220903210000 +0000" channel="UniMás">
+    <title lang="en">End Of The World</title>
+    <desc lang="en">Una familia busca desesperadamente la salida ante un evento apocalíptico. Una serie de desastres naturales invadirá nuestro mundo, por lo que los protagonistas buscarán refugiarse de inundaciones, tsunamis y erupciones volcánicas.(n)</desc>
+    <date>2018</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220903210000 +0000" stop="20220903223000 +0000" channel="UniMás">
+    <title lang="en">Piranha 3DD</title>
+    <desc lang="en">Después de un terremoto en el Lago Victoria, un pueblo ve como un grupo de pirañas se abren paso a través de las tuberías llegando a un parque acuático nuevamente abierto.(n)</desc>
+    <date>2012</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220903223000 +0000" stop="20220904003000 +0000" channel="UniMás">
+    <title lang="en">Age of Dinosaurs (new)</title>
+    <desc lang="en">A firefighter must rescue his daughter from newly regenerated dinosaurs. (new).(n)</desc>
+    <credits>
+      <director>Joseph J.  Lawson</director>
+      <director>Joseph Lawson</director>
+      <actor role="Technican Rosario">Kelly V. Dolan</actor>
+      <actor role="Background">Henry Bonilla</actor>
+      <writer>Hank Woon</writer>
+      <producer>David Michael Latt</producer>
+      <composer>Chris Ridenhour</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Action &amp; Adventure</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://content.internetvideoarchive.com/content/photos/8325/377998_031.jpg" />
+    <premiere />
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
   </programme>
 </tv>
