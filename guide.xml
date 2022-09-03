@@ -22,7 +22,7 @@
   <channel id="TVN">
     <display-name lang="es">TVN (CHI)</display-name>
     <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/149.png" />
-    <url>http://www.directv.cl</url>
+    <url>http://www.directv.com.cl</url>
   </channel>
   <channel id="Caracol TV (COL)">
     <display-name lang="es">Caracol TV (COL)</display-name>
@@ -36,6 +36,10 @@
   <channel id="UniMás">
     <display-name lang="en">UniMás</display-name>
     <url>http://www.tvguide.com</url>
+  </channel>
+  <channel id="LOVE NATURE">
+    <display-name lang="es">LOVE NATURE</display-name>
+    <url>http://www.startvmexico.com</url>
   </channel>
   <programme start="20220903050000 +0000" stop="20220903053000 +0000" channel="Dreamworks">
     <title lang="es">La escuela del terror de Casper</title>
