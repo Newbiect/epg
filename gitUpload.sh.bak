@@ -2,4 +2,4 @@ cd \Users\Ra1s3\.Warlin\Guia
 git add .
 git commit -m "first commit"
 git remote add origin https://github.com/warlinct/epg.git
-git push -u origin master
+git push --force origin master
