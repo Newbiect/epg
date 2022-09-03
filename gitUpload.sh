@@ -1,4 +1,4 @@
-cd \Users\Ra1s3\.Warlin\Guia
+chmod +x /home/user/scripts/someScript
 git add .
 git commit -m "first commit"
 git remote add origin https://github.com/warlinct/epg.git
