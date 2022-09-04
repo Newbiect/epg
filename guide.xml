@@ -2,7 +2,6 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="Dreamworks">
     <display-name lang="es">Dreamworks</display-name>
-    <icon src="https://www.izzi.mx/bcanales/img/canal936.png" />
     <url>http://www.izzi.mx</url>
   </channel>
   <channel id="Curiosity Stream">
@@ -16,7 +15,6 @@
   </channel>
   <channel id="Telehit Musica">
     <display-name lang="es">Telehit Musica</display-name>
-    <icon src="https://www.izzi.mx/bcanales/img/canal237.png" />
     <url>http://www.izzi.mx</url>
   </channel>
   <channel id="TVN">
@@ -39,1144 +37,347 @@
   </channel>
   <channel id="LOVE NATURE">
     <display-name lang="es">LOVE NATURE</display-name>
+    <icon src="https://www.reportv.com.ar/buscador/img/Logos/12572335.jpg" />
     <url>http://www.startvmexico.com</url>
   </channel>
-  <programme start="20220903050000 +0000" stop="20220903053000 +0000" channel="Dreamworks">
-    <title lang="es">La escuela del terror de Casper</title>
-    <desc lang="es">Casper es el único estudiante que recupera sus poderes. Casper encuentra ayuda para desafiar a Razznik.(n)</desc>
+  <programme start="20220904052700 +0000" stop="20220904070100 +0000" channel="Sony Movies">
+    <title lang="es">Los 6 mandamientos de la risa</title>
+    <desc lang="es">Se presentan situaciones divertidas donde los billetes de lotería pueden hacer que la conducta de las personas cambie al momento de ganar el premio mayor.(n)</desc>
     <credits>
-      <actor>Vanessa Bellardini</actor>
-    </credits>
-    <icon src="http://demo.tmsimg.com/assets/p217722_b_h10_ak.jpg" />
-    <country lang="es">USA</country>
-  </programme>
-  <programme start="20220903053000 +0000" stop="20220903060000 +0000" channel="Dreamworks">
-    <title lang="es">La escuela del terror de Casper</title>
-    <desc lang="es">Casper se entera de que un fantasma está robando obras de arte del museo. Casper necesita encontrar una cura para la gripe del profesor Thurdigree Burns.(n)</desc>
-    <credits>
-      <actor>Vanessa Bellardini</actor>
-    </credits>
-    <icon src="http://demo.tmsimg.com/assets/p217722_b_h10_ak.jpg" />
-    <country lang="es">USA</country>
-  </programme>
-  <programme start="20220903060000 +0000" stop="20220903063000 +0000" channel="Dreamworks">
-    <title lang="es">El show de Peabody y Sherman</title>
-    <desc lang="es">Peabody quiere hacer un programa especial sobre los discos de vinilo mientras Sherman quiere establecer un récord mundial. Además, cuando las famosas estatuas de la Isla de Pascua cobran vida, está claro que el rey Hotu Matua tiene algo que ocultar.(n)</desc>
-    <credits>
-      <actor>Chris Parnell</actor>
-      <actor>Max Charles</actor>
-    </credits>
-    <icon src="http://demo.tmsimg.com/assets/p12026758_b_h10_ax.jpg" />
-    <country lang="es">USA</country>
-  </programme>
-  <programme start="20220903063000 +0000" stop="20220903070000 +0000" channel="Dreamworks">
-    <title lang="es">El show de Peabody y Sherman</title>
-    <desc lang="es">Sherman lucha por permanecer despierto durante el espectáculo. Además, por una superstición, el luchador de sumo, Akashi Shiganosuke, decide convertirse en un bailarín de Kabuki.(n)</desc>
-    <credits>
-      <actor>Chris Parnell</actor>
-      <actor>Max Charles</actor>
-    </credits>
-    <icon src="http://demo.tmsimg.com/assets/p12026758_b_h10_ax.jpg" />
-    <country lang="es">USA</country>
-  </programme>
-  <programme start="20220903070000 +0000" stop="20220903073000 +0000" channel="Dreamworks">
-    <title lang="es">Turbo FAST</title>
-    <desc lang="es">Turbo y su equipo se van a San Diego al tercer congreso de velocidad para aficionados. Allí un fan entusiasta rapta a Turbo; Turbo organiza una carrera muy especial, y todos sus enemigos se han apuntado, hasta Guy Gagne.(n)</desc>
-    <credits>
-      <actor>Reid Scott</actor>
-      <actor>Eric Bauza</actor>
-      <actor>Mike Bell</actor>
-      <actor>John Bentley</actor>
-      <actor>Grey DeLisle-Griffin</actor>
-      <actor>Phil LaMarr</actor>
-    </credits>
-    <icon src="http://demo.tmsimg.com/assets/p10389801_b_h10_ac.jpg" />
-    <country lang="es">USA</country>
-  </programme>
-  <programme start="20220903073000 +0000" stop="20220903080000 +0000" channel="Dreamworks">
-    <title lang="es">Turbo FAST</title>
-    <desc lang="es">Una polilla lee el futuro y predice la fortuna de Chicotazo. Derrapón intenta cambiar su comportamiento.(n)</desc>
-    <credits>
-      <actor>Reid Scott</actor>
-      <actor>Eric Bauza</actor>
-      <actor>Mike Bell</actor>
-      <actor>John Bentley</actor>
-      <actor>Grey DeLisle-Griffin</actor>
-      <actor>Phil LaMarr</actor>
-    </credits>
-    <icon src="http://demo.tmsimg.com/assets/p10389801_b_h10_ac.jpg" />
-    <country lang="es">USA</country>
-  </programme>
-  <programme start="20220903080000 +0000" stop="20220903083000 +0000" channel="Dreamworks">
-    <title lang="es">VeggieTales: en casa</title>
-    <desc lang="es">Bob es golpeado por el rayo de Larry, lo que le hace escribir un discurso tonto para el alcalde Archibald. Mientras está de viaje de campamento, Bob intenta tener todos los S'mores para él después del desastre del campamento del año pasado.(n)</desc>
-    <credits>
-      <actor>Mike Nawrocki</actor>
-      <actor>Phil Vischer</actor>
-      <actor>Tress MacNeille</actor>
-      <actor>Rob Paulsen</actor>
-    </credits>
-    <icon src="http://demo.tmsimg.com/assets/p11301242_b_h10_ac.jpg" />
-    <country lang="es">USA</country>
-  </programme>
-  <programme start="20220903083000 +0000" stop="20220903090000 +0000" channel="Dreamworks">
-    <title lang="es">VeggieTales: en casa</title>
-    <desc lang="es">Petunia recibe accidentalmente un camión monstruo y le preocupa que no funcione para ella. La posición del alcalde Archibald corre peligro: Tom Celeriac decide postularse para su puesto.(n)</desc>
-    <credits>
-      <actor>Mike Nawrocki</actor>
-      <actor>Phil Vischer</actor>
-      <actor>Tress MacNeille</actor>
-      <actor>Rob Paulsen</actor>
-    </credits>
-    <icon src="http://demo.tmsimg.com/assets/p11301242_b_h10_ac.jpg" />
-    <country lang="es">USA</country>
-  </programme>
-  <programme start="20220903090000 +0000" stop="20220903093000 +0000" channel="Dreamworks">
-    <title lang="es">Viva el rey Julien</title>
-    <desc lang="es">Tío rey Julien le cede la corona a su sobrino, el príncipe Julien. ¡Que empiece el reino del rey Julien XIII!(n)</desc>
-    <credits>
-      <actor>Danny Jacobs</actor>
-      <actor>Kevin Richardson</actor>
-      <actor>India de Beaufort</actor>
-      <actor>Andy Richter</actor>
-      <actor>Henry Winkler</actor>
-    </credits>
-    <icon src="http://demo.tmsimg.com/assets/p11233187_b_h10_ai.jpg" />
-    <country lang="es">USA</country>
-  </programme>
-  <programme start="20220903093000 +0000" stop="20220903100000 +0000" channel="Dreamworks">
-    <title lang="es">Las aventuras del Gato con Botas</title>
-    <desc lang="es">Jack Spratt convence a Gato para excavar en búsqueda de un tesoro que podría usar para reconstruir la ciudad. Sin embargo, Gato y Jack tendrán que vérselas con el Rey Topo y su guardia.(n)</desc>
-    <credits>
-      <actor>Eric Bauza</actor>
-      <actor>Jayma Mays</actor>
-      <actor>Laraine Newman</actor>
-      <actor>Joshua Rush</actor>
-    </credits>
-    <icon src="http://demo.tmsimg.com/assets/p11401268_b_h10_an.jpg" />
-    <country lang="es">USA</country>
-  </programme>
-  <programme start="20220903100000 +0000" stop="20220903103000 +0000" channel="Dreamworks">
-    <title lang="es">Trolls: ¡No pierdas el ritmo!</title>
-    <desc lang="es">Un trozo de arcoíris cae como un meteorito y hay que arreglarlo antes de que caiga entero y acabe con todo. Branch y Nube irán a arreglarlo.(n)</desc>
-    <credits>
-      <actor>Skylar Astin</actor>
-      <actor>Amanda Leighton</actor>
-      <actor>Ron Funches</actor>
-      <actor>David Fynn</actor>
-      <actor>David Koechner</actor>
-      <actor>David Kaye</actor>
-    </credits>
-    <icon src="http://demo.tmsimg.com/assets/p14940594_b_h10_bb.jpg" />
-    <country lang="es">USA</country>
-  </programme>
-  <programme start="20220903103000 +0000" stop="20220903110000 +0000" channel="Dreamworks">
-    <title lang="es">Trolls: ¡No pierdas el ritmo!</title>
-    <desc lang="es">Cuando Cooper le pierde el rastro a Guy Diamond en un bosque, Poppy y Branch lo ayudan a volver sobre sus pasos. Poppy promete recrear el postre favorito de Branch a cualquier precio.(n)</desc>
-    <credits>
-      <actor>Skylar Astin</actor>
-      <actor>Amanda Leighton</actor>
-      <actor>Ron Funches</actor>
-      <actor>David Fynn</actor>
-      <actor>David Koechner</actor>
-      <actor>David Kaye</actor>
-    </credits>
-    <icon src="http://demo.tmsimg.com/assets/p14940594_b_h10_bb.jpg" />
-    <country lang="es">USA</country>
-  </programme>
-  <programme start="20220903110000 +0000" stop="20220903113000 +0000" channel="Dreamworks">
-    <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
-    <desc lang="es">Los constantes berrinches del peor bebé del mundo alteran a todo el vecindario. El equipo de operaciones de Bebé-Corp intentará revertir la crisis.(n)</desc>
-    <credits>
-      <actor>JP Karliak</actor>
-      <actor>Pierce Gagnon</actor>
-      <actor>Kevin Richardson</actor>
-      <actor>Eric Bell Jr.</actor>
-      <actor>Flula Borg</actor>
-      <actor>Alex Cazares</actor>
-    </credits>
-    <icon src="http://demo.tmsimg.com/assets/p15289801_b_h8_ar.jpg" />
-    <country lang="es">USA</country>
-  </programme>
-  <programme start="20220903113000 +0000" stop="20220903120000 +0000" channel="Dreamworks">
-    <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
-    <desc lang="es">La competencia por ser el más adorable se intensifica cuando un gatito callejero llega a casa de los Templeton y la familia decide adoptarlo.(n)</desc>
-    <credits>
-      <actor>JP Karliak</actor>
-      <actor>Pierce Gagnon</actor>
-      <actor>Kevin Richardson</actor>
-      <actor>Eric Bell Jr.</actor>
-      <actor>Flula Borg</actor>
-      <actor>Alex Cazares</actor>
-    </credits>
-    <icon src="http://demo.tmsimg.com/assets/p15289801_b_h8_ar.jpg" />
-    <country lang="es">USA</country>
-  </programme>
-  <programme start="20220903120000 +0000" stop="20220903123000 +0000" channel="Dreamworks">
-    <title lang="es">Las épicas aventuras del Capitán Calzoncillos</title>
-    <desc lang="es">George y Harold se vengan de su profesor de Gimnasia, pero la broma recae sobre ellos porque, a veces, la vida imita el arte.(n)</desc>
-    <credits>
-      <actor>Nat Faxon</actor>
-      <actor>Jay Gragnani</actor>
-      <actor>Ramone Hamilton</actor>
-      <actor>David Koechner</actor>
-      <actor>Tress MacNeille</actor>
-      <actor>Laraine Newman</actor>
-    </credits>
-    <icon src="http://demo.tmsimg.com/assets/p15656016_b_h8_ad.jpg" />
-    <country lang="es">USA</country>
-  </programme>
-  <programme start="20220903123000 +0000" stop="20220903130000 +0000" channel="Dreamworks">
-    <title lang="es">Las épicas aventuras del Capitán Calzoncillos</title>
-    <desc lang="es">Un baile escolar suena divertido, pero solo si los chicos pueden evitar que su aburrida profesora de Música sea la DJ.(n)</desc>
-    <credits>
-      <actor>Nat Faxon</actor>
-      <actor>Jay Gragnani</actor>
-      <actor>Ramone Hamilton</actor>
-      <actor>David Koechner</actor>
-      <actor>Tress MacNeille</actor>
-      <actor>Laraine Newman</actor>
-    </credits>
-    <icon src="http://demo.tmsimg.com/assets/p15656016_b_h8_ad.jpg" />
-    <country lang="es">USA</country>
-  </programme>
-  <programme start="20220903130000 +0000" stop="20220903133000 +0000" channel="Dreamworks">
-    <title lang="es">Viva el rey Julien</title>
-    <desc lang="es">Tío rey Julien le cede la corona a su sobrino, el príncipe Julien. ¡Que empiece el reino del rey Julien XIII!(n)</desc>
-    <credits>
-      <actor>Danny Jacobs</actor>
-      <actor>Kevin Richardson</actor>
-      <actor>India de Beaufort</actor>
-      <actor>Andy Richter</actor>
-      <actor>Henry Winkler</actor>
-    </credits>
-    <icon src="http://demo.tmsimg.com/assets/p11233187_b_h10_ai.jpg" />
-    <country lang="es">USA</country>
-  </programme>
-  <programme start="20220903133000 +0000" stop="20220903140000 +0000" channel="Dreamworks">
-    <title lang="es">Viva el rey Julien</title>
-    <desc lang="es">El rey Julien sabe que el 99 de los lémures lo ama, así que está dispuesto a encontrar a su único detractor para convertirlo en admirador.(n)</desc>
-    <credits>
-      <actor>Danny Jacobs</actor>
-      <actor>Kevin Richardson</actor>
-      <actor>India de Beaufort</actor>
-      <actor>Andy Richter</actor>
-    </credits>
-    <icon src="http://demo.tmsimg.com/assets/p11233187_b_h10_ai.jpg" />
-    <country lang="es">USA</country>
-  </programme>
-  <programme start="20220903140000 +0000" stop="20220903143000 +0000" channel="Dreamworks">
-    <title lang="es">Voltron: El defensor legendario</title>
-    <desc lang="es">Lance, Pidge y Shiro se infiltran en la Estación Espacial para liberar a un prisionero de los Galra, Slav. Lance y Shiro creen que han encontrado al recluso correcto, pero existen dos celdas y deben liberar a ambos presos.(n)</desc>
-    <credits>
-      <actor>Kimberly Brooks</actor>
-      <actor>Rhys Darby</actor>
-      <actor>Josh Keaton</actor>
-      <actor>Tyler Labine</actor>
-      <actor>Jeremy Shada</actor>
-      <actor>Bex Taylor-Klaus</actor>
-    </credits>
-    <icon src="http://demo.tmsimg.com/assets/p12753088_b_h10_ar.jpg" />
-    <country lang="es">USA</country>
-  </programme>
-  <programme start="20220903143000 +0000" stop="20220903150000 +0000" channel="Dreamworks">
-    <title lang="es">Voltron: El defensor legendario</title>
-    <desc lang="es">Allura viaja a Balmera para adquirir un poderoso cristal, pero la visita de una malvada bestia la impulsa a pedir ayuda a los Paladines, que luchan con las nuevas armas de Voltron.(n)</desc>
-    <credits>
-      <actor>Kimberly Brooks</actor>
-      <actor>Rhys Darby</actor>
-      <actor>Josh Keaton</actor>
-      <actor>Tyler Labine</actor>
-      <actor>Jeremy Shada</actor>
-      <actor>Bex Taylor-Klaus</actor>
-    </credits>
-    <icon src="http://demo.tmsimg.com/assets/p12753088_b_h10_ar.jpg" />
-    <country lang="es">USA</country>
-  </programme>
-  <programme start="20220903150000 +0000" stop="20220903153000 +0000" channel="Dreamworks">
-    <title lang="es">She-ra y las princesas del poder</title>
-    <desc lang="es">Catra busca a Shadow Weaver mientras Adora y Glimmer siguen a Bow hasta su hogar y descubren que le ha mentido a su familia.(n)</desc>
-    <credits>
-      <actor>Aimee Carrero</actor>
-      <actor>Karen Fukuhara</actor>
-      <actor>AJ Michalka</actor>
-      <actor>Marcus Scribner</actor>
-      <actor>Reshma Shetty</actor>
-      <actor>Lorraine Toussaint</actor>
-    </credits>
-    <icon src="http://demo.tmsimg.com/assets/p15741494_b_h8_ac.jpg" />
-    <country lang="es">USA</country>
-  </programme>
-  <programme start="20220903153000 +0000" stop="20220903160000 +0000" channel="Dreamworks">
-    <title lang="es">She-ra y las princesas del poder</title>
-    <desc lang="es">Shadow Weaver se niega a hablar con nadie más que con Adora. Catra espera el castigo; Entrapta empuja a Hordak a trabajar en el proyecto del portal.(n)</desc>
-    <credits>
-      <actor>Aimee Carrero</actor>
-      <actor>Karen Fukuhara</actor>
-      <actor>AJ Michalka</actor>
-      <actor>Marcus Scribner</actor>
-      <actor>Reshma Shetty</actor>
-      <actor>Lorraine Toussaint</actor>
-    </credits>
-    <icon src="http://demo.tmsimg.com/assets/p15741494_b_h8_ac.jpg" />
-    <country lang="es">USA</country>
-  </programme>
-  <programme start="20220903160000 +0000" stop="20220903163000 +0000" channel="Dreamworks">
-    <title lang="es">Las aventuras del Gato con Botas</title>
-    <desc lang="es">Gato entrena a los huérfanos para que puedan defender la ciudad de sus enemigos en su ausencia. La brigada se pone a prueba cuando Gato es secuestrado por Moco, el terrible.(n)</desc>
-    <credits>
-      <actor>Eric Bauza</actor>
-      <actor>Jayma Mays</actor>
-      <actor>Laraine Newman</actor>
-      <actor>Joshua Rush</actor>
-    </credits>
-    <icon src="http://demo.tmsimg.com/assets/p11401268_b_h10_an.jpg" />
-    <country lang="es">USA</country>
-  </programme>
-  <programme start="20220903163000 +0000" stop="20220903170000 +0000" channel="Dreamworks">
-    <title lang="es">Las aventuras del Gato con Botas</title>
-    <desc lang="es">Gato intenta recuperar el hechizo que protege San Lorenzo. Pero comete un error y pasan cosas raras en el taller.(n)</desc>
-    <credits>
-      <actor>Eric Bauza</actor>
-      <actor>Jayma Mays</actor>
-      <actor>Laraine Newman</actor>
-      <actor>Joshua Rush</actor>
-    </credits>
-    <icon src="http://demo.tmsimg.com/assets/p11401268_b_h10_an.jpg" />
-    <country lang="es">USA</country>
-  </programme>
-  <programme start="20220903170000 +0000" stop="20220903173000 +0000" channel="Dreamworks">
-    <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
-    <desc lang="es">Los constantes berrinches del peor bebé del mundo alteran a todo el vecindario. El equipo de operaciones de Bebé-Corp intentará revertir la crisis.(n)</desc>
-    <credits>
-      <actor>JP Karliak</actor>
-      <actor>Pierce Gagnon</actor>
-      <actor>Kevin Richardson</actor>
-      <actor>Eric Bell Jr.</actor>
-      <actor>Flula Borg</actor>
-      <actor>Alex Cazares</actor>
-    </credits>
-    <icon src="http://demo.tmsimg.com/assets/p15289801_b_h8_ar.jpg" />
-    <country lang="es">USA</country>
-  </programme>
-  <programme start="20220903173000 +0000" stop="20220903180000 +0000" channel="Dreamworks">
-    <title lang="es">Un jefe en pañales: De vuelta a los negocios</title>
-    <desc lang="es">La competencia por ser el más adorable se intensifica cuando un gatito callejero llega a casa de los Templeton y la familia decide adoptarlo.(n)</desc>
-    <credits>
-      <actor>JP Karliak</actor>
-      <actor>Pierce Gagnon</actor>
-      <actor>Kevin Richardson</actor>
-      <actor>Eric Bell Jr.</actor>
-      <actor>Flula Borg</actor>
-      <actor>Alex Cazares</actor>
-    </credits>
-    <icon src="http://demo.tmsimg.com/assets/p15289801_b_h8_ar.jpg" />
-    <country lang="es">USA</country>
-  </programme>
-  <programme start="20220903180000 +0000" stop="20220903183000 +0000" channel="Dreamworks">
-    <title lang="es">Las épicas aventuras del Capitán Calzoncillos</title>
-    <desc lang="es">George y Harold se vengan de su profesor de Gimnasia, pero la broma recae sobre ellos porque, a veces, la vida imita el arte.(n)</desc>
-    <credits>
-      <actor>Nat Faxon</actor>
-      <actor>Jay Gragnani</actor>
-      <actor>Ramone Hamilton</actor>
-      <actor>David Koechner</actor>
-      <actor>Tress MacNeille</actor>
-      <actor>Laraine Newman</actor>
-    </credits>
-    <icon src="http://demo.tmsimg.com/assets/p15656016_b_h8_ad.jpg" />
-    <country lang="es">USA</country>
-  </programme>
-  <programme start="20220903183000 +0000" stop="20220903190000 +0000" channel="Dreamworks">
-    <title lang="es">Las épicas aventuras del Capitán Calzoncillos</title>
-    <desc lang="es">Un baile escolar suena divertido, pero solo si los chicos pueden evitar que su aburrida profesora de Música sea la DJ.(n)</desc>
-    <credits>
-      <actor>Nat Faxon</actor>
-      <actor>Jay Gragnani</actor>
-      <actor>Ramone Hamilton</actor>
-      <actor>David Koechner</actor>
-      <actor>Tress MacNeille</actor>
-      <actor>Laraine Newman</actor>
-    </credits>
-    <icon src="http://demo.tmsimg.com/assets/p15656016_b_h8_ad.jpg" />
-    <country lang="es">USA</country>
-  </programme>
-  <programme start="20220903190000 +0000" stop="20220903193000 +0000" channel="Dreamworks">
-    <title lang="es">Harvey Girls Forever!</title>
-    <desc lang="es">Un mapa conduce a a Chiqui hasta un tesoro de juguetes abandonados. Lotta encuentra tres bebés mapache y decide adoptarlos.(n)</desc>
-    <credits>
-      <actor>Lauren Lapkus</actor>
-      <actor>Stephanie Lemelin</actor>
-      <actor>Kelly McCreary</actor>
-    </credits>
-    <icon src="http://demo.tmsimg.com/assets/p16847394_b_h10_ad.jpg" />
-    <country lang="es">USA</country>
-  </programme>
-  <programme start="20220903193000 +0000" stop="20220903200000 +0000" channel="Dreamworks">
-    <title lang="es">Harvey Girls Forever!</title>
-    <desc lang="es">Audrey declara la guerra cuando un niño de la Avenida le contagia los piojos. Dot no entiende por qué el Moño la dejó de lado de una misión secreta.(n)</desc>
-    <credits>
-      <actor>Lauren Lapkus</actor>
-      <actor>Stephanie Lemelin</actor>
-      <actor>Kelly McCreary</actor>
-    </credits>
-    <icon src="http://demo.tmsimg.com/assets/p16847394_b_h10_ad.jpg" />
-    <country lang="es">USA</country>
-  </programme>
-  <programme start="20220903200000 +0000" stop="20220903203000 +0000" channel="Dreamworks">
-    <title lang="es">Trolls: ¡No pierdas el ritmo!</title>
-    <desc lang="es">Un trozo de arcoíris cae como un meteorito y hay que arreglarlo antes de que caiga entero y acabe con todo. Branch y Nube irán a arreglarlo.(n)</desc>
-    <credits>
-      <actor>Skylar Astin</actor>
-      <actor>Amanda Leighton</actor>
-      <actor>Ron Funches</actor>
-      <actor>David Fynn</actor>
-      <actor>David Koechner</actor>
-      <actor>David Kaye</actor>
-    </credits>
-    <icon src="http://demo.tmsimg.com/assets/p14940594_b_h10_bb.jpg" />
-    <country lang="es">USA</country>
-  </programme>
-  <programme start="20220903203000 +0000" stop="20220903210000 +0000" channel="Dreamworks">
-    <title lang="es">Trolls: ¡No pierdas el ritmo!</title>
-    <desc lang="es">Cuando Cooper le pierde el rastro a Guy Diamond en un bosque, Poppy y Branch lo ayudan a volver sobre sus pasos. Poppy promete recrear el postre favorito de Branch a cualquier precio.(n)</desc>
-    <credits>
-      <actor>Skylar Astin</actor>
-      <actor>Amanda Leighton</actor>
-      <actor>Ron Funches</actor>
-      <actor>David Fynn</actor>
-      <actor>David Koechner</actor>
-      <actor>David Kaye</actor>
-    </credits>
-    <icon src="http://demo.tmsimg.com/assets/p14940594_b_h10_bb.jpg" />
-    <country lang="es">USA</country>
-  </programme>
-  <programme start="20220903210000 +0000" stop="20220903223000 +0000" channel="Dreamworks">
-    <title lang="es">Perros espaciales: Aventura a la luna</title>
-    <desc lang="es">Con la ayuda de su madre, un mono macho y un bebé extraterrestre, un perro astronauta se embarca en la búsqueda de su padre extraviado en la Luna.(n)</desc>
-    <credits>
-      <actor>Alicia Silverstone</actor>
-      <actor>Ashlee Simpson</actor>
-      <actor>Jim Meskimen</actor>
-      <actor>Samuel Witwer</actor>
-      <actor>Phil LaMarr</actor>
-      <actor>Lombardo Boyar</actor>
-    </credits>
-    <country lang="es">RUS</country>
-  </programme>
-  <programme start="20220903223000 +0000" stop="20220903230000 +0000" channel="Dreamworks">
-    <title lang="es">Home: las aventuras de Tip y Oh</title>
-    <desc lang="es">Como reina de la policía, Tip prohíbe todas las reglas, pero descubre por qué los buv las necesitan. Tip y Oh ayudan a Die-Anne a confrontar a su mamá.(n)</desc>
-    <credits>
-      <actor>Rachel Crow</actor>
-      <actor>Mark Whitten</actor>
-      <actor>Ana Ortiz</actor>
-      <actor>Ron Funches</actor>
-      <actor>Matt Jones</actor>
-    </credits>
-    <icon src="http://demo.tmsimg.com/assets/p12985101_b_h8_am.jpg" />
-    <country lang="es">USA</country>
-  </programme>
-  <programme start="20220903230000 +0000" stop="20220903233000 +0000" channel="Dreamworks">
-    <title lang="es">Home: las aventuras de Tip y Oh</title>
-    <desc lang="es">Tip choca con Krunkle durante un rodeo koobish. Oh llena a Tip de regalos por el aniversario de su amistad y ella deberá esforzarse para devolverle el gesto.(n)</desc>
-    <credits>
-      <actor>Rachel Crow</actor>
-      <actor>Mark Whitten</actor>
-      <actor>Ana Ortiz</actor>
-      <actor>Ron Funches</actor>
-      <actor>Matt Jones</actor>
-    </credits>
-    <icon src="http://demo.tmsimg.com/assets/p12985101_b_h8_am.jpg" />
-    <country lang="es">USA</country>
-  </programme>
-  <programme start="20220903233000 +0000" stop="20220904000000 +0000" channel="Dreamworks">
-    <title lang="es">Turbo FAST</title>
-    <desc lang="es">Turbo y Látigo son invitados a cenar a casa del Conde. Aunque llegan temiendo por sus vidas, pronto descubrirán que las intenciones del Conde son diferentes a las que ellos pensaban.(n)</desc>
-    <credits>
-      <actor>Reid Scott</actor>
-      <actor>Eric Bauza</actor>
-      <actor>Mike Bell</actor>
-      <actor>John Bentley</actor>
-      <actor>Grey DeLisle-Griffin</actor>
-      <actor>Phil LaMarr</actor>
-    </credits>
-    <icon src="http://demo.tmsimg.com/assets/p10389801_b_h10_ac.jpg" />
-    <country lang="es">USA</country>
-  </programme>
-  <programme start="20220903061200 +0000" stop="20220903085200 +0000" channel="Sony Movies">
-    <title lang="es">El callejón de los milagros</title>
-    <desc lang="es">En las calles de la agitada ciudad de México, las historias de un grupo de personas se mezclan y entrecruzan.(n)</desc>
-    <credits>
-      <actor>Ernesto Cruz</actor>
-      <actor>María Rojo</actor>
-      <actor>Salma Hayek</actor>
-      <actor>Bruno Bichir</actor>
-      <actor>Delia Casanova</actor>
-      <actor>Daniel Cacho</actor>
-    </credits>
-    <icon src="http://demo.tmsimg.com/assets/p22359_b_h10_aa.jpg" />
-    <country lang="es">MEX</country>
-  </programme>
-  <programme start="20220903085200 +0000" stop="20220903104100 +0000" channel="Sony Movies">
-    <title lang="es">Así del precipicio</title>
-    <desc lang="es">Tres amigas, una adicta a los excesos, otra atrapada en las drogas y una casada, pero insatisfecha, se unen en la búsqueda de la felicidad.(n)</desc>
-    <credits>
-      <actor>Ana de la Reguera</actor>
-      <actor>Ingrid Martz</actor>
-      <actor>Gabriela Platas</actor>
-      <actor>Miguel Rodarte</actor>
-      <actor>Roberto Medina</actor>
-      <actor>José Rodríguez</actor>
+      <actor>Charly Valentino</actor>
+      <actor>Roberto Ballesteros</actor>
+      <actor>César Bono</actor>
+      <actor>María Luisa Alcalá</actor>
+      <actor>Maribel Guardia</actor>
     </credits>
     <country lang="es">MEX</country>
   </programme>
-  <programme start="20220903104100 +0000" stop="20220903114300 +0000" channel="Sony Movies">
-    <title lang="es">Mirreyes contra Godínez</title>
-    <desc lang="es">Cuando el dueño de una zapatería muere, comienza una hilarante batalla entre los Mirreyes y los Godines para hacerse con el control de la empresa.(n)</desc>
+  <programme start="20220904070100 +0000" stop="20220904090000 +0000" channel="Sony Movies">
+    <title lang="es">Intriga contra México ¿Nos Traicionará el Presidente?</title>
+    <desc lang="es">Un país enfrenta una grave situación política derivada, principalmente, de los diversos intereses que se despiertan a raíz de la próxima designación del candidato presidencial de la República por parte del partido oficial.(n)</desc>
     <credits>
-      <actor>Roberto Aguire</actor>
-      <actor>Diana Bovio</actor>
-      <actor>Regina Blandón</actor>
-      <actor>Christian Vázquez</actor>
-      <actor>Hernán Mendoza</actor>
-      <actor>Claudia Ramírez</actor>
+      <actor>José Carlos Ruiz</actor>
+      <actor>Bruno Rey</actor>
+      <actor>Alberto Pedret</actor>
+      <actor>Eduardo Liñán</actor>
+      <actor>Martha Roth</actor>
+    </credits>
+    <country lang="es">ESP</country>
+  </programme>
+  <programme start="20220904090000 +0000" stop="20220904110000 +0000" channel="Sony Movies">
+    <title lang="es">El testamento</title>
+    <desc lang="es">La viuda de un millonario inicia una serie de reformas sociales en su fábrica para obtener el amor de un sindicalista.(n)</desc>
+    <credits>
+      <actor>María Marqués</actor>
+      <actor>Bruno Rey</actor>
+      <actor>Anita Blanch</actor>
+      <actor>Carmen Salinas</actor>
+      <actor>Eduardo de la Peña</actor>
+      <actor>María Sorté</actor>
     </credits>
     <country lang="es">MEX</country>
   </programme>
-  <programme start="20220903114300 +0000" stop="20220903132900 +0000" channel="Sony Movies">
-    <title lang="es">Día de Muertos</title>
-    <desc lang="es">En Santa Clara, México, habita Salma, una huérfana de 16 años que nunca conoció a sus padres biológicos. Salma pasa su vida buscando pistas sobre la identidad y el paradero de sus progenitores. Encuentra un libro que contiene historias de los habitantes de la ciudad y se embarca en una aventura para encontrar a sus padres.(n)</desc>
+  <programme start="20220904110000 +0000" stop="20220904130100 +0000" channel="Sony Movies">
+    <title lang="es">Como Fui a Enamorarme de Ti</title>
+    <desc lang="es">La historia de Los Bukis, desde su humilde inicio hasta su exitosa gira, pasando por problemas e intrigas.(n)</desc>
     <credits>
-      <actor>Connor Andrade</actor>
-      <actor>Dino Andrade</actor>
-      <actor>Memo Aponte</actor>
-      <actor>Dani Artaud</actor>
-      <actor>Susana Ballesteros</actor>
-      <actor>Fernanda Castillo</actor>
+      <actor>Marco Antonio Solís</actor>
+      <actor>Los Bukis</actor>
+      <actor>Lourdes Munguía</actor>
     </credits>
     <country lang="es">MEX</country>
   </programme>
-  <programme start="20220903132900 +0000" stop="20220903145200 +0000" channel="Sony Movies">
-    <title lang="es">Monos espaciales 2: El regreso de Zartog</title>
-    <desc lang="es">Un chimpancé y sus amigos deben derrocar a un tirano extraterrestre en el planeta Malgor.(n)</desc>
+  <programme start="20220904130100 +0000" stop="20220904143700 +0000" channel="Sony Movies">
+    <title lang="es">El padre diablo</title>
+    <desc lang="es">Un hombre es acusado por un crimen que no cometió, cuando él y un comisario compiten por el amor de la misma mujer.(n)</desc>
     <credits>
-      <actor>Cheryl Hines</actor>
-      <actor>Patrick Warburton</actor>
-      <actor>Stanley Tucci</actor>
-      <actor>Tom Kinney</actor>
-      <actor>Zack Shada</actor>
-      <actor>Laura Bailey</actor>
-    </credits>
-    <icon src="http://demo.tmsimg.com/assets/p8130603_b_h10_af.jpg" />
-    <country lang="es">USA</country>
-  </programme>
-  <programme start="20220903145200 +0000" stop="20220903162800 +0000" channel="Sony Movies">
-    <title lang="es">Planeta 51</title>
-    <desc lang="es">Un astronauta llega a un planeta donde los habitantes están atrapados en una versión de los Estados Unidos de los años cincuenta.(n)</desc>
-    <credits>
-      <actor>Dwayne Johnson</actor>
-      <actor>Jessica Biel</actor>
-      <actor>Justin Long</actor>
-      <actor>Gary Oldman</actor>
-      <actor>Seann Scott</actor>
-      <actor>John Cleese</actor>
-    </credits>
-    <icon src="http://demo.tmsimg.com/assets/p177954_b_h10_ab.jpg" />
-    <country lang="es">USA</country>
-  </programme>
-  <programme start="20220903162800 +0000" stop="20220903175800 +0000" channel="Sony Movies">
-    <title lang="es">Sammy en el pasaje secreto</title>
-    <desc lang="es">Una tortuga marina nacida en 1959 pasa 50 años viajando por los océanos del mundo mientras se transforman, debido al calentamiento global.(n)</desc>
-    <credits>
-      <actor>Melanie Griffith</actor>
-      <actor>Isabelle Fuhrman</actor>
-      <actor>Yuri Lowenthal</actor>
-      <actor>Anthony Anderson</actor>
-      <actor>Tim Curry</actor>
-      <actor>Kathy Griffin</actor>
-    </credits>
-    <icon src="http://demo.tmsimg.com/assets/p8546454_b_h10_aa.jpg" />
-    <country lang="es">BEL</country>
-  </programme>
-  <programme start="20220903175800 +0000" stop="20220903193700 +0000" channel="Sony Movies">
-    <title lang="es">Tarzan</title>
-    <desc lang="es">Un hombre, criado por los simios en la selva de África, conoce a un profesor, a su hija y a un cazador. Tarzán debe elegir si quiere quedarse con su familia o regresar con la civilización.(n)</desc>
-    <credits>
-      <actor>Tony Goldwyn</actor>
-      <actor>Glenn Close</actor>
-      <actor>Minnie Driver</actor>
-      <actor>Rosie O'Donnell</actor>
-      <actor>Wayne Knight</actor>
-      <actor>Brian Blessed</actor>
-    </credits>
-    <country lang="es">USA</country>
-  </programme>
-  <programme start="20220903193700 +0000" stop="20220903211900 +0000" channel="Sony Movies">
-    <title lang="es">Educando a mamá</title>
-    <desc lang="es">Grace es una madre soltera que está muy ocupada con su trabajo, los recibos y dos pretendientes como para ponerle atención a su hija Ansiedad. Inspirada por las historias de su maestra de inglés, Ansiedad decide saltarse la adolescencia y experimentar directamente a una vida sin su madre. Pero, cuando sus planes equivocados se revelan, Ansiedad y Grace deben aprender que el crecer significa actuar de acuerdo a tu edad.(n)</desc>
-    <credits>
-      <actor>Eva Mendes</actor>
-      <actor>Cierra Ramirez</actor>
-      <actor>Matthew Modine</actor>
-      <actor>Patricia Arquette</actor>
-      <actor>Eugenio Derbez</actor>
-      <actor>Raini Rodriguez</actor>
-    </credits>
-    <icon src="http://demo.tmsimg.com/assets/p9098070_b_h10_aa.jpg" />
-    <country lang="es">USA</country>
-  </programme>
-  <programme start="20220903211900 +0000" stop="20220903233000 +0000" channel="Sony Movies">
-    <title lang="es">No se aceptan devoluciones</title>
-    <desc lang="es">Valentín es el soltero más mujeriego de Acapulco. Un día, una mujer de su pasado deja un bebé en su puerta y desaparece. Valentín decide ir a Los Ángeles en su búsqueda, pero en vez de encontrar a la madre, descubre un hogar para él y su nueva hija Maggie.(n)</desc>
-    <credits>
-      <actor>Eugenio Derbez</actor>
-      <actor>Jessica Lindsey</actor>
-      <actor>Loreto Peralta</actor>
-      <actor>Daniel Raymont</actor>
-      <actor>Alessandra Rosaldo</actor>
-      <actor>Hugo Stiglitz</actor>
+      <actor>Antonio Aguilar</actor>
+      <actor>Kitty de Hoyos</actor>
+      <actor>Manuel Capetillo</actor>
+      <actor>Eric del Castillo</actor>
+      <actor>Carlos Leon</actor>
+      <actor>José Chávez Trowe</actor>
     </credits>
     <country lang="es">MEX</country>
   </programme>
-  <programme start="20220903233000 +0000" stop="20220904012400 +0000" channel="Sony Movies">
-    <title lang="es">El maestro luchador</title>
-    <desc lang="es">Scott Voss, quien alguna vez fue un luchador colegial, tiene 42 años y es maestro de biología en una escuela. Cuando los cortes amenazan con eliminar el programa musical de su escuela y a su maestro, Scott entra en acción. Él usa sus habilidades de luchador y gana dinero para el programa como luchador de artes marciales mixtas. Aunque la enfermera de la escuela cree que está loco, Scott consigue algo que nunca hubiera esperado.(n)</desc>
+  <programme start="20220904143700 +0000" stop="20220904161400 +0000" channel="Sony Movies">
+    <title lang="es">El indomable</title>
+    <desc lang="es">En la cantina de un pueblo, dos apostadores provocan un tiroteo al ganar en el póquer, huyen y se refugian en una iglesia.(n)</desc>
     <credits>
-      <actor>Kevin James</actor>
-      <actor>Salma Hayek</actor>
-      <actor>Henry Winkler</actor>
-      <actor>Greg Germann</actor>
-      <actor>Joe Rogan</actor>
-      <actor>Gary Valentine</actor>
+      <actor>Gastón Santos</actor>
+      <actor>Abel Salazar</actor>
+      <actor>Alma Fuentes</actor>
+      <actor>José Gálvez</actor>
+      <actor>Rafael Baledón</actor>
     </credits>
-    <icon src="http://demo.tmsimg.com/assets/p9145706_b_h8_ai.jpg" />
-    <country lang="es">USA</country>
-  </programme>
-  <programme start="20220903050000 +0000" stop="20220903055500 +0000" channel="Telehit Musica">
-    <title lang="es">Top 10 Telehit</title>
-    <desc lang="es">Una selección exhaustiva de los mejores diez temas musicales.(n)</desc>
-    <icon src="http://demo.tmsimg.com/assets/p16652273_b_h10_ab.jpg" />
-  </programme>
-  <programme start="20220903055500 +0000" stop="20220903065000 +0000" channel="Telehit Musica">
-    <title lang="es">Reggaetown</title>
-    <desc lang="es">La mejor selección de música urbana de todos los tiempos.(n)</desc>
-    <icon src="http://demo.tmsimg.com/assets/p21575169_b_h8_aa.jpg" />
     <country lang="es">MEX</country>
   </programme>
-  <programme start="20220903065000 +0000" stop="20220903074500 +0000" channel="Telehit Musica">
-    <title lang="es">Ranking</title>
-    <desc lang="es">Programa divertido y lleno de ritmo con 10 canciones para disfrutar.(n)</desc>
-    <icon src="http://demo.tmsimg.com/assets/p10108805_b_h8_ad.jpg" />
-  </programme>
-  <programme start="20220903074500 +0000" stop="20220903084000 +0000" channel="Telehit Musica">
-    <title lang="es">Suena El Dembow</title>
-    <desc lang="es">Música para incendiar la pista de baile con lo mejor y más prendido del reguetón del momento.(n)</desc>
-    <icon src="http://demo.tmsimg.com/assets/p21575512_b_h10_aa.jpg" />
+  <programme start="20220904161400 +0000" stop="20220904175600 +0000" channel="Sony Movies">
+    <title lang="es">El solitario</title>
+    <desc lang="es">Un pistolero solitario defiende a un ranchero que ha sido amenazado de muerte por no querer vender sus tierras a unos crueles hermanos.(n)</desc>
+    <credits>
+      <actor>Rodolfo de Anda</actor>
+      <actor>Dagoberto Rodríguez</actor>
+      <actor>Fanny Cano</actor>
+      <actor>Carlos López Moctezuma</actor>
+    </credits>
     <country lang="es">MEX</country>
   </programme>
-  <programme start="20220903084000 +0000" stop="20220903093500 +0000" channel="Telehit Musica">
-    <title lang="es">Musicología</title>
-    <desc lang="es">Un mix de los éxitos de todos los tiempos, lo mejor de la música actual y un poco de todo.(n)</desc>
-    <icon src="http://demo.tmsimg.com/assets/p21575442_b_h8_aa.jpg" />
+  <programme start="20220904175600 +0000" stop="20220904194700 +0000" channel="Sony Movies">
+    <title lang="es">El siete de copas</title>
+    <desc lang="es">Un pequeño huérfano, de nombre Valerio, logra escapar de la tutela del cura del pueblo. Valerio gana una rifa con la carta del siete de copas, la cual se convierte en su amuleto de la buena suerte.(n)</desc>
+    <credits>
+      <actor>Antonio Aguilar</actor>
+      <actor>Elvira Quintana</actor>
+      <actor>Julio Aldama</actor>
+      <actor>Pedro de Aguillón</actor>
+      <actor>Aurora Walker</actor>
+      <actor>Jose Carlos Mendez</actor>
+    </credits>
     <country lang="es">MEX</country>
   </programme>
-  <programme start="20220903093500 +0000" stop="20220903103000 +0000" channel="Telehit Musica">
-    <title lang="es">Sonido estéreo</title>
-    <icon src="http://demo.tmsimg.com/assets/p21575518_b_h10_aa.jpg" />
+  <programme start="20220904194700 +0000" stop="20220904213500 +0000" channel="Sony Movies">
+    <title lang="es">Había una vez una estrella</title>
+    <desc lang="es">Un joven tiene la responsabilidad de cuidar de sus hermanos menores después de que sus padres fallecen. Uno de ellos está muy enfermo, por eso, el joven decide buscar la ayuda de su abuelo.(n)</desc>
+    <credits>
+      <actor>Pedrito Fernández</actor>
+      <actor>David Reynoso</actor>
+      <actor>José Elías Moreno</actor>
+      <actor>Anahí</actor>
+      <actor>Yolanda Mérida</actor>
+      <actor>Beatriz Moreno</actor>
+    </credits>
     <country lang="es">MEX</country>
   </programme>
-  <programme start="20220903103000 +0000" stop="20220903110000 +0000" channel="Telehit Musica">
-    <title lang="es">Playlist Telehit</title>
-    <desc lang="es">Un playlist preparado para cuando no se sabe qué escuchar, con las canciones más top del momento.(n)</desc>
-    <icon src="http://demo.tmsimg.com/assets/p18825023_b_h8_aa.jpg" />
-  </programme>
-  <programme start="20220903110000 +0000" stop="20220903115500 +0000" channel="Telehit Musica">
-    <title lang="es">Top 10 Telehit</title>
-    <desc lang="es">Una selección exhaustiva de los mejores diez temas musicales.(n)</desc>
-    <icon src="http://demo.tmsimg.com/assets/p16652273_b_h10_ab.jpg" />
-  </programme>
-  <programme start="20220903115500 +0000" stop="20220903125000 +0000" channel="Telehit Musica">
-    <title lang="es">Reggaetown</title>
-    <desc lang="es">La mejor selección de música urbana de todos los tiempos.(n)</desc>
-    <icon src="http://demo.tmsimg.com/assets/p21575169_b_h8_aa.jpg" />
+  <programme start="20220904213500 +0000" stop="20220904233700 +0000" channel="Sony Movies">
+    <title lang="es">Una papa sin catsup</title>
+    <desc lang="es">La Greñas, máxima dirigente de una banda de mafiosos, necesita que una cantante adopte su personalidad y finja estar muerta.(n)</desc>
+    <credits>
+      <actor>Gloria Trevi</actor>
+      <actor>Marco Bacuzzi</actor>
+      <actor>Charly Valentino</actor>
+      <actor>Claudio Brook</actor>
+      <actor>Lili Incian</actor>
+      <actor>Armando Araiza</actor>
+    </credits>
     <country lang="es">MEX</country>
   </programme>
-  <programme start="20220903125000 +0000" stop="20220903130000 +0000" channel="Telehit Musica">
-    <title lang="es">Playlist Telehit</title>
-    <desc lang="es">Un playlist preparado para cuando no se sabe qué escuchar, con las canciones más top del momento.(n)</desc>
-    <icon src="http://demo.tmsimg.com/assets/p18825023_b_h8_aa.jpg" />
-  </programme>
-  <programme start="20220903130000 +0000" stop="20220903135500 +0000" channel="Telehit Musica">
-    <title lang="es">Ranking</title>
-    <desc lang="es">Programa divertido y lleno de ritmo con 10 canciones para disfrutar.(n)</desc>
-    <icon src="http://demo.tmsimg.com/assets/p10108805_b_h8_ad.jpg" />
-  </programme>
-  <programme start="20220903135500 +0000" stop="20220903145000 +0000" channel="Telehit Musica">
-    <title lang="es">Suena El Dembow</title>
-    <desc lang="es">Música para incendiar la pista de baile con lo mejor y más prendido del reguetón del momento.(n)</desc>
-    <icon src="http://demo.tmsimg.com/assets/p21575512_b_h10_aa.jpg" />
+  <programme start="20220904233700 +0000" stop="20220905015000 +0000" channel="Sony Movies">
+    <title lang="es">El patrullero 777</title>
+    <desc lang="es">Las aventuras de Cantinflas como el patrullero más divertido de la fuerza y dispuesto a ayudar a los más débiles.(n)</desc>
+    <credits>
+      <actor>Mario Moreno</actor>
+      <actor>Ana Lepe</actor>
+      <actor>Valeria Pani</actor>
+      <actor>Wolf Ruvinskis</actor>
+      <actor>Julio Lobato</actor>
+      <actor>Amparo Arozamena</actor>
+    </credits>
     <country lang="es">MEX</country>
   </programme>
-  <programme start="20220903145000 +0000" stop="20220903154500 +0000" channel="Telehit Musica">
-    <title lang="es">Musicología</title>
-    <desc lang="es">Un mix de los éxitos de todos los tiempos, lo mejor de la música actual y un poco de todo.(n)</desc>
-    <icon src="http://demo.tmsimg.com/assets/p21575442_b_h8_aa.jpg" />
-    <country lang="es">MEX</country>
+  <programme start="20220904010000 -0300" stop="20220904060000 -0300" channel="TVN">
+    <title lang="es">El día menos pensado</title>
+    <desc lang="es">Historias que parecen desafiar todo lo que hasta hoy es posible.-- Changed starttime! --.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
   </programme>
-  <programme start="20220903154500 +0000" stop="20220903164000 +0000" channel="Telehit Musica">
-    <title lang="es">Sonido estéreo</title>
-    <icon src="http://demo.tmsimg.com/assets/p21575518_b_h10_aa.jpg" />
-    <country lang="es">MEX</country>
-  </programme>
-  <programme start="20220903164000 +0000" stop="20220903170000 +0000" channel="Telehit Musica">
-    <title lang="es">Playlist Telehit</title>
-    <desc lang="es">Un playlist preparado para cuando no se sabe qué escuchar, con las canciones más top del momento.(n)</desc>
-    <icon src="http://demo.tmsimg.com/assets/p18825023_b_h8_aa.jpg" />
-  </programme>
-  <programme start="20220903170000 +0000" stop="20220903175500 +0000" channel="Telehit Musica">
-    <title lang="es">Top 10 Telehit</title>
-    <desc lang="es">Una selección exhaustiva de los mejores diez temas musicales.(n)</desc>
-    <icon src="http://demo.tmsimg.com/assets/p16652273_b_h10_ab.jpg" />
-  </programme>
-  <programme start="20220903175500 +0000" stop="20220903185000 +0000" channel="Telehit Musica">
-    <title lang="es">Reggaetown</title>
-    <desc lang="es">La mejor selección de música urbana de todos los tiempos.(n)</desc>
-    <icon src="http://demo.tmsimg.com/assets/p21575169_b_h8_aa.jpg" />
-    <country lang="es">MEX</country>
-  </programme>
-  <programme start="20220903185000 +0000" stop="20220903190000 +0000" channel="Telehit Musica">
-    <title lang="es">Playlist Telehit</title>
-    <desc lang="es">Un playlist preparado para cuando no se sabe qué escuchar, con las canciones más top del momento.(n)</desc>
-    <icon src="http://demo.tmsimg.com/assets/p18825023_b_h8_aa.jpg" />
-  </programme>
-  <programme start="20220903190000 +0000" stop="20220903195500 +0000" channel="Telehit Musica">
-    <title lang="es">Ranking</title>
-    <desc lang="es">Programa divertido y lleno de ritmo con 10 canciones para disfrutar.(n)</desc>
-    <icon src="http://demo.tmsimg.com/assets/p10108805_b_h8_ad.jpg" />
-  </programme>
-  <programme start="20220903195500 +0000" stop="20220903205000 +0000" channel="Telehit Musica">
-    <title lang="es">Suena El Dembow</title>
-    <desc lang="es">Música para incendiar la pista de baile con lo mejor y más prendido del reguetón del momento.(n)</desc>
-    <icon src="http://demo.tmsimg.com/assets/p21575512_b_h10_aa.jpg" />
-    <country lang="es">MEX</country>
-  </programme>
-  <programme start="20220903205000 +0000" stop="20220903214500 +0000" channel="Telehit Musica">
-    <title lang="es">Musicología</title>
-    <desc lang="es">Un mix de los éxitos de todos los tiempos, lo mejor de la música actual y un poco de todo.(n)</desc>
-    <icon src="http://demo.tmsimg.com/assets/p21575442_b_h8_aa.jpg" />
-    <country lang="es">MEX</country>
-  </programme>
-  <programme start="20220903214500 +0000" stop="20220903224000 +0000" channel="Telehit Musica">
-    <title lang="es">Sonido estéreo</title>
-    <icon src="http://demo.tmsimg.com/assets/p21575518_b_h10_aa.jpg" />
-    <country lang="es">MEX</country>
-  </programme>
-  <programme start="20220903224000 +0000" stop="20220903230000 +0000" channel="Telehit Musica">
-    <title lang="es">Playlist Telehit</title>
-    <desc lang="es">Un playlist preparado para cuando no se sabe qué escuchar, con las canciones más top del momento.(n)</desc>
-    <icon src="http://demo.tmsimg.com/assets/p18825023_b_h8_aa.jpg" />
-  </programme>
-  <programme start="20220903230000 +0000" stop="20220903235500 +0000" channel="Telehit Musica">
-    <title lang="es">Top 10 Telehit</title>
-    <desc lang="es">Una selección exhaustiva de los mejores diez temas musicales.(n)</desc>
-    <icon src="http://demo.tmsimg.com/assets/p16652273_b_h10_ab.jpg" />
-  </programme>
-  <programme start="20220903235500 +0000" stop="20220904005000 +0000" channel="Telehit Musica">
-    <title lang="es">Reggaetown</title>
-    <desc lang="es">La mejor selección de música urbana de todos los tiempos.(n)</desc>
-    <icon src="http://demo.tmsimg.com/assets/p21575169_b_h8_aa.jpg" />
-    <country lang="es">MEX</country>
-  </programme>
-  <programme start="20220903024500 -0400" stop="20220903033000 -0400" channel="TVN">
+  <programme start="20220904060000 -0300" stop="20220904070000 -0300" channel="TVN">
     <title lang="es">El día menos pensado</title>
     <desc lang="es">Historias que parecen desafiar todo lo que hasta hoy es posible.(n)</desc>
     <rating system="CL">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220903033000 -0400" stop="20220903034500 -0400" channel="TVN">
-    <title lang="es">TV Tiempo</title>
-    <desc lang="es">El informe del tiempo y los pronósticos climáticos para todo Chile.(n)</desc>
+  <programme start="20220904070000 -0300" stop="20220904090000 -0300" channel="TVN">
+    <title lang="es">24 AM</title>
+    <desc lang="es">Repaso de los hechos que marcaron la noche y la madrugada de Chile y el mundo.(n)</desc>
     <rating system="CL">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220903034500 -0400" stop="20220903080000 -0400" channel="TVN">
-    <title lang="es">Fuera del aire</title>
-    <title lang="en">SIGN OFF</title>
-    <desc lang="es">Fin de emisión.(n)</desc>
-    <rating system="CL">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220903080000 -0400" stop="20220903100000 -0400" channel="TVN">
-    <title lang="es">Hermanos a la obra</title>
-    <title lang="en">Property Brothers</title>
-    <desc lang="es">Los hermanos gemelos Jonathan y Drew Scott ayudan a parejas en la transformación de la casa de sus sueños. Los hermanos utilizan tecnología de punta digital para revelar los planes de una propiedad tras la renovación.(n)</desc>
-    <rating system="CL">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20220903100000 -0400" stop="20220903140000 -0400" channel="TVN">
-    <title lang="es">Buen finde en TVN</title>
-    <desc lang="es">Un recorrido por el país en busca de historias únicas, para conectar realidades desde lo local a lo nacional, abordando también la contingencia de una manera simple y amena.(n)</desc>
+  <programme start="20220904090000 -0300" stop="20220904140000 -0300" channel="TVN">
+    <title lang="es">Chile elige</title>
+    <desc lang="es">Cobertura especial del plebiscito constitucional de 2022.(n)</desc>
     <rating system="CL">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220903140000 -0400" stop="20220903160000 -0400" channel="TVN">
+  <programme start="20220904140000 -0300" stop="20220904160000 -0300" channel="TVN">
     <title lang="es">24 Tarde</title>
     <desc lang="es">La información más relevante a nivel internacional, nacional y regional.(n)</desc>
     <rating system="CL">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220903160000 -0400" stop="20220903195000 -0400" channel="TVN">
-    <title lang="es">Sucupira</title>
-    <desc lang="es">La gente del pequeño pueblo de Sucupira todavía cree en una leyenda sobre una mujer que emerge del mar para enamorar a los hombres y llevarlos a su mundo. Los que han sobrevivido dicen que la hija del alcalde tiene el mismo rostro.(n)</desc>
+  <programme start="20220904160000 -0300" stop="20220904220000 -0300" channel="TVN">
+    <title lang="es">Chile elige</title>
+    <desc lang="es">Cobertura especial del plebiscito constitucional de 2022.(n)</desc>
     <rating system="CL">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220903195000 -0400" stop="20220903211500 -0400" channel="TVN">
-    <title lang="es">Zona de encuentro</title>
-    <desc lang="es">Una franja dedicada al entretenimiento que busca celebrar la diversidad chilena.(n)</desc>
-    <rating system="CL">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220903211500 -0400" stop="20220903220000 -0400" channel="TVN">
-    <title lang="es">Chile Intimo</title>
-    <desc lang="es">Excelente serie documental nacional que cuenta la historia de Chile desde una mirada diferente.(n)</desc>
-    <rating system="CL">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220903220000 -0400" stop="20220903233000 -0400" channel="TVN">
+  <programme start="20220904220000 -0300" stop="20220904233000 -0300" channel="TVN">
     <title lang="es">24 horas central</title>
     <desc lang="es">La información de mayor importancia internacional, nacional y regional.(n)</desc>
     <rating system="CL">
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20220903233500 -0400" stop="20220903235900 -0400" channel="TVN">
-    <title lang="es">Sandro de América</title>
-    <desc lang="es">La historia de cómo una guitarra convirtió a Roberto Sánchez en Sandro, una leyenda popular que con su carisma y talento musical lo llevaron a superar las más difíciles circunstancias en su vida, superando la pobreza y los prejuicios.-- Changed stoptime! --.(n)</desc>
+  <programme start="20220904233500 -0300" stop="20220905013000 -0300" channel="TVN">
+    <title lang="es">Estado Nacional</title>
+    <desc lang="es">Programa de actualidad y debate político que cuenta semanalmente con invitados y panelistas.(n)</desc>
     <rating system="CL">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220903004500 -0500" stop="20220903011500 -0500" channel="Caracol TV (COL)">
-    <title lang="es">El diario de Diana</title>
-    <desc lang="es">Junto a entrevistas a diferentes expertos, lecciones sobre cómo armonizar todas las áreas de la vida, manejar las emociones y cambiar creencias para entender la felicidad como una oportunidad de vivir a plenitud.(n)</desc>
-    <rating system="CO">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220903011500 -0500" stop="20220903041500 -0500" channel="Caracol TV (COL)">
+  <programme start="20220904010000 -0500" stop="20220904041500 -0500" channel="Caracol TV (COL)">
     <title lang="es">También caerás</title>
     <desc lang="es">Este programa de humor es un espacio abierto a la alegría y la espontaneidad, que lleva las cámaras escondidas a otro nivel. La gente común y corriente se convierte en protagonista de situaciones divertidas, inusuales y hasta aterrorizantes.(n)</desc>
     <rating system="CO">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20220903041500 -0500" stop="20220903050000 -0500" channel="Caracol TV (COL)">
+  <programme start="20220904041500 -0500" stop="20220904044500 -0500" channel="Caracol TV (COL)">
     <title lang="es">También caerás</title>
     <desc lang="es">Este programa de humor es un espacio abierto a la alegría y la espontaneidad, que lleva las cámaras escondidas a otro nivel. La gente común y corriente se convierte en protagonista de situaciones divertidas, inusuales y hasta aterrorizantes.(n)</desc>
     <rating system="CO">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20220903050000 -0500" stop="20220903060000 -0500" channel="Caracol TV (COL)">
+  <programme start="20220904044500 -0500" stop="20220904054500 -0500" channel="Caracol TV (COL)">
     <title lang="es">La finca de hoy</title>
     <desc lang="es">Programa dedicado a la producción agropecuaria, economía campesina, tecnología, investigación, sanidad y muchos temas más, relacionados con el campo y su gente.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220903060000 -0500" stop="20220903070000 -0500" channel="Caracol TV (COL)">
-    <title lang="es">Los cuentos de los hermanos Grimm</title>
-    <desc lang="es">Una narración de los célebres cuentos clásicos infantiles de los hermanos Grimm.(n)</desc>
+  <programme start="20220904054500 -0500" stop="20220904063000 -0500" channel="Caracol TV (COL)">
+    <title lang="es">Santa Misa</title>
+    <desc lang="es">Celebración de la Santa Misa.(n)</desc>
     <rating system="CO">
-      <value>NR</value>
+      <value>G</value>
     </rating>
   </programme>
-  <programme start="20220903070000 -0500" stop="20220903073000 -0500" channel="Caracol TV (COL)">
-    <title lang="es">Doble vía</title>
-    <desc lang="es">Un espacio del Defensor del Televidente en el que se expresan los diferentes puntos de vista de los espectadores acerca de la programación que se emite en el canal con el fin de brindar una televisión responsable y de calidad.(n)</desc>
-    <rating system="CO">
-      <value>PG-13</value>
-    </rating>
-  </programme>
-  <programme start="20220903073000 -0500" stop="20220903084000 -0500" channel="Caracol TV (COL)">
-    <title lang="es">Los cuentos de los hermanos Grimm</title>
-    <desc lang="es">Una narración de los célebres cuentos clásicos infantiles de los hermanos Grimm.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220903084000 -0500" stop="20220903103000 -0500" channel="Caracol TV (COL)">
+  <programme start="20220904063000 -0500" stop="20220904103000 -0500" channel="Caracol TV (COL)">
     <title lang="es">Vuelta a España 2022</title>
-    <title lang="es">2022 Vuelta a España - Stage 14: Montoro to Sierra de la Pandera</title>
-    <sub-title lang="es">Etapa 14</sub-title>
-    <desc lang="es">Trayecto de Montoro a Sierra de la Pandera (160.3 km).(n)</desc>
+    <title lang="es">2022 Vuelta a España - Stage 15: Martos to Sierra Nevada</title>
+    <sub-title lang="es">Etapa 15</sub-title>
+    <desc lang="es">Trayecto de Martos a Sierra Nevada (148 km).(n)</desc>
     <date>2022</date>
-    <category lang="es">Series</category>
+    <category lang="es">En Vivo</category>
+    <category lang="es">Primera vez</category>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220903103000 -0500" stop="20220903123000 -0500" channel="Caracol TV (COL)">
-    <title lang="es">Swallows and Amazons</title>
-    <desc lang="es">Los niños Walker obtienen permiso para acampar en una isla en el medio de un gran lago. Cuando llegan al lugar, deberán luchar contra una banda de jóvenes por el control de la isla.(n)</desc>
-    <date>2016</date>
-    <category lang="es">Drama</category>
+  <programme start="20220904103000 -0500" stop="20220904123000 -0500" channel="Caracol TV (COL)">
+    <title lang="es">Dora and the Lost City of Gold</title>
+    <desc lang="es">Dora se pone al frente de un equipo formado por su amigo peludo Botas; Diego, un misterioso habitante de la jungla; y un desorganizado grupo de adolescentes para salvar a los padres de Dora y resolver el misterio de una ciudad perdida de oro.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Comedia</category>
+    <category lang="es">Infantil</category>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220903123000 -0500" stop="20220903150000 -0500" channel="Caracol TV (COL)">
+  <programme start="20220904123000 -0500" stop="20220904150000 -0500" channel="Caracol TV (COL)">
     <title lang="es">Noticias Caracol: Fin de semana</title>
     <desc lang="es">Los hechos que son noticia, en compañía de un excelente equipo periodístico.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220903150000 -0500" stop="20220903180000 -0500" channel="Caracol TV (COL)">
+  <programme start="20220904150000 -0500" stop="20220904170000 -0500" channel="Caracol TV (COL)">
     <title lang="es">La red</title>
     <desc lang="es">Los chismes, la información más detallada de los famosos de la farándula y lo que está sucediendo en el mundo del entretenimiento, son transmitidos en este espacio en que se revela lo más íntimo y secreto de las estrellas y sus escándalos.(n)</desc>
     <rating system="CO">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20220903180000 -0500" stop="20220903190000 -0500" channel="Caracol TV (COL)">
-    <title lang="es">Se dice de mí</title>
-    <desc lang="es">Un programa que muestra la historia de vida y trayectoria de cantantes, deportistas, actores y presentadores, donde hablan sobre los aspectos positivos y negativos de sus vidas.(n)</desc>
+  <programme start="20220904170000 -0500" stop="20220904180000 -0500" channel="Caracol TV (COL)">
+    <title lang="es">Expediente final</title>
+    <desc lang="es">Un programa que saca a la luz los secretos de las muertes de las celebridades de Colombia, porque no todo lo investigado es revelado.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220903190000 -0500" stop="20220903200000 -0500" channel="Caracol TV (COL)">
+  <programme start="20220904180000 -0500" stop="20220904190000 -0500" channel="Caracol TV (COL)">
+    <title lang="es">El show de Suso</title>
+    <desc lang="es">Un programa de comedia y talk show en donde "Suso el Paspi" hablará con personajes famosos sobre diversos temas.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220904190000 -0500" stop="20220904203000 -0500" channel="Caracol TV (COL)">
     <title lang="es">Noticias Caracol: Fin de semana</title>
     <desc lang="es">Los hechos que son noticia, en compañía de un excelente equipo periodístico.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220903200000 -0500" stop="20220903220000 -0500" channel="Caracol TV (COL)">
-    <title lang="es">Sábados felices</title>
-    <desc lang="es">El legendario programa televisivo presenta en sus segmentos característicos, una gama variada de estilos de comedia, cuenta chistes, parodias originales, caracterizaciones de importantes personalidades, cuenteros y troveros.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220903220000 -0500" stop="20220903230000 -0500" channel="Caracol TV (COL)">
-    <title lang="es">Sábados felices</title>
-    <desc lang="es">El legendario programa televisivo presenta en sus segmentos característicos, una gama variada de estilos de comedia, cuenta chistes, parodias originales, caracterizaciones de importantes personalidades, cuenteros y troveros.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220903230000 -0500" stop="20220904000000 -0500" channel="Caracol TV (COL)">
-    <title lang="es">Entre ojos</title>
-    <desc lang="es">Un espacio que profundiza en diversos personajes y hechos reales, para hacerlos públicos y trascendentes a partir de material documental y de archivo.(n)</desc>
+  <programme start="20220904203000 -0500" stop="20220904213000 -0500" channel="Caracol TV (COL)">
+    <title lang="es">Los informantes</title>
+    <desc lang="es">Un programa de análisis y opinión conformado por un excelente equipo periodístico que se encarga de contar historias a través de crónicas, perfiles y entrevistas.(n)</desc>
     <rating system="CO">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20220903010000 -0500" stop="20220903020000 -0500" channel="RCN Novelas">
+  <programme start="20220904213000 -0500" stop="20220904223000 -0500" channel="Caracol TV (COL)">
+    <title lang="es">Séptimo día</title>
+    <desc lang="es">Un programa periodístico que trata temas de actualidad controversiales. Se habla sobre temas polémicos como problemas sociales, económicos, educativos y más en Colombia.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220904223000 -0500" stop="20220905001500 -0500" channel="Caracol TV (COL)">
+    <title lang="es">24 Hours to Live</title>
+    <desc lang="es">Un asesino profesional muere durante uno de sus trabajos. Gracias a un revolucionario experimento es devuelto a la vida por un día para cumplir una importante misión. Se alía con su asesina para obtener venganza.(n)</desc>
+    <credits>
+      <director>Brian Smrz</director>
+      <actor>Aidan Whytock</actor>
+      <actor>Basil Iwanyk</actor>
+      <actor>Ethan Hawke</actor>
+      <actor>Gregory Ouanhon</actor>
+      <actor>Hakeem Kae-Kazim</actor>
+      <actor>Jim McClain</actor>
+      <actor>Liam Cunningham</actor>
+      <actor>Mark Gao</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220904050000 -0500" stop="20220904090000 -0500" channel="RCN Novelas">
     <title lang="es">Francisco, el matemático</title>
   </programme>
-  <programme start="20220903020000 -0500" stop="20220903030000 -0500" channel="RCN Novelas">
+  <programme start="20220904090000 -0500" stop="20220904140000 -0500" channel="RCN Novelas">
+    <title lang="es">Garzón</title>
+  </programme>
+  <programme start="20220904140000 -0500" stop="20220904190000 -0500" channel="RCN Novelas">
     <title lang="es">Te quiero Pecas</title>
   </programme>
-  <programme start="20220903030000 -0500" stop="20220903040000 -0500" channel="RCN Novelas">
-    <title lang="es">Garzón</title>
-  </programme>
-  <programme start="20220903040000 -0500" stop="20220903050000 -0500" channel="RCN Novelas">
-    <title lang="es">No olvidaras mi nombre</title>
-  </programme>
-  <programme start="20220903050000 -0500" stop="20220903090000 -0500" channel="RCN Novelas">
-    <title lang="es">No olvidaras mi nombre</title>
-  </programme>
-  <programme start="20220903090000 -0500" stop="20220903140000 -0500" channel="RCN Novelas">
+  <programme start="20220904190000 -0500" stop="20220905000000 -0500" channel="RCN Novelas">
     <title lang="es">Doña Bella</title>
   </programme>
-  <programme start="20220903140000 -0500" stop="20220903190000 -0500" channel="RCN Novelas">
-    <title lang="es">Francisco, el matemático</title>
-  </programme>
-  <programme start="20220903190000 -0500" stop="20220904000000 -0500" channel="RCN Novelas">
-    <title lang="es">Garzón</title>
-  </programme>
-  <programme start="20220903000000 +0000" stop="20220903020000 +0000" channel="UniMás">
-    <title lang="en">Enamorándonos (live)</title>
-    <sub-title lang="en">09-02-2022</sub-title>
-    <date>2022</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220903020000 +0000" stop="20220903030000 +0000" channel="UniMás">
-    <title lang="en">Reto 4 Elementos, Naturaleza Extrema (new)</title>
-    <sub-title lang="en">09-01-2022</sub-title>
-    <date>2022</date>
-    <premiere />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220903030000 +0000" stop="20220903040000 +0000" channel="UniMás">
-    <title lang="en">Faisy Nights (new)</title>
-    <sub-title lang="en">09-02-2022</sub-title>
-    <date>2021</date>
-    <premiere />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220903040000 +0000" stop="20220903043000 +0000" channel="UniMás">
-    <title lang="en">Una Familia de Diez</title>
+  <programme start="20220904003000 +0000" stop="20220904030000 +0000" channel="UniMás">
+    <title lang="en">Ghost Rider</title>
+    <desc lang="en">¿Pactarías con un demonio? Así verás hacer al motociclista Johnny Blaze, quien ofrece su alma a Mefistófeles a cambio de salvar a su padre, enfermo de cáncer. El impío falla y su padre muere, así que Johnny deja todo atrás. De vuelta como un gran malabarista de la motocicleta, Mefistófeles le ofrece disolver el contrato si enfrenta a su hijo, Blackheart... ¿aceptará?(n)</desc>
     <date>2007</date>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20220903043000 +0000" stop="20220903050000 +0000" channel="UniMás">
-    <title lang="en">Goin' Loco</title>
-    <sub-title lang="en">09-02-2022</sub-title>
-    <date>2017</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220903050000 +0000" stop="20220903053000 +0000" channel="UniMás">
-    <title lang="en">Nosotros los Guapos</title>
-    <sub-title lang="en">06-15-2021</sub-title>
-    <date>2016</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220903053000 +0000" stop="20220903060000 +0000" channel="UniMás">
-    <title lang="en">Nosotros Los Guapos</title>
-    <sub-title lang="en">07-04-2021</sub-title>
-    <date>2016</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220903060000 +0000" stop="20220903070000 +0000" channel="UniMás">
-    <title lang="en">Esta historia me suena</title>
-    <sub-title lang="en">Mujer contra mujer</sub-title>
-    <desc lang="en">Karen una adolescente de origen humilde y buenos valores, becada en las mejores instituciones, tiene un gran secreto, es lesbiana y está enamorada de su mejor amiga, Alexa estudiosa, de buena posición económica y presionada por sus papás para ser la mejor.(n)</desc>
-    <date>2020</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220903070000 +0000" stop="20220903073000 +0000" channel="UniMás">
+  <programme start="20220904030000 +0000" stop="20220904033000 +0000" channel="UniMás">
     <title lang="en">Programa Pagado</title>
     <date>2021</date>
   </programme>
-  <programme start="20220903073000 +0000" stop="20220903080000 +0000" channel="UniMás">
+  <programme start="20220904033000 +0000" stop="20220904040000 +0000" channel="UniMás">
     <title lang="en">Programa Pagado</title>
     <date>2021</date>
   </programme>
-  <programme start="20220903080000 +0000" stop="20220903083000 +0000" channel="UniMás">
-    <title lang="en">Programa Pagado</title>
-    <date>2021</date>
-  </programme>
-  <programme start="20220903083000 +0000" stop="20220903090000 +0000" channel="UniMás">
-    <title lang="en">Programa Pagado</title>
-    <date>2021</date>
-  </programme>
-  <programme start="20220903090000 +0000" stop="20220903100000 +0000" channel="UniMás">
-    <title lang="en">Veredicto Final</title>
-    <sub-title lang="en">08-08-2021</sub-title>
-    <date>2007</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220903100000 +0000" stop="20220903103000 +0000" channel="UniMás">
-    <title lang="en">Programa Pagado</title>
-    <date>2021</date>
-  </programme>
-  <programme start="20220903103000 +0000" stop="20220903110000 +0000" channel="UniMás">
-    <title lang="en">Programa Pagado</title>
-    <date>2021</date>
-  </programme>
-  <programme start="20220903110000 +0000" stop="20220903113000 +0000" channel="UniMás">
-    <title lang="en">Programa Pagado</title>
-    <date>2021</date>
-  </programme>
-  <programme start="20220903113000 +0000" stop="20220903120000 +0000" channel="UniMás">
-    <title lang="en">Programa Pagado</title>
-    <date>2021</date>
-  </programme>
-  <programme start="20220903120000 +0000" stop="20220903123000 +0000" channel="UniMás">
-    <title lang="en">Vecinos</title>
-    <date>2005</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220903123000 +0000" stop="20220903130000 +0000" channel="UniMás">
-    <title lang="en">Vecinos</title>
-    <sub-title lang="en">09-03-2022</sub-title>
-    <date>2005</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220903130000 +0000" stop="20220903133000 +0000" channel="UniMás">
-    <title lang="en">Una Familia de Diez</title>
-    <date>2007</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220903133000 +0000" stop="20220903140000 +0000" channel="UniMás">
-    <title lang="en">Una Familia de Diez</title>
-    <date>2007</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220903140000 +0000" stop="20220903150000 +0000" channel="UniMás">
-    <title lang="en">Como Dice el Dicho (new)</title>
-    <date>2011</date>
-    <premiere />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220903150000 +0000" stop="20220903153000 +0000" channel="UniMás">
-    <title lang="en">Programa Pagado</title>
-    <date>2021</date>
-  </programme>
-  <programme start="20220903153000 +0000" stop="20220903160000 +0000" channel="UniMás">
-    <title lang="en">Programa Pagado</title>
-    <date>2021</date>
-  </programme>
-  <programme start="20220903160000 +0000" stop="20220903163000 +0000" channel="UniMás">
-    <title lang="en">Programa Pagado</title>
-    <date>2021</date>
-  </programme>
-  <programme start="20220903163000 +0000" stop="20220903170000 +0000" channel="UniMás">
-    <title lang="en">Programa Pagado</title>
-    <date>2021</date>
-  </programme>
-  <programme start="20220903170000 +0000" stop="20220903190000 +0000" channel="UniMás">
-    <title lang="en">Shockwave: Countdown to Disaster</title>
-    <desc lang="en">La geofísica Kate Ferris se encuentra en una carrera contra reloj para salvar el planeta. Pero primero debe convencer al Departamento de Defensa de los Estados Unidos del grave peligro al que se enfrentan. El gobierno no toma dimensión de las consecuencias que generan los robots militares estrellados en una isla desierta del Pacífico. Sólo encontrar un dispositivo tecnológico permitirá evitar el desastre.(n)</desc>
-    <date>2017</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220903190000 +0000" stop="20220903210000 +0000" channel="UniMás">
+  <programme start="20220904040000 +0000" stop="20220904060000 +0000" channel="UniMás">
     <title lang="en">End Of The World</title>
     <desc lang="en">Una familia busca desesperadamente la salida ante un evento apocalíptico. Una serie de desastres naturales invadirá nuestro mundo, por lo que los protagonistas buscarán refugiarse de inundaciones, tsunamis y erupciones volcánicas.(n)</desc>
     <date>2018</date>
@@ -1184,17 +385,9 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220903210000 +0000" stop="20220903223000 +0000" channel="UniMás">
-    <title lang="en">Piranha 3DD</title>
-    <desc lang="en">Después de un terremoto en el Lago Victoria, un pueblo ve como un grupo de pirañas se abren paso a través de las tuberías llegando a un parque acuático nuevamente abierto.(n)</desc>
-    <date>2012</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220903223000 +0000" stop="20220904003000 +0000" channel="UniMás">
-    <title lang="en">Age of Dinosaurs (new)</title>
-    <desc lang="en">A firefighter must rescue his daughter from newly regenerated dinosaurs. (new).(n)</desc>
+  <programme start="20220904060000 +0000" stop="20220904080000 +0000" channel="UniMás">
+    <title lang="en">Age of Dinosaurs</title>
+    <desc lang="en">A firefighter must rescue his daughter from newly regenerated dinosaurs. (repeat).(n)</desc>
     <credits>
       <director>Joseph J.  Lawson</director>
       <director>Joseph Lawson</director>
@@ -1208,8 +401,837 @@
     <category lang="en">Action &amp; Adventure</category>
     <category lang="en">Science Fiction</category>
     <icon src="https://content.internetvideoarchive.com/content/photos/8325/377998_031.jpg" />
-    <premiere />
     <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220904080000 +0000" stop="20220904083000 +0000" channel="UniMás">
+    <title lang="en">Programa Pagado</title>
+    <date>2021</date>
+  </programme>
+  <programme start="20220904083000 +0000" stop="20220904090000 +0000" channel="UniMás">
+    <title lang="en">Programa Pagado</title>
+    <date>2021</date>
+  </programme>
+  <programme start="20220904090000 +0000" stop="20220904100000 +0000" channel="UniMás">
+    <title lang="en">Veredicto Final</title>
+    <sub-title lang="en">08-09-2021</sub-title>
+    <date>2007</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220904100000 +0000" stop="20220904103000 +0000" channel="UniMás">
+    <title lang="en">Programa Pagado</title>
+    <date>2021</date>
+  </programme>
+  <programme start="20220904103000 +0000" stop="20220904110000 +0000" channel="UniMás">
+    <title lang="en">Programa Pagado</title>
+    <date>2021</date>
+  </programme>
+  <programme start="20220904110000 +0000" stop="20220904113000 +0000" channel="UniMás">
+    <title lang="en">LA CQ</title>
+    <sub-title lang="en">09-19-2021</sub-title>
+    <date>2012</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220904113000 +0000" stop="20220904120000 +0000" channel="UniMás">
+    <title lang="en">LA CQ</title>
+    <sub-title lang="en">09-19-2021</sub-title>
+    <date>2012</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220904120000 +0000" stop="20220904123000 +0000" channel="UniMás">
+    <title lang="en">AnimalFanPedia</title>
+    <sub-title lang="en">Episodio 1508</sub-title>
+    <date>2021</date>
+    <rating system="MPAA">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220904123000 +0000" stop="20220904130000 +0000" channel="UniMás">
+    <title lang="en">AnimalFanPedia</title>
+    <sub-title lang="en">Episodio 1508</sub-title>
+    <date>2021</date>
+    <rating system="MPAA">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220904130000 +0000" stop="20220904133000 +0000" channel="UniMás">
+    <title lang="en">El Mundo Es Tuyo</title>
+    <sub-title lang="en">Episodio 138</sub-title>
+    <date>2021</date>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220904133000 +0000" stop="20220904140000 +0000" channel="UniMás">
+    <title lang="en">El Mundo Es Tuyo</title>
+    <sub-title lang="en">Episodio 139</sub-title>
+    <date>2017</date>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220904140000 +0000" stop="20220904150000 +0000" channel="UniMás">
+    <title lang="en">La Pandilla Curiosa</title>
+    <sub-title lang="en">01-09-2022</sub-title>
+    <date>2021</date>
+    <rating system="MPAA">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20220904150000 +0000" stop="20220904153000 +0000" channel="UniMás">
+    <title lang="en">Programa Pagado</title>
+    <date>2021</date>
+  </programme>
+  <programme start="20220904153000 +0000" stop="20220904160000 +0000" channel="UniMás">
+    <title lang="en">Programa Pagado</title>
+    <date>2021</date>
+  </programme>
+  <programme start="20220904160000 +0000" stop="20220904163000 +0000" channel="UniMás">
+    <title lang="en">Programa Pagado</title>
+    <date>2021</date>
+  </programme>
+  <programme start="20220904163000 +0000" stop="20220904170000 +0000" channel="UniMás">
+    <title lang="en">Programa Pagado</title>
+    <date>2021</date>
+  </programme>
+  <programme start="20220904170000 +0000" stop="20220904180000 +0000" channel="UniMás">
+    <title lang="en">¡Siéntese Quien Pueda! (new)</title>
+    <date>2022</date>
+    <premiere />
+  </programme>
+  <programme start="20220904180000 +0000" stop="20220904200000 +0000" channel="UniMás">
+    <title lang="en">Eruption LA</title>
+    <desc lang="en">¡Un guionista en apuros debe trabajar con un científico y una diva de Hollywood para salvar a Los Ángeles de una catástrofe volcánica!(n)</desc>
+    <date>2016</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220904200000 +0000" stop="20220904220000 +0000" channel="UniMás">
+    <title lang="en">China Salesman</title>
+    <desc lang="en">Un vendedor chino y un competidor corrupto pelean por un contrato para la primera tecnología de telecomunicaciones móviles en África.(n)</desc>
+    <date>2017</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220904220000 +0000" stop="20220905000000 +0000" channel="UniMás">
+    <title lang="en">Into the Blue</title>
+    <desc lang="en">Cuando cuatro buceadores descubren algo maravilloso en las profundidades del océano creen que su sueño de hallar un tesoro se ha hecho realidad. Pero allí también encontrarán un siniestro misterio.(n)</desc>
+    <date>2005</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220904011500 -0300" stop="20220904021000 -0300" channel="LOVE NATURE">
+    <title lang="es">Convirtiendose en Orangután</title>
+    <sub-title lang="es">Episodio 3</sub-title>
+    <desc lang="es">Presenta a los primates que han quedado huérfanos y fueron rescatados por la fundación Borneo Orangutan Survival donde aprenden a sobrevivir en la naturaleza.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/22960732.jpg" />
+    <country lang="es">Canadá</country>
+    <rating system="MX">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220904021000 -0300" stop="20220904030000 -0300" channel="LOVE NATURE">
+    <title lang="es">Kalahari: tierra de alianzas secretas</title>
+    <sub-title lang="es">Episodio 2</sub-title>
+    <desc lang="es">En esta ancestral tierra africana, la vida es una batalla diaria por las especies salvajes. Sin embargo, no es cada uno por su cuenta quien reina aquí.(n)</desc>
+    <credits>
+      <actor>Virginie Efira</actor>
+      <actor>Pierre Stine</actor>
+      <actor>Emilie Dumond</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="es">Cultural</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/18529877.jpg" />
+    <country lang="es">Francia</country>
+    <rating system="MX">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220904030000 -0300" stop="20220904035500 -0300" channel="LOVE NATURE">
+    <title lang="es">Kalahari: tierra de alianzas secretas</title>
+    <sub-title lang="es">Episodio 3</sub-title>
+    <desc lang="es">En esta ancestral tierra africana, la vida es una batalla diaria por las especies salvajes. Sin embargo, no es cada uno por su cuenta quien reina aquí.(n)</desc>
+    <credits>
+      <actor>Virginie Efira</actor>
+      <actor>Pierre Stine</actor>
+      <actor>Emilie Dumond</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="es">Cultural</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/18529877.jpg" />
+    <country lang="es">Francia</country>
+    <rating system="MX">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220904035500 -0300" stop="20220904042500 -0300" channel="LOVE NATURE">
+    <title lang="es">Criaturas extrañas</title>
+    <sub-title lang="es">Malolientos</sub-title>
+    <desc lang="es">No hay información disponible.(n)</desc>
+    <credits>
+      <actor>Chad Barclay</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/648806.JPG" />
+    <country lang="es">Canadá</country>
+    <rating system="MX">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220904042500 -0300" stop="20220904051500 -0300" channel="LOVE NATURE">
+    <title lang="es">Temporadas de lo salvaje</title>
+    <sub-title lang="es">Episodio 1</sub-title>
+    <desc lang="es">El mayor ecosistema subtropical de Estados Unidos se encuentra en el sur de Florida, un paisaje de pantanos, cenagales, praderas y bosques inundados, donde cientos de especies animales y vegetales se han adaptado a dos estaciones extremas.(n)</desc>
+    <date>2015</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/648806.JPG" />
+    <country lang="es">EE. UU</country>
+    <rating system="MX">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220904051500 -0300" stop="20220904060500 -0300" channel="LOVE NATURE">
+    <title lang="es">Temporadas de lo salvaje</title>
+    <sub-title lang="es">Episodio 2</sub-title>
+    <desc lang="es">El mayor ecosistema subtropical de Estados Unidos se encuentra en el sur de Florida, un paisaje de pantanos, cenagales, praderas y bosques inundados, donde cientos de especies animales y vegetales se han adaptado a dos estaciones extremas.(n)</desc>
+    <date>2015</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/648806.JPG" />
+    <country lang="es">EE. UU</country>
+    <rating system="MX">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220904060500 -0300" stop="20220904070000 -0300" channel="LOVE NATURE">
+    <title lang="es">Escenas de la naturaleza</title>
+    <sub-title lang="es">Animales bebés</sub-title>
+    <desc lang="es">Disfruta estas hermosas y pacíficas imágenes de la naturaleza capturadas en distintas partes del mundo como animales de distintas especies en sus hábitats naturales y enormes paisajes que parecen no haber sido tocados nunca por el hombre.(n)</desc>
+    <date>2015</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/11030988.jpg" />
+    <country lang="es">EE. UU</country>
+    <rating system="MX">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220904070000 -0300" stop="20220904075500 -0300" channel="LOVE NATURE">
+    <title lang="es">La gran sequía</title>
+    <sub-title lang="es">Episodio 1</sub-title>
+    <desc lang="es">El valle Luangwa en Zambia es una de las regiones naturales más importantes de África y el hogar de una gran variedad de especies. Este serie sigue los desafíos que la vida salvaje del valle debe enfrentar durante la temporada de sequía.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21655322.jpg" />
+    <country lang="es">Canadá</country>
+    <rating system="MX">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220904075500 -0300" stop="20220904084500 -0300" channel="LOVE NATURE">
+    <title lang="es">La gran sequía</title>
+    <sub-title lang="es">Episodio 2</sub-title>
+    <desc lang="es">El valle Luangwa en Zambia es una de las regiones naturales más importantes de África y el hogar de una gran variedad de especies. Este serie sigue los desafíos que la vida salvaje del valle debe enfrentar durante la temporada de sequía.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21655322.jpg" />
+    <country lang="es">Canadá</country>
+    <rating system="MX">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220904084500 -0300" stop="20220904093500 -0300" channel="LOVE NATURE">
+    <title lang="es">La gran sequía</title>
+    <sub-title lang="es">Episodio 3</sub-title>
+    <desc lang="es">El valle Luangwa en Zambia es una de las regiones naturales más importantes de África y el hogar de una gran variedad de especies. Este serie sigue los desafíos que la vida salvaje del valle debe enfrentar durante la temporada de sequía.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/21655322.jpg" />
+    <country lang="es">Canadá</country>
+    <rating system="MX">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220904093500 -0300" stop="20220904103000 -0300" channel="LOVE NATURE">
+    <title lang="es">Nueva Zelanda más salvaje</title>
+    <sub-title lang="es">Episodio 1</sub-title>
+    <desc lang="es">Aislada del resto del mundo durante 80 millones de años, la vida en Nueva Zelanda ha creado su propio camino. Esta serie documental muestra la apasionante vida salvaje del país, como el último lugar descubierto y poblado por humanos.(n)</desc>
+    <credits>
+      <actor>Mark Flowers</actor>
+      <actor>Robert Morgenstern</actor>
+      <actor>Nick Easton</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/6367953.jpg" />
+    <country lang="es">Gran Bretaña</country>
+    <rating system="MX">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220904103000 -0300" stop="20220904112500 -0300" channel="LOVE NATURE">
+    <title lang="es">Nueva Zelanda más salvaje</title>
+    <sub-title lang="es">Episodio 2</sub-title>
+    <desc lang="es">Aislada del resto del mundo durante 80 millones de años, la vida en Nueva Zelanda ha creado su propio camino. Esta serie documental muestra la apasionante vida salvaje del país, como el último lugar descubierto y poblado por humanos.(n)</desc>
+    <credits>
+      <actor>Mark Flowers</actor>
+      <actor>Robert Morgenstern</actor>
+      <actor>Nick Easton</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/6367953.jpg" />
+    <country lang="es">Gran Bretaña</country>
+    <rating system="MX">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220904112500 -0300" stop="20220904121500 -0300" channel="LOVE NATURE">
+    <title lang="es">Nueva Zelanda más salvaje</title>
+    <sub-title lang="es">Episodio 3</sub-title>
+    <desc lang="es">Aislada del resto del mundo durante 80 millones de años, la vida en Nueva Zelanda ha creado su propio camino. Esta serie documental muestra la apasionante vida salvaje del país, como el último lugar descubierto y poblado por humanos.(n)</desc>
+    <credits>
+      <actor>Mark Flowers</actor>
+      <actor>Robert Morgenstern</actor>
+      <actor>Nick Easton</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/6367953.jpg" />
+    <country lang="es">Gran Bretaña</country>
+    <rating system="MX">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220904121500 -0300" stop="20220904130500 -0300" channel="LOVE NATURE">
+    <title lang="es">Zambia salvaje</title>
+    <sub-title lang="es">El viaje de Mvula</sub-title>
+    <desc lang="es">En un rincón mágico de Zambia se encuentra un valle extraordinario, un lugar donde los animales más carismáticos de África viven hombro con hombro. Esta serie cuenta historias encantadoras sobre los personajes que llaman hogar a este lugar.(n)</desc>
+    <date>2018</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/13976448.jpg" />
+    <rating system="MX">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220904130500 -0300" stop="20220904140000 -0300" channel="LOVE NATURE">
+    <title lang="es">Secretos del Ártico</title>
+    <sub-title lang="es">El ritmo de la bahía</sub-title>
+    <desc lang="es">Un recorrido por el impresionante norte canadiense con sus temperaturas extremas del Ártico y su emblemática fauna local como los osos polares, los bueyes almizcleros, las ballenas beluga.(n)</desc>
+    <credits>
+      <actor>Shelagh Rogers</actor>
+      <actor>Siobhan Flanagan</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10095377.jpg" />
+    <country lang="es">Canadá</country>
+    <rating system="MX">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220904140000 -0300" stop="20220904145000 -0300" channel="LOVE NATURE">
+    <title lang="es">Secretos del Ártico</title>
+    <sub-title lang="es">Yukón salvaje</sub-title>
+    <desc lang="es">Un recorrido por el impresionante norte canadiense con sus temperaturas extremas del Ártico y su emblemática fauna local como los osos polares, los bueyes almizcleros, las ballenas beluga.(n)</desc>
+    <credits>
+      <actor>Shelagh Rogers</actor>
+      <actor>Siobhan Flanagan</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10095377.jpg" />
+    <country lang="es">Canadá</country>
+    <rating system="MX">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220904145000 -0300" stop="20220904154000 -0300" channel="LOVE NATURE">
+    <title lang="es">Secretos del Ártico</title>
+    <sub-title lang="es">Esperando el invierno</sub-title>
+    <desc lang="es">Un recorrido por el impresionante norte canadiense con sus temperaturas extremas del Ártico y su emblemática fauna local como los osos polares, los bueyes almizcleros, las ballenas beluga.(n)</desc>
+    <credits>
+      <actor>Shelagh Rogers</actor>
+      <actor>Siobhan Flanagan</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10095377.jpg" />
+    <country lang="es">Canadá</country>
+    <rating system="MX">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220904154000 -0300" stop="20220904163500 -0300" channel="LOVE NATURE">
+    <title lang="es">Pridelands: desierto renacido</title>
+    <sub-title lang="es">Episodio 1</sub-title>
+    <desc lang="es">La familia Hutchinson dejó su cómoda vida en Australia y se dispuso a restaurar un antiguo rancho de caza sudafricano llamado Pridelands.(n)</desc>
+    <credits>
+      <actor>Sophie Hutchinson</actor>
+      <actor>Mark Hutchinson</actor>
+    </credits>
+    <date>2000</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/14221346.jpg" />
+    <rating system="MX">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220904163500 -0300" stop="20220904172500 -0300" channel="LOVE NATURE">
+    <title lang="es">Temporadas salvajes de América</title>
+    <sub-title lang="es">Episodio 1</sub-title>
+    <desc lang="es">La espectacular biodiversidad de África se extiende a través de una vasta y numerosa red de ecosistemas. Explore el increíble paisaje del continente y la fauna única que llama hogar a sus diferentes entornos.(n)</desc>
+    <date>2016</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/13426636.jpg" />
+    <rating system="MX">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220904172500 -0300" stop="20220904181500 -0300" channel="LOVE NATURE">
+    <title lang="es">Temporadas salvajes de América</title>
+    <sub-title lang="es">Episodio 2</sub-title>
+    <desc lang="es">La espectacular biodiversidad de África se extiende a través de una vasta y numerosa red de ecosistemas. Explore el increíble paisaje del continente y la fauna única que llama hogar a sus diferentes entornos.(n)</desc>
+    <date>2016</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/13426636.jpg" />
+    <rating system="MX">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220904181500 -0300" stop="20220904190500 -0300" channel="LOVE NATURE">
+    <title lang="es">Temporadas salvajes de América</title>
+    <sub-title lang="es">Episodio 3</sub-title>
+    <desc lang="es">La espectacular biodiversidad de África se extiende a través de una vasta y numerosa red de ecosistemas. Explore el increíble paisaje del continente y la fauna única que llama hogar a sus diferentes entornos.(n)</desc>
+    <date>2016</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/13426636.jpg" />
+    <rating system="MX">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220904190500 -0300" stop="20220904200000 -0300" channel="LOVE NATURE">
+    <title lang="es">Temporadas salvajes de América</title>
+    <sub-title lang="es">Episodio 4</sub-title>
+    <desc lang="es">La espectacular biodiversidad de África se extiende a través de una vasta y numerosa red de ecosistemas. Explore el increíble paisaje del continente y la fauna única que llama hogar a sus diferentes entornos.(n)</desc>
+    <date>2016</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/13426636.jpg" />
+    <rating system="MX">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220904200000 -0300" stop="20220904205500 -0300" channel="LOVE NATURE">
+    <title lang="es">El festín más grande del océano</title>
+    <sub-title lang="es">Episodio 1</sub-title>
+    <desc lang="es">La migración anual de sardinas de Sudáfrica ve miles de millones de sardinas viajando por la costa.(n)</desc>
+    <credits>
+      <actor>Mea Trenor</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/22481221.jpg" />
+    <country lang="es">EE. UU</country>
+    <rating system="MX">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220904205500 -0300" stop="20220904214500 -0300" channel="LOVE NATURE">
+    <title lang="es">Temporadas salvajes de América</title>
+    <sub-title lang="es">Episodio 3</sub-title>
+    <desc lang="es">La espectacular biodiversidad de África se extiende a través de una vasta y numerosa red de ecosistemas. Explore el increíble paisaje del continente y la fauna única que llama hogar a sus diferentes entornos.(n)</desc>
+    <date>2016</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/13426636.jpg" />
+    <rating system="MX">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220904214500 -0300" stop="20220904224000 -0300" channel="LOVE NATURE">
+    <title lang="es">Temporadas salvajes de América</title>
+    <sub-title lang="es">Episodio 4</sub-title>
+    <desc lang="es">La espectacular biodiversidad de África se extiende a través de una vasta y numerosa red de ecosistemas. Explore el increíble paisaje del continente y la fauna única que llama hogar a sus diferentes entornos.(n)</desc>
+    <date>2016</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/13426636.jpg" />
+    <rating system="MX">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220904224000 -0300" stop="20220904233000 -0300" channel="LOVE NATURE">
+    <title lang="es">El festín más grande del océano</title>
+    <sub-title lang="es">Episodio 1</sub-title>
+    <desc lang="es">La migración anual de sardinas de Sudáfrica ve miles de millones de sardinas viajando por la costa.(n)</desc>
+    <credits>
+      <actor>Mea Trenor</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/22481221.jpg" />
+    <country lang="es">EE. UU</country>
+    <rating system="MX">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220904233000 -0300" stop="20220905002500 -0300" channel="LOVE NATURE">
+    <title lang="es">Temporadas salvajes de América</title>
+    <sub-title lang="es">Episodio 3</sub-title>
+    <desc lang="es">La espectacular biodiversidad de África se extiende a través de una vasta y numerosa red de ecosistemas. Explore el increíble paisaje del continente y la fauna única que llama hogar a sus diferentes entornos.(n)</desc>
+    <date>2016</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/13426636.jpg" />
+    <rating system="MX">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220905002500 -0300" stop="20220905011500 -0300" channel="LOVE NATURE">
+    <title lang="es">Temporadas salvajes de América</title>
+    <sub-title lang="es">Episodio 4</sub-title>
+    <desc lang="es">La espectacular biodiversidad de África se extiende a través de una vasta y numerosa red de ecosistemas. Explore el increíble paisaje del continente y la fauna única que llama hogar a sus diferentes entornos.(n)</desc>
+    <date>2016</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/13426636.jpg" />
+    <rating system="MX">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220905011500 -0300" stop="20220905021000 -0300" channel="LOVE NATURE">
+    <title lang="es">El festín más grande del océano</title>
+    <sub-title lang="es">Episodio 1</sub-title>
+    <desc lang="es">La migración anual de sardinas de Sudáfrica ve miles de millones de sardinas viajando por la costa.(n)</desc>
+    <credits>
+      <actor>Mea Trenor</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/22481221.jpg" />
+    <country lang="es">EE. UU</country>
+    <rating system="MX">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220905021000 -0300" stop="20220905030000 -0300" channel="LOVE NATURE">
+    <title lang="es">Paisajes por descubrir</title>
+    <sub-title lang="es">Gros Morne</sub-title>
+    <desc lang="es">Las más bellas imágenes de los lugares más sorprendentes del mundo con su propia fauna y su maravillosa geografía. Las vistas aéreas son acompañadas por historias y mitologías de cada uno de los rincones más impresionantes de la naturaleza.(n)</desc>
+    <credits>
+      <actor>Rod Smith</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10255220.jpg" />
+    <country lang="es">EE. UU</country>
+    <rating system="MX">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220905030000 -0300" stop="20220905035500 -0300" channel="LOVE NATURE">
+    <title lang="es">Paisajes por descubrir</title>
+    <sub-title lang="es">Chile</sub-title>
+    <desc lang="es">Las más bellas imágenes de los lugares más sorprendentes del mundo con su propia fauna y su maravillosa geografía. Las vistas aéreas son acompañadas por historias y mitologías de cada uno de los rincones más impresionantes de la naturaleza.(n)</desc>
+    <credits>
+      <actor>Rod Smith</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10255220.jpg" />
+    <country lang="es">EE. UU</country>
+    <rating system="MX">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220905035500 -0300" stop="20220905042500 -0300" channel="LOVE NATURE">
+    <title lang="es">Criaturas extrañas</title>
+    <sub-title lang="es">Aves extrañas</sub-title>
+    <desc lang="es">No hay información disponible.(n)</desc>
+    <credits>
+      <actor>Chad Barclay</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/648806.JPG" />
+    <country lang="es">Canadá</country>
+    <rating system="MX">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220905042500 -0300" stop="20220905051500 -0300" channel="LOVE NATURE">
+    <title lang="es">Paisajes por descubrir</title>
+    <sub-title lang="es">Bolivia</sub-title>
+    <desc lang="es">Las más bellas imágenes de los lugares más sorprendentes del mundo con su propia fauna y su maravillosa geografía. Las vistas aéreas son acompañadas por historias y mitologías de cada uno de los rincones más impresionantes de la naturaleza.(n)</desc>
+    <credits>
+      <actor>Rod Smith</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10255220.jpg" />
+    <country lang="es">EE. UU</country>
+    <rating system="MX">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220905051500 -0300" stop="20220905060500 -0300" channel="LOVE NATURE">
+    <title lang="es">Paisajes por descubrir</title>
+    <sub-title lang="es">Utah</sub-title>
+    <desc lang="es">Las más bellas imágenes de los lugares más sorprendentes del mundo con su propia fauna y su maravillosa geografía. Las vistas aéreas son acompañadas por historias y mitologías de cada uno de los rincones más impresionantes de la naturaleza.(n)</desc>
+    <credits>
+      <actor>Rod Smith</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10255220.jpg" />
+    <country lang="es">EE. UU</country>
+    <rating system="MX">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220905060500 -0300" stop="20220905070000 -0300" channel="LOVE NATURE">
+    <title lang="es">Escenas de la naturaleza</title>
+    <sub-title lang="es">Animales bebés</sub-title>
+    <desc lang="es">Disfruta estas hermosas y pacíficas imágenes de la naturaleza capturadas en distintas partes del mundo como animales de distintas especies en sus hábitats naturales y enormes paisajes que parecen no haber sido tocados nunca por el hombre.(n)</desc>
+    <date>2015</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/11030988.jpg" />
+    <country lang="es">EE. UU</country>
+    <rating system="MX">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220905070000 -0300" stop="20220905075500 -0300" channel="LOVE NATURE">
+    <title lang="es">África extrema</title>
+    <sub-title lang="es">Episodio 1</sub-title>
+    <desc lang="es">Una serie documental que nos revela las fascinantes criaturas que sobreviven en los hábitats más extremos de África.(n)</desc>
+    <date>2000</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10477190.jpg" />
+    <rating system="MX">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220905075500 -0300" stop="20220905084500 -0300" channel="LOVE NATURE">
+    <title lang="es">África extrema</title>
+    <sub-title lang="es">Episodio 2</sub-title>
+    <desc lang="es">Una serie documental que nos revela las fascinantes criaturas que sobreviven en los hábitats más extremos de África.(n)</desc>
+    <date>2000</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10477190.jpg" />
+    <rating system="MX">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220905084500 -0300" stop="20220905093500 -0300" channel="LOVE NATURE">
+    <title lang="es">África extrema</title>
+    <sub-title lang="es">Episodio 3</sub-title>
+    <desc lang="es">Una serie documental que nos revela las fascinantes criaturas que sobreviven en los hábitats más extremos de África.(n)</desc>
+    <date>2000</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10477190.jpg" />
+    <rating system="MX">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220905093500 -0300" stop="20220905103000 -0300" channel="LOVE NATURE">
+    <title lang="es">África extrema</title>
+    <sub-title lang="es">Episodio 4</sub-title>
+    <desc lang="es">Una serie documental que nos revela las fascinantes criaturas que sobreviven en los hábitats más extremos de África.(n)</desc>
+    <date>2000</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10477190.jpg" />
+    <rating system="MX">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220905103000 -0300" stop="20220905112500 -0300" channel="LOVE NATURE">
+    <title lang="es">Dentro de lo salvaje: India</title>
+    <sub-title lang="es">Episodio 1</sub-title>
+    <desc lang="es">Un acercamiento al lado salvaje de India con sus características criaturas en sus retos diarios para conseguir alimento, sobrevivir y convivir con el resto de los animales que habitan el subcontinente.(n)</desc>
+    <date>2018</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10325960.jpg" />
+    <country lang="es">Gran Bretaña</country>
+    <rating system="MX">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220905112500 -0300" stop="20220905121500 -0300" channel="LOVE NATURE">
+    <title lang="es">Perros con trabajos extraordinarios</title>
+    <sub-title lang="es">Episodio 1</sub-title>
+    <desc lang="es">La serie explora las historias de trabajos increíblementes importantes que hacen nuestros amigos de cuatro patas en todo el mundo.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10477334.jpg" />
+    <country lang="es">Gran Bretaña</country>
+    <rating system="MX">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220905121500 -0300" stop="20220905130500 -0300" channel="LOVE NATURE">
+    <title lang="es">Rescate en el Pacífico salvaje</title>
+    <sub-title lang="es">Episodio 3</sub-title>
+    <desc lang="es">Siga al veterinario, Dr. Marty Haulena y su equipo de especialistas en cuidado animal, en los mares de Vancouver, Canadá, y en el Centro de Rescate de Mamíferos Marinos, mientras rescatan, rehabilitan y liberan animales icónicos del océano.(n)</desc>
+    <credits>
+      <actor>Dr Martin Haulena</actor>
+      <actor>Lindsaye Akhurst</actor>
+      <actor>Emily Johnson</actor>
+      <actor>Sion Cahoon</actor>
+      <actor>Mike Sheehan</actor>
+      <actor>Andrew Munger</actor>
+      <actor>Stephen Paniccia</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="es">Interés general</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/15282719.jpg" />
+    <country lang="es">Canadá</country>
+    <rating system="MX">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220905130500 -0300" stop="20220905140000 -0300" channel="LOVE NATURE">
+    <title lang="es">Paisajes por descubrir</title>
+    <sub-title lang="es">Arizona</sub-title>
+    <desc lang="es">Las más bellas imágenes de los lugares más sorprendentes del mundo con su propia fauna y su maravillosa geografía. Las vistas aéreas son acompañadas por historias y mitologías de cada uno de los rincones más impresionantes de la naturaleza.(n)</desc>
+    <credits>
+      <actor>Rod Smith</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10255220.jpg" />
+    <country lang="es">EE. UU</country>
+    <rating system="MX">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220905140000 -0300" stop="20220905145000 -0300" channel="LOVE NATURE">
+    <title lang="es">Paisajes por descubrir</title>
+    <sub-title lang="es">Bahamas</sub-title>
+    <desc lang="es">Las más bellas imágenes de los lugares más sorprendentes del mundo con su propia fauna y su maravillosa geografía. Las vistas aéreas son acompañadas por historias y mitologías de cada uno de los rincones más impresionantes de la naturaleza.(n)</desc>
+    <credits>
+      <actor>Rod Smith</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10255220.jpg" />
+    <country lang="es">EE. UU</country>
+    <rating system="MX">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220905145000 -0300" stop="20220905154000 -0300" channel="LOVE NATURE">
+    <title lang="es">Paisajes por descubrir</title>
+    <sub-title lang="es">Episodio 7</sub-title>
+    <desc lang="es">Las más bellas imágenes de los lugares más sorprendentes del mundo con su propia fauna y su maravillosa geografía. Las vistas aéreas son acompañadas por historias y mitologías de cada uno de los rincones más impresionantes de la naturaleza.(n)</desc>
+    <credits>
+      <actor>Rod Smith</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10255220.jpg" />
+    <country lang="es">EE. UU</country>
+    <rating system="MX">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220905154000 -0300" stop="20220905163500 -0300" channel="LOVE NATURE">
+    <title lang="es">Paisajes por descubrir</title>
+    <sub-title lang="es">Niágara</sub-title>
+    <desc lang="es">Las más bellas imágenes de los lugares más sorprendentes del mundo con su propia fauna y su maravillosa geografía. Las vistas aéreas son acompañadas por historias y mitologías de cada uno de los rincones más impresionantes de la naturaleza.(n)</desc>
+    <credits>
+      <actor>Rod Smith</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10255220.jpg" />
+    <country lang="es">EE. UU</country>
+    <rating system="MX">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220905163500 -0300" stop="20220905172500 -0300" channel="LOVE NATURE">
+    <title lang="es">Dentro de lo salvaje: India</title>
+    <sub-title lang="es">Episodio 1</sub-title>
+    <desc lang="es">Un acercamiento al lado salvaje de India con sus características criaturas en sus retos diarios para conseguir alimento, sobrevivir y convivir con el resto de los animales que habitan el subcontinente.(n)</desc>
+    <date>2018</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10325960.jpg" />
+    <country lang="es">Gran Bretaña</country>
+    <rating system="MX">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220905172500 -0300" stop="20220905181500 -0300" channel="LOVE NATURE">
+    <title lang="es">Perros con trabajos extraordinarios</title>
+    <sub-title lang="es">Episodio 1</sub-title>
+    <desc lang="es">La serie explora las historias de trabajos increíblementes importantes que hacen nuestros amigos de cuatro patas en todo el mundo.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10477334.jpg" />
+    <country lang="es">Gran Bretaña</country>
+    <rating system="MX">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220905181500 -0300" stop="20220905190500 -0300" channel="LOVE NATURE">
+    <title lang="es">Rescate en el Pacífico salvaje</title>
+    <sub-title lang="es">Episodio 3</sub-title>
+    <desc lang="es">Siga al veterinario, Dr. Marty Haulena y su equipo de especialistas en cuidado animal, en los mares de Vancouver, Canadá, y en el Centro de Rescate de Mamíferos Marinos, mientras rescatan, rehabilitan y liberan animales icónicos del océano.(n)</desc>
+    <credits>
+      <actor>Dr Martin Haulena</actor>
+      <actor>Lindsaye Akhurst</actor>
+      <actor>Emily Johnson</actor>
+      <actor>Sion Cahoon</actor>
+      <actor>Mike Sheehan</actor>
+      <actor>Andrew Munger</actor>
+      <actor>Stephen Paniccia</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="es">Interés general</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/15282719.jpg" />
+    <country lang="es">Canadá</country>
+    <rating system="MX">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220905190500 -0300" stop="20220905200000 -0300" channel="LOVE NATURE">
+    <title lang="es">África extrema</title>
+    <sub-title lang="es">Episodio 1</sub-title>
+    <desc lang="es">Una serie documental que nos revela las fascinantes criaturas que sobreviven en los hábitats más extremos de África.(n)</desc>
+    <date>2000</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10477190.jpg" />
+    <rating system="MX">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220905200000 -0300" stop="20220905205500 -0300" channel="LOVE NATURE">
+    <title lang="es">África extrema</title>
+    <sub-title lang="es">Episodio 2</sub-title>
+    <desc lang="es">Una serie documental que nos revela las fascinantes criaturas que sobreviven en los hábitats más extremos de África.(n)</desc>
+    <date>2000</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10477190.jpg" />
+    <rating system="MX">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220905205500 -0300" stop="20220905214500 -0300" channel="LOVE NATURE">
+    <title lang="es">África extrema</title>
+    <sub-title lang="es">Episodio 3</sub-title>
+    <desc lang="es">Una serie documental que nos revela las fascinantes criaturas que sobreviven en los hábitats más extremos de África.(n)</desc>
+    <date>2000</date>
+    <category lang="es">Documental</category>
+    <icon src="http://www.reportv.com.ar/buscador/img/Programas/10477190.jpg" />
+    <rating system="MX">
       <value>TV-14</value>
     </rating>
   </programme>
