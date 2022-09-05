@@ -10,6 +10,10 @@
     <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/1149.png" />
     <url>http://www.directv.cl</url>
   </channel>
+  <channel id="UniMás">
+    <display-name lang="en">UniMás</display-name>
+    <url>http://www.tvguide.com</url>
+  </channel>
   <programme start="20220905001500 -0500" stop="20220905020000 -0500" channel="Caracol TV (COL)">
     <title lang="es">Rosemary's Baby</title>
     <desc lang="es">Rosemary Woodhouse sospecha que sus vecinos pueden pertenecer a un culto satánico que están empeñados en conseguir una cosa: el bebé que va a tener.(n)</desc>
@@ -714,5 +718,478 @@
     <rating system="CL">
       <value>NR</value>
     </rating>
+  </programme>
+  <programme start="20220905000000 +0000" stop="20220905020000 +0000" channel="UniMás">
+    <title lang="en">Fútbol de la MLS (live)</title>
+    <sub-title lang="en">Los Angeles Galaxy vs. Sporting Kansas City</sub-title>
+    <desc lang="en">Los Angeles Galaxy vs. Sporting Kansas City. Desde Dignity Health Sports Park.(n)</desc>
+    <date>2022</date>
+  </programme>
+  <programme start="20220905020000 +0000" stop="20220905040000 +0000" channel="UniMás">
+    <title lang="en">Shepherd: The Border Patrol</title>
+    <desc lang="en">Un agente fronterizo intenta apresar a una unidad de esfuerzas especiales renegada que trafica heroína de México a EE.UU.(n)</desc>
+    <date>2007</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220905040000 +0000" stop="20220905060000 +0000" channel="UniMás">
+    <title lang="en">China Salesman</title>
+    <desc lang="en">Un vendedor chino y un competidor corrupto pelean por un contrato para la primera tecnología de telecomunicaciones móviles en África.(n)</desc>
+    <date>2017</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220905060000 +0000" stop="20220905080000 +0000" channel="UniMás">
+    <title lang="en">Into the Blue</title>
+    <desc lang="en">Cuando cuatro buceadores descubren algo maravilloso en las profundidades del océano creen que su sueño de hallar un tesoro se ha hecho realidad. Pero allí también encontrarán un siniestro misterio.(n)</desc>
+    <date>2005</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220905080000 +0000" stop="20220905083000 +0000" channel="UniMás">
+    <title lang="en">Programa Pagado</title>
+    <date>2021</date>
+  </programme>
+  <programme start="20220905083000 +0000" stop="20220905090000 +0000" channel="UniMás">
+    <title lang="en">Programa Pagado</title>
+    <date>2021</date>
+  </programme>
+  <programme start="20220905090000 +0000" stop="20220905100000 +0000" channel="UniMás">
+    <title lang="en">Veredicto Final</title>
+    <sub-title lang="en">08-10-2021</sub-title>
+    <date>2007</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220905100000 +0000" stop="20220905110000 +0000" channel="UniMás">
+    <title lang="en">Esta historia me suena</title>
+    <sub-title lang="en">17 años</sub-title>
+    <desc lang="en">Jimena es una adolescente de 17 años que ha mantenido una relación en secreto con un hombre 23 años mayor que ella, con quien tiene un hijo. Ella será chantajeada para que no lo acusen de pedofilia.(n)</desc>
+    <date>2019</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220905110000 +0000" stop="20220905120000 +0000" channel="UniMás">
+    <title lang="en">Veredicto Final</title>
+    <sub-title lang="en">08-11-2021</sub-title>
+    <date>2007</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220905120000 +0000" stop="20220905130000 +0000" channel="UniMás">
+    <title lang="en">¡Vivan los Niños!</title>
+    <sub-title lang="en">Episodio 03</sub-title>
+    <date>2002</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220905130000 +0000" stop="20220905150000 +0000" channel="UniMás">
+    <title lang="en">Triunfo del Amor</title>
+    <sub-title lang="en">09-05-2022</sub-title>
+    <date>2010</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220905150000 +0000" stop="20220905160000 +0000" channel="UniMás">
+    <title lang="en">La 3ra. en Discordia (new)</title>
+    <sub-title lang="en">09-05-2022</sub-title>
+    <date>2019</date>
+    <premiere />
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220905160000 +0000" stop="20220905180000 +0000" channel="UniMás">
+    <title lang="en">Que Te Perdone Dios... Yo No (new)</title>
+    <sub-title lang="en">09-05-2022</sub-title>
+    <date>2015</date>
+    <premiere />
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220905180000 +0000" stop="20220905190000 +0000" channel="UniMás">
+    <title lang="en">Como dice el dicho (new)</title>
+    <desc lang="en">Desde que Verónica inicia una amistad con Ana, comienza a creer que Luis es su amigo por interés, supuestamente para pagarle un tratamiento a su hermano enfermo. Averigua quién de los dos estará aprovechándose de la amistad de Verónica.(n)</desc>
+    <date>2020</date>
+    <premiere />
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220905190000 +0000" stop="20220905210000 +0000" channel="UniMás">
+    <title lang="en">Pájaro Soñador (new)</title>
+    <sub-title lang="en">09-05-2022</sub-title>
+    <date>2018</date>
+    <premiere />
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220905210000 +0000" stop="20220905220000 +0000" channel="UniMás">
+    <title lang="en">La fea más bella (new)</title>
+    <date>2006</date>
+    <premiere />
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220905220000 +0000" stop="20220905230000 +0000" channel="UniMás">
+    <title lang="en">Teresa (new)</title>
+    <sub-title lang="en">09-05-2022</sub-title>
+    <date>2010</date>
+    <premiere />
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220905230000 +0000" stop="20220906000000 +0000" channel="UniMás">
+    <title lang="en">¡Siéntese Quien Pueda! (new)</title>
+    <date>2022</date>
+    <premiere />
+  </programme>
+  <programme start="20220906000000 +0000" stop="20220906020000 +0000" channel="UniMás">
+    <title lang="en">Enamorándonos (live)</title>
+    <sub-title lang="en">09-05-2022</sub-title>
+    <date>2022</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220906020000 +0000" stop="20220906030000 +0000" channel="UniMás">
+    <title lang="en">Reto 4 Elementos, Naturaleza Extrema (new)</title>
+    <sub-title lang="en">09-02-2022</sub-title>
+    <date>2022</date>
+    <premiere />
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220906030000 +0000" stop="20220906040000 +0000" channel="UniMás">
+    <title lang="en">Como dice el dicho (new)</title>
+    <desc lang="en">Ricardo y Mónica son juniors berrinchudos que no tienen límites y pasan por encima de todo y de todos, hasta un fatal accidente con su primo Paulino enfrentarán quiénes son en verdad y aprenderán.(n)</desc>
+    <date>2020</date>
+    <premiere />
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220906040000 +0000" stop="20220906043000 +0000" channel="UniMás">
+    <title lang="en">Una Familia de Diez</title>
+    <date>2007</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220906043000 +0000" stop="20220906050000 +0000" channel="UniMás">
+    <title lang="en">Una Familia de Diez</title>
+    <date>2007</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220906050000 +0000" stop="20220906053000 +0000" channel="UniMás">
+    <title lang="en">Nosotros los Guapos</title>
+    <sub-title lang="en">10-23-2021</sub-title>
+    <date>2016</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220906053000 +0000" stop="20220906060000 +0000" channel="UniMás">
+    <title lang="en">Nosotros los Guapos</title>
+    <sub-title lang="en">08-25-2021</sub-title>
+    <date>2016</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220906060000 +0000" stop="20220906070000 +0000" channel="UniMás">
+    <title lang="en">Esta historia me suena</title>
+    <sub-title lang="en">17 años</sub-title>
+    <desc lang="en">Jimena es una adolescente de 17 años que ha mantenido una relación en secreto con un hombre 23 años mayor que ella, con quien tiene un hijo. Ella será chantajeada para que no lo acusen de pedofilia.(n)</desc>
+    <date>2019</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220906070000 +0000" stop="20220906073000 +0000" channel="UniMás">
+    <title lang="en">Programa Pagado</title>
+    <date>2021</date>
+  </programme>
+  <programme start="20220906073000 +0000" stop="20220906080000 +0000" channel="UniMás">
+    <title lang="en">Programa Pagado</title>
+    <date>2021</date>
+  </programme>
+  <programme start="20220906080000 +0000" stop="20220906083000 +0000" channel="UniMás">
+    <title lang="en">Programa Pagado</title>
+    <date>2021</date>
+  </programme>
+  <programme start="20220906083000 +0000" stop="20220906090000 +0000" channel="UniMás">
+    <title lang="en">Programa Pagado</title>
+    <date>2021</date>
+  </programme>
+  <programme start="20220906090000 +0000" stop="20220906100000 +0000" channel="UniMás">
+    <title lang="en">Veredicto Final</title>
+    <sub-title lang="en">08-11-2021</sub-title>
+    <date>2007</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220906100000 +0000" stop="20220906110000 +0000" channel="UniMás">
+    <title lang="en">Esta historia me suena</title>
+    <sub-title lang="en">La llave</sub-title>
+    <desc lang="en">Meli apoya a su hermana mayor, Dalia en una mentira que a la hermana le cuesta la vida. A raíz del feminicidio de Dalia, en Meli surge la posibilidad no solo de hacer justicia para ella y para su amor, Wil sino de ser reconocida por su madre, tanto por su inteligencia como valía. Es así que Meli logra hacer frente a un grupo de juniors, abusadores y asesinos.(n)</desc>
+    <date>2020</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220906110000 +0000" stop="20220906120000 +0000" channel="UniMás">
+    <title lang="en">Veredicto Final</title>
+    <sub-title lang="en">08-12-2021</sub-title>
+    <date>2007</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220906120000 +0000" stop="20220906130000 +0000" channel="UniMás">
+    <title lang="en">¡Vivan los Niños!</title>
+    <sub-title lang="en">Episodio 112</sub-title>
+    <date>2002</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220906130000 +0000" stop="20220906133000 +0000" channel="UniMás">
+    <title lang="en">Una Familia de Diez</title>
+    <date>2007</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220906133000 +0000" stop="20220906140000 +0000" channel="UniMás">
+    <title lang="en">Una Familia de Diez</title>
+    <date>2007</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220906140000 +0000" stop="20220906143000 +0000" channel="UniMás">
+    <title lang="en">Nosotros Los Guapos</title>
+    <sub-title lang="en">08-26-2021</sub-title>
+    <date>2016</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220906143000 +0000" stop="20220906150000 +0000" channel="UniMás">
+    <title lang="en">Nosotros los Guapos</title>
+    <sub-title lang="en">08-22-2021</sub-title>
+    <date>2016</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220906150000 +0000" stop="20220906160000 +0000" channel="UniMás">
+    <title lang="en">La 3ra. en Discordia (new)</title>
+    <sub-title lang="en">09-06-2022</sub-title>
+    <date>2019</date>
+    <premiere />
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220906160000 +0000" stop="20220906163000 +0000" channel="UniMás">
+    <title lang="en">Futbol Central (live)</title>
+    <sub-title lang="en">09-06-2022</sub-title>
+    <date>2014</date>
+  </programme>
+  <programme start="20220906163000 +0000" stop="20220906185000 +0000" channel="UniMás">
+    <title lang="en">Fútbol: UEFA Champions League (live)</title>
+  </programme>
+  <programme start="20220906185000 +0000" stop="20220906210000 +0000" channel="UniMás">
+    <title lang="en">Fútbol: UEFA Champions League (live)</title>
+  </programme>
+  <programme start="20220906210000 +0000" stop="20220906220000 +0000" channel="UniMás">
+    <title lang="en">Misión Europa (live)</title>
+    <sub-title lang="en">09-06-2022</sub-title>
+    <date>2018</date>
+  </programme>
+  <programme start="20220906220000 +0000" stop="20220906230000 +0000" channel="UniMás">
+    <title lang="en">Como Dice el Dicho (new)</title>
+    <date>2011</date>
+    <premiere />
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220906230000 +0000" stop="20220907000000 +0000" channel="UniMás">
+    <title lang="en">¡Siéntese Quien Pueda! (new)</title>
+    <date>2022</date>
+    <premiere />
+  </programme>
+  <programme start="20220907000000 +0000" stop="20220907020000 +0000" channel="UniMás">
+    <title lang="en">Fútbol: Liga MX (live)</title>
+    <sub-title lang="en">León vs. Juárez</sub-title>
+    <desc lang="en">León vs. Juárez. Desde Estadio León.(n)</desc>
+    <date>2022</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220907020000 +0000" stop="20220907040000 +0000" channel="UniMás">
+    <title lang="en">Fútbol: Liga MX (live)</title>
+    <sub-title lang="en">Club América vs. Atlético San Luis</sub-title>
+    <desc lang="en">Club América vs. Atlético San Luis. Desde Estadio Azteca.(n)</desc>
+    <date>2022</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220907040000 +0000" stop="20220907060000 +0000" channel="UniMás">
+    <title lang="en">Hercules</title>
+    <desc lang="en">Un Hércules atormentado debe llamar a su héroe interior para salvar el reino de Tracia de un señor de la guerra del mal. Con la ayuda de su leal banda de mercenarios, este lucha para restaurar la paz allí.(n)</desc>
+    <date>2014</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220907060000 +0000" stop="20220907070000 +0000" channel="UniMás">
+    <title lang="en">Esta historia me suena</title>
+    <sub-title lang="en">La llave</sub-title>
+    <desc lang="en">Meli apoya a su hermana mayor, Dalia en una mentira que a la hermana le cuesta la vida. A raíz del feminicidio de Dalia, en Meli surge la posibilidad no solo de hacer justicia para ella y para su amor, Wil sino de ser reconocida por su madre, tanto por su inteligencia como valía. Es así que Meli logra hacer frente a un grupo de juniors, abusadores y asesinos.(n)</desc>
+    <date>2020</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220907070000 +0000" stop="20220907073000 +0000" channel="UniMás">
+    <title lang="en">Programa Pagado</title>
+    <date>2021</date>
+  </programme>
+  <programme start="20220907073000 +0000" stop="20220907080000 +0000" channel="UniMás">
+    <title lang="en">Programa Pagado</title>
+    <date>2021</date>
+  </programme>
+  <programme start="20220907080000 +0000" stop="20220907083000 +0000" channel="UniMás">
+    <title lang="en">Programa Pagado</title>
+    <date>2021</date>
+  </programme>
+  <programme start="20220907083000 +0000" stop="20220907090000 +0000" channel="UniMás">
+    <title lang="en">Programa Pagado</title>
+    <date>2021</date>
+  </programme>
+  <programme start="20220907090000 +0000" stop="20220907100000 +0000" channel="UniMás">
+    <title lang="en">Veredicto Final</title>
+    <sub-title lang="en">08-12-2021</sub-title>
+    <date>2007</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220907100000 +0000" stop="20220907110000 +0000" channel="UniMás">
+    <title lang="en">Esta historia me suena</title>
+    <sub-title lang="en">Échame la culpa</sub-title>
+    <desc lang="en">Martha le oculta a su hermano Miguel su gusto por el arte. Y cuando conoce a Abel, a este le ocultará que también le gusta el grafiti. Mira si Miguel y Abel la culparán por no ser sincera con ellos y por no tener sus propios gustos.(n)</desc>
+    <date>2019</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220907110000 +0000" stop="20220907120000 +0000" channel="UniMás">
+    <title lang="en">Veredicto Final</title>
+    <sub-title lang="en">08-13-2021</sub-title>
+    <date>2007</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220907120000 +0000" stop="20220907130000 +0000" channel="UniMás">
+    <title lang="en">¡Vivan los Niños!</title>
+    <sub-title lang="en">Episodio 03</sub-title>
+    <date>2002</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220907130000 +0000" stop="20220907133000 +0000" channel="UniMás">
+    <title lang="en">Una Familia de Diez</title>
+    <date>2007</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220907133000 +0000" stop="20220907140000 +0000" channel="UniMás">
+    <title lang="en">Una Familia de Diez</title>
+    <date>2007</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220907140000 +0000" stop="20220907150000 +0000" channel="UniMás">
+    <title lang="en">Como Dice el Dicho (new)</title>
+    <date>2011</date>
+    <premiere />
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220907150000 +0000" stop="20220907160000 +0000" channel="UniMás">
+    <title lang="en">La 3ra. en Discordia (new)</title>
+    <sub-title lang="en">09-07-2022</sub-title>
+    <date>2019</date>
+    <premiere />
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220907160000 +0000" stop="20220907163000 +0000" channel="UniMás">
+    <title lang="en">Futbol Central (live)</title>
+    <sub-title lang="en">09-07-2022</sub-title>
+    <date>2014</date>
+  </programme>
+  <programme start="20220907163000 +0000" stop="20220907190000 +0000" channel="UniMás">
+    <title lang="en">Fútbol: UEFA Champions League (live)</title>
+  </programme>
+  <programme start="20220907190000 +0000" stop="20220907210000 +0000" channel="UniMás">
+    <title lang="en">Pájaro Soñador (new)</title>
+    <sub-title lang="en">09-07-2022</sub-title>
+    <date>2018</date>
+    <premiere />
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220907210000 +0000" stop="20220907220000 +0000" channel="UniMás">
+    <title lang="en">La fea más bella (new)</title>
+    <date>2006</date>
+    <premiere />
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220907220000 +0000" stop="20220907230000 +0000" channel="UniMás">
+    <title lang="en">Teresa (new)</title>
+    <sub-title lang="en">09-07-2022</sub-title>
+    <date>2010</date>
+    <premiere />
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220907230000 +0000" stop="20220908000000 +0000" channel="UniMás">
+    <title lang="en">¡Siéntese Quien Pueda! (new)</title>
+    <date>2022</date>
+    <premiere />
   </programme>
 </tv>
