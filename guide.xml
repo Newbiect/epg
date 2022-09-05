@@ -1,9 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Dominican Republic">
-    <display-name lang="en">Dominican Republic</display-name>
-    <url>http://www.tvguide.com</url>
-  </channel>
   <channel id="Caracol TV (COL)">
     <display-name lang="es">Caracol TV (COL)</display-name>
     <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/132.png" />
@@ -30,9 +26,10 @@
     <display-name lang="en">Telemundo</display-name>
     <url>http://www.tvguide.com</url>
   </channel>
-  <channel id="Spectrum - Manhattan, NY">
-    <display-name lang="en">Spectrum - Manhattan, NY</display-name>
-    <url>http://www.tvpassport.com</url>
+  <channel id="Clover Channel">
+    <display-name lang="es">Clover Channel</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6400603_DE0CBB7B732B556A.png" />
+    <url>http://www.movistar.com.pe</url>
   </channel>
   <programme start="20220905001500 -0500" stop="20220905020000 -0500" channel="Caracol TV (COL)">
     <title lang="es">Rosemary's Baby</title>
@@ -1284,8 +1281,8 @@
   <programme start="20220906040000 -0500" stop="20220906050000 -0500" channel="RCN Novelas">
     <title lang="es">No olvidaras mi nombre</title>
   </programme>
-  <programme start="20220906150000 -0500" stop="20220906160000 -0500" channel="RCN Novelas">
-    <title lang="es">Garzón</title>
+  <programme start="20220906160000 -0500" stop="20220906170000 -0500" channel="RCN Novelas">
+    <title lang="es">No olvidaras mi nombre</title>
   </programme>
   <programme start="20220905000000 +0000" stop="20220905023000 +0000" channel="Univision">
     <title lang="en">El Retador (new)</title>
@@ -2226,5 +2223,564 @@
     <desc lang="en">Una competencia donde 16 celebridades se enfrentan para ganar el título de Top Chef VIP.(n)</desc>
     <date>2022</date>
     <premiere />
+  </programme>
+  <programme start="20220905190500 +0000" stop="20220905205500 +0000" channel="Clover Channel">
+    <title lang="es">Un fantasma fastidioso</title>
+    <desc lang="es">Bertram Pincus, un dentista antipático, muere durante unos instantes en el transcurso de una intervención médica rutinaria. A partir de ese momento adquiere la habilidad de notar a la gente muerta, por lo ahora es muy solicitado por los fantasmas, que le piden ayuda para contactarse con los vivos.(n)</desc>
+    <credits>
+      <director>David Koepp</director>
+      <actor>Claire Maurier</actor>
+      <actor>Deborah S. Craig</actor>
+      <actor>Jordan Carlos</actor>
+      <actor>Danai Gurira</actor>
+      <actor>Dequina Moore</actor>
+      <actor>Téa Leoni</actor>
+      <actor>Greg Kinnear</actor>
+      <actor>Billy Campbell</actor>
+      <actor>Ricky Gervais</actor>
+    </credits>
+    <category lang="es">Comedia</category>
+    <category lang="es">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/80/12801047_5A73A6DC43F06994.jpg" />
+    <country lang="es">US</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20220905205500 +0000" stop="20220905225500 +0000" channel="Clover Channel">
+    <title lang="es">Las horas</title>
+    <desc lang="es">Cuenta tres historias situadas en lugares y contextos distintos: La escritora Virginia Woolf, en la Inglaterra de los años 20; un ama de casa en la California de 1941; y una lesbiana que ayuda a su amigo, un brillante poeta, con sida en Nueva York de 2000.(n)</desc>
+    <credits>
+      <director>Stephen Daldry</director>
+      <actor>Lyndsey Marshal</actor>
+      <actor>Nicole Kidman</actor>
+      <actor>Meryl Streep</actor>
+      <actor>Stephen Dillane</actor>
+      <actor>Julianne Moore</actor>
+      <actor>John C. Reilly</actor>
+      <actor>Miranda Richardson</actor>
+      <actor>John Reilly</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <category lang="es">Romance</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/31/12318160_FAB4686498B83D03.jpg" />
+    <country lang="es">US</country>
+    <rating system="MJColombia">
+      <value>+18</value>
+    </rating>
+  </programme>
+  <programme start="20220905225500 +0000" stop="20220906010000 +0000" channel="Clover Channel">
+    <title lang="es">La conversación</title>
+    <desc lang="es">Un detective de reconocido prestigio como especialista en vigilancia y sistemas de seguridad, es contratado por un magnate para investigar a su joven esposa, que mantiene una relación con uno de sus empleados.(n)</desc>
+    <credits>
+      <director>Francis Ford Coppola</director>
+      <actor>Cindy Williams</actor>
+      <actor>Frederic Forrest</actor>
+      <actor>Michael Higgins</actor>
+      <actor>Allen Garfield</actor>
+      <actor>John Cazale</actor>
+      <actor>Gene Hackman</actor>
+      <actor>Harrison Ford</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <category lang="es">Suspenso</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/41/12416872_38585BDC12188219.jpg" />
+    <country lang="es">US</country>
+    <rating system="MJColombia">
+      <value>+18</value>
+    </rating>
+  </programme>
+  <programme start="20220906010000 +0000" stop="20220906031000 +0000" channel="Clover Channel">
+    <title lang="es">El crimen del padre Amaro</title>
+    <desc lang="es">Amaro, un joven de 24 años recién ordenado sacerdote, llega a la parroquia del pequeño pueblo mexicano de Los Reyes para auxiliar en los servicios del templo al padre Benito. Allí, el padre conoce a Amelia, una hermosa joven de 16 años. Sin embargo, poco a poco, Amaro se va dando cuenta de cosas que suceden en el pueblo, relacionadas con los narcos de la región, además surge un sentimiento prohibido.(n)</desc>
+    <credits>
+      <director>Carlos Carrera</director>
+      <actor>Damián Alcázar</actor>
+      <actor>Gael García Bernal</actor>
+      <actor>Ana Claudia Talancón</actor>
+      <actor>Sancho Gracia</actor>
+      <actor>Angélica Aragón</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/74/11742259_B33504E25770760E.jpg" />
+    <country lang="es">MX</country>
+    <rating system="MJColombia">
+      <value>+18</value>
+    </rating>
+  </programme>
+  <programme start="20220906031000 +0000" stop="20220906051500 +0000" channel="Clover Channel">
+    <title lang="es">Las horas</title>
+    <desc lang="es">Cuenta tres historias situadas en lugares y contextos distintos: La escritora Virginia Woolf, en la Inglaterra de los años 20; un ama de casa en la California de 1941; y una lesbiana que ayuda a su amigo, un brillante poeta, con sida en Nueva York de 2000.(n)</desc>
+    <credits>
+      <director>Stephen Daldry</director>
+      <actor>Lyndsey Marshal</actor>
+      <actor>Nicole Kidman</actor>
+      <actor>Meryl Streep</actor>
+      <actor>Stephen Dillane</actor>
+      <actor>Julianne Moore</actor>
+      <actor>John C. Reilly</actor>
+      <actor>Miranda Richardson</actor>
+      <actor>John Reilly</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <category lang="es">Romance</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/31/12318160_FAB4686498B83D03.jpg" />
+    <country lang="es">US</country>
+    <rating system="MJColombia">
+      <value>+18</value>
+    </rating>
+  </programme>
+  <programme start="20220906051500 +0000" stop="20220906072000 +0000" channel="Clover Channel">
+    <title lang="es">La conversación</title>
+    <desc lang="es">Un detective de reconocido prestigio como especialista en vigilancia y sistemas de seguridad, es contratado por un magnate para investigar a su joven esposa, que mantiene una relación con uno de sus empleados.(n)</desc>
+    <credits>
+      <director>Francis Ford Coppola</director>
+      <actor>Cindy Williams</actor>
+      <actor>Frederic Forrest</actor>
+      <actor>Michael Higgins</actor>
+      <actor>Allen Garfield</actor>
+      <actor>John Cazale</actor>
+      <actor>Gene Hackman</actor>
+      <actor>Harrison Ford</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <category lang="es">Suspenso</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/41/12416872_38585BDC12188219.jpg" />
+    <country lang="es">US</country>
+    <rating system="MJColombia">
+      <value>+18</value>
+    </rating>
+  </programme>
+  <programme start="20220906072000 +0000" stop="20220906093000 +0000" channel="Clover Channel">
+    <title lang="es">El crimen del padre Amaro</title>
+    <desc lang="es">Amaro, un joven de 24 años recién ordenado sacerdote, llega a la parroquia del pequeño pueblo mexicano de Los Reyes para auxiliar en los servicios del templo al padre Benito. Allí, el padre conoce a Amelia, una hermosa joven de 16 años. Sin embargo, poco a poco, Amaro se va dando cuenta de cosas que suceden en el pueblo, relacionadas con los narcos de la región, además surge un sentimiento prohibido.(n)</desc>
+    <credits>
+      <director>Carlos Carrera</director>
+      <actor>Damián Alcázar</actor>
+      <actor>Gael García Bernal</actor>
+      <actor>Ana Claudia Talancón</actor>
+      <actor>Sancho Gracia</actor>
+      <actor>Angélica Aragón</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/74/11742259_B33504E25770760E.jpg" />
+    <country lang="es">MX</country>
+    <rating system="MJColombia">
+      <value>+18</value>
+    </rating>
+  </programme>
+  <programme start="20220906093000 +0000" stop="20220906114000 +0000" channel="Clover Channel">
+    <title lang="es">Las horas</title>
+    <desc lang="es">Cuenta tres historias situadas en lugares y contextos distintos: La escritora Virginia Woolf, en la Inglaterra de los años 20; un ama de casa en la California de 1941; y una lesbiana que ayuda a su amigo, un brillante poeta, con sida en Nueva York de 2000.(n)</desc>
+    <credits>
+      <director>Stephen Daldry</director>
+      <actor>Lyndsey Marshal</actor>
+      <actor>Nicole Kidman</actor>
+      <actor>Meryl Streep</actor>
+      <actor>Stephen Dillane</actor>
+      <actor>Julianne Moore</actor>
+      <actor>John C. Reilly</actor>
+      <actor>Miranda Richardson</actor>
+      <actor>John Reilly</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <category lang="es">Romance</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/31/12318160_FAB4686498B83D03.jpg" />
+    <country lang="es">US</country>
+    <rating system="MJColombia">
+      <value>+18</value>
+    </rating>
+  </programme>
+  <programme start="20220906114000 +0000" stop="20220906134500 +0000" channel="Clover Channel">
+    <title lang="es">La conversación</title>
+    <desc lang="es">Un detective de reconocido prestigio como especialista en vigilancia y sistemas de seguridad, es contratado por un magnate para investigar a su joven esposa, que mantiene una relación con uno de sus empleados.(n)</desc>
+    <credits>
+      <director>Francis Ford Coppola</director>
+      <actor>Cindy Williams</actor>
+      <actor>Frederic Forrest</actor>
+      <actor>Michael Higgins</actor>
+      <actor>Allen Garfield</actor>
+      <actor>John Cazale</actor>
+      <actor>Gene Hackman</actor>
+      <actor>Harrison Ford</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <category lang="es">Suspenso</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/41/12416872_38585BDC12188219.jpg" />
+    <country lang="es">US</country>
+    <rating system="MJColombia">
+      <value>+18</value>
+    </rating>
+  </programme>
+  <programme start="20220906134500 +0000" stop="20220906152000 +0000" channel="Clover Channel">
+    <title lang="es">Scary Movie 3</title>
+    <desc lang="es">Cindy tiene que investigar los misteriosos círculos de los cultivos, además de unas cintas de videos, al mismo tiempo que debe ayudar al Presidente de Estados Unidos, a detener una invasión extraterrestre.(n)</desc>
+    <credits>
+      <director>David Zucker</director>
+      <actor>Simon Rex</actor>
+      <actor>Jenny McCarthy</actor>
+      <actor>Leslie Nielsen</actor>
+      <actor>Anna Faris</actor>
+      <actor>Charlie Sheen</actor>
+      <actor>Regina Hall</actor>
+    </credits>
+    <category lang="es">Comedia</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/08/12081802_0A11C064BDB94911.jpg" />
+    <country lang="es">US</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20220906152000 +0000" stop="20220906172000 +0000" channel="Clover Channel">
+    <title lang="es">Las horas</title>
+    <desc lang="es">Cuenta tres historias situadas en lugares y contextos distintos: La escritora Virginia Woolf, en la Inglaterra de los años 20; un ama de casa en la California de 1941; y una lesbiana que ayuda a su amigo, un brillante poeta, con sida en Nueva York de 2000.(n)</desc>
+    <credits>
+      <director>Stephen Daldry</director>
+      <actor>Lyndsey Marshal</actor>
+      <actor>Nicole Kidman</actor>
+      <actor>Meryl Streep</actor>
+      <actor>Stephen Dillane</actor>
+      <actor>Julianne Moore</actor>
+      <actor>John C. Reilly</actor>
+      <actor>Miranda Richardson</actor>
+      <actor>John Reilly</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <category lang="es">Romance</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/31/12318160_FAB4686498B83D03.jpg" />
+    <country lang="es">US</country>
+    <rating system="MJColombia">
+      <value>+18</value>
+    </rating>
+  </programme>
+  <programme start="20220906172000 +0000" stop="20220906193000 +0000" channel="Clover Channel">
+    <title lang="es">El crimen del padre Amaro</title>
+    <desc lang="es">Amaro, un joven de 24 años recién ordenado sacerdote, llega a la parroquia del pequeño pueblo mexicano de Los Reyes para auxiliar en los servicios del templo al padre Benito. Allí, el padre conoce a Amelia, una hermosa joven de 16 años. Sin embargo, poco a poco, Amaro se va dando cuenta de cosas que suceden en el pueblo, relacionadas con los narcos de la región, además surge un sentimiento prohibido.(n)</desc>
+    <credits>
+      <director>Carlos Carrera</director>
+      <actor>Damián Alcázar</actor>
+      <actor>Gael García Bernal</actor>
+      <actor>Ana Claudia Talancón</actor>
+      <actor>Sancho Gracia</actor>
+      <actor>Angélica Aragón</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/74/11742259_B33504E25770760E.jpg" />
+    <country lang="es">MX</country>
+    <rating system="MJColombia">
+      <value>+18</value>
+    </rating>
+  </programme>
+  <programme start="20220906193000 +0000" stop="20220906213500 +0000" channel="Clover Channel">
+    <title lang="es">La conversación</title>
+    <desc lang="es">Un detective de reconocido prestigio como especialista en vigilancia y sistemas de seguridad, es contratado por un magnate para investigar a su joven esposa, que mantiene una relación con uno de sus empleados.(n)</desc>
+    <credits>
+      <director>Francis Ford Coppola</director>
+      <actor>Cindy Williams</actor>
+      <actor>Frederic Forrest</actor>
+      <actor>Michael Higgins</actor>
+      <actor>Allen Garfield</actor>
+      <actor>John Cazale</actor>
+      <actor>Gene Hackman</actor>
+      <actor>Harrison Ford</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <category lang="es">Suspenso</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/41/12416872_38585BDC12188219.jpg" />
+    <country lang="es">US</country>
+    <rating system="MJColombia">
+      <value>+18</value>
+    </rating>
+  </programme>
+  <programme start="20220906213500 +0000" stop="20220906231000 +0000" channel="Clover Channel">
+    <title lang="es">Scary Movie 3</title>
+    <desc lang="es">Cindy tiene que investigar los misteriosos círculos de los cultivos, además de unas cintas de videos, al mismo tiempo que debe ayudar al Presidente de Estados Unidos, a detener una invasión extraterrestre.(n)</desc>
+    <credits>
+      <director>David Zucker</director>
+      <actor>Simon Rex</actor>
+      <actor>Jenny McCarthy</actor>
+      <actor>Leslie Nielsen</actor>
+      <actor>Anna Faris</actor>
+      <actor>Charlie Sheen</actor>
+      <actor>Regina Hall</actor>
+    </credits>
+    <category lang="es">Comedia</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/08/12081802_0A11C064BDB94911.jpg" />
+    <country lang="es">US</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20220906231000 +0000" stop="20220907010000 +0000" channel="Clover Channel">
+    <title lang="es">Descubriendo el País de Nunca Jamás</title>
+    <desc lang="es">Ambientada en Londres, en 1904, esta película muestra el proceso que dio lugar a la creación de Peter Pan. Las acciones que hicieron que miles de niños y adultos se enamoren de este personaje que nunca quería crecer por el contrario tenía el deseo de ser niño por siempre.(n)</desc>
+    <credits>
+      <director>Marc Foster</director>
+      <director>Marc Forster</director>
+      <actor>Joe Prospero</actor>
+      <actor>n Essell</actor>
+      <actor>Jeremy Gardner</actor>
+      <actor>Radha Mitchell</actor>
+      <actor>Johnny Depp</actor>
+      <actor>Kelly Macdonald</actor>
+      <actor>Kate Winslet</actor>
+      <actor>Julie Christie</actor>
+      <actor>Freddie Highmore</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <category lang="es">Biográfica</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/02/12021503_CF3576FF5836472B.jpg" />
+    <country lang="es">US</country>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220907010000 +0000" stop="20220907025500 +0000" channel="Clover Channel">
+    <title lang="es">Alfie</title>
+    <desc lang="es">Alfie Elkins es un mujeriego filosófico que se ve obligado a cuestionar su existencia aparentemente despreocupada, luego de que una serie de sucesos comiencen a desmoronar un estilo de vida libre y lo hagan reflexionar sobre los peligros de sus acciones.(n)</desc>
+    <credits>
+      <director>Charles Shyer</director>
+      <actor>Omar Epps</actor>
+      <actor>Jude Law</actor>
+      <actor>Susan Sarandon</actor>
+      <actor>Marisa Tomei</actor>
+    </credits>
+    <category lang="es">Comedia</category>
+    <category lang="es">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/30/11308737_C469B13857F8A09C.jpg" />
+    <country lang="es">US</country>
+    <rating system="MJColombia">
+      <value>+18</value>
+    </rating>
+  </programme>
+  <programme start="20220907025500 +0000" stop="20220907043000 +0000" channel="Clover Channel">
+    <title lang="es">Scary Movie 3</title>
+    <desc lang="es">Cindy tiene que investigar los misteriosos círculos de los cultivos, además de unas cintas de videos, al mismo tiempo que debe ayudar al Presidente de Estados Unidos, a detener una invasión extraterrestre.(n)</desc>
+    <credits>
+      <director>David Zucker</director>
+      <actor>Simon Rex</actor>
+      <actor>Jenny McCarthy</actor>
+      <actor>Leslie Nielsen</actor>
+      <actor>Anna Faris</actor>
+      <actor>Charlie Sheen</actor>
+      <actor>Regina Hall</actor>
+    </credits>
+    <category lang="es">Comedia</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/08/12081802_0A11C064BDB94911.jpg" />
+    <country lang="es">US</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20220907043000 +0000" stop="20220907062000 +0000" channel="Clover Channel">
+    <title lang="es">Descubriendo el País de Nunca Jamás</title>
+    <desc lang="es">Ambientada en Londres, en 1904, esta película muestra el proceso que dio lugar a la creación de Peter Pan. Las acciones que hicieron que miles de niños y adultos se enamoren de este personaje que nunca quería crecer por el contrario tenía el deseo de ser niño por siempre.(n)</desc>
+    <credits>
+      <director>Marc Foster</director>
+      <director>Marc Forster</director>
+      <actor>Joe Prospero</actor>
+      <actor>n Essell</actor>
+      <actor>Jeremy Gardner</actor>
+      <actor>Radha Mitchell</actor>
+      <actor>Johnny Depp</actor>
+      <actor>Kelly Macdonald</actor>
+      <actor>Kate Winslet</actor>
+      <actor>Julie Christie</actor>
+      <actor>Freddie Highmore</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <category lang="es">Biográfica</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/02/12021503_CF3576FF5836472B.jpg" />
+    <country lang="es">US</country>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220907062000 +0000" stop="20220907081500 +0000" channel="Clover Channel">
+    <title lang="es">Alfie</title>
+    <desc lang="es">Alfie Elkins es un mujeriego filosófico que se ve obligado a cuestionar su existencia aparentemente despreocupada, luego de que una serie de sucesos comiencen a desmoronar un estilo de vida libre y lo hagan reflexionar sobre los peligros de sus acciones.(n)</desc>
+    <credits>
+      <director>Charles Shyer</director>
+      <actor>Omar Epps</actor>
+      <actor>Jude Law</actor>
+      <actor>Susan Sarandon</actor>
+      <actor>Marisa Tomei</actor>
+    </credits>
+    <category lang="es">Comedia</category>
+    <category lang="es">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/30/11308737_C469B13857F8A09C.jpg" />
+    <country lang="es">US</country>
+    <rating system="MJColombia">
+      <value>+18</value>
+    </rating>
+  </programme>
+  <programme start="20220907081500 +0000" stop="20220907095000 +0000" channel="Clover Channel">
+    <title lang="es">Scary Movie 3</title>
+    <desc lang="es">Cindy tiene que investigar los misteriosos círculos de los cultivos, además de unas cintas de videos, al mismo tiempo que debe ayudar al Presidente de Estados Unidos, a detener una invasión extraterrestre.(n)</desc>
+    <credits>
+      <director>David Zucker</director>
+      <actor>Simon Rex</actor>
+      <actor>Jenny McCarthy</actor>
+      <actor>Leslie Nielsen</actor>
+      <actor>Anna Faris</actor>
+      <actor>Charlie Sheen</actor>
+      <actor>Regina Hall</actor>
+    </credits>
+    <category lang="es">Comedia</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/08/12081802_0A11C064BDB94911.jpg" />
+    <country lang="es">US</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20220907095000 +0000" stop="20220907114000 +0000" channel="Clover Channel">
+    <title lang="es">Descubriendo el País de Nunca Jamás</title>
+    <desc lang="es">Ambientada en Londres, en 1904, esta película muestra el proceso que dio lugar a la creación de Peter Pan. Las acciones que hicieron que miles de niños y adultos se enamoren de este personaje que nunca quería crecer por el contrario tenía el deseo de ser niño por siempre.(n)</desc>
+    <credits>
+      <director>Marc Foster</director>
+      <director>Marc Forster</director>
+      <actor>Joe Prospero</actor>
+      <actor>n Essell</actor>
+      <actor>Jeremy Gardner</actor>
+      <actor>Radha Mitchell</actor>
+      <actor>Johnny Depp</actor>
+      <actor>Kelly Macdonald</actor>
+      <actor>Kate Winslet</actor>
+      <actor>Julie Christie</actor>
+      <actor>Freddie Highmore</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <category lang="es">Biográfica</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/02/12021503_CF3576FF5836472B.jpg" />
+    <country lang="es">US</country>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220907114000 +0000" stop="20220907132000 +0000" channel="Clover Channel">
+    <title lang="es">Top Secret!</title>
+    <desc lang="es">El artista Nick Rivers llega a Alemania Oriental para presentarse en un festival cultural. Pero esto forma parte de un plan para distraer al alto mando de ese país y nuevamente unir a las dos Alemanias bajo un sólo gobierno. Pronto Nick se verá envuelto en la operación ayudando a la resistencia francesa.(n)</desc>
+    <credits>
+      <director>Jim Abrahams</director>
+      <director>David Zucker</director>
+      <director>Jerry Zucker</director>
+      <actor>Warren Clarke</actor>
+      <actor>Peter Cushing</actor>
+      <actor>Jeremy Kemp</actor>
+      <actor>Lucy Gutteridge</actor>
+      <actor>Christopher Viliers</actor>
+      <actor>Omar Sharif</actor>
+      <actor>Val Kilmer</actor>
+    </credits>
+    <category lang="es">Comedia</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/89/11896332_417FCA6581F216D9.jpg" />
+    <country lang="es">US</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20220907132000 +0000" stop="20220907145500 +0000" channel="Clover Channel">
+    <title lang="es">Scary Movie 3</title>
+    <desc lang="es">Cindy tiene que investigar los misteriosos círculos de los cultivos, además de unas cintas de videos, al mismo tiempo que debe ayudar al Presidente de Estados Unidos, a detener una invasión extraterrestre.(n)</desc>
+    <credits>
+      <director>David Zucker</director>
+      <actor>Simon Rex</actor>
+      <actor>Jenny McCarthy</actor>
+      <actor>Leslie Nielsen</actor>
+      <actor>Anna Faris</actor>
+      <actor>Charlie Sheen</actor>
+      <actor>Regina Hall</actor>
+    </credits>
+    <category lang="es">Comedia</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/08/12081802_0A11C064BDB94911.jpg" />
+    <country lang="es">US</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20220907145500 +0000" stop="20220907165000 +0000" channel="Clover Channel">
+    <title lang="es">Alfie</title>
+    <desc lang="es">Alfie Elkins es un mujeriego filosófico que se ve obligado a cuestionar su existencia aparentemente despreocupada, luego de que una serie de sucesos comiencen a desmoronar un estilo de vida libre y lo hagan reflexionar sobre los peligros de sus acciones.(n)</desc>
+    <credits>
+      <director>Charles Shyer</director>
+      <actor>Omar Epps</actor>
+      <actor>Jude Law</actor>
+      <actor>Susan Sarandon</actor>
+      <actor>Marisa Tomei</actor>
+    </credits>
+    <category lang="es">Comedia</category>
+    <category lang="es">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/30/11308737_C469B13857F8A09C.jpg" />
+    <country lang="es">US</country>
+    <rating system="MJColombia">
+      <value>+18</value>
+    </rating>
+  </programme>
+  <programme start="20220907165000 +0000" stop="20220907184000 +0000" channel="Clover Channel">
+    <title lang="es">Descubriendo el País de Nunca Jamás</title>
+    <desc lang="es">Ambientada en Londres, en 1904, esta película muestra el proceso que dio lugar a la creación de Peter Pan. Las acciones que hicieron que miles de niños y adultos se enamoren de este personaje que nunca quería crecer por el contrario tenía el deseo de ser niño por siempre.(n)</desc>
+    <credits>
+      <director>Marc Foster</director>
+      <director>Marc Forster</director>
+      <actor>Joe Prospero</actor>
+      <actor>n Essell</actor>
+      <actor>Jeremy Gardner</actor>
+      <actor>Radha Mitchell</actor>
+      <actor>Johnny Depp</actor>
+      <actor>Kelly Macdonald</actor>
+      <actor>Kate Winslet</actor>
+      <actor>Julie Christie</actor>
+      <actor>Freddie Highmore</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <category lang="es">Biográfica</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/02/12021503_CF3576FF5836472B.jpg" />
+    <country lang="es">US</country>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220907184000 +0000" stop="20220907204000 +0000" channel="Clover Channel">
+    <title lang="es">La vida es bella</title>
+    <desc lang="es">Guido, un alegre librero, es aprisionado por los nazis y llevado a un campo de concentración junto a su pequeño hijo. Sin embargo, en este lugar debe hacer todo lo posible para hacerle creer al niño de que se trata de un concurso donde recibirán un gran premio.(n)</desc>
+    <credits>
+      <director>Roberto Benigni</director>
+      <actor>Horst Buchholz</actor>
+      <actor>Marisa Paredes</actor>
+      <actor>Sergio Bini Bustric</actor>
+      <actor>Roberto Benigni</actor>
+      <actor>Nicoletta Braschi</actor>
+      <actor>Giorgio Cantarini</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/00/12005767_3965D76A9F5AC7D2.jpg" />
+    <country lang="es">IT</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20220907204000 +0000" stop="20220907230000 +0000" channel="Clover Channel">
+    <title lang="es">La caza del octubre rojo</title>
+    <desc lang="es">Un submarino nuclear, al mando de un prestigioso general de la Unión Soviética, se interna en el Océano Atlántico con rumbo a los Estados Unidos. La CIA, que ignora si pretende atacarlos o desertar de su país, encarga al agente Jack Ryan que se ponga en contacto con él para saber sus verdaderas intenciones.(n)</desc>
+    <credits>
+      <director>John McTiernan</director>
+      <actor>Fred Dalton Thompson</actor>
+      <actor>Jeffrey Jones</actor>
+      <actor>Joss Ackland</actor>
+      <actor>Larry Ferguson</actor>
+      <actor>Richard Jordan</actor>
+      <actor>Timothy Carhart</actor>
+      <actor>Alec Baldwin</actor>
+      <actor>Scott Glenn</actor>
+      <actor>Sam Neill</actor>
+      <actor>Sean Connery</actor>
+    </credits>
+    <category lang="es">Acción</category>
+    <category lang="es">Suspenso</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/38/12383675_C56AA510483192AB.jpg" />
+    <country lang="es">US</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
   </programme>
 </tv>
