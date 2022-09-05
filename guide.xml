@@ -1,5 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Dominican Republic">
+    <display-name lang="en">Dominican Republic</display-name>
+    <url>http://www.tvguide.com</url>
+  </channel>
   <channel id="Caracol TV (COL)">
     <display-name lang="es">Caracol TV (COL)</display-name>
     <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/132.png" />
@@ -8,7 +12,7 @@
   <channel id="TVN (CHI)">
     <display-name lang="es">TVN (CHI)</display-name>
     <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/1149.png" />
-    <url>http://www.directv.com.cl</url>
+    <url>http://www.directv.cl</url>
   </channel>
   <channel id="UniMás">
     <display-name lang="en">UniMás</display-name>
@@ -25,6 +29,10 @@
   <channel id="Telemundo">
     <display-name lang="en">Telemundo</display-name>
     <url>http://www.tvguide.com</url>
+  </channel>
+  <channel id="Spectrum - Manhattan, NY">
+    <display-name lang="en">Spectrum - Manhattan, NY</display-name>
+    <url>http://www.tvpassport.com</url>
   </channel>
   <programme start="20220905001500 -0500" stop="20220905020000 -0500" channel="Caracol TV (COL)">
     <title lang="es">Rosemary's Baby</title>
@@ -517,6 +525,105 @@
     <desc lang="es">Una inspiradora historia de superación protagonizada por Kadir, Omer, Asiye y Emel, cuatro hermanos que quedan huérfanos tras perder a sus padres el mismo día en diferentes eventos.(n)</desc>
     <rating system="CL">
       <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220906010000 -0300" stop="20220906021500 -0300" channel="TVN (CHI)">
+    <title lang="es">Mea culpa</title>
+    <desc lang="es">Se recrean los homicidios más macabros y los crímenes que marcaron la historia policial chilena.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220906021500 -0300" stop="20220906030000 -0300" channel="TVN (CHI)">
+    <title lang="es">Medianoche</title>
+    <desc lang="es">Un informativo que aborda las noticias que marcaron durante el día, que incluye entrevistas, análisis de noticias y enlaces en vivo.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220906030000 -0300" stop="20220906031500 -0300" channel="TVN (CHI)">
+    <title lang="es">TV Tiempo</title>
+    <desc lang="es">El informe del tiempo y los pronósticos climáticos para todo Chile.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220906031500 -0300" stop="20220906070000 -0300" channel="TVN (CHI)">
+    <title lang="es">Fuera del aire</title>
+    <title lang="en">SIGN OFF</title>
+    <desc lang="es">Fin de emisión.(n)</desc>
+    <rating system="CL">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220906070000 -0300" stop="20220906073000 -0300" channel="TVN (CHI)">
+    <title lang="es">Previa 24</title>
+    <desc lang="es">Un programa para empezar el día con los cambios en el tránsito, el climas y la opinión pública.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220906073000 -0300" stop="20220906090000 -0300" channel="TVN (CHI)">
+    <title lang="es">24 AM</title>
+    <desc lang="es">Repaso de los hechos que marcaron la noche y la madrugada de Chile y el mundo.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220906090000 -0300" stop="20220906140000 -0300" channel="TVN (CHI)">
+    <title lang="es">Buenos días a todos</title>
+    <desc lang="es">Programa matutino con temas de actualidad y del espectáculo chileno, concursos y entretenimiento.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220906140000 -0300" stop="20220906160000 -0300" channel="TVN (CHI)">
+    <title lang="es">24 Tarde</title>
+    <desc lang="es">La información más relevante a nivel internacional, nacional y regional.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220906160000 -0300" stop="20220906170000 -0300" channel="TVN (CHI)">
+    <title lang="es">Génesis</title>
+    <desc lang="es">Adaptación de uno de los libros más reconocidos de la Biblia, que aborda la historia del origen de la humanidad, invitando a entender el presente, volviendo al principio de todo. La caída de Lucifer, la vida de Adán y Eva, Noé y el diluvio, y otros.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220906170000 -0300" stop="20220906181000 -0300" channel="TVN (CHI)">
+    <title lang="es">Rojo y Miel</title>
+    <desc lang="es">La información del programa no fue provista por el proveedor de la señal.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220906181000 -0300" stop="20220906192000 -0300" channel="TVN (CHI)">
+    <title lang="es">Pampa Ilusión</title>
+    <desc lang="es">Una apasionada historia donde el amor no respeta tradiciones y suele quebrar con los esquemas de la época, todo ello enmarcado en la salitrera chilena Pampa Ilusión.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220906192000 -0300" stop="20220906204500 -0300" channel="TVN (CHI)">
+    <title lang="es">Carmen Gloria a tu servicio</title>
+    <desc lang="es">Un programa con historias de la vida real, al servicio de la familia y que intenta ayudar, orientar y educar en torno a problemas que afectan a miles de chilenos.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220906204500 -0300" stop="20220906215500 -0300" channel="TVN (CHI)">
+    <title lang="es">Soñar contigo</title>
+    <desc lang="es">Para escapar de un matrimonio arreglado, Sanem acepta trabajar en una agencia de publicidad. Allí conoce a Cam, un fotógrafo de fama internacional, y se enamora de él. Juntos viven aventuras transformadoras.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220906215500 -0300" stop="20220906234000 -0300" channel="TVN (CHI)">
+    <title lang="es">24 horas central</title>
+    <desc lang="es">La información de mayor importancia internacional, nacional y regional.(n)</desc>
+    <rating system="CL">
+      <value>PG</value>
     </rating>
   </programme>
   <programme start="20220906234500 -0300" stop="20220907010000 -0300" channel="TVN (CHI)">
@@ -1177,8 +1284,8 @@
   <programme start="20220906040000 -0500" stop="20220906050000 -0500" channel="RCN Novelas">
     <title lang="es">No olvidaras mi nombre</title>
   </programme>
-  <programme start="20220906140000 -0500" stop="20220906150000 -0500" channel="RCN Novelas">
-    <title lang="es">Te quiero Pecas</title>
+  <programme start="20220906150000 -0500" stop="20220906160000 -0500" channel="RCN Novelas">
+    <title lang="es">Garzón</title>
   </programme>
   <programme start="20220905000000 +0000" stop="20220905023000 +0000" channel="Univision">
     <title lang="en">El Retador (new)</title>
