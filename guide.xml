@@ -55,6 +55,16 @@
     <display-name lang="en">Telehit Musica</display-name>
     <url>http://www.tvguide.com</url>
   </channel>
+  <channel id="RCN (COL)">
+    <display-name lang="es">RCN (COL)</display-name>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/130.png" />
+    <url>http://www.directv.com.co</url>
+  </channel>
+  <channel id="RCN Nuestra Tele">
+    <display-name lang="es">RCN Nuestra Tele</display-name>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/135.png" />
+    <url>http://www.directv.com.co</url>
+  </channel>
   <programme start="20220906004500 -0500" stop="20220906011500 -0500" channel="-Caracol TV (COL)">
     <title lang="es">El diario de Diana</title>
     <desc lang="es">Junto a entrevistas a diferentes expertos, lecciones sobre cómo armonizar todas las áreas de la vida, manejar las emociones y cambiar creencias para entender la felicidad como una oportunidad de vivir a plenitud.(n)</desc>
@@ -1831,8 +1841,8 @@
   <programme start="20220906230000 -0500" stop="20220907000000 -0500" channel="-RCN Novelas">
     <title lang="es">Doña Bella</title>
   </programme>
-  <programme start="20220907150000 -0500" stop="20220907160000 -0500" channel="-RCN Novelas">
-    <title lang="es">Garzón</title>
+  <programme start="20220907180000 -0500" stop="20220907190000 -0500" channel="-RCN Novelas">
+    <title lang="es">Expedientes</title>
   </programme>
   <programme start="20220906000000 +0000" stop="20220906010000 +0000" channel="Univision 41">
     <title lang="en">La Mexicana y el Güero (new)</title>
@@ -3159,10 +3169,10 @@
     <desc lang="es">Amaro, un joven de 24 años recién ordenado sacerdote, llega a la parroquia del pequeño pueblo mexicano de Los Reyes para auxiliar en los servicios del templo al padre Benito. Allí, el padre conoce a Amelia, una hermosa joven de 16 años. Sin embargo, poco a poco, Amaro se va dando cuenta de cosas que suceden en el pueblo, relacionadas con los narcos de la región, además surge un sentimiento prohibido.(n)</desc>
     <credits>
       <director>Carlos Carrera</director>
+      <actor>Damián Alcázar</actor>
       <actor>Gael García Bernal</actor>
       <actor>Ana Claudia Talancón</actor>
       <actor>Sancho Gracia</actor>
-      <actor>Damián Alcázar</actor>
       <actor>Angélica Aragón</actor>
     </credits>
     <category lang="es">Drama</category>
@@ -3218,12 +3228,12 @@
     <credits>
       <director>Marc Foster</director>
       <director>Marc Forster</director>
-      <actor>Johnny Depp</actor>
-      <actor>Kelly Macdonald</actor>
       <actor>Joe Prospero</actor>
       <actor>n Essell</actor>
       <actor>Jeremy Gardner</actor>
       <actor>Radha Mitchell</actor>
+      <actor>Johnny Depp</actor>
+      <actor>Kelly Macdonald</actor>
       <actor>Kate Winslet</actor>
       <actor>Julie Christie</actor>
       <actor>Freddie Highmore</actor>
@@ -3279,7 +3289,6 @@
     <credits>
       <director>Marc Foster</director>
       <director>Marc Forster</director>
-      <actor>Freddie Highmore</actor>
       <actor>Joe Prospero</actor>
       <actor>n Essell</actor>
       <actor>Jeremy Gardner</actor>
@@ -3288,6 +3297,7 @@
       <actor>Kelly Macdonald</actor>
       <actor>Kate Winslet</actor>
       <actor>Julie Christie</actor>
+      <actor>Freddie Highmore</actor>
     </credits>
     <category lang="es">Drama</category>
     <category lang="es">Biográfica</category>
@@ -3320,10 +3330,10 @@
     <desc lang="es">Cindy tiene que investigar los misteriosos círculos de los cultivos, además de unas cintas de videos, al mismo tiempo que debe ayudar al Presidente de Estados Unidos, a detener una invasión extraterrestre.(n)</desc>
     <credits>
       <director>David Zucker</director>
-      <actor>Anna Faris</actor>
       <actor>Simon Rex</actor>
       <actor>Jenny McCarthy</actor>
       <actor>Leslie Nielsen</actor>
+      <actor>Anna Faris</actor>
       <actor>Charlie Sheen</actor>
       <actor>Regina Hall</actor>
     </credits>
@@ -3362,16 +3372,16 @@
     <title lang="es">Top Secret!</title>
     <desc lang="es">El artista Nick Rivers llega a Alemania Oriental para presentarse en un festival cultural. Pero esto forma parte de un plan para distraer al alto mando de ese país y nuevamente unir a las dos Alemanias bajo un sólo gobierno. Pronto Nick se verá envuelto en la operación ayudando a la resistencia francesa.(n)</desc>
     <credits>
+      <director>Jim Abrahams</director>
       <director>David Zucker</director>
       <director>Jerry Zucker</director>
-      <director>Jim Abrahams</director>
-      <actor>Christopher Viliers</actor>
-      <actor>Omar Sharif</actor>
-      <actor>Val Kilmer</actor>
       <actor>Warren Clarke</actor>
       <actor>Peter Cushing</actor>
       <actor>Jeremy Kemp</actor>
       <actor>Lucy Gutteridge</actor>
+      <actor>Christopher Viliers</actor>
+      <actor>Omar Sharif</actor>
+      <actor>Val Kilmer</actor>
     </credits>
     <category lang="es">Comedia</category>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/89/11896332_417FCA6581F216D9.jpg" />
@@ -3421,17 +3431,17 @@
     <title lang="es">Descubriendo el País de Nunca Jamás</title>
     <desc lang="es">Ambientada en Londres, en 1904, esta película muestra el proceso que dio lugar a la creación de Peter Pan. Las acciones que hicieron que miles de niños y adultos se enamoren de este personaje que nunca quería crecer por el contrario tenía el deseo de ser niño por siempre.(n)</desc>
     <credits>
-      <director>Marc Forster</director>
       <director>Marc Foster</director>
+      <director>Marc Forster</director>
+      <actor>Joe Prospero</actor>
+      <actor>n Essell</actor>
+      <actor>Jeremy Gardner</actor>
       <actor>Radha Mitchell</actor>
       <actor>Johnny Depp</actor>
       <actor>Kelly Macdonald</actor>
       <actor>Kate Winslet</actor>
       <actor>Julie Christie</actor>
       <actor>Freddie Highmore</actor>
-      <actor>Joe Prospero</actor>
-      <actor>n Essell</actor>
-      <actor>Jeremy Gardner</actor>
     </credits>
     <category lang="es">Drama</category>
     <category lang="es">Biográfica</category>
@@ -3466,15 +3476,15 @@
     <credits>
       <director>John McTiernan</director>
       <actor>Fred Dalton Thompson</actor>
-      <actor>James Earl Jones</actor>
       <actor>Jeffrey Jones</actor>
       <actor>Joss Ackland</actor>
       <actor>Larry Ferguson</actor>
       <actor>Richard Jordan</actor>
-      <actor>Tim Curry</actor>
       <actor>Timothy Carhart</actor>
       <actor>Alec Baldwin</actor>
       <actor>Scott Glenn</actor>
+      <actor>Sam Neill</actor>
+      <actor>Sean Connery</actor>
     </credits>
     <category lang="es">Acción</category>
     <category lang="es">Suspenso</category>
@@ -3604,6 +3614,7 @@
     <desc lang="es">Un submarino nuclear, al mando de un prestigioso general de la Unión Soviética, se interna en el Océano Atlántico con rumbo a los Estados Unidos. La CIA, que ignora si pretende atacarlos o desertar de su país, encarga al agente Jack Ryan que se ponga en contacto con él para saber sus verdaderas intenciones.(n)</desc>
     <credits>
       <director>John McTiernan</director>
+      <actor>Fred Dalton Thompson</actor>
       <actor>Jeffrey Jones</actor>
       <actor>Joss Ackland</actor>
       <actor>Larry Ferguson</actor>
@@ -3611,7 +3622,6 @@
       <actor>Timothy Carhart</actor>
       <actor>Alec Baldwin</actor>
       <actor>Scott Glenn</actor>
-      <actor>Fred Dalton Thompson</actor>
       <actor>Sam Neill</actor>
       <actor>Sean Connery</actor>
     </credits>
@@ -3648,9 +3658,9 @@
     <desc lang="es">Melodrama que traslada a nuestros tiempos el estilo de Douglas Sirk en los años cincuenta, con Moore y Quaid como esposos: ella, ama de casa, se siente atraída por el jardinero Haysbert, y él, agente de seguros, tiene una opción sexual secreta.(n)</desc>
     <credits>
       <director>Todd Haynes</director>
+      <actor>Julianne Moore</actor>
       <actor>Dennis Quaid</actor>
       <actor>Dennis Haysbert</actor>
-      <actor>Julianne Moore</actor>
     </credits>
     <category lang="es">Drama</category>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/36/12365503_6CDA773385D63298.jpg" />
@@ -3666,13 +3676,13 @@
       <director>F. Gary Gray</director>
       <actor>Mary Portser</actor>
       <actor>Melanie Jayne</actor>
+      <actor>Edward Norton</actor>
+      <actor>Mark Wahlberg</actor>
       <actor>Donald Sutherland</actor>
       <actor>Jason Statham</actor>
       <actor>Charlize Theron</actor>
       <actor>Mos Def</actor>
       <actor>Seth Green</actor>
-      <actor>Edward Norton</actor>
-      <actor>Mark Wahlberg</actor>
       <actor>Franky G</actor>
     </credits>
     <category lang="es">Acción</category>
@@ -3806,9 +3816,6 @@
     <desc lang="es">Una banda de ladrones se propone llevar a cabo un robo en Venecia planificado a la perfección por un veterano criminal, pero la traición de uno de sus miembros los deja con las manos vacías y con ganas de venganza. Ahora se vuelven a juntar para recuperar lo que es suyo.(n)</desc>
     <credits>
       <director>F. Gary Gray</director>
-      <actor>Seth Green</actor>
-      <actor>Franky G</actor>
-      <actor>Eric Waker</actor>
       <actor>Mary Portser</actor>
       <actor>Melanie Jayne</actor>
       <actor>Edward Norton</actor>
@@ -3816,6 +3823,9 @@
       <actor>Donald Sutherland</actor>
       <actor>Jason Statham</actor>
       <actor>Charlize Theron</actor>
+      <actor>Mos Def</actor>
+      <actor>Seth Green</actor>
+      <actor>Franky G</actor>
     </credits>
     <category lang="es">Acción</category>
     <category lang="es">Suspenso</category>
@@ -3848,9 +3858,9 @@
     <desc lang="es">Una bolsa llena de billetes, caída del cielo, va a parar a los pies de Damian. Gracias a ella, él y su hermano Anthony, vivirán una aventura que quedará grabada en su memoria, pues les hará comprender el verdadero valor de las cosas.(n)</desc>
     <credits>
       <director>Danny J. Boyle</director>
+      <actor>Christopher Fulford</actor>
       <actor>Alex Etel</actor>
       <actor>James Nesbitt</actor>
-      <actor>Christopher Fulford</actor>
     </credits>
     <category lang="es">Familiar</category>
     <category lang="es">Basado en novelas</category>
@@ -3884,20 +3894,28 @@
       <value>TE</value>
     </rating>
   </programme>
-  <programme start="20220906180500 +0000" stop="20220906190000 +0000" channel="-Love Nature">
-    <title lang="es">Isla de los monos</title>
-    <sub-title lang="es">Leaving Home</sub-title>
-    <desc lang="es">Un macaco toque adolescente ha llevado una vida idílica en los antiguos templos de Sri Lanka que su tropa llama hogar. Pero a medida que se acerca la edad adulta, pronto tendrá que abandonar la seguridad de las ruinas y encontrar una nueva tropa. Únete a su viaje a un nuevo mundo desalentador.(n)</desc>
+  <programme start="20220909165000 +0000" stop="20220909190500 +0000" channel="-Clover Channel">
+    <title lang="es">Lluvia negra</title>
+    <desc lang="es">Cuando dos policías logran capturar a un peligroso criminal de la mafia japonesa, se disponen a entregarlo con las autoridades responsables. Pero, todo se complica cuando este logra escapar y ellos deben hacer lo posible por detenerlo.(n)</desc>
     <credits>
-      <director>Hannah Hoare</director>
+      <director>Ridley Scott</director>
+      <actor>Kate Capshaw</actor>
+      <actor>Guts Ishimatsu</actor>
+      <actor>John Costelloe</actor>
+      <actor>John Spencer</actor>
+      <actor>Ken Takakura</actor>
+      <actor>Shigeru Kôyama</actor>
+      <actor>Yusako Matsuda</actor>
+      <actor>Yuya Uchida</actor>
+      <actor>Danay Garcia</actor>
+      <actor>Andy García</actor>
     </credits>
-    <category lang="es">Naturaleza</category>
-    <category lang="es">Educativo</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777764_CBB3C165CDFB37E2.jpg" />
+    <category lang="es">Acción</category>
+    <category lang="es">Suspenso</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/80/12801183_B2186721DD5828A6.jpg" />
     <country lang="es">US</country>
-    <episode-num system="onscreen">S1 E2</episode-num>
     <rating system="MJColombia">
-      <value>TE</value>
+      <value>+18</value>
     </rating>
   </programme>
   <programme start="20220906190000 +0000" stop="20220906195000 +0000" channel="-Love Nature">
@@ -5081,6 +5099,35 @@
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777771_B9C5E51DC471C6E1.jpg" />
     <country lang="es">GB</country>
     <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220909171500 +0000" stop="20220909180500 +0000" channel="-Love Nature">
+    <title lang="es">Guardianes de la naturaleza</title>
+    <sub-title lang="es">Camp Phoenix Herd</sub-title>
+    <desc lang="es">Conozca al tímido, joven y huérfano elefante Tafika mientras llega a una gran elección en su entrenamiento: quedarse con sus hermanos en la seguridad del campamento, o unirse a los huérfanos mayores que viven en el campo semi-salvaje. ¿Es lo suficientemente valiente como para avanzar hacia la libertad.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/76/11769109_C353419DE582AB06.jpg" />
+    <country lang="es">CA</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220909180500 +0000" stop="20220909190000 +0000" channel="-Love Nature">
+    <title lang="es">Islas secretas de Australia</title>
+    <sub-title lang="es">Lady Elliot Island</sub-title>
+    <desc lang="es">La joya de la corona de la Gran Barrera de Coral, Lady Elliot Island es una meca para la vida submarina, repleta de coloridos corales, manta rayas, tortugas marinas y ballenas jorobadas para formar una vertiginosa variedad de biodiversidad sin igual.(n)</desc>
+    <credits>
+      <actor>Edwina Wren</actor>
+    </credits>
+    <category lang="es">Documental</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777774_2960499C6E664623.jpg" />
+    <country lang="es">CA</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="MJColombia">
       <value>TE</value>
     </rating>
@@ -11987,5 +12034,1269 @@
     <title lang="en">Jangueo</title>
     <desc lang="en">Revista nocturna sobre las principales tendencias urbanos, eventos,.(n)</desc>
     <date>2021</date>
+  </programme>
+  <programme start="20220906003000 -0500" stop="20220906010000 -0500" channel="RCN (COL)">
+    <title lang="es">Tu tele</title>
+    <desc lang="es">Un espacio especial para escuchar las inquietudes de la audiencia y buscar las respuestas a sus preguntas.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220906010000 -0500" stop="20220906030000 -0500" channel="RCN (COL)">
+    <title lang="es">La ley del corazón</title>
+    <desc lang="es">Mientras un bufete de abogados expertos en derecho de familia debe lidiar con peculiares casos, una historia de amor nace entre Julia y Pablo, justo cuando ella se está por casar.(n)</desc>
+    <rating system="CO">
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220906030000 -0500" stop="20220906034000 -0500" channel="RCN (COL)">
+    <title lang="es">Noticias RCN</title>
+    <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220906034000 -0500" stop="20220906044000 -0500" channel="RCN (COL)">
+    <title lang="es">Fuera del aire</title>
+    <title lang="es">SIGN OFF</title>
+    <desc lang="es">Fin de emisión.(n)</desc>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220906044000 -0500" stop="20220906053000 -0500" channel="RCN (COL)">
+    <title lang="es">El Mundo del Campo</title>
+    <desc lang="es">Programa sobre la cultura colombiana, las tradiciones, los festivales, la comida y mucho más de cada región.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220906053000 -0500" stop="20220906060000 -0500" channel="RCN (COL)">
+    <title lang="es">Noticias RCN</title>
+    <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220906060000 -0500" stop="20220906073000 -0500" channel="RCN (COL)">
+    <title lang="es">Noticias RCN</title>
+    <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220906073000 -0500" stop="20220906093000 -0500" channel="RCN (COL)">
+    <title lang="es">Mañana express</title>
+    <desc lang="es">Todas las noticias de actualidad con un toque de buen humor.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220906093000 -0500" stop="20220906123000 -0500" channel="RCN (COL)">
+    <title lang="es">Buen día, Colombia</title>
+    <desc lang="es">Un espacio donde se abordan temas de interés. Además, se incluyen entrevistas y grandes invitados para que el público pueda hacer a un lado sus preocupaciones.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220906123000 -0500" stop="20220906143000 -0500" channel="RCN (COL)">
+    <title lang="es">Noticias RCN</title>
+    <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220906143000 -0500" stop="20220906153000 -0500" channel="RCN (COL)">
+    <title lang="es">Vencer el desamor</title>
+    <desc lang="es">Cuatro mujeres de diferentes edades y estratos sociales deben convivir bajo el mismo techo y, aunque al principio resulta complicado, la hermandad y solidaridad prevalecerán.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220906153000 -0500" stop="20220906165000 -0500" channel="RCN (COL)">
+    <title lang="es">Diseñando tu amor</title>
+    <desc lang="es">Valentina y Nora, dos hermanas con personalidades diferentes, comparten el deseo de destacarse en el mundo de la industria de la moda.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220906165000 -0500" stop="20220906180000 -0500" channel="RCN (COL)">
+    <title lang="es">Mañana Es Para Siempre</title>
+    <desc lang="es">Un hombre y una mujer que crecieron juntos a pesar de sus diferentes clases sociales se reencuentran en medio de conflictos entre sus familias.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220906180000 -0500" stop="20220906190000 -0500" channel="RCN (COL)">
+    <title lang="es">La rosa de Guadalupe</title>
+    <desc lang="es">Dramatizaciones de casos de la vida diaria de personas que experimentan un milagro verdadero, después de haberlo pedido a la Virgen de Guadalupe; estas historias son fuente de inspiración y esperanza.(n)</desc>
+    <rating system="CO">
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220906190000 -0500" stop="20220906200000 -0500" channel="RCN (COL)">
+    <title lang="es">Noticias RCN</title>
+    <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220906200000 -0500" stop="20220906213000 -0500" channel="RCN (COL)">
+    <title lang="es">Café con aroma de mujer</title>
+    <desc lang="es">Gaviota, una recolectora de café, y Sebastián, miembro de una de las familias más poderosas del gremio caficultor deben superar obstáculos para estar juntos. A la vez, surgen intrigas y pasiones en el mundo del comercio del café.(n)</desc>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220906213000 -0500" stop="20220906223000 -0500" channel="RCN (COL)">
+    <title lang="es">Hasta que la plata nos separe</title>
+    <desc lang="es">Alejandra y Rafael vienen de mundos opuestos y protagonizan un romance poco convencional. Un accidente automovilístico marca sus destinos y, a partir de ese día, sus vidas no serán las mismas.(n)</desc>
+    <rating system="CO">
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220906223000 -0500" stop="20220906233000 -0500" channel="RCN (COL)">
+    <title lang="es">¿Dónde está Elisa?</title>
+    <desc lang="es">La hija mayor del reconocido empresario Vicente León, presidente de una renombrada empresa dedicada a los bienes raíces desaparece luego de asistir a una reunión, y Cristóbal Rivas un experimentado detective tiene la misión de encontrarla.(n)</desc>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220906233000 -0500" stop="20220907000000 -0500" channel="RCN (COL)">
+    <title lang="es">Noticias RCN</title>
+    <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220907000000 -0500" stop="20220907010000 -0500" channel="RCN (COL)">
+    <title lang="es">La noche</title>
+    <desc lang="es">Un espacio en el que el periodismo serio, responsable y honesto, presenta debates sobre los temas más importantes del país y del mundo desde diferentes puntos de vista, así el televidente podrá sacar sus propias conclusiones.(n)</desc>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220907010000 -0500" stop="20220907030000 -0500" channel="RCN (COL)">
+    <title lang="es">La ley del corazón</title>
+    <desc lang="es">Mientras un bufete de abogados expertos en derecho de familia debe lidiar con peculiares casos, una historia de amor nace entre Julia y Pablo, justo cuando ella se está por casar.(n)</desc>
+    <rating system="CO">
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220907030000 -0500" stop="20220907034000 -0500" channel="RCN (COL)">
+    <title lang="es">Noticias RCN</title>
+    <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220907034000 -0500" stop="20220907044000 -0500" channel="RCN (COL)">
+    <title lang="es">Fuera del aire</title>
+    <title lang="es">SIGN OFF</title>
+    <desc lang="es">Fin de emisión.(n)</desc>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220907044000 -0500" stop="20220907053000 -0500" channel="RCN (COL)">
+    <title lang="es">El Mundo del Campo</title>
+    <desc lang="es">Programa sobre la cultura colombiana, las tradiciones, los festivales, la comida y mucho más de cada región.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220907053000 -0500" stop="20220907060000 -0500" channel="RCN (COL)">
+    <title lang="es">Noticias RCN</title>
+    <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220907060000 -0500" stop="20220907073000 -0500" channel="RCN (COL)">
+    <title lang="es">Noticias RCN</title>
+    <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220907073000 -0500" stop="20220907093000 -0500" channel="RCN (COL)">
+    <title lang="es">Mañana express</title>
+    <desc lang="es">Todas las noticias de actualidad con un toque de buen humor.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220907093000 -0500" stop="20220907123000 -0500" channel="RCN (COL)">
+    <title lang="es">Buen día, Colombia</title>
+    <desc lang="es">Un espacio donde se abordan temas de interés. Además, se incluyen entrevistas y grandes invitados para que el público pueda hacer a un lado sus preocupaciones.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220907123000 -0500" stop="20220907143000 -0500" channel="RCN (COL)">
+    <title lang="es">Noticias RCN</title>
+    <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220907143000 -0500" stop="20220907153000 -0500" channel="RCN (COL)">
+    <title lang="es">Vencer el desamor</title>
+    <desc lang="es">Cuatro mujeres de diferentes edades y estratos sociales deben convivir bajo el mismo techo y, aunque al principio resulta complicado, la hermandad y solidaridad prevalecerán.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220907153000 -0500" stop="20220907165000 -0500" channel="RCN (COL)">
+    <title lang="es">Diseñando tu amor</title>
+    <desc lang="es">Valentina y Nora, dos hermanas con personalidades diferentes, comparten el deseo de destacarse en el mundo de la industria de la moda.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220907165000 -0500" stop="20220907180000 -0500" channel="RCN (COL)">
+    <title lang="es">Mañana Es Para Siempre</title>
+    <desc lang="es">Un hombre y una mujer que crecieron juntos a pesar de sus diferentes clases sociales se reencuentran en medio de conflictos entre sus familias.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220907180000 -0500" stop="20220907190000 -0500" channel="RCN (COL)">
+    <title lang="es">La rosa de Guadalupe</title>
+    <desc lang="es">Dramatizaciones de casos de la vida diaria de personas que experimentan un milagro verdadero, después de haberlo pedido a la Virgen de Guadalupe; estas historias son fuente de inspiración y esperanza.(n)</desc>
+    <rating system="CO">
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220907190000 -0500" stop="20220907200000 -0500" channel="RCN (COL)">
+    <title lang="es">Noticias RCN</title>
+    <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220907200000 -0500" stop="20220907213000 -0500" channel="RCN (COL)">
+    <title lang="es">Café con aroma de mujer</title>
+    <desc lang="es">Gaviota, una recolectora de café, y Sebastián, miembro de una de las familias más poderosas del gremio caficultor deben superar obstáculos para estar juntos. A la vez, surgen intrigas y pasiones en el mundo del comercio del café.(n)</desc>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220907213000 -0500" stop="20220907223000 -0500" channel="RCN (COL)">
+    <title lang="es">Hasta que la plata nos separe</title>
+    <desc lang="es">Alejandra y Rafael vienen de mundos opuestos y protagonizan un romance poco convencional. Un accidente automovilístico marca sus destinos y, a partir de ese día, sus vidas no serán las mismas.(n)</desc>
+    <rating system="CO">
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220907223000 -0500" stop="20220907233000 -0500" channel="RCN (COL)">
+    <title lang="es">¿Dónde está Elisa?</title>
+    <desc lang="es">La hija mayor del reconocido empresario Vicente León, presidente de una renombrada empresa dedicada a los bienes raíces desaparece luego de asistir a una reunión, y Cristóbal Rivas un experimentado detective tiene la misión de encontrarla.(n)</desc>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220907233000 -0500" stop="20220908000000 -0500" channel="RCN (COL)">
+    <title lang="es">Noticias RCN</title>
+    <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220908000000 -0500" stop="20220908010000 -0500" channel="RCN (COL)">
+    <title lang="es">La noche</title>
+    <desc lang="es">Un espacio en el que el periodismo serio, responsable y honesto, presenta debates sobre los temas más importantes del país y del mundo desde diferentes puntos de vista, así el televidente podrá sacar sus propias conclusiones.(n)</desc>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220908010000 -0500" stop="20220908030000 -0500" channel="RCN (COL)">
+    <title lang="es">La ley del corazón</title>
+    <desc lang="es">Mientras un bufete de abogados expertos en derecho de familia debe lidiar con peculiares casos, una historia de amor nace entre Julia y Pablo, justo cuando ella se está por casar.(n)</desc>
+    <rating system="CO">
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220908030000 -0500" stop="20220908034000 -0500" channel="RCN (COL)">
+    <title lang="es">Noticias RCN</title>
+    <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220908034000 -0500" stop="20220908044000 -0500" channel="RCN (COL)">
+    <title lang="es">Fuera del aire</title>
+    <title lang="es">SIGN OFF</title>
+    <desc lang="es">Fin de emisión.(n)</desc>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220908044000 -0500" stop="20220908053000 -0500" channel="RCN (COL)">
+    <title lang="es">El Mundo del Campo</title>
+    <desc lang="es">Programa sobre la cultura colombiana, las tradiciones, los festivales, la comida y mucho más de cada región.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220908053000 -0500" stop="20220908060000 -0500" channel="RCN (COL)">
+    <title lang="es">Noticias RCN</title>
+    <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220908060000 -0500" stop="20220908073000 -0500" channel="RCN (COL)">
+    <title lang="es">Noticias RCN</title>
+    <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220908073000 -0500" stop="20220908093000 -0500" channel="RCN (COL)">
+    <title lang="es">Mañana express</title>
+    <desc lang="es">Todas las noticias de actualidad con un toque de buen humor.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220908093000 -0500" stop="20220908123000 -0500" channel="RCN (COL)">
+    <title lang="es">Buen día, Colombia</title>
+    <desc lang="es">Un espacio donde se abordan temas de interés. Además, se incluyen entrevistas y grandes invitados para que el público pueda hacer a un lado sus preocupaciones.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220908123000 -0500" stop="20220908143000 -0500" channel="RCN (COL)">
+    <title lang="es">Noticias RCN</title>
+    <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220908143000 -0500" stop="20220908153000 -0500" channel="RCN (COL)">
+    <title lang="es">Vencer el desamor</title>
+    <desc lang="es">Cuatro mujeres de diferentes edades y estratos sociales deben convivir bajo el mismo techo y, aunque al principio resulta complicado, la hermandad y solidaridad prevalecerán.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220908153000 -0500" stop="20220908165000 -0500" channel="RCN (COL)">
+    <title lang="es">Diseñando tu amor</title>
+    <desc lang="es">Valentina y Nora, dos hermanas con personalidades diferentes, comparten el deseo de destacarse en el mundo de la industria de la moda.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220908165000 -0500" stop="20220908180000 -0500" channel="RCN (COL)">
+    <title lang="es">Mañana Es Para Siempre</title>
+    <desc lang="es">Un hombre y una mujer que crecieron juntos a pesar de sus diferentes clases sociales se reencuentran en medio de conflictos entre sus familias.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220908180000 -0500" stop="20220908190000 -0500" channel="RCN (COL)">
+    <title lang="es">La rosa de Guadalupe</title>
+    <desc lang="es">Dramatizaciones de casos de la vida diaria de personas que experimentan un milagro verdadero, después de haberlo pedido a la Virgen de Guadalupe; estas historias son fuente de inspiración y esperanza.(n)</desc>
+    <rating system="CO">
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220908190000 -0500" stop="20220908193000 -0500" channel="RCN (COL)">
+    <title lang="es">Noticiero de la Cámara</title>
+    <desc lang="es">Espacio informativo que busca dar a conocer a la ciudadanía lo adelantado en las comisiones y plenarias; analizando el desarrollo, la aprobación de las leyes y el proceso legislativo en la Cámara de Representantes.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220908193000 -0500" stop="20220908200000 -0500" channel="RCN (COL)">
+    <title lang="es">Noticias RCN</title>
+    <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220908200000 -0500" stop="20220908213000 -0500" channel="RCN (COL)">
+    <title lang="es">Café con aroma de mujer</title>
+    <desc lang="es">Gaviota, una recolectora de café, y Sebastián, miembro de una de las familias más poderosas del gremio caficultor deben superar obstáculos para estar juntos. A la vez, surgen intrigas y pasiones en el mundo del comercio del café.(n)</desc>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220908213000 -0500" stop="20220908223000 -0500" channel="RCN (COL)">
+    <title lang="es">Hasta que la plata nos separe</title>
+    <desc lang="es">Alejandra y Rafael vienen de mundos opuestos y protagonizan un romance poco convencional. Un accidente automovilístico marca sus destinos y, a partir de ese día, sus vidas no serán las mismas.(n)</desc>
+    <rating system="CO">
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220908223000 -0500" stop="20220908233000 -0500" channel="RCN (COL)">
+    <title lang="es">¿Dónde está Elisa?</title>
+    <desc lang="es">La hija mayor del reconocido empresario Vicente León, presidente de una renombrada empresa dedicada a los bienes raíces desaparece luego de asistir a una reunión, y Cristóbal Rivas un experimentado detective tiene la misión de encontrarla.(n)</desc>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220908233000 -0500" stop="20220909000000 -0500" channel="RCN (COL)">
+    <title lang="es">Noticias RCN</title>
+    <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220909000000 -0500" stop="20220909005000 -0500" channel="RCN (COL)">
+    <title lang="es">La noche</title>
+    <desc lang="es">Un espacio en el que el periodismo serio, responsable y honesto, presenta debates sobre los temas más importantes del país y del mundo desde diferentes puntos de vista, así el televidente podrá sacar sus propias conclusiones.(n)</desc>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220909005000 -0500" stop="20220909012000 -0500" channel="RCN (COL)">
+    <title lang="es">Contacto astral</title>
+    <desc lang="es">En este programa los televidentes podrán informarse acerca del mundo del esoterismo y la magia.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220909012000 -0500" stop="20220909030000 -0500" channel="RCN (COL)">
+    <title lang="es">La ley del corazón</title>
+    <desc lang="es">Mientras un bufete de abogados expertos en derecho de familia debe lidiar con peculiares casos, una historia de amor nace entre Julia y Pablo, justo cuando ella se está por casar.(n)</desc>
+    <rating system="CO">
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220909030000 -0500" stop="20220909034000 -0500" channel="RCN (COL)">
+    <title lang="es">Noticias RCN</title>
+    <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220909034000 -0500" stop="20220909044000 -0500" channel="RCN (COL)">
+    <title lang="es">Fuera del aire</title>
+    <title lang="es">SIGN OFF</title>
+    <desc lang="es">Fin de emisión.(n)</desc>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220909044000 -0500" stop="20220909053000 -0500" channel="RCN (COL)">
+    <title lang="es">El Mundo del Campo</title>
+    <desc lang="es">Programa sobre la cultura colombiana, las tradiciones, los festivales, la comida y mucho más de cada región.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220909053000 -0500" stop="20220909060000 -0500" channel="RCN (COL)">
+    <title lang="es">Noticias RCN</title>
+    <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220909060000 -0500" stop="20220909073000 -0500" channel="RCN (COL)">
+    <title lang="es">Noticias RCN</title>
+    <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220909073000 -0500" stop="20220909093000 -0500" channel="RCN (COL)">
+    <title lang="es">Mañana express</title>
+    <desc lang="es">Todas las noticias de actualidad con un toque de buen humor.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220909093000 -0500" stop="20220909123000 -0500" channel="RCN (COL)">
+    <title lang="es">Buen día, Colombia</title>
+    <desc lang="es">Un espacio donde se abordan temas de interés. Además, se incluyen entrevistas y grandes invitados para que el público pueda hacer a un lado sus preocupaciones.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220909123000 -0500" stop="20220909143000 -0500" channel="RCN (COL)">
+    <title lang="es">Noticias RCN</title>
+    <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220909143000 -0500" stop="20220909153000 -0500" channel="RCN (COL)">
+    <title lang="es">Vencer el desamor</title>
+    <desc lang="es">Cuatro mujeres de diferentes edades y estratos sociales deben convivir bajo el mismo techo y, aunque al principio resulta complicado, la hermandad y solidaridad prevalecerán.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220909153000 -0500" stop="20220909165000 -0500" channel="RCN (COL)">
+    <title lang="es">Diseñando tu amor</title>
+    <desc lang="es">Valentina y Nora, dos hermanas con personalidades diferentes, comparten el deseo de destacarse en el mundo de la industria de la moda.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220909165000 -0500" stop="20220909180000 -0500" channel="RCN (COL)">
+    <title lang="es">Mañana Es Para Siempre</title>
+    <desc lang="es">Un hombre y una mujer que crecieron juntos a pesar de sus diferentes clases sociales se reencuentran en medio de conflictos entre sus familias.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220909180000 -0500" stop="20220909190000 -0500" channel="RCN (COL)">
+    <title lang="es">La rosa de Guadalupe</title>
+    <desc lang="es">Dramatizaciones de casos de la vida diaria de personas que experimentan un milagro verdadero, después de haberlo pedido a la Virgen de Guadalupe; estas historias son fuente de inspiración y esperanza.(n)</desc>
+    <rating system="CO">
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220909190000 -0500" stop="20220909200000 -0500" channel="RCN (COL)">
+    <title lang="es">Noticias RCN</title>
+    <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220909200000 -0500" stop="20220909213000 -0500" channel="RCN (COL)">
+    <title lang="es">Café con aroma de mujer</title>
+    <desc lang="es">Gaviota, una recolectora de café, y Sebastián, miembro de una de las familias más poderosas del gremio caficultor deben superar obstáculos para estar juntos. A la vez, surgen intrigas y pasiones en el mundo del comercio del café.(n)</desc>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220909213000 -0500" stop="20220909223000 -0500" channel="RCN (COL)">
+    <title lang="es">Hasta que la plata nos separe</title>
+    <desc lang="es">Alejandra y Rafael vienen de mundos opuestos y protagonizan un romance poco convencional. Un accidente automovilístico marca sus destinos y, a partir de ese día, sus vidas no serán las mismas.(n)</desc>
+    <rating system="CO">
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220909223000 -0500" stop="20220909233000 -0500" channel="RCN (COL)">
+    <title lang="es">¿Dónde está Elisa?</title>
+    <desc lang="es">La hija mayor del reconocido empresario Vicente León, presidente de una renombrada empresa dedicada a los bienes raíces desaparece luego de asistir a una reunión, y Cristóbal Rivas un experimentado detective tiene la misión de encontrarla.(n)</desc>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220909233000 -0500" stop="20220910000000 -0500" channel="RCN (COL)">
+    <title lang="es">Noticias RCN</title>
+    <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220906010000 -0500" stop="20220906020000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Verano en Venecia</title>
+    <desc lang="es">El sueño de Rossy Romero es ser dueña de Bosques de Venecia, la hacienda a la cual ha dedicado su vida, pero para arruinar sus planes aparece Leticia Toledo, su medio hermana, casada con Miguel Tirado, el primer y único amor de Rossy.(n)</desc>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220906020000 -0500" stop="20220906030000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Charla técnica</title>
+    <desc lang="es">El análisis, la opinión y el resumen de la jornada deportiva.(n)</desc>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220906030000 -0500" stop="20220906040000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Trendiando</title>
+    <desc lang="es">Lo mejor del entretenimiento y las nuevas tendencias.(n)</desc>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220906040000 -0500" stop="20220906043000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Tenemos que Hablar</title>
+    <desc lang="es">Todo el glamour del mundo del espectáculo, con novedades, polémicas y lo último en información sobre las estrellas del entretenimiento.(n)</desc>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220906043000 -0500" stop="20220906053000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">El Mundo del Campo</title>
+    <desc lang="es">Programa sobre la cultura colombiana, las tradiciones, los festivales, la comida y mucho más de cada región.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220906053000 -0500" stop="20220906054500 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Entrevistas con Hernán</title>
+    <desc lang="es">Profundas entrevistas con las grandes figuras del momento.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220906054500 -0500" stop="20220906060000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Alerta Bogotá</title>
+    <desc lang="es">La información del programa no fue provista por el proveedor de la señal.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220906060000 -0500" stop="20220906070000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">RCN mundo</title>
+    <desc lang="es">Un espacio innovador para conectarse con las más recientes noticias y debates que son realizados por expertos profesionales del periodismo.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220906070000 -0500" stop="20220906073000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Noticias RCN</title>
+    <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220906073000 -0500" stop="20220906093000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Mañana express</title>
+    <desc lang="es">Todas las noticias de actualidad con un toque de buen humor.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220906093000 -0500" stop="20220906113000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Buen día, Colombia</title>
+    <desc lang="es">Un espacio donde se abordan temas de interés. Además, se incluyen entrevistas y grandes invitados para que el público pueda hacer a un lado sus preocupaciones.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220906113000 -0500" stop="20220906120000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Ponte al día con Cata Robayo</title>
+    <desc lang="es">Más que un programa de variedades, es una grandiosa oportunidad para que todas las personas se pongan al día con Catalina Robayo en diferentes temas, desde el cuidado de salud, belleza, cocina y más.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220906120000 -0500" stop="20220906123000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">América se entera</title>
+    <desc lang="es">Tratamiento objetivo y profundo de las noticias más relevantes de la actualidad.(n)</desc>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220906123000 -0500" stop="20220906143000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Noticias RCN</title>
+    <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220906143000 -0500" stop="20220906150000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Tr3intay2 regionalmente nuestro</title>
+    <desc lang="es">Programa de la Federación de Departamentos que busca recorrer los 32 departamentos de Colombia, mostrar su cultura, tradiciones, gastronomía y sitios turísticos, además de visitar y animar a los colombianos a recorrer su país.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220906150000 -0500" stop="20220906160000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">En la jugada</title>
+    <desc lang="es">Un programa para dar a conocer los hechos que giran en torno a cuatro equipos de fútbol del oriente colombiano, la actividad del baloncesto, y los torneos profesionales del fútbol de salón y sala.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220906160000 -0500" stop="20220906163000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Yo, José Gabriel</title>
+    <desc lang="es">Las noches se llenan de estrellas con grandes entrevistas a diversos invitados y la mejor música.(n)</desc>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220906163000 -0500" stop="20220906170000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Tenemos que Hablar</title>
+    <desc lang="es">Todo el glamour del mundo del espectáculo, con novedades, polémicas y lo último en información sobre las estrellas del entretenimiento.(n)</desc>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220906170000 -0500" stop="20220906180000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Trendiando</title>
+    <desc lang="es">Lo mejor del entretenimiento y las nuevas tendencias.(n)</desc>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220906180000 -0500" stop="20220906200000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Noticias RCN</title>
+    <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220906200000 -0500" stop="20220906210000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Las Detectivas y el Víctor</title>
+    <desc lang="es">El detective Víctor García junto con su esposa Chavela inician una agencia de detectives: García Detectives, especializada en casos de infidelidades y seguimientos conyugales.(n)</desc>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220906210000 -0500" stop="20220906220000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Charla técnica</title>
+    <desc lang="es">El análisis, la opinión y el resumen de la jornada deportiva.(n)</desc>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220906220000 -0500" stop="20220906223000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Noticias RCN</title>
+    <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220906223000 -0500" stop="20220906233000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">El despecho</title>
+    <desc lang="es">Programa orientado al entretenimiento de la comunidad, en el cual se presentan los mejores videos de música popular de artistas regionales y nacionales, conducido por Oscar Guillermo Zapata.(n)</desc>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220906233000 -0500" stop="20220907000000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Entrevistas con Hernán</title>
+    <desc lang="es">Profundas entrevistas con las grandes figuras del momento.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220907000000 -0500" stop="20220907010000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Trendiando</title>
+    <desc lang="es">Lo mejor del entretenimiento y las nuevas tendencias.(n)</desc>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220907010000 -0500" stop="20220907020000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Las Detectivas y el Víctor</title>
+    <desc lang="es">El detective Víctor García junto con su esposa Chavela inician una agencia de detectives: García Detectives, especializada en casos de infidelidades y seguimientos conyugales.(n)</desc>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220907020000 -0500" stop="20220907030000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Charla técnica</title>
+    <desc lang="es">El análisis, la opinión y el resumen de la jornada deportiva.(n)</desc>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220907030000 -0500" stop="20220907040000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Trendiando</title>
+    <desc lang="es">Lo mejor del entretenimiento y las nuevas tendencias.(n)</desc>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220907040000 -0500" stop="20220907043000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Tenemos que Hablar</title>
+    <desc lang="es">Todo el glamour del mundo del espectáculo, con novedades, polémicas y lo último en información sobre las estrellas del entretenimiento.(n)</desc>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220907043000 -0500" stop="20220907053000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">El Mundo del Campo</title>
+    <desc lang="es">Programa sobre la cultura colombiana, las tradiciones, los festivales, la comida y mucho más de cada región.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220907053000 -0500" stop="20220907054500 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Yo, José Gabriel</title>
+    <desc lang="es">Las noches se llenan de estrellas con grandes entrevistas a diversos invitados y la mejor música.(n)</desc>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220907054500 -0500" stop="20220907060000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Alerta Bogotá</title>
+    <desc lang="es">La información del programa no fue provista por el proveedor de la señal.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220907060000 -0500" stop="20220907070000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">RCN mundo</title>
+    <desc lang="es">Un espacio innovador para conectarse con las más recientes noticias y debates que son realizados por expertos profesionales del periodismo.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220907070000 -0500" stop="20220907073000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Noticias RCN</title>
+    <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220907073000 -0500" stop="20220907093000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Mañana express</title>
+    <desc lang="es">Todas las noticias de actualidad con un toque de buen humor.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220907093000 -0500" stop="20220907113000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Buen día, Colombia</title>
+    <desc lang="es">Un espacio donde se abordan temas de interés. Además, se incluyen entrevistas y grandes invitados para que el público pueda hacer a un lado sus preocupaciones.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220907113000 -0500" stop="20220907120000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Ponte al día con Cata Robayo</title>
+    <desc lang="es">Más que un programa de variedades, es una grandiosa oportunidad para que todas las personas se pongan al día con Catalina Robayo en diferentes temas, desde el cuidado de salud, belleza, cocina y más.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220907120000 -0500" stop="20220907123000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">América se entera</title>
+    <desc lang="es">Tratamiento objetivo y profundo de las noticias más relevantes de la actualidad.(n)</desc>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220907123000 -0500" stop="20220907143000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Noticias RCN</title>
+    <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220907143000 -0500" stop="20220907150000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Tr3intay2 regionalmente nuestro</title>
+    <desc lang="es">Programa de la Federación de Departamentos que busca recorrer los 32 departamentos de Colombia, mostrar su cultura, tradiciones, gastronomía y sitios turísticos, además de visitar y animar a los colombianos a recorrer su país.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220907150000 -0500" stop="20220907160000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">En la jugada</title>
+    <desc lang="es">Un programa para dar a conocer los hechos que giran en torno a cuatro equipos de fútbol del oriente colombiano, la actividad del baloncesto, y los torneos profesionales del fútbol de salón y sala.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220907160000 -0500" stop="20220907163000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Turistéate</title>
+    <desc lang="es">Una muestra de la gente, la cultura y algunos de los sitios de interés turístico más representativos de Colombia e Hispanoamérica.(n)</desc>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220907163000 -0500" stop="20220907170000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Tenemos que Hablar</title>
+    <desc lang="es">Todo el glamour del mundo del espectáculo, con novedades, polémicas y lo último en información sobre las estrellas del entretenimiento.(n)</desc>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220907170000 -0500" stop="20220907180000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Trendiando</title>
+    <desc lang="es">Lo mejor del entretenimiento y las nuevas tendencias.(n)</desc>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220907180000 -0500" stop="20220907200000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Noticias RCN</title>
+    <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220907200000 -0500" stop="20220907210000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Las Detectivas y el Víctor</title>
+    <desc lang="es">El detective Víctor García junto con su esposa Chavela inician una agencia de detectives: García Detectives, especializada en casos de infidelidades y seguimientos conyugales.(n)</desc>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220907210000 -0500" stop="20220907220000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Charla técnica</title>
+    <desc lang="es">El análisis, la opinión y el resumen de la jornada deportiva.(n)</desc>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220907220000 -0500" stop="20220907223000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Noticias RCN</title>
+    <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220907223000 -0500" stop="20220907233000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">El despecho</title>
+    <desc lang="es">Programa orientado al entretenimiento de la comunidad, en el cual se presentan los mejores videos de música popular de artistas regionales y nacionales, conducido por Oscar Guillermo Zapata.(n)</desc>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220907233000 -0500" stop="20220908000000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Deportistas de lujo</title>
+    <desc lang="es">Programa enfocado en conocer más detalladamente a los protagonistas que se destacan en las diferentes disciplinas deportivas.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220908000000 -0500" stop="20220908010000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Trendiando</title>
+    <desc lang="es">Lo mejor del entretenimiento y las nuevas tendencias.(n)</desc>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220908010000 -0500" stop="20220908020000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Las Detectivas y el Víctor</title>
+    <desc lang="es">El detective Víctor García junto con su esposa Chavela inician una agencia de detectives: García Detectives, especializada en casos de infidelidades y seguimientos conyugales.(n)</desc>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220908020000 -0500" stop="20220908030000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Charla técnica</title>
+    <desc lang="es">El análisis, la opinión y el resumen de la jornada deportiva.(n)</desc>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220908030000 -0500" stop="20220908040000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Trendiando</title>
+    <desc lang="es">Lo mejor del entretenimiento y las nuevas tendencias.(n)</desc>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220908040000 -0500" stop="20220908043000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Tenemos que Hablar</title>
+    <desc lang="es">Todo el glamour del mundo del espectáculo, con novedades, polémicas y lo último en información sobre las estrellas del entretenimiento.(n)</desc>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220908043000 -0500" stop="20220908053000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">El Mundo del Campo</title>
+    <desc lang="es">Programa sobre la cultura colombiana, las tradiciones, los festivales, la comida y mucho más de cada región.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220908053000 -0500" stop="20220908054500 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Entrevistas con Hernán</title>
+    <desc lang="es">Profundas entrevistas con las grandes figuras del momento.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220908054500 -0500" stop="20220908060000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Alerta Bogotá</title>
+    <desc lang="es">La información del programa no fue provista por el proveedor de la señal.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220908060000 -0500" stop="20220908070000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">RCN mundo</title>
+    <desc lang="es">Un espacio innovador para conectarse con las más recientes noticias y debates que son realizados por expertos profesionales del periodismo.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220908070000 -0500" stop="20220908073000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Noticias RCN</title>
+    <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220908073000 -0500" stop="20220908093000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Mañana express</title>
+    <desc lang="es">Todas las noticias de actualidad con un toque de buen humor.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220908093000 -0500" stop="20220908113000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Buen día, Colombia</title>
+    <desc lang="es">Un espacio donde se abordan temas de interés. Además, se incluyen entrevistas y grandes invitados para que el público pueda hacer a un lado sus preocupaciones.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220908113000 -0500" stop="20220908120000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Ponte al día con Cata Robayo</title>
+    <desc lang="es">Más que un programa de variedades, es una grandiosa oportunidad para que todas las personas se pongan al día con Catalina Robayo en diferentes temas, desde el cuidado de salud, belleza, cocina y más.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220908120000 -0500" stop="20220908123000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">América se entera</title>
+    <desc lang="es">Tratamiento objetivo y profundo de las noticias más relevantes de la actualidad.(n)</desc>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220908123000 -0500" stop="20220908143000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Noticias RCN</title>
+    <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220908143000 -0500" stop="20220908160000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">En la jugada</title>
+    <desc lang="es">Un programa para dar a conocer los hechos que giran en torno a cuatro equipos de fútbol del oriente colombiano, la actividad del baloncesto, y los torneos profesionales del fútbol de salón y sala.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220908160000 -0500" stop="20220908163000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Colombia a la carta</title>
+    <desc lang="es">Un programa dedicado a resaltar la riqueza culinaria de Colombia mostrando recetas, cocineros y lugares para visitar. Un espacio para los amantes del buen comer.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220908163000 -0500" stop="20220908170000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Tenemos que Hablar</title>
+    <desc lang="es">Todo el glamour del mundo del espectáculo, con novedades, polémicas y lo último en información sobre las estrellas del entretenimiento.(n)</desc>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220908170000 -0500" stop="20220908180000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Trendiando</title>
+    <desc lang="es">Lo mejor del entretenimiento y las nuevas tendencias.(n)</desc>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220908180000 -0500" stop="20220908200000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Noticias RCN</title>
+    <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220908200000 -0500" stop="20220908210000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Las Detectivas y el Víctor</title>
+    <desc lang="es">El detective Víctor García junto con su esposa Chavela inician una agencia de detectives: García Detectives, especializada en casos de infidelidades y seguimientos conyugales.(n)</desc>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220908210000 -0500" stop="20220908220000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Charla técnica</title>
+    <desc lang="es">El análisis, la opinión y el resumen de la jornada deportiva.(n)</desc>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220908220000 -0500" stop="20220908223000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Noticias RCN</title>
+    <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220908223000 -0500" stop="20220908233000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">El despecho</title>
+    <desc lang="es">Programa orientado al entretenimiento de la comunidad, en el cual se presentan los mejores videos de música popular de artistas regionales y nacionales, conducido por Oscar Guillermo Zapata.(n)</desc>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220908233000 -0500" stop="20220909000000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Colombia a la carta</title>
+    <desc lang="es">Un programa dedicado a resaltar la riqueza culinaria de Colombia mostrando recetas, cocineros y lugares para visitar. Un espacio para los amantes del buen comer.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220909000000 -0500" stop="20220909010000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Trendiando</title>
+    <desc lang="es">Lo mejor del entretenimiento y las nuevas tendencias.(n)</desc>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220909010000 -0500" stop="20220909020000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Las Detectivas y el Víctor</title>
+    <desc lang="es">El detective Víctor García junto con su esposa Chavela inician una agencia de detectives: García Detectives, especializada en casos de infidelidades y seguimientos conyugales.(n)</desc>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220909020000 -0500" stop="20220909030000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Charla técnica</title>
+    <desc lang="es">El análisis, la opinión y el resumen de la jornada deportiva.(n)</desc>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220909030000 -0500" stop="20220909040000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Trendiando</title>
+    <desc lang="es">Lo mejor del entretenimiento y las nuevas tendencias.(n)</desc>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220909040000 -0500" stop="20220909043000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Tenemos que Hablar</title>
+    <desc lang="es">Todo el glamour del mundo del espectáculo, con novedades, polémicas y lo último en información sobre las estrellas del entretenimiento.(n)</desc>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220909043000 -0500" stop="20220909053000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">El Mundo del Campo</title>
+    <desc lang="es">Programa sobre la cultura colombiana, las tradiciones, los festivales, la comida y mucho más de cada región.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220909053000 -0500" stop="20220909054500 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Yo, José Gabriel</title>
+    <desc lang="es">Las noches se llenan de estrellas con grandes entrevistas a diversos invitados y la mejor música.(n)</desc>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220909054500 -0500" stop="20220909060000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Alerta Bogotá</title>
+    <desc lang="es">La información del programa no fue provista por el proveedor de la señal.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220909060000 -0500" stop="20220909070000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">RCN mundo</title>
+    <desc lang="es">Un espacio innovador para conectarse con las más recientes noticias y debates que son realizados por expertos profesionales del periodismo.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220909070000 -0500" stop="20220909073000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Noticias RCN</title>
+    <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220909073000 -0500" stop="20220909093000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Mañana express</title>
+    <desc lang="es">Todas las noticias de actualidad con un toque de buen humor.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220909093000 -0500" stop="20220909113000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Buen día, Colombia</title>
+    <desc lang="es">Un espacio donde se abordan temas de interés. Además, se incluyen entrevistas y grandes invitados para que el público pueda hacer a un lado sus preocupaciones.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220909113000 -0500" stop="20220909120000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Ponte al día con Cata Robayo</title>
+    <desc lang="es">Más que un programa de variedades, es una grandiosa oportunidad para que todas las personas se pongan al día con Catalina Robayo en diferentes temas, desde el cuidado de salud, belleza, cocina y más.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220909120000 -0500" stop="20220909123000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">América se entera</title>
+    <desc lang="es">Tratamiento objetivo y profundo de las noticias más relevantes de la actualidad.(n)</desc>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220909123000 -0500" stop="20220909143000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Noticias RCN</title>
+    <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220909143000 -0500" stop="20220909153000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">En la jugada</title>
+    <desc lang="es">Un programa para dar a conocer los hechos que giran en torno a cuatro equipos de fútbol del oriente colombiano, la actividad del baloncesto, y los torneos profesionales del fútbol de salón y sala.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220909153000 -0500" stop="20220909160000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">La Previa de la Liga</title>
+    <desc lang="es">Análisis previo con lo mejor del campeonato colombiano.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220909160000 -0500" stop="20220909163000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Entrevistas con Hernán</title>
+    <desc lang="es">Profundas entrevistas con las grandes figuras del momento.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220909163000 -0500" stop="20220909170000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Tenemos que Hablar</title>
+    <desc lang="es">Todo el glamour del mundo del espectáculo, con novedades, polémicas y lo último en información sobre las estrellas del entretenimiento.(n)</desc>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220909170000 -0500" stop="20220909180000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Trendiando</title>
+    <desc lang="es">Lo mejor del entretenimiento y las nuevas tendencias.(n)</desc>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220909180000 -0500" stop="20220909200000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Noticias RCN</title>
+    <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220909200000 -0500" stop="20220909210000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">El Show de las Estrellas</title>
+    <desc lang="es">Programa musical con presentaciones en distintas partes de Colombia.(n)</desc>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220909210000 -0500" stop="20220909220000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Charla técnica</title>
+    <desc lang="es">El análisis, la opinión y el resumen de la jornada deportiva.(n)</desc>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220909220000 -0500" stop="20220909223000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">Noticias RCN</title>
+    <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220909223000 -0500" stop="20220909233000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">El despecho</title>
+    <desc lang="es">Programa orientado al entretenimiento de la comunidad, en el cual se presentan los mejores videos de música popular de artistas regionales y nacionales, conducido por Oscar Guillermo Zapata.(n)</desc>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220909233000 -0500" stop="20220910000000 -0500" channel="RCN Nuestra Tele">
+    <title lang="es">La Previa de la Liga</title>
+    <desc lang="es">Análisis previo con lo mejor del campeonato colombiano.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
   </programme>
 </tv>
