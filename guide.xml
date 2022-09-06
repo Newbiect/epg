@@ -8,7 +8,7 @@
   <channel id="-TVN (CHI)">
     <display-name lang="es">TVN (CHI)</display-name>
     <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/1149.png" />
-    <url>http://www.directv.cl</url>
+    <url>http://www.directv.com.cl</url>
   </channel>
   <channel id="-UniMás">
     <display-name lang="en">UniMás</display-name>
@@ -1831,8 +1831,8 @@
   <programme start="20220906230000 -0500" stop="20220907000000 -0500" channel="-RCN Novelas">
     <title lang="es">Doña Bella</title>
   </programme>
-  <programme start="20220907140000 -0500" stop="20220907150000 -0500" channel="-RCN Novelas">
-    <title lang="es">Te quiero Pecas</title>
+  <programme start="20220907150000 -0500" stop="20220907160000 -0500" channel="-RCN Novelas">
+    <title lang="es">Garzón</title>
   </programme>
   <programme start="20220906000000 +0000" stop="20220906010000 +0000" channel="Univision 41">
     <title lang="en">La Mexicana y el Güero (new)</title>
@@ -3154,37 +3154,15 @@
     <date>2022</date>
     <premiere />
   </programme>
-  <programme start="20220906152000 +0000" stop="20220906172000 +0000" channel="-Clover Channel">
-    <title lang="es">Las horas</title>
-    <desc lang="es">Cuenta tres historias situadas en lugares y contextos distintos: La escritora Virginia Woolf, en la Inglaterra de los años 20; un ama de casa en la California de 1941; y una lesbiana que ayuda a su amigo, un brillante poeta, con sida en Nueva York de 2000.(n)</desc>
-    <credits>
-      <director>Stephen Daldry</director>
-      <actor>Stephen Dillane</actor>
-      <actor>Julianne Moore</actor>
-      <actor>John C. Reilly</actor>
-      <actor>Lyndsey Marshal</actor>
-      <actor>Nicole Kidman</actor>
-      <actor>Meryl Streep</actor>
-      <actor>Miranda Richardson</actor>
-      <actor>John Reilly</actor>
-    </credits>
-    <category lang="es">Drama</category>
-    <category lang="es">Romance</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/31/12318160_FAB4686498B83D03.jpg" />
-    <country lang="es">US</country>
-    <rating system="MJColombia">
-      <value>+18</value>
-    </rating>
-  </programme>
   <programme start="20220906172000 +0000" stop="20220906193000 +0000" channel="-Clover Channel">
     <title lang="es">El crimen del padre Amaro</title>
     <desc lang="es">Amaro, un joven de 24 años recién ordenado sacerdote, llega a la parroquia del pequeño pueblo mexicano de Los Reyes para auxiliar en los servicios del templo al padre Benito. Allí, el padre conoce a Amelia, una hermosa joven de 16 años. Sin embargo, poco a poco, Amaro se va dando cuenta de cosas que suceden en el pueblo, relacionadas con los narcos de la región, además surge un sentimiento prohibido.(n)</desc>
     <credits>
       <director>Carlos Carrera</director>
-      <actor>Damián Alcázar</actor>
       <actor>Gael García Bernal</actor>
       <actor>Ana Claudia Talancón</actor>
       <actor>Sancho Gracia</actor>
+      <actor>Damián Alcázar</actor>
       <actor>Angélica Aragón</actor>
     </credits>
     <category lang="es">Drama</category>
@@ -3199,13 +3177,13 @@
     <desc lang="es">Un detective de reconocido prestigio como especialista en vigilancia y sistemas de seguridad, es contratado por un magnate para investigar a su joven esposa, que mantiene una relación con uno de sus empleados.(n)</desc>
     <credits>
       <director>Francis Ford Coppola</director>
-      <actor>Harrison Ford</actor>
       <actor>Cindy Williams</actor>
       <actor>Frederic Forrest</actor>
       <actor>Michael Higgins</actor>
       <actor>Allen Garfield</actor>
       <actor>John Cazale</actor>
       <actor>Gene Hackman</actor>
+      <actor>Harrison Ford</actor>
     </credits>
     <category lang="es">Drama</category>
     <category lang="es">Suspenso</category>
@@ -3240,12 +3218,12 @@
     <credits>
       <director>Marc Foster</director>
       <director>Marc Forster</director>
+      <actor>Johnny Depp</actor>
+      <actor>Kelly Macdonald</actor>
       <actor>Joe Prospero</actor>
       <actor>n Essell</actor>
       <actor>Jeremy Gardner</actor>
       <actor>Radha Mitchell</actor>
-      <actor>Johnny Depp</actor>
-      <actor>Kelly Macdonald</actor>
       <actor>Kate Winslet</actor>
       <actor>Julie Christie</actor>
       <actor>Freddie Highmore</actor>
@@ -3299,8 +3277,8 @@
     <title lang="es">Descubriendo el País de Nunca Jamás</title>
     <desc lang="es">Ambientada en Londres, en 1904, esta película muestra el proceso que dio lugar a la creación de Peter Pan. Las acciones que hicieron que miles de niños y adultos se enamoren de este personaje que nunca quería crecer por el contrario tenía el deseo de ser niño por siempre.(n)</desc>
     <credits>
-      <director>Marc Forster</director>
       <director>Marc Foster</director>
+      <director>Marc Forster</director>
       <actor>Freddie Highmore</actor>
       <actor>Joe Prospero</actor>
       <actor>n Essell</actor>
@@ -3324,10 +3302,10 @@
     <desc lang="es">Alfie Elkins es un mujeriego filosófico que se ve obligado a cuestionar su existencia aparentemente despreocupada, luego de que una serie de sucesos comiencen a desmoronar un estilo de vida libre y lo hagan reflexionar sobre los peligros de sus acciones.(n)</desc>
     <credits>
       <director>Charles Shyer</director>
+      <actor>Omar Epps</actor>
       <actor>Jude Law</actor>
       <actor>Susan Sarandon</actor>
       <actor>Marisa Tomei</actor>
-      <actor>Omar Epps</actor>
     </credits>
     <category lang="es">Comedia</category>
     <category lang="es">Drama</category>
@@ -3342,10 +3320,10 @@
     <desc lang="es">Cindy tiene que investigar los misteriosos círculos de los cultivos, además de unas cintas de videos, al mismo tiempo que debe ayudar al Presidente de Estados Unidos, a detener una invasión extraterrestre.(n)</desc>
     <credits>
       <director>David Zucker</director>
+      <actor>Anna Faris</actor>
       <actor>Simon Rex</actor>
       <actor>Jenny McCarthy</actor>
       <actor>Leslie Nielsen</actor>
-      <actor>Anna Faris</actor>
       <actor>Charlie Sheen</actor>
       <actor>Regina Hall</actor>
     </credits>
@@ -3384,16 +3362,16 @@
     <title lang="es">Top Secret!</title>
     <desc lang="es">El artista Nick Rivers llega a Alemania Oriental para presentarse en un festival cultural. Pero esto forma parte de un plan para distraer al alto mando de ese país y nuevamente unir a las dos Alemanias bajo un sólo gobierno. Pronto Nick se verá envuelto en la operación ayudando a la resistencia francesa.(n)</desc>
     <credits>
-      <director>Jim Abrahams</director>
       <director>David Zucker</director>
       <director>Jerry Zucker</director>
+      <director>Jim Abrahams</director>
+      <actor>Christopher Viliers</actor>
+      <actor>Omar Sharif</actor>
+      <actor>Val Kilmer</actor>
       <actor>Warren Clarke</actor>
       <actor>Peter Cushing</actor>
       <actor>Jeremy Kemp</actor>
       <actor>Lucy Gutteridge</actor>
-      <actor>Christopher Viliers</actor>
-      <actor>Omar Sharif</actor>
-      <actor>Val Kilmer</actor>
     </credits>
     <category lang="es">Comedia</category>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/89/11896332_417FCA6581F216D9.jpg" />
@@ -3443,17 +3421,17 @@
     <title lang="es">Descubriendo el País de Nunca Jamás</title>
     <desc lang="es">Ambientada en Londres, en 1904, esta película muestra el proceso que dio lugar a la creación de Peter Pan. Las acciones que hicieron que miles de niños y adultos se enamoren de este personaje que nunca quería crecer por el contrario tenía el deseo de ser niño por siempre.(n)</desc>
     <credits>
-      <director>Marc Foster</director>
       <director>Marc Forster</director>
-      <actor>Joe Prospero</actor>
-      <actor>n Essell</actor>
-      <actor>Jeremy Gardner</actor>
+      <director>Marc Foster</director>
       <actor>Radha Mitchell</actor>
       <actor>Johnny Depp</actor>
       <actor>Kelly Macdonald</actor>
       <actor>Kate Winslet</actor>
       <actor>Julie Christie</actor>
       <actor>Freddie Highmore</actor>
+      <actor>Joe Prospero</actor>
+      <actor>n Essell</actor>
+      <actor>Jeremy Gardner</actor>
     </credits>
     <category lang="es">Drama</category>
     <category lang="es">Biográfica</category>
@@ -3487,16 +3465,16 @@
     <desc lang="es">Un submarino nuclear, al mando de un prestigioso general de la Unión Soviética, se interna en el Océano Atlántico con rumbo a los Estados Unidos. La CIA, que ignora si pretende atacarlos o desertar de su país, encarga al agente Jack Ryan que se ponga en contacto con él para saber sus verdaderas intenciones.(n)</desc>
     <credits>
       <director>John McTiernan</director>
-      <actor>Alec Baldwin</actor>
-      <actor>Scott Glenn</actor>
-      <actor>Sam Neill</actor>
-      <actor>Sean Connery</actor>
-      <actor>James Earl Jones</actor>
-      <actor>Tim Curry</actor>
       <actor>Fred Dalton Thompson</actor>
+      <actor>James Earl Jones</actor>
       <actor>Jeffrey Jones</actor>
       <actor>Joss Ackland</actor>
       <actor>Larry Ferguson</actor>
+      <actor>Richard Jordan</actor>
+      <actor>Tim Curry</actor>
+      <actor>Timothy Carhart</actor>
+      <actor>Alec Baldwin</actor>
+      <actor>Scott Glenn</actor>
     </credits>
     <category lang="es">Acción</category>
     <category lang="es">Suspenso</category>
@@ -3592,8 +3570,8 @@
       <actor>Gael García Bernal</actor>
       <actor>Rinko Kikuchi</actor>
       <actor>Michael Peña</actor>
-      <actor>Elle Fanning</actor>
       <actor>Adriana Barraza</actor>
+      <actor>Elle Fanning</actor>
     </credits>
     <category lang="es">Drama</category>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/80/12801048_46941892010D0926.jpg" />
@@ -3626,8 +3604,6 @@
     <desc lang="es">Un submarino nuclear, al mando de un prestigioso general de la Unión Soviética, se interna en el Océano Atlántico con rumbo a los Estados Unidos. La CIA, que ignora si pretende atacarlos o desertar de su país, encarga al agente Jack Ryan que se ponga en contacto con él para saber sus verdaderas intenciones.(n)</desc>
     <credits>
       <director>John McTiernan</director>
-      <actor>Tim Curry</actor>
-      <actor>Fred Dalton Thompson</actor>
       <actor>Jeffrey Jones</actor>
       <actor>Joss Ackland</actor>
       <actor>Larry Ferguson</actor>
@@ -3635,7 +3611,9 @@
       <actor>Timothy Carhart</actor>
       <actor>Alec Baldwin</actor>
       <actor>Scott Glenn</actor>
+      <actor>Fred Dalton Thompson</actor>
       <actor>Sam Neill</actor>
+      <actor>Sean Connery</actor>
     </credits>
     <category lang="es">Acción</category>
     <category lang="es">Suspenso</category>
@@ -3670,9 +3648,9 @@
     <desc lang="es">Melodrama que traslada a nuestros tiempos el estilo de Douglas Sirk en los años cincuenta, con Moore y Quaid como esposos: ella, ama de casa, se siente atraída por el jardinero Haysbert, y él, agente de seguros, tiene una opción sexual secreta.(n)</desc>
     <credits>
       <director>Todd Haynes</director>
-      <actor>Julianne Moore</actor>
       <actor>Dennis Quaid</actor>
       <actor>Dennis Haysbert</actor>
+      <actor>Julianne Moore</actor>
     </credits>
     <category lang="es">Drama</category>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/36/12365503_6CDA773385D63298.jpg" />
@@ -3688,13 +3666,13 @@
       <director>F. Gary Gray</director>
       <actor>Mary Portser</actor>
       <actor>Melanie Jayne</actor>
-      <actor>Edward Norton</actor>
-      <actor>Mark Wahlberg</actor>
       <actor>Donald Sutherland</actor>
       <actor>Jason Statham</actor>
       <actor>Charlize Theron</actor>
       <actor>Mos Def</actor>
       <actor>Seth Green</actor>
+      <actor>Edward Norton</actor>
+      <actor>Mark Wahlberg</actor>
       <actor>Franky G</actor>
     </credits>
     <category lang="es">Acción</category>
@@ -3769,11 +3747,11 @@
     <desc lang="es">Cuenta la historia de una familia dirigida por una abuela de 84 años, la cual tiene como misión llevar a todos los parientes a una boda en la provincia de Misiones.(n)</desc>
     <credits>
       <director>Pablo Trapero</director>
-      <actor>Demófila Sáez</actor>
-      <actor>Josefina Santín</actor>
       <actor>Graciana Chironi</actor>
       <actor>Ludmila Stancer</actor>
       <actor>Adelina Bielopolsky</actor>
+      <actor>Demófila Sáez</actor>
+      <actor>Josefina Santín</actor>
     </credits>
     <category lang="es">Drama</category>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/80/12801135_210A2FE9FB66BD02.jpg" />
@@ -3828,16 +3806,16 @@
     <desc lang="es">Una banda de ladrones se propone llevar a cabo un robo en Venecia planificado a la perfección por un veterano criminal, pero la traición de uno de sus miembros los deja con las manos vacías y con ganas de venganza. Ahora se vuelven a juntar para recuperar lo que es suyo.(n)</desc>
     <credits>
       <director>F. Gary Gray</director>
+      <actor>Seth Green</actor>
+      <actor>Franky G</actor>
+      <actor>Eric Waker</actor>
+      <actor>Mary Portser</actor>
+      <actor>Melanie Jayne</actor>
+      <actor>Edward Norton</actor>
       <actor>Mark Wahlberg</actor>
       <actor>Donald Sutherland</actor>
       <actor>Jason Statham</actor>
       <actor>Charlize Theron</actor>
-      <actor>Mos Def</actor>
-      <actor>Seth Green</actor>
-      <actor>Franky G</actor>
-      <actor>Mary Portser</actor>
-      <actor>Melanie Jayne</actor>
-      <actor>Edward Norton</actor>
     </credits>
     <category lang="es">Acción</category>
     <category lang="es">Suspenso</category>
@@ -3870,9 +3848,9 @@
     <desc lang="es">Una bolsa llena de billetes, caída del cielo, va a parar a los pies de Damian. Gracias a ella, él y su hermano Anthony, vivirán una aventura que quedará grabada en su memoria, pues les hará comprender el verdadero valor de las cosas.(n)</desc>
     <credits>
       <director>Danny J. Boyle</director>
-      <actor>Christopher Fulford</actor>
       <actor>Alex Etel</actor>
       <actor>James Nesbitt</actor>
+      <actor>Christopher Fulford</actor>
     </credits>
     <category lang="es">Familiar</category>
     <category lang="es">Basado en novelas</category>
@@ -3882,28 +3860,26 @@
       <value>TE</value>
     </rating>
   </programme>
-  <programme start="20220906162500 +0000" stop="20220906171500 +0000" channel="-Love Nature">
-    <title lang="es">Perros con trabajos extraordinarios</title>
-    <sub-title lang="es">The Lifesavers</sub-title>
-    <desc lang="es">Conoce a un border collie que protege a los aviones de los ataques letales de aves, un perro de caza sprocker cuyo sentido del olfato está salvando ratones de agua en peligro de extinción y un pastor de Anatolia que ayuda a conservar al felino más amenazado de África, el guepardo.(n)</desc>
-    <category lang="es">Documental</category>
-    <category lang="es">Educativo</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777771_B9C5E51DC471C6E1.jpg" />
-    <country lang="es">GB</country>
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220906171500 +0000" stop="20220906180500 +0000" channel="-Love Nature">
-    <title lang="es">Rescate en el Pacífico salvaje</title>
-    <sub-title lang="es">Battle to Save a Sea Lion</sub-title>
-    <desc lang="es">Lucha contra el viento y las olas para encontrar un león marino atrapado en un anillo de plástico. Luego visite el centro de rescate, donde más de 80 focas huérfanas deben ser alimentadas varias veces al día para prepararse para su liberación en la naturaleza, y vea cómo un pato amazónico recibe una operación milagrosa.(n)</desc>
-    <category lang="es">Documental</category>
-    <category lang="es">Naturaleza</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/76/11769209_D2F44B12AFA6DB0E.jpg" />
+  <programme start="20220909145000 +0000" stop="20220909165000 +0000" channel="-Clover Channel">
+    <title lang="es">La estafa maestra</title>
+    <desc lang="es">Una banda de ladrones se propone llevar a cabo un robo en Venecia planificado a la perfección por un veterano criminal, pero la traición de uno de sus miembros los deja con las manos vacías y con ganas de venganza. Ahora se vuelven a juntar para recuperar lo que es suyo.(n)</desc>
+    <credits>
+      <director>F. Gary Gray</director>
+      <actor>Mary Portser</actor>
+      <actor>Melanie Jayne</actor>
+      <actor>Edward Norton</actor>
+      <actor>Mark Wahlberg</actor>
+      <actor>Donald Sutherland</actor>
+      <actor>Jason Statham</actor>
+      <actor>Charlize Theron</actor>
+      <actor>Mos Def</actor>
+      <actor>Seth Green</actor>
+      <actor>Franky G</actor>
+    </credits>
+    <category lang="es">Acción</category>
+    <category lang="es">Suspenso</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/36/12365505_A1DB2AC49D514750.jpg" />
     <country lang="es">US</country>
-    <episode-num system="onscreen">S1 E2</episode-num>
     <rating system="MJColombia">
       <value>TE</value>
     </rating>
@@ -5053,6 +5029,58 @@
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777773_9CD7F38F7ECA0C53.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220909143500 +0000" stop="20220909145500 +0000" channel="-Love Nature">
+    <title lang="es">Ataque y defensa</title>
+    <sub-title lang="es">Insect Eaters</sub-title>
+    <desc lang="es">Los insectos ofrecen una fuente de alimento prácticamente ilimitada para los astutos depredadores que han desarrollado formas de cazarlos. Descubra las habilidades altamente desarrolladas de las libélulas, los escorpiones, las trampas para moscas de Venus y las mantis religiosas.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777773_9CD7F38F7ECA0C53.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220909145500 +0000" stop="20220909153000 +0000" channel="-Love Nature">
+    <title lang="es">Ataque y defensa</title>
+    <sub-title lang="es">Cold-Blooded Killers</sub-title>
+    <desc lang="es">La caza es un medio de supervivencia para todos los depredadores. Pero algunas máquinas de matar altamente especializadas, como la tarántula sigilosa y el dragón prehistórico de Komodo, han desarrollado adaptaciones mortales que los hacen francamente terroríficos.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777773_9CD7F38F7ECA0C53.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220909153000 +0000" stop="20220909162500 +0000" channel="-Love Nature">
+    <title lang="es">Dentro de lo salvaje: India</title>
+    <sub-title lang="es">Rana: reina de la selva</sub-title>
+    <desc lang="es">Uno de los animales más emblemáticos de la Tierra acecha en las selvas de la India: el tigre de Bengala. En el transcurso de un solo día, sigue la suerte de una madre y sus tres cachorros mientras busca comida y lucha para mantener a su familia segura y viva.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777769_61E7DAC0FE06A570.jpg" />
+    <country lang="es">GB</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220909162500 +0000" stop="20220909171500 +0000" channel="-Love Nature">
+    <title lang="es">Perros con trabajos extraordinarios</title>
+    <sub-title lang="es">The Scent Detectives</sub-title>
+    <desc lang="es">Un cruce de labrador y su socio ayudan a prevenir un desastre ecológico en Canadá, un Lagotto Romagnolo descubre un manjar raro en los bosques de Washington, y un equipo belga de malinois rastrea a la tortuga geométrica en peligro crítico para salvar a la especie.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Educativo</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777771_B9C5E51DC471C6E1.jpg" />
+    <country lang="es">GB</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
     <rating system="MJColombia">
       <value>TE</value>
     </rating>
