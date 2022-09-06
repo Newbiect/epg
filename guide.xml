@@ -18,12 +18,12 @@
     <display-name lang="es">RCN Novelas</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="-Univision">
-    <display-name lang="en">Univision</display-name>
+  <channel id="Univision 41">
+    <display-name lang="en">Univision 41</display-name>
     <url>http://www.tvguide.com</url>
   </channel>
-  <channel id="-Telemundo">
-    <display-name lang="en">Telemundo</display-name>
+  <channel id="Telemundo 47">
+    <display-name lang="en">Telemundo 47</display-name>
     <url>http://www.tvguide.com</url>
   </channel>
   <channel id="-Clover Channel">
@@ -50,6 +50,10 @@
     <display-name lang="es">Curiosity Stream</display-name>
     <icon src="https://www.izzi.mx/bcanales/img/canal402.png" />
     <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="Telehit Musica">
+    <display-name lang="en">Telehit Musica</display-name>
+    <url>http://www.tvguide.com</url>
   </channel>
   <programme start="20220906004500 -0500" stop="20220906011500 -0500" channel="-Caracol TV (COL)">
     <title lang="es">El diario de Diana</title>
@@ -1827,10 +1831,10 @@
   <programme start="20220906230000 -0500" stop="20220907000000 -0500" channel="-RCN Novelas">
     <title lang="es">Doña Bella</title>
   </programme>
-  <programme start="20220907120000 -0500" stop="20220907130000 -0500" channel="-RCN Novelas">
-    <title lang="es">Expedientes</title>
+  <programme start="20220907140000 -0500" stop="20220907150000 -0500" channel="-RCN Novelas">
+    <title lang="es">Te quiero Pecas</title>
   </programme>
-  <programme start="20220906000000 +0000" stop="20220906010000 +0000" channel="-Univision">
+  <programme start="20220906000000 +0000" stop="20220906010000 +0000" channel="Univision 41">
     <title lang="en">La Mexicana y el Güero (new)</title>
     <sub-title lang="en">09-05-2022</sub-title>
     <date>2020</date>
@@ -1839,7 +1843,7 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20220906010000 +0000" stop="20220906020000 +0000" channel="-Univision">
+  <programme start="20220906010000 +0000" stop="20220906020000 +0000" channel="Univision 41">
     <title lang="en">La herencia, un legado de amor (new)</title>
     <sub-title lang="en">09-05-2022</sub-title>
     <date>2022</date>
@@ -1848,28 +1852,28 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220906020000 +0000" stop="20220906030000 +0000" channel="-Univision">
+  <programme start="20220906020000 +0000" stop="20220906030000 +0000" channel="Univision 41">
     <title lang="en">Mujer de nadie (new)</title>
     <sub-title lang="en">09-05-2022</sub-title>
     <date>2022</date>
     <premiere />
   </programme>
-  <programme start="20220906030000 +0000" stop="20220906033500 +0000" channel="-Univision">
+  <programme start="20220906030000 +0000" stop="20220906033500 +0000" channel="Univision 41">
     <title lang="en">Noticias Univisión 41---A las Once (new)</title>
     <desc lang="en">Noticias locales, deportes y tiempo.(n)</desc>
     <premiere />
   </programme>
-  <programme start="20220906033500 +0000" stop="20220906040000 +0000" channel="-Univision">
+  <programme start="20220906033500 +0000" stop="20220906040000 +0000" channel="Univision 41">
     <title lang="en">Noticiero Univision - Edicion Nocturna (live)</title>
     <sub-title lang="en">09-05-2022</sub-title>
     <date>2022</date>
   </programme>
-  <programme start="20220906040000 +0000" stop="20220906050000 +0000" channel="-Univision">
+  <programme start="20220906040000 +0000" stop="20220906050000 +0000" channel="Univision 41">
     <title lang="en">Contacto Deportivo (live)</title>
     <sub-title lang="en">09-05-2022</sub-title>
     <date>2014</date>
   </programme>
-  <programme start="20220906050000 +0000" stop="20220906060000 +0000" channel="-Univision">
+  <programme start="20220906050000 +0000" stop="20220906060000 +0000" channel="Univision 41">
     <title lang="en">Peregrina (new)</title>
     <sub-title lang="en">09-05-2022</sub-title>
     <date>2005</date>
@@ -1878,7 +1882,7 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20220906060000 +0000" stop="20220906070000 +0000" channel="-Univision">
+  <programme start="20220906060000 +0000" stop="20220906070000 +0000" channel="Univision 41">
     <title lang="en">La Mexicana y el Güero</title>
     <sub-title lang="en">09-05-2022</sub-title>
     <date>2020</date>
@@ -1886,21 +1890,21 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20220906070000 +0000" stop="20220906073000 +0000" channel="-Univision">
+  <programme start="20220906070000 +0000" stop="20220906073000 +0000" channel="Univision 41">
     <title lang="en">Programación pagada</title>
     <desc lang="en">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.(n)</desc>
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220906073000 +0000" stop="20220906080000 +0000" channel="-Univision">
+  <programme start="20220906073000 +0000" stop="20220906080000 +0000" channel="Univision 41">
     <title lang="en">Programación pagada</title>
     <desc lang="en">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.(n)</desc>
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220906080000 +0000" stop="20220906090000 +0000" channel="-Univision">
+  <programme start="20220906080000 +0000" stop="20220906090000 +0000" channel="Univision 41">
     <title lang="en">El Gordo y la Flaca</title>
     <sub-title lang="en">09-05-2022</sub-title>
     <date>1981</date>
@@ -1908,17 +1912,17 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220906090000 +0000" stop="20220906100000 +0000" channel="-Univision">
+  <programme start="20220906090000 +0000" stop="20220906100000 +0000" channel="Univision 41">
     <title lang="en">Noticias Univisión 41---Al Despertar (new)</title>
     <desc lang="en">Noticias locales, deportes y tiempo.(n)</desc>
     <premiere />
   </programme>
-  <programme start="20220906100000 +0000" stop="20220906110000 +0000" channel="-Univision">
+  <programme start="20220906100000 +0000" stop="20220906110000 +0000" channel="Univision 41">
     <title lang="en">Noticias Univisión 41---Al Despertar (new)</title>
     <desc lang="en">Noticias locales, deportes y tiempo.(n)</desc>
     <premiere />
   </programme>
-  <programme start="20220906110000 +0000" stop="20220906150000 +0000" channel="-Univision">
+  <programme start="20220906110000 +0000" stop="20220906150000 +0000" channel="Univision 41">
     <title lang="en">Despierta América (live)</title>
     <sub-title lang="en">09-06-2022</sub-title>
     <date>2022</date>
@@ -1926,7 +1930,7 @@
       <value>TV-G</value>
     </rating>
   </programme>
-  <programme start="20220906150000 +0000" stop="20220906160000 +0000" channel="-Univision">
+  <programme start="20220906150000 +0000" stop="20220906160000 +0000" channel="Univision 41">
     <title lang="en">Como dice el dicho (new)</title>
     <date>2011</date>
     <premiere />
@@ -1934,16 +1938,16 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220906160000 +0000" stop="20220906163000 +0000" channel="-Univision">
+  <programme start="20220906160000 +0000" stop="20220906163000 +0000" channel="Univision 41">
     <title lang="en">Noticiero Univision - Edicion Digital (live)</title>
     <sub-title lang="en">09-06-2022</sub-title>
     <date>2022</date>
   </programme>
-  <programme start="20220906163000 +0000" stop="20220906170000 +0000" channel="-Univision">
+  <programme start="20220906163000 +0000" stop="20220906170000 +0000" channel="Univision 41">
     <title lang="en">Edición Digital Nueva York</title>
     <desc lang="en">Mantente informado con los últimos acontecimientos, fotos, videos y noticias de Nueva York. Entrevistas, información del clima y todo lo relacionado con el mundo de la tecnología.(n)</desc>
   </programme>
-  <programme start="20220906170000 +0000" stop="20220906180000 +0000" channel="-Univision">
+  <programme start="20220906170000 +0000" stop="20220906180000 +0000" channel="Univision 41">
     <title lang="en">Hoy (new)</title>
     <sub-title lang="en">09-06-2022</sub-title>
     <date>2022</date>
@@ -1952,7 +1956,7 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20220906180000 +0000" stop="20220906200000 +0000" channel="-Univision">
+  <programme start="20220906180000 +0000" stop="20220906200000 +0000" channel="Univision 41">
     <title lang="en">Contigo sí (new)</title>
     <sub-title lang="en">09-06-2022</sub-title>
     <date>2021</date>
@@ -1961,7 +1965,7 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20220906200000 +0000" stop="20220906210000 +0000" channel="-Univision">
+  <programme start="20220906200000 +0000" stop="20220906210000 +0000" channel="Univision 41">
     <title lang="en">El Gordo y la Flaca (live)</title>
     <sub-title lang="en">09-06-2022</sub-title>
     <date>1981</date>
@@ -1969,7 +1973,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220906210000 +0000" stop="20220906220000 +0000" channel="-Univision">
+  <programme start="20220906210000 +0000" stop="20220906220000 +0000" channel="Univision 41">
     <title lang="en">Primer Impacto (live)</title>
     <sub-title lang="en">09-06-2022</sub-title>
     <date>2022</date>
@@ -1977,17 +1981,17 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20220906220000 +0000" stop="20220906223000 +0000" channel="-Univision">
+  <programme start="20220906220000 +0000" stop="20220906223000 +0000" channel="Univision 41">
     <title lang="en">Noticias Univisión 41---A las Seis (new)</title>
     <desc lang="en">Noticias locales, deportes y tiempo.(n)</desc>
     <premiere />
   </programme>
-  <programme start="20220906223000 +0000" stop="20220906230000 +0000" channel="-Univision">
+  <programme start="20220906223000 +0000" stop="20220906230000 +0000" channel="Univision 41">
     <title lang="en">Noticiero Univision (live)</title>
     <sub-title lang="en">09-06-2022</sub-title>
     <date>2022</date>
   </programme>
-  <programme start="20220906230000 +0000" stop="20220907000000 +0000" channel="-Univision">
+  <programme start="20220906230000 +0000" stop="20220907000000 +0000" channel="Univision 41">
     <title lang="en">La Rosa de Guadalupe (new)</title>
     <date>2008</date>
     <premiere />
@@ -1995,7 +1999,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220907000000 +0000" stop="20220907010000 +0000" channel="-Univision">
+  <programme start="20220907000000 +0000" stop="20220907010000 +0000" channel="Univision 41">
     <title lang="en">La Herencia, Un Legado de Amor (new)</title>
     <sub-title lang="en">09-06-2022</sub-title>
     <date>2022</date>
@@ -2004,28 +2008,28 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220907010000 +0000" stop="20220907030000 +0000" channel="-Univision">
+  <programme start="20220907010000 +0000" stop="20220907030000 +0000" channel="Univision 41">
     <title lang="en">Los Ricos También Lloran (new)</title>
     <sub-title lang="en">09-06-2022</sub-title>
     <date>2022</date>
     <premiere />
   </programme>
-  <programme start="20220907030000 +0000" stop="20220907033500 +0000" channel="-Univision">
+  <programme start="20220907030000 +0000" stop="20220907033500 +0000" channel="Univision 41">
     <title lang="en">Noticias Univisión 41---A las Once (new)</title>
     <desc lang="en">Noticias locales, deportes y tiempo.(n)</desc>
     <premiere />
   </programme>
-  <programme start="20220907033500 +0000" stop="20220907040000 +0000" channel="-Univision">
+  <programme start="20220907033500 +0000" stop="20220907040000 +0000" channel="Univision 41">
     <title lang="en">Noticiero Univision - Edicion Nocturna (live)</title>
     <sub-title lang="en">09-06-2022</sub-title>
     <date>2022</date>
   </programme>
-  <programme start="20220907040000 +0000" stop="20220907050000 +0000" channel="-Univision">
+  <programme start="20220907040000 +0000" stop="20220907050000 +0000" channel="Univision 41">
     <title lang="en">Contacto Deportivo (live)</title>
     <sub-title lang="en">09-06-2022</sub-title>
     <date>2014</date>
   </programme>
-  <programme start="20220907050000 +0000" stop="20220907060000 +0000" channel="-Univision">
+  <programme start="20220907050000 +0000" stop="20220907060000 +0000" channel="Univision 41">
     <title lang="en">Peregrina (new)</title>
     <sub-title lang="en">09-06-2022</sub-title>
     <date>2005</date>
@@ -2034,7 +2038,7 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20220907060000 +0000" stop="20220907070000 +0000" channel="-Univision">
+  <programme start="20220907060000 +0000" stop="20220907070000 +0000" channel="Univision 41">
     <title lang="en">La Herencia, Un Legado de Amor</title>
     <sub-title lang="en">09-06-2022</sub-title>
     <date>2022</date>
@@ -2042,21 +2046,21 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220907070000 +0000" stop="20220907073000 +0000" channel="-Univision">
+  <programme start="20220907070000 +0000" stop="20220907073000 +0000" channel="Univision 41">
     <title lang="en">Programación pagada</title>
     <desc lang="en">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.(n)</desc>
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220907073000 +0000" stop="20220907080000 +0000" channel="-Univision">
+  <programme start="20220907073000 +0000" stop="20220907080000 +0000" channel="Univision 41">
     <title lang="en">Programación pagada</title>
     <desc lang="en">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.(n)</desc>
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220907080000 +0000" stop="20220907090000 +0000" channel="-Univision">
+  <programme start="20220907080000 +0000" stop="20220907090000 +0000" channel="Univision 41">
     <title lang="en">El Gordo y la Flaca</title>
     <sub-title lang="en">09-06-2022</sub-title>
     <date>1981</date>
@@ -2064,17 +2068,17 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220907090000 +0000" stop="20220907100000 +0000" channel="-Univision">
+  <programme start="20220907090000 +0000" stop="20220907100000 +0000" channel="Univision 41">
     <title lang="en">Noticias Univisión 41---Al Despertar (new)</title>
     <desc lang="en">Noticias locales, deportes y tiempo.(n)</desc>
     <premiere />
   </programme>
-  <programme start="20220907100000 +0000" stop="20220907110000 +0000" channel="-Univision">
+  <programme start="20220907100000 +0000" stop="20220907110000 +0000" channel="Univision 41">
     <title lang="en">Noticias Univisión 41---Al Despertar (new)</title>
     <desc lang="en">Noticias locales, deportes y tiempo.(n)</desc>
     <premiere />
   </programme>
-  <programme start="20220907110000 +0000" stop="20220907150000 +0000" channel="-Univision">
+  <programme start="20220907110000 +0000" stop="20220907150000 +0000" channel="Univision 41">
     <title lang="en">Despierta América (live)</title>
     <sub-title lang="en">Despierta America</sub-title>
     <date>2022</date>
@@ -2082,7 +2086,7 @@
       <value>TV-G</value>
     </rating>
   </programme>
-  <programme start="20220907150000 +0000" stop="20220907160000 +0000" channel="-Univision">
+  <programme start="20220907150000 +0000" stop="20220907160000 +0000" channel="Univision 41">
     <title lang="en">Como dice el dicho (new)</title>
     <date>2011</date>
     <premiere />
@@ -2090,16 +2094,16 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220907160000 +0000" stop="20220907163000 +0000" channel="-Univision">
+  <programme start="20220907160000 +0000" stop="20220907163000 +0000" channel="Univision 41">
     <title lang="en">Noticiero Univision - Edicion Digital (live)</title>
     <sub-title lang="en">09-07-2022</sub-title>
     <date>2022</date>
   </programme>
-  <programme start="20220907163000 +0000" stop="20220907170000 +0000" channel="-Univision">
+  <programme start="20220907163000 +0000" stop="20220907170000 +0000" channel="Univision 41">
     <title lang="en">Edición Digital Nueva York</title>
     <desc lang="en">Mantente informado con los últimos acontecimientos, fotos, videos y noticias de Nueva York. Entrevistas, información del clima y todo lo relacionado con el mundo de la tecnología.(n)</desc>
   </programme>
-  <programme start="20220907170000 +0000" stop="20220907180000 +0000" channel="-Univision">
+  <programme start="20220907170000 +0000" stop="20220907180000 +0000" channel="Univision 41">
     <title lang="en">Hoy (new)</title>
     <sub-title lang="en">09-07-2022</sub-title>
     <date>1992</date>
@@ -2108,7 +2112,7 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20220907180000 +0000" stop="20220907200000 +0000" channel="-Univision">
+  <programme start="20220907180000 +0000" stop="20220907200000 +0000" channel="Univision 41">
     <title lang="en">Contigo Sí (new)</title>
     <sub-title lang="en">09-07-2022</sub-title>
     <date>2021</date>
@@ -2117,7 +2121,7 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20220907200000 +0000" stop="20220907210000 +0000" channel="-Univision">
+  <programme start="20220907200000 +0000" stop="20220907210000 +0000" channel="Univision 41">
     <title lang="en">El Gordo y La Flaca (live)</title>
     <sub-title lang="en">09-07-2022</sub-title>
     <date>2022</date>
@@ -2125,7 +2129,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220907210000 +0000" stop="20220907220000 +0000" channel="-Univision">
+  <programme start="20220907210000 +0000" stop="20220907220000 +0000" channel="Univision 41">
     <title lang="en">Primer Impacto (live)</title>
     <sub-title lang="en">09-07-2022</sub-title>
     <date>2022</date>
@@ -2133,17 +2137,17 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20220907220000 +0000" stop="20220907223000 +0000" channel="-Univision">
+  <programme start="20220907220000 +0000" stop="20220907223000 +0000" channel="Univision 41">
     <title lang="en">Noticias Univisión 41---A las Seis (new)</title>
     <desc lang="en">Noticias locales, deportes y tiempo.(n)</desc>
     <premiere />
   </programme>
-  <programme start="20220907223000 +0000" stop="20220907230000 +0000" channel="-Univision">
+  <programme start="20220907223000 +0000" stop="20220907230000 +0000" channel="Univision 41">
     <title lang="en">Noticiero Univision (live)</title>
     <sub-title lang="en">09-07-2022</sub-title>
     <date>2022</date>
   </programme>
-  <programme start="20220907230000 +0000" stop="20220908000000 +0000" channel="-Univision">
+  <programme start="20220907230000 +0000" stop="20220908000000 +0000" channel="Univision 41">
     <title lang="en">La Rosa de Guadalupe (new)</title>
     <date>2008</date>
     <premiere />
@@ -2151,7 +2155,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220908000000 +0000" stop="20220908010000 +0000" channel="-Univision">
+  <programme start="20220908000000 +0000" stop="20220908010000 +0000" channel="Univision 41">
     <title lang="en">La Mexicana y el Güero (new)</title>
     <sub-title lang="en">09-07-2022</sub-title>
     <date>2020</date>
@@ -2160,7 +2164,7 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20220908010000 +0000" stop="20220908020000 +0000" channel="-Univision">
+  <programme start="20220908010000 +0000" stop="20220908020000 +0000" channel="Univision 41">
     <title lang="en">La herencia, un legado de amor (new)</title>
     <sub-title lang="en">09-07-2022</sub-title>
     <date>2022</date>
@@ -2169,28 +2173,28 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220908020000 +0000" stop="20220908030000 +0000" channel="-Univision">
+  <programme start="20220908020000 +0000" stop="20220908030000 +0000" channel="Univision 41">
     <title lang="en">Los ricos también lloran (new)</title>
     <sub-title lang="en">09-07-2022</sub-title>
     <date>2021</date>
     <premiere />
   </programme>
-  <programme start="20220908030000 +0000" stop="20220908033500 +0000" channel="-Univision">
+  <programme start="20220908030000 +0000" stop="20220908033500 +0000" channel="Univision 41">
     <title lang="en">Noticias Univisión 41---A las Once (new)</title>
     <desc lang="en">Noticias locales, deportes y tiempo.(n)</desc>
     <premiere />
   </programme>
-  <programme start="20220908033500 +0000" stop="20220908040000 +0000" channel="-Univision">
+  <programme start="20220908033500 +0000" stop="20220908040000 +0000" channel="Univision 41">
     <title lang="en">Noticiero Univision - Edicion Nocturna (live)</title>
     <sub-title lang="en">09-07-2022</sub-title>
     <date>2022</date>
   </programme>
-  <programme start="20220908040000 +0000" stop="20220908050000 +0000" channel="-Univision">
+  <programme start="20220908040000 +0000" stop="20220908050000 +0000" channel="Univision 41">
     <title lang="en">Contacto Deportivo (live)</title>
     <sub-title lang="en">09-07-2022</sub-title>
     <date>2014</date>
   </programme>
-  <programme start="20220908050000 +0000" stop="20220908060000 +0000" channel="-Univision">
+  <programme start="20220908050000 +0000" stop="20220908060000 +0000" channel="Univision 41">
     <title lang="en">Peregrina (new)</title>
     <sub-title lang="en">09-07-2022</sub-title>
     <date>2005</date>
@@ -2199,7 +2203,7 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20220908060000 +0000" stop="20220908070000 +0000" channel="-Univision">
+  <programme start="20220908060000 +0000" stop="20220908070000 +0000" channel="Univision 41">
     <title lang="en">La Mexicana y el Güero</title>
     <sub-title lang="en">09-07-2022</sub-title>
     <date>2020</date>
@@ -2207,14 +2211,14 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20220908070000 +0000" stop="20220908080000 +0000" channel="-Univision">
+  <programme start="20220908070000 +0000" stop="20220908080000 +0000" channel="Univision 41">
     <title lang="en">Programación pagada</title>
     <desc lang="en">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.(n)</desc>
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220908080000 +0000" stop="20220908090000 +0000" channel="-Univision">
+  <programme start="20220908080000 +0000" stop="20220908090000 +0000" channel="Univision 41">
     <title lang="en">El Gordo y La Flaca</title>
     <sub-title lang="en">09-07-2022</sub-title>
     <date>2022</date>
@@ -2222,17 +2226,17 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220908090000 +0000" stop="20220908100000 +0000" channel="-Univision">
+  <programme start="20220908090000 +0000" stop="20220908100000 +0000" channel="Univision 41">
     <title lang="en">Noticias Univisión 41---Al Despertar (new)</title>
     <desc lang="en">Noticias locales, deportes y tiempo.(n)</desc>
     <premiere />
   </programme>
-  <programme start="20220908100000 +0000" stop="20220908110000 +0000" channel="-Univision">
+  <programme start="20220908100000 +0000" stop="20220908110000 +0000" channel="Univision 41">
     <title lang="en">Noticias Univisión 41---Al Despertar (new)</title>
     <desc lang="en">Noticias locales, deportes y tiempo.(n)</desc>
     <premiere />
   </programme>
-  <programme start="20220908110000 +0000" stop="20220908150000 +0000" channel="-Univision">
+  <programme start="20220908110000 +0000" stop="20220908150000 +0000" channel="Univision 41">
     <title lang="en">Despierta América (live)</title>
     <sub-title lang="en">09-08-2022</sub-title>
     <date>2022</date>
@@ -2240,7 +2244,7 @@
       <value>TV-G</value>
     </rating>
   </programme>
-  <programme start="20220908150000 +0000" stop="20220908160000 +0000" channel="-Univision">
+  <programme start="20220908150000 +0000" stop="20220908160000 +0000" channel="Univision 41">
     <title lang="en">Como dice el dicho</title>
     <desc lang="en">Al enterarse de que su papá ha formado otra familia, Brenda se vuelve rebelde y deja de preocuparle la delicada salud de su hermano Richi, por lo que su mamá quisiera que madurara rápido. Ve si Brenda dejará su inmadurez y se preocupará por su familia.(n)</desc>
     <date>2020</date>
@@ -2248,16 +2252,16 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20220908160000 +0000" stop="20220908163000 +0000" channel="-Univision">
+  <programme start="20220908160000 +0000" stop="20220908163000 +0000" channel="Univision 41">
     <title lang="en">Noticiero Univision - Edicion Digital (live)</title>
     <sub-title lang="en">09-08-2022</sub-title>
     <date>2022</date>
   </programme>
-  <programme start="20220908163000 +0000" stop="20220908170000 +0000" channel="-Univision">
+  <programme start="20220908163000 +0000" stop="20220908170000 +0000" channel="Univision 41">
     <title lang="en">Edición Digital Nueva York</title>
     <desc lang="en">Mantente informado con los últimos acontecimientos, fotos, videos y noticias de Nueva York. Entrevistas, información del clima y todo lo relacionado con el mundo de la tecnología.(n)</desc>
   </programme>
-  <programme start="20220908170000 +0000" stop="20220908180000 +0000" channel="-Univision">
+  <programme start="20220908170000 +0000" stop="20220908180000 +0000" channel="Univision 41">
     <title lang="en">Hoy (new)</title>
     <sub-title lang="en">09-08-2022</sub-title>
     <date>2022</date>
@@ -2266,7 +2270,7 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20220908180000 +0000" stop="20220908200000 +0000" channel="-Univision">
+  <programme start="20220908180000 +0000" stop="20220908200000 +0000" channel="Univision 41">
     <title lang="en">Contigo sí (new)</title>
     <sub-title lang="en">09-08-2022</sub-title>
     <date>2021</date>
@@ -2275,7 +2279,7 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20220908200000 +0000" stop="20220908210000 +0000" channel="-Univision">
+  <programme start="20220908200000 +0000" stop="20220908210000 +0000" channel="Univision 41">
     <title lang="en">El Gordo y La Flaca (live)</title>
     <sub-title lang="en">09-08-2022</sub-title>
     <date>2022</date>
@@ -2283,7 +2287,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220908210000 +0000" stop="20220908220000 +0000" channel="-Univision">
+  <programme start="20220908210000 +0000" stop="20220908220000 +0000" channel="Univision 41">
     <title lang="en">Primer Impacto (live)</title>
     <sub-title lang="en">09-08-2022</sub-title>
     <date>2022</date>
@@ -2291,17 +2295,17 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20220908220000 +0000" stop="20220908223000 +0000" channel="-Univision">
+  <programme start="20220908220000 +0000" stop="20220908223000 +0000" channel="Univision 41">
     <title lang="en">Noticias Univisión 41---A las Seis (new)</title>
     <desc lang="en">Noticias locales, deportes y tiempo.(n)</desc>
     <premiere />
   </programme>
-  <programme start="20220908223000 +0000" stop="20220908230000 +0000" channel="-Univision">
+  <programme start="20220908223000 +0000" stop="20220908230000 +0000" channel="Univision 41">
     <title lang="en">Noticiero Univision (live)</title>
     <sub-title lang="en">09-08-2022</sub-title>
     <date>2022</date>
   </programme>
-  <programme start="20220908230000 +0000" stop="20220909000000 +0000" channel="-Univision">
+  <programme start="20220908230000 +0000" stop="20220909000000 +0000" channel="Univision 41">
     <title lang="en">La Rosa de Guadalupe (new)</title>
     <date>2008</date>
     <premiere />
@@ -2309,7 +2313,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220909000000 +0000" stop="20220909010000 +0000" channel="-Univision">
+  <programme start="20220909000000 +0000" stop="20220909010000 +0000" channel="Univision 41">
     <title lang="en">La Mexicana y el Güero (new)</title>
     <sub-title lang="en">09-08-2022</sub-title>
     <date>2020</date>
@@ -2318,7 +2322,7 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20220909010000 +0000" stop="20220909020000 +0000" channel="-Univision">
+  <programme start="20220909010000 +0000" stop="20220909020000 +0000" channel="Univision 41">
     <title lang="en">La herencia, Un legado de amor (new)</title>
     <sub-title lang="en">09-08-2022</sub-title>
     <date>2022</date>
@@ -2327,7 +2331,7 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20220909020000 +0000" stop="20220909030000 +0000" channel="-Univision">
+  <programme start="20220909020000 +0000" stop="20220909030000 +0000" channel="Univision 41">
     <title lang="en">Los ricos también lloran (new)</title>
     <sub-title lang="en">09-08-2022</sub-title>
     <date>2021</date>
@@ -2336,22 +2340,22 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220909030000 +0000" stop="20220909033500 +0000" channel="-Univision">
+  <programme start="20220909030000 +0000" stop="20220909033500 +0000" channel="Univision 41">
     <title lang="en">Noticias Univisión 41---A las Once (new)</title>
     <desc lang="en">Noticias locales, deportes y tiempo.(n)</desc>
     <premiere />
   </programme>
-  <programme start="20220909033500 +0000" stop="20220909040000 +0000" channel="-Univision">
+  <programme start="20220909033500 +0000" stop="20220909040000 +0000" channel="Univision 41">
     <title lang="en">Noticiero Univision - Edicion Nocturna (live)</title>
     <sub-title lang="en">09-08-2022</sub-title>
     <date>2022</date>
   </programme>
-  <programme start="20220909040000 +0000" stop="20220909050000 +0000" channel="-Univision">
+  <programme start="20220909040000 +0000" stop="20220909050000 +0000" channel="Univision 41">
     <title lang="en">Contacto Deportivo (live)</title>
     <sub-title lang="en">09-08-2022</sub-title>
     <date>2014</date>
   </programme>
-  <programme start="20220909050000 +0000" stop="20220909060000 +0000" channel="-Univision">
+  <programme start="20220909050000 +0000" stop="20220909060000 +0000" channel="Univision 41">
     <title lang="en">Peregrina (new)</title>
     <sub-title lang="en">09-08-2022</sub-title>
     <date>2005</date>
@@ -2360,7 +2364,7 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20220909060000 +0000" stop="20220909070000 +0000" channel="-Univision">
+  <programme start="20220909060000 +0000" stop="20220909070000 +0000" channel="Univision 41">
     <title lang="en">La Mexicana y el Güero</title>
     <sub-title lang="en">09-08-2022</sub-title>
     <date>2020</date>
@@ -2368,21 +2372,21 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20220909070000 +0000" stop="20220909073000 +0000" channel="-Univision">
+  <programme start="20220909070000 +0000" stop="20220909073000 +0000" channel="Univision 41">
     <title lang="en">Programación pagada</title>
     <desc lang="en">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.(n)</desc>
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220909073000 +0000" stop="20220909080000 +0000" channel="-Univision">
+  <programme start="20220909073000 +0000" stop="20220909080000 +0000" channel="Univision 41">
     <title lang="en">Programación pagada</title>
     <desc lang="en">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.(n)</desc>
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220909080000 +0000" stop="20220909090000 +0000" channel="-Univision">
+  <programme start="20220909080000 +0000" stop="20220909090000 +0000" channel="Univision 41">
     <title lang="en">El Gordo y La Flaca</title>
     <sub-title lang="en">09-08-2022</sub-title>
     <date>2022</date>
@@ -2390,17 +2394,17 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220909090000 +0000" stop="20220909100000 +0000" channel="-Univision">
+  <programme start="20220909090000 +0000" stop="20220909100000 +0000" channel="Univision 41">
     <title lang="en">Noticias Univisión 41---Al Despertar (new)</title>
     <desc lang="en">Noticias locales, deportes y tiempo.(n)</desc>
     <premiere />
   </programme>
-  <programme start="20220909100000 +0000" stop="20220909110000 +0000" channel="-Univision">
+  <programme start="20220909100000 +0000" stop="20220909110000 +0000" channel="Univision 41">
     <title lang="en">Noticias Univisión 41---Al Despertar (new)</title>
     <desc lang="en">Noticias locales, deportes y tiempo.(n)</desc>
     <premiere />
   </programme>
-  <programme start="20220909110000 +0000" stop="20220909150000 +0000" channel="-Univision">
+  <programme start="20220909110000 +0000" stop="20220909150000 +0000" channel="Univision 41">
     <title lang="en">Despierta América (live)</title>
     <sub-title lang="en">09-09-2022</sub-title>
     <date>2022</date>
@@ -2408,7 +2412,7 @@
       <value>TV-G</value>
     </rating>
   </programme>
-  <programme start="20220909150000 +0000" stop="20220909160000 +0000" channel="-Univision">
+  <programme start="20220909150000 +0000" stop="20220909160000 +0000" channel="Univision 41">
     <title lang="en">Como dice el dicho</title>
     <sub-title lang="en">Quien teme a la muerte, no goza la vida</sub-title>
     <desc lang="en">Juanjo no ha podido superar la muerte de su madre y no ha salido de su casa en 10 años, mientras que su padre sólo va de la casa al trabajo y visceversa; pero la llegada del amor a la vida de Juanjo y la visita de Concho, un amtiguo amigo de su madre, cambiará sus vidas.(n)</desc>
@@ -2417,16 +2421,16 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20220909160000 +0000" stop="20220909163000 +0000" channel="-Univision">
+  <programme start="20220909160000 +0000" stop="20220909163000 +0000" channel="Univision 41">
     <title lang="en">Noticiero Univision - Edicion Digital (live)</title>
     <sub-title lang="en">09-09-2022</sub-title>
     <date>2022</date>
   </programme>
-  <programme start="20220909163000 +0000" stop="20220909170000 +0000" channel="-Univision">
+  <programme start="20220909163000 +0000" stop="20220909170000 +0000" channel="Univision 41">
     <title lang="en">Edición Digital Nueva York</title>
     <desc lang="en">Mantente informado con los últimos acontecimientos, fotos, videos y noticias de Nueva York. Entrevistas, información del clima y todo lo relacionado con el mundo de la tecnología.(n)</desc>
   </programme>
-  <programme start="20220909170000 +0000" stop="20220909180000 +0000" channel="-Univision">
+  <programme start="20220909170000 +0000" stop="20220909180000 +0000" channel="Univision 41">
     <title lang="en">Hoy (new)</title>
     <sub-title lang="en">09-09-2022</sub-title>
     <date>2022</date>
@@ -2435,7 +2439,7 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20220909180000 +0000" stop="20220909200000 +0000" channel="-Univision">
+  <programme start="20220909180000 +0000" stop="20220909200000 +0000" channel="Univision 41">
     <title lang="en">Contigo Sí (new)</title>
     <sub-title lang="en">09-09-2022</sub-title>
     <date>2022</date>
@@ -2444,7 +2448,7 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20220909200000 +0000" stop="20220909210000 +0000" channel="-Univision">
+  <programme start="20220909200000 +0000" stop="20220909210000 +0000" channel="Univision 41">
     <title lang="en">El Gordo y La Flaca (live)</title>
     <sub-title lang="en">09-09-2022</sub-title>
     <date>2022</date>
@@ -2452,7 +2456,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220909210000 +0000" stop="20220909220000 +0000" channel="-Univision">
+  <programme start="20220909210000 +0000" stop="20220909220000 +0000" channel="Univision 41">
     <title lang="en">Primer Impacto (live)</title>
     <sub-title lang="en">09-09-2022</sub-title>
     <date>2022</date>
@@ -2460,17 +2464,17 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20220909220000 +0000" stop="20220909223000 +0000" channel="-Univision">
+  <programme start="20220909220000 +0000" stop="20220909223000 +0000" channel="Univision 41">
     <title lang="en">Noticias Univisión 41---A las Seis (new)</title>
     <desc lang="en">Noticias locales, deportes y tiempo.(n)</desc>
     <premiere />
   </programme>
-  <programme start="20220909223000 +0000" stop="20220909230000 +0000" channel="-Univision">
+  <programme start="20220909223000 +0000" stop="20220909230000 +0000" channel="Univision 41">
     <title lang="en">Noticiero Univision (live)</title>
     <sub-title lang="en">09-09-2022</sub-title>
     <date>2022</date>
   </programme>
-  <programme start="20220909230000 +0000" stop="20220910000000 +0000" channel="-Univision">
+  <programme start="20220909230000 +0000" stop="20220910000000 +0000" channel="Univision 41">
     <title lang="en">La Rosa de Guadalupe</title>
     <desc lang="en">Una joven cae en la trampa de una supuesta amiga que, junto con la madre de su pretendiente, se encarga de ensuciar su reputación ante toda la escuela.(n)</desc>
     <date>2018</date>
@@ -2478,20 +2482,20 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220906010000 +0000" stop="20220906030000 +0000" channel="-Telemundo">
+  <programme start="20220906010000 +0000" stop="20220906030000 +0000" channel="Telemundo 47">
     <title lang="en">Infiel, Historia de un Engaño (new)</title>
     <desc lang="en">La vida de Asya se desmorona al confirmar que Vólkan vive una relación extramatrimonial.(n)</desc>
     <date>2020</date>
     <premiere />
   </programme>
-  <programme start="20220906030000 +0000" stop="20220906033500 +0000" channel="-Telemundo">
+  <programme start="20220906030000 +0000" stop="20220906033500 +0000" channel="Telemundo 47">
     <title lang="en">Noticias Telemundo</title>
     <desc lang="en">Un análisis de las noticias más importantes e impactantes de Estados Unidos, Latinoamérica y el mundo.(n)</desc>
     <rating system="MPAA">
       <value>TV-Y</value>
     </rating>
   </programme>
-  <programme start="20220906033500 +0000" stop="20220906040000 +0000" channel="-Telemundo">
+  <programme start="20220906033500 +0000" stop="20220906040000 +0000" channel="Telemundo 47">
     <title lang="en">Noticias Telemundo en la Noche (new)</title>
     <desc lang="en">En veinte minutos conozca la información más relevante de Estados Unidos y el mundo. Julio Vaqueiro le trae todo lo que necesita saber, antes de que termine el día.(n)</desc>
     <date>2020</date>
@@ -2500,7 +2504,7 @@
       <value>TV-Y</value>
     </rating>
   </programme>
-  <programme start="20220906040000 +0000" stop="20220906050000 +0000" channel="-Telemundo">
+  <programme start="20220906040000 +0000" stop="20220906050000 +0000" channel="Telemundo 47">
     <title lang="en">Caso cerrado</title>
     <sub-title lang="en">Amor De Prision / La Hija Del Stunt Man</sub-title>
     <desc lang="en">Una juez decide los díficiles y conmovedores casos de vida real en su corte televisiva, en esta ocasión con casos más atrevidos.(n)</desc>
@@ -2509,7 +2513,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220906050000 +0000" stop="20220906060000 +0000" channel="-Telemundo">
+  <programme start="20220906050000 +0000" stop="20220906060000 +0000" channel="Telemundo 47">
     <title lang="en">El Chema</title>
     <sub-title lang="en">Contra los corruptos</sub-title>
     <desc lang="en">El Chema le perdona la vida a Ponce por ahora. Decide atacar a los líderes corruptos. Joaquín y Elvira se reconcilian y se dan una nueva oportunidad como pareja. Inés rechaza a Ricardo.(n)</desc>
@@ -2518,19 +2522,19 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220906060000 +0000" stop="20220906063000 +0000" channel="-Telemundo">
+  <programme start="20220906060000 +0000" stop="20220906063000 +0000" channel="Telemundo 47">
     <title lang="en">Programación pagada</title>
     <desc lang="en">Programación pagada.(n)</desc>
   </programme>
-  <programme start="20220906063000 +0000" stop="20220906070000 +0000" channel="-Telemundo">
+  <programme start="20220906063000 +0000" stop="20220906070000 +0000" channel="Telemundo 47">
     <title lang="en">Programación pagada</title>
     <desc lang="en">Programación pagada.(n)</desc>
   </programme>
-  <programme start="20220906070000 +0000" stop="20220906073000 +0000" channel="-Telemundo">
+  <programme start="20220906070000 +0000" stop="20220906073000 +0000" channel="Telemundo 47">
     <title lang="en">Programación pagada</title>
     <desc lang="en">Programación pagada.(n)</desc>
   </programme>
-  <programme start="20220906073000 +0000" stop="20220906083000 +0000" channel="-Telemundo">
+  <programme start="20220906073000 +0000" stop="20220906083000 +0000" channel="Telemundo 47">
     <title lang="en">12 Corazones</title>
     <desc lang="en">Programa de citas que busca emparejar a sus participantes, representados según los doce signos zodiacales. Mediante la presentación de Penélope Menchaca y los comentarios del astrólogo Edward'O y de Maximiliano Palacio, se exploran los secretos del amor, durante este especial de lucha libre.(n)</desc>
     <date>2010</date>
@@ -2538,7 +2542,7 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20220906083000 +0000" stop="20220906090000 +0000" channel="-Telemundo">
+  <programme start="20220906083000 +0000" stop="20220906090000 +0000" channel="Telemundo 47">
     <title lang="en">Noticias Telemundo en la Noche</title>
     <desc lang="en">En veinte minutos conozca la información más relevante de Estados Unidos y el mundo. Julio Vaqueiro le trae todo lo que necesita saber, antes de que termine el día.(n)</desc>
     <date>2020</date>
@@ -2546,24 +2550,24 @@
       <value>TV-Y</value>
     </rating>
   </programme>
-  <programme start="20220906090000 +0000" stop="20220906093000 +0000" channel="-Telemundo">
+  <programme start="20220906090000 +0000" stop="20220906093000 +0000" channel="Telemundo 47">
     <title lang="en">Programación pagada</title>
     <desc lang="en">Programación pagada.(n)</desc>
   </programme>
-  <programme start="20220906093000 +0000" stop="20220906100000 +0000" channel="-Telemundo">
+  <programme start="20220906093000 +0000" stop="20220906100000 +0000" channel="Telemundo 47">
     <title lang="en">Programación pagada</title>
     <desc lang="en">Programación pagada.(n)</desc>
   </programme>
-  <programme start="20220906100000 +0000" stop="20220906110000 +0000" channel="-Telemundo">
+  <programme start="20220906100000 +0000" stop="20220906110000 +0000" channel="Telemundo 47">
     <title lang="en">Al rojo vivo</title>
     <desc lang="en">La revista noticiosa que define la agenda de la televisión en español en los Estados Unidos. Se caracteriza por ofrecer, antes que nadie, historias que cautivan al público hispano y por presentarlas en un formato innovador, que resalta el aspecto humano de cada noticia.(n)</desc>
   </programme>
-  <programme start="20220906110000 +0000" stop="20220906140000 +0000" channel="-Telemundo">
+  <programme start="20220906110000 +0000" stop="20220906140000 +0000" channel="Telemundo 47">
     <title lang="en">Hoy día (new)</title>
     <desc lang="en">Inicia tu día con el show de las mañanas que te informa mejor con las noticias más oportunas, equilibradas y relevantes que la comunidad hispana en EE.UU. necesita. Los eventos más importantes de la jornada, el entretenimiento, el pronóstico del tiempo, las recetas de cocina y los consejos para una vida sana.(n)</desc>
     <premiere />
   </programme>
-  <programme start="20220906140000 +0000" stop="20220906150000 +0000" channel="-Telemundo">
+  <programme start="20220906140000 +0000" stop="20220906150000 +0000" channel="Telemundo 47">
     <title lang="en">Caso cerrado (new)</title>
     <sub-title lang="en">Dinamarca / Traición en moto</sub-title>
     <desc lang="en">La jueza escucha a Liz y Joan, quienes tienen una hija albina con varios problemas. Cuentan que a la pequeña le afecta vivir en Miami por su condición, debido al fuerte sol que en todo momento baña esa ciudad de La Florida. En otro caso, Bárbara exige que Rafael y Ambert paguen por robarle los clientes de su negocio.(n)</desc>
@@ -2573,7 +2577,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220906150000 +0000" stop="20220906153000 +0000" channel="-Telemundo">
+  <programme start="20220906150000 +0000" stop="20220906153000 +0000" channel="Telemundo 47">
     <title lang="en">Caso Cerrado</title>
     <sub-title lang="en">La victima es la culpable</sub-title>
     <desc lang="en">Andrés le dice a la doctora que culpa a su exesposa Mariela por la muerte de su hijo. La jueza oye con atención el caso, en donde el hombre agrega que su fallecimiento se debió a la violencia constante que hay en su relación con su exmujer. Por otro lado, Uriel exige la custodia de su madre porque Diana, su hermana, asegura que la va a matar de un disgusto.(n)</desc>
@@ -2582,7 +2586,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220906153000 +0000" stop="20220906160000 +0000" channel="-Telemundo">
+  <programme start="20220906153000 +0000" stop="20220906160000 +0000" channel="Telemundo 47">
     <title lang="en">Decisiones</title>
     <desc lang="en">Los personajes constituyen una serie de héroes que trabajan, aman, luchan y se equivocan, pero que siempre tienen la oportunidad de salir adelante y también son capaces de perdonar. Impresionantes, conmovedoras y apasionantes historias.(n)</desc>
     <date>2006</date>
@@ -2590,20 +2594,20 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220906160000 +0000" stop="20220906163000 +0000" channel="-Telemundo">
+  <programme start="20220906160000 +0000" stop="20220906163000 +0000" channel="Telemundo 47">
     <title lang="en">Más sabe el Diablo</title>
     <desc lang="en">Un joven no sale de una vida de equivocaciones y el peor error aún está por venir, enamorarse de la mujer prohibida.(n)</desc>
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220906163000 +0000" stop="20220906170000 +0000" channel="-Telemundo">
+  <programme start="20220906163000 +0000" stop="20220906170000 +0000" channel="Telemundo 47">
     <title lang="en">Noticias Telemundo - Mediodía (new)</title>
     <desc lang="en">Un programa con un estilo único de narrar la noticias, de una manera atractiva y perspicaz. Este noticiero cuenta con la presentación de historias locales y nacionales en vivo, haciendo uso extensivo de elementos gráficos. Además, este noticiero...(n)</desc>
     <date>2018</date>
     <premiere />
   </programme>
-  <programme start="20220906170000 +0000" stop="20220906180000 +0000" channel="-Telemundo">
+  <programme start="20220906170000 +0000" stop="20220906180000 +0000" channel="Telemundo 47">
     <title lang="en">La Reina del Sur</title>
     <desc lang="en">Una mujer inteligente y sagaz se mete en el mundo de narcos tras la muerte de su amor.(n)</desc>
     <date>2011</date>
@@ -2611,32 +2615,32 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220906180000 +0000" stop="20220906185800 +0000" channel="-Telemundo">
+  <programme start="20220906180000 +0000" stop="20220906185800 +0000" channel="Telemundo 47">
     <title lang="en">En casa con Telemundo (new)</title>
     <desc lang="en">Una oferta ligera, de formato accesible, familiar y cálido que incluye entrevistas con grandes estrellas del espectáculo, invitados especiales, buenas noticias y consejos para una vida sana.(n)</desc>
     <premiere />
   </programme>
-  <programme start="20220906185800 +0000" stop="20220906195800 +0000" channel="-Telemundo">
+  <programme start="20220906185800 +0000" stop="20220906195800 +0000" channel="Telemundo 47">
     <title lang="en">La mesa caliente (new)</title>
     <desc lang="en">Un equipo de mujeres audaces y empoderadas, debate sobre los temas más controversiales.(n)</desc>
     <premiere />
   </programme>
-  <programme start="20220906195800 +0000" stop="20220906210000 +0000" channel="-Telemundo">
+  <programme start="20220906195800 +0000" stop="20220906210000 +0000" channel="Telemundo 47">
     <title lang="en">Al rojo vivo (new)</title>
     <desc lang="en">La revista noticiosa que define la agenda de la televisión en español en los Estados Unidos. Se caracteriza por ofrecer, antes que nadie, historias que cautivan al público hispano y por presentarlas en un formato innovador, que resalta el aspecto humano de cada noticia.(n)</desc>
     <premiere />
   </programme>
-  <programme start="20220906210000 +0000" stop="20220906220000 +0000" channel="-Telemundo">
+  <programme start="20220906210000 +0000" stop="20220906220000 +0000" channel="Telemundo 47">
     <title lang="en">En casa con Telemundo</title>
     <desc lang="en">Una oferta ligera, de formato accesible, familiar y cálido que incluye entrevistas con grandes estrellas del espectáculo, invitados especiales, buenas noticias y consejos para una vida sana.(n)</desc>
   </programme>
-  <programme start="20220906220000 +0000" stop="20220906223000 +0000" channel="-Telemundo">
+  <programme start="20220906220000 +0000" stop="20220906223000 +0000" channel="Telemundo 47">
     <title lang="en">Noticias Telemundo - Mediodía (new)</title>
     <desc lang="en">Un programa con un estilo único de narrar la noticias, de una manera atractiva y perspicaz. Este noticiero cuenta con la presentación de historias locales y nacionales en vivo, haciendo uso extensivo de elementos gráficos. Además, este noticiero...(n)</desc>
     <date>2018</date>
     <premiere />
   </programme>
-  <programme start="20220906223000 +0000" stop="20220906230000 +0000" channel="-Telemundo">
+  <programme start="20220906223000 +0000" stop="20220906230000 +0000" channel="Telemundo 47">
     <title lang="en">Noticias Telemundo (new)</title>
     <desc lang="en">Un análisis de las noticias más importantes e impactantes de Estados Unidos, Latinoamérica y el mundo.(n)</desc>
     <premiere />
@@ -2644,24 +2648,24 @@
       <value>TV-Y</value>
     </rating>
   </programme>
-  <programme start="20220906230000 +0000" stop="20220907010000 +0000" channel="-Telemundo">
+  <programme start="20220906230000 +0000" stop="20220907010000 +0000" channel="Telemundo 47">
     <title lang="en">Top Chef VIP (new)</title>
     <desc lang="en">Una competencia donde 16 celebridades se enfrentan para ganar el título de Top Chef VIP.(n)</desc>
     <date>2022</date>
     <premiere />
   </programme>
-  <programme start="20220907010000 +0000" stop="20220907030000 +0000" channel="-Telemundo">
+  <programme start="20220907010000 +0000" stop="20220907030000 +0000" channel="Telemundo 47">
     <title lang="en">El fuego del destino (new)</title>
     <premiere />
   </programme>
-  <programme start="20220907030000 +0000" stop="20220907033500 +0000" channel="-Telemundo">
+  <programme start="20220907030000 +0000" stop="20220907033500 +0000" channel="Telemundo 47">
     <title lang="en">Noticias Telemundo</title>
     <desc lang="en">Un análisis de las noticias más importantes e impactantes de Estados Unidos, Latinoamérica y el mundo.(n)</desc>
     <rating system="MPAA">
       <value>TV-Y</value>
     </rating>
   </programme>
-  <programme start="20220907033500 +0000" stop="20220907040000 +0000" channel="-Telemundo">
+  <programme start="20220907033500 +0000" stop="20220907040000 +0000" channel="Telemundo 47">
     <title lang="en">Noticias Telemundo en la Noche (new)</title>
     <desc lang="en">En veinte minutos conozca la información más relevante de Estados Unidos y el mundo. Julio Vaqueiro le trae todo lo que necesita saber, antes de que termine el día.(n)</desc>
     <date>2020</date>
@@ -2670,14 +2674,14 @@
       <value>TV-Y</value>
     </rating>
   </programme>
-  <programme start="20220907040000 +0000" stop="20220907060000 +0000" channel="-Telemundo">
+  <programme start="20220907040000 +0000" stop="20220907060000 +0000" channel="Telemundo 47">
     <title lang="en">El fuego del destino</title>
   </programme>
-  <programme start="20220907060000 +0000" stop="20220907063000 +0000" channel="-Telemundo">
+  <programme start="20220907060000 +0000" stop="20220907063000 +0000" channel="Telemundo 47">
     <title lang="en">Programación pagada</title>
     <desc lang="en">Programación pagada.(n)</desc>
   </programme>
-  <programme start="20220907063000 +0000" stop="20220907070000 +0000" channel="-Telemundo">
+  <programme start="20220907063000 +0000" stop="20220907070000 +0000" channel="Telemundo 47">
     <title lang="en">Decisiones</title>
     <desc lang="en">Las tentaciones están a la orden del día y el desafío será evitarlas a toda costa. Pero como sucede en estos casos, es algo muy complicado, porque hacer lo prohibido, cruzar las barreras, ir más allá, es algo inherente a la forma de ser y a los usos y costumbres del ser humano. Habrá que ver si eso se cumple en este caso.(n)</desc>
     <date>2006</date>
@@ -2685,12 +2689,12 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220907070000 +0000" stop="20220907083000 +0000" channel="-Telemundo">
+  <programme start="20220907070000 +0000" stop="20220907083000 +0000" channel="Telemundo 47">
     <title lang="en">A Garrote Limpio</title>
     <desc lang="en">Las experiencias de un detective que investiga el asesinato de una chica de la alta sociedad. Rafael Inclán, Maribel Guardia, Lilia Aragón, Raúl "Chóforo" Padilla.(n)</desc>
     <date>1989</date>
   </programme>
-  <programme start="20220907083000 +0000" stop="20220907090000 +0000" channel="-Telemundo">
+  <programme start="20220907083000 +0000" stop="20220907090000 +0000" channel="Telemundo 47">
     <title lang="en">Noticias Telemundo en la Noche</title>
     <desc lang="en">En veinte minutos conozca la información más relevante de Estados Unidos y el mundo. Julio Vaqueiro le trae todo lo que necesita saber, antes de que termine el día.(n)</desc>
     <date>2020</date>
@@ -2698,24 +2702,24 @@
       <value>TV-Y</value>
     </rating>
   </programme>
-  <programme start="20220907090000 +0000" stop="20220907093000 +0000" channel="-Telemundo">
+  <programme start="20220907090000 +0000" stop="20220907093000 +0000" channel="Telemundo 47">
     <title lang="en">Programación pagada</title>
     <desc lang="en">Programación pagada.(n)</desc>
   </programme>
-  <programme start="20220907093000 +0000" stop="20220907100000 +0000" channel="-Telemundo">
+  <programme start="20220907093000 +0000" stop="20220907100000 +0000" channel="Telemundo 47">
     <title lang="en">Programación pagada</title>
     <desc lang="en">Programación pagada.(n)</desc>
   </programme>
-  <programme start="20220907100000 +0000" stop="20220907110000 +0000" channel="-Telemundo">
+  <programme start="20220907100000 +0000" stop="20220907110000 +0000" channel="Telemundo 47">
     <title lang="en">Al rojo vivo</title>
     <desc lang="en">La revista noticiosa que define la agenda de la televisión en español en los Estados Unidos. Se caracteriza por ofrecer, antes que nadie, historias que cautivan al público hispano y por presentarlas en un formato innovador, que resalta el aspecto humano de cada noticia.(n)</desc>
   </programme>
-  <programme start="20220907110000 +0000" stop="20220907140000 +0000" channel="-Telemundo">
+  <programme start="20220907110000 +0000" stop="20220907140000 +0000" channel="Telemundo 47">
     <title lang="en">Hoy día (new)</title>
     <desc lang="en">Inicia tu día con el show de las mañanas que te informa mejor con las noticias más oportunas, equilibradas y relevantes que la comunidad hispana en EE.UU. necesita. Los eventos más importantes de la jornada, el entretenimiento, el pronóstico del tiempo, las recetas de cocina y los consejos para una vida sana.(n)</desc>
     <premiere />
   </programme>
-  <programme start="20220907140000 +0000" stop="20220907150000 +0000" channel="-Telemundo">
+  <programme start="20220907140000 +0000" stop="20220907150000 +0000" channel="Telemundo 47">
     <title lang="en">Caso cerrado</title>
     <sub-title lang="en">Cirugía o muerte / Marcados como ganado</sub-title>
     <desc lang="en">La abogada Ana María Polo está lista para enfrentarse a cualquier situación y resolver de una vez por todas cualquier polémica.(n)</desc>
@@ -2724,7 +2728,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220907150000 +0000" stop="20220907153000 +0000" channel="-Telemundo">
+  <programme start="20220907150000 +0000" stop="20220907153000 +0000" channel="Telemundo 47">
     <title lang="en">Caso Cerrado</title>
     <sub-title lang="en">El pensamiento como tortura</sub-title>
     <desc lang="en">La jueza hace pasar al frente a José, quien describe que padece un sinfín de manías. Y confiesa que posee peligrosos pensamientos que le sobrevienen a su mente. En el siguiente caso, Isabel explica que quiere el divorcio, ya que Pedro no eyacula nunca y por esa razón no pueden tener hijos.(n)</desc>
@@ -2733,7 +2737,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220907153000 +0000" stop="20220907160000 +0000" channel="-Telemundo">
+  <programme start="20220907153000 +0000" stop="20220907160000 +0000" channel="Telemundo 47">
     <title lang="en">Decisiones</title>
     <desc lang="en">Ramiro, un hombre inválido, teme que su esposa deje de amarlo por su condición. Por su parte, Magdalena vive una aventura repleta de pasión con un amante, tras el accidente de su marido. Más tarde, la situación de Ramiro cambia repentinamente, tras asistir a terapia y enamorarse de alguien más.(n)</desc>
     <date>2006</date>
@@ -2741,20 +2745,20 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220907160000 +0000" stop="20220907163000 +0000" channel="-Telemundo">
+  <programme start="20220907160000 +0000" stop="20220907163000 +0000" channel="Telemundo 47">
     <title lang="en">Más sabe el Diablo</title>
     <desc lang="en">Un joven no sale de una vida de equivocaciones y el peor error aún está por venir, enamorarse de la mujer prohibida.(n)</desc>
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220907163000 +0000" stop="20220907170000 +0000" channel="-Telemundo">
+  <programme start="20220907163000 +0000" stop="20220907170000 +0000" channel="Telemundo 47">
     <title lang="en">Noticias Telemundo - Mediodía (new)</title>
     <desc lang="en">Un programa con un estilo único de narrar la noticias, de una manera atractiva y perspicaz. Este noticiero cuenta con la presentación de historias locales y nacionales en vivo, haciendo uso extensivo de elementos gráficos. Además, este noticiero...(n)</desc>
     <date>2018</date>
     <premiere />
   </programme>
-  <programme start="20220907170000 +0000" stop="20220907180000 +0000" channel="-Telemundo">
+  <programme start="20220907170000 +0000" stop="20220907180000 +0000" channel="Telemundo 47">
     <title lang="en">La Reina del Sur</title>
     <desc lang="en">Una mujer inteligente y sagaz se mete en el mundo de narcos tras la muerte de su amor.(n)</desc>
     <date>2011</date>
@@ -2762,32 +2766,32 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220907180000 +0000" stop="20220907185800 +0000" channel="-Telemundo">
+  <programme start="20220907180000 +0000" stop="20220907185800 +0000" channel="Telemundo 47">
     <title lang="en">En casa con Telemundo (new)</title>
     <desc lang="en">Una oferta ligera, de formato accesible, familiar y cálido que incluye entrevistas con grandes estrellas del espectáculo, invitados especiales, buenas noticias y consejos para una vida sana.(n)</desc>
     <premiere />
   </programme>
-  <programme start="20220907185800 +0000" stop="20220907195800 +0000" channel="-Telemundo">
+  <programme start="20220907185800 +0000" stop="20220907195800 +0000" channel="Telemundo 47">
     <title lang="en">La mesa caliente (new)</title>
     <desc lang="en">Un equipo de mujeres audaces y empoderadas, debate sobre los temas más controversiales.(n)</desc>
     <premiere />
   </programme>
-  <programme start="20220907195800 +0000" stop="20220907210000 +0000" channel="-Telemundo">
+  <programme start="20220907195800 +0000" stop="20220907210000 +0000" channel="Telemundo 47">
     <title lang="en">Al rojo vivo (new)</title>
     <desc lang="en">La revista noticiosa que define la agenda de la televisión en español en los Estados Unidos. Se caracteriza por ofrecer, antes que nadie, historias que cautivan al público hispano y por presentarlas en un formato innovador, que resalta el aspecto humano de cada noticia.(n)</desc>
     <premiere />
   </programme>
-  <programme start="20220907210000 +0000" stop="20220907220000 +0000" channel="-Telemundo">
+  <programme start="20220907210000 +0000" stop="20220907220000 +0000" channel="Telemundo 47">
     <title lang="en">En casa con Telemundo</title>
     <desc lang="en">Una oferta ligera, de formato accesible, familiar y cálido que incluye entrevistas con grandes estrellas del espectáculo, invitados especiales, buenas noticias y consejos para una vida sana.(n)</desc>
   </programme>
-  <programme start="20220907220000 +0000" stop="20220907223000 +0000" channel="-Telemundo">
+  <programme start="20220907220000 +0000" stop="20220907223000 +0000" channel="Telemundo 47">
     <title lang="en">Noticias Telemundo - Mediodía (new)</title>
     <desc lang="en">Un programa con un estilo único de narrar la noticias, de una manera atractiva y perspicaz. Este noticiero cuenta con la presentación de historias locales y nacionales en vivo, haciendo uso extensivo de elementos gráficos. Además, este noticiero...(n)</desc>
     <date>2018</date>
     <premiere />
   </programme>
-  <programme start="20220907223000 +0000" stop="20220907230000 +0000" channel="-Telemundo">
+  <programme start="20220907223000 +0000" stop="20220907230000 +0000" channel="Telemundo 47">
     <title lang="en">Noticias Telemundo (new)</title>
     <desc lang="en">Un análisis de las noticias más importantes e impactantes de Estados Unidos, Latinoamérica y el mundo.(n)</desc>
     <premiere />
@@ -2795,30 +2799,30 @@
       <value>TV-Y</value>
     </rating>
   </programme>
-  <programme start="20220907230000 +0000" stop="20220908010000 +0000" channel="-Telemundo">
+  <programme start="20220907230000 +0000" stop="20220908010000 +0000" channel="Telemundo 47">
     <title lang="en">Top Chef VIP (new)</title>
     <desc lang="en">Una competencia donde 16 celebridades se enfrentan para ganar el título de Top Chef VIP.(n)</desc>
     <date>2022</date>
     <premiere />
   </programme>
-  <programme start="20220908010000 +0000" stop="20220908020000 +0000" channel="-Telemundo">
+  <programme start="20220908010000 +0000" stop="20220908020000 +0000" channel="Telemundo 47">
     <title lang="en">El fuego del destino (new)</title>
     <premiere />
   </programme>
-  <programme start="20220908020000 +0000" stop="20220908030000 +0000" channel="-Telemundo">
+  <programme start="20220908020000 +0000" stop="20220908030000 +0000" channel="Telemundo 47">
     <title lang="en">Infiel, Historia de un Engaño (new)</title>
     <desc lang="en">La vida de Asya se desmorona al confirmar que Vólkan vive una relación extramatrimonial.(n)</desc>
     <date>2020</date>
     <premiere />
   </programme>
-  <programme start="20220908030000 +0000" stop="20220908033500 +0000" channel="-Telemundo">
+  <programme start="20220908030000 +0000" stop="20220908033500 +0000" channel="Telemundo 47">
     <title lang="en">Noticias Telemundo</title>
     <desc lang="en">Un análisis de las noticias más importantes e impactantes de Estados Unidos, Latinoamérica y el mundo.(n)</desc>
     <rating system="MPAA">
       <value>TV-Y</value>
     </rating>
   </programme>
-  <programme start="20220908033500 +0000" stop="20220908040000 +0000" channel="-Telemundo">
+  <programme start="20220908033500 +0000" stop="20220908040000 +0000" channel="Telemundo 47">
     <title lang="en">Noticias Telemundo en la Noche (new)</title>
     <desc lang="en">En veinte minutos conozca la información más relevante de Estados Unidos y el mundo. Julio Vaqueiro le trae todo lo que necesita saber, antes de que termine el día.(n)</desc>
     <date>2020</date>
@@ -2827,7 +2831,7 @@
       <value>TV-Y</value>
     </rating>
   </programme>
-  <programme start="20220908040000 +0000" stop="20220908050000 +0000" channel="-Telemundo">
+  <programme start="20220908040000 +0000" stop="20220908050000 +0000" channel="Telemundo 47">
     <title lang="en">Caso cerrado</title>
     <sub-title lang="en">Marido Sin Plata/mojadito Es Mas Rico</sub-title>
     <desc lang="en">Llegan al estrado dos personas que no se tienen mucha simpatía que digamos. Marido y mujer, ella le reclama que nunca tiene un centavo en sus bolsillos. Y que así no puede seguir viviendo. Habrá que poner un poco de orden en la sala para calmar las aguas, que vienen bastante turbulentas.(n)</desc>
@@ -2836,7 +2840,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220908050000 +0000" stop="20220908060000 +0000" channel="-Telemundo">
+  <programme start="20220908050000 +0000" stop="20220908060000 +0000" channel="Telemundo 47">
     <title lang="en">El Chema</title>
     <sub-title lang="en">Enemigo en común</sub-title>
     <desc lang="en">Una mesa redonda define a Ricardo Almenar como el enemigo en común. Imelda enfrenta a El Chema. No quiere entrar a Centroamérica. Se va. Fabrizio detiene a Clark y a Marta por averiguaciones.(n)</desc>
@@ -2845,19 +2849,19 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220908060000 +0000" stop="20220908063000 +0000" channel="-Telemundo">
+  <programme start="20220908060000 +0000" stop="20220908063000 +0000" channel="Telemundo 47">
     <title lang="en">Programación pagada</title>
     <desc lang="en">Programación pagada.(n)</desc>
   </programme>
-  <programme start="20220908063000 +0000" stop="20220908070000 +0000" channel="-Telemundo">
+  <programme start="20220908063000 +0000" stop="20220908070000 +0000" channel="Telemundo 47">
     <title lang="en">Programación pagada</title>
     <desc lang="en">Programación pagada.(n)</desc>
   </programme>
-  <programme start="20220908070000 +0000" stop="20220908073000 +0000" channel="-Telemundo">
+  <programme start="20220908070000 +0000" stop="20220908073000 +0000" channel="Telemundo 47">
     <title lang="en">Programación pagada</title>
     <desc lang="en">Programación pagada.(n)</desc>
   </programme>
-  <programme start="20220908073000 +0000" stop="20220908083000 +0000" channel="-Telemundo">
+  <programme start="20220908073000 +0000" stop="20220908083000 +0000" channel="Telemundo 47">
     <title lang="en">12 Corazones</title>
     <desc lang="en">Cupido quiere que los participantes más maduros también logren encontrar a su pareja ideal.(n)</desc>
     <date>2010</date>
@@ -2865,7 +2869,7 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20220908083000 +0000" stop="20220908090000 +0000" channel="-Telemundo">
+  <programme start="20220908083000 +0000" stop="20220908090000 +0000" channel="Telemundo 47">
     <title lang="en">Noticias Telemundo en la Noche</title>
     <desc lang="en">En veinte minutos conozca la información más relevante de Estados Unidos y el mundo. Julio Vaqueiro le trae todo lo que necesita saber, antes de que termine el día.(n)</desc>
     <date>2020</date>
@@ -2873,24 +2877,24 @@
       <value>TV-Y</value>
     </rating>
   </programme>
-  <programme start="20220908090000 +0000" stop="20220908093000 +0000" channel="-Telemundo">
+  <programme start="20220908090000 +0000" stop="20220908093000 +0000" channel="Telemundo 47">
     <title lang="en">Programación pagada</title>
     <desc lang="en">Programación pagada.(n)</desc>
   </programme>
-  <programme start="20220908093000 +0000" stop="20220908100000 +0000" channel="-Telemundo">
+  <programme start="20220908093000 +0000" stop="20220908100000 +0000" channel="Telemundo 47">
     <title lang="en">Programación pagada</title>
     <desc lang="en">Programación pagada.(n)</desc>
   </programme>
-  <programme start="20220908100000 +0000" stop="20220908110000 +0000" channel="-Telemundo">
+  <programme start="20220908100000 +0000" stop="20220908110000 +0000" channel="Telemundo 47">
     <title lang="en">Al rojo vivo</title>
     <desc lang="en">La revista noticiosa que define la agenda de la televisión en español en los Estados Unidos. Se caracteriza por ofrecer, antes que nadie, historias que cautivan al público hispano y por presentarlas en un formato innovador, que resalta el aspecto humano de cada noticia.(n)</desc>
   </programme>
-  <programme start="20220908110000 +0000" stop="20220908140000 +0000" channel="-Telemundo">
+  <programme start="20220908110000 +0000" stop="20220908140000 +0000" channel="Telemundo 47">
     <title lang="en">Hoy día (new)</title>
     <desc lang="en">Inicia tu día con el show de las mañanas que te informa mejor con las noticias más oportunas, equilibradas y relevantes que la comunidad hispana en EE.UU. necesita. Los eventos más importantes de la jornada, el entretenimiento, el pronóstico del tiempo, las recetas de cocina y los consejos para una vida sana.(n)</desc>
     <premiere />
   </programme>
-  <programme start="20220908140000 +0000" stop="20220908150000 +0000" channel="-Telemundo">
+  <programme start="20220908140000 +0000" stop="20220908150000 +0000" channel="Telemundo 47">
     <title lang="en">Caso cerrado (new)</title>
     <sub-title lang="en">Pequeño inocente / Turismo sexual</sub-title>
     <desc lang="en">Liliana le explica a la jueza que su esposo se prostituye por un buen fin. Asegura que su marido ofrece sexo a cambio de dinero para recaudar los fondos que hace falta para costear el tratamiento del cáncer que padece su mascota. En el siguiente caso, Catalina confiesa que fue víctima de trata de blancas y obligada a prostituirse en México.(n)</desc>
@@ -2900,7 +2904,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220908150000 +0000" stop="20220908153000 +0000" channel="-Telemundo">
+  <programme start="20220908150000 +0000" stop="20220908153000 +0000" channel="Telemundo 47">
     <title lang="en">Caso Cerrado</title>
     <sub-title lang="en">Fantasma y demonio</sub-title>
     <desc lang="en">En el caso que escucha la jueza, Escarlet dice que su novio murió, pero que se le presenta. Y que baja del cielo para hacerle el amor cada noche. Acto seguido, el adolescente Felipe toma la palabra y asegura que a diario tiene horribles pesadillas con su difunta madre.(n)</desc>
@@ -2909,7 +2913,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220908153000 +0000" stop="20220908160000 +0000" channel="-Telemundo">
+  <programme start="20220908153000 +0000" stop="20220908160000 +0000" channel="Telemundo 47">
     <title lang="en">Decisiones</title>
     <desc lang="en">Eva, una cazatalentos, tiene una aventura amorosa y un plan en mente para mejorar su estilo de vida. Miguel, un joven futbolista, lidia con un dilema relacionado con su futuro como deportista. Más tarde, los hechos toman un giro repentino que sorprende a todos.(n)</desc>
     <date>2006</date>
@@ -2917,20 +2921,20 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220908160000 +0000" stop="20220908163000 +0000" channel="-Telemundo">
+  <programme start="20220908160000 +0000" stop="20220908163000 +0000" channel="Telemundo 47">
     <title lang="en">Más sabe el Diablo</title>
     <desc lang="en">Un joven no sale de una vida de equivocaciones y el peor error aún está por venir, enamorarse de la mujer prohibida.(n)</desc>
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220908163000 +0000" stop="20220908170000 +0000" channel="-Telemundo">
+  <programme start="20220908163000 +0000" stop="20220908170000 +0000" channel="Telemundo 47">
     <title lang="en">Noticias Telemundo - Mediodía (new)</title>
     <desc lang="en">Un programa con un estilo único de narrar la noticias, de una manera atractiva y perspicaz. Este noticiero cuenta con la presentación de historias locales y nacionales en vivo, haciendo uso extensivo de elementos gráficos. Además, este noticiero...(n)</desc>
     <date>2018</date>
     <premiere />
   </programme>
-  <programme start="20220908170000 +0000" stop="20220908180000 +0000" channel="-Telemundo">
+  <programme start="20220908170000 +0000" stop="20220908180000 +0000" channel="Telemundo 47">
     <title lang="en">La Reina del Sur</title>
     <desc lang="en">Una mujer inteligente y sagaz se mete en el mundo de narcos tras la muerte de su amor.(n)</desc>
     <date>2011</date>
@@ -2938,32 +2942,32 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220908180000 +0000" stop="20220908185800 +0000" channel="-Telemundo">
+  <programme start="20220908180000 +0000" stop="20220908185800 +0000" channel="Telemundo 47">
     <title lang="en">En casa con Telemundo (new)</title>
     <desc lang="en">Una oferta ligera, de formato accesible, familiar y cálido que incluye entrevistas con grandes estrellas del espectáculo, invitados especiales, buenas noticias y consejos para una vida sana.(n)</desc>
     <premiere />
   </programme>
-  <programme start="20220908185800 +0000" stop="20220908195800 +0000" channel="-Telemundo">
+  <programme start="20220908185800 +0000" stop="20220908195800 +0000" channel="Telemundo 47">
     <title lang="en">La mesa caliente (new)</title>
     <desc lang="en">Un equipo de mujeres audaces y empoderadas, debate sobre los temas más controversiales.(n)</desc>
     <premiere />
   </programme>
-  <programme start="20220908195800 +0000" stop="20220908210000 +0000" channel="-Telemundo">
+  <programme start="20220908195800 +0000" stop="20220908210000 +0000" channel="Telemundo 47">
     <title lang="en">Al rojo vivo (new)</title>
     <desc lang="en">La revista noticiosa que define la agenda de la televisión en español en los Estados Unidos. Se caracteriza por ofrecer, antes que nadie, historias que cautivan al público hispano y por presentarlas en un formato innovador, que resalta el aspecto humano de cada noticia.(n)</desc>
     <premiere />
   </programme>
-  <programme start="20220908210000 +0000" stop="20220908220000 +0000" channel="-Telemundo">
+  <programme start="20220908210000 +0000" stop="20220908220000 +0000" channel="Telemundo 47">
     <title lang="en">En casa con Telemundo</title>
     <desc lang="en">Una oferta ligera, de formato accesible, familiar y cálido que incluye entrevistas con grandes estrellas del espectáculo, invitados especiales, buenas noticias y consejos para una vida sana.(n)</desc>
   </programme>
-  <programme start="20220908220000 +0000" stop="20220908223000 +0000" channel="-Telemundo">
+  <programme start="20220908220000 +0000" stop="20220908223000 +0000" channel="Telemundo 47">
     <title lang="en">Noticias Telemundo - Mediodía (new)</title>
     <desc lang="en">Un programa con un estilo único de narrar la noticias, de una manera atractiva y perspicaz. Este noticiero cuenta con la presentación de historias locales y nacionales en vivo, haciendo uso extensivo de elementos gráficos. Además, este noticiero...(n)</desc>
     <date>2018</date>
     <premiere />
   </programme>
-  <programme start="20220908223000 +0000" stop="20220908230000 +0000" channel="-Telemundo">
+  <programme start="20220908223000 +0000" stop="20220908230000 +0000" channel="Telemundo 47">
     <title lang="en">Noticias Telemundo (new)</title>
     <desc lang="en">Un análisis de las noticias más importantes e impactantes de Estados Unidos, Latinoamérica y el mundo.(n)</desc>
     <premiere />
@@ -2971,30 +2975,30 @@
       <value>TV-Y</value>
     </rating>
   </programme>
-  <programme start="20220908230000 +0000" stop="20220909010000 +0000" channel="-Telemundo">
+  <programme start="20220908230000 +0000" stop="20220909010000 +0000" channel="Telemundo 47">
     <title lang="en">Top Chef VIP (new)</title>
     <desc lang="en">Una competencia donde 16 celebridades se enfrentan para ganar el título de Top Chef VIP.(n)</desc>
     <date>2022</date>
     <premiere />
   </programme>
-  <programme start="20220909010000 +0000" stop="20220909020000 +0000" channel="-Telemundo">
+  <programme start="20220909010000 +0000" stop="20220909020000 +0000" channel="Telemundo 47">
     <title lang="en">El fuego del destino (new)</title>
     <premiere />
   </programme>
-  <programme start="20220909020000 +0000" stop="20220909030000 +0000" channel="-Telemundo">
+  <programme start="20220909020000 +0000" stop="20220909030000 +0000" channel="Telemundo 47">
     <title lang="en">Infiel, Historia de un Engaño (new)</title>
     <desc lang="en">La vida de Asya se desmorona al confirmar que Vólkan vive una relación extramatrimonial.(n)</desc>
     <date>2020</date>
     <premiere />
   </programme>
-  <programme start="20220909030000 +0000" stop="20220909033500 +0000" channel="-Telemundo">
+  <programme start="20220909030000 +0000" stop="20220909033500 +0000" channel="Telemundo 47">
     <title lang="en">Noticias Telemundo</title>
     <desc lang="en">Un análisis de las noticias más importantes e impactantes de Estados Unidos, Latinoamérica y el mundo.(n)</desc>
     <rating system="MPAA">
       <value>TV-Y</value>
     </rating>
   </programme>
-  <programme start="20220909033500 +0000" stop="20220909040000 +0000" channel="-Telemundo">
+  <programme start="20220909033500 +0000" stop="20220909040000 +0000" channel="Telemundo 47">
     <title lang="en">Noticias Telemundo en la Noche (new)</title>
     <desc lang="en">En veinte minutos conozca la información más relevante de Estados Unidos y el mundo. Julio Vaqueiro le trae todo lo que necesita saber, antes de que termine el día.(n)</desc>
     <date>2020</date>
@@ -3003,7 +3007,7 @@
       <value>TV-Y</value>
     </rating>
   </programme>
-  <programme start="20220909040000 +0000" stop="20220909050000 +0000" channel="-Telemundo">
+  <programme start="20220909040000 +0000" stop="20220909050000 +0000" channel="Telemundo 47">
     <title lang="en">Caso cerrado</title>
     <sub-title lang="en">El Caballero/ Un Pedofilo No Cria A Mi Hijo</sub-title>
     <desc lang="en">Adán es amante de los caballos. Su hermano Félix le quitó todos los caballos del rancho y alega que no los devolverá, hasta que Adán salga de su vicio y los caballos estén seguros.(n)</desc>
@@ -3012,7 +3016,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220909050000 +0000" stop="20220909060000 +0000" channel="-Telemundo">
+  <programme start="20220909050000 +0000" stop="20220909060000 +0000" channel="Telemundo 47">
     <title lang="en">El Chema</title>
     <sub-title lang="en">Contra las cuerdas</sub-title>
     <desc lang="en">El agente antinarcóticos tiene un testigo y movimientos financieros que Tobías Clark no puede justificar. Lo vincula con Ricardo Almenar. Silva visita al primer mandatario, su primo y le va mal.(n)</desc>
@@ -3021,19 +3025,19 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220909060000 +0000" stop="20220909063000 +0000" channel="-Telemundo">
+  <programme start="20220909060000 +0000" stop="20220909063000 +0000" channel="Telemundo 47">
     <title lang="en">Programación pagada</title>
     <desc lang="en">Programación pagada.(n)</desc>
   </programme>
-  <programme start="20220909063000 +0000" stop="20220909070000 +0000" channel="-Telemundo">
+  <programme start="20220909063000 +0000" stop="20220909070000 +0000" channel="Telemundo 47">
     <title lang="en">Programación pagada</title>
     <desc lang="en">Programación pagada.(n)</desc>
   </programme>
-  <programme start="20220909070000 +0000" stop="20220909073000 +0000" channel="-Telemundo">
+  <programme start="20220909070000 +0000" stop="20220909073000 +0000" channel="Telemundo 47">
     <title lang="en">Programación pagada</title>
     <desc lang="en">Programación pagada.(n)</desc>
   </programme>
-  <programme start="20220909073000 +0000" stop="20220909083000 +0000" channel="-Telemundo">
+  <programme start="20220909073000 +0000" stop="20220909083000 +0000" channel="Telemundo 47">
     <title lang="en">12 Corazones</title>
     <desc lang="en">Programa de citas que busca emparejar a sus participantes, representados según los doce signos zodiacales. Mediante la presentación de Penélope Menchaca y los comentarios del astrólogo Edward'O y de Maximiliano Palacio, se exploran los secretos del amor, durante este especial de pijamas.(n)</desc>
     <date>2010</date>
@@ -3041,7 +3045,7 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20220909083000 +0000" stop="20220909090000 +0000" channel="-Telemundo">
+  <programme start="20220909083000 +0000" stop="20220909090000 +0000" channel="Telemundo 47">
     <title lang="en">Noticias Telemundo en la Noche</title>
     <desc lang="en">En veinte minutos conozca la información más relevante de Estados Unidos y el mundo. Julio Vaqueiro le trae todo lo que necesita saber, antes de que termine el día.(n)</desc>
     <date>2020</date>
@@ -3049,24 +3053,24 @@
       <value>TV-Y</value>
     </rating>
   </programme>
-  <programme start="20220909090000 +0000" stop="20220909093000 +0000" channel="-Telemundo">
+  <programme start="20220909090000 +0000" stop="20220909093000 +0000" channel="Telemundo 47">
     <title lang="en">Programación pagada</title>
     <desc lang="en">Programación pagada.(n)</desc>
   </programme>
-  <programme start="20220909093000 +0000" stop="20220909100000 +0000" channel="-Telemundo">
+  <programme start="20220909093000 +0000" stop="20220909100000 +0000" channel="Telemundo 47">
     <title lang="en">Programación pagada</title>
     <desc lang="en">Programación pagada.(n)</desc>
   </programme>
-  <programme start="20220909100000 +0000" stop="20220909110000 +0000" channel="-Telemundo">
+  <programme start="20220909100000 +0000" stop="20220909110000 +0000" channel="Telemundo 47">
     <title lang="en">Al rojo vivo</title>
     <desc lang="en">La revista noticiosa que define la agenda de la televisión en español en los Estados Unidos. Se caracteriza por ofrecer, antes que nadie, historias que cautivan al público hispano y por presentarlas en un formato innovador, que resalta el aspecto humano de cada noticia.(n)</desc>
   </programme>
-  <programme start="20220909110000 +0000" stop="20220909140000 +0000" channel="-Telemundo">
+  <programme start="20220909110000 +0000" stop="20220909140000 +0000" channel="Telemundo 47">
     <title lang="en">Hoy día (new)</title>
     <desc lang="en">Inicia tu día con el show de las mañanas que te informa mejor con las noticias más oportunas, equilibradas y relevantes que la comunidad hispana en EE.UU. necesita. Los eventos más importantes de la jornada, el entretenimiento, el pronóstico del tiempo, las recetas de cocina y los consejos para una vida sana.(n)</desc>
     <premiere />
   </programme>
-  <programme start="20220909140000 +0000" stop="20220909150000 +0000" channel="-Telemundo">
+  <programme start="20220909140000 +0000" stop="20220909150000 +0000" channel="Telemundo 47">
     <title lang="en">Caso Cerrado</title>
     <sub-title lang="en">La Comunion Del Terror / Proteccion Con Drogas</sub-title>
     <desc lang="en">Eduardo le cuenta a la jueza que está involucrado en un grave problema familiar. Reconoce que tiene hijos, esposa y amante, que coincidieron todos en una fiesta y se armó un gran escándalo. Para colmo, estaban alcoholizados y los reproches y las peleas no tardaron en comenzar.(n)</desc>
@@ -3075,7 +3079,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220909150000 +0000" stop="20220909153000 +0000" channel="-Telemundo">
+  <programme start="20220909150000 +0000" stop="20220909153000 +0000" channel="Telemundo 47">
     <title lang="en">Caso Cerrado (new)</title>
     <desc lang="en">Sin vergüenza y aceptando su condición, Ester cuenta que es adicta al tabaco. Y que, a pesar de estar embarazada, no puede dejar de fumar cigarrillos en grandes cantidades. Y es por eso que decidió internarse en un centro de rehabilitación, aunque ya no soporta más y desea regresar a su casa.(n)</desc>
     <date>2016</date>
@@ -3084,26 +3088,26 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220909153000 +0000" stop="20220909160000 +0000" channel="-Telemundo">
+  <programme start="20220909153000 +0000" stop="20220909160000 +0000" channel="Telemundo 47">
     <title lang="en">Decisiones</title>
     <sub-title lang="en">Nueva Vida, Nuevo Amor</sub-title>
     <desc lang="en">Los personajes constituyen una serie de héroes que trabajan, aman, luchan y se equivocan, pero que siempre tienen la oportunidad de salir adelante y también son capaces de perdonar. Impresionantes, conmovedoras y apasionantes historias.(n)</desc>
     <date>2006</date>
   </programme>
-  <programme start="20220909160000 +0000" stop="20220909163000 +0000" channel="-Telemundo">
+  <programme start="20220909160000 +0000" stop="20220909163000 +0000" channel="Telemundo 47">
     <title lang="en">Más sabe el Diablo</title>
     <desc lang="en">Un joven no sale de una vida de equivocaciones y el peor error aún está por venir, enamorarse de la mujer prohibida.(n)</desc>
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220909163000 +0000" stop="20220909170000 +0000" channel="-Telemundo">
+  <programme start="20220909163000 +0000" stop="20220909170000 +0000" channel="Telemundo 47">
     <title lang="en">Noticias Telemundo - Mediodía (new)</title>
     <desc lang="en">Un programa con un estilo único de narrar la noticias, de una manera atractiva y perspicaz. Este noticiero cuenta con la presentación de historias locales y nacionales en vivo, haciendo uso extensivo de elementos gráficos. Además, este noticiero...(n)</desc>
     <date>2018</date>
     <premiere />
   </programme>
-  <programme start="20220909170000 +0000" stop="20220909180000 +0000" channel="-Telemundo">
+  <programme start="20220909170000 +0000" stop="20220909180000 +0000" channel="Telemundo 47">
     <title lang="en">La Reina del Sur</title>
     <desc lang="en">Una mujer inteligente y sagaz se mete en el mundo de narcos tras la muerte de su amor.(n)</desc>
     <date>2011</date>
@@ -3111,32 +3115,32 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220909180000 +0000" stop="20220909185800 +0000" channel="-Telemundo">
+  <programme start="20220909180000 +0000" stop="20220909185800 +0000" channel="Telemundo 47">
     <title lang="en">En casa con Telemundo (new)</title>
     <desc lang="en">Una oferta ligera, de formato accesible, familiar y cálido que incluye entrevistas con grandes estrellas del espectáculo, invitados especiales, buenas noticias y consejos para una vida sana.(n)</desc>
     <premiere />
   </programme>
-  <programme start="20220909185800 +0000" stop="20220909195800 +0000" channel="-Telemundo">
+  <programme start="20220909185800 +0000" stop="20220909195800 +0000" channel="Telemundo 47">
     <title lang="en">La mesa caliente (new)</title>
     <desc lang="en">Un equipo de mujeres audaces y empoderadas, debate sobre los temas más controversiales.(n)</desc>
     <premiere />
   </programme>
-  <programme start="20220909195800 +0000" stop="20220909210000 +0000" channel="-Telemundo">
+  <programme start="20220909195800 +0000" stop="20220909210000 +0000" channel="Telemundo 47">
     <title lang="en">Al rojo vivo (new)</title>
     <desc lang="en">La revista noticiosa que define la agenda de la televisión en español en los Estados Unidos. Se caracteriza por ofrecer, antes que nadie, historias que cautivan al público hispano y por presentarlas en un formato innovador, que resalta el aspecto humano de cada noticia.(n)</desc>
     <premiere />
   </programme>
-  <programme start="20220909210000 +0000" stop="20220909220000 +0000" channel="-Telemundo">
+  <programme start="20220909210000 +0000" stop="20220909220000 +0000" channel="Telemundo 47">
     <title lang="en">En casa con Telemundo</title>
     <desc lang="en">Una oferta ligera, de formato accesible, familiar y cálido que incluye entrevistas con grandes estrellas del espectáculo, invitados especiales, buenas noticias y consejos para una vida sana.(n)</desc>
   </programme>
-  <programme start="20220909220000 +0000" stop="20220909223000 +0000" channel="-Telemundo">
+  <programme start="20220909220000 +0000" stop="20220909223000 +0000" channel="Telemundo 47">
     <title lang="en">Noticias Telemundo - Mediodía (new)</title>
     <desc lang="en">Un programa con un estilo único de narrar la noticias, de una manera atractiva y perspicaz. Este noticiero cuenta con la presentación de historias locales y nacionales en vivo, haciendo uso extensivo de elementos gráficos. Además, este noticiero...(n)</desc>
     <date>2018</date>
     <premiere />
   </programme>
-  <programme start="20220909223000 +0000" stop="20220909230000 +0000" channel="-Telemundo">
+  <programme start="20220909223000 +0000" stop="20220909230000 +0000" channel="Telemundo 47">
     <title lang="en">Noticias Telemundo (new)</title>
     <desc lang="en">Un análisis de las noticias más importantes e impactantes de Estados Unidos, Latinoamérica y el mundo.(n)</desc>
     <premiere />
@@ -3144,7 +3148,7 @@
       <value>TV-Y</value>
     </rating>
   </programme>
-  <programme start="20220909230000 +0000" stop="20220910010000 +0000" channel="-Telemundo">
+  <programme start="20220909230000 +0000" stop="20220910010000 +0000" channel="Telemundo 47">
     <title lang="en">Top Chef VIP (new)</title>
     <desc lang="en">Una competencia donde 16 celebridades se enfrentan para ganar el título de Top Chef VIP.(n)</desc>
     <date>2022</date>
@@ -3874,19 +3878,6 @@
     <category lang="es">Basado en novelas</category>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/77/11773058_4C8B995BED5AFDD1.jpg" />
     <country lang="es">ES</country>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220906153000 +0000" stop="20220906162500 +0000" channel="-Love Nature">
-    <title lang="es">Dentro de lo salvaje: India</title>
-    <sub-title lang="es">La tierra del rinoceronte secreto</sub-title>
-    <desc lang="es">Los pastizales del noreste de la India son uno de los hábitats más fértiles de la Tierra, lo que permite que sobreviva el raro rinoceronte mayor de un solo cuerno. Sigue al bebé rinoceronte Rajah y su madre mientras ella le muestra lo que se necesita para prosperar en este paraíso dramático.(n)</desc>
-    <category lang="es">Documental</category>
-    <category lang="es">Naturaleza</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777769_61E7DAC0FE06A570.jpg" />
-    <country lang="es">GB</country>
-    <episode-num system="onscreen">S1 E2</episode-num>
     <rating system="MJColombia">
       <value>TE</value>
     </rating>
@@ -11446,5 +11437,527 @@
       <actor>Eddie Crew Buday</actor>
     </credits>
     <icon src="http://demo.tmsimg.com/assets/p14934106_b_h10_ac.jpg" />
+  </programme>
+  <programme start="20220906005000 +0000" stop="20220906014500 +0000" channel="Telehit Musica">
+    <title lang="en">Super Hits</title>
+    <desc lang="en">Traemos para ti una larga de lista con las mejores canciones de todos los tiempos,.(n)</desc>
+    <date>2014</date>
+  </programme>
+  <programme start="20220906014500 +0000" stop="20220906024000 +0000" channel="Telehit Musica">
+    <title lang="en">Telehitazos</title>
+    <desc lang="en">Una selección de los videos musicales más exitosos del 2010 y de otros años.(n)</desc>
+    <date>2022</date>
+  </programme>
+  <programme start="20220906024000 +0000" stop="20220906033500 +0000" channel="Telehit Musica">
+    <title lang="en">Musicoterapia</title>
+    <desc lang="en">Un espacio que aborda diversos proyectos en materia de Medicina y Musica.(n)</desc>
+    <date>2007</date>
+  </programme>
+  <programme start="20220906033500 +0000" stop="20220906043000 +0000" channel="Telehit Musica">
+    <title lang="en">Musicología</title>
+    <date>2022</date>
+  </programme>
+  <programme start="20220906043000 +0000" stop="20220906050000 +0000" channel="Telehit Musica">
+    <title lang="en">Playlist Telehit</title>
+    <desc lang="en">Disfruta de la playlist que propone Telehit para bailar al ritmo de lo mejor del urbano.(n)</desc>
+    <date>2019</date>
+  </programme>
+  <programme start="20220906050000 +0000" stop="20220906055500 +0000" channel="Telehit Musica">
+    <title lang="en">Musikipedia</title>
+    <desc lang="en">Un programa que presenta los mejores temas musicales junto a los artistas más destacados.(n)</desc>
+    <date>2022</date>
+  </programme>
+  <programme start="20220906055500 +0000" stop="20220906065000 +0000" channel="Telehit Musica">
+    <title lang="en">Reggaetown</title>
+    <date>2022</date>
+  </programme>
+  <programme start="20220906065000 +0000" stop="20220906074500 +0000" channel="Telehit Musica">
+    <title lang="en">Exitops</title>
+    <desc lang="en">Un programa que presenta la mejor música así como los lanzamientos y temas más populares.(n)</desc>
+    <date>2022</date>
+  </programme>
+  <programme start="20220906074500 +0000" stop="20220906084000 +0000" channel="Telehit Musica">
+    <title lang="en">Telehitazos</title>
+    <desc lang="en">Una selección de los videos musicales más exitosos del 2010 y de otros años.(n)</desc>
+    <date>2022</date>
+  </programme>
+  <programme start="20220906084000 +0000" stop="20220906093500 +0000" channel="Telehit Musica">
+    <title lang="en">Musicoterapia</title>
+    <desc lang="en">Un espacio que aborda diversos proyectos en materia de Medicina y Musica.(n)</desc>
+    <date>2007</date>
+  </programme>
+  <programme start="20220906093500 +0000" stop="20220906103000 +0000" channel="Telehit Musica">
+    <title lang="en">Musicología</title>
+    <date>2022</date>
+  </programme>
+  <programme start="20220906103000 +0000" stop="20220906110000 +0000" channel="Telehit Musica">
+    <title lang="en">Playlist Telehit</title>
+    <desc lang="en">Disfruta de la playlist que propone Telehit para bailar al ritmo de lo mejor del urbano.(n)</desc>
+    <date>2019</date>
+  </programme>
+  <programme start="20220906110000 +0000" stop="20220906115500 +0000" channel="Telehit Musica">
+    <title lang="en">Musikipedia</title>
+    <desc lang="en">Un programa que presenta los mejores temas musicales junto a los artistas más destacados.(n)</desc>
+    <date>2022</date>
+  </programme>
+  <programme start="20220906115500 +0000" stop="20220906125000 +0000" channel="Telehit Musica">
+    <title lang="en">Reggaetown</title>
+    <date>2022</date>
+  </programme>
+  <programme start="20220906125000 +0000" stop="20220906134500 +0000" channel="Telehit Musica">
+    <title lang="en">Exitops</title>
+    <desc lang="en">Un programa que presenta la mejor música así como los lanzamientos y temas más populares.(n)</desc>
+    <date>2022</date>
+  </programme>
+  <programme start="20220906134500 +0000" stop="20220906144000 +0000" channel="Telehit Musica">
+    <title lang="en">Telehitazos</title>
+    <desc lang="en">Una selección de los videos musicales más exitosos del 2010 y de otros años.(n)</desc>
+    <date>2022</date>
+  </programme>
+  <programme start="20220906144000 +0000" stop="20220906153500 +0000" channel="Telehit Musica">
+    <title lang="en">Musicoterapia</title>
+    <desc lang="en">Un espacio que aborda diversos proyectos en materia de Medicina y Musica.(n)</desc>
+    <date>2007</date>
+  </programme>
+  <programme start="20220906153500 +0000" stop="20220906163000 +0000" channel="Telehit Musica">
+    <title lang="en">Musicología</title>
+    <date>2022</date>
+  </programme>
+  <programme start="20220906163000 +0000" stop="20220906170000 +0000" channel="Telehit Musica">
+    <title lang="en">Playlist Telehit</title>
+    <desc lang="en">Disfruta de la playlist que propone Telehit para bailar al ritmo de lo mejor del urbano.(n)</desc>
+    <date>2019</date>
+  </programme>
+  <programme start="20220906170000 +0000" stop="20220906175500 +0000" channel="Telehit Musica">
+    <title lang="en">Musikipedia</title>
+    <desc lang="en">Un programa que presenta los mejores temas musicales junto a los artistas más destacados.(n)</desc>
+    <date>2022</date>
+  </programme>
+  <programme start="20220906175500 +0000" stop="20220906185000 +0000" channel="Telehit Musica">
+    <title lang="en">Reggaetown</title>
+    <date>2022</date>
+  </programme>
+  <programme start="20220906185000 +0000" stop="20220906194500 +0000" channel="Telehit Musica">
+    <title lang="en">Exitops</title>
+    <desc lang="en">Un programa que presenta la mejor música así como los lanzamientos y temas más populares.(n)</desc>
+    <date>2022</date>
+  </programme>
+  <programme start="20220906194500 +0000" stop="20220906204000 +0000" channel="Telehit Musica">
+    <title lang="en">Telehitazos</title>
+    <desc lang="en">Una selección de los videos musicales más exitosos del 2010 y de otros años.(n)</desc>
+    <date>2022</date>
+  </programme>
+  <programme start="20220906204000 +0000" stop="20220906213500 +0000" channel="Telehit Musica">
+    <title lang="en">Musicoterapia</title>
+    <desc lang="en">Un espacio que aborda diversos proyectos en materia de Medicina y Musica.(n)</desc>
+    <date>2007</date>
+  </programme>
+  <programme start="20220906213500 +0000" stop="20220906223000 +0000" channel="Telehit Musica">
+    <title lang="en">Musicología</title>
+    <date>2022</date>
+  </programme>
+  <programme start="20220906223000 +0000" stop="20220906230000 +0000" channel="Telehit Musica">
+    <title lang="en">Playlist Telehit</title>
+    <desc lang="en">Disfruta de la playlist que propone Telehit para bailar al ritmo de lo mejor del urbano.(n)</desc>
+    <date>2019</date>
+  </programme>
+  <programme start="20220906230000 +0000" stop="20220906235500 +0000" channel="Telehit Musica">
+    <title lang="en">Musikipedia</title>
+    <desc lang="en">Un programa que presenta los mejores temas musicales junto a los artistas más destacados.(n)</desc>
+    <date>2022</date>
+  </programme>
+  <programme start="20220906235500 +0000" stop="20220907005000 +0000" channel="Telehit Musica">
+    <title lang="en">Reggaetown</title>
+    <date>2022</date>
+  </programme>
+  <programme start="20220907005000 +0000" stop="20220907014500 +0000" channel="Telehit Musica">
+    <title lang="en">Exitops</title>
+    <desc lang="en">Un programa que presenta la mejor música así como los lanzamientos y temas más populares.(n)</desc>
+    <date>2022</date>
+  </programme>
+  <programme start="20220907014500 +0000" stop="20220907024000 +0000" channel="Telehit Musica">
+    <title lang="en">Telehitazos</title>
+    <desc lang="en">Una selección de los videos musicales más exitosos del 2010 y de otros años.(n)</desc>
+    <date>2022</date>
+  </programme>
+  <programme start="20220907024000 +0000" stop="20220907033500 +0000" channel="Telehit Musica">
+    <title lang="en">Musicoterapia</title>
+    <desc lang="en">Un espacio que aborda diversos proyectos en materia de Medicina y Musica.(n)</desc>
+    <date>2007</date>
+  </programme>
+  <programme start="20220907033500 +0000" stop="20220907043000 +0000" channel="Telehit Musica">
+    <title lang="en">Musicología</title>
+    <date>2022</date>
+  </programme>
+  <programme start="20220907043000 +0000" stop="20220907050000 +0000" channel="Telehit Musica">
+    <title lang="en">Playlist Telehit</title>
+    <desc lang="en">Disfruta de la playlist que propone Telehit para bailar al ritmo de lo mejor del urbano.(n)</desc>
+    <date>2019</date>
+  </programme>
+  <programme start="20220907050000 +0000" stop="20220907055500 +0000" channel="Telehit Musica">
+    <title lang="en">Top 10</title>
+    <desc lang="en">La lista de popularidad con los éxitos del momento de Telehit Urbano.(n)</desc>
+  </programme>
+  <programme start="20220907055500 +0000" stop="20220907065000 +0000" channel="Telehit Musica">
+    <title lang="en">Jangueo</title>
+    <desc lang="en">Revista nocturna sobre las principales tendencias urbanos, eventos,.(n)</desc>
+    <date>2021</date>
+  </programme>
+  <programme start="20220907065000 +0000" stop="20220907074500 +0000" channel="Telehit Musica">
+    <title lang="en">Super Hits</title>
+    <desc lang="en">Traemos para ti una larga de lista con las mejores canciones de todos los tiempos,.(n)</desc>
+    <date>2014</date>
+  </programme>
+  <programme start="20220907074500 +0000" stop="20220907084000 +0000" channel="Telehit Musica">
+    <title lang="en">Telehitazos</title>
+    <desc lang="en">Una selección de los videos musicales más exitosos del 2010 y de otros años.(n)</desc>
+    <date>2022</date>
+  </programme>
+  <programme start="20220907084000 +0000" stop="20220907093500 +0000" channel="Telehit Musica">
+    <title lang="en">Musicoterapia</title>
+    <desc lang="en">Un espacio que aborda diversos proyectos en materia de Medicina y Musica.(n)</desc>
+    <date>2007</date>
+  </programme>
+  <programme start="20220907093500 +0000" stop="20220907103000 +0000" channel="Telehit Musica">
+    <title lang="en">Musicología</title>
+    <date>2022</date>
+  </programme>
+  <programme start="20220907103000 +0000" stop="20220907110000 +0000" channel="Telehit Musica">
+    <title lang="en">Playlist Telehit</title>
+    <desc lang="en">Disfruta de la playlist que propone Telehit para bailar al ritmo de lo mejor del urbano.(n)</desc>
+    <date>2019</date>
+  </programme>
+  <programme start="20220907110000 +0000" stop="20220907115500 +0000" channel="Telehit Musica">
+    <title lang="en">Top 10</title>
+    <desc lang="en">La lista de popularidad con los éxitos del momento de Telehit Urbano.(n)</desc>
+  </programme>
+  <programme start="20220907115500 +0000" stop="20220907125000 +0000" channel="Telehit Musica">
+    <title lang="en">Jangueo</title>
+    <desc lang="en">Revista nocturna sobre las principales tendencias urbanos, eventos,.(n)</desc>
+    <date>2021</date>
+  </programme>
+  <programme start="20220907125000 +0000" stop="20220907134500 +0000" channel="Telehit Musica">
+    <title lang="en">Super Hits</title>
+    <desc lang="en">Traemos para ti una larga de lista con las mejores canciones de todos los tiempos,.(n)</desc>
+    <date>2014</date>
+  </programme>
+  <programme start="20220907134500 +0000" stop="20220907144000 +0000" channel="Telehit Musica">
+    <title lang="en">Telehitazos</title>
+    <desc lang="en">Una selección de los videos musicales más exitosos del 2010 y de otros años.(n)</desc>
+    <date>2022</date>
+  </programme>
+  <programme start="20220907144000 +0000" stop="20220907153500 +0000" channel="Telehit Musica">
+    <title lang="en">Musicoterapia</title>
+    <desc lang="en">Un espacio que aborda diversos proyectos en materia de Medicina y Musica.(n)</desc>
+    <date>2007</date>
+  </programme>
+  <programme start="20220907153500 +0000" stop="20220907163000 +0000" channel="Telehit Musica">
+    <title lang="en">Musicología</title>
+    <date>2022</date>
+  </programme>
+  <programme start="20220907163000 +0000" stop="20220907170000 +0000" channel="Telehit Musica">
+    <title lang="en">Playlist Telehit</title>
+    <desc lang="en">Disfruta de la playlist que propone Telehit para bailar al ritmo de lo mejor del urbano.(n)</desc>
+    <date>2019</date>
+  </programme>
+  <programme start="20220907170000 +0000" stop="20220907175500 +0000" channel="Telehit Musica">
+    <title lang="en">Top 10</title>
+    <desc lang="en">La lista de popularidad con los éxitos del momento de Telehit Urbano.(n)</desc>
+  </programme>
+  <programme start="20220907175500 +0000" stop="20220907185000 +0000" channel="Telehit Musica">
+    <title lang="en">Jangueo</title>
+    <desc lang="en">Revista nocturna sobre las principales tendencias urbanos, eventos,.(n)</desc>
+    <date>2021</date>
+  </programme>
+  <programme start="20220907185000 +0000" stop="20220907194500 +0000" channel="Telehit Musica">
+    <title lang="en">Super Hits</title>
+    <desc lang="en">Traemos para ti una larga de lista con las mejores canciones de todos los tiempos,.(n)</desc>
+    <date>2014</date>
+  </programme>
+  <programme start="20220907194500 +0000" stop="20220907204000 +0000" channel="Telehit Musica">
+    <title lang="en">Telehitazos</title>
+    <desc lang="en">Una selección de los videos musicales más exitosos del 2010 y de otros años.(n)</desc>
+    <date>2022</date>
+  </programme>
+  <programme start="20220907204000 +0000" stop="20220907213500 +0000" channel="Telehit Musica">
+    <title lang="en">Musicoterapia</title>
+    <desc lang="en">Un espacio que aborda diversos proyectos en materia de Medicina y Musica.(n)</desc>
+    <date>2007</date>
+  </programme>
+  <programme start="20220907213500 +0000" stop="20220907223000 +0000" channel="Telehit Musica">
+    <title lang="en">Musicología</title>
+    <date>2022</date>
+  </programme>
+  <programme start="20220907223000 +0000" stop="20220907230000 +0000" channel="Telehit Musica">
+    <title lang="en">Playlist Telehit</title>
+    <desc lang="en">Disfruta de la playlist que propone Telehit para bailar al ritmo de lo mejor del urbano.(n)</desc>
+    <date>2019</date>
+  </programme>
+  <programme start="20220907230000 +0000" stop="20220907235500 +0000" channel="Telehit Musica">
+    <title lang="en">Top 10</title>
+    <desc lang="en">La lista de popularidad con los éxitos del momento de Telehit Urbano.(n)</desc>
+  </programme>
+  <programme start="20220907235500 +0000" stop="20220908005000 +0000" channel="Telehit Musica">
+    <title lang="en">Jangueo</title>
+    <desc lang="en">Revista nocturna sobre las principales tendencias urbanos, eventos,.(n)</desc>
+    <date>2021</date>
+  </programme>
+  <programme start="20220908005000 +0000" stop="20220908014500 +0000" channel="Telehit Musica">
+    <title lang="en">Super Hits</title>
+    <desc lang="en">Traemos para ti una larga de lista con las mejores canciones de todos los tiempos,.(n)</desc>
+    <date>2014</date>
+  </programme>
+  <programme start="20220908014500 +0000" stop="20220908024000 +0000" channel="Telehit Musica">
+    <title lang="en">Telehitazos</title>
+    <desc lang="en">Una selección de los videos musicales más exitosos del 2010 y de otros años.(n)</desc>
+    <date>2022</date>
+  </programme>
+  <programme start="20220908024000 +0000" stop="20220908033500 +0000" channel="Telehit Musica">
+    <title lang="en">Musicoterapia</title>
+    <desc lang="en">Un espacio que aborda diversos proyectos en materia de Medicina y Musica.(n)</desc>
+    <date>2007</date>
+  </programme>
+  <programme start="20220908033500 +0000" stop="20220908043000 +0000" channel="Telehit Musica">
+    <title lang="en">Musicología</title>
+    <date>2022</date>
+  </programme>
+  <programme start="20220908043000 +0000" stop="20220908050000 +0000" channel="Telehit Musica">
+    <title lang="en">Playlist Telehit</title>
+    <desc lang="en">Disfruta de la playlist que propone Telehit para bailar al ritmo de lo mejor del urbano.(n)</desc>
+    <date>2019</date>
+  </programme>
+  <programme start="20220908050000 +0000" stop="20220908055500 +0000" channel="Telehit Musica">
+    <title lang="en">Musikipedia</title>
+    <desc lang="en">Un programa que presenta los mejores temas musicales junto a los artistas más destacados.(n)</desc>
+    <date>2022</date>
+  </programme>
+  <programme start="20220908055500 +0000" stop="20220908065000 +0000" channel="Telehit Musica">
+    <title lang="en">Reggaetown</title>
+    <date>2022</date>
+  </programme>
+  <programme start="20220908065000 +0000" stop="20220908074500 +0000" channel="Telehit Musica">
+    <title lang="en">Exitops</title>
+    <desc lang="en">Un programa que presenta la mejor música así como los lanzamientos y temas más populares.(n)</desc>
+    <date>2022</date>
+  </programme>
+  <programme start="20220908074500 +0000" stop="20220908084000 +0000" channel="Telehit Musica">
+    <title lang="en">Telehitazos</title>
+    <desc lang="en">Una selección de los videos musicales más exitosos del 2010 y de otros años.(n)</desc>
+    <date>2022</date>
+  </programme>
+  <programme start="20220908084000 +0000" stop="20220908093500 +0000" channel="Telehit Musica">
+    <title lang="en">Musicoterapia</title>
+    <desc lang="en">Un espacio que aborda diversos proyectos en materia de Medicina y Musica.(n)</desc>
+    <date>2007</date>
+  </programme>
+  <programme start="20220908093500 +0000" stop="20220908103000 +0000" channel="Telehit Musica">
+    <title lang="en">Musicología</title>
+    <date>2022</date>
+  </programme>
+  <programme start="20220908103000 +0000" stop="20220908110000 +0000" channel="Telehit Musica">
+    <title lang="en">Playlist Telehit</title>
+    <desc lang="en">Disfruta de la playlist que propone Telehit para bailar al ritmo de lo mejor del urbano.(n)</desc>
+    <date>2019</date>
+  </programme>
+  <programme start="20220908110000 +0000" stop="20220908115500 +0000" channel="Telehit Musica">
+    <title lang="en">Musikipedia</title>
+    <desc lang="en">Un programa que presenta los mejores temas musicales junto a los artistas más destacados.(n)</desc>
+    <date>2022</date>
+  </programme>
+  <programme start="20220908115500 +0000" stop="20220908125000 +0000" channel="Telehit Musica">
+    <title lang="en">Reggaetown</title>
+    <date>2022</date>
+  </programme>
+  <programme start="20220908125000 +0000" stop="20220908134500 +0000" channel="Telehit Musica">
+    <title lang="en">Exitops</title>
+    <desc lang="en">Un programa que presenta la mejor música así como los lanzamientos y temas más populares.(n)</desc>
+    <date>2022</date>
+  </programme>
+  <programme start="20220908134500 +0000" stop="20220908144000 +0000" channel="Telehit Musica">
+    <title lang="en">Telehitazos</title>
+    <desc lang="en">Una selección de los videos musicales más exitosos del 2010 y de otros años.(n)</desc>
+    <date>2022</date>
+  </programme>
+  <programme start="20220908144000 +0000" stop="20220908153500 +0000" channel="Telehit Musica">
+    <title lang="en">Musicoterapia</title>
+    <desc lang="en">Un espacio que aborda diversos proyectos en materia de Medicina y Musica.(n)</desc>
+    <date>2007</date>
+  </programme>
+  <programme start="20220908153500 +0000" stop="20220908163000 +0000" channel="Telehit Musica">
+    <title lang="en">Musicología</title>
+    <date>2022</date>
+  </programme>
+  <programme start="20220908163000 +0000" stop="20220908170000 +0000" channel="Telehit Musica">
+    <title lang="en">Playlist Telehit</title>
+    <desc lang="en">Disfruta de la playlist que propone Telehit para bailar al ritmo de lo mejor del urbano.(n)</desc>
+    <date>2019</date>
+  </programme>
+  <programme start="20220908170000 +0000" stop="20220908175500 +0000" channel="Telehit Musica">
+    <title lang="en">Musikipedia</title>
+    <desc lang="en">Un programa que presenta los mejores temas musicales junto a los artistas más destacados.(n)</desc>
+    <date>2022</date>
+  </programme>
+  <programme start="20220908175500 +0000" stop="20220908185000 +0000" channel="Telehit Musica">
+    <title lang="en">Reggaetown</title>
+    <date>2022</date>
+  </programme>
+  <programme start="20220908185000 +0000" stop="20220908194500 +0000" channel="Telehit Musica">
+    <title lang="en">Exitops</title>
+    <desc lang="en">Un programa que presenta la mejor música así como los lanzamientos y temas más populares.(n)</desc>
+    <date>2022</date>
+  </programme>
+  <programme start="20220908194500 +0000" stop="20220908204000 +0000" channel="Telehit Musica">
+    <title lang="en">Telehitazos</title>
+    <desc lang="en">Una selección de los videos musicales más exitosos del 2010 y de otros años.(n)</desc>
+    <date>2022</date>
+  </programme>
+  <programme start="20220908204000 +0000" stop="20220908213500 +0000" channel="Telehit Musica">
+    <title lang="en">Musicoterapia</title>
+    <desc lang="en">Un espacio que aborda diversos proyectos en materia de Medicina y Musica.(n)</desc>
+    <date>2007</date>
+  </programme>
+  <programme start="20220908213500 +0000" stop="20220908223000 +0000" channel="Telehit Musica">
+    <title lang="en">Musicología</title>
+    <date>2022</date>
+  </programme>
+  <programme start="20220908223000 +0000" stop="20220908230000 +0000" channel="Telehit Musica">
+    <title lang="en">Playlist Telehit</title>
+    <desc lang="en">Disfruta de la playlist que propone Telehit para bailar al ritmo de lo mejor del urbano.(n)</desc>
+    <date>2019</date>
+  </programme>
+  <programme start="20220908230000 +0000" stop="20220908235500 +0000" channel="Telehit Musica">
+    <title lang="en">Musikipedia</title>
+    <desc lang="en">Un programa que presenta los mejores temas musicales junto a los artistas más destacados.(n)</desc>
+    <date>2022</date>
+  </programme>
+  <programme start="20220908235500 +0000" stop="20220909005000 +0000" channel="Telehit Musica">
+    <title lang="en">Reggaetown</title>
+    <date>2022</date>
+  </programme>
+  <programme start="20220909005000 +0000" stop="20220909014500 +0000" channel="Telehit Musica">
+    <title lang="en">Exitops</title>
+    <desc lang="en">Un programa que presenta la mejor música así como los lanzamientos y temas más populares.(n)</desc>
+    <date>2022</date>
+  </programme>
+  <programme start="20220909014500 +0000" stop="20220909024000 +0000" channel="Telehit Musica">
+    <title lang="en">Telehitazos</title>
+    <desc lang="en">Una selección de los videos musicales más exitosos del 2010 y de otros años.(n)</desc>
+    <date>2022</date>
+  </programme>
+  <programme start="20220909024000 +0000" stop="20220909033500 +0000" channel="Telehit Musica">
+    <title lang="en">Musicoterapia</title>
+    <desc lang="en">Un espacio que aborda diversos proyectos en materia de Medicina y Musica.(n)</desc>
+    <date>2007</date>
+  </programme>
+  <programme start="20220909033500 +0000" stop="20220909043000 +0000" channel="Telehit Musica">
+    <title lang="en">Musicología</title>
+    <date>2022</date>
+  </programme>
+  <programme start="20220909043000 +0000" stop="20220909050000 +0000" channel="Telehit Musica">
+    <title lang="en">Playlist Telehit</title>
+    <desc lang="en">Disfruta de la playlist que propone Telehit para bailar al ritmo de lo mejor del urbano.(n)</desc>
+    <date>2019</date>
+  </programme>
+  <programme start="20220909050000 +0000" stop="20220909055500 +0000" channel="Telehit Musica">
+    <title lang="en">Top 10</title>
+    <desc lang="en">La lista de popularidad con los éxitos del momento de Telehit Urbano.(n)</desc>
+  </programme>
+  <programme start="20220909055500 +0000" stop="20220909065000 +0000" channel="Telehit Musica">
+    <title lang="en">Jangueo</title>
+    <desc lang="en">Revista nocturna sobre las principales tendencias urbanos, eventos,.(n)</desc>
+    <date>2021</date>
+  </programme>
+  <programme start="20220909065000 +0000" stop="20220909074500 +0000" channel="Telehit Musica">
+    <title lang="en">Super Hits</title>
+    <desc lang="en">Traemos para ti una larga de lista con las mejores canciones de todos los tiempos,.(n)</desc>
+    <date>2014</date>
+  </programme>
+  <programme start="20220909074500 +0000" stop="20220909084000 +0000" channel="Telehit Musica">
+    <title lang="en">Turbo fiesta</title>
+    <date>2022</date>
+  </programme>
+  <programme start="20220909084000 +0000" stop="20220909093500 +0000" channel="Telehit Musica">
+    <title lang="en">Suena el Dembow</title>
+    <date>2022</date>
+  </programme>
+  <programme start="20220909093500 +0000" stop="20220909103000 +0000" channel="Telehit Musica">
+    <title lang="en">Musicología</title>
+    <date>2022</date>
+  </programme>
+  <programme start="20220909103000 +0000" stop="20220909110000 +0000" channel="Telehit Musica">
+    <title lang="en">Playlist Telehit</title>
+    <desc lang="en">Disfruta de la playlist que propone Telehit para bailar al ritmo de lo mejor del urbano.(n)</desc>
+    <date>2019</date>
+  </programme>
+  <programme start="20220909110000 +0000" stop="20220909115500 +0000" channel="Telehit Musica">
+    <title lang="en">Top 10</title>
+    <desc lang="en">La lista de popularidad con los éxitos del momento de Telehit Urbano.(n)</desc>
+  </programme>
+  <programme start="20220909115500 +0000" stop="20220909125000 +0000" channel="Telehit Musica">
+    <title lang="en">Jangueo</title>
+    <desc lang="en">Revista nocturna sobre las principales tendencias urbanos, eventos,.(n)</desc>
+    <date>2021</date>
+  </programme>
+  <programme start="20220909125000 +0000" stop="20220909134500 +0000" channel="Telehit Musica">
+    <title lang="en">Super Hits</title>
+    <desc lang="en">Traemos para ti una larga de lista con las mejores canciones de todos los tiempos,.(n)</desc>
+    <date>2014</date>
+  </programme>
+  <programme start="20220909134500 +0000" stop="20220909144000 +0000" channel="Telehit Musica">
+    <title lang="en">Turbo fiesta</title>
+    <date>2022</date>
+  </programme>
+  <programme start="20220909144000 +0000" stop="20220909153500 +0000" channel="Telehit Musica">
+    <title lang="en">Suena el Dembow</title>
+    <date>2022</date>
+  </programme>
+  <programme start="20220909153500 +0000" stop="20220909163000 +0000" channel="Telehit Musica">
+    <title lang="en">Musicología</title>
+    <date>2022</date>
+  </programme>
+  <programme start="20220909163000 +0000" stop="20220909170000 +0000" channel="Telehit Musica">
+    <title lang="en">Playlist Telehit</title>
+    <desc lang="en">Disfruta de la playlist que propone Telehit para bailar al ritmo de lo mejor del urbano.(n)</desc>
+    <date>2019</date>
+  </programme>
+  <programme start="20220909170000 +0000" stop="20220909175500 +0000" channel="Telehit Musica">
+    <title lang="en">Top 10</title>
+    <desc lang="en">La lista de popularidad con los éxitos del momento de Telehit Urbano.(n)</desc>
+  </programme>
+  <programme start="20220909175500 +0000" stop="20220909185000 +0000" channel="Telehit Musica">
+    <title lang="en">Jangueo</title>
+    <desc lang="en">Revista nocturna sobre las principales tendencias urbanos, eventos,.(n)</desc>
+    <date>2021</date>
+  </programme>
+  <programme start="20220909185000 +0000" stop="20220909194500 +0000" channel="Telehit Musica">
+    <title lang="en">Super Hits</title>
+    <desc lang="en">Traemos para ti una larga de lista con las mejores canciones de todos los tiempos,.(n)</desc>
+    <date>2014</date>
+  </programme>
+  <programme start="20220909194500 +0000" stop="20220909204000 +0000" channel="Telehit Musica">
+    <title lang="en">Turbo fiesta</title>
+    <date>2022</date>
+  </programme>
+  <programme start="20220909204000 +0000" stop="20220909213500 +0000" channel="Telehit Musica">
+    <title lang="en">Suena el Dembow</title>
+    <date>2022</date>
+  </programme>
+  <programme start="20220909213500 +0000" stop="20220909223000 +0000" channel="Telehit Musica">
+    <title lang="en">Musicología</title>
+    <date>2022</date>
+  </programme>
+  <programme start="20220909223000 +0000" stop="20220909230000 +0000" channel="Telehit Musica">
+    <title lang="en">Playlist Telehit</title>
+    <desc lang="en">Disfruta de la playlist que propone Telehit para bailar al ritmo de lo mejor del urbano.(n)</desc>
+    <date>2019</date>
+  </programme>
+  <programme start="20220909230000 +0000" stop="20220909235500 +0000" channel="Telehit Musica">
+    <title lang="en">Top 10</title>
+    <desc lang="en">La lista de popularidad con los éxitos del momento de Telehit Urbano.(n)</desc>
+  </programme>
+  <programme start="20220909235500 +0000" stop="20220910005000 +0000" channel="Telehit Musica">
+    <title lang="en">Jangueo</title>
+    <desc lang="en">Revista nocturna sobre las principales tendencias urbanos, eventos,.(n)</desc>
+    <date>2021</date>
   </programme>
 </tv>
