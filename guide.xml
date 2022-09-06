@@ -28,135 +28,14 @@
   </channel>
   <channel id="Clover Channel">
     <display-name lang="es">Clover Channel</display-name>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6400603_DE0CBB7B732B556A.png" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/72/10720065_10B55E2ADA2D5908.png" />
     <url>http://www.movistar.com.pe</url>
   </channel>
-  <programme start="20220905001500 -0500" stop="20220905020000 -0500" channel="Caracol TV (COL)">
-    <title lang="es">Rosemary's Baby</title>
-    <desc lang="es">Rosemary Woodhouse sospecha que sus vecinos pueden pertenecer a un culto satánico que están empeñados en conseguir una cosa: el bebé que va a tener.(n)</desc>
-    <rating system="CO">
-      <value>PG-13</value>
-    </rating>
-  </programme>
-  <programme start="20220905020000 -0500" stop="20220905041500 -0500" channel="Caracol TV (COL)">
-    <title lang="es">También caerás</title>
-    <desc lang="es">Este programa de humor es un espacio abierto a la alegría y la espontaneidad, que lleva las cámaras escondidas a otro nivel. La gente común y corriente se convierte en protagonista de situaciones divertidas, inusuales y hasta aterrorizantes.(n)</desc>
-    <rating system="CO">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220905041500 -0500" stop="20220905050000 -0500" channel="Caracol TV (COL)">
-    <title lang="es">También caerás</title>
-    <desc lang="es">Este programa de humor es un espacio abierto a la alegría y la espontaneidad, que lleva las cámaras escondidas a otro nivel. La gente común y corriente se convierte en protagonista de situaciones divertidas, inusuales y hasta aterrorizantes.(n)</desc>
-    <rating system="CO">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220905050000 -0500" stop="20220905051500 -0500" channel="Caracol TV (COL)">
-    <title lang="es">La Finca de Hoy</title>
-    <desc lang="es">Programa dedicado a la producción agropecuaria, economía campesina, tecnología, investigación, sanidad y muchos temas más, relacionados con el campo y su gente.(n)</desc>
-    <rating system="CO">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20220905051500 -0500" stop="20220905053000 -0500" channel="Caracol TV (COL)">
-    <title lang="es">Día a día I</title>
-    <desc lang="es">Un programa para iniciar el día cargado de buena energía con reflexiones que ayudan a superar obstáculos y ver la vida de forma positiva gracias a la sección "El Man está vivo".(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220905053000 -0500" stop="20220905090000 -0500" channel="Caracol TV (COL)">
-    <title lang="es">Noticias Caracol: Primera edición</title>
-    <desc lang="es">Los hechos que son noticia, en compañía de un excelente equipo periodístico.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220905090000 -0500" stop="20220905113000 -0500" channel="Caracol TV (COL)">
-    <title lang="es">Día a día I</title>
-    <desc lang="es">Un programa para iniciar el día cargado de buena energía con reflexiones que ayudan a superar obstáculos y ver la vida de forma positiva gracias a la sección "El Man está vivo".(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220905113000 -0500" stop="20220905123000 -0500" channel="Caracol TV (COL)">
-    <title lang="es">Lo imperdonable</title>
-    <desc lang="es">Verónica, una acaudalada amazona que será víctima de las intrigas de su prima Virginia y de la venganza de Martín, quien en el intento por vengar la muerte de su hermano vivirá un amor lleno de obstáculos.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220905123000 -0500" stop="20220905153000 -0500" channel="Caracol TV (COL)">
-    <title lang="es">Noticias Caracol: Edición mediodía</title>
-    <desc lang="es">Los hechos que son noticia, en compañía de un excelente equipo periodístico.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220905153000 -0500" stop="20220905170000 -0500" channel="Caracol TV (COL)">
-    <title lang="es">Una parte de mí</title>
-    <desc lang="es">La familia Yorukhan es rica, pero no son bendecidos con un hijo. Defne es la esposa de Kahraman y están dispuestos a hacer cualquier cosa. Decidieron contratar a un vientre sustituto, pero no es conveniente enamorarse de quien paga por un vientre.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220905170000 -0500" stop="20220905180000 -0500" channel="Caracol TV (COL)">
-    <title lang="es">Si nos dejan</title>
-    <desc lang="es">Después de haberle dedicado una vida entera a su familia y esposo, el mundo de Alicia cambiará por completo tras una traición. La aparición de Martín le devolverá la alegría para reconstruir su vida y cumplir los sueños que abandonó.(n)</desc>
-    <rating system="CO">
-      <value>PG-13</value>
-    </rating>
-  </programme>
-  <programme start="20220905180000 -0500" stop="20220905190000 -0500" channel="Caracol TV (COL)">
-    <title lang="es">Hermanitas Calle</title>
-    <desc lang="es">Nelly y Fabiola Calle viven en el campo, tienen 10 y 12 años, respectivamente, y al tiempo que sus padres recogen café en fincas de Caicedonia en el Valle, ellas descubren su talento de la mano de doña Edelmira, su abuela materna y primera mentora.(n)</desc>
-    <rating system="CO">
-      <value>PG-13</value>
-    </rating>
-  </programme>
-  <programme start="20220905190000 -0500" stop="20220905200000 -0500" channel="Caracol TV (COL)">
-    <title lang="es">Noticias Caracol: Edición central</title>
-    <desc lang="es">Los hechos que son noticia, en compañía de un excelente equipo periodístico.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220905200000 -0500" stop="20220905213000 -0500" channel="Caracol TV (COL)">
-    <title lang="es">La voz kids</title>
-    <desc lang="es">Un concurso que busca apoyar el talento musical y artístico de niños y jóvenes colombianos entre los 7 y 15 años de edad.(n)</desc>
-    <rating system="CO">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220905213000 -0500" stop="20220905223000 -0500" channel="Caracol TV (COL)">
-    <title lang="es">El rey, Vicente Fernández</title>
-    <desc lang="es">El huracán que significó la vida del ícono de la música mexicana a lo largo de siete décadas.(n)</desc>
-    <rating system="CO">
-      <value>NC-17</value>
-    </rating>
-  </programme>
-  <programme start="20220905223000 -0500" stop="20220905233000 -0500" channel="Caracol TV (COL)">
-    <title lang="es">El cartel de los sapos: El origen</title>
-    <desc lang="es">En Cali, dos hermanos lidian con la familia, el romance y la búsqueda de una ambición: gobernar la industria de las drogas en Colombia.(n)</desc>
-    <rating system="CO">
-      <value>NC-17</value>
-    </rating>
-  </programme>
-  <programme start="20220905233000 -0500" stop="20220906000000 -0500" channel="Caracol TV (COL)">
-    <title lang="es">Noticias Caracol: Última edición</title>
-    <desc lang="es">Los hechos que son noticia, en compañía de un excelente equipo periodístico.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220906000000 -0500" stop="20220906004500 -0500" channel="Caracol TV (COL)">
-    <title lang="es">Mi Corazón Es Tuyo</title>
-    <desc lang="es">La vida de una joven mujer que trabaja como bailarina exótica da un giro cuando se convierte en niñera al conocer a un hombre viudo con 7 hijos.(n)</desc>
-    <rating system="CO">
-      <value>PG-13</value>
-    </rating>
-  </programme>
+  <channel id="Love Nature">
+    <display-name lang="es">Love Nature</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/15/12150242_3A472015F1DC03AA.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
   <programme start="20220906004500 -0500" stop="20220906011500 -0500" channel="Caracol TV (COL)">
     <title lang="es">El diario de Diana</title>
     <desc lang="es">Junto a entrevistas a diferentes expertos, lecciones sobre cómo armonizar todas las áreas de la vida, manejar las emociones y cambiar creencias para entender la felicidad como una oportunidad de vivir a plenitud.(n)</desc>
@@ -425,102 +304,148 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220905013000 -0300" stop="20220905034500 -0300" channel="TVN (CHI)">
-    <title lang="es">Mea culpa</title>
-    <desc lang="es">Se recrean los homicidios más macabros y los crímenes que marcaron la historia policial chilena.(n)</desc>
-    <rating system="CL">
-      <value>NR</value>
+  <programme start="20220908000000 -0500" stop="20220908004500 -0500" channel="Caracol TV (COL)">
+    <title lang="es">Mi Corazón Es Tuyo</title>
+    <desc lang="es">La vida de una joven mujer que trabaja como bailarina exótica da un giro cuando se convierte en niñera al conocer a un hombre viudo con 7 hijos.(n)</desc>
+    <rating system="CO">
+      <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20220905034500 -0300" stop="20220905040000 -0300" channel="TVN (CHI)">
-    <title lang="es">TV tiempo final</title>
-    <desc lang="es">Informe meteorológico.(n)</desc>
-    <rating system="CL">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220905040000 -0300" stop="20220905070000 -0300" channel="TVN (CHI)">
-    <title lang="es">Fuera del aire</title>
-    <title lang="en">SIGN OFF</title>
-    <desc lang="es">Fin de emisión.(n)</desc>
-    <rating system="CL">
+  <programme start="20220908004500 -0500" stop="20220908011500 -0500" channel="Caracol TV (COL)">
+    <title lang="es">El diario de Diana</title>
+    <desc lang="es">Junto a entrevistas a diferentes expertos, lecciones sobre cómo armonizar todas las áreas de la vida, manejar las emociones y cambiar creencias para entender la felicidad como una oportunidad de vivir a plenitud.(n)</desc>
+    <rating system="CO">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20220905070000 -0300" stop="20220905073000 -0300" channel="TVN (CHI)">
-    <title lang="es">Previa 24</title>
-    <desc lang="es">Un programa para empezar el día con los cambios en el tránsito, el climas y la opinión pública.(n)</desc>
-    <rating system="CL">
-      <value>NR</value>
+  <programme start="20220908011500 -0500" stop="20220908041500 -0500" channel="Caracol TV (COL)">
+    <title lang="es">También caerás</title>
+    <desc lang="es">Este programa de humor es un espacio abierto a la alegría y la espontaneidad, que lleva las cámaras escondidas a otro nivel. La gente común y corriente se convierte en protagonista de situaciones divertidas, inusuales y hasta aterrorizantes.(n)</desc>
+    <rating system="CO">
+      <value>G</value>
     </rating>
   </programme>
-  <programme start="20220905073000 -0300" stop="20220905090000 -0300" channel="TVN (CHI)">
-    <title lang="es">24 AM</title>
-    <desc lang="es">Repaso de los hechos que marcaron la noche y la madrugada de Chile y el mundo.(n)</desc>
-    <rating system="CL">
-      <value>NR</value>
+  <programme start="20220908041500 -0500" stop="20220908050000 -0500" channel="Caracol TV (COL)">
+    <title lang="es">También caerás</title>
+    <desc lang="es">Este programa de humor es un espacio abierto a la alegría y la espontaneidad, que lleva las cámaras escondidas a otro nivel. La gente común y corriente se convierte en protagonista de situaciones divertidas, inusuales y hasta aterrorizantes.(n)</desc>
+    <rating system="CO">
+      <value>G</value>
     </rating>
   </programme>
-  <programme start="20220905090000 -0300" stop="20220905140000 -0300" channel="TVN (CHI)">
-    <title lang="es">Buenos días a todos</title>
-    <desc lang="es">Programa matutino con temas de actualidad y del espectáculo chileno, concursos y entretenimiento.(n)</desc>
-    <rating system="CL">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220905140000 -0300" stop="20220905160000 -0300" channel="TVN (CHI)">
-    <title lang="es">24 Tarde</title>
-    <desc lang="es">La información más relevante a nivel internacional, nacional y regional.(n)</desc>
-    <rating system="CL">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220905160000 -0300" stop="20220905170000 -0300" channel="TVN (CHI)">
-    <title lang="es">Génesis</title>
-    <desc lang="es">Adaptación de uno de los libros más reconocidos de la Biblia, que aborda la historia del origen de la humanidad, invitando a entender el presente, volviendo al principio de todo. La caída de Lucifer, la vida de Adán y Eva, Noé y el diluvio, y otros.(n)</desc>
-    <rating system="CL">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220905170000 -0300" stop="20220905181000 -0300" channel="TVN (CHI)">
-    <title lang="es">Rojo y Miel</title>
-    <desc lang="es">La información del programa no fue provista por el proveedor de la señal.(n)</desc>
-    <rating system="CL">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220905181000 -0300" stop="20220905192000 -0300" channel="TVN (CHI)">
-    <title lang="es">Pampa Ilusión</title>
-    <desc lang="es">Una apasionada historia donde el amor no respeta tradiciones y suele quebrar con los esquemas de la época, todo ello enmarcado en la salitrera chilena Pampa Ilusión.(n)</desc>
-    <rating system="CL">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220905192000 -0300" stop="20220905204500 -0300" channel="TVN (CHI)">
-    <title lang="es">Carmen Gloria a tu servicio</title>
-    <desc lang="es">Un programa con historias de la vida real, al servicio de la familia y que intenta ayudar, orientar y educar en torno a problemas que afectan a miles de chilenos.(n)</desc>
-    <rating system="CL">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220905204500 -0300" stop="20220905215500 -0300" channel="TVN (CHI)">
-    <title lang="es">Soñar contigo</title>
-    <desc lang="es">Para escapar de un matrimonio arreglado, Sanem acepta trabajar en una agencia de publicidad. Allí conoce a Cam, un fotógrafo de fama internacional, y se enamora de él. Juntos viven aventuras transformadoras.(n)</desc>
-    <rating system="CL">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220905215500 -0300" stop="20220905234000 -0300" channel="TVN (CHI)">
-    <title lang="es">24 horas central</title>
-    <desc lang="es">La información de mayor importancia internacional, nacional y regional.(n)</desc>
-    <rating system="CL">
+  <programme start="20220908050000 -0500" stop="20220908051500 -0500" channel="Caracol TV (COL)">
+    <title lang="es">La Finca de Hoy</title>
+    <desc lang="es">Programa dedicado a la producción agropecuaria, economía campesina, tecnología, investigación, sanidad y muchos temas más, relacionados con el campo y su gente.(n)</desc>
+    <rating system="CO">
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20220905234500 -0300" stop="20220906010000 -0300" channel="TVN (CHI)">
-    <title lang="es">Todo por mi familia</title>
-    <desc lang="es">Una inspiradora historia de superación protagonizada por Kadir, Omer, Asiye y Emel, cuatro hermanos que quedan huérfanos tras perder a sus padres el mismo día en diferentes eventos.(n)</desc>
-    <rating system="CL">
+  <programme start="20220908051500 -0500" stop="20220908053000 -0500" channel="Caracol TV (COL)">
+    <title lang="es">Día a día I</title>
+    <desc lang="es">Un programa para iniciar el día cargado de buena energía con reflexiones que ayudan a superar obstáculos y ver la vida de forma positiva gracias a la sección "El Man está vivo".(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220908053000 -0500" stop="20220908080000 -0500" channel="Caracol TV (COL)">
+    <title lang="es">Noticias Caracol: Primera edición</title>
+    <desc lang="es">Los hechos que son noticia, en compañía de un excelente equipo periodístico.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220908080000 -0500" stop="20220908085000 -0500" channel="Caracol TV (COL)">
+    <title lang="es">Día a día I</title>
+    <desc lang="es">Un programa para iniciar el día cargado de buena energía con reflexiones que ayudan a superar obstáculos y ver la vida de forma positiva gracias a la sección "El Man está vivo".(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220908085000 -0500" stop="20220908103000 -0500" channel="Caracol TV (COL)">
+    <title lang="es">Vuelta a España 2022</title>
+    <title lang="es">2022 Vuelta a España - Stage 18: Trujilo to Alto del Piornal</title>
+    <sub-title lang="es">Alto del Piornal</sub-title>
+    <desc lang="es">Etapa de montaña. De Trujillo a Alto del Piornal (192 km).(n)</desc>
+    <date>2022</date>
+    <category lang="es">En Vivo</category>
+    <category lang="es">Primera vez</category>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220908103000 -0500" stop="20220908123000 -0500" channel="Caracol TV (COL)">
+    <title lang="es">Lo imperdonable</title>
+    <desc lang="es">Verónica, una acaudalada amazona que será víctima de las intrigas de su prima Virginia y de la venganza de Martín, quien en el intento por vengar la muerte de su hermano vivirá un amor lleno de obstáculos.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220908123000 -0500" stop="20220908153000 -0500" channel="Caracol TV (COL)">
+    <title lang="es">Noticias Caracol: Edición mediodía</title>
+    <desc lang="es">Los hechos que son noticia, en compañía de un excelente equipo periodístico.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220908153000 -0500" stop="20220908170000 -0500" channel="Caracol TV (COL)">
+    <title lang="es">Una parte de mí</title>
+    <desc lang="es">La familia Yorukhan es rica, pero no son bendecidos con un hijo. Defne es la esposa de Kahraman y están dispuestos a hacer cualquier cosa. Decidieron contratar a un vientre sustituto, pero no es conveniente enamorarse de quien paga por un vientre.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220908170000 -0500" stop="20220908180000 -0500" channel="Caracol TV (COL)">
+    <title lang="es">Si nos dejan</title>
+    <desc lang="es">Después de haberle dedicado una vida entera a su familia y esposo, el mundo de Alicia cambiará por completo tras una traición. La aparición de Martín le devolverá la alegría para reconstruir su vida y cumplir los sueños que abandonó.(n)</desc>
+    <rating system="CO">
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220908180000 -0500" stop="20220908185800 -0500" channel="Caracol TV (COL)">
+    <title lang="es">Hermanitas Calle</title>
+    <desc lang="es">Nelly y Fabiola Calle viven en el campo, tienen 10 y 12 años, respectivamente, y al tiempo que sus padres recogen café en fincas de Caicedonia en el Valle, ellas descubren su talento de la mano de doña Edelmira, su abuela materna y primera mentora.(n)</desc>
+    <rating system="CO">
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220908190000 -0500" stop="20220908193000 -0500" channel="Caracol TV (COL)">
+    <title lang="es">Noticiero del Senado</title>
+    <desc lang="es">Noticias de actualidad nacional, con noticias sobre debates, inversiones, proyectos de ley con intervención de los honorables Senadores de la República.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220908193000 -0500" stop="20220908200000 -0500" channel="Caracol TV (COL)">
+    <title lang="es">Noticias Caracol: Edición central</title>
+    <desc lang="es">Los hechos que son noticia, en compañía de un excelente equipo periodístico.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220908200000 -0500" stop="20220908213000 -0500" channel="Caracol TV (COL)">
+    <title lang="es">La voz kids</title>
+    <desc lang="es">Un concurso que busca apoyar el talento musical y artístico de niños y jóvenes colombianos entre los 7 y 15 años de edad.(n)</desc>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220908213000 -0500" stop="20220908223000 -0500" channel="Caracol TV (COL)">
+    <title lang="es">El rey, Vicente Fernández</title>
+    <desc lang="es">El huracán que significó la vida del ícono de la música mexicana a lo largo de siete décadas.(n)</desc>
+    <rating system="CO">
+      <value>NC-17</value>
+    </rating>
+  </programme>
+  <programme start="20220908223000 -0500" stop="20220908233000 -0500" channel="Caracol TV (COL)">
+    <title lang="es">El cartel de los sapos: El origen</title>
+    <desc lang="es">En Cali, dos hermanos lidian con la familia, el romance y la búsqueda de una ambición: gobernar la industria de las drogas en Colombia.(n)</desc>
+    <rating system="CO">
+      <value>NC-17</value>
+    </rating>
+  </programme>
+  <programme start="20220908233000 -0500" stop="20220909000000 -0500" channel="Caracol TV (COL)">
+    <title lang="es">Noticias Caracol: Última edición</title>
+    <desc lang="es">Los hechos que son noticia, en compañía de un excelente equipo periodístico.(n)</desc>
+    <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
@@ -736,142 +661,111 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220905000000 +0000" stop="20220905020000 +0000" channel="UniMás">
-    <title lang="en">Fútbol de la MLS (live)</title>
-    <sub-title lang="en">Los Angeles Galaxy vs. Sporting Kansas City</sub-title>
-    <desc lang="en">Los Angeles Galaxy vs. Sporting Kansas City. Desde Dignity Health Sports Park.(n)</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20220905020000 +0000" stop="20220905040000 +0000" channel="UniMás">
-    <title lang="en">Shepherd: The Border Patrol</title>
-    <desc lang="en">Un agente fronterizo intenta apresar a una unidad de esfuerzas especiales renegada que trafica heroína de México a EE.UU.(n)</desc>
-    <date>2007</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
+  <programme start="20220908010000 -0300" stop="20220908021500 -0300" channel="TVN (CHI)">
+    <title lang="es">Mea culpa</title>
+    <desc lang="es">Se recrean los homicidios más macabros y los crímenes que marcaron la historia policial chilena.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220905040000 +0000" stop="20220905060000 +0000" channel="UniMás">
-    <title lang="en">China Salesman</title>
-    <desc lang="en">Un vendedor chino y un competidor corrupto pelean por un contrato para la primera tecnología de telecomunicaciones móviles en África.(n)</desc>
-    <date>2017</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
+  <programme start="20220908021500 -0300" stop="20220908030000 -0300" channel="TVN (CHI)">
+    <title lang="es">Medianoche</title>
+    <desc lang="es">Un informativo que aborda las noticias que marcaron durante el día, que incluye entrevistas, análisis de noticias y enlaces en vivo.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220905060000 +0000" stop="20220905080000 +0000" channel="UniMás">
-    <title lang="en">Into the Blue</title>
-    <desc lang="en">Cuando cuatro buceadores descubren algo maravilloso en las profundidades del océano creen que su sueño de hallar un tesoro se ha hecho realidad. Pero allí también encontrarán un siniestro misterio.(n)</desc>
-    <date>2005</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
+  <programme start="20220908030000 -0300" stop="20220908031500 -0300" channel="TVN (CHI)">
+    <title lang="es">TV Tiempo</title>
+    <desc lang="es">El informe del tiempo y los pronósticos climáticos para todo Chile.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220905080000 +0000" stop="20220905083000 +0000" channel="UniMás">
-    <title lang="en">Programa Pagado</title>
-    <date>2021</date>
-  </programme>
-  <programme start="20220905083000 +0000" stop="20220905090000 +0000" channel="UniMás">
-    <title lang="en">Programa Pagado</title>
-    <date>2021</date>
-  </programme>
-  <programme start="20220905090000 +0000" stop="20220905100000 +0000" channel="UniMás">
-    <title lang="en">Veredicto Final</title>
-    <sub-title lang="en">08-10-2021</sub-title>
-    <date>2007</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
+  <programme start="20220908031500 -0300" stop="20220908070000 -0300" channel="TVN (CHI)">
+    <title lang="es">Fuera del aire</title>
+    <title lang="en">SIGN OFF</title>
+    <desc lang="es">Fin de emisión.(n)</desc>
+    <rating system="CL">
+      <value>G</value>
     </rating>
   </programme>
-  <programme start="20220905100000 +0000" stop="20220905110000 +0000" channel="UniMás">
-    <title lang="en">Esta historia me suena</title>
-    <sub-title lang="en">17 años</sub-title>
-    <desc lang="en">Jimena es una adolescente de 17 años que ha mantenido una relación en secreto con un hombre 23 años mayor que ella, con quien tiene un hijo. Ella será chantajeada para que no lo acusen de pedofilia.(n)</desc>
-    <date>2019</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
+  <programme start="20220908070000 -0300" stop="20220908073000 -0300" channel="TVN (CHI)">
+    <title lang="es">Previa 24</title>
+    <desc lang="es">Un programa para empezar el día con los cambios en el tránsito, el climas y la opinión pública.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220905110000 +0000" stop="20220905120000 +0000" channel="UniMás">
-    <title lang="en">Veredicto Final</title>
-    <sub-title lang="en">08-11-2021</sub-title>
-    <date>2007</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
+  <programme start="20220908073000 -0300" stop="20220908090000 -0300" channel="TVN (CHI)">
+    <title lang="es">24 AM</title>
+    <desc lang="es">Repaso de los hechos que marcaron la noche y la madrugada de Chile y el mundo.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220905120000 +0000" stop="20220905130000 +0000" channel="UniMás">
-    <title lang="en">¡Vivan los Niños!</title>
-    <sub-title lang="en">Episodio 03</sub-title>
-    <date>2002</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
+  <programme start="20220908090000 -0300" stop="20220908140000 -0300" channel="TVN (CHI)">
+    <title lang="es">Buenos días a todos</title>
+    <desc lang="es">Programa matutino con temas de actualidad y del espectáculo chileno, concursos y entretenimiento.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220905130000 +0000" stop="20220905150000 +0000" channel="UniMás">
-    <title lang="en">Triunfo del Amor</title>
-    <sub-title lang="en">09-05-2022</sub-title>
-    <date>2010</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
+  <programme start="20220908140000 -0300" stop="20220908160000 -0300" channel="TVN (CHI)">
+    <title lang="es">24 Tarde</title>
+    <desc lang="es">La información más relevante a nivel internacional, nacional y regional.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220905150000 +0000" stop="20220905160000 +0000" channel="UniMás">
-    <title lang="en">La 3ra. en Discordia (new)</title>
-    <sub-title lang="en">09-05-2022</sub-title>
-    <date>2019</date>
-    <premiere />
-    <rating system="MPAA">
-      <value>TV-14</value>
+  <programme start="20220908160000 -0300" stop="20220908170000 -0300" channel="TVN (CHI)">
+    <title lang="es">Génesis</title>
+    <desc lang="es">Adaptación de uno de los libros más reconocidos de la Biblia, que aborda la historia del origen de la humanidad, invitando a entender el presente, volviendo al principio de todo. La caída de Lucifer, la vida de Adán y Eva, Noé y el diluvio, y otros.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220905160000 +0000" stop="20220905180000 +0000" channel="UniMás">
-    <title lang="en">Que Te Perdone Dios... Yo No (new)</title>
-    <sub-title lang="en">09-05-2022</sub-title>
-    <date>2015</date>
-    <premiere />
-    <rating system="MPAA">
-      <value>TV-14</value>
+  <programme start="20220908170000 -0300" stop="20220908181000 -0300" channel="TVN (CHI)">
+    <title lang="es">Rojo y Miel</title>
+    <desc lang="es">La información del programa no fue provista por el proveedor de la señal.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220905180000 +0000" stop="20220905190000 +0000" channel="UniMás">
-    <title lang="en">Como dice el dicho (new)</title>
-    <desc lang="en">Desde que Verónica inicia una amistad con Ana, comienza a creer que Luis es su amigo por interés, supuestamente para pagarle un tratamiento a su hermano enfermo. Averigua quién de los dos estará aprovechándose de la amistad de Verónica.(n)</desc>
-    <date>2020</date>
-    <premiere />
-    <rating system="MPAA">
-      <value>TV-PG</value>
+  <programme start="20220908181000 -0300" stop="20220908192000 -0300" channel="TVN (CHI)">
+    <title lang="es">Pampa Ilusión</title>
+    <desc lang="es">Una apasionada historia donde el amor no respeta tradiciones y suele quebrar con los esquemas de la época, todo ello enmarcado en la salitrera chilena Pampa Ilusión.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220905190000 +0000" stop="20220905210000 +0000" channel="UniMás">
-    <title lang="en">Pájaro Soñador (new)</title>
-    <sub-title lang="en">09-05-2022</sub-title>
-    <date>2018</date>
-    <premiere />
-    <rating system="MPAA">
-      <value>TV-PG</value>
+  <programme start="20220908192000 -0300" stop="20220908204500 -0300" channel="TVN (CHI)">
+    <title lang="es">Carmen Gloria a tu servicio</title>
+    <desc lang="es">Un programa con historias de la vida real, al servicio de la familia y que intenta ayudar, orientar y educar en torno a problemas que afectan a miles de chilenos.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220905210000 +0000" stop="20220905220000 +0000" channel="UniMás">
-    <title lang="en">La fea más bella (new)</title>
-    <date>2006</date>
-    <premiere />
-    <rating system="MPAA">
-      <value>TV-PG</value>
+  <programme start="20220908204500 -0300" stop="20220908215500 -0300" channel="TVN (CHI)">
+    <title lang="es">Soñar contigo</title>
+    <desc lang="es">Para escapar de un matrimonio arreglado, Sanem acepta trabajar en una agencia de publicidad. Allí conoce a Cam, un fotógrafo de fama internacional, y se enamora de él. Juntos viven aventuras transformadoras.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220905220000 +0000" stop="20220905230000 +0000" channel="UniMás">
-    <title lang="en">Teresa (new)</title>
-    <sub-title lang="en">09-05-2022</sub-title>
-    <date>2010</date>
-    <premiere />
-    <rating system="MPAA">
-      <value>TV-14</value>
+  <programme start="20220908215500 -0300" stop="20220908234000 -0300" channel="TVN (CHI)">
+    <title lang="es">24 horas central</title>
+    <desc lang="es">La información de mayor importancia internacional, nacional y regional.(n)</desc>
+    <rating system="CL">
+      <value>PG</value>
     </rating>
   </programme>
-  <programme start="20220905230000 +0000" stop="20220906000000 +0000" channel="UniMás">
-    <title lang="en">¡Siéntese Quien Pueda! (new)</title>
-    <date>2022</date>
-    <premiere />
+  <programme start="20220908234500 -0300" stop="20220909011500 -0300" channel="TVN (CHI)">
+    <title lang="es">El día menos pensado</title>
+    <desc lang="es">Historias que parecen desafiar todo lo que hasta hoy es posible.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
   </programme>
   <programme start="20220906000000 +0000" stop="20220906020000 +0000" channel="UniMás">
     <title lang="en">Enamorándonos (live)</title>
@@ -1209,65 +1103,207 @@
     <date>2022</date>
     <premiere />
   </programme>
-  <programme start="20220905050000 -0500" stop="20220905060000 -0500" channel="RCN Novelas">
-    <title lang="es">Doña Bella</title>
+  <programme start="20220908000000 +0000" stop="20220908020000 +0000" channel="UniMás">
+    <title lang="en">Enamorándonos (live)</title>
+    <sub-title lang="en">09-07-2022</sub-title>
+    <date>2022</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
   </programme>
-  <programme start="20220905060000 -0500" stop="20220905070000 -0500" channel="RCN Novelas">
-    <title lang="es">Expedientes</title>
+  <programme start="20220908020000 +0000" stop="20220908030000 +0000" channel="UniMás">
+    <title lang="en">Reto 4 Elementos, Naturaleza Extrema (new)</title>
+    <sub-title lang="en">09-05-2022</sub-title>
+    <date>2022</date>
+    <premiere />
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
   </programme>
-  <programme start="20220905070000 -0500" stop="20220905080000 -0500" channel="RCN Novelas">
-    <title lang="es">Francisco, el matemático</title>
+  <programme start="20220908030000 +0000" stop="20220908040000 +0000" channel="UniMás">
+    <title lang="en">Como Dice el Dicho (new)</title>
+    <sub-title lang="en">Una Golondrina No Hace Verano</sub-title>
+    <date>2011</date>
+    <premiere />
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
   </programme>
-  <programme start="20220905080000 -0500" stop="20220905090000 -0500" channel="RCN Novelas">
-    <title lang="es">Te quiero Pecas</title>
+  <programme start="20220908040000 +0000" stop="20220908043000 +0000" channel="UniMás">
+    <title lang="en">Una Familia de Diez</title>
+    <date>2007</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
   </programme>
-  <programme start="20220905090000 -0500" stop="20220905100000 -0500" channel="RCN Novelas">
-    <title lang="es">Garzón</title>
+  <programme start="20220908043000 +0000" stop="20220908050000 +0000" channel="UniMás">
+    <title lang="en">Una Familia de Diez</title>
+    <date>2007</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
   </programme>
-  <programme start="20220905100000 -0500" stop="20220905110000 -0500" channel="RCN Novelas">
-    <title lang="es">No olvidaras mi nombre</title>
+  <programme start="20220908050000 +0000" stop="20220908053000 +0000" channel="UniMás">
+    <title lang="en">Nosotros los Guapos</title>
+    <sub-title lang="en">06-15-2021</sub-title>
+    <date>2016</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
   </programme>
-  <programme start="20220905110000 -0500" stop="20220905120000 -0500" channel="RCN Novelas">
-    <title lang="es">Doña Bella</title>
+  <programme start="20220908053000 +0000" stop="20220908060000 +0000" channel="UniMás">
+    <title lang="en">Nosotros los guapos</title>
+    <desc lang="en">Parece complicado que Albertano y Vítor logren conseguir su objetivo. Este dúo busca obtener un lugar dónde vivir de forma estable, pero el esfuerzo que, según ellos, hacen, no parece ser suficiente para lograrlo, por lo que tendrán que vérselas con Doña Cuca.(n)</desc>
+    <date>2016</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
   </programme>
-  <programme start="20220905120000 -0500" stop="20220905130000 -0500" channel="RCN Novelas">
-    <title lang="es">Expedientes</title>
+  <programme start="20220908060000 +0000" stop="20220908070000 +0000" channel="UniMás">
+    <title lang="en">Esta historia me suena</title>
+    <sub-title lang="en">Échame la culpa</sub-title>
+    <desc lang="en">Martha le oculta a su hermano Miguel su gusto por el arte. Y cuando conoce a Abel, a este le ocultará que también le gusta el grafiti. Mira si Miguel y Abel la culparán por no ser sincera con ellos y por no tener sus propios gustos.(n)</desc>
+    <date>2019</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
   </programme>
-  <programme start="20220905130000 -0500" stop="20220905140000 -0500" channel="RCN Novelas">
-    <title lang="es">Francisco, el matemático</title>
+  <programme start="20220908070000 +0000" stop="20220908073000 +0000" channel="UniMás">
+    <title lang="en">Programa Pagado</title>
+    <date>2021</date>
   </programme>
-  <programme start="20220905140000 -0500" stop="20220905150000 -0500" channel="RCN Novelas">
-    <title lang="es">Te quiero Pecas</title>
+  <programme start="20220908073000 +0000" stop="20220908080000 +0000" channel="UniMás">
+    <title lang="en">Programa Pagado</title>
+    <date>2021</date>
   </programme>
-  <programme start="20220905150000 -0500" stop="20220905160000 -0500" channel="RCN Novelas">
-    <title lang="es">Garzón</title>
+  <programme start="20220908080000 +0000" stop="20220908083000 +0000" channel="UniMás">
+    <title lang="en">Programa Pagado</title>
+    <date>2021</date>
   </programme>
-  <programme start="20220905160000 -0500" stop="20220905170000 -0500" channel="RCN Novelas">
-    <title lang="es">No olvidaras mi nombre</title>
+  <programme start="20220908083000 +0000" stop="20220908090000 +0000" channel="UniMás">
+    <title lang="en">Programa Pagado</title>
+    <date>2021</date>
   </programme>
-  <programme start="20220905170000 -0500" stop="20220905180000 -0500" channel="RCN Novelas">
-    <title lang="es">Doña Bella</title>
+  <programme start="20220908090000 +0000" stop="20220908100000 +0000" channel="UniMás">
+    <title lang="en">Veredicto Final</title>
+    <sub-title lang="en">08-13-2021</sub-title>
+    <date>2007</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
   </programme>
-  <programme start="20220905180000 -0500" stop="20220905190000 -0500" channel="RCN Novelas">
-    <title lang="es">Expedientes</title>
+  <programme start="20220908100000 +0000" stop="20220908110000 +0000" channel="UniMás">
+    <title lang="en">Esta Historia Me Suena</title>
+    <sub-title lang="en">01-29-2022</sub-title>
+    <date>2019</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
   </programme>
-  <programme start="20220905190000 -0500" stop="20220905200000 -0500" channel="RCN Novelas">
-    <title lang="es">Francisco, el matemático</title>
+  <programme start="20220908110000 +0000" stop="20220908120000 +0000" channel="UniMás">
+    <title lang="en">Veredicto Final</title>
+    <sub-title lang="en">08-14-2021</sub-title>
+    <date>2007</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
   </programme>
-  <programme start="20220905200000 -0500" stop="20220905210000 -0500" channel="RCN Novelas">
-    <title lang="es">Te quiero Pecas</title>
+  <programme start="20220908120000 +0000" stop="20220908130000 +0000" channel="UniMás">
+    <title lang="en">¡Vivan los Niños!</title>
+    <sub-title lang="en">Episodio 03</sub-title>
+    <date>2002</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
   </programme>
-  <programme start="20220905210000 -0500" stop="20220905220000 -0500" channel="RCN Novelas">
-    <title lang="es">Garzón</title>
+  <programme start="20220908130000 +0000" stop="20220908150000 +0000" channel="UniMás">
+    <title lang="en">Triunfo del Amor</title>
+    <sub-title lang="en">09-08-2022</sub-title>
+    <date>2010</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
   </programme>
-  <programme start="20220905220000 -0500" stop="20220905230000 -0500" channel="RCN Novelas">
-    <title lang="es">No olvidaras mi nombre</title>
+  <programme start="20220908150000 +0000" stop="20220908153000 +0000" channel="UniMás">
+    <title lang="en">La 3ra. en Discordia (new)</title>
+    <sub-title lang="en">09-08-2022</sub-title>
+    <date>2019</date>
+    <premiere />
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
   </programme>
-  <programme start="20220905230000 -0500" stop="20220906000000 -0500" channel="RCN Novelas">
-    <title lang="es">Doña Bella</title>
+  <programme start="20220908153000 +0000" stop="20220908155000 +0000" channel="UniMás">
+    <title lang="en">Goin' Loco</title>
+    <sub-title lang="en">09-09-2022</sub-title>
+    <date>2017</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
   </programme>
-  <programme start="20220906000000 -0500" stop="20220906010000 -0500" channel="RCN Novelas">
-    <title lang="es">Expedientes</title>
+  <programme start="20220908155000 +0000" stop="20220908162000 +0000" channel="UniMás">
+    <title lang="en">Una Familia de Diez</title>
+    <date>2007</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220908162000 +0000" stop="20220908165000 +0000" channel="UniMás">
+    <title lang="en">Una Familia de Diez</title>
+    <date>2007</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220908165000 +0000" stop="20220908172000 +0000" channel="UniMás">
+    <title lang="en">Nosotros los guapos</title>
+    <sub-title lang="en">06-27-2021</sub-title>
+    <desc lang="en">Parece complicado que Albertano y Vítor logren conseguir su objetivo. Este dúo busca obtener un lugar dónde vivir de forma estable, pero el esfuerzo que, según ellos, hacen, no parece ser suficiente para lograrlo, por lo que tendrán que vérselas con Doña Cuca.(n)</desc>
+    <date>2020</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220908172000 +0000" stop="20220908175000 +0000" channel="UniMás">
+    <title lang="en">Nosotros los Guapos</title>
+    <sub-title lang="en">07-02-2021</sub-title>
+    <date>2016</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220908175000 +0000" stop="20220908185000 +0000" channel="UniMás">
+    <title lang="en">Como Dice el Dicho (new)</title>
+    <date>2011</date>
+    <premiere />
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220908185000 +0000" stop="20220908210000 +0000" channel="UniMás">
+    <title lang="en">UEFA Europa League (live)</title>
+  </programme>
+  <programme start="20220908210000 +0000" stop="20220908220000 +0000" channel="UniMás">
+    <title lang="en">La fea más bella (new)</title>
+    <date>2006</date>
+    <premiere />
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220908220000 +0000" stop="20220908230000 +0000" channel="UniMás">
+    <title lang="en">Teresa (new)</title>
+    <sub-title lang="en">09-08-2022</sub-title>
+    <date>2010</date>
+    <premiere />
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220908230000 +0000" stop="20220909000000 +0000" channel="UniMás">
+    <title lang="en">¡Siéntese Quien Pueda! (new)</title>
+    <date>2022</date>
+    <premiere />
   </programme>
   <programme start="20220906010000 -0500" stop="20220906020000 -0500" channel="RCN Novelas">
     <title lang="es">Francisco, el matemático</title>
@@ -1281,158 +1317,65 @@
   <programme start="20220906040000 -0500" stop="20220906050000 -0500" channel="RCN Novelas">
     <title lang="es">No olvidaras mi nombre</title>
   </programme>
+  <programme start="20220906050000 -0500" stop="20220906060000 -0500" channel="RCN Novelas">
+    <title lang="es">Doña Bella</title>
+  </programme>
+  <programme start="20220906060000 -0500" stop="20220906070000 -0500" channel="RCN Novelas">
+    <title lang="es">Expedientes</title>
+  </programme>
+  <programme start="20220906070000 -0500" stop="20220906080000 -0500" channel="RCN Novelas">
+    <title lang="es">Francisco, el matemático</title>
+  </programme>
+  <programme start="20220906080000 -0500" stop="20220906090000 -0500" channel="RCN Novelas">
+    <title lang="es">Te quiero Pecas</title>
+  </programme>
+  <programme start="20220906090000 -0500" stop="20220906100000 -0500" channel="RCN Novelas">
+    <title lang="es">Garzón</title>
+  </programme>
+  <programme start="20220906100000 -0500" stop="20220906110000 -0500" channel="RCN Novelas">
+    <title lang="es">No olvidaras mi nombre</title>
+  </programme>
+  <programme start="20220906110000 -0500" stop="20220906120000 -0500" channel="RCN Novelas">
+    <title lang="es">Doña Bella</title>
+  </programme>
+  <programme start="20220906120000 -0500" stop="20220906130000 -0500" channel="RCN Novelas">
+    <title lang="es">Expedientes</title>
+  </programme>
+  <programme start="20220906130000 -0500" stop="20220906140000 -0500" channel="RCN Novelas">
+    <title lang="es">Francisco, el matemático</title>
+  </programme>
+  <programme start="20220906140000 -0500" stop="20220906150000 -0500" channel="RCN Novelas">
+    <title lang="es">Te quiero Pecas</title>
+  </programme>
+  <programme start="20220906150000 -0500" stop="20220906160000 -0500" channel="RCN Novelas">
+    <title lang="es">Garzón</title>
+  </programme>
   <programme start="20220906160000 -0500" stop="20220906170000 -0500" channel="RCN Novelas">
     <title lang="es">No olvidaras mi nombre</title>
   </programme>
-  <programme start="20220905000000 +0000" stop="20220905023000 +0000" channel="Univision">
-    <title lang="en">El Retador (new)</title>
-    <date>2022</date>
-    <premiere />
+  <programme start="20220906170000 -0500" stop="20220906180000 -0500" channel="RCN Novelas">
+    <title lang="es">Doña Bella</title>
   </programme>
-  <programme start="20220905023000 +0000" stop="20220905030000 +0000" channel="Univision">
-    <title lang="en">¿Tú crees? (new)</title>
-    <sub-title lang="en">09-04-2022</sub-title>
-    <date>2022</date>
-    <premiere />
+  <programme start="20220906180000 -0500" stop="20220906190000 -0500" channel="RCN Novelas">
+    <title lang="es">Expedientes</title>
   </programme>
-  <programme start="20220905030000 +0000" stop="20220905033000 +0000" channel="Univision">
-    <title lang="en">Noticias Univisión 41---Fin de Semana (new)</title>
-    <desc lang="en">Noticias locales, deportes y tiempo.(n)</desc>
-    <premiere />
+  <programme start="20220906190000 -0500" stop="20220906200000 -0500" channel="RCN Novelas">
+    <title lang="es">Francisco, el matemático</title>
   </programme>
-  <programme start="20220905033500 +0000" stop="20220905040000 +0000" channel="Univision">
-    <title lang="en">Noticiero Univision - Fin De Semana (live)</title>
-    <sub-title lang="en">04-09-2022</sub-title>
-    <date>1990</date>
+  <programme start="20220906200000 -0500" stop="20220906210000 -0500" channel="RCN Novelas">
+    <title lang="es">Te quiero Pecas</title>
   </programme>
-  <programme start="20220905040000 +0000" stop="20220905050000 +0000" channel="Univision">
-    <title lang="en">La Jugada (live)</title>
-    <sub-title lang="en">09-04-2022</sub-title>
-    <date>2017</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
+  <programme start="20220906210000 -0500" stop="20220906220000 -0500" channel="RCN Novelas">
+    <title lang="es">Garzón</title>
   </programme>
-  <programme start="20220905050000 +0000" stop="20220905053000 +0000" channel="Univision">
-    <title lang="en">Vecinos</title>
-    <date>2005</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
+  <programme start="20220906220000 -0500" stop="20220906230000 -0500" channel="RCN Novelas">
+    <title lang="es">No olvidaras mi nombre</title>
   </programme>
-  <programme start="20220905053000 +0000" stop="20220905060000 +0000" channel="Univision">
-    <title lang="en">Renta Congelada</title>
-    <sub-title lang="en">10-24-2021</sub-title>
-    <date>2017</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
+  <programme start="20220906230000 -0500" stop="20220907000000 -0500" channel="RCN Novelas">
+    <title lang="es">Doña Bella</title>
   </programme>
-  <programme start="20220905060000 +0000" stop="20220905070000 +0000" channel="Univision">
-    <title lang="en">Al Punto con Jorge Ramos</title>
-    <sub-title lang="en">09-04-2022</sub-title>
-    <date>2021</date>
-  </programme>
-  <programme start="20220905070000 +0000" stop="20220905080000 +0000" channel="Univision">
-    <title lang="en">Como dice el dicho</title>
-    <date>2017</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220905080000 +0000" stop="20220905090000 +0000" channel="Univision">
-    <title lang="en">La Rosa de Guadalupe</title>
-    <date>2008</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220905090000 +0000" stop="20220905100000 +0000" channel="Univision">
-    <title lang="en">Noticias Univisión 41---Al Despertar (new)</title>
-    <desc lang="en">Noticias locales, deportes y tiempo.(n)</desc>
-    <premiere />
-  </programme>
-  <programme start="20220905100000 +0000" stop="20220905110000 +0000" channel="Univision">
-    <title lang="en">Noticias Univisión 41---Al Despertar (new)</title>
-    <desc lang="en">Noticias locales, deportes y tiempo.(n)</desc>
-    <premiere />
-  </programme>
-  <programme start="20220905110000 +0000" stop="20220905150000 +0000" channel="Univision">
-    <title lang="en">Despierta América (live)</title>
-    <sub-title lang="en">09-05-2022</sub-title>
-    <date>2022</date>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20220905150000 +0000" stop="20220905160000 +0000" channel="Univision">
-    <title lang="en">Como dice el dicho (new)</title>
-    <date>2011</date>
-    <premiere />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220905160000 +0000" stop="20220905163000 +0000" channel="Univision">
-    <title lang="en">Noticiero Univision - Edicion Digital (live)</title>
-    <sub-title lang="en">09-05-2022</sub-title>
-    <date>2016</date>
-  </programme>
-  <programme start="20220905163000 +0000" stop="20220905170000 +0000" channel="Univision">
-    <title lang="en">Edición Digital Nueva York</title>
-    <desc lang="en">Mantente informado con los últimos acontecimientos, fotos, videos y noticias de Nueva York. Entrevistas, información del clima y todo lo relacionado con el mundo de la tecnología.(n)</desc>
-  </programme>
-  <programme start="20220905170000 +0000" stop="20220905180000 +0000" channel="Univision">
-    <title lang="en">Hoy (new)</title>
-    <sub-title lang="en">09-05-2022</sub-title>
-    <date>2022</date>
-    <premiere />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220905180000 +0000" stop="20220905200000 +0000" channel="Univision">
-    <title lang="en">Contigo sí (new)</title>
-    <sub-title lang="en">09-05-2022</sub-title>
-    <date>2021</date>
-    <premiere />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220905200000 +0000" stop="20220905210000 +0000" channel="Univision">
-    <title lang="en">El Gordo y la Flaca (live)</title>
-    <sub-title lang="en">09-05-2022</sub-title>
-    <date>1981</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220905210000 +0000" stop="20220905220000 +0000" channel="Univision">
-    <title lang="en">Primer Impacto (live)</title>
-    <sub-title lang="en">09-05-2022</sub-title>
-    <date>2022</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220905220000 +0000" stop="20220905223000 +0000" channel="Univision">
-    <title lang="en">Noticias Univisión 41---A las Seis (new)</title>
-    <desc lang="en">Noticias locales, deportes y tiempo.(n)</desc>
-    <premiere />
-  </programme>
-  <programme start="20220905223000 +0000" stop="20220905230000 +0000" channel="Univision">
-    <title lang="en">Noticiero Univision (live)</title>
-    <sub-title lang="en">09-05-2022</sub-title>
-    <date>2022</date>
-  </programme>
-  <programme start="20220905230000 +0000" stop="20220906000000 +0000" channel="Univision">
-    <title lang="en">La Rosa de Guadalupe (new)</title>
-    <date>2008</date>
-    <premiere />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
+  <programme start="20220907100000 -0500" stop="20220907110000 -0500" channel="RCN Novelas">
+    <title lang="es">No olvidaras mi nombre</title>
   </programme>
   <programme start="20220906000000 +0000" stop="20220906010000 +0000" channel="Univision">
     <title lang="en">La Mexicana y el Güero (new)</title>
@@ -1755,151 +1698,163 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220905013000 +0000" stop="20220905030000 +0000" channel="Telemundo">
-    <title lang="en">A Vigilante (new)</title>
-    <desc lang="en">Sadie, una mujer maltratada, se fortalece mental y físicamente a través de la autodefensa y técnicas de combate para convertirse en una despiadada justiciera que ayuda a otras mujeres maltratadas. Su misión es darle muerte a su marido para ser libre.(n)</desc>
-    <date>2018</date>
-    <premiere />
-  </programme>
-  <programme start="20220905030000 +0000" stop="20220905033000 +0000" channel="Telemundo">
-    <title lang="en">Noticias Telemundo fin de semana (new)</title>
-    <desc lang="en">Reportajes y análisis de las noticias más importantes de Estados Unidos, América Latina y el mundo.(n)</desc>
-    <premiere />
-  </programme>
-  <programme start="20220905033000 +0000" stop="20220905040000 +0000" channel="Telemundo">
-    <title lang="en">Zona Mixta (new)</title>
-    <desc lang="en">El deporte y el periodismo se unen todos los fines de semana en la Zona Mixta con las opiniones más controversiales y las entrevistas más relevantes del mundo deportivo.(n)</desc>
-    <premiere />
-  </programme>
-  <programme start="20220905040000 +0000" stop="20220905043000 +0000" channel="Telemundo">
-    <title lang="en">Decisiones</title>
-    <sub-title lang="en">La Tentacion Del Septimo Ano</sub-title>
-    <desc lang="en">Los personajes constituyen una serie de héroes que trabajan, aman, luchan y se equivocan, pero que siempre tienen la oportunidad de salir adelante y también son capaces de perdonar. Impresionantes, conmovedoras y apasionantes historias.(n)</desc>
-    <date>2006</date>
-  </programme>
-  <programme start="20220905043000 +0000" stop="20220905053000 +0000" channel="Telemundo">
-    <title lang="en">El secreto de Selena</title>
-    <sub-title lang="en">Espejismos</sub-title>
-    <desc lang="en">Los testimonios de los empleados del Days Inn y un par de enfermeras presentan una visión de lo ocurrido las últimas horas de vida de Selena, pasando por su desencanto con Yolanda y un misterioso ataque ocurrido en México.(n)</desc>
-    <date>2018</date>
-  </programme>
-  <programme start="20220905053000 +0000" stop="20220905060000 +0000" channel="Telemundo">
-    <title lang="en">Programación pagada</title>
-    <desc lang="en">Programación pagada.(n)</desc>
-  </programme>
-  <programme start="20220905060000 +0000" stop="20220905063000 +0000" channel="Telemundo">
-    <title lang="en">Programación pagada</title>
-    <desc lang="en">Programación pagada.(n)</desc>
-  </programme>
-  <programme start="20220905063000 +0000" stop="20220905070000 +0000" channel="Telemundo">
-    <title lang="en">Programación pagada</title>
-    <desc lang="en">Programación pagada.(n)</desc>
-  </programme>
-  <programme start="20220905070000 +0000" stop="20220905090000 +0000" channel="Telemundo">
-    <title lang="en">American Renegades</title>
-    <desc lang="en">Descubrir un tesoro y devolverlo a su dueño será el plan de unos marines. Luego de encontrar en aguas bosnias un tesoro dorado, un equipo de marines es interceptado por un enemigo, quien buscará impedir a toda costa que cumplan su misión.(n)</desc>
-    <date>2017</date>
-  </programme>
-  <programme start="20220905090000 +0000" stop="20220905093000 +0000" channel="Telemundo">
-    <title lang="en">Programación pagada</title>
-    <desc lang="en">Programación pagada.(n)</desc>
-  </programme>
-  <programme start="20220905093000 +0000" stop="20220905100000 +0000" channel="Telemundo">
-    <title lang="en">Programación pagada</title>
-    <desc lang="en">Programación pagada.(n)</desc>
-  </programme>
-  <programme start="20220905100000 +0000" stop="20220905110000 +0000" channel="Telemundo">
-    <title lang="en">Al rojo vivo</title>
-    <desc lang="en">La revista noticiosa que define la agenda de la televisión en español en los Estados Unidos. Se caracteriza por ofrecer, antes que nadie, historias que cautivan al público hispano y por presentarlas en un formato innovador, que resalta el aspecto humano de cada noticia.(n)</desc>
-  </programme>
-  <programme start="20220905110000 +0000" stop="20220905140000 +0000" channel="Telemundo">
-    <title lang="en">Hoy día (new)</title>
-    <desc lang="en">Inicia tu día con el show de las mañanas que te informa mejor con las noticias más oportunas, equilibradas y relevantes que la comunidad hispana en EE.UU. necesita. Los eventos más importantes de la jornada, el entretenimiento, el pronóstico del tiempo, las recetas de cocina y los consejos para una vida sana.(n)</desc>
-    <premiere />
-  </programme>
-  <programme start="20220905140000 +0000" stop="20220905150000 +0000" channel="Telemundo">
-    <title lang="en">Caso Cerrado</title>
-    <sub-title lang="en">Trampa para deportar</sub-title>
-    <desc lang="en">Steven sale de Colombia huyendo de su familia homofóbica y trae dinero de dudosa procedencia. Por otro lado, Alexa desea morirse porque sufre cáncer de médula y la donante es su mamá.(n)</desc>
-    <date>2001</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220905150000 +0000" stop="20220905153000 +0000" channel="Telemundo">
-    <title lang="en">Caso Cerrado (new)</title>
-    <desc lang="en">Olivia le asegura a la jueza que su padre reencarnó en el hijo de Astri, de nombre Tomás. A pesar de la incredulidad tanto de la doctora como del público presente, ella detalla que el joven sabe cosas que sólo su papá conocía, como cuando halló la caja con medio millón de dólares que estaba escondida.(n)</desc>
-    <date>2016</date>
+  <programme start="20220908000000 +0000" stop="20220908010000 +0000" channel="Univision">
+    <title lang="en">La Mexicana y el Güero (new)</title>
+    <sub-title lang="en">09-07-2022</sub-title>
+    <date>2020</date>
     <premiere />
     <rating system="MPAA">
-      <value>TV-14</value>
+      <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20220905153000 +0000" stop="20220905160000 +0000" channel="Telemundo">
-    <title lang="en">Decisiones</title>
-    <sub-title lang="en">Amor Con Hambre</sub-title>
-    <desc lang="en">Luego de una charla con su padre, Diana, una joven, lidia con su miedo al sexo y se prepara para perder la virginidad con su novio. Más tarde, ella se ve obligada a lidiar con las consecuencias de sus actos, tras haber tenido relaciones sexuales sin protección.(n)</desc>
-    <date>2006</date>
-  </programme>
-  <programme start="20220905160000 +0000" stop="20220905163000 +0000" channel="Telemundo">
-    <title lang="en">Más sabe el Diablo</title>
-    <desc lang="en">Un joven no sale de una vida de equivocaciones y el peor error aún está por venir, enamorarse de la mujer prohibida.(n)</desc>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220905163000 +0000" stop="20220905170000 +0000" channel="Telemundo">
-    <title lang="en">Noticias Telemundo - Mediodía (new)</title>
-    <desc lang="en">Un programa con un estilo único de narrar la noticias, de una manera atractiva y perspicaz. Este noticiero cuenta con la presentación de historias locales y nacionales en vivo, haciendo uso extensivo de elementos gráficos. Además, este noticiero...(n)</desc>
-    <date>2018</date>
-    <premiere />
-  </programme>
-  <programme start="20220905170000 +0000" stop="20220905180000 +0000" channel="Telemundo">
-    <title lang="en">La Reina del Sur</title>
-    <desc lang="en">Una mujer inteligente y sagaz se mete en el mundo de narcos tras la muerte de su amor.(n)</desc>
-    <date>2011</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220905180000 +0000" stop="20220905185800 +0000" channel="Telemundo">
-    <title lang="en">En casa con Telemundo (new)</title>
-    <desc lang="en">Una oferta ligera, de formato accesible, familiar y cálido que incluye entrevistas con grandes estrellas del espectáculo, invitados especiales, buenas noticias y consejos para una vida sana.(n)</desc>
-    <premiere />
-  </programme>
-  <programme start="20220905185800 +0000" stop="20220905195800 +0000" channel="Telemundo">
-    <title lang="en">La mesa caliente (new)</title>
-    <desc lang="en">Un equipo de mujeres audaces y empoderadas, debate sobre los temas más controversiales.(n)</desc>
-    <premiere />
-  </programme>
-  <programme start="20220905195800 +0000" stop="20220905210000 +0000" channel="Telemundo">
-    <title lang="en">Al rojo vivo (new)</title>
-    <desc lang="en">La revista noticiosa que define la agenda de la televisión en español en los Estados Unidos. Se caracteriza por ofrecer, antes que nadie, historias que cautivan al público hispano y por presentarlas en un formato innovador, que resalta el aspecto humano de cada noticia.(n)</desc>
-    <premiere />
-  </programme>
-  <programme start="20220905210000 +0000" stop="20220905220000 +0000" channel="Telemundo">
-    <title lang="en">En casa con Telemundo</title>
-    <desc lang="en">Una oferta ligera, de formato accesible, familiar y cálido que incluye entrevistas con grandes estrellas del espectáculo, invitados especiales, buenas noticias y consejos para una vida sana.(n)</desc>
-  </programme>
-  <programme start="20220905220000 +0000" stop="20220905223000 +0000" channel="Telemundo">
-    <title lang="en">Noticias Telemundo - Mediodía (new)</title>
-    <desc lang="en">Un programa con un estilo único de narrar la noticias, de una manera atractiva y perspicaz. Este noticiero cuenta con la presentación de historias locales y nacionales en vivo, haciendo uso extensivo de elementos gráficos. Además, este noticiero...(n)</desc>
-    <date>2018</date>
-    <premiere />
-  </programme>
-  <programme start="20220905223000 +0000" stop="20220905230000 +0000" channel="Telemundo">
-    <title lang="en">Noticias Telemundo (new)</title>
-    <desc lang="en">Un análisis de las noticias más importantes e impactantes de Estados Unidos, Latinoamérica y el mundo.(n)</desc>
-    <premiere />
-    <rating system="MPAA">
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20220905230000 +0000" stop="20220906010000 +0000" channel="Telemundo">
-    <title lang="en">Top Chef VIP (new)</title>
-    <desc lang="en">Una competencia donde 16 celebridades se enfrentan para ganar el título de Top Chef VIP.(n)</desc>
+  <programme start="20220908010000 +0000" stop="20220908020000 +0000" channel="Univision">
+    <title lang="en">La herencia, un legado de amor (new)</title>
+    <sub-title lang="en">09-07-2022</sub-title>
     <date>2022</date>
     <premiere />
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220908020000 +0000" stop="20220908030000 +0000" channel="Univision">
+    <title lang="en">Los ricos también lloran (new)</title>
+    <sub-title lang="en">09-07-2022</sub-title>
+    <date>2021</date>
+    <premiere />
+  </programme>
+  <programme start="20220908030000 +0000" stop="20220908033500 +0000" channel="Univision">
+    <title lang="en">Noticias Univisión 41---A las Once (new)</title>
+    <desc lang="en">Noticias locales, deportes y tiempo.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20220908033500 +0000" stop="20220908040000 +0000" channel="Univision">
+    <title lang="en">Noticiero Univision - Edicion Nocturna (live)</title>
+    <sub-title lang="en">09-07-2022</sub-title>
+    <date>2022</date>
+  </programme>
+  <programme start="20220908040000 +0000" stop="20220908050000 +0000" channel="Univision">
+    <title lang="en">Contacto Deportivo (live)</title>
+    <sub-title lang="en">09-07-2022</sub-title>
+    <date>2014</date>
+  </programme>
+  <programme start="20220908050000 +0000" stop="20220908060000 +0000" channel="Univision">
+    <title lang="en">Peregrina (new)</title>
+    <sub-title lang="en">09-07-2022</sub-title>
+    <date>2005</date>
+    <premiere />
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220908060000 +0000" stop="20220908070000 +0000" channel="Univision">
+    <title lang="en">La Mexicana y el Güero</title>
+    <sub-title lang="en">09-07-2022</sub-title>
+    <date>2020</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220908070000 +0000" stop="20220908080000 +0000" channel="Univision">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.(n)</desc>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220908080000 +0000" stop="20220908090000 +0000" channel="Univision">
+    <title lang="en">El Gordo y La Flaca</title>
+    <sub-title lang="en">09-07-2022</sub-title>
+    <date>2022</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220908090000 +0000" stop="20220908100000 +0000" channel="Univision">
+    <title lang="en">Noticias Univisión 41---Al Despertar (new)</title>
+    <desc lang="en">Noticias locales, deportes y tiempo.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20220908100000 +0000" stop="20220908110000 +0000" channel="Univision">
+    <title lang="en">Noticias Univisión 41---Al Despertar (new)</title>
+    <desc lang="en">Noticias locales, deportes y tiempo.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20220908110000 +0000" stop="20220908150000 +0000" channel="Univision">
+    <title lang="en">Despierta América (live)</title>
+    <sub-title lang="en">09-08-2022</sub-title>
+    <date>2022</date>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20220908150000 +0000" stop="20220908160000 +0000" channel="Univision">
+    <title lang="en">Como dice el dicho</title>
+    <desc lang="en">Al enterarse de que su papá ha formado otra familia, Brenda se vuelve rebelde y deja de preocuparle la delicada salud de su hermano Richi, por lo que su mamá quisiera que madurara rápido. Ve si Brenda dejará su inmadurez y se preocupará por su familia.(n)</desc>
+    <date>2020</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220908160000 +0000" stop="20220908163000 +0000" channel="Univision">
+    <title lang="en">Noticiero Univision - Edicion Digital (live)</title>
+    <sub-title lang="en">09-08-2022</sub-title>
+    <date>2022</date>
+  </programme>
+  <programme start="20220908163000 +0000" stop="20220908170000 +0000" channel="Univision">
+    <title lang="en">Edición Digital Nueva York</title>
+    <desc lang="en">Mantente informado con los últimos acontecimientos, fotos, videos y noticias de Nueva York. Entrevistas, información del clima y todo lo relacionado con el mundo de la tecnología.(n)</desc>
+  </programme>
+  <programme start="20220908170000 +0000" stop="20220908180000 +0000" channel="Univision">
+    <title lang="en">Hoy (new)</title>
+    <sub-title lang="en">09-08-2022</sub-title>
+    <date>2022</date>
+    <premiere />
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220908180000 +0000" stop="20220908200000 +0000" channel="Univision">
+    <title lang="en">Contigo sí (new)</title>
+    <sub-title lang="en">09-08-2022</sub-title>
+    <date>2021</date>
+    <premiere />
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220908200000 +0000" stop="20220908210000 +0000" channel="Univision">
+    <title lang="en">El Gordo y La Flaca (live)</title>
+    <sub-title lang="en">09-08-2022</sub-title>
+    <date>2022</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220908210000 +0000" stop="20220908220000 +0000" channel="Univision">
+    <title lang="en">Primer Impacto (live)</title>
+    <sub-title lang="en">09-08-2022</sub-title>
+    <date>2022</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220908220000 +0000" stop="20220908223000 +0000" channel="Univision">
+    <title lang="en">Noticias Univisión 41---A las Seis (new)</title>
+    <desc lang="en">Noticias locales, deportes y tiempo.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20220908223000 +0000" stop="20220908230000 +0000" channel="Univision">
+    <title lang="en">Noticiero Univision (live)</title>
+    <sub-title lang="en">09-08-2022</sub-title>
+    <date>2022</date>
+  </programme>
+  <programme start="20220908230000 +0000" stop="20220909000000 +0000" channel="Univision">
+    <title lang="en">La Rosa de Guadalupe (new)</title>
+    <date>2008</date>
+    <premiere />
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
   </programme>
   <programme start="20220906010000 +0000" stop="20220906030000 +0000" channel="Telemundo">
     <title lang="en">Infiel, Historia de un Engaño (new)</title>
@@ -2224,193 +2179,181 @@
     <date>2022</date>
     <premiere />
   </programme>
-  <programme start="20220905190500 +0000" stop="20220905205500 +0000" channel="Clover Channel">
-    <title lang="es">Un fantasma fastidioso</title>
-    <desc lang="es">Bertram Pincus, un dentista antipático, muere durante unos instantes en el transcurso de una intervención médica rutinaria. A partir de ese momento adquiere la habilidad de notar a la gente muerta, por lo ahora es muy solicitado por los fantasmas, que le piden ayuda para contactarse con los vivos.(n)</desc>
-    <credits>
-      <director>David Koepp</director>
-      <actor>Claire Maurier</actor>
-      <actor>Deborah S. Craig</actor>
-      <actor>Jordan Carlos</actor>
-      <actor>Danai Gurira</actor>
-      <actor>Dequina Moore</actor>
-      <actor>Téa Leoni</actor>
-      <actor>Greg Kinnear</actor>
-      <actor>Billy Campbell</actor>
-      <actor>Ricky Gervais</actor>
-    </credits>
-    <category lang="es">Comedia</category>
-    <category lang="es">Drama</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/80/12801047_5A73A6DC43F06994.jpg" />
-    <country lang="es">US</country>
-    <rating system="MJColombia">
-      <value>+14</value>
+  <programme start="20220908010000 +0000" stop="20220908020000 +0000" channel="Telemundo">
+    <title lang="en">El fuego del destino (new)</title>
+    <premiere />
+  </programme>
+  <programme start="20220908020000 +0000" stop="20220908030000 +0000" channel="Telemundo">
+    <title lang="en">Infiel, Historia de un Engaño (new)</title>
+    <desc lang="en">La vida de Asya se desmorona al confirmar que Vólkan vive una relación extramatrimonial.(n)</desc>
+    <date>2020</date>
+    <premiere />
+  </programme>
+  <programme start="20220908030000 +0000" stop="20220908033500 +0000" channel="Telemundo">
+    <title lang="en">Noticias Telemundo</title>
+    <desc lang="en">Un análisis de las noticias más importantes e impactantes de Estados Unidos, Latinoamérica y el mundo.(n)</desc>
+    <rating system="MPAA">
+      <value>TV-Y</value>
     </rating>
   </programme>
-  <programme start="20220905205500 +0000" stop="20220905225500 +0000" channel="Clover Channel">
-    <title lang="es">Las horas</title>
-    <desc lang="es">Cuenta tres historias situadas en lugares y contextos distintos: La escritora Virginia Woolf, en la Inglaterra de los años 20; un ama de casa en la California de 1941; y una lesbiana que ayuda a su amigo, un brillante poeta, con sida en Nueva York de 2000.(n)</desc>
-    <credits>
-      <director>Stephen Daldry</director>
-      <actor>Lyndsey Marshal</actor>
-      <actor>Nicole Kidman</actor>
-      <actor>Meryl Streep</actor>
-      <actor>Stephen Dillane</actor>
-      <actor>Julianne Moore</actor>
-      <actor>John C. Reilly</actor>
-      <actor>Miranda Richardson</actor>
-      <actor>John Reilly</actor>
-    </credits>
-    <category lang="es">Drama</category>
-    <category lang="es">Romance</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/31/12318160_FAB4686498B83D03.jpg" />
-    <country lang="es">US</country>
-    <rating system="MJColombia">
-      <value>+18</value>
+  <programme start="20220908033500 +0000" stop="20220908040000 +0000" channel="Telemundo">
+    <title lang="en">Noticias Telemundo en la Noche (new)</title>
+    <desc lang="en">En veinte minutos conozca la información más relevante de Estados Unidos y el mundo. Julio Vaqueiro le trae todo lo que necesita saber, antes de que termine el día.(n)</desc>
+    <date>2020</date>
+    <premiere />
+    <rating system="MPAA">
+      <value>TV-Y</value>
     </rating>
   </programme>
-  <programme start="20220905225500 +0000" stop="20220906010000 +0000" channel="Clover Channel">
-    <title lang="es">La conversación</title>
-    <desc lang="es">Un detective de reconocido prestigio como especialista en vigilancia y sistemas de seguridad, es contratado por un magnate para investigar a su joven esposa, que mantiene una relación con uno de sus empleados.(n)</desc>
-    <credits>
-      <director>Francis Ford Coppola</director>
-      <actor>Cindy Williams</actor>
-      <actor>Frederic Forrest</actor>
-      <actor>Michael Higgins</actor>
-      <actor>Allen Garfield</actor>
-      <actor>John Cazale</actor>
-      <actor>Gene Hackman</actor>
-      <actor>Harrison Ford</actor>
-    </credits>
-    <category lang="es">Drama</category>
-    <category lang="es">Suspenso</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/41/12416872_38585BDC12188219.jpg" />
-    <country lang="es">US</country>
-    <rating system="MJColombia">
-      <value>+18</value>
+  <programme start="20220908040000 +0000" stop="20220908050000 +0000" channel="Telemundo">
+    <title lang="en">Caso cerrado</title>
+    <sub-title lang="en">Marido Sin Plata/mojadito Es Mas Rico</sub-title>
+    <desc lang="en">Llegan al estrado dos personas que no se tienen mucha simpatía que digamos. Marido y mujer, ella le reclama que nunca tiene un centavo en sus bolsillos. Y que así no puede seguir viviendo. Habrá que poner un poco de orden en la sala para calmar las aguas, que vienen bastante turbulentas.(n)</desc>
+    <date>2021</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220906010000 +0000" stop="20220906031000 +0000" channel="Clover Channel">
-    <title lang="es">El crimen del padre Amaro</title>
-    <desc lang="es">Amaro, un joven de 24 años recién ordenado sacerdote, llega a la parroquia del pequeño pueblo mexicano de Los Reyes para auxiliar en los servicios del templo al padre Benito. Allí, el padre conoce a Amelia, una hermosa joven de 16 años. Sin embargo, poco a poco, Amaro se va dando cuenta de cosas que suceden en el pueblo, relacionadas con los narcos de la región, además surge un sentimiento prohibido.(n)</desc>
-    <credits>
-      <director>Carlos Carrera</director>
-      <actor>Damián Alcázar</actor>
-      <actor>Gael García Bernal</actor>
-      <actor>Ana Claudia Talancón</actor>
-      <actor>Sancho Gracia</actor>
-      <actor>Angélica Aragón</actor>
-    </credits>
-    <category lang="es">Drama</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/74/11742259_B33504E25770760E.jpg" />
-    <country lang="es">MX</country>
-    <rating system="MJColombia">
-      <value>+18</value>
+  <programme start="20220908050000 +0000" stop="20220908060000 +0000" channel="Telemundo">
+    <title lang="en">El Chema</title>
+    <sub-title lang="en">Enemigo en común</sub-title>
+    <desc lang="en">Una mesa redonda define a Ricardo Almenar como el enemigo en común. Imelda enfrenta a El Chema. No quiere entrar a Centroamérica. Se va. Fabrizio detiene a Clark y a Marta por averiguaciones.(n)</desc>
+    <date>2017</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220906031000 +0000" stop="20220906051500 +0000" channel="Clover Channel">
-    <title lang="es">Las horas</title>
-    <desc lang="es">Cuenta tres historias situadas en lugares y contextos distintos: La escritora Virginia Woolf, en la Inglaterra de los años 20; un ama de casa en la California de 1941; y una lesbiana que ayuda a su amigo, un brillante poeta, con sida en Nueva York de 2000.(n)</desc>
-    <credits>
-      <director>Stephen Daldry</director>
-      <actor>Lyndsey Marshal</actor>
-      <actor>Nicole Kidman</actor>
-      <actor>Meryl Streep</actor>
-      <actor>Stephen Dillane</actor>
-      <actor>Julianne Moore</actor>
-      <actor>John C. Reilly</actor>
-      <actor>Miranda Richardson</actor>
-      <actor>John Reilly</actor>
-    </credits>
-    <category lang="es">Drama</category>
-    <category lang="es">Romance</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/31/12318160_FAB4686498B83D03.jpg" />
-    <country lang="es">US</country>
-    <rating system="MJColombia">
-      <value>+18</value>
+  <programme start="20220908060000 +0000" stop="20220908063000 +0000" channel="Telemundo">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en">Programación pagada.(n)</desc>
+  </programme>
+  <programme start="20220908063000 +0000" stop="20220908070000 +0000" channel="Telemundo">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en">Programación pagada.(n)</desc>
+  </programme>
+  <programme start="20220908070000 +0000" stop="20220908073000 +0000" channel="Telemundo">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en">Programación pagada.(n)</desc>
+  </programme>
+  <programme start="20220908073000 +0000" stop="20220908083000 +0000" channel="Telemundo">
+    <title lang="en">12 Corazones</title>
+    <desc lang="en">Cupido quiere que los participantes más maduros también logren encontrar a su pareja ideal.(n)</desc>
+    <date>2010</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20220906051500 +0000" stop="20220906072000 +0000" channel="Clover Channel">
-    <title lang="es">La conversación</title>
-    <desc lang="es">Un detective de reconocido prestigio como especialista en vigilancia y sistemas de seguridad, es contratado por un magnate para investigar a su joven esposa, que mantiene una relación con uno de sus empleados.(n)</desc>
-    <credits>
-      <director>Francis Ford Coppola</director>
-      <actor>Cindy Williams</actor>
-      <actor>Frederic Forrest</actor>
-      <actor>Michael Higgins</actor>
-      <actor>Allen Garfield</actor>
-      <actor>John Cazale</actor>
-      <actor>Gene Hackman</actor>
-      <actor>Harrison Ford</actor>
-    </credits>
-    <category lang="es">Drama</category>
-    <category lang="es">Suspenso</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/41/12416872_38585BDC12188219.jpg" />
-    <country lang="es">US</country>
-    <rating system="MJColombia">
-      <value>+18</value>
+  <programme start="20220908083000 +0000" stop="20220908090000 +0000" channel="Telemundo">
+    <title lang="en">Noticias Telemundo en la Noche</title>
+    <desc lang="en">En veinte minutos conozca la información más relevante de Estados Unidos y el mundo. Julio Vaqueiro le trae todo lo que necesita saber, antes de que termine el día.(n)</desc>
+    <date>2020</date>
+    <rating system="MPAA">
+      <value>TV-Y</value>
     </rating>
   </programme>
-  <programme start="20220906072000 +0000" stop="20220906093000 +0000" channel="Clover Channel">
-    <title lang="es">El crimen del padre Amaro</title>
-    <desc lang="es">Amaro, un joven de 24 años recién ordenado sacerdote, llega a la parroquia del pequeño pueblo mexicano de Los Reyes para auxiliar en los servicios del templo al padre Benito. Allí, el padre conoce a Amelia, una hermosa joven de 16 años. Sin embargo, poco a poco, Amaro se va dando cuenta de cosas que suceden en el pueblo, relacionadas con los narcos de la región, además surge un sentimiento prohibido.(n)</desc>
-    <credits>
-      <director>Carlos Carrera</director>
-      <actor>Damián Alcázar</actor>
-      <actor>Gael García Bernal</actor>
-      <actor>Ana Claudia Talancón</actor>
-      <actor>Sancho Gracia</actor>
-      <actor>Angélica Aragón</actor>
-    </credits>
-    <category lang="es">Drama</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/74/11742259_B33504E25770760E.jpg" />
-    <country lang="es">MX</country>
-    <rating system="MJColombia">
-      <value>+18</value>
+  <programme start="20220908090000 +0000" stop="20220908093000 +0000" channel="Telemundo">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en">Programación pagada.(n)</desc>
+  </programme>
+  <programme start="20220908093000 +0000" stop="20220908100000 +0000" channel="Telemundo">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en">Programación pagada.(n)</desc>
+  </programme>
+  <programme start="20220908100000 +0000" stop="20220908110000 +0000" channel="Telemundo">
+    <title lang="en">Al rojo vivo</title>
+    <desc lang="en">La revista noticiosa que define la agenda de la televisión en español en los Estados Unidos. Se caracteriza por ofrecer, antes que nadie, historias que cautivan al público hispano y por presentarlas en un formato innovador, que resalta el aspecto humano de cada noticia.(n)</desc>
+  </programme>
+  <programme start="20220908110000 +0000" stop="20220908140000 +0000" channel="Telemundo">
+    <title lang="en">Hoy día (new)</title>
+    <desc lang="en">Inicia tu día con el show de las mañanas que te informa mejor con las noticias más oportunas, equilibradas y relevantes que la comunidad hispana en EE.UU. necesita. Los eventos más importantes de la jornada, el entretenimiento, el pronóstico del tiempo, las recetas de cocina y los consejos para una vida sana.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20220908140000 +0000" stop="20220908150000 +0000" channel="Telemundo">
+    <title lang="en">Caso cerrado (new)</title>
+    <sub-title lang="en">Pequeño inocente / Turismo sexual</sub-title>
+    <desc lang="en">Liliana le explica a la jueza que su esposo se prostituye por un buen fin. Asegura que su marido ofrece sexo a cambio de dinero para recaudar los fondos que hace falta para costear el tratamiento del cáncer que padece su mascota. En el siguiente caso, Catalina confiesa que fue víctima de trata de blancas y obligada a prostituirse en México.(n)</desc>
+    <date>2002</date>
+    <premiere />
+    <rating system="MPAA">
+      <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220906093000 +0000" stop="20220906114000 +0000" channel="Clover Channel">
-    <title lang="es">Las horas</title>
-    <desc lang="es">Cuenta tres historias situadas en lugares y contextos distintos: La escritora Virginia Woolf, en la Inglaterra de los años 20; un ama de casa en la California de 1941; y una lesbiana que ayuda a su amigo, un brillante poeta, con sida en Nueva York de 2000.(n)</desc>
-    <credits>
-      <director>Stephen Daldry</director>
-      <actor>Lyndsey Marshal</actor>
-      <actor>Nicole Kidman</actor>
-      <actor>Meryl Streep</actor>
-      <actor>Stephen Dillane</actor>
-      <actor>Julianne Moore</actor>
-      <actor>John C. Reilly</actor>
-      <actor>Miranda Richardson</actor>
-      <actor>John Reilly</actor>
-    </credits>
-    <category lang="es">Drama</category>
-    <category lang="es">Romance</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/31/12318160_FAB4686498B83D03.jpg" />
-    <country lang="es">US</country>
-    <rating system="MJColombia">
-      <value>+18</value>
+  <programme start="20220908150000 +0000" stop="20220908153000 +0000" channel="Telemundo">
+    <title lang="en">Caso Cerrado</title>
+    <sub-title lang="en">Fantasma y demonio</sub-title>
+    <desc lang="en">En el caso que escucha la jueza, Escarlet dice que su novio murió, pero que se le presenta. Y que baja del cielo para hacerle el amor cada noche. Acto seguido, el adolescente Felipe toma la palabra y asegura que a diario tiene horribles pesadillas con su difunta madre.(n)</desc>
+    <date>2013</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220906114000 +0000" stop="20220906134500 +0000" channel="Clover Channel">
-    <title lang="es">La conversación</title>
-    <desc lang="es">Un detective de reconocido prestigio como especialista en vigilancia y sistemas de seguridad, es contratado por un magnate para investigar a su joven esposa, que mantiene una relación con uno de sus empleados.(n)</desc>
-    <credits>
-      <director>Francis Ford Coppola</director>
-      <actor>Cindy Williams</actor>
-      <actor>Frederic Forrest</actor>
-      <actor>Michael Higgins</actor>
-      <actor>Allen Garfield</actor>
-      <actor>John Cazale</actor>
-      <actor>Gene Hackman</actor>
-      <actor>Harrison Ford</actor>
-    </credits>
-    <category lang="es">Drama</category>
-    <category lang="es">Suspenso</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/41/12416872_38585BDC12188219.jpg" />
-    <country lang="es">US</country>
-    <rating system="MJColombia">
-      <value>+18</value>
+  <programme start="20220908153000 +0000" stop="20220908160000 +0000" channel="Telemundo">
+    <title lang="en">Decisiones</title>
+    <desc lang="en">Eva, una cazatalentos, tiene una aventura amorosa y un plan en mente para mejorar su estilo de vida. Miguel, un joven futbolista, lidia con un dilema relacionado con su futuro como deportista. Más tarde, los hechos toman un giro repentino que sorprende a todos.(n)</desc>
+    <date>2006</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
     </rating>
+  </programme>
+  <programme start="20220908160000 +0000" stop="20220908163000 +0000" channel="Telemundo">
+    <title lang="en">Más sabe el Diablo</title>
+    <desc lang="en">Un joven no sale de una vida de equivocaciones y el peor error aún está por venir, enamorarse de la mujer prohibida.(n)</desc>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220908163000 +0000" stop="20220908170000 +0000" channel="Telemundo">
+    <title lang="en">Noticias Telemundo - Mediodía (new)</title>
+    <desc lang="en">Un programa con un estilo único de narrar la noticias, de una manera atractiva y perspicaz. Este noticiero cuenta con la presentación de historias locales y nacionales en vivo, haciendo uso extensivo de elementos gráficos. Además, este noticiero...(n)</desc>
+    <date>2018</date>
+    <premiere />
+  </programme>
+  <programme start="20220908170000 +0000" stop="20220908180000 +0000" channel="Telemundo">
+    <title lang="en">La Reina del Sur</title>
+    <desc lang="en">Una mujer inteligente y sagaz se mete en el mundo de narcos tras la muerte de su amor.(n)</desc>
+    <date>2011</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220908180000 +0000" stop="20220908185800 +0000" channel="Telemundo">
+    <title lang="en">En casa con Telemundo (new)</title>
+    <desc lang="en">Una oferta ligera, de formato accesible, familiar y cálido que incluye entrevistas con grandes estrellas del espectáculo, invitados especiales, buenas noticias y consejos para una vida sana.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20220908185800 +0000" stop="20220908195800 +0000" channel="Telemundo">
+    <title lang="en">La mesa caliente (new)</title>
+    <desc lang="en">Un equipo de mujeres audaces y empoderadas, debate sobre los temas más controversiales.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20220908195800 +0000" stop="20220908210000 +0000" channel="Telemundo">
+    <title lang="en">Al rojo vivo (new)</title>
+    <desc lang="en">La revista noticiosa que define la agenda de la televisión en español en los Estados Unidos. Se caracteriza por ofrecer, antes que nadie, historias que cautivan al público hispano y por presentarlas en un formato innovador, que resalta el aspecto humano de cada noticia.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20220908210000 +0000" stop="20220908220000 +0000" channel="Telemundo">
+    <title lang="en">En casa con Telemundo</title>
+    <desc lang="en">Una oferta ligera, de formato accesible, familiar y cálido que incluye entrevistas con grandes estrellas del espectáculo, invitados especiales, buenas noticias y consejos para una vida sana.(n)</desc>
+  </programme>
+  <programme start="20220908220000 +0000" stop="20220908223000 +0000" channel="Telemundo">
+    <title lang="en">Noticias Telemundo - Mediodía (new)</title>
+    <desc lang="en">Un programa con un estilo único de narrar la noticias, de una manera atractiva y perspicaz. Este noticiero cuenta con la presentación de historias locales y nacionales en vivo, haciendo uso extensivo de elementos gráficos. Además, este noticiero...(n)</desc>
+    <date>2018</date>
+    <premiere />
+  </programme>
+  <programme start="20220908223000 +0000" stop="20220908230000 +0000" channel="Telemundo">
+    <title lang="en">Noticias Telemundo (new)</title>
+    <desc lang="en">Un análisis de las noticias más importantes e impactantes de Estados Unidos, Latinoamérica y el mundo.(n)</desc>
+    <premiere />
+    <rating system="MPAA">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20220908230000 +0000" stop="20220909010000 +0000" channel="Telemundo">
+    <title lang="en">Top Chef VIP (new)</title>
+    <desc lang="en">Una competencia donde 16 celebridades se enfrentan para ganar el título de Top Chef VIP.(n)</desc>
+    <date>2022</date>
+    <premiere />
   </programme>
   <programme start="20220906134500 +0000" stop="20220906152000 +0000" channel="Clover Channel">
     <title lang="es">Scary Movie 3</title>
@@ -2781,6 +2724,1168 @@
     <country lang="es">US</country>
     <rating system="MJColombia">
       <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20220907230000 +0000" stop="20220908010000 +0000" channel="Clover Channel">
+    <title lang="es">Lejos del cielo</title>
+    <desc lang="es">Melodrama que traslada a nuestros tiempos el estilo de Douglas Sirk en los años cincuenta, con Moore y Quaid como esposos: ella, ama de casa, se siente atraída por el jardinero Haysbert, y él, agente de seguros, tiene una opción sexual secreta.(n)</desc>
+    <credits>
+      <director>Todd Haynes</director>
+      <actor>Julianne Moore</actor>
+      <actor>Dennis Quaid</actor>
+      <actor>Dennis Haysbert</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/36/12365503_6CDA773385D63298.jpg" />
+    <country lang="es">US</country>
+    <rating system="MJColombia">
+      <value>+18</value>
+    </rating>
+  </programme>
+  <programme start="20220908010000 +0000" stop="20220908033500 +0000" channel="Clover Channel">
+    <title lang="es">Babel</title>
+    <desc lang="es">Dos jóvenes marroquíes salen en busca del rebaño de cabras de la familia. En medio del desierto, deciden probar el rifle Winchester, sin saber que la bala hiere a una mujer americana con sus hijos en California, quienes están al cuidado de una niñera mexicana.(n)</desc>
+    <credits>
+      <director>Alejandro González Iñárritu</director>
+      <actor>Cate Blanchett</actor>
+      <actor>Brad Pitt</actor>
+      <actor>Gael García Bernal</actor>
+      <actor>Rinko Kikuchi</actor>
+      <actor>Michael Peña</actor>
+      <actor>Adriana Barraza</actor>
+      <actor>Elle Fanning</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/80/12801048_46941892010D0926.jpg" />
+    <country lang="es">US, MA, MX</country>
+    <rating system="MJColombia">
+      <value>+18</value>
+    </rating>
+  </programme>
+  <programme start="20220908033500 +0000" stop="20220908055500 +0000" channel="Clover Channel">
+    <title lang="es">La caza del octubre rojo</title>
+    <desc lang="es">Un submarino nuclear, al mando de un prestigioso general de la Unión Soviética, se interna en el Océano Atlántico con rumbo a los Estados Unidos. La CIA, que ignora si pretende atacarlos o desertar de su país, encarga al agente Jack Ryan que se ponga en contacto con él para saber sus verdaderas intenciones.(n)</desc>
+    <credits>
+      <director>John McTiernan</director>
+      <actor>Fred Dalton Thompson</actor>
+      <actor>Jeffrey Jones</actor>
+      <actor>Joss Ackland</actor>
+      <actor>Larry Ferguson</actor>
+      <actor>Richard Jordan</actor>
+      <actor>Timothy Carhart</actor>
+      <actor>Alec Baldwin</actor>
+      <actor>Scott Glenn</actor>
+      <actor>Sam Neill</actor>
+      <actor>Sean Connery</actor>
+    </credits>
+    <category lang="es">Acción</category>
+    <category lang="es">Suspenso</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/38/12383675_C56AA510483192AB.jpg" />
+    <country lang="es">US</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20220908055500 +0000" stop="20220908075500 +0000" channel="Clover Channel">
+    <title lang="es">Lejos del cielo</title>
+    <desc lang="es">Melodrama que traslada a nuestros tiempos el estilo de Douglas Sirk en los años cincuenta, con Moore y Quaid como esposos: ella, ama de casa, se siente atraída por el jardinero Haysbert, y él, agente de seguros, tiene una opción sexual secreta.(n)</desc>
+    <credits>
+      <director>Todd Haynes</director>
+      <actor>Julianne Moore</actor>
+      <actor>Dennis Quaid</actor>
+      <actor>Dennis Haysbert</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/36/12365503_6CDA773385D63298.jpg" />
+    <country lang="es">US</country>
+    <rating system="MJColombia">
+      <value>+18</value>
+    </rating>
+  </programme>
+  <programme start="20220908075500 +0000" stop="20220908102500 +0000" channel="Clover Channel">
+    <title lang="es">Babel</title>
+    <desc lang="es">Dos jóvenes marroquíes salen en busca del rebaño de cabras de la familia. En medio del desierto, deciden probar el rifle Winchester, sin saber que la bala hiere a una mujer americana con sus hijos en California, quienes están al cuidado de una niñera mexicana.(n)</desc>
+    <credits>
+      <director>Alejandro González Iñárritu</director>
+      <actor>Cate Blanchett</actor>
+      <actor>Brad Pitt</actor>
+      <actor>Gael García Bernal</actor>
+      <actor>Rinko Kikuchi</actor>
+      <actor>Michael Peña</actor>
+      <actor>Adriana Barraza</actor>
+      <actor>Elle Fanning</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/80/12801048_46941892010D0926.jpg" />
+    <country lang="es">US, MA, MX</country>
+    <rating system="MJColombia">
+      <value>+18</value>
+    </rating>
+  </programme>
+  <programme start="20220908102500 +0000" stop="20220908122500 +0000" channel="Clover Channel">
+    <title lang="es">La vida es bella</title>
+    <desc lang="es">Guido, un alegre librero, es aprisionado por los nazis y llevado a un campo de concentración junto a su pequeño hijo. Sin embargo, en este lugar debe hacer todo lo posible para hacerle creer al niño de que se trata de un concurso donde recibirán un gran premio.(n)</desc>
+    <credits>
+      <director>Roberto Benigni</director>
+      <actor>Horst Buchholz</actor>
+      <actor>Marisa Paredes</actor>
+      <actor>Sergio Bini Bustric</actor>
+      <actor>Roberto Benigni</actor>
+      <actor>Nicoletta Braschi</actor>
+      <actor>Giorgio Cantarini</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/00/12005767_3965D76A9F5AC7D2.jpg" />
+    <country lang="es">IT</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20220908122500 +0000" stop="20220908144500 +0000" channel="Clover Channel">
+    <title lang="es">La caza del octubre rojo</title>
+    <desc lang="es">Un submarino nuclear, al mando de un prestigioso general de la Unión Soviética, se interna en el Océano Atlántico con rumbo a los Estados Unidos. La CIA, que ignora si pretende atacarlos o desertar de su país, encarga al agente Jack Ryan que se ponga en contacto con él para saber sus verdaderas intenciones.(n)</desc>
+    <credits>
+      <director>John McTiernan</director>
+      <actor>Fred Dalton Thompson</actor>
+      <actor>Jeffrey Jones</actor>
+      <actor>Joss Ackland</actor>
+      <actor>Larry Ferguson</actor>
+      <actor>Richard Jordan</actor>
+      <actor>Timothy Carhart</actor>
+      <actor>Alec Baldwin</actor>
+      <actor>Scott Glenn</actor>
+      <actor>Sam Neill</actor>
+      <actor>Sean Connery</actor>
+    </credits>
+    <category lang="es">Acción</category>
+    <category lang="es">Suspenso</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/38/12383675_C56AA510483192AB.jpg" />
+    <country lang="es">US</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20220908144500 +0000" stop="20220908172000 +0000" channel="Clover Channel">
+    <title lang="es">Babel</title>
+    <desc lang="es">Dos jóvenes marroquíes salen en busca del rebaño de cabras de la familia. En medio del desierto, deciden probar el rifle Winchester, sin saber que la bala hiere a una mujer americana con sus hijos en California, quienes están al cuidado de una niñera mexicana.(n)</desc>
+    <credits>
+      <director>Alejandro González Iñárritu</director>
+      <actor>Cate Blanchett</actor>
+      <actor>Brad Pitt</actor>
+      <actor>Gael García Bernal</actor>
+      <actor>Rinko Kikuchi</actor>
+      <actor>Michael Peña</actor>
+      <actor>Adriana Barraza</actor>
+      <actor>Elle Fanning</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/80/12801048_46941892010D0926.jpg" />
+    <country lang="es">US, MA, MX</country>
+    <rating system="MJColombia">
+      <value>+18</value>
+    </rating>
+  </programme>
+  <programme start="20220908172000 +0000" stop="20220908192000 +0000" channel="Clover Channel">
+    <title lang="es">Lejos del cielo</title>
+    <desc lang="es">Melodrama que traslada a nuestros tiempos el estilo de Douglas Sirk en los años cincuenta, con Moore y Quaid como esposos: ella, ama de casa, se siente atraída por el jardinero Haysbert, y él, agente de seguros, tiene una opción sexual secreta.(n)</desc>
+    <credits>
+      <director>Todd Haynes</director>
+      <actor>Julianne Moore</actor>
+      <actor>Dennis Quaid</actor>
+      <actor>Dennis Haysbert</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/36/12365503_6CDA773385D63298.jpg" />
+    <country lang="es">US</country>
+    <rating system="MJColombia">
+      <value>+18</value>
+    </rating>
+  </programme>
+  <programme start="20220908192000 +0000" stop="20220908212000 +0000" channel="Clover Channel">
+    <title lang="es">La estafa maestra</title>
+    <desc lang="es">Una banda de ladrones se propone llevar a cabo un robo en Venecia planificado a la perfección por un veterano criminal, pero la traición de uno de sus miembros los deja con las manos vacías y con ganas de venganza. Ahora se vuelven a juntar para recuperar lo que es suyo.(n)</desc>
+    <credits>
+      <director>F. Gary Gray</director>
+      <actor>Mary Portser</actor>
+      <actor>Melanie Jayne</actor>
+      <actor>Edward Norton</actor>
+      <actor>Mark Wahlberg</actor>
+      <actor>Donald Sutherland</actor>
+      <actor>Jason Statham</actor>
+      <actor>Charlize Theron</actor>
+      <actor>Mos Def</actor>
+      <actor>Seth Green</actor>
+      <actor>Franky G</actor>
+    </credits>
+    <category lang="es">Acción</category>
+    <category lang="es">Suspenso</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/36/12365505_A1DB2AC49D514750.jpg" />
+    <country lang="es">US</country>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220908212000 +0000" stop="20220908231000 +0000" channel="Clover Channel">
+    <title lang="es">Familia rodante</title>
+    <desc lang="es">Cuenta la historia de una familia dirigida por una abuela de 84 años, la cual tiene como misión llevar a todos los parientes a una boda en la provincia de Misiones.(n)</desc>
+    <credits>
+      <director>Pablo Trapero</director>
+      <actor>Graciana Chironi</actor>
+      <actor>Ludmila Stancer</actor>
+      <actor>Adelina Bielopolsky</actor>
+      <actor>Demófila Sáez</actor>
+      <actor>Josefina Santín</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/80/12801135_210A2FE9FB66BD02.jpg" />
+    <country lang="es">AR</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20220906134500 +0000" stop="20220906143500 +0000" channel="Love Nature">
+    <title lang="es">Mundo acuático de África</title>
+    <sub-title lang="es">Urban Penguins</sub-title>
+    <desc lang="es">Una colonia inusual de pingüinos africanos ha aprendido a vivir con sus vecinos humanos en el extremo suroeste de África, pero su tenacidad se prueba en campos de golf, carreteras, mascotas y un mar de humanos que los ven como una atracción turística.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777772_F4D88FB247AD1B17.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220906143500 +0000" stop="20220906153000 +0000" channel="Love Nature">
+    <title lang="es">Mundo acuático de África</title>
+    <sub-title lang="es">Precious Waters</sub-title>
+    <desc lang="es">La vida en las sabanas de África está regida por el agua, y durante la larga estación seca, cuando los ríos que dan vida se secan, la competencia por el espacio en los pozos de agua es feroz. A veces, la falta de agua hace extraños compañeros de cama.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777772_F4D88FB247AD1B17.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220906153000 +0000" stop="20220906162500 +0000" channel="Love Nature">
+    <title lang="es">Dentro de lo salvaje: India</title>
+    <sub-title lang="es">La tierra del rinoceronte secreto</sub-title>
+    <desc lang="es">Los pastizales del noreste de la India son uno de los hábitats más fértiles de la Tierra, lo que permite que sobreviva el raro rinoceronte mayor de un solo cuerno. Sigue al bebé rinoceronte Rajah y su madre mientras ella le muestra lo que se necesita para prosperar en este paraíso dramático.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777769_61E7DAC0FE06A570.jpg" />
+    <country lang="es">GB</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220906162500 +0000" stop="20220906171500 +0000" channel="Love Nature">
+    <title lang="es">Perros con trabajos extraordinarios</title>
+    <sub-title lang="es">The Lifesavers</sub-title>
+    <desc lang="es">Conoce a un border collie que protege a los aviones de los ataques letales de aves, un perro de caza sprocker cuyo sentido del olfato está salvando ratones de agua en peligro de extinción y un pastor de Anatolia que ayuda a conservar al felino más amenazado de África, el guepardo.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Educativo</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777771_B9C5E51DC471C6E1.jpg" />
+    <country lang="es">GB</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220906171500 +0000" stop="20220906180500 +0000" channel="Love Nature">
+    <title lang="es">Rescate en el Pacífico salvaje</title>
+    <sub-title lang="es">Battle to Save a Sea Lion</sub-title>
+    <desc lang="es">Lucha contra el viento y las olas para encontrar un león marino atrapado en un anillo de plástico. Luego visite el centro de rescate, donde más de 80 focas huérfanas deben ser alimentadas varias veces al día para prepararse para su liberación en la naturaleza, y vea cómo un pato amazónico recibe una operación milagrosa.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/76/11769209_D2F44B12AFA6DB0E.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220906180500 +0000" stop="20220906190000 +0000" channel="Love Nature">
+    <title lang="es">Isla de los monos</title>
+    <sub-title lang="es">Leaving Home</sub-title>
+    <desc lang="es">Un macaco toque adolescente ha llevado una vida idílica en los antiguos templos de Sri Lanka que su tropa llama hogar. Pero a medida que se acerca la edad adulta, pronto tendrá que abandonar la seguridad de las ruinas y encontrar una nueva tropa. Únete a su viaje a un nuevo mundo desalentador.(n)</desc>
+    <credits>
+      <director>Hannah Hoare</director>
+    </credits>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Educativo</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777764_CBB3C165CDFB37E2.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220906190000 +0000" stop="20220906195000 +0000" channel="Love Nature">
+    <title lang="es">Isla de los monos</title>
+    <sub-title lang="es">Trouble in Paradise</sub-title>
+    <desc lang="es">Las tensiones aumentan cuando la sequía se apodera de un antiguo templo de Sri Lanka compartido por langures grises con mechones, macacos de toque y monos de hojas de cara púrpura. Sea testigo del drama mientras los primates de menor rango luchan por mantenerse hidratados en medio de un complot amotinado.(n)</desc>
+    <credits>
+      <director>Hannah Hoare</director>
+    </credits>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Educativo</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777764_CBB3C165CDFB37E2.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220906195000 +0000" stop="20220906201000 +0000" channel="Love Nature">
+    <title lang="es">Ataque y defensa</title>
+    <sub-title lang="es">African Apex Predators</sub-title>
+    <desc lang="es">Con estrategias que van desde el tamaño y la velocidad temibles hasta el trabajo en equipo sofisticado y la fuerza para romper huesos, los depredadores más adaptados del mundo han desarrollado formas formidables de sobrevivir y prosperar en las duras sabanas africanas.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777773_9CD7F38F7ECA0C53.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220906201000 +0000" stop="20220906204000 +0000" channel="Love Nature">
+    <title lang="es">Ataque y defensa</title>
+    <sub-title lang="es">Sky Hunters</sub-title>
+    <desc lang="es">La vista aguda, las garras afiladas como cuchillas y otras adaptaciones ayudan a las aves rapaces como el halcón peregrino, el halcón de cola roja y el águila calva a cazar desde arriba. Vuela junto a estas magníficas aves rapaces para ver el mundo desde los extraordinarios ojos de un depredador aéreo.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777773_9CD7F38F7ECA0C53.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220906204000 +0000" stop="20220906210000 +0000" channel="Love Nature">
+    <title lang="es">Ataque y defensa</title>
+    <sub-title lang="es">Insect Eaters</sub-title>
+    <desc lang="es">Los insectos ofrecen una fuente de alimento prácticamente ilimitada para los astutos depredadores que han desarrollado formas de cazarlos. Descubra las habilidades altamente desarrolladas de las libélulas, los escorpiones, las trampas para moscas de Venus y las mantis religiosas.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777773_9CD7F38F7ECA0C53.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220906210000 +0000" stop="20220906213500 +0000" channel="Love Nature">
+    <title lang="es">Ataque y defensa</title>
+    <sub-title lang="es">Cold-Blooded Killers</sub-title>
+    <desc lang="es">La caza es un medio de supervivencia para todos los depredadores. Pero algunas máquinas de matar altamente especializadas, como la tarántula sigilosa y el dragón prehistórico de Komodo, han desarrollado adaptaciones mortales que los hacen francamente terroríficos.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777773_9CD7F38F7ECA0C53.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220906213500 +0000" stop="20220906222500 +0000" channel="Love Nature">
+    <title lang="es">Dentro de lo salvaje: India</title>
+    <sub-title lang="es">La tierra del rinoceronte secreto</sub-title>
+    <desc lang="es">Los pastizales del noreste de la India son uno de los hábitats más fértiles de la Tierra, lo que permite que sobreviva el raro rinoceronte mayor de un solo cuerno. Sigue al bebé rinoceronte Rajah y su madre mientras ella le muestra lo que se necesita para prosperar en este paraíso dramático.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777769_61E7DAC0FE06A570.jpg" />
+    <country lang="es">GB</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220906222500 +0000" stop="20220906231500 +0000" channel="Love Nature">
+    <title lang="es">Perros con trabajos extraordinarios</title>
+    <sub-title lang="es">The Lifesavers</sub-title>
+    <desc lang="es">Conoce a un border collie que protege a los aviones de los ataques letales de aves, un perro de caza sprocker cuyo sentido del olfato está salvando ratones de agua en peligro de extinción y un pastor de Anatolia que ayuda a conservar al felino más amenazado de África, el guepardo.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Educativo</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777771_B9C5E51DC471C6E1.jpg" />
+    <country lang="es">GB</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220906231500 +0000" stop="20220907000500 +0000" channel="Love Nature">
+    <title lang="es">Rescate en el Pacífico salvaje</title>
+    <sub-title lang="es">Battle to Save a Sea Lion</sub-title>
+    <desc lang="es">Lucha contra el viento y las olas para encontrar un león marino atrapado en un anillo de plástico. Luego visite el centro de rescate, donde más de 80 focas huérfanas deben ser alimentadas varias veces al día para prepararse para su liberación en la naturaleza, y vea cómo un pato amazónico recibe una operación milagrosa.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/76/11769209_D2F44B12AFA6DB0E.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220907000500 +0000" stop="20220907010000 +0000" channel="Love Nature">
+    <title lang="es">Mundo acuático de África</title>
+    <sub-title lang="es">Tidal Forest of Africa</sub-title>
+    <desc lang="es">Siga un día en la vida de los residentes de un bosque de manglar del sur de África, conociendo cangrejos de mangle de garras rojas, monos verdes que ocupan el dosel y cangrejos de barro y cangrejos violinistas que gobiernan las marismas.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777772_F4D88FB247AD1B17.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220907010000 +0000" stop="20220907015500 +0000" channel="Love Nature">
+    <title lang="es">Mundo acuático de África</title>
+    <sub-title lang="es">Lifeblood of the Kalahari</sub-title>
+    <desc lang="es">Declarado sitio RAMSAR y considerado una de las áreas silvestres más famosas del mundo, el Delta del Okavango de África alberga una gran variedad de vida silvestre africana, desde las cinco grandes especies de megafauna hasta más de 400 aves y 70 especies de peces raros.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777772_F4D88FB247AD1B17.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220907015500 +0000" stop="20220907024500 +0000" channel="Love Nature">
+    <title lang="es">Mundo acuático de África</title>
+    <sub-title lang="es">Urban Penguins</sub-title>
+    <desc lang="es">Una colonia inusual de pingüinos africanos ha aprendido a vivir con sus vecinos humanos en el extremo suroeste de África, pero su tenacidad se prueba en campos de golf, carreteras, mascotas y un mar de humanos que los ven como una atracción turística.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777772_F4D88FB247AD1B17.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220907024500 +0000" stop="20220907034000 +0000" channel="Love Nature">
+    <title lang="es">Mundo acuático de África</title>
+    <sub-title lang="es">Precious Waters</sub-title>
+    <desc lang="es">La vida en las sabanas de África está regida por el agua, y durante la larga estación seca, cuando los ríos que dan vida se secan, la competencia por el espacio en los pozos de agua es feroz. A veces, la falta de agua hace extraños compañeros de cama.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777772_F4D88FB247AD1B17.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220907034000 +0000" stop="20220907043000 +0000" channel="Love Nature">
+    <title lang="es">Dentro de lo salvaje: India</title>
+    <sub-title lang="es">La tierra del rinoceronte secreto</sub-title>
+    <desc lang="es">Los pastizales del noreste de la India son uno de los hábitats más fértiles de la Tierra, lo que permite que sobreviva el raro rinoceronte mayor de un solo cuerno. Sigue al bebé rinoceronte Rajah y su madre mientras ella le muestra lo que se necesita para prosperar en este paraíso dramático.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777769_61E7DAC0FE06A570.jpg" />
+    <country lang="es">GB</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220907043000 +0000" stop="20220907052500 +0000" channel="Love Nature">
+    <title lang="es">Perros con trabajos extraordinarios</title>
+    <sub-title lang="es">The Lifesavers</sub-title>
+    <desc lang="es">Conoce a un border collie que protege a los aviones de los ataques letales de aves, un perro de caza sprocker cuyo sentido del olfato está salvando ratones de agua en peligro de extinción y un pastor de Anatolia que ayuda a conservar al felino más amenazado de África, el guepardo.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Educativo</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777771_B9C5E51DC471C6E1.jpg" />
+    <country lang="es">GB</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220907052500 +0000" stop="20220907061500 +0000" channel="Love Nature">
+    <title lang="es">Isla de los monos</title>
+    <sub-title lang="es">Leaving Home</sub-title>
+    <desc lang="es">Un macaco toque adolescente ha llevado una vida idílica en los antiguos templos de Sri Lanka que su tropa llama hogar. Pero a medida que se acerca la edad adulta, pronto tendrá que abandonar la seguridad de las ruinas y encontrar una nueva tropa. Únete a su viaje a un nuevo mundo desalentador.(n)</desc>
+    <credits>
+      <director>Hannah Hoare</director>
+    </credits>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Educativo</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777764_CBB3C165CDFB37E2.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220907061500 +0000" stop="20220907071000 +0000" channel="Love Nature">
+    <title lang="es">Isla de los monos</title>
+    <sub-title lang="es">Trouble in Paradise</sub-title>
+    <desc lang="es">Las tensiones aumentan cuando la sequía se apodera de un antiguo templo de Sri Lanka compartido por langures grises con mechones, macacos de toque y monos de hojas de cara púrpura. Sea testigo del drama mientras los primates de menor rango luchan por mantenerse hidratados en medio de un complot amotinado.(n)</desc>
+    <credits>
+      <director>Hannah Hoare</director>
+    </credits>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Educativo</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777764_CBB3C165CDFB37E2.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220907071000 +0000" stop="20220907073000 +0000" channel="Love Nature">
+    <title lang="es">Ataque y defensa</title>
+    <sub-title lang="es">African Apex Predators</sub-title>
+    <desc lang="es">Con estrategias que van desde el tamaño y la velocidad temibles hasta el trabajo en equipo sofisticado y la fuerza para romper huesos, los depredadores más adaptados del mundo han desarrollado formas formidables de sobrevivir y prosperar en las duras sabanas africanas.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777773_9CD7F38F7ECA0C53.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220907073000 +0000" stop="20220907080000 +0000" channel="Love Nature">
+    <title lang="es">Ataque y defensa</title>
+    <sub-title lang="es">Sky Hunters</sub-title>
+    <desc lang="es">La vista aguda, las garras afiladas como cuchillas y otras adaptaciones ayudan a las aves rapaces como el halcón peregrino, el halcón de cola roja y el águila calva a cazar desde arriba. Vuela junto a estas magníficas aves rapaces para ver el mundo desde los extraordinarios ojos de un depredador aéreo.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777773_9CD7F38F7ECA0C53.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220907080000 +0000" stop="20220907082000 +0000" channel="Love Nature">
+    <title lang="es">Ataque y defensa</title>
+    <sub-title lang="es">Insect Eaters</sub-title>
+    <desc lang="es">Los insectos ofrecen una fuente de alimento prácticamente ilimitada para los astutos depredadores que han desarrollado formas de cazarlos. Descubra las habilidades altamente desarrolladas de las libélulas, los escorpiones, las trampas para moscas de Venus y las mantis religiosas.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777773_9CD7F38F7ECA0C53.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220907082000 +0000" stop="20220907085500 +0000" channel="Love Nature">
+    <title lang="es">Ataque y defensa</title>
+    <sub-title lang="es">Cold-Blooded Killers</sub-title>
+    <desc lang="es">La caza es un medio de supervivencia para todos los depredadores. Pero algunas máquinas de matar altamente especializadas, como la tarántula sigilosa y el dragón prehistórico de Komodo, han desarrollado adaptaciones mortales que los hacen francamente terroríficos.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777773_9CD7F38F7ECA0C53.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220907085500 +0000" stop="20220907092500 +0000" channel="Love Nature">
+    <title lang="es">Criaturas extrañas</title>
+    <sub-title lang="es">Rastreadores espeluznantes</sub-title>
+    <desc lang="es">Sea testigo de las pequeñas criaturas que nos hacen retorcernos mientras esconden admirables habilidades de supervivencia. Desde hacerse el muerto, quitarse la cola o poder levantar objetos 30 veces su peso, estos insectos conquistan el mundo.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777770_7BC17292DBE0FDD8.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220907092500 +0000" stop="20220907101500 +0000" channel="Love Nature">
+    <title lang="es">Rescate en el Pacífico salvaje</title>
+    <sub-title lang="es">Battle to Save a Sea Lion</sub-title>
+    <desc lang="es">Lucha contra el viento y las olas para encontrar un león marino atrapado en un anillo de plástico. Luego visite el centro de rescate, donde más de 80 focas huérfanas deben ser alimentadas varias veces al día para prepararse para su liberación en la naturaleza, y vea cómo un pato amazónico recibe una operación milagrosa.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/76/11769209_D2F44B12AFA6DB0E.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220907101500 +0000" stop="20220907110500 +0000" channel="Love Nature">
+    <title lang="es">Dentro de lo salvaje: India</title>
+    <sub-title lang="es">La tierra del rinoceronte secreto</sub-title>
+    <desc lang="es">Los pastizales del noreste de la India son uno de los hábitats más fértiles de la Tierra, lo que permite que sobreviva el raro rinoceronte mayor de un solo cuerno. Sigue al bebé rinoceronte Rajah y su madre mientras ella le muestra lo que se necesita para prosperar en este paraíso dramático.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777769_61E7DAC0FE06A570.jpg" />
+    <country lang="es">GB</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220907110500 +0000" stop="20220907120000 +0000" channel="Love Nature">
+    <title lang="es">Perros con trabajos extraordinarios</title>
+    <sub-title lang="es">The Lifesavers</sub-title>
+    <desc lang="es">Conoce a un border collie que protege a los aviones de los ataques letales de aves, un perro de caza sprocker cuyo sentido del olfato está salvando ratones de agua en peligro de extinción y un pastor de Anatolia que ayuda a conservar al felino más amenazado de África, el guepardo.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Educativo</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777771_B9C5E51DC471C6E1.jpg" />
+    <country lang="es">GB</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220907120000 +0000" stop="20220907125500 +0000" channel="Love Nature">
+    <title lang="es">Islas secretas de Australia</title>
+    <sub-title lang="es">Lady Elliot Island</sub-title>
+    <desc lang="es">La joya de la corona de la Gran Barrera de Coral, Lady Elliot Island es una meca para la vida submarina, repleta de coloridos corales, manta rayas, tortugas marinas y ballenas jorobadas para formar una vertiginosa variedad de biodiversidad sin igual.(n)</desc>
+    <credits>
+      <actor>Edwina Wren</actor>
+    </credits>
+    <category lang="es">Documental</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777774_2960499C6E664623.jpg" />
+    <country lang="es">CA</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220907125500 +0000" stop="20220907134500 +0000" channel="Love Nature">
+    <title lang="es">Islas secretas de Australia</title>
+    <sub-title lang="es">Kangaroo Island</sub-title>
+    <desc lang="es">Lanzado a la deriva y solo en el Océano Austral rico en nutrientes, cortado por mares salvajes y vientos brutales, se encuentra una fortaleza isla encantada donde algunas de las especies de fauna continental de Australia han llegado a la última posición.(n)</desc>
+    <credits>
+      <actor>Edwina Wren</actor>
+    </credits>
+    <category lang="es">Documental</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777774_2960499C6E664623.jpg" />
+    <country lang="es">CA</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220907134500 +0000" stop="20220907143500 +0000" channel="Love Nature">
+    <title lang="es">Islas secretas de Australia</title>
+    <sub-title lang="es">Christmas Island</sub-title>
+    <desc lang="es">Una mota de una isla en el Océano Índico es un pequeño refugio para plantas y criaturas que no se encuentran en ningún otro lugar del mundo. Las aves gobiernan sus cielos, los tiburones ballena patrullan sus mares, y un cangrejo endémico se embarca en una traicionera migración para reproducirse.(n)</desc>
+    <credits>
+      <actor>Edwina Wren</actor>
+    </credits>
+    <category lang="es">Documental</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777774_2960499C6E664623.jpg" />
+    <country lang="es">CA</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220907143500 +0000" stop="20220907153000 +0000" channel="Love Nature">
+    <title lang="es">Islas secretas de Australia</title>
+    <sub-title lang="es">Fraser Island</sub-title>
+    <desc lang="es">Construido sobre arenas movedizas que soportan un refugio improbable para plantas y vida silvestre, este mosaico de hábitats curiosos de islas en constante evolución se ha ganado el estatus de Patrimonio Mundial por su notable historia geológica.(n)</desc>
+    <credits>
+      <actor>Edwina Wren</actor>
+    </credits>
+    <category lang="es">Documental</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777774_2960499C6E664623.jpg" />
+    <country lang="es">CA</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220907153000 +0000" stop="20220907162500 +0000" channel="Love Nature">
+    <title lang="es">Dentro de lo salvaje: India</title>
+    <sub-title lang="es">Los sementales salvajes del Himalaya</sub-title>
+    <desc lang="es">La meseta de Ladakh es una tierra de extremos, pero el asno salvaje tibetano es el rey de esta pradera. ¡Sigue a un semental mientras sombrea una manada de hembras para tener la oportunidad de engendrar a la próxima generación, pero al hacerlo, debe luchar contra aquellos que quieren su corona.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777769_61E7DAC0FE06A570.jpg" />
+    <country lang="es">GB</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220907162500 +0000" stop="20220907171500 +0000" channel="Love Nature">
+    <title lang="es">Perros con trabajos extraordinarios</title>
+    <sub-title lang="es">The Partners</sub-title>
+    <desc lang="es">Conozca a un golden retriever que alivia la ansiedad y ayuda a curar el trastorno de estrés postraumático, una mezcla de pastores que rescata a los sobrevivientes de deslizamientos de tierra, un par de spaniels que huelen las fugas de agua subterráneas y un grupo de mascotas de maestros en el Reino Unido que ayudan a los niños a aprender a leer.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Educativo</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777771_B9C5E51DC471C6E1.jpg" />
+    <country lang="es">GB</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220907171500 +0000" stop="20220907180500 +0000" channel="Love Nature">
+    <title lang="es">Rescate en el Pacífico salvaje</title>
+    <sub-title lang="es">One Very Lost Sea Turtle</sub-title>
+    <desc lang="es">Siga al equipo en la curación y liberación de una tortuga marina gruñona, y luego conozca a un león marino con una lesión inusual que debe ser llevado en grúa al centro de rescate. Descubra cómo el veterinario ayuda a un murciélago frugívoro envejecido y cómo una comunidad rescata a un cachorro de foca tuerto.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/76/11769209_D2F44B12AFA6DB0E.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220907180500 +0000" stop="20220907190000 +0000" channel="Love Nature">
+    <title lang="es">África extrema</title>
+    <sub-title lang="es">Dragon Mountain: Surviving the Summit</sub-title>
+    <desc lang="es">A cada paso, el poderoso Drakensberg revela nuevas especies que exhiben atributos que les permiten soportar su duro hogar en la montaña. Conoce al observador del sol, el intrigante lagarto suicida, el icónico quebrantahuesos y las aves rapaces viajeras.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/76/11769060_297C6FA26542E620.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220907190000 +0000" stop="20220907195000 +0000" channel="Love Nature">
+    <title lang="es">África extrema</title>
+    <sub-title lang="es">Lake Manyara National Park</sub-title>
+    <desc lang="es">El Parque Nacional del Lago Manyara de Tanzania cuenta con varios hábitats diversos. Desde sabanas boscosas hasta pantanos cubiertos de hierba, visite una región que es una parte del ecosistema del este de África y otorga una gran cantidad de recursos.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/76/11769060_297C6FA26542E620.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220907195000 +0000" stop="20220907204000 +0000" channel="Love Nature">
+    <title lang="es">África extrema</title>
+    <sub-title lang="es">The Simien Mountains</sub-title>
+    <desc lang="es">Conocido como 'el techo de África', las montañas Simien albergan las criaturas más raras del continente. Viaje entre acantilados y exuberante vegetación para descubrir la vida silvestre nativa como la Cabra montés Walia, el Lobo Simien y las Geladas.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/76/11769060_297C6FA26542E620.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220907204000 +0000" stop="20220907213500 +0000" channel="Love Nature">
+    <title lang="es">África extrema</title>
+    <sub-title lang="es">The Southern Drylands</sub-title>
+    <desc lang="es">Aventúrese en el corazón de Namibia, donde partes del paisaje reciben menos de una pulgada de lluvia cada año. Encuentra criaturas increíblemente resistentes, desde los mamíferos más grandes hasta los insectos más rápidos y un pez fantasma.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/76/11769060_297C6FA26542E620.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220907213500 +0000" stop="20220907222500 +0000" channel="Love Nature">
+    <title lang="es">Dentro de lo salvaje: India</title>
+    <sub-title lang="es">Los sementales salvajes del Himalaya</sub-title>
+    <desc lang="es">La meseta de Ladakh es una tierra de extremos, pero el asno salvaje tibetano es el rey de esta pradera. ¡Sigue a un semental mientras sombrea una manada de hembras para tener la oportunidad de engendrar a la próxima generación, pero al hacerlo, debe luchar contra aquellos que quieren su corona.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777769_61E7DAC0FE06A570.jpg" />
+    <country lang="es">GB</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220907222500 +0000" stop="20220907231500 +0000" channel="Love Nature">
+    <title lang="es">Perros con trabajos extraordinarios</title>
+    <sub-title lang="es">The Partners</sub-title>
+    <desc lang="es">Conozca a un golden retriever que alivia la ansiedad y ayuda a curar el trastorno de estrés postraumático, una mezcla de pastores que rescata a los sobrevivientes de deslizamientos de tierra, un par de spaniels que huelen las fugas de agua subterráneas y un grupo de mascotas de maestros en el Reino Unido que ayudan a los niños a aprender a leer.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Educativo</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777771_B9C5E51DC471C6E1.jpg" />
+    <country lang="es">GB</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220907231500 +0000" stop="20220908000500 +0000" channel="Love Nature">
+    <title lang="es">Rescate en el Pacífico salvaje</title>
+    <sub-title lang="es">One Very Lost Sea Turtle</sub-title>
+    <desc lang="es">Siga al equipo en la curación y liberación de una tortuga marina gruñona, y luego conozca a un león marino con una lesión inusual que debe ser llevado en grúa al centro de rescate. Descubra cómo el veterinario ayuda a un murciélago frugívoro envejecido y cómo una comunidad rescata a un cachorro de foca tuerto.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/76/11769209_D2F44B12AFA6DB0E.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220908000500 +0000" stop="20220908010000 +0000" channel="Love Nature">
+    <title lang="es">Convirtiéndose en orangután</title>
+    <desc lang="es">Experimente una montaña rusa de emociones y dolores de crecimiento a medida que los orangutanes del santuario avanzan a través de seis grados hacia su liberación en la naturaleza. Descubra cómo cambia repentinamente el destino de Dilla y observe cómo el niño grande Beni sigue una dieta no deseada.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/55/12559858_BFE2DBAA2C5CC27E.jpg" />
+    <country lang="es">GB</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220908010000 +0000" stop="20220908015500 +0000" channel="Love Nature">
+    <title lang="es">Islas secretas de Australia</title>
+    <sub-title lang="es">Kangaroo Island</sub-title>
+    <desc lang="es">Lanzado a la deriva y solo en el Océano Austral rico en nutrientes, cortado por mares salvajes y vientos brutales, se encuentra una fortaleza isla encantada donde algunas de las especies de fauna continental de Australia han llegado a la última posición.(n)</desc>
+    <credits>
+      <actor>Edwina Wren</actor>
+    </credits>
+    <category lang="es">Documental</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777774_2960499C6E664623.jpg" />
+    <country lang="es">CA</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220908015500 +0000" stop="20220908024500 +0000" channel="Love Nature">
+    <title lang="es">Islas secretas de Australia</title>
+    <sub-title lang="es">Christmas Island</sub-title>
+    <desc lang="es">Una mota de una isla en el Océano Índico es un pequeño refugio para plantas y criaturas que no se encuentran en ningún otro lugar del mundo. Las aves gobiernan sus cielos, los tiburones ballena patrullan sus mares, y un cangrejo endémico se embarca en una traicionera migración para reproducirse.(n)</desc>
+    <credits>
+      <actor>Edwina Wren</actor>
+    </credits>
+    <category lang="es">Documental</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777774_2960499C6E664623.jpg" />
+    <country lang="es">CA</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220908024500 +0000" stop="20220908034000 +0000" channel="Love Nature">
+    <title lang="es">Islas secretas de Australia</title>
+    <sub-title lang="es">Fraser Island</sub-title>
+    <desc lang="es">Construido sobre arenas movedizas que soportan un refugio improbable para plantas y vida silvestre, este mosaico de hábitats curiosos de islas en constante evolución se ha ganado el estatus de Patrimonio Mundial por su notable historia geológica.(n)</desc>
+    <credits>
+      <actor>Edwina Wren</actor>
+    </credits>
+    <category lang="es">Documental</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777774_2960499C6E664623.jpg" />
+    <country lang="es">CA</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220908034000 +0000" stop="20220908043000 +0000" channel="Love Nature">
+    <title lang="es">Dentro de lo salvaje: India</title>
+    <sub-title lang="es">Los sementales salvajes del Himalaya</sub-title>
+    <desc lang="es">La meseta de Ladakh es una tierra de extremos, pero el asno salvaje tibetano es el rey de esta pradera. ¡Sigue a un semental mientras sombrea una manada de hembras para tener la oportunidad de engendrar a la próxima generación, pero al hacerlo, debe luchar contra aquellos que quieren su corona.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777769_61E7DAC0FE06A570.jpg" />
+    <country lang="es">GB</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220908043000 +0000" stop="20220908052500 +0000" channel="Love Nature">
+    <title lang="es">Perros con trabajos extraordinarios</title>
+    <sub-title lang="es">The Partners</sub-title>
+    <desc lang="es">Conozca a un golden retriever que alivia la ansiedad y ayuda a curar el trastorno de estrés postraumático, una mezcla de pastores que rescata a los sobrevivientes de deslizamientos de tierra, un par de spaniels que huelen las fugas de agua subterráneas y un grupo de mascotas de maestros en el Reino Unido que ayudan a los niños a aprender a leer.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Educativo</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777771_B9C5E51DC471C6E1.jpg" />
+    <country lang="es">GB</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220908052500 +0000" stop="20220908061500 +0000" channel="Love Nature">
+    <title lang="es">África extrema</title>
+    <sub-title lang="es">Dragon Mountain: Surviving the Summit</sub-title>
+    <desc lang="es">A cada paso, el poderoso Drakensberg revela nuevas especies que exhiben atributos que les permiten soportar su duro hogar en la montaña. Conoce al observador del sol, el intrigante lagarto suicida, el icónico quebrantahuesos y las aves rapaces viajeras.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/76/11769060_297C6FA26542E620.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220908061500 +0000" stop="20220908071000 +0000" channel="Love Nature">
+    <title lang="es">África extrema</title>
+    <sub-title lang="es">Lake Manyara National Park</sub-title>
+    <desc lang="es">El Parque Nacional del Lago Manyara de Tanzania cuenta con varios hábitats diversos. Desde sabanas boscosas hasta pantanos cubiertos de hierba, visite una región que es una parte del ecosistema del este de África y otorga una gran cantidad de recursos.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/76/11769060_297C6FA26542E620.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220908071000 +0000" stop="20220908080000 +0000" channel="Love Nature">
+    <title lang="es">África extrema</title>
+    <sub-title lang="es">The Simien Mountains</sub-title>
+    <desc lang="es">Conocido como 'el techo de África', las montañas Simien albergan las criaturas más raras del continente. Viaje entre acantilados y exuberante vegetación para descubrir la vida silvestre nativa como la Cabra montés Walia, el Lobo Simien y las Geladas.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/76/11769060_297C6FA26542E620.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220908080000 +0000" stop="20220908085500 +0000" channel="Love Nature">
+    <title lang="es">África extrema</title>
+    <sub-title lang="es">The Southern Drylands</sub-title>
+    <desc lang="es">Aventúrese en el corazón de Namibia, donde partes del paisaje reciben menos de una pulgada de lluvia cada año. Encuentra criaturas increíblemente resistentes, desde los mamíferos más grandes hasta los insectos más rápidos y un pez fantasma.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/76/11769060_297C6FA26542E620.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220908085500 +0000" stop="20220908092500 +0000" channel="Love Nature">
+    <title lang="es">Criaturas extrañas</title>
+    <sub-title lang="es">Crisis de identidad</sub-title>
+    <desc lang="es">¿Son conejillos de indias, castores o algo más? Los capibaras encarnan las características de varios animales diferentes a la vez, al igual que los jabalíes, los osos hormigueros y otros híbridos genéticos fascinantes.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777770_7BC17292DBE0FDD8.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220908092500 +0000" stop="20220908101500 +0000" channel="Love Nature">
+    <title lang="es">Rescate en el Pacífico salvaje</title>
+    <sub-title lang="es">One Very Lost Sea Turtle</sub-title>
+    <desc lang="es">Siga al equipo en la curación y liberación de una tortuga marina gruñona, y luego conozca a un león marino con una lesión inusual que debe ser llevado en grúa al centro de rescate. Descubra cómo el veterinario ayuda a un murciélago frugívoro envejecido y cómo una comunidad rescata a un cachorro de foca tuerto.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/76/11769209_D2F44B12AFA6DB0E.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220908101500 +0000" stop="20220908110500 +0000" channel="Love Nature">
+    <title lang="es">Dentro de lo salvaje: India</title>
+    <sub-title lang="es">Los sementales salvajes del Himalaya</sub-title>
+    <desc lang="es">La meseta de Ladakh es una tierra de extremos, pero el asno salvaje tibetano es el rey de esta pradera. ¡Sigue a un semental mientras sombrea una manada de hembras para tener la oportunidad de engendrar a la próxima generación, pero al hacerlo, debe luchar contra aquellos que quieren su corona.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777769_61E7DAC0FE06A570.jpg" />
+    <country lang="es">GB</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220908110500 +0000" stop="20220908120000 +0000" channel="Love Nature">
+    <title lang="es">Perros con trabajos extraordinarios</title>
+    <sub-title lang="es">The Partners</sub-title>
+    <desc lang="es">Conozca a un golden retriever que alivia la ansiedad y ayuda a curar el trastorno de estrés postraumático, una mezcla de pastores que rescata a los sobrevivientes de deslizamientos de tierra, un par de spaniels que huelen las fugas de agua subterráneas y un grupo de mascotas de maestros en el Reino Unido que ayudan a los niños a aprender a leer.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Educativo</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777771_B9C5E51DC471C6E1.jpg" />
+    <country lang="es">GB</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220908120000 +0000" stop="20220908125500 +0000" channel="Love Nature">
+    <title lang="es">Paisajes por descubrir</title>
+    <sub-title lang="es">Arizona</sub-title>
+    <desc lang="es">Descubre épicas maravillas naturales en el remoto desierto del suroeste de Estados Unidos. Desde cañones barridos por imponentes acantilados hasta dunas fosilizadas rayadas de rojo desértico, la meseta de Paria es una maravilla geológica.(n)</desc>
+    <credits>
+      <director>Dan Hughes</director>
+    </credits>
+    <category lang="es">Documental</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/76/11769189_E9D984C468FECEEA.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220908125500 +0000" stop="20220908134500 +0000" channel="Love Nature">
+    <title lang="es">Paisajes por descubrir</title>
+    <sub-title lang="es">Bahamas</sub-title>
+    <desc lang="es">Con más de un millón de acres de parques protegidos, las islas de las Bahamas son un paraíso para las aves migratorias, las tortugas verdes y las iguanas de roca que encuentran refugio en los acantilados de arenisca, las cuevas submarinas y las playas de arena rosa.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/76/11769189_E9D984C468FECEEA.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220908134500 +0000" stop="20220908143500 +0000" channel="Love Nature">
+    <title lang="es">Paisajes por descubrir</title>
+    <sub-title lang="es">Lago Superior</sub-title>
+    <desc lang="es">El más grande de los Grandes Lagos, con más agua dulce que todos los demás juntos, el Lago Superior se encuentra junto a un tramo escarpado del Escudo Canadiense que alberga osos negros y el animal más rápido del mundo: el halcón peregrino.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/76/11769189_E9D984C468FECEEA.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220908143500 +0000" stop="20220908153000 +0000" channel="Love Nature">
+    <title lang="es">Paisajes por descubrir</title>
+    <sub-title lang="es">Niagara</sub-title>
+    <desc lang="es">Famosa por sus cataratas, la escarpa del Niágara es una antigua pared de roca sedimentaria rica en fósiles que se abre camino a través de la región de los Grandes Lagos. Es el hogar de cedros de 1900 años de antigüedad, asentamientos antiguos y la fascinante isla Flowerpot.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/76/11769189_E9D984C468FECEEA.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220908153000 +0000" stop="20220908162500 +0000" channel="Love Nature">
+    <title lang="es">Dentro de lo salvaje: India</title>
+    <sub-title lang="es">El dilema de un oso perezoso</sub-title>
+    <desc lang="es">En una tierra de calor abrasador y tormentas tropicales, la vida en las llanuras del sur de la India es dura. Pero Bibi, una oso perezoso con dos cachorros, está preparada para el desafío de su vida mientras lucha contra la sequía, la escasez de alimentos y los depredadores en cada esquina.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777769_61E7DAC0FE06A570.jpg" />
+    <country lang="es">GB</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220908162500 +0000" stop="20220908171500 +0000" channel="Love Nature">
+    <title lang="es">Perros con trabajos extraordinarios</title>
+    <sub-title lang="es">The Protectors</sub-title>
+    <desc lang="es">Una mujer ciega ha encontrado una nueva oportunidad de vida gracias a su compañero canino, un Jack Russell trabaja como una súper niñera para una sorprendente variedad de especies, y un equipo de perros en Kenia está patrullando diariamente para proteger a los rinocerontes en peligro de extinción de los cazadores furtivos.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Educativo</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777771_B9C5E51DC471C6E1.jpg" />
+    <country lang="es">GB</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220908171500 +0000" stop="20220908180500 +0000" channel="Love Nature">
+    <title lang="es">Guardianes de la naturaleza</title>
+    <sub-title lang="es">Elephant Rescue</sub-title>
+    <desc lang="es">Experimente la vida en uno de los orfanatos de elefantes de África. Conoce al equipo de cuidadores dedicados y apasionados que ayudan a tres jóvenes huérfanos a aprender todas las habilidades necesarias para sobrevivir en la selva.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/76/11769109_C353419DE582AB06.jpg" />
+    <country lang="es">CA</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220908180500 +0000" stop="20220908190000 +0000" channel="Love Nature">
+    <title lang="es">Mundo acuático de África</title>
+    <sub-title lang="es">Tidal Forest of Africa</sub-title>
+    <desc lang="es">Siga un día en la vida de los residentes de un bosque de manglar del sur de África, conociendo cangrejos de mangle de garras rojas, monos verdes que ocupan el dosel y cangrejos de barro y cangrejos violinistas que gobiernan las marismas.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777772_F4D88FB247AD1B17.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220908190000 +0000" stop="20220908195000 +0000" channel="Love Nature">
+    <title lang="es">Mundo acuático de África</title>
+    <sub-title lang="es">Lifeblood of the Kalahari</sub-title>
+    <desc lang="es">Declarado sitio RAMSAR y considerado una de las áreas silvestres más famosas del mundo, el Delta del Okavango de África alberga una gran variedad de vida silvestre africana, desde las cinco grandes especies de megafauna hasta más de 400 aves y 70 especies de peces raros.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777772_F4D88FB247AD1B17.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220908195000 +0000" stop="20220908204000 +0000" channel="Love Nature">
+    <title lang="es">Mundo acuático de África</title>
+    <sub-title lang="es">Urban Penguins</sub-title>
+    <desc lang="es">Una colonia inusual de pingüinos africanos ha aprendido a vivir con sus vecinos humanos en el extremo suroeste de África, pero su tenacidad se prueba en campos de golf, carreteras, mascotas y un mar de humanos que los ven como una atracción turística.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777772_F4D88FB247AD1B17.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220908204000 +0000" stop="20220908213500 +0000" channel="Love Nature">
+    <title lang="es">Mundo acuático de África</title>
+    <sub-title lang="es">Precious Waters</sub-title>
+    <desc lang="es">La vida en las sabanas de África está regida por el agua, y durante la larga estación seca, cuando los ríos que dan vida se secan, la competencia por el espacio en los pozos de agua es feroz. A veces, la falta de agua hace extraños compañeros de cama.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777772_F4D88FB247AD1B17.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220908213500 +0000" stop="20220908222500 +0000" channel="Love Nature">
+    <title lang="es">Dentro de lo salvaje: India</title>
+    <sub-title lang="es">El dilema de un oso perezoso</sub-title>
+    <desc lang="es">En una tierra de calor abrasador y tormentas tropicales, la vida en las llanuras del sur de la India es dura. Pero Bibi, una oso perezoso con dos cachorros, está preparada para el desafío de su vida mientras lucha contra la sequía, la escasez de alimentos y los depredadores en cada esquina.(n)</desc>
+    <category lang="es">Documental</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777769_61E7DAC0FE06A570.jpg" />
+    <country lang="es">GB</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
     </rating>
   </programme>
 </tv>
