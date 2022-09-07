@@ -8,7 +8,7 @@
   <channel id="-TVN (CHI)">
     <display-name lang="es">TVN (CHI)</display-name>
     <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/1149.png" />
-    <url>http://www.directv.cl</url>
+    <url>http://www.directv.com.cl</url>
   </channel>
   <channel id="-UniMás">
     <display-name lang="en">UniMás</display-name>
@@ -65,9 +65,10 @@
     <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/135.png" />
     <url>http://www.directv.com.co</url>
   </channel>
-  <channel id="BitMe">
+  <channel id="-BitMe">
     <display-name lang="es">BitMe</display-name>
-    <url>http://www.gatotv.com</url>
+    <icon src="https://www.izzi.mx/bcanales/img/canal316.png" />
+    <url>http://www.izzi.mx</url>
   </channel>
   <programme start="20220907004500 -0500" stop="20220907011500 -0500" channel="-Caracol TV (COL)">
     <title lang="es">El diario de Diana</title>
@@ -1812,8 +1813,8 @@
   <programme start="20220907230000 -0500" stop="20220908000000 -0500" channel="-RCN Novelas">
     <title lang="es">Doña Bella</title>
   </programme>
-  <programme start="20220908110000 -0500" stop="20220908120000 -0500" channel="-RCN Novelas">
-    <title lang="es">Doña Bella</title>
+  <programme start="20220908120000 -0500" stop="20220908130000 -0500" channel="-RCN Novelas">
+    <title lang="es">Expedientes</title>
   </programme>
   <programme start="20220907000000 +0000" stop="20220907010000 +0000" channel="Univision 41">
     <title lang="en">La Herencia, Un Legado de Amor (new)</title>
@@ -12043,226 +12044,2253 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220907014500 -0500" stop="20220907023500 -0500" channel="BitMe">
+  <programme start="20220908050000 +0000" stop="20220908054500 +0000" channel="-BitMe">
+    <title lang="es">Fenómeno siniestro</title>
+    <desc lang="es">Un equipo de cazadores de fantasmas graba un episodio para un show televisivo dentro de un hospital psiquiátrico abandonado, luego de varios reportes de extraños fenómenos.(n)</desc>
+    <credits>
+      <actor>Sean Rogerson</actor>
+      <actor>Juan Riedinger</actor>
+      <actor>Mackenzie Gray</actor>
+      <actor>Ashleigh Gryzko</actor>
+      <actor>Arthur Corber</actor>
+      <actor>Shawn Macdonald</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p8755034_b_h10_ab.jpg" />
+    <country lang="es">CAN</country>
+  </programme>
+  <programme start="20220908054500 +0000" stop="20220908063500 +0000" channel="-BitMe">
     <title lang="es">Fear the Walking Dead</title>
-    <title lang="xx">Fear the Walking Dead</title>
-    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad.(n)</desc>
+    <desc lang="es">Alicia trabaja para reunir de nuevo a su familia. Travis se encuentra con un rostro conocido. Madison y Nick tratan de salvar a su familia de todas las dificultades.(n)</desc>
     <credits>
       <actor>Kim Dickens</actor>
       <actor>Cliff Curtis</actor>
       <actor>Frank Dillane</actor>
       <actor>Alycia Debnam-Carey</actor>
-      <actor>Elizabeth Rodríguez</actor>
+      <actor>Elizabeth Rodriguez</actor>
       <actor>Mercedes Mason</actor>
-      <actor>Lorenzo James Henrie</actor>
-      <producer>Bill Johnson</producer>
-      <producer>Avram Butch Kaplan</producer>
-      <composer>Atticus Ross</composer>
     </credits>
-    <date>2015</date>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/fear_the_walking_dead.jpg" />
-    <episode-num system="onscreen">S2</episode-num>
-    <rating>
-      <value>TV-MA</value>
-    </rating>
+    <icon src="http://demo.tmsimg.com/assets/p11877956_b_h8_aq.jpg" />
+    <country lang="es">USA</country>
   </programme>
-  <programme start="20220907023500 -0500" stop="20220907032500 -0500" channel="BitMe">
+  <programme start="20220908063500 +0000" stop="20220908072500 +0000" channel="-BitMe">
     <title lang="es">Érase una vez</title>
-  </programme>
-  <programme start="20220907032500 -0500" stop="20220907041000 -0500" channel="BitMe">
-    <title lang="es">Ay güey</title>
-  </programme>
-  <programme start="20220907041000 -0500" stop="20220907050000 -0500" channel="BitMe">
-    <title lang="es">Terminales</title>
-  </programme>
-  <programme start="20220907050000 -0500" stop="20220907055000 -0500" channel="BitMe">
-    <title lang="es">Érase una vez</title>
-  </programme>
-  <programme start="20220907055000 -0500" stop="20220907063500 -0500" channel="BitMe">
-    <title lang="es">Ay güey</title>
-  </programme>
-  <programme start="20220907063500 -0500" stop="20220907072500 -0500" channel="BitMe">
-    <title lang="es">Terminales</title>
-  </programme>
-  <programme start="20220907072500 -0500" stop="20220907082000 -0500" channel="BitMe">
-    <title lang="es">Súper X</title>
-  </programme>
-  <programme start="20220907082000 -0500" stop="20220907093000 -0500" channel="BitMe">
-    <title lang="es">el chavo animado</title>
-  </programme>
-  <programme start="20220907093000 -0500" stop="20220907104000 -0500" channel="BitMe">
-    <title lang="es">Yu-Gi-Oh</title>
-    <episode-num system="onscreen">S2</episode-num>
-  </programme>
-  <programme start="20220907104000 -0500" stop="20220907122000 -0500" channel="BitMe">
-    <title lang="es">Universo marcial</title>
-    <episode-num system="onscreen">S1</episode-num>
-  </programme>
-  <programme start="20220907122000 -0500" stop="20220907131500 -0500" channel="BitMe">
-    <title lang="es">Sailor moon</title>
-  </programme>
-  <programme start="20220907131500 -0500" stop="20220907142500 -0500" channel="BitMe">
-    <title lang="es">Yu-Gi-Oh</title>
-    <episode-num system="onscreen">S2</episode-num>
-  </programme>
-  <programme start="20220907142500 -0500" stop="20220907151500 -0500" channel="BitMe">
-    <title lang="es">Attack on Titan</title>
-    <episode-num system="onscreen">S2</episode-num>
-  </programme>
-  <programme start="20220907151500 -0500" stop="20220907160500 -0500" channel="BitMe">
-    <title lang="es">My hero academy</title>
-    <episode-num system="onscreen">S3</episode-num>
-  </programme>
-  <programme start="20220907160500 -0500" stop="20220907165500 -0500" channel="BitMe">
-    <title lang="es">Assassination classroom</title>
-    <episode-num system="onscreen">S2</episode-num>
-  </programme>
-  <programme start="20220907165500 -0500" stop="20220907183500 -0500" channel="BitMe">
-    <title lang="es">Universo marcial</title>
-    <episode-num system="onscreen">S1</episode-num>
-  </programme>
-  <programme start="20220907183500 -0500" stop="20220907193000 -0500" channel="BitMe">
-    <title lang="es">Sailor moon</title>
-  </programme>
-  <programme start="20220907193000 -0500" stop="20220907204000 -0500" channel="BitMe">
-    <title lang="es">Yu-Gi-Oh</title>
-    <episode-num system="onscreen">S2</episode-num>
-  </programme>
-  <programme start="20220907204000 -0500" stop="20220907213000 -0500" channel="BitMe">
-    <title lang="es">Attack on Titan</title>
-    <episode-num system="onscreen">S2</episode-num>
-  </programme>
-  <programme start="20220907213000 -0500" stop="20220907222000 -0500" channel="BitMe">
-    <title lang="es">My hero academy</title>
-    <episode-num system="onscreen">S3</episode-num>
-  </programme>
-  <programme start="20220907222000 -0500" stop="20220907231000 -0500" channel="BitMe">
-    <title lang="es">Assassination classroom</title>
-    <episode-num system="onscreen">S1</episode-num>
-  </programme>
-  <programme start="20220907231000 -0500" stop="20220908000000 -0500" channel="BitMe">
-    <title lang="es">Fear the Walking Dead</title>
-    <title lang="xx">Fear the Walking Dead</title>
-    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad.(n)</desc>
+    <desc lang="es">Vicente tiene un nieto llamado Rafa, el cual debe usar aparatos para caminar; el chico hace lo que sea necesario, con tal de poder conseguir un propósito y mejorar su condición de vida.(n)</desc>
     <credits>
-      <actor>Kim Dickens</actor>
-      <actor>Cliff Curtis</actor>
-      <actor>Frank Dillane</actor>
-      <actor>Alycia Debnam-Carey</actor>
-      <actor>Elizabeth Rodríguez</actor>
-      <actor>Mercedes Mason</actor>
-      <actor>Lorenzo James Henrie</actor>
-      <producer>Bill Johnson</producer>
-      <producer>Avram Butch Kaplan</producer>
-      <composer>Atticus Ross</composer>
+      <actor>Arturo Ríos</actor>
+      <actor>Adrián Herrera</actor>
+      <actor>Raúl Adalid</actor>
+      <actor>Mauro Sánchez</actor>
     </credits>
-    <date>2015</date>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/fear_the_walking_dead.jpg" />
-    <episode-num system="onscreen">S2</episode-num>
-    <rating>
-      <value>TV-MA</value>
-    </rating>
+    <icon src="http://demo.tmsimg.com/assets/p14632907_b_h10_aa.jpg" />
+    <country lang="es">MEX</country>
   </programme>
-  <programme start="20220908000000 -0500" stop="20220908014500 -0500" channel="BitMe">
-    <title lang="es">Grave Encounters</title>
-  </programme>
-  <programme start="20220908082000 -0500" stop="20220908093000 -0500" channel="BitMe">
-    <title lang="es">El chapulin colorado animado</title>
-  </programme>
-  <programme start="20220908104000 -0500" stop="20220908122000 -0500" channel="BitMe">
-    <title lang="es">Universo marcial</title>
-    <episode-num system="onscreen">S1</episode-num>
-  </programme>
-  <programme start="20220908160500 -0500" stop="20220908165500 -0500" channel="BitMe">
-    <title lang="es">Assassination classroom</title>
-    <episode-num system="onscreen">S1</episode-num>
-  </programme>
-  <programme start="20220909000000 -0500" stop="20220909014500 -0500" channel="BitMe">
-    <title lang="es">Inquilinos</title>
-    <title lang="xx">Inquilinos (2018)</title>
-    <desc lang="es">Una joven pareja con una mala racha se muda para a un viejo apartamento comenzar de cero, pero en la vecindad habita una fuerza sobrenatural.(n)</desc>
+  <programme start="20220908072500 +0000" stop="20220908081000 +0000" channel="-BitMe">
+    <title lang="es">¡Ay Güey!</title>
+    <desc lang="es">Bermúdez intenta secuestrar a las chicas. Pepe sospecha que sus primas son adoptadas y solicita una prueba de ADN. Rolando llega al puerto.(n)</desc>
     <credits>
+      <actor>Alejandra Ambrosi</actor>
+      <actor>Vanessa Terkes</actor>
+      <actor>Salvador Zerboni</actor>
+      <actor>Mario Escalante</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p14988984_b_h10_aa.jpg" />
+    <country lang="es">MEX</country>
+  </programme>
+  <programme start="20220908081000 +0000" stop="20220908090000 +0000" channel="-BitMe">
+    <title lang="es">Terminales</title>
+    <desc lang="es">Una joven decide ir a su fiesta de graduación antes de iniciar con sus quimioterapias.(n)</desc>
+    <credits>
+      <actor>Ana Talancón</actor>
+      <actor>Andrés Almeida</actor>
       <actor>Danny Perea</actor>
-      <actor>Erick Elías</actor>
-      <actor>Gaby Roel</actor>
-      <actor>Noé Hernández</actor>
-      <actor>Evangelina Martínez</actor>
-      <actor>Camila Selser</actor>
-      <actor>Dagoberto Gama</actor>
-      <actor>Fernando Ciangherotti</actor>
-      <producer>José Manuel Flandes</producer>
-      <producer>Ninfa Salinas de Ripstein</producer>
-      <composer>Ximena Sariñana</composer>
+      <actor>Geraldine Galván</actor>
+      <actor>Alfonso Herrera</actor>
+      <actor>Humberto Busto</actor>
     </credits>
-    <date>2018</date>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/inquilinos.jpg" />
-    <rating>
-      <value>PG-13</value>
-    </rating>
+    <icon src="http://demo.tmsimg.com/assets/p8388236_b_h10_ab.jpg" />
   </programme>
-  <programme start="20220910000000 -0500" stop="20220910014500 -0500" channel="BitMe">
-    <title lang="es">Man on a Ledge</title>
-  </programme>
-  <programme start="20220910014500 -0500" stop="20220910033500 -0500" channel="BitMe">
-    <title lang="es">El Habitante</title>
-    <title lang="xx">El Habitante</title>
-    <desc lang="es">Tres ladronas, en una noche entran a robar la casa de un político, pero en el sótano descubren una niña atada y desean ayudarla sin saber que está poseída.(n)</desc>
-    <credits>
-      <actor>María Evoli</actor>
-      <actor>Vanesa Restrepo</actor>
-      <actor>Carla Adell</actor>
-      <actor>Shira Barzilai</actor>
-      <actor>Fernando Becerril</actor>
-      <actor>Natasha Cubria</actor>
-      <actor>Gabriela de la Garza</actor>
-      <actor>Liz Dieppa</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_habitante.jpg" />
-    <country lang="es">México</country>
-    <country lang="es">Chile</country>
-    <rating>
-      <value>R</value>
-    </rating>
-  </programme>
-  <programme start="20220910033500 -0500" stop="20220910055000 -0500" channel="BitMe">
+  <programme start="20220908090000 +0000" stop="20220908095000 +0000" channel="-BitMe">
     <title lang="es">Érase una vez</title>
+    <desc lang="es">Vicente tiene un nieto llamado Rafa, el cual debe usar aparatos para caminar; el chico hace lo que sea necesario, con tal de poder conseguir un propósito y mejorar su condición de vida.(n)</desc>
+    <credits>
+      <actor>Arturo Ríos</actor>
+      <actor>Adrián Herrera</actor>
+      <actor>Raúl Adalid</actor>
+      <actor>Mauro Sánchez</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p14632907_b_h10_aa.jpg" />
+    <country lang="es">MEX</country>
   </programme>
-  <programme start="20220910055000 -0500" stop="20220910080500 -0500" channel="BitMe">
+  <programme start="20220908095000 +0000" stop="20220908103500 +0000" channel="-BitMe">
+    <title lang="es">¡Ay Güey!</title>
+    <desc lang="es">Bermúdez intenta secuestrar a las chicas. Pepe sospecha que sus primas son adoptadas y solicita una prueba de ADN. Rolando llega al puerto.(n)</desc>
+    <credits>
+      <actor>Alejandra Ambrosi</actor>
+      <actor>Vanessa Terkes</actor>
+      <actor>Salvador Zerboni</actor>
+      <actor>Mario Escalante</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p14988984_b_h10_aa.jpg" />
+    <country lang="es">MEX</country>
+  </programme>
+  <programme start="20220908103500 +0000" stop="20220908112500 +0000" channel="-BitMe">
     <title lang="es">Terminales</title>
+    <desc lang="es">Una joven decide ir a su fiesta de graduación antes de iniciar con sus quimioterapias.(n)</desc>
+    <credits>
+      <actor>Ana Talancón</actor>
+      <actor>Andrés Almeida</actor>
+      <actor>Danny Perea</actor>
+      <actor>Geraldine Galván</actor>
+      <actor>Alfonso Herrera</actor>
+      <actor>Humberto Busto</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p8388236_b_h10_ab.jpg" />
   </programme>
-  <programme start="20220910080500 -0500" stop="20220910102000 -0500" channel="BitMe">
-    <title lang="es">Ay güey</title>
+  <programme start="20220908112500 +0000" stop="20220908122000 +0000" channel="-BitMe">
+    <title lang="es">Súper X</title>
+    <desc lang="es">La vida de Alex es casi normal: aún vive con su madre, trabaja en una tienda de videos, no tiene suerte con la mujeres y para colmo sus dos mejores amigos son sus peores consejeros. Sin embargo su suerte cambiará en un abrir y cerrar de ojos.(n)</desc>
+    <credits>
+      <actor>Michelle Renaud</actor>
+      <actor>Claudia Ramírez</actor>
+      <actor>Mauricio Llera</actor>
+      <actor>Axel Ricco</actor>
+      <actor>Paco Rueda</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p13746466_b_h10_aa.jpg" />
+    <country lang="es">MEX</country>
   </programme>
-  <programme start="20220910102000 -0500" stop="20220910120000 -0500" channel="BitMe">
+  <programme start="20220908122000 +0000" stop="20220908133000 +0000" channel="-BitMe">
+    <title lang="es">El Chapulín Colorado animado</title>
+    <desc lang="es">Un héroe usa su carisma para ayudar a los indefensos quienes terminan ayudándolo a él, causando situaciones graciosas y muy divertidas.(n)</desc>
+    <credits>
+      <actor>Jesús Guzmán</actor>
+      <actor>Erica Edwards</actor>
+      <actor>María Mendoza Madera</actor>
+      <actor>Miguel Angel Ghigliazza</actor>
+      <actor>Rebeca Manríquez</actor>
+      <actor>Gabriel Basurto</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p11992962_b_h10_ab.jpg" />
+    <country lang="es">MEX</country>
+  </programme>
+  <programme start="20220908133000 +0000" stop="20220908144000 +0000" channel="-BitMe">
+    <title lang="es">Yu-Gi-Oh!</title>
+    <desc lang="es">Un estudiante llamado Yugi Moto recibe de su abuelo, piezas fragmentadas de un artefacto egipcio. Cuando se junta las piezas, el espíritu de un antiguo faraón de tres mil años toma posesión de ella.(n)</desc>
+    <credits>
+      <actor>Dan Green</actor>
+      <actor>Eric Stuart</actor>
+      <actor>Amy Birnbaum</actor>
+      <actor>Darren Dunstan</actor>
+      <actor>Wayne Grayson</actor>
+      <actor>Tara Jayne</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p534172_b_h10_aa.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220908144000 +0000" stop="20220908162000 +0000" channel="-BitMe">
     <title lang="es">Universo marcial</title>
-    <episode-num system="onscreen">S1</episode-num>
+    <desc lang="es">El destino de un adolescente cambia dramáticamente después de convertirse en un maestro de artes marciales y que busca proteger al mundo de una secta demoníaca empeñada en dominar el mundo.(n)</desc>
+    <credits>
+      <actor>Yang Yang</actor>
+      <actor>Wu Chun</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p15743005_b_h10_ab.jpg" />
+    <country lang="es">CHN</country>
   </programme>
-  <programme start="20220910120000 -0500" stop="20220910133500 -0500" channel="BitMe">
-    <title lang="es">La Liga de los 5</title>
+  <programme start="20220908162000 +0000" stop="20220908171500 +0000" channel="-BitMe">
+    <title lang="es">Sailor Moon</title>
+    <desc lang="es">Una joven propensa a los problemas recibe la habilidad de transformarse en una poderosa heroína y reúne un equipo de amigos y aliados para luchar contra las fuerzas del mal que amenazan al mundo.(n)</desc>
+    <credits>
+      <actor>Patricia Acevedo</actor>
+      <actor>Rossy Aguirre</actor>
+      <actor>Mónica Manjarrez</actor>
+      <actor>Adriana Olmedo</actor>
+      <actor>María Morales</actor>
+      <actor>Cristina Hernandez</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p19015874_b_h10_aa.jpg" />
+    <country lang="es">JPN</country>
   </programme>
-  <programme start="20220910133500 -0500" stop="20220910151500 -0500" channel="BitMe">
-    <title lang="es">el chavo animado</title>
+  <programme start="20220908171500 +0000" stop="20220908182500 +0000" channel="-BitMe">
+    <title lang="es">Yu-Gi-Oh!</title>
+    <desc lang="es">Un estudiante llamado Yugi Moto recibe de su abuelo, piezas fragmentadas de un artefacto egipcio. Cuando se junta las piezas, el espíritu de un antiguo faraón de tres mil años toma posesión de ella.(n)</desc>
+    <credits>
+      <actor>Dan Green</actor>
+      <actor>Eric Stuart</actor>
+      <actor>Amy Birnbaum</actor>
+      <actor>Darren Dunstan</actor>
+      <actor>Wayne Grayson</actor>
+      <actor>Tara Jayne</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p534172_b_h10_aa.jpg" />
+    <country lang="es">USA</country>
   </programme>
-  <programme start="20220910151500 -0500" stop="20220910171500 -0500" channel="BitMe">
-    <title lang="es">Sailor moon</title>
+  <programme start="20220908182500 +0000" stop="20220908191500 +0000" channel="-BitMe">
+    <title lang="es">Attack on Titan</title>
+    <desc lang="es">Tres amigos se unen al Cuerpo de Inspectores para intentar recuperar su mundo de los Titanes.(n)</desc>
+    <credits>
+      <actor>Bryce Papenbrook</actor>
+      <actor>Josh Grelle</actor>
+      <actor>Trina Nishimura</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p18244102_b_h10_aa.jpg" />
+    <country lang="es">JPN</country>
   </programme>
-  <programme start="20220910171500 -0500" stop="20220910185000 -0500" channel="BitMe">
-    <title lang="es">La leyenda de las momias de</title>
+  <programme start="20220908191500 +0000" stop="20220908200500 +0000" channel="-BitMe">
+    <title lang="es">My Hero Academia</title>
+    <desc lang="es">Izuku, un niño nacido sin poderes, sueña con ser un superhéroe y se inscribe en una escuela para entrenar bajo la tutela de su ídolo, All Might.(n)</desc>
+    <credits>
+      <actor>Daiki Yamashita</actor>
+      <actor>Nobuhiko Okamoto</actor>
+      <actor>Ayane Sakura</actor>
+      <actor>Kenta Miyake</actor>
+      <actor>Kaito Ishikawa</actor>
+      <actor>Yûki Kaji</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p12793542_b_h10_af.jpg" />
+    <country lang="es">JPN</country>
   </programme>
-  <programme start="20220910185000 -0500" stop="20220910205000 -0500" channel="BitMe">
-    <title lang="es">Yu-Gi-Oh</title>
+  <programme start="20220908200500 +0000" stop="20220908205500 +0000" channel="-BitMe">
+    <title lang="es">Assassination Classroom</title>
+    <credits>
+      <actor>Jun Fukuyama</actor>
+      <actor>Mai Fuchigami</actor>
+      <actor>Aya Suzaki</actor>
+      <actor>Nobuhiko Okamoto</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p11415602_b_h10_ae.jpg" />
+    <country lang="es">JPN</country>
   </programme>
-  <programme start="20220910205000 -0500" stop="20220910225500 -0500" channel="BitMe">
-    <title lang="es">My hero academy</title>
-    <episode-num system="onscreen">S3</episode-num>
+  <programme start="20220908205500 +0000" stop="20220908223500 +0000" channel="-BitMe">
+    <title lang="es">Universo marcial</title>
+    <desc lang="es">El destino de un adolescente cambia dramáticamente después de convertirse en un maestro de artes marciales y que busca proteger al mundo de una secta demoníaca empeñada en dominar el mundo.(n)</desc>
+    <credits>
+      <actor>Yang Yang</actor>
+      <actor>Wu Chun</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p15743005_b_h10_ab.jpg" />
+    <country lang="es">CHN</country>
   </programme>
-  <programme start="20220910225500 -0500" stop="20220911011000 -0500" channel="BitMe">
-    <title lang="es">Assassination classroom</title>
-    <episode-num system="onscreen">S2</episode-num>
+  <programme start="20220908223500 +0000" stop="20220908233000 +0000" channel="-BitMe">
+    <title lang="es">Sailor Moon</title>
+    <desc lang="es">Una joven propensa a los problemas recibe la habilidad de transformarse en una poderosa heroína y reúne un equipo de amigos y aliados para luchar contra las fuerzas del mal que amenazan al mundo.(n)</desc>
+    <credits>
+      <actor>Patricia Acevedo</actor>
+      <actor>Rossy Aguirre</actor>
+      <actor>Mónica Manjarrez</actor>
+      <actor>Adriana Olmedo</actor>
+      <actor>María Morales</actor>
+      <actor>Cristina Hernandez</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p19015874_b_h10_aa.jpg" />
+    <country lang="es">JPN</country>
+  </programme>
+  <programme start="20220908233000 +0000" stop="20220909004000 +0000" channel="-BitMe">
+    <title lang="es">Yu-Gi-Oh!</title>
+    <desc lang="es">Un estudiante llamado Yugi Moto recibe de su abuelo, piezas fragmentadas de un artefacto egipcio. Cuando se junta las piezas, el espíritu de un antiguo faraón de tres mil años toma posesión de ella.(n)</desc>
+    <credits>
+      <actor>Dan Green</actor>
+      <actor>Eric Stuart</actor>
+      <actor>Amy Birnbaum</actor>
+      <actor>Darren Dunstan</actor>
+      <actor>Wayne Grayson</actor>
+      <actor>Tara Jayne</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p534172_b_h10_aa.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220909004000 +0000" stop="20220909013000 +0000" channel="-BitMe">
+    <title lang="es">Attack on Titan</title>
+    <desc lang="es">Tres amigos se unen al Cuerpo de Inspectores para intentar recuperar su mundo de los Titanes.(n)</desc>
+    <credits>
+      <actor>Bryce Papenbrook</actor>
+      <actor>Josh Grelle</actor>
+      <actor>Trina Nishimura</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p18244102_b_h10_aa.jpg" />
+    <country lang="es">JPN</country>
+  </programme>
+  <programme start="20220909013000 +0000" stop="20220909022000 +0000" channel="-BitMe">
+    <title lang="es">My Hero Academia</title>
+    <desc lang="es">Izuku, un niño nacido sin poderes, sueña con ser un superhéroe y se inscribe en una escuela para entrenar bajo la tutela de su ídolo, All Might.(n)</desc>
+    <credits>
+      <actor>Daiki Yamashita</actor>
+      <actor>Nobuhiko Okamoto</actor>
+      <actor>Ayane Sakura</actor>
+      <actor>Kenta Miyake</actor>
+      <actor>Kaito Ishikawa</actor>
+      <actor>Yûki Kaji</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p12793542_b_h10_af.jpg" />
+    <country lang="es">JPN</country>
+  </programme>
+  <programme start="20220909022000 +0000" stop="20220909031000 +0000" channel="-BitMe">
+    <title lang="es">Assassination Classroom</title>
+    <credits>
+      <actor>Jun Fukuyama</actor>
+      <actor>Mai Fuchigami</actor>
+      <actor>Aya Suzaki</actor>
+      <actor>Nobuhiko Okamoto</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p11415602_b_h10_ae.jpg" />
+    <country lang="es">JPN</country>
+  </programme>
+  <programme start="20220909031000 +0000" stop="20220909040000 +0000" channel="-BitMe">
+    <title lang="es">Fear the Walking Dead</title>
+    <desc lang="es">Los conflictos surgen a medida que Abigail llega a su destino. Chris toma una decisión asombrosa. Nick conoce a una nueva figura materna.(n)</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+      <actor>Alycia Debnam-Carey</actor>
+      <actor>Elizabeth Rodriguez</actor>
+      <actor>Mercedes Mason</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p11877956_b_h8_aq.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220909040000 +0000" stop="20220909050000 +0000" channel="-BitMe">
+    <title lang="es">Inquilinos</title>
+    <desc lang="es">Una mujer intenta convencer a las autoridades de que su nuevo vecino es el responsable de la desaparición de su esposa.(n)</desc>
+    <credits>
+      <actor>A.J. Cook</actor>
+      <actor>James Russo</actor>
+      <actor>Matthew Harrison</actor>
+      <actor>Theresa Russell</actor>
+      <actor>Sean Young</actor>
+      <actor>Doyle McCurley</actor>
+    </credits>
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220909050000 +0000" stop="20220909054500 +0000" channel="-BitMe">
+    <title lang="es">Fenómeno siniestro</title>
+    <desc lang="es">Un equipo de cazadores de fantasmas graba un episodio para un show televisivo dentro de un hospital psiquiátrico abandonado, luego de varios reportes de extraños fenómenos.(n)</desc>
+    <credits>
+      <actor>Sean Rogerson</actor>
+      <actor>Juan Riedinger</actor>
+      <actor>Mackenzie Gray</actor>
+      <actor>Ashleigh Gryzko</actor>
+      <actor>Arthur Corber</actor>
+      <actor>Shawn Macdonald</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p8755034_b_h10_ab.jpg" />
+    <country lang="es">CAN</country>
+  </programme>
+  <programme start="20220909050000 +0000" stop="20220909054500 +0000" channel="-BitMe">
+    <title lang="es">Fenómeno siniestro</title>
+    <desc lang="es">Un equipo de cazadores de fantasmas graba un episodio para un show televisivo dentro de un hospital psiquiátrico abandonado, luego de varios reportes de extraños fenómenos.(n)</desc>
+    <credits>
+      <actor>Sean Rogerson</actor>
+      <actor>Juan Riedinger</actor>
+      <actor>Mackenzie Gray</actor>
+      <actor>Ashleigh Gryzko</actor>
+      <actor>Arthur Corber</actor>
+      <actor>Shawn Macdonald</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p8755034_b_h10_ab.jpg" />
+    <country lang="es">CAN</country>
+  </programme>
+  <programme start="20220909050000 +0000" stop="20220909054500 +0000" channel="-BitMe">
+    <title lang="es">Fenómeno siniestro</title>
+    <desc lang="es">Un equipo de cazadores de fantasmas graba un episodio para un show televisivo dentro de un hospital psiquiátrico abandonado, luego de varios reportes de extraños fenómenos.(n)</desc>
+    <credits>
+      <actor>Sean Rogerson</actor>
+      <actor>Juan Riedinger</actor>
+      <actor>Mackenzie Gray</actor>
+      <actor>Ashleigh Gryzko</actor>
+      <actor>Arthur Corber</actor>
+      <actor>Shawn Macdonald</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p8755034_b_h10_ab.jpg" />
+    <country lang="es">CAN</country>
+  </programme>
+  <programme start="20220909054500 +0000" stop="20220909063500 +0000" channel="-BitMe">
+    <title lang="es">Fear the Walking Dead</title>
+    <desc lang="es">Alicia trabaja para reunir de nuevo a su familia. Travis se encuentra con un rostro conocido. Madison y Nick tratan de salvar a su familia de todas las dificultades.(n)</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+      <actor>Alycia Debnam-Carey</actor>
+      <actor>Elizabeth Rodriguez</actor>
+      <actor>Mercedes Mason</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p11877956_b_h8_aq.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220909054500 +0000" stop="20220909063500 +0000" channel="-BitMe">
+    <title lang="es">Fear the Walking Dead</title>
+    <desc lang="es">Alicia trabaja para reunir de nuevo a su familia. Travis se encuentra con un rostro conocido. Madison y Nick tratan de salvar a su familia de todas las dificultades.(n)</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+      <actor>Alycia Debnam-Carey</actor>
+      <actor>Elizabeth Rodriguez</actor>
+      <actor>Mercedes Mason</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p11877956_b_h8_aq.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220909054500 +0000" stop="20220909063500 +0000" channel="-BitMe">
+    <title lang="es">Fear the Walking Dead</title>
+    <desc lang="es">Alicia trabaja para reunir de nuevo a su familia. Travis se encuentra con un rostro conocido. Madison y Nick tratan de salvar a su familia de todas las dificultades.(n)</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+      <actor>Alycia Debnam-Carey</actor>
+      <actor>Elizabeth Rodriguez</actor>
+      <actor>Mercedes Mason</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p11877956_b_h8_aq.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220909063500 +0000" stop="20220909072500 +0000" channel="-BitMe">
+    <title lang="es">Érase una vez</title>
+    <desc lang="es">Vicente tiene un nieto llamado Rafa, el cual debe usar aparatos para caminar; el chico hace lo que sea necesario, con tal de poder conseguir un propósito y mejorar su condición de vida.(n)</desc>
+    <credits>
+      <actor>Arturo Ríos</actor>
+      <actor>Adrián Herrera</actor>
+      <actor>Raúl Adalid</actor>
+      <actor>Mauro Sánchez</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p14632907_b_h10_aa.jpg" />
+    <country lang="es">MEX</country>
+  </programme>
+  <programme start="20220909063500 +0000" stop="20220909072500 +0000" channel="-BitMe">
+    <title lang="es">Érase una vez</title>
+    <desc lang="es">Vicente tiene un nieto llamado Rafa, el cual debe usar aparatos para caminar; el chico hace lo que sea necesario, con tal de poder conseguir un propósito y mejorar su condición de vida.(n)</desc>
+    <credits>
+      <actor>Arturo Ríos</actor>
+      <actor>Adrián Herrera</actor>
+      <actor>Raúl Adalid</actor>
+      <actor>Mauro Sánchez</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p14632907_b_h10_aa.jpg" />
+    <country lang="es">MEX</country>
+  </programme>
+  <programme start="20220909063500 +0000" stop="20220909072500 +0000" channel="-BitMe">
+    <title lang="es">Érase una vez</title>
+    <desc lang="es">Vicente tiene un nieto llamado Rafa, el cual debe usar aparatos para caminar; el chico hace lo que sea necesario, con tal de poder conseguir un propósito y mejorar su condición de vida.(n)</desc>
+    <credits>
+      <actor>Arturo Ríos</actor>
+      <actor>Adrián Herrera</actor>
+      <actor>Raúl Adalid</actor>
+      <actor>Mauro Sánchez</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p14632907_b_h10_aa.jpg" />
+    <country lang="es">MEX</country>
+  </programme>
+  <programme start="20220909072500 +0000" stop="20220909081000 +0000" channel="-BitMe">
+    <title lang="es">¡Ay Güey!</title>
+    <desc lang="es">Bermúdez intenta secuestrar a las chicas. Pepe sospecha que sus primas son adoptadas y solicita una prueba de ADN. Rolando llega al puerto.(n)</desc>
+    <credits>
+      <actor>Alejandra Ambrosi</actor>
+      <actor>Vanessa Terkes</actor>
+      <actor>Salvador Zerboni</actor>
+      <actor>Mario Escalante</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p14988984_b_h10_aa.jpg" />
+    <country lang="es">MEX</country>
+  </programme>
+  <programme start="20220909072500 +0000" stop="20220909081000 +0000" channel="-BitMe">
+    <title lang="es">¡Ay Güey!</title>
+    <desc lang="es">Bermúdez intenta secuestrar a las chicas. Pepe sospecha que sus primas son adoptadas y solicita una prueba de ADN. Rolando llega al puerto.(n)</desc>
+    <credits>
+      <actor>Alejandra Ambrosi</actor>
+      <actor>Vanessa Terkes</actor>
+      <actor>Salvador Zerboni</actor>
+      <actor>Mario Escalante</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p14988984_b_h10_aa.jpg" />
+    <country lang="es">MEX</country>
+  </programme>
+  <programme start="20220909072500 +0000" stop="20220909081000 +0000" channel="-BitMe">
+    <title lang="es">¡Ay Güey!</title>
+    <desc lang="es">Bermúdez intenta secuestrar a las chicas. Pepe sospecha que sus primas son adoptadas y solicita una prueba de ADN. Rolando llega al puerto.(n)</desc>
+    <credits>
+      <actor>Alejandra Ambrosi</actor>
+      <actor>Vanessa Terkes</actor>
+      <actor>Salvador Zerboni</actor>
+      <actor>Mario Escalante</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p14988984_b_h10_aa.jpg" />
+    <country lang="es">MEX</country>
+  </programme>
+  <programme start="20220909081000 +0000" stop="20220909090000 +0000" channel="-BitMe">
+    <title lang="es">Terminales</title>
+    <desc lang="es">Una joven decide ir a su fiesta de graduación antes de iniciar con sus quimioterapias.(n)</desc>
+    <credits>
+      <actor>Ana Talancón</actor>
+      <actor>Andrés Almeida</actor>
+      <actor>Danny Perea</actor>
+      <actor>Geraldine Galván</actor>
+      <actor>Alfonso Herrera</actor>
+      <actor>Humberto Busto</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p8388236_b_h10_ab.jpg" />
+  </programme>
+  <programme start="20220909081000 +0000" stop="20220909090000 +0000" channel="-BitMe">
+    <title lang="es">Terminales</title>
+    <desc lang="es">Una joven decide ir a su fiesta de graduación antes de iniciar con sus quimioterapias.(n)</desc>
+    <credits>
+      <actor>Ana Talancón</actor>
+      <actor>Andrés Almeida</actor>
+      <actor>Danny Perea</actor>
+      <actor>Geraldine Galván</actor>
+      <actor>Alfonso Herrera</actor>
+      <actor>Humberto Busto</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p8388236_b_h10_ab.jpg" />
+  </programme>
+  <programme start="20220909081000 +0000" stop="20220909090000 +0000" channel="-BitMe">
+    <title lang="es">Terminales</title>
+    <desc lang="es">Una joven decide ir a su fiesta de graduación antes de iniciar con sus quimioterapias.(n)</desc>
+    <credits>
+      <actor>Ana Talancón</actor>
+      <actor>Andrés Almeida</actor>
+      <actor>Danny Perea</actor>
+      <actor>Geraldine Galván</actor>
+      <actor>Alfonso Herrera</actor>
+      <actor>Humberto Busto</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p8388236_b_h10_ab.jpg" />
+  </programme>
+  <programme start="20220909090000 +0000" stop="20220909095000 +0000" channel="-BitMe">
+    <title lang="es">Érase una vez</title>
+    <desc lang="es">Vicente tiene un nieto llamado Rafa, el cual debe usar aparatos para caminar; el chico hace lo que sea necesario, con tal de poder conseguir un propósito y mejorar su condición de vida.(n)</desc>
+    <credits>
+      <actor>Arturo Ríos</actor>
+      <actor>Adrián Herrera</actor>
+      <actor>Raúl Adalid</actor>
+      <actor>Mauro Sánchez</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p14632907_b_h10_aa.jpg" />
+    <country lang="es">MEX</country>
+  </programme>
+  <programme start="20220909090000 +0000" stop="20220909095000 +0000" channel="-BitMe">
+    <title lang="es">Érase una vez</title>
+    <desc lang="es">Vicente tiene un nieto llamado Rafa, el cual debe usar aparatos para caminar; el chico hace lo que sea necesario, con tal de poder conseguir un propósito y mejorar su condición de vida.(n)</desc>
+    <credits>
+      <actor>Arturo Ríos</actor>
+      <actor>Adrián Herrera</actor>
+      <actor>Raúl Adalid</actor>
+      <actor>Mauro Sánchez</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p14632907_b_h10_aa.jpg" />
+    <country lang="es">MEX</country>
+  </programme>
+  <programme start="20220909090000 +0000" stop="20220909095000 +0000" channel="-BitMe">
+    <title lang="es">Érase una vez</title>
+    <desc lang="es">Vicente tiene un nieto llamado Rafa, el cual debe usar aparatos para caminar; el chico hace lo que sea necesario, con tal de poder conseguir un propósito y mejorar su condición de vida.(n)</desc>
+    <credits>
+      <actor>Arturo Ríos</actor>
+      <actor>Adrián Herrera</actor>
+      <actor>Raúl Adalid</actor>
+      <actor>Mauro Sánchez</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p14632907_b_h10_aa.jpg" />
+    <country lang="es">MEX</country>
+  </programme>
+  <programme start="20220909095000 +0000" stop="20220909103500 +0000" channel="-BitMe">
+    <title lang="es">¡Ay Güey!</title>
+    <desc lang="es">Bermúdez intenta secuestrar a las chicas. Pepe sospecha que sus primas son adoptadas y solicita una prueba de ADN. Rolando llega al puerto.(n)</desc>
+    <credits>
+      <actor>Alejandra Ambrosi</actor>
+      <actor>Vanessa Terkes</actor>
+      <actor>Salvador Zerboni</actor>
+      <actor>Mario Escalante</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p14988984_b_h10_aa.jpg" />
+    <country lang="es">MEX</country>
+  </programme>
+  <programme start="20220909095000 +0000" stop="20220909103500 +0000" channel="-BitMe">
+    <title lang="es">¡Ay Güey!</title>
+    <desc lang="es">Bermúdez intenta secuestrar a las chicas. Pepe sospecha que sus primas son adoptadas y solicita una prueba de ADN. Rolando llega al puerto.(n)</desc>
+    <credits>
+      <actor>Alejandra Ambrosi</actor>
+      <actor>Vanessa Terkes</actor>
+      <actor>Salvador Zerboni</actor>
+      <actor>Mario Escalante</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p14988984_b_h10_aa.jpg" />
+    <country lang="es">MEX</country>
+  </programme>
+  <programme start="20220909095000 +0000" stop="20220909103500 +0000" channel="-BitMe">
+    <title lang="es">¡Ay Güey!</title>
+    <desc lang="es">Bermúdez intenta secuestrar a las chicas. Pepe sospecha que sus primas son adoptadas y solicita una prueba de ADN. Rolando llega al puerto.(n)</desc>
+    <credits>
+      <actor>Alejandra Ambrosi</actor>
+      <actor>Vanessa Terkes</actor>
+      <actor>Salvador Zerboni</actor>
+      <actor>Mario Escalante</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p14988984_b_h10_aa.jpg" />
+    <country lang="es">MEX</country>
+  </programme>
+  <programme start="20220909103500 +0000" stop="20220909112500 +0000" channel="-BitMe">
+    <title lang="es">Terminales</title>
+    <desc lang="es">Una joven decide ir a su fiesta de graduación antes de iniciar con sus quimioterapias.(n)</desc>
+    <credits>
+      <actor>Ana Talancón</actor>
+      <actor>Andrés Almeida</actor>
+      <actor>Danny Perea</actor>
+      <actor>Geraldine Galván</actor>
+      <actor>Alfonso Herrera</actor>
+      <actor>Humberto Busto</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p8388236_b_h10_ab.jpg" />
+  </programme>
+  <programme start="20220909103500 +0000" stop="20220909112500 +0000" channel="-BitMe">
+    <title lang="es">Terminales</title>
+    <desc lang="es">Una joven decide ir a su fiesta de graduación antes de iniciar con sus quimioterapias.(n)</desc>
+    <credits>
+      <actor>Ana Talancón</actor>
+      <actor>Andrés Almeida</actor>
+      <actor>Danny Perea</actor>
+      <actor>Geraldine Galván</actor>
+      <actor>Alfonso Herrera</actor>
+      <actor>Humberto Busto</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p8388236_b_h10_ab.jpg" />
+  </programme>
+  <programme start="20220909103500 +0000" stop="20220909112500 +0000" channel="-BitMe">
+    <title lang="es">Terminales</title>
+    <desc lang="es">Una joven decide ir a su fiesta de graduación antes de iniciar con sus quimioterapias.(n)</desc>
+    <credits>
+      <actor>Ana Talancón</actor>
+      <actor>Andrés Almeida</actor>
+      <actor>Danny Perea</actor>
+      <actor>Geraldine Galván</actor>
+      <actor>Alfonso Herrera</actor>
+      <actor>Humberto Busto</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p8388236_b_h10_ab.jpg" />
+  </programme>
+  <programme start="20220909112500 +0000" stop="20220909122000 +0000" channel="-BitMe">
+    <title lang="es">Súper X</title>
+    <desc lang="es">La vida de Alex es casi normal: aún vive con su madre, trabaja en una tienda de videos, no tiene suerte con la mujeres y para colmo sus dos mejores amigos son sus peores consejeros. Sin embargo su suerte cambiará en un abrir y cerrar de ojos.(n)</desc>
+    <credits>
+      <actor>Michelle Renaud</actor>
+      <actor>Claudia Ramírez</actor>
+      <actor>Mauricio Llera</actor>
+      <actor>Axel Ricco</actor>
+      <actor>Paco Rueda</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p13746466_b_h10_aa.jpg" />
+    <country lang="es">MEX</country>
+  </programme>
+  <programme start="20220909112500 +0000" stop="20220909122000 +0000" channel="-BitMe">
+    <title lang="es">Súper X</title>
+    <desc lang="es">La vida de Alex es casi normal: aún vive con su madre, trabaja en una tienda de videos, no tiene suerte con la mujeres y para colmo sus dos mejores amigos son sus peores consejeros. Sin embargo su suerte cambiará en un abrir y cerrar de ojos.(n)</desc>
+    <credits>
+      <actor>Michelle Renaud</actor>
+      <actor>Claudia Ramírez</actor>
+      <actor>Mauricio Llera</actor>
+      <actor>Axel Ricco</actor>
+      <actor>Paco Rueda</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p13746466_b_h10_aa.jpg" />
+    <country lang="es">MEX</country>
+  </programme>
+  <programme start="20220909112500 +0000" stop="20220909122000 +0000" channel="-BitMe">
+    <title lang="es">Súper X</title>
+    <desc lang="es">La vida de Alex es casi normal: aún vive con su madre, trabaja en una tienda de videos, no tiene suerte con la mujeres y para colmo sus dos mejores amigos son sus peores consejeros. Sin embargo su suerte cambiará en un abrir y cerrar de ojos.(n)</desc>
+    <credits>
+      <actor>Michelle Renaud</actor>
+      <actor>Claudia Ramírez</actor>
+      <actor>Mauricio Llera</actor>
+      <actor>Axel Ricco</actor>
+      <actor>Paco Rueda</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p13746466_b_h10_aa.jpg" />
+    <country lang="es">MEX</country>
+  </programme>
+  <programme start="20220909122000 +0000" stop="20220909133000 +0000" channel="-BitMe">
+    <title lang="es">El Chapulín Colorado animado</title>
+    <desc lang="es">Un héroe usa su carisma para ayudar a los indefensos quienes terminan ayudándolo a él, causando situaciones graciosas y muy divertidas.(n)</desc>
+    <credits>
+      <actor>Jesús Guzmán</actor>
+      <actor>Erica Edwards</actor>
+      <actor>María Mendoza Madera</actor>
+      <actor>Miguel Angel Ghigliazza</actor>
+      <actor>Rebeca Manríquez</actor>
+      <actor>Gabriel Basurto</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p11992962_b_h10_ab.jpg" />
+    <country lang="es">MEX</country>
+  </programme>
+  <programme start="20220909122000 +0000" stop="20220909133000 +0000" channel="-BitMe">
+    <title lang="es">El Chapulín Colorado animado</title>
+    <desc lang="es">Un héroe usa su carisma para ayudar a los indefensos quienes terminan ayudándolo a él, causando situaciones graciosas y muy divertidas.(n)</desc>
+    <credits>
+      <actor>Jesús Guzmán</actor>
+      <actor>Erica Edwards</actor>
+      <actor>María Mendoza Madera</actor>
+      <actor>Miguel Angel Ghigliazza</actor>
+      <actor>Rebeca Manríquez</actor>
+      <actor>Gabriel Basurto</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p11992962_b_h10_ab.jpg" />
+    <country lang="es">MEX</country>
+  </programme>
+  <programme start="20220909122000 +0000" stop="20220909133000 +0000" channel="-BitMe">
+    <title lang="es">El Chapulín Colorado animado</title>
+    <desc lang="es">Un héroe usa su carisma para ayudar a los indefensos quienes terminan ayudándolo a él, causando situaciones graciosas y muy divertidas.(n)</desc>
+    <credits>
+      <actor>Jesús Guzmán</actor>
+      <actor>Erica Edwards</actor>
+      <actor>María Mendoza Madera</actor>
+      <actor>Miguel Angel Ghigliazza</actor>
+      <actor>Rebeca Manríquez</actor>
+      <actor>Gabriel Basurto</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p11992962_b_h10_ab.jpg" />
+    <country lang="es">MEX</country>
+  </programme>
+  <programme start="20220909133000 +0000" stop="20220909144000 +0000" channel="-BitMe">
+    <title lang="es">Yu-Gi-Oh!</title>
+    <desc lang="es">Un estudiante llamado Yugi Moto recibe de su abuelo, piezas fragmentadas de un artefacto egipcio. Cuando se junta las piezas, el espíritu de un antiguo faraón de tres mil años toma posesión de ella.(n)</desc>
+    <credits>
+      <actor>Dan Green</actor>
+      <actor>Eric Stuart</actor>
+      <actor>Amy Birnbaum</actor>
+      <actor>Darren Dunstan</actor>
+      <actor>Wayne Grayson</actor>
+      <actor>Tara Jayne</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p534172_b_h10_aa.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220909133000 +0000" stop="20220909144000 +0000" channel="-BitMe">
+    <title lang="es">Yu-Gi-Oh!</title>
+    <desc lang="es">Un estudiante llamado Yugi Moto recibe de su abuelo, piezas fragmentadas de un artefacto egipcio. Cuando se junta las piezas, el espíritu de un antiguo faraón de tres mil años toma posesión de ella.(n)</desc>
+    <credits>
+      <actor>Dan Green</actor>
+      <actor>Eric Stuart</actor>
+      <actor>Amy Birnbaum</actor>
+      <actor>Darren Dunstan</actor>
+      <actor>Wayne Grayson</actor>
+      <actor>Tara Jayne</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p534172_b_h10_aa.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220909133000 +0000" stop="20220909144000 +0000" channel="-BitMe">
+    <title lang="es">Yu-Gi-Oh!</title>
+    <desc lang="es">Un estudiante llamado Yugi Moto recibe de su abuelo, piezas fragmentadas de un artefacto egipcio. Cuando se junta las piezas, el espíritu de un antiguo faraón de tres mil años toma posesión de ella.(n)</desc>
+    <credits>
+      <actor>Dan Green</actor>
+      <actor>Eric Stuart</actor>
+      <actor>Amy Birnbaum</actor>
+      <actor>Darren Dunstan</actor>
+      <actor>Wayne Grayson</actor>
+      <actor>Tara Jayne</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p534172_b_h10_aa.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220909144000 +0000" stop="20220909162000 +0000" channel="-BitMe">
+    <title lang="es">Universo marcial</title>
+    <desc lang="es">El destino de un adolescente cambia dramáticamente después de convertirse en un maestro de artes marciales y que busca proteger al mundo de una secta demoníaca empeñada en dominar el mundo.(n)</desc>
+    <credits>
+      <actor>Yang Yang</actor>
+      <actor>Wu Chun</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p15743005_b_h10_ab.jpg" />
+    <country lang="es">CHN</country>
+  </programme>
+  <programme start="20220909144000 +0000" stop="20220909162000 +0000" channel="-BitMe">
+    <title lang="es">Universo marcial</title>
+    <desc lang="es">El destino de un adolescente cambia dramáticamente después de convertirse en un maestro de artes marciales y que busca proteger al mundo de una secta demoníaca empeñada en dominar el mundo.(n)</desc>
+    <credits>
+      <actor>Yang Yang</actor>
+      <actor>Wu Chun</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p15743005_b_h10_ab.jpg" />
+    <country lang="es">CHN</country>
+  </programme>
+  <programme start="20220909144000 +0000" stop="20220909162000 +0000" channel="-BitMe">
+    <title lang="es">Universo marcial</title>
+    <desc lang="es">El destino de un adolescente cambia dramáticamente después de convertirse en un maestro de artes marciales y que busca proteger al mundo de una secta demoníaca empeñada en dominar el mundo.(n)</desc>
+    <credits>
+      <actor>Yang Yang</actor>
+      <actor>Wu Chun</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p15743005_b_h10_ab.jpg" />
+    <country lang="es">CHN</country>
+  </programme>
+  <programme start="20220909162000 +0000" stop="20220909171500 +0000" channel="-BitMe">
+    <title lang="es">Sailor Moon</title>
+    <desc lang="es">Una joven propensa a los problemas recibe la habilidad de transformarse en una poderosa heroína y reúne un equipo de amigos y aliados para luchar contra las fuerzas del mal que amenazan al mundo.(n)</desc>
+    <credits>
+      <actor>Patricia Acevedo</actor>
+      <actor>Rossy Aguirre</actor>
+      <actor>Mónica Manjarrez</actor>
+      <actor>Adriana Olmedo</actor>
+      <actor>María Morales</actor>
+      <actor>Cristina Hernandez</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p19015874_b_h10_aa.jpg" />
+    <country lang="es">JPN</country>
+  </programme>
+  <programme start="20220909162000 +0000" stop="20220909171500 +0000" channel="-BitMe">
+    <title lang="es">Sailor Moon</title>
+    <desc lang="es">Una joven propensa a los problemas recibe la habilidad de transformarse en una poderosa heroína y reúne un equipo de amigos y aliados para luchar contra las fuerzas del mal que amenazan al mundo.(n)</desc>
+    <credits>
+      <actor>Patricia Acevedo</actor>
+      <actor>Rossy Aguirre</actor>
+      <actor>Mónica Manjarrez</actor>
+      <actor>Adriana Olmedo</actor>
+      <actor>María Morales</actor>
+      <actor>Cristina Hernandez</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p19015874_b_h10_aa.jpg" />
+    <country lang="es">JPN</country>
+  </programme>
+  <programme start="20220909162000 +0000" stop="20220909171500 +0000" channel="-BitMe">
+    <title lang="es">Sailor Moon</title>
+    <desc lang="es">Una joven propensa a los problemas recibe la habilidad de transformarse en una poderosa heroína y reúne un equipo de amigos y aliados para luchar contra las fuerzas del mal que amenazan al mundo.(n)</desc>
+    <credits>
+      <actor>Patricia Acevedo</actor>
+      <actor>Rossy Aguirre</actor>
+      <actor>Mónica Manjarrez</actor>
+      <actor>Adriana Olmedo</actor>
+      <actor>María Morales</actor>
+      <actor>Cristina Hernandez</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p19015874_b_h10_aa.jpg" />
+    <country lang="es">JPN</country>
+  </programme>
+  <programme start="20220909171500 +0000" stop="20220909182500 +0000" channel="-BitMe">
+    <title lang="es">Yu-Gi-Oh!</title>
+    <desc lang="es">Un estudiante llamado Yugi Moto recibe de su abuelo, piezas fragmentadas de un artefacto egipcio. Cuando se junta las piezas, el espíritu de un antiguo faraón de tres mil años toma posesión de ella.(n)</desc>
+    <credits>
+      <actor>Dan Green</actor>
+      <actor>Eric Stuart</actor>
+      <actor>Amy Birnbaum</actor>
+      <actor>Darren Dunstan</actor>
+      <actor>Wayne Grayson</actor>
+      <actor>Tara Jayne</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p534172_b_h10_aa.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220909171500 +0000" stop="20220909182500 +0000" channel="-BitMe">
+    <title lang="es">Yu-Gi-Oh!</title>
+    <desc lang="es">Un estudiante llamado Yugi Moto recibe de su abuelo, piezas fragmentadas de un artefacto egipcio. Cuando se junta las piezas, el espíritu de un antiguo faraón de tres mil años toma posesión de ella.(n)</desc>
+    <credits>
+      <actor>Dan Green</actor>
+      <actor>Eric Stuart</actor>
+      <actor>Amy Birnbaum</actor>
+      <actor>Darren Dunstan</actor>
+      <actor>Wayne Grayson</actor>
+      <actor>Tara Jayne</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p534172_b_h10_aa.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220909171500 +0000" stop="20220909182500 +0000" channel="-BitMe">
+    <title lang="es">Yu-Gi-Oh!</title>
+    <desc lang="es">Un estudiante llamado Yugi Moto recibe de su abuelo, piezas fragmentadas de un artefacto egipcio. Cuando se junta las piezas, el espíritu de un antiguo faraón de tres mil años toma posesión de ella.(n)</desc>
+    <credits>
+      <actor>Dan Green</actor>
+      <actor>Eric Stuart</actor>
+      <actor>Amy Birnbaum</actor>
+      <actor>Darren Dunstan</actor>
+      <actor>Wayne Grayson</actor>
+      <actor>Tara Jayne</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p534172_b_h10_aa.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220909182500 +0000" stop="20220909191500 +0000" channel="-BitMe">
+    <title lang="es">Attack on Titan</title>
+    <desc lang="es">Tres amigos se unen al Cuerpo de Inspectores para intentar recuperar su mundo de los Titanes.(n)</desc>
+    <credits>
+      <actor>Bryce Papenbrook</actor>
+      <actor>Josh Grelle</actor>
+      <actor>Trina Nishimura</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p18244102_b_h10_aa.jpg" />
+    <country lang="es">JPN</country>
+  </programme>
+  <programme start="20220909182500 +0000" stop="20220909191500 +0000" channel="-BitMe">
+    <title lang="es">Attack on Titan</title>
+    <desc lang="es">Tres amigos se unen al Cuerpo de Inspectores para intentar recuperar su mundo de los Titanes.(n)</desc>
+    <credits>
+      <actor>Bryce Papenbrook</actor>
+      <actor>Josh Grelle</actor>
+      <actor>Trina Nishimura</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p18244102_b_h10_aa.jpg" />
+    <country lang="es">JPN</country>
+  </programme>
+  <programme start="20220909182500 +0000" stop="20220909191500 +0000" channel="-BitMe">
+    <title lang="es">Attack on Titan</title>
+    <desc lang="es">Tres amigos se unen al Cuerpo de Inspectores para intentar recuperar su mundo de los Titanes.(n)</desc>
+    <credits>
+      <actor>Bryce Papenbrook</actor>
+      <actor>Josh Grelle</actor>
+      <actor>Trina Nishimura</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p18244102_b_h10_aa.jpg" />
+    <country lang="es">JPN</country>
+  </programme>
+  <programme start="20220909191500 +0000" stop="20220909200500 +0000" channel="-BitMe">
+    <title lang="es">My Hero Academia</title>
+    <desc lang="es">Izuku, un niño nacido sin poderes, sueña con ser un superhéroe y se inscribe en una escuela para entrenar bajo la tutela de su ídolo, All Might.(n)</desc>
+    <credits>
+      <actor>Daiki Yamashita</actor>
+      <actor>Nobuhiko Okamoto</actor>
+      <actor>Ayane Sakura</actor>
+      <actor>Kenta Miyake</actor>
+      <actor>Kaito Ishikawa</actor>
+      <actor>Yûki Kaji</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p12793542_b_h10_af.jpg" />
+    <country lang="es">JPN</country>
+  </programme>
+  <programme start="20220909191500 +0000" stop="20220909200500 +0000" channel="-BitMe">
+    <title lang="es">My Hero Academia</title>
+    <desc lang="es">Izuku, un niño nacido sin poderes, sueña con ser un superhéroe y se inscribe en una escuela para entrenar bajo la tutela de su ídolo, All Might.(n)</desc>
+    <credits>
+      <actor>Daiki Yamashita</actor>
+      <actor>Nobuhiko Okamoto</actor>
+      <actor>Ayane Sakura</actor>
+      <actor>Kenta Miyake</actor>
+      <actor>Kaito Ishikawa</actor>
+      <actor>Yûki Kaji</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p12793542_b_h10_af.jpg" />
+    <country lang="es">JPN</country>
+  </programme>
+  <programme start="20220909191500 +0000" stop="20220909200500 +0000" channel="-BitMe">
+    <title lang="es">My Hero Academia</title>
+    <desc lang="es">Izuku, un niño nacido sin poderes, sueña con ser un superhéroe y se inscribe en una escuela para entrenar bajo la tutela de su ídolo, All Might.(n)</desc>
+    <credits>
+      <actor>Daiki Yamashita</actor>
+      <actor>Nobuhiko Okamoto</actor>
+      <actor>Ayane Sakura</actor>
+      <actor>Kenta Miyake</actor>
+      <actor>Kaito Ishikawa</actor>
+      <actor>Yûki Kaji</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p12793542_b_h10_af.jpg" />
+    <country lang="es">JPN</country>
+  </programme>
+  <programme start="20220909200500 +0000" stop="20220909205500 +0000" channel="-BitMe">
+    <title lang="es">Assassination Classroom</title>
+    <credits>
+      <actor>Jun Fukuyama</actor>
+      <actor>Mai Fuchigami</actor>
+      <actor>Aya Suzaki</actor>
+      <actor>Nobuhiko Okamoto</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p11415602_b_h10_ae.jpg" />
+    <country lang="es">JPN</country>
+  </programme>
+  <programme start="20220909200500 +0000" stop="20220909205500 +0000" channel="-BitMe">
+    <title lang="es">Assassination Classroom</title>
+    <credits>
+      <actor>Jun Fukuyama</actor>
+      <actor>Mai Fuchigami</actor>
+      <actor>Aya Suzaki</actor>
+      <actor>Nobuhiko Okamoto</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p11415602_b_h10_ae.jpg" />
+    <country lang="es">JPN</country>
+  </programme>
+  <programme start="20220909200500 +0000" stop="20220909205500 +0000" channel="-BitMe">
+    <title lang="es">Assassination Classroom</title>
+    <credits>
+      <actor>Jun Fukuyama</actor>
+      <actor>Mai Fuchigami</actor>
+      <actor>Aya Suzaki</actor>
+      <actor>Nobuhiko Okamoto</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p11415602_b_h10_ae.jpg" />
+    <country lang="es">JPN</country>
+  </programme>
+  <programme start="20220909205500 +0000" stop="20220909223500 +0000" channel="-BitMe">
+    <title lang="es">Universo marcial</title>
+    <desc lang="es">El destino de un adolescente cambia dramáticamente después de convertirse en un maestro de artes marciales y que busca proteger al mundo de una secta demoníaca empeñada en dominar el mundo.(n)</desc>
+    <credits>
+      <actor>Yang Yang</actor>
+      <actor>Wu Chun</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p15743005_b_h10_ab.jpg" />
+    <country lang="es">CHN</country>
+  </programme>
+  <programme start="20220909205500 +0000" stop="20220909223500 +0000" channel="-BitMe">
+    <title lang="es">Universo marcial</title>
+    <desc lang="es">El destino de un adolescente cambia dramáticamente después de convertirse en un maestro de artes marciales y que busca proteger al mundo de una secta demoníaca empeñada en dominar el mundo.(n)</desc>
+    <credits>
+      <actor>Yang Yang</actor>
+      <actor>Wu Chun</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p15743005_b_h10_ab.jpg" />
+    <country lang="es">CHN</country>
+  </programme>
+  <programme start="20220909205500 +0000" stop="20220909223500 +0000" channel="-BitMe">
+    <title lang="es">Universo marcial</title>
+    <desc lang="es">El destino de un adolescente cambia dramáticamente después de convertirse en un maestro de artes marciales y que busca proteger al mundo de una secta demoníaca empeñada en dominar el mundo.(n)</desc>
+    <credits>
+      <actor>Yang Yang</actor>
+      <actor>Wu Chun</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p15743005_b_h10_ab.jpg" />
+    <country lang="es">CHN</country>
+  </programme>
+  <programme start="20220909223500 +0000" stop="20220909233000 +0000" channel="-BitMe">
+    <title lang="es">Sailor Moon</title>
+    <desc lang="es">Una joven propensa a los problemas recibe la habilidad de transformarse en una poderosa heroína y reúne un equipo de amigos y aliados para luchar contra las fuerzas del mal que amenazan al mundo.(n)</desc>
+    <credits>
+      <actor>Patricia Acevedo</actor>
+      <actor>Rossy Aguirre</actor>
+      <actor>Mónica Manjarrez</actor>
+      <actor>Adriana Olmedo</actor>
+      <actor>María Morales</actor>
+      <actor>Cristina Hernandez</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p19015874_b_h10_aa.jpg" />
+    <country lang="es">JPN</country>
+  </programme>
+  <programme start="20220909223500 +0000" stop="20220909233000 +0000" channel="-BitMe">
+    <title lang="es">Sailor Moon</title>
+    <desc lang="es">Una joven propensa a los problemas recibe la habilidad de transformarse en una poderosa heroína y reúne un equipo de amigos y aliados para luchar contra las fuerzas del mal que amenazan al mundo.(n)</desc>
+    <credits>
+      <actor>Patricia Acevedo</actor>
+      <actor>Rossy Aguirre</actor>
+      <actor>Mónica Manjarrez</actor>
+      <actor>Adriana Olmedo</actor>
+      <actor>María Morales</actor>
+      <actor>Cristina Hernandez</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p19015874_b_h10_aa.jpg" />
+    <country lang="es">JPN</country>
+  </programme>
+  <programme start="20220909223500 +0000" stop="20220909233000 +0000" channel="-BitMe">
+    <title lang="es">Sailor Moon</title>
+    <desc lang="es">Una joven propensa a los problemas recibe la habilidad de transformarse en una poderosa heroína y reúne un equipo de amigos y aliados para luchar contra las fuerzas del mal que amenazan al mundo.(n)</desc>
+    <credits>
+      <actor>Patricia Acevedo</actor>
+      <actor>Rossy Aguirre</actor>
+      <actor>Mónica Manjarrez</actor>
+      <actor>Adriana Olmedo</actor>
+      <actor>María Morales</actor>
+      <actor>Cristina Hernandez</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p19015874_b_h10_aa.jpg" />
+    <country lang="es">JPN</country>
+  </programme>
+  <programme start="20220909233000 +0000" stop="20220910004000 +0000" channel="-BitMe">
+    <title lang="es">Yu-Gi-Oh!</title>
+    <desc lang="es">Un estudiante llamado Yugi Moto recibe de su abuelo, piezas fragmentadas de un artefacto egipcio. Cuando se junta las piezas, el espíritu de un antiguo faraón de tres mil años toma posesión de ella.(n)</desc>
+    <credits>
+      <actor>Dan Green</actor>
+      <actor>Eric Stuart</actor>
+      <actor>Amy Birnbaum</actor>
+      <actor>Darren Dunstan</actor>
+      <actor>Wayne Grayson</actor>
+      <actor>Tara Jayne</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p534172_b_h10_aa.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220909233000 +0000" stop="20220910004000 +0000" channel="-BitMe">
+    <title lang="es">Yu-Gi-Oh!</title>
+    <desc lang="es">Un estudiante llamado Yugi Moto recibe de su abuelo, piezas fragmentadas de un artefacto egipcio. Cuando se junta las piezas, el espíritu de un antiguo faraón de tres mil años toma posesión de ella.(n)</desc>
+    <credits>
+      <actor>Dan Green</actor>
+      <actor>Eric Stuart</actor>
+      <actor>Amy Birnbaum</actor>
+      <actor>Darren Dunstan</actor>
+      <actor>Wayne Grayson</actor>
+      <actor>Tara Jayne</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p534172_b_h10_aa.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220909233000 +0000" stop="20220910004000 +0000" channel="-BitMe">
+    <title lang="es">Yu-Gi-Oh!</title>
+    <desc lang="es">Un estudiante llamado Yugi Moto recibe de su abuelo, piezas fragmentadas de un artefacto egipcio. Cuando se junta las piezas, el espíritu de un antiguo faraón de tres mil años toma posesión de ella.(n)</desc>
+    <credits>
+      <actor>Dan Green</actor>
+      <actor>Eric Stuart</actor>
+      <actor>Amy Birnbaum</actor>
+      <actor>Darren Dunstan</actor>
+      <actor>Wayne Grayson</actor>
+      <actor>Tara Jayne</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p534172_b_h10_aa.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910004000 +0000" stop="20220910013000 +0000" channel="-BitMe">
+    <title lang="es">Attack on Titan</title>
+    <desc lang="es">Tres amigos se unen al Cuerpo de Inspectores para intentar recuperar su mundo de los Titanes.(n)</desc>
+    <credits>
+      <actor>Bryce Papenbrook</actor>
+      <actor>Josh Grelle</actor>
+      <actor>Trina Nishimura</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p18244102_b_h10_aa.jpg" />
+    <country lang="es">JPN</country>
+  </programme>
+  <programme start="20220910004000 +0000" stop="20220910013000 +0000" channel="-BitMe">
+    <title lang="es">Attack on Titan</title>
+    <desc lang="es">Tres amigos se unen al Cuerpo de Inspectores para intentar recuperar su mundo de los Titanes.(n)</desc>
+    <credits>
+      <actor>Bryce Papenbrook</actor>
+      <actor>Josh Grelle</actor>
+      <actor>Trina Nishimura</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p18244102_b_h10_aa.jpg" />
+    <country lang="es">JPN</country>
+  </programme>
+  <programme start="20220910004000 +0000" stop="20220910013000 +0000" channel="-BitMe">
+    <title lang="es">Attack on Titan</title>
+    <desc lang="es">Tres amigos se unen al Cuerpo de Inspectores para intentar recuperar su mundo de los Titanes.(n)</desc>
+    <credits>
+      <actor>Bryce Papenbrook</actor>
+      <actor>Josh Grelle</actor>
+      <actor>Trina Nishimura</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p18244102_b_h10_aa.jpg" />
+    <country lang="es">JPN</country>
+  </programme>
+  <programme start="20220910013000 +0000" stop="20220910022000 +0000" channel="-BitMe">
+    <title lang="es">My Hero Academia</title>
+    <desc lang="es">Izuku, un niño nacido sin poderes, sueña con ser un superhéroe y se inscribe en una escuela para entrenar bajo la tutela de su ídolo, All Might.(n)</desc>
+    <credits>
+      <actor>Daiki Yamashita</actor>
+      <actor>Nobuhiko Okamoto</actor>
+      <actor>Ayane Sakura</actor>
+      <actor>Kenta Miyake</actor>
+      <actor>Kaito Ishikawa</actor>
+      <actor>Yûki Kaji</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p12793542_b_h10_af.jpg" />
+    <country lang="es">JPN</country>
+  </programme>
+  <programme start="20220910013000 +0000" stop="20220910022000 +0000" channel="-BitMe">
+    <title lang="es">My Hero Academia</title>
+    <desc lang="es">Izuku, un niño nacido sin poderes, sueña con ser un superhéroe y se inscribe en una escuela para entrenar bajo la tutela de su ídolo, All Might.(n)</desc>
+    <credits>
+      <actor>Daiki Yamashita</actor>
+      <actor>Nobuhiko Okamoto</actor>
+      <actor>Ayane Sakura</actor>
+      <actor>Kenta Miyake</actor>
+      <actor>Kaito Ishikawa</actor>
+      <actor>Yûki Kaji</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p12793542_b_h10_af.jpg" />
+    <country lang="es">JPN</country>
+  </programme>
+  <programme start="20220910013000 +0000" stop="20220910022000 +0000" channel="-BitMe">
+    <title lang="es">My Hero Academia</title>
+    <desc lang="es">Izuku, un niño nacido sin poderes, sueña con ser un superhéroe y se inscribe en una escuela para entrenar bajo la tutela de su ídolo, All Might.(n)</desc>
+    <credits>
+      <actor>Daiki Yamashita</actor>
+      <actor>Nobuhiko Okamoto</actor>
+      <actor>Ayane Sakura</actor>
+      <actor>Kenta Miyake</actor>
+      <actor>Kaito Ishikawa</actor>
+      <actor>Yûki Kaji</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p12793542_b_h10_af.jpg" />
+    <country lang="es">JPN</country>
+  </programme>
+  <programme start="20220910022000 +0000" stop="20220910031000 +0000" channel="-BitMe">
+    <title lang="es">Assassination Classroom</title>
+    <credits>
+      <actor>Jun Fukuyama</actor>
+      <actor>Mai Fuchigami</actor>
+      <actor>Aya Suzaki</actor>
+      <actor>Nobuhiko Okamoto</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p11415602_b_h10_ae.jpg" />
+    <country lang="es">JPN</country>
+  </programme>
+  <programme start="20220910022000 +0000" stop="20220910031000 +0000" channel="-BitMe">
+    <title lang="es">Assassination Classroom</title>
+    <credits>
+      <actor>Jun Fukuyama</actor>
+      <actor>Mai Fuchigami</actor>
+      <actor>Aya Suzaki</actor>
+      <actor>Nobuhiko Okamoto</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p11415602_b_h10_ae.jpg" />
+    <country lang="es">JPN</country>
+  </programme>
+  <programme start="20220910022000 +0000" stop="20220910031000 +0000" channel="-BitMe">
+    <title lang="es">Assassination Classroom</title>
+    <credits>
+      <actor>Jun Fukuyama</actor>
+      <actor>Mai Fuchigami</actor>
+      <actor>Aya Suzaki</actor>
+      <actor>Nobuhiko Okamoto</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p11415602_b_h10_ae.jpg" />
+    <country lang="es">JPN</country>
+  </programme>
+  <programme start="20220910031000 +0000" stop="20220910040000 +0000" channel="-BitMe">
+    <title lang="es">Fear the Walking Dead</title>
+    <desc lang="es">Los conflictos surgen a medida que Abigail llega a su destino. Chris toma una decisión asombrosa. Nick conoce a una nueva figura materna.(n)</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+      <actor>Alycia Debnam-Carey</actor>
+      <actor>Elizabeth Rodriguez</actor>
+      <actor>Mercedes Mason</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p11877956_b_h8_aq.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910031000 +0000" stop="20220910040000 +0000" channel="-BitMe">
+    <title lang="es">Fear the Walking Dead</title>
+    <desc lang="es">Los conflictos surgen a medida que Abigail llega a su destino. Chris toma una decisión asombrosa. Nick conoce a una nueva figura materna.(n)</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+      <actor>Alycia Debnam-Carey</actor>
+      <actor>Elizabeth Rodriguez</actor>
+      <actor>Mercedes Mason</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p11877956_b_h8_aq.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910031000 +0000" stop="20220910040000 +0000" channel="-BitMe">
+    <title lang="es">Fear the Walking Dead</title>
+    <desc lang="es">Los conflictos surgen a medida que Abigail llega a su destino. Chris toma una decisión asombrosa. Nick conoce a una nueva figura materna.(n)</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+      <actor>Alycia Debnam-Carey</actor>
+      <actor>Elizabeth Rodriguez</actor>
+      <actor>Mercedes Mason</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p11877956_b_h8_aq.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910040000 +0000" stop="20220910050700 +0000" channel="-BitMe">
+    <title lang="es">Inquilinos</title>
+    <desc lang="es">Una mujer intenta convencer a las autoridades de que su nuevo vecino es el responsable de la desaparición de su esposa.(n)</desc>
+    <credits>
+      <actor>A.J. Cook</actor>
+      <actor>James Russo</actor>
+      <actor>Matthew Harrison</actor>
+      <actor>Theresa Russell</actor>
+      <actor>Sean Young</actor>
+      <actor>Doyle McCurley</actor>
+    </credits>
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910040000 +0000" stop="20220910050000 +0000" channel="-BitMe">
+    <title lang="es">Inquilinos</title>
+    <desc lang="es">Una mujer intenta convencer a las autoridades de que su nuevo vecino es el responsable de la desaparición de su esposa.(n)</desc>
+    <credits>
+      <actor>A.J. Cook</actor>
+      <actor>James Russo</actor>
+      <actor>Matthew Harrison</actor>
+      <actor>Theresa Russell</actor>
+      <actor>Sean Young</actor>
+      <actor>Doyle McCurley</actor>
+    </credits>
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910040000 +0000" stop="20220910050000 +0000" channel="-BitMe">
+    <title lang="es">Inquilinos</title>
+    <desc lang="es">Una mujer intenta convencer a las autoridades de que su nuevo vecino es el responsable de la desaparición de su esposa.(n)</desc>
+    <credits>
+      <actor>A.J. Cook</actor>
+      <actor>James Russo</actor>
+      <actor>Matthew Harrison</actor>
+      <actor>Theresa Russell</actor>
+      <actor>Sean Young</actor>
+      <actor>Doyle McCurley</actor>
+    </credits>
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910050700 +0000" stop="20220910053200 +0000" channel="-BitMe">
+    <title lang="es">Duck Dodgers</title>
+    <desc lang="es">Duck Dodgers lucha contra el mal en el siglo 24.(n)</desc>
+    <credits>
+      <actor>Joe Alaskey</actor>
+      <actor>Bob Bergen</actor>
+      <actor>Tia Carrere</actor>
+      <actor>Michael Dorn</actor>
+      <actor>Richard McGonagle</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p229122_b_h8_ae.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910053200 +0000" stop="20220910054300 +0000" channel="-BitMe">
+    <title lang="es">El campamento de Lazlo</title>
+    <desc lang="es">El Campamento Kidney no sabe que hacer con su nuevo scout. Lazlo, es un mono de espíritu libre que junto a sus amigos, Clam el rinoceronte albino y Raj el elefante, tratarán de molestar a Lumpus, el estricto jefe de la tropa.(n)</desc>
+    <credits>
+      <actor>Carlos Alazraqui</actor>
+      <actor>Jeff Bennett</actor>
+      <actor>Tom Kenny</actor>
+      <actor>Steve Little</actor>
+      <actor>Mr. Lawrence</actor>
+      <actor>Lars Thiesgaard</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p186139_b_h10_ak.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910054300 +0000" stop="20220910055700 +0000" channel="-BitMe">
+    <title lang="es">El campamento de Lazlo</title>
+    <desc lang="es">El Campamento Kidney no sabe que hacer con su nuevo scout. Lazlo, es un mono de espíritu libre que junto a sus amigos, Clam el rinoceronte albino y Raj el elefante, tratarán de molestar a Lumpus, el estricto jefe de la tropa.(n)</desc>
+    <credits>
+      <actor>Carlos Alazraqui</actor>
+      <actor>Jeff Bennett</actor>
+      <actor>Tom Kenny</actor>
+      <actor>Steve Little</actor>
+      <actor>Mr. Lawrence</actor>
+      <actor>Lars Thiesgaard</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p186139_b_h10_ak.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910055700 +0000" stop="20220910060300 +0000" channel="-BitMe">
+    <title lang="es">Hi Hi Puffy AmiYumi</title>
+    <desc lang="es">Las divertidas aventuras de las estrellas del pop japonés Ami Onuki y Yumi Yoshimura, integrantes del dueto de J-Pop Puffy AmiYumi.(n)</desc>
+    <credits>
+      <actor>Janice Kawaye</actor>
+      <actor>Grey DeLisle</actor>
+      <actor>Keone Young</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p243729_b_h10_ax.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910060300 +0000" stop="20220910061000 +0000" channel="-BitMe">
+    <title lang="es">Hi Hi Puffy AmiYumi</title>
+    <desc lang="es">Las divertidas aventuras de las estrellas del pop japonés Ami Onuki y Yumi Yoshimura, integrantes del dueto de J-Pop Puffy AmiYumi.(n)</desc>
+    <credits>
+      <actor>Janice Kawaye</actor>
+      <actor>Grey DeLisle</actor>
+      <actor>Keone Young</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p243729_b_h10_ax.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910061000 +0000" stop="20220910061600 +0000" channel="-BitMe">
+    <title lang="es">Hi Hi Puffy AmiYumi</title>
+    <desc lang="es">Las divertidas aventuras de las estrellas del pop japonés Ami Onuki y Yumi Yoshimura, integrantes del dueto de J-Pop Puffy AmiYumi.(n)</desc>
+    <credits>
+      <actor>Janice Kawaye</actor>
+      <actor>Grey DeLisle</actor>
+      <actor>Keone Young</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p243729_b_h10_ax.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910061600 +0000" stop="20220910062600 +0000" channel="-BitMe">
+    <title lang="es">Hi Hi Puffy AmiYumi</title>
+    <desc lang="es">Las divertidas aventuras de las estrellas del pop japonés Ami Onuki y Yumi Yoshimura, integrantes del dueto de J-Pop Puffy AmiYumi.(n)</desc>
+    <credits>
+      <actor>Janice Kawaye</actor>
+      <actor>Grey DeLisle</actor>
+      <actor>Keone Young</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p243729_b_h10_ax.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910062600 +0000" stop="20220910063700 +0000" channel="-BitMe">
+    <title lang="es">Mike, Lu y Og</title>
+    <desc lang="es">Un estudiante de intercambio buscando aventura llega a una isla apartada.(n)</desc>
+    <credits>
+      <actor>Nika Frost</actor>
+      <actor>Nancy Cartwright</actor>
+      <actor>Dee Baker</actor>
+      <actor>Martin Rayner</actor>
+      <actor>Kath Soucie</actor>
+      <actor>S. Bullock</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p442204_b_h10_ay.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910063700 +0000" stop="20220910065100 +0000" channel="-BitMe">
+    <title lang="es">Mike, Lu y Og</title>
+    <desc lang="es">Un estudiante de intercambio buscando aventura llega a una isla apartada.(n)</desc>
+    <credits>
+      <actor>Nika Frost</actor>
+      <actor>Nancy Cartwright</actor>
+      <actor>Dee Baker</actor>
+      <actor>Martin Rayner</actor>
+      <actor>Kath Soucie</actor>
+      <actor>S. Bullock</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p442204_b_h10_ay.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910065100 +0000" stop="20220910065800 +0000" channel="-BitMe">
+    <title lang="es">Las sombrías aventuras de Billy y Mandy</title>
+    <desc lang="es">Billy y Mandy, dos niños normales, ganan el desafío en el limbo a Puro Hueso, el representante de la muerte, y como pago por la derrota Puro Hueso debe convertirse en su amigo para siempre.(n)</desc>
+    <credits>
+      <actor>Richard Horvitz</actor>
+      <actor>Grey DeLisle</actor>
+      <actor>Greg Eagles</actor>
+      <actor>Vanessa Marshall</actor>
+      <actor>Jennifer Hale</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p186152_b_h10_ar.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910065800 +0000" stop="20220910070500 +0000" channel="-BitMe">
+    <title lang="es">Las sombrías aventuras de Billy y Mandy</title>
+    <desc lang="es">Billy y Mandy, dos niños normales, ganan el desafío en el limbo a Puro Hueso, el representante de la muerte, y como pago por la derrota Puro Hueso debe convertirse en su amigo para siempre.(n)</desc>
+    <credits>
+      <actor>Richard Horvitz</actor>
+      <actor>Grey DeLisle</actor>
+      <actor>Greg Eagles</actor>
+      <actor>Vanessa Marshall</actor>
+      <actor>Jennifer Hale</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p186152_b_h10_ar.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910070500 +0000" stop="20220910071200 +0000" channel="-BitMe">
+    <title lang="es">Las sombrías aventuras de Billy y Mandy</title>
+    <desc lang="es">Billy y Mandy, dos niños normales, ganan el desafío en el limbo a Puro Hueso, el representante de la muerte, y como pago por la derrota Puro Hueso debe convertirse en su amigo para siempre.(n)</desc>
+    <credits>
+      <actor>Richard Horvitz</actor>
+      <actor>Grey DeLisle</actor>
+      <actor>Greg Eagles</actor>
+      <actor>Vanessa Marshall</actor>
+      <actor>Jennifer Hale</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p186152_b_h10_ar.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910071200 +0000" stop="20220910072200 +0000" channel="-BitMe">
+    <title lang="es">Las sombrías aventuras de Billy y Mandy</title>
+    <desc lang="es">Billy y Mandy, dos niños normales, ganan el desafío en el limbo a Puro Hueso, el representante de la muerte, y como pago por la derrota Puro Hueso debe convertirse en su amigo para siempre.(n)</desc>
+    <credits>
+      <actor>Richard Horvitz</actor>
+      <actor>Grey DeLisle</actor>
+      <actor>Greg Eagles</actor>
+      <actor>Vanessa Marshall</actor>
+      <actor>Jennifer Hale</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p186152_b_h10_ar.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910072200 +0000" stop="20220910073300 +0000" channel="-BitMe">
+    <title lang="es">Jones, el robot</title>
+    <desc lang="es">Un robot joven y valiente se enfrenta a los humanos e intenta sobrevivir a la adolescencia.(n)</desc>
+    <icon src="http://demo.tmsimg.com/assets/p529111_b_h10_ad.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910073300 +0000" stop="20220910074400 +0000" channel="-BitMe">
+    <title lang="es">Jones, el robot</title>
+    <desc lang="es">Un robot joven y valiente se enfrenta a los humanos e intenta sobrevivir a la adolescencia.(n)</desc>
+    <icon src="http://demo.tmsimg.com/assets/p529111_b_h10_ad.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910074400 +0000" stop="20220910075700 +0000" channel="-BitMe">
+    <title lang="es">Jones, el robot</title>
+    <desc lang="es">Un robot joven y valiente se enfrenta a los humanos e intenta sobrevivir a la adolescencia.(n)</desc>
+    <icon src="http://demo.tmsimg.com/assets/p529111_b_h10_ad.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910075700 +0000" stop="20220910082200 +0000" channel="-BitMe">
+    <title lang="es">Dynomutt</title>
+    <desc lang="es">Cuando la ciencia moderna inventa un robot dóberman muy poderoso, el superhéroe Fabulman recibe un compañero canino y mecánico con poderes asombrosos.(n)</desc>
+    <icon src="http://demo.tmsimg.com/assets/p371587_b_h10_ac.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910082200 +0000" stop="20220910082900 +0000" channel="-BitMe">
+    <title lang="es">Zuzubalandia</title>
+    <desc lang="es">La abeja Zuzu vive en el reino de Zuzubalandia, un lugar donde todo está hecho de comida, y sueña con convertirse en cantante, a pesar de que su voz es terrible.(n)</desc>
+    <credits>
+      <actor>Hugo Picchi</actor>
+      <actor>Eduardo Jardim</actor>
+      <actor>Luiza Porto</actor>
+      <actor>Bruna Guerin</actor>
+      <actor>Antoniela Canto</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p15800775_b_h10_ab.jpg" />
+    <country lang="es">BRA</country>
+  </programme>
+  <programme start="20220910082900 +0000" stop="20220910083600 +0000" channel="-BitMe">
+    <title lang="es">Zuzubalandia</title>
+    <desc lang="es">La abeja Zuzu vive en el reino de Zuzubalandia, un lugar donde todo está hecho de comida, y sueña con convertirse en cantante, a pesar de que su voz es terrible.(n)</desc>
+    <credits>
+      <actor>Hugo Picchi</actor>
+      <actor>Eduardo Jardim</actor>
+      <actor>Luiza Porto</actor>
+      <actor>Bruna Guerin</actor>
+      <actor>Antoniela Canto</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p15800775_b_h10_ab.jpg" />
+    <country lang="es">BRA</country>
+  </programme>
+  <programme start="20220910083600 +0000" stop="20220910084300 +0000" channel="-BitMe">
+    <title lang="es">Zuzubalandia</title>
+    <desc lang="es">La abeja Zuzu vive en el reino de Zuzubalandia, un lugar donde todo está hecho de comida, y sueña con convertirse en cantante, a pesar de que su voz es terrible.(n)</desc>
+    <credits>
+      <actor>Hugo Picchi</actor>
+      <actor>Eduardo Jardim</actor>
+      <actor>Luiza Porto</actor>
+      <actor>Bruna Guerin</actor>
+      <actor>Antoniela Canto</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p15800775_b_h10_ab.jpg" />
+    <country lang="es">BRA</country>
+  </programme>
+  <programme start="20220910084300 +0000" stop="20220910085000 +0000" channel="-BitMe">
+    <title lang="es">Zuzubalandia</title>
+    <desc lang="es">La abeja Zuzu vive en el reino de Zuzubalandia, un lugar donde todo está hecho de comida, y sueña con convertirse en cantante, a pesar de que su voz es terrible.(n)</desc>
+    <credits>
+      <actor>Hugo Picchi</actor>
+      <actor>Eduardo Jardim</actor>
+      <actor>Luiza Porto</actor>
+      <actor>Bruna Guerin</actor>
+      <actor>Antoniela Canto</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p15800775_b_h10_ab.jpg" />
+    <country lang="es">BRA</country>
+  </programme>
+  <programme start="20220910085000 +0000" stop="20220910090000 +0000" channel="-BitMe">
+    <title lang="es">Zuzubalandia</title>
+    <desc lang="es">La abeja Zuzu vive en el reino de Zuzubalandia, un lugar donde todo está hecho de comida, y sueña con convertirse en cantante, a pesar de que su voz es terrible.(n)</desc>
+    <credits>
+      <actor>Hugo Picchi</actor>
+      <actor>Eduardo Jardim</actor>
+      <actor>Luiza Porto</actor>
+      <actor>Bruna Guerin</actor>
+      <actor>Antoniela Canto</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p15800775_b_h10_ab.jpg" />
+    <country lang="es">BRA</country>
+  </programme>
+  <programme start="20220910090000 +0000" stop="20220910092100 +0000" channel="-BitMe">
+    <title lang="es">The Zeta Project</title>
+    <desc lang="es">Un robot se rebela contra sus creadores y se niega a ejecutar la orden de matar. La máquina huye para alejarse de los perversos humanos que la forjaron.(n)</desc>
+    <credits>
+      <actor>Diedrich Bader</actor>
+      <actor>Julie Nathanson</actor>
+      <actor>Kurtwood Smith</actor>
+      <actor>Dominique Jennings</actor>
+      <actor>Eli Marienthal</actor>
+      <actor>Michael Rosenbaum</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p304567_b_h8_ad.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910092100 +0000" stop="20220910094300 +0000" channel="-BitMe">
+    <title lang="es">The Zeta Project</title>
+    <desc lang="es">Un robot se rebela contra sus creadores y se niega a ejecutar la orden de matar. La máquina huye para alejarse de los perversos humanos que la forjaron.(n)</desc>
+    <credits>
+      <actor>Diedrich Bader</actor>
+      <actor>Julie Nathanson</actor>
+      <actor>Kurtwood Smith</actor>
+      <actor>Dominique Jennings</actor>
+      <actor>Eli Marienthal</actor>
+      <actor>Michael Rosenbaum</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p304567_b_h8_ad.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910094300 +0000" stop="20220910100500 +0000" channel="-BitMe">
+    <title lang="es">The Zeta Project</title>
+    <desc lang="es">Un robot se rebela contra sus creadores y se niega a ejecutar la orden de matar. La máquina huye para alejarse de los perversos humanos que la forjaron.(n)</desc>
+    <credits>
+      <actor>Diedrich Bader</actor>
+      <actor>Julie Nathanson</actor>
+      <actor>Kurtwood Smith</actor>
+      <actor>Dominique Jennings</actor>
+      <actor>Eli Marienthal</actor>
+      <actor>Michael Rosenbaum</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p304567_b_h8_ad.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910100500 +0000" stop="20220910102800 +0000" channel="-BitMe">
+    <title lang="es">The Real Adventures of Jonny Quest</title>
+    <desc lang="es">Jonny Quest, Hadji Singh, y Jessie Bannon, acompañados por el Dr. Benton Quest y el guardaespalda Race Bannon, investigan fenómenos extraños, leyendas y misterios en lugares exóticos.(n)</desc>
+    <icon src="http://demo.tmsimg.com/assets/p510092_b_h10_aa.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910102800 +0000" stop="20220910104800 +0000" channel="-BitMe">
+    <title lang="es">Legión de Súper Héroes</title>
+    <desc lang="es">Un grupo de superhéroes adolescentes vuelve en el tiempo desde el siglo XXXI para proteger a los Planetas Unidos.(n)</desc>
+    <credits>
+      <actor>Yuri Lowenthal</actor>
+      <actor>Andy Milder</actor>
+      <actor>Kari Wahlgren</actor>
+      <actor>Adam Wylie</actor>
+      <actor>Michael Cornacchia</actor>
+      <actor>Shawn Harrison</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p186027_b_h8_ad.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910104800 +0000" stop="20220910111000 +0000" channel="-BitMe">
+    <title lang="es">Legión de Súper Héroes</title>
+    <desc lang="es">Un grupo de superhéroes adolescentes vuelve en el tiempo desde el siglo XXXI para proteger a los Planetas Unidos.(n)</desc>
+    <credits>
+      <actor>Yuri Lowenthal</actor>
+      <actor>Andy Milder</actor>
+      <actor>Kari Wahlgren</actor>
+      <actor>Adam Wylie</actor>
+      <actor>Michael Cornacchia</actor>
+      <actor>Shawn Harrison</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p186027_b_h8_ad.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910111000 +0000" stop="20220910113300 +0000" channel="-BitMe">
+    <title lang="es">Loonatics Unleashed</title>
+    <desc lang="es">Seis personajes, descendientes de los Looney Tunes, forman un equipo de superhéroes al mando de Zadavia, para proteger a la ciudad.(n)</desc>
+    <icon src="http://demo.tmsimg.com/assets/p259165_b_h8_ab.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910113300 +0000" stop="20220910115400 +0000" channel="-BitMe">
+    <title lang="es">Batman</title>
+    <desc lang="es">Bruce Wayne, un joven millonario que mantiene una personalidad secreta como superhéroe enfrenta a los villanos y defiende a los ciudadanos de Ciudad Gótica. Pero Bruce no está solo; en ocasiones sus amigos lo ayudan en su cruzada.(n)</desc>
+    <credits>
+      <actor>Rino Romano</actor>
+      <actor>Evan Sabara</actor>
+      <actor>Alastair Duncan</actor>
+      <actor>Danielle Judovits</actor>
+      <actor>Kevin Richardson</actor>
+      <actor>Ming-Na Wen</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p185274_b_h10_am.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910115400 +0000" stop="20220910121600 +0000" channel="-BitMe">
+    <title lang="es">Batman</title>
+    <desc lang="es">Bruce Wayne, un joven millonario que mantiene una personalidad secreta como superhéroe enfrenta a los villanos y defiende a los ciudadanos de Ciudad Gótica. Pero Bruce no está solo; en ocasiones sus amigos lo ayudan en su cruzada.(n)</desc>
+    <credits>
+      <actor>Rino Romano</actor>
+      <actor>Evan Sabara</actor>
+      <actor>Alastair Duncan</actor>
+      <actor>Danielle Judovits</actor>
+      <actor>Kevin Richardson</actor>
+      <actor>Ming-Na Wen</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p185274_b_h10_am.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910121600 +0000" stop="20220910123800 +0000" channel="-BitMe">
+    <title lang="es">Batman</title>
+    <desc lang="es">Bruce Wayne, un joven millonario que mantiene una personalidad secreta como superhéroe enfrenta a los villanos y defiende a los ciudadanos de Ciudad Gótica. Pero Bruce no está solo; en ocasiones sus amigos lo ayudan en su cruzada.(n)</desc>
+    <credits>
+      <actor>Rino Romano</actor>
+      <actor>Evan Sabara</actor>
+      <actor>Alastair Duncan</actor>
+      <actor>Danielle Judovits</actor>
+      <actor>Kevin Richardson</actor>
+      <actor>Ming-Na Wen</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p185274_b_h10_am.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910123800 +0000" stop="20220910130400 +0000" channel="-BitMe">
+    <title lang="es">Las Nuevas Aventuras de Scooby Doo</title>
+    <desc lang="es">Shaggy, Daphne, Scooby y Scrappy enfrentan a los villanos.(n)</desc>
+    <credits>
+      <actor>Don Messick</actor>
+      <actor>Casey Kasem</actor>
+      <actor>Heather North</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p509123_b_h8_ad.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910130400 +0000" stop="20220910132800 +0000" channel="-BitMe">
+    <title lang="es">Shaggy y Scooby Doo Detectives</title>
+    <desc lang="es">Los amigos Shaggy y Scooby-Doo enfrentan misterios y protegen sus sabrosos bocadillos.(n)</desc>
+    <icon src="http://demo.tmsimg.com/assets/p186029_b_h10_ac.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910132800 +0000" stop="20220910133500 +0000" channel="-BitMe">
+    <title lang="es">Las aventuras de Tom y Jerry</title>
+    <desc lang="es">Las nuevas aventuras del gato y el ratón más famosos del mundo; ambos se la pasan tramando planes en contra del otro, haciendo bromas y participando en escapadas alrededor del mundo.(n)</desc>
+    <credits>
+      <actor>Don Brown</actor>
+      <actor>Sam Vincent</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p186032_b_h10_aq.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910133500 +0000" stop="20220910134200 +0000" channel="-BitMe">
+    <title lang="es">Las aventuras de Tom y Jerry</title>
+    <desc lang="es">Las nuevas aventuras del gato y el ratón más famosos del mundo; ambos se la pasan tramando planes en contra del otro, haciendo bromas y participando en escapadas alrededor del mundo.(n)</desc>
+    <credits>
+      <actor>Don Brown</actor>
+      <actor>Sam Vincent</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p186032_b_h10_aq.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910134200 +0000" stop="20220910134900 +0000" channel="-BitMe">
+    <title lang="es">Las aventuras de Tom y Jerry</title>
+    <desc lang="es">Las nuevas aventuras del gato y el ratón más famosos del mundo; ambos se la pasan tramando planes en contra del otro, haciendo bromas y participando en escapadas alrededor del mundo.(n)</desc>
+    <credits>
+      <actor>Don Brown</actor>
+      <actor>Sam Vincent</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p186032_b_h10_aq.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910134900 +0000" stop="20220910140000 +0000" channel="-BitMe">
+    <title lang="es">Las aventuras de Tom y Jerry</title>
+    <desc lang="es">Las nuevas aventuras del gato y el ratón más famosos del mundo; ambos se la pasan tramando planes en contra del otro, haciendo bromas y participando en escapadas alrededor del mundo.(n)</desc>
+    <credits>
+      <actor>Don Brown</actor>
+      <actor>Sam Vincent</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p186032_b_h10_aq.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910140000 +0000" stop="20220910140700 +0000" channel="-BitMe">
+    <title lang="es">Los pequeños Tom y Jerry</title>
+    <desc lang="es">Las aventuras de un pequeño Tom y un pequeño Jerry, que se persiguen sin parar.(n)</desc>
+    <credits>
+      <actor>Charlie Adler</actor>
+      <actor>William Callaway</actor>
+      <actor>Brian Cummings</actor>
+      <actor>Pat Fraley</actor>
+      <actor>Teresa Ganzel</actor>
+      <actor>Dick Gautier</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p514991_b_h10_af.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910140700 +0000" stop="20220910141400 +0000" channel="-BitMe">
+    <title lang="es">Los pequeños Tom y Jerry</title>
+    <desc lang="es">Las aventuras de un pequeño Tom y un pequeño Jerry, que se persiguen sin parar.(n)</desc>
+    <credits>
+      <actor>Charlie Adler</actor>
+      <actor>William Callaway</actor>
+      <actor>Brian Cummings</actor>
+      <actor>Pat Fraley</actor>
+      <actor>Teresa Ganzel</actor>
+      <actor>Dick Gautier</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p514991_b_h10_af.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910141400 +0000" stop="20220910142400 +0000" channel="-BitMe">
+    <title lang="es">Los pequeños Tom y Jerry</title>
+    <desc lang="es">Las aventuras de un pequeño Tom y un pequeño Jerry, que se persiguen sin parar.(n)</desc>
+    <credits>
+      <actor>Charlie Adler</actor>
+      <actor>William Callaway</actor>
+      <actor>Brian Cummings</actor>
+      <actor>Pat Fraley</actor>
+      <actor>Teresa Ganzel</actor>
+      <actor>Dick Gautier</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p514991_b_h10_af.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910142400 +0000" stop="20220910144900 +0000" channel="-BitMe">
+    <title lang="es">Los Pequeños Picapiedras</title>
+    <desc lang="es">Aventuras de los traviesos niños Picapiedra.(n)</desc>
+    <credits>
+      <actor>Lennie Weinrib</actor>
+      <actor>Julie McWhirter</actor>
+      <actor>Hamilton Camp</actor>
+      <actor>B.J. Ward</actor>
+      <actor>Scott Menville</actor>
+      <actor>Elizabeth Fraser</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p387347_b_h10_ae.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910144900 +0000" stop="20220910151400 +0000" channel="-BitMe">
+    <title lang="es">Los Pequeños Picapiedras</title>
+    <desc lang="es">Aventuras de los traviesos niños Picapiedra.(n)</desc>
+    <credits>
+      <actor>Lennie Weinrib</actor>
+      <actor>Julie McWhirter</actor>
+      <actor>Hamilton Camp</actor>
+      <actor>B.J. Ward</actor>
+      <actor>Scott Menville</actor>
+      <actor>Elizabeth Fraser</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p387347_b_h10_ae.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910151400 +0000" stop="20220910153900 +0000" channel="-BitMe">
+    <title lang="es">Los Pequeños Picapiedras</title>
+    <desc lang="es">Aventuras de los traviesos niños Picapiedra.(n)</desc>
+    <credits>
+      <actor>Lennie Weinrib</actor>
+      <actor>Julie McWhirter</actor>
+      <actor>Hamilton Camp</actor>
+      <actor>B.J. Ward</actor>
+      <actor>Scott Menville</actor>
+      <actor>Elizabeth Fraser</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p387347_b_h10_ae.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910153900 +0000" stop="20220910154700 +0000" channel="-BitMe">
+    <title lang="es">Pixie y Dixie</title>
+    <desc lang="es">Las aventuras de dos ratoncitos y su enemigo, Mr. Jinks el gato.(n)</desc>
+    <icon src="http://demo.tmsimg.com/assets/p464599_b_h10_ac.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910154700 +0000" stop="20220910155700 +0000" channel="-BitMe">
+    <title lang="es">Pixie y Dixie</title>
+    <desc lang="es">Las aventuras de dos ratoncitos y su enemigo, Mr. Jinks el gato.(n)</desc>
+    <icon src="http://demo.tmsimg.com/assets/p464599_b_h10_ac.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910155700 +0000" stop="20220910160500 +0000" channel="-BitMe">
+    <title lang="es">Pier-No-Doyuna y Patán</title>
+    <desc lang="es">El villano Nodoyuna y su compañero canino, Patán, llevan sus travesuras destructivas de los caminos a los cielos y su misión es evitar que el Palomo Yankee Doodle entregue cualquiera de los mensajes urgentes que contiene su bolsa.(n)</desc>
+    <credits>
+      <actor>Don Messick</actor>
+      <actor>Paul Winchell</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p363571_b_h10_ad.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910160500 +0000" stop="20220910161300 +0000" channel="-BitMe">
+    <title lang="es">Pier-No-Doyuna y Patán</title>
+    <desc lang="es">El villano Nodoyuna y su compañero canino, Patán, llevan sus travesuras destructivas de los caminos a los cielos y su misión es evitar que el Palomo Yankee Doodle entregue cualquiera de los mensajes urgentes que contiene su bolsa.(n)</desc>
+    <credits>
+      <actor>Don Messick</actor>
+      <actor>Paul Winchell</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p363571_b_h10_ad.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910161300 +0000" stop="20220910162100 +0000" channel="-BitMe">
+    <title lang="es">Pier-No-Doyuna y Patán</title>
+    <desc lang="es">El villano Nodoyuna y su compañero canino, Patán, llevan sus travesuras destructivas de los caminos a los cielos y su misión es evitar que el Palomo Yankee Doodle entregue cualquiera de los mensajes urgentes que contiene su bolsa.(n)</desc>
+    <credits>
+      <actor>Don Messick</actor>
+      <actor>Paul Winchell</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p363571_b_h10_ad.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910162100 +0000" stop="20220910163200 +0000" channel="-BitMe">
+    <title lang="es">Pier-No-Doyuna y Patán</title>
+    <desc lang="es">El villano Nodoyuna y su compañero canino, Patán, llevan sus travesuras destructivas de los caminos a los cielos y su misión es evitar que el Palomo Yankee Doodle entregue cualquiera de los mensajes urgentes que contiene su bolsa.(n)</desc>
+    <credits>
+      <actor>Don Messick</actor>
+      <actor>Paul Winchell</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p363571_b_h10_ad.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910163200 +0000" stop="20220910164300 +0000" channel="-BitMe">
+    <title lang="es">Mi compañero de clase es un mono</title>
+    <desc lang="es">Adam Lyon es inscrito por error en una escuela de puros animales, la Secundaria Charles Darwin; el zoológico local y chicos del acuario son sus compañeros de clases: gorilas, jirafas, serpientes, aves, murciélagos y peces.(n)</desc>
+    <credits>
+      <actor>Tom Kenny</actor>
+      <actor>Nika Futterman</actor>
+      <actor>Grey DeLisle</actor>
+      <actor>Maurice LaMarche</actor>
+      <actor>Rick Gomez</actor>
+      <actor>Phil LaMarr</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p186149_b_h10_ai.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910164300 +0000" stop="20220910165400 +0000" channel="-BitMe">
+    <title lang="es">Mi compañero de clase es un mono</title>
+    <desc lang="es">Adam Lyon es inscrito por error en una escuela de puros animales, la Secundaria Charles Darwin; el zoológico local y chicos del acuario son sus compañeros de clases: gorilas, jirafas, serpientes, aves, murciélagos y peces.(n)</desc>
+    <credits>
+      <actor>Tom Kenny</actor>
+      <actor>Nika Futterman</actor>
+      <actor>Grey DeLisle</actor>
+      <actor>Maurice LaMarche</actor>
+      <actor>Rick Gomez</actor>
+      <actor>Phil LaMarr</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p186149_b_h10_ai.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910165400 +0000" stop="20220910170800 +0000" channel="-BitMe">
+    <title lang="es">Mi compañero de clase es un mono</title>
+    <desc lang="es">Adam Lyon es inscrito por error en una escuela de puros animales, la Secundaria Charles Darwin; el zoológico local y chicos del acuario son sus compañeros de clases: gorilas, jirafas, serpientes, aves, murciélagos y peces.(n)</desc>
+    <credits>
+      <actor>Tom Kenny</actor>
+      <actor>Nika Futterman</actor>
+      <actor>Grey DeLisle</actor>
+      <actor>Maurice LaMarche</actor>
+      <actor>Rick Gomez</actor>
+      <actor>Phil LaMarr</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p186149_b_h10_ai.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910170800 +0000" stop="20220910173300 +0000" channel="-BitMe">
+    <title lang="es">Duck Dodgers</title>
+    <desc lang="es">Duck Dodgers lucha contra el mal en el siglo 24.(n)</desc>
+    <credits>
+      <actor>Joe Alaskey</actor>
+      <actor>Bob Bergen</actor>
+      <actor>Tia Carrere</actor>
+      <actor>Michael Dorn</actor>
+      <actor>Richard McGonagle</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p229122_b_h8_ae.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910173300 +0000" stop="20220910174400 +0000" channel="-BitMe">
+    <title lang="es">El campamento de Lazlo</title>
+    <desc lang="es">El Campamento Kidney no sabe que hacer con su nuevo scout. Lazlo, es un mono de espíritu libre que junto a sus amigos, Clam el rinoceronte albino y Raj el elefante, tratarán de molestar a Lumpus, el estricto jefe de la tropa.(n)</desc>
+    <credits>
+      <actor>Carlos Alazraqui</actor>
+      <actor>Jeff Bennett</actor>
+      <actor>Tom Kenny</actor>
+      <actor>Steve Little</actor>
+      <actor>Mr. Lawrence</actor>
+      <actor>Lars Thiesgaard</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p186139_b_h10_ak.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910174400 +0000" stop="20220910175800 +0000" channel="-BitMe">
+    <title lang="es">El campamento de Lazlo</title>
+    <desc lang="es">El Campamento Kidney no sabe que hacer con su nuevo scout. Lazlo, es un mono de espíritu libre que junto a sus amigos, Clam el rinoceronte albino y Raj el elefante, tratarán de molestar a Lumpus, el estricto jefe de la tropa.(n)</desc>
+    <credits>
+      <actor>Carlos Alazraqui</actor>
+      <actor>Jeff Bennett</actor>
+      <actor>Tom Kenny</actor>
+      <actor>Steve Little</actor>
+      <actor>Mr. Lawrence</actor>
+      <actor>Lars Thiesgaard</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p186139_b_h10_ak.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910175800 +0000" stop="20220910180400 +0000" channel="-BitMe">
+    <title lang="es">Hi Hi Puffy AmiYumi</title>
+    <desc lang="es">Las divertidas aventuras de las estrellas del pop japonés Ami Onuki y Yumi Yoshimura, integrantes del dueto de J-Pop Puffy AmiYumi.(n)</desc>
+    <credits>
+      <actor>Janice Kawaye</actor>
+      <actor>Grey DeLisle</actor>
+      <actor>Keone Young</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p243729_b_h10_ax.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910180400 +0000" stop="20220910181100 +0000" channel="-BitMe">
+    <title lang="es">Hi Hi Puffy AmiYumi</title>
+    <desc lang="es">Las divertidas aventuras de las estrellas del pop japonés Ami Onuki y Yumi Yoshimura, integrantes del dueto de J-Pop Puffy AmiYumi.(n)</desc>
+    <credits>
+      <actor>Janice Kawaye</actor>
+      <actor>Grey DeLisle</actor>
+      <actor>Keone Young</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p243729_b_h10_ax.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910181100 +0000" stop="20220910181800 +0000" channel="-BitMe">
+    <title lang="es">Hi Hi Puffy AmiYumi</title>
+    <desc lang="es">Las divertidas aventuras de las estrellas del pop japonés Ami Onuki y Yumi Yoshimura, integrantes del dueto de J-Pop Puffy AmiYumi.(n)</desc>
+    <credits>
+      <actor>Janice Kawaye</actor>
+      <actor>Grey DeLisle</actor>
+      <actor>Keone Young</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p243729_b_h10_ax.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910181800 +0000" stop="20220910182800 +0000" channel="-BitMe">
+    <title lang="es">Hi Hi Puffy AmiYumi</title>
+    <desc lang="es">Las divertidas aventuras de las estrellas del pop japonés Ami Onuki y Yumi Yoshimura, integrantes del dueto de J-Pop Puffy AmiYumi.(n)</desc>
+    <credits>
+      <actor>Janice Kawaye</actor>
+      <actor>Grey DeLisle</actor>
+      <actor>Keone Young</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p243729_b_h10_ax.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910182800 +0000" stop="20220910183900 +0000" channel="-BitMe">
+    <title lang="es">Mike, Lu y Og</title>
+    <desc lang="es">Un estudiante de intercambio buscando aventura llega a una isla apartada.(n)</desc>
+    <credits>
+      <actor>Nika Frost</actor>
+      <actor>Nancy Cartwright</actor>
+      <actor>Dee Baker</actor>
+      <actor>Martin Rayner</actor>
+      <actor>Kath Soucie</actor>
+      <actor>S. Bullock</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p442204_b_h10_ay.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910183900 +0000" stop="20220910185300 +0000" channel="-BitMe">
+    <title lang="es">Mike, Lu y Og</title>
+    <desc lang="es">Un estudiante de intercambio buscando aventura llega a una isla apartada.(n)</desc>
+    <credits>
+      <actor>Nika Frost</actor>
+      <actor>Nancy Cartwright</actor>
+      <actor>Dee Baker</actor>
+      <actor>Martin Rayner</actor>
+      <actor>Kath Soucie</actor>
+      <actor>S. Bullock</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p442204_b_h10_ay.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910185300 +0000" stop="20220910190000 +0000" channel="-BitMe">
+    <title lang="es">Las sombrías aventuras de Billy y Mandy</title>
+    <desc lang="es">Billy y Mandy, dos niños normales, ganan el desafío en el limbo a Puro Hueso, el representante de la muerte, y como pago por la derrota Puro Hueso debe convertirse en su amigo para siempre.(n)</desc>
+    <credits>
+      <actor>Richard Horvitz</actor>
+      <actor>Grey DeLisle</actor>
+      <actor>Greg Eagles</actor>
+      <actor>Vanessa Marshall</actor>
+      <actor>Jennifer Hale</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p186152_b_h10_ar.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910190000 +0000" stop="20220910190700 +0000" channel="-BitMe">
+    <title lang="es">Las sombrías aventuras de Billy y Mandy</title>
+    <desc lang="es">Billy y Mandy, dos niños normales, ganan el desafío en el limbo a Puro Hueso, el representante de la muerte, y como pago por la derrota Puro Hueso debe convertirse en su amigo para siempre.(n)</desc>
+    <credits>
+      <actor>Richard Horvitz</actor>
+      <actor>Grey DeLisle</actor>
+      <actor>Greg Eagles</actor>
+      <actor>Vanessa Marshall</actor>
+      <actor>Jennifer Hale</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p186152_b_h10_ar.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910190700 +0000" stop="20220910191400 +0000" channel="-BitMe">
+    <title lang="es">Las sombrías aventuras de Billy y Mandy</title>
+    <desc lang="es">Billy y Mandy, dos niños normales, ganan el desafío en el limbo a Puro Hueso, el representante de la muerte, y como pago por la derrota Puro Hueso debe convertirse en su amigo para siempre.(n)</desc>
+    <credits>
+      <actor>Richard Horvitz</actor>
+      <actor>Grey DeLisle</actor>
+      <actor>Greg Eagles</actor>
+      <actor>Vanessa Marshall</actor>
+      <actor>Jennifer Hale</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p186152_b_h10_ar.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910191400 +0000" stop="20220910192400 +0000" channel="-BitMe">
+    <title lang="es">Las sombrías aventuras de Billy y Mandy</title>
+    <desc lang="es">Billy y Mandy, dos niños normales, ganan el desafío en el limbo a Puro Hueso, el representante de la muerte, y como pago por la derrota Puro Hueso debe convertirse en su amigo para siempre.(n)</desc>
+    <credits>
+      <actor>Richard Horvitz</actor>
+      <actor>Grey DeLisle</actor>
+      <actor>Greg Eagles</actor>
+      <actor>Vanessa Marshall</actor>
+      <actor>Jennifer Hale</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p186152_b_h10_ar.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910192400 +0000" stop="20220910193500 +0000" channel="-BitMe">
+    <title lang="es">Jones, el robot</title>
+    <desc lang="es">Un robot joven y valiente se enfrenta a los humanos e intenta sobrevivir a la adolescencia.(n)</desc>
+    <icon src="http://demo.tmsimg.com/assets/p529111_b_h10_ad.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910193500 +0000" stop="20220910194600 +0000" channel="-BitMe">
+    <title lang="es">Jones, el robot</title>
+    <desc lang="es">Un robot joven y valiente se enfrenta a los humanos e intenta sobrevivir a la adolescencia.(n)</desc>
+    <icon src="http://demo.tmsimg.com/assets/p529111_b_h10_ad.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910194600 +0000" stop="20220910195900 +0000" channel="-BitMe">
+    <title lang="es">Jones, el robot</title>
+    <desc lang="es">Un robot joven y valiente se enfrenta a los humanos e intenta sobrevivir a la adolescencia.(n)</desc>
+    <icon src="http://demo.tmsimg.com/assets/p529111_b_h10_ad.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910195900 +0000" stop="20220910202400 +0000" channel="-BitMe">
+    <title lang="es">Dynomutt</title>
+    <desc lang="es">Cuando la ciencia moderna inventa un robot dóberman muy poderoso, el superhéroe Fabulman recibe un compañero canino y mecánico con poderes asombrosos.(n)</desc>
+    <icon src="http://demo.tmsimg.com/assets/p371587_b_h10_ac.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910202400 +0000" stop="20220910203100 +0000" channel="-BitMe">
+    <title lang="es">Zuzubalandia</title>
+    <desc lang="es">La abeja Zuzu vive en el reino de Zuzubalandia, un lugar donde todo está hecho de comida, y sueña con convertirse en cantante, a pesar de que su voz es terrible.(n)</desc>
+    <credits>
+      <actor>Hugo Picchi</actor>
+      <actor>Eduardo Jardim</actor>
+      <actor>Luiza Porto</actor>
+      <actor>Bruna Guerin</actor>
+      <actor>Antoniela Canto</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p15800775_b_h10_ab.jpg" />
+    <country lang="es">BRA</country>
+  </programme>
+  <programme start="20220910203100 +0000" stop="20220910203800 +0000" channel="-BitMe">
+    <title lang="es">Zuzubalandia</title>
+    <desc lang="es">La abeja Zuzu vive en el reino de Zuzubalandia, un lugar donde todo está hecho de comida, y sueña con convertirse en cantante, a pesar de que su voz es terrible.(n)</desc>
+    <credits>
+      <actor>Hugo Picchi</actor>
+      <actor>Eduardo Jardim</actor>
+      <actor>Luiza Porto</actor>
+      <actor>Bruna Guerin</actor>
+      <actor>Antoniela Canto</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p15800775_b_h10_ab.jpg" />
+    <country lang="es">BRA</country>
+  </programme>
+  <programme start="20220910203800 +0000" stop="20220910204500 +0000" channel="-BitMe">
+    <title lang="es">Zuzubalandia</title>
+    <desc lang="es">La abeja Zuzu vive en el reino de Zuzubalandia, un lugar donde todo está hecho de comida, y sueña con convertirse en cantante, a pesar de que su voz es terrible.(n)</desc>
+    <credits>
+      <actor>Hugo Picchi</actor>
+      <actor>Eduardo Jardim</actor>
+      <actor>Luiza Porto</actor>
+      <actor>Bruna Guerin</actor>
+      <actor>Antoniela Canto</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p15800775_b_h10_ab.jpg" />
+    <country lang="es">BRA</country>
+  </programme>
+  <programme start="20220910204500 +0000" stop="20220910205200 +0000" channel="-BitMe">
+    <title lang="es">Zuzubalandia</title>
+    <desc lang="es">La abeja Zuzu vive en el reino de Zuzubalandia, un lugar donde todo está hecho de comida, y sueña con convertirse en cantante, a pesar de que su voz es terrible.(n)</desc>
+    <credits>
+      <actor>Hugo Picchi</actor>
+      <actor>Eduardo Jardim</actor>
+      <actor>Luiza Porto</actor>
+      <actor>Bruna Guerin</actor>
+      <actor>Antoniela Canto</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p15800775_b_h10_ab.jpg" />
+    <country lang="es">BRA</country>
+  </programme>
+  <programme start="20220910205200 +0000" stop="20220910210000 +0000" channel="-BitMe">
+    <title lang="es">Zuzubalandia</title>
+    <desc lang="es">La abeja Zuzu vive en el reino de Zuzubalandia, un lugar donde todo está hecho de comida, y sueña con convertirse en cantante, a pesar de que su voz es terrible.(n)</desc>
+    <credits>
+      <actor>Hugo Picchi</actor>
+      <actor>Eduardo Jardim</actor>
+      <actor>Luiza Porto</actor>
+      <actor>Bruna Guerin</actor>
+      <actor>Antoniela Canto</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p15800775_b_h10_ab.jpg" />
+    <country lang="es">BRA</country>
+  </programme>
+  <programme start="20220910210000 +0000" stop="20220910212100 +0000" channel="-BitMe">
+    <title lang="es">The Zeta Project</title>
+    <desc lang="es">Un robot se rebela contra sus creadores y se niega a ejecutar la orden de matar. La máquina huye para alejarse de los perversos humanos que la forjaron.(n)</desc>
+    <credits>
+      <actor>Diedrich Bader</actor>
+      <actor>Julie Nathanson</actor>
+      <actor>Kurtwood Smith</actor>
+      <actor>Dominique Jennings</actor>
+      <actor>Eli Marienthal</actor>
+      <actor>Michael Rosenbaum</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p304567_b_h8_ad.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910212100 +0000" stop="20220910214300 +0000" channel="-BitMe">
+    <title lang="es">The Zeta Project</title>
+    <desc lang="es">Un robot se rebela contra sus creadores y se niega a ejecutar la orden de matar. La máquina huye para alejarse de los perversos humanos que la forjaron.(n)</desc>
+    <credits>
+      <actor>Diedrich Bader</actor>
+      <actor>Julie Nathanson</actor>
+      <actor>Kurtwood Smith</actor>
+      <actor>Dominique Jennings</actor>
+      <actor>Eli Marienthal</actor>
+      <actor>Michael Rosenbaum</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p304567_b_h8_ad.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910214300 +0000" stop="20220910220500 +0000" channel="-BitMe">
+    <title lang="es">The Zeta Project</title>
+    <desc lang="es">Un robot se rebela contra sus creadores y se niega a ejecutar la orden de matar. La máquina huye para alejarse de los perversos humanos que la forjaron.(n)</desc>
+    <credits>
+      <actor>Diedrich Bader</actor>
+      <actor>Julie Nathanson</actor>
+      <actor>Kurtwood Smith</actor>
+      <actor>Dominique Jennings</actor>
+      <actor>Eli Marienthal</actor>
+      <actor>Michael Rosenbaum</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p304567_b_h8_ad.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910220500 +0000" stop="20220910222800 +0000" channel="-BitMe">
+    <title lang="es">The Real Adventures of Jonny Quest</title>
+    <desc lang="es">Jonny Quest, Hadji Singh, y Jessie Bannon, acompañados por el Dr. Benton Quest y el guardaespalda Race Bannon, investigan fenómenos extraños, leyendas y misterios en lugares exóticos.(n)</desc>
+    <icon src="http://demo.tmsimg.com/assets/p510092_b_h10_aa.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910222800 +0000" stop="20220910224900 +0000" channel="-BitMe">
+    <title lang="es">Legión de Súper Héroes</title>
+    <desc lang="es">Un grupo de superhéroes adolescentes vuelve en el tiempo desde el siglo XXXI para proteger a los Planetas Unidos.(n)</desc>
+    <credits>
+      <actor>Yuri Lowenthal</actor>
+      <actor>Andy Milder</actor>
+      <actor>Kari Wahlgren</actor>
+      <actor>Adam Wylie</actor>
+      <actor>Michael Cornacchia</actor>
+      <actor>Shawn Harrison</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p186027_b_h8_ad.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910224900 +0000" stop="20220910231000 +0000" channel="-BitMe">
+    <title lang="es">Legión de Súper Héroes</title>
+    <desc lang="es">Un grupo de superhéroes adolescentes vuelve en el tiempo desde el siglo XXXI para proteger a los Planetas Unidos.(n)</desc>
+    <credits>
+      <actor>Yuri Lowenthal</actor>
+      <actor>Andy Milder</actor>
+      <actor>Kari Wahlgren</actor>
+      <actor>Adam Wylie</actor>
+      <actor>Michael Cornacchia</actor>
+      <actor>Shawn Harrison</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p186027_b_h8_ad.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910231000 +0000" stop="20220910233300 +0000" channel="-BitMe">
+    <title lang="es">Loonatics Unleashed</title>
+    <desc lang="es">Seis personajes, descendientes de los Looney Tunes, forman un equipo de superhéroes al mando de Zadavia, para proteger a la ciudad.(n)</desc>
+    <icon src="http://demo.tmsimg.com/assets/p259165_b_h8_ab.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910233300 +0000" stop="20220910235400 +0000" channel="-BitMe">
+    <title lang="es">Batman</title>
+    <desc lang="es">Bruce Wayne, un joven millonario que mantiene una personalidad secreta como superhéroe enfrenta a los villanos y defiende a los ciudadanos de Ciudad Gótica. Pero Bruce no está solo; en ocasiones sus amigos lo ayudan en su cruzada.(n)</desc>
+    <credits>
+      <actor>Rino Romano</actor>
+      <actor>Evan Sabara</actor>
+      <actor>Alastair Duncan</actor>
+      <actor>Danielle Judovits</actor>
+      <actor>Kevin Richardson</actor>
+      <actor>Ming-Na Wen</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p185274_b_h10_am.jpg" />
+    <country lang="es">USA</country>
+  </programme>
+  <programme start="20220910235400 +0000" stop="20220911001600 +0000" channel="-BitMe">
+    <title lang="es">Batman</title>
+    <desc lang="es">Bruce Wayne, un joven millonario que mantiene una personalidad secreta como superhéroe enfrenta a los villanos y defiende a los ciudadanos de Ciudad Gótica. Pero Bruce no está solo; en ocasiones sus amigos lo ayudan en su cruzada.(n)</desc>
+    <credits>
+      <actor>Rino Romano</actor>
+      <actor>Evan Sabara</actor>
+      <actor>Alastair Duncan</actor>
+      <actor>Danielle Judovits</actor>
+      <actor>Kevin Richardson</actor>
+      <actor>Ming-Na Wen</actor>
+    </credits>
+    <icon src="http://demo.tmsimg.com/assets/p185274_b_h10_am.jpg" />
+    <country lang="es">USA</country>
   </programme>
 </tv>
