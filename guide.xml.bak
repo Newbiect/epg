@@ -55,8 +55,8 @@
     <display-name lang="en">Telehit Musica</display-name>
     <url>http://www.tvguide.com</url>
   </channel>
-  <channel id="RCN Television">
-    <display-name lang="es">RCN Television</display-name>
+  <channel id="RCN (COL)">
+    <display-name lang="es">RCN (COL)</display-name>
     <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/130.png" />
     <url>http://www.directv.com.co</url>
   </channel>
@@ -12035,28 +12035,28 @@
     <desc lang="en">Revista nocturna sobre las principales tendencias urbanos, eventos,.(n)</desc>
     <date>2021</date>
   </programme>
-  <programme start="20220906003000 -0500" stop="20220906010000 -0500" channel="RCN Television">
+  <programme start="20220906003000 -0500" stop="20220906010000 -0500" channel="RCN (COL)">
     <title lang="es">Tu tele</title>
     <desc lang="es">Un espacio especial para escuchar las inquietudes de la audiencia y buscar las respuestas a sus preguntas.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220906010000 -0500" stop="20220906030000 -0500" channel="RCN Television">
+  <programme start="20220906010000 -0500" stop="20220906030000 -0500" channel="RCN (COL)">
     <title lang="es">La ley del corazón</title>
     <desc lang="es">Mientras un bufete de abogados expertos en derecho de familia debe lidiar con peculiares casos, una historia de amor nace entre Julia y Pablo, justo cuando ella se está por casar.(n)</desc>
     <rating system="CO">
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20220906030000 -0500" stop="20220906034000 -0500" channel="RCN Television">
+  <programme start="20220906030000 -0500" stop="20220906034000 -0500" channel="RCN (COL)">
     <title lang="es">Noticias RCN</title>
     <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220906034000 -0500" stop="20220906044000 -0500" channel="RCN Television">
+  <programme start="20220906034000 -0500" stop="20220906044000 -0500" channel="RCN (COL)">
     <title lang="es">Fuera del aire</title>
     <title lang="es">SIGN OFF</title>
     <desc lang="es">Fin de emisión.(n)</desc>
@@ -12064,133 +12064,133 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20220906044000 -0500" stop="20220906053000 -0500" channel="RCN Television">
+  <programme start="20220906044000 -0500" stop="20220906053000 -0500" channel="RCN (COL)">
     <title lang="es">El Mundo del Campo</title>
     <desc lang="es">Programa sobre la cultura colombiana, las tradiciones, los festivales, la comida y mucho más de cada región.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220906053000 -0500" stop="20220906060000 -0500" channel="RCN Television">
+  <programme start="20220906053000 -0500" stop="20220906060000 -0500" channel="RCN (COL)">
     <title lang="es">Noticias RCN</title>
     <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220906060000 -0500" stop="20220906073000 -0500" channel="RCN Television">
+  <programme start="20220906060000 -0500" stop="20220906073000 -0500" channel="RCN (COL)">
     <title lang="es">Noticias RCN</title>
     <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220906073000 -0500" stop="20220906093000 -0500" channel="RCN Television">
+  <programme start="20220906073000 -0500" stop="20220906093000 -0500" channel="RCN (COL)">
     <title lang="es">Mañana express</title>
     <desc lang="es">Todas las noticias de actualidad con un toque de buen humor.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220906093000 -0500" stop="20220906123000 -0500" channel="RCN Television">
+  <programme start="20220906093000 -0500" stop="20220906123000 -0500" channel="RCN (COL)">
     <title lang="es">Buen día, Colombia</title>
     <desc lang="es">Un espacio donde se abordan temas de interés. Además, se incluyen entrevistas y grandes invitados para que el público pueda hacer a un lado sus preocupaciones.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220906123000 -0500" stop="20220906143000 -0500" channel="RCN Television">
+  <programme start="20220906123000 -0500" stop="20220906143000 -0500" channel="RCN (COL)">
     <title lang="es">Noticias RCN</title>
     <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220906143000 -0500" stop="20220906153000 -0500" channel="RCN Television">
+  <programme start="20220906143000 -0500" stop="20220906153000 -0500" channel="RCN (COL)">
     <title lang="es">Vencer el desamor</title>
     <desc lang="es">Cuatro mujeres de diferentes edades y estratos sociales deben convivir bajo el mismo techo y, aunque al principio resulta complicado, la hermandad y solidaridad prevalecerán.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220906153000 -0500" stop="20220906165000 -0500" channel="RCN Television">
+  <programme start="20220906153000 -0500" stop="20220906165000 -0500" channel="RCN (COL)">
     <title lang="es">Diseñando tu amor</title>
     <desc lang="es">Valentina y Nora, dos hermanas con personalidades diferentes, comparten el deseo de destacarse en el mundo de la industria de la moda.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220906165000 -0500" stop="20220906180000 -0500" channel="RCN Television">
+  <programme start="20220906165000 -0500" stop="20220906180000 -0500" channel="RCN (COL)">
     <title lang="es">Mañana Es Para Siempre</title>
     <desc lang="es">Un hombre y una mujer que crecieron juntos a pesar de sus diferentes clases sociales se reencuentran en medio de conflictos entre sus familias.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220906180000 -0500" stop="20220906190000 -0500" channel="RCN Television">
+  <programme start="20220906180000 -0500" stop="20220906190000 -0500" channel="RCN (COL)">
     <title lang="es">La rosa de Guadalupe</title>
     <desc lang="es">Dramatizaciones de casos de la vida diaria de personas que experimentan un milagro verdadero, después de haberlo pedido a la Virgen de Guadalupe; estas historias son fuente de inspiración y esperanza.(n)</desc>
     <rating system="CO">
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20220906190000 -0500" stop="20220906200000 -0500" channel="RCN Television">
+  <programme start="20220906190000 -0500" stop="20220906200000 -0500" channel="RCN (COL)">
     <title lang="es">Noticias RCN</title>
     <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220906200000 -0500" stop="20220906213000 -0500" channel="RCN Television">
+  <programme start="20220906200000 -0500" stop="20220906213000 -0500" channel="RCN (COL)">
     <title lang="es">Café con aroma de mujer</title>
     <desc lang="es">Gaviota, una recolectora de café, y Sebastián, miembro de una de las familias más poderosas del gremio caficultor deben superar obstáculos para estar juntos. A la vez, surgen intrigas y pasiones en el mundo del comercio del café.(n)</desc>
     <rating system="CO">
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20220906213000 -0500" stop="20220906223000 -0500" channel="RCN Television">
+  <programme start="20220906213000 -0500" stop="20220906223000 -0500" channel="RCN (COL)">
     <title lang="es">Hasta que la plata nos separe</title>
     <desc lang="es">Alejandra y Rafael vienen de mundos opuestos y protagonizan un romance poco convencional. Un accidente automovilístico marca sus destinos y, a partir de ese día, sus vidas no serán las mismas.(n)</desc>
     <rating system="CO">
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20220906223000 -0500" stop="20220906233000 -0500" channel="RCN Television">
+  <programme start="20220906223000 -0500" stop="20220906233000 -0500" channel="RCN (COL)">
     <title lang="es">¿Dónde está Elisa?</title>
     <desc lang="es">La hija mayor del reconocido empresario Vicente León, presidente de una renombrada empresa dedicada a los bienes raíces desaparece luego de asistir a una reunión, y Cristóbal Rivas un experimentado detective tiene la misión de encontrarla.(n)</desc>
     <rating system="CO">
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20220906233000 -0500" stop="20220907000000 -0500" channel="RCN Television">
+  <programme start="20220906233000 -0500" stop="20220907000000 -0500" channel="RCN (COL)">
     <title lang="es">Noticias RCN</title>
     <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220907000000 -0500" stop="20220907010000 -0500" channel="RCN Television">
+  <programme start="20220907000000 -0500" stop="20220907010000 -0500" channel="RCN (COL)">
     <title lang="es">La noche</title>
     <desc lang="es">Un espacio en el que el periodismo serio, responsable y honesto, presenta debates sobre los temas más importantes del país y del mundo desde diferentes puntos de vista, así el televidente podrá sacar sus propias conclusiones.(n)</desc>
     <rating system="CO">
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20220907010000 -0500" stop="20220907030000 -0500" channel="RCN Television">
+  <programme start="20220907010000 -0500" stop="20220907030000 -0500" channel="RCN (COL)">
     <title lang="es">La ley del corazón</title>
     <desc lang="es">Mientras un bufete de abogados expertos en derecho de familia debe lidiar con peculiares casos, una historia de amor nace entre Julia y Pablo, justo cuando ella se está por casar.(n)</desc>
     <rating system="CO">
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20220907030000 -0500" stop="20220907034000 -0500" channel="RCN Television">
+  <programme start="20220907030000 -0500" stop="20220907034000 -0500" channel="RCN (COL)">
     <title lang="es">Noticias RCN</title>
     <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220907034000 -0500" stop="20220907044000 -0500" channel="RCN Television">
+  <programme start="20220907034000 -0500" stop="20220907044000 -0500" channel="RCN (COL)">
     <title lang="es">Fuera del aire</title>
     <title lang="es">SIGN OFF</title>
     <desc lang="es">Fin de emisión.(n)</desc>
@@ -12198,133 +12198,133 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20220907044000 -0500" stop="20220907053000 -0500" channel="RCN Television">
+  <programme start="20220907044000 -0500" stop="20220907053000 -0500" channel="RCN (COL)">
     <title lang="es">El Mundo del Campo</title>
     <desc lang="es">Programa sobre la cultura colombiana, las tradiciones, los festivales, la comida y mucho más de cada región.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220907053000 -0500" stop="20220907060000 -0500" channel="RCN Television">
+  <programme start="20220907053000 -0500" stop="20220907060000 -0500" channel="RCN (COL)">
     <title lang="es">Noticias RCN</title>
     <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220907060000 -0500" stop="20220907073000 -0500" channel="RCN Television">
+  <programme start="20220907060000 -0500" stop="20220907073000 -0500" channel="RCN (COL)">
     <title lang="es">Noticias RCN</title>
     <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220907073000 -0500" stop="20220907093000 -0500" channel="RCN Television">
+  <programme start="20220907073000 -0500" stop="20220907093000 -0500" channel="RCN (COL)">
     <title lang="es">Mañana express</title>
     <desc lang="es">Todas las noticias de actualidad con un toque de buen humor.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220907093000 -0500" stop="20220907123000 -0500" channel="RCN Television">
+  <programme start="20220907093000 -0500" stop="20220907123000 -0500" channel="RCN (COL)">
     <title lang="es">Buen día, Colombia</title>
     <desc lang="es">Un espacio donde se abordan temas de interés. Además, se incluyen entrevistas y grandes invitados para que el público pueda hacer a un lado sus preocupaciones.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220907123000 -0500" stop="20220907143000 -0500" channel="RCN Television">
+  <programme start="20220907123000 -0500" stop="20220907143000 -0500" channel="RCN (COL)">
     <title lang="es">Noticias RCN</title>
     <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220907143000 -0500" stop="20220907153000 -0500" channel="RCN Television">
+  <programme start="20220907143000 -0500" stop="20220907153000 -0500" channel="RCN (COL)">
     <title lang="es">Vencer el desamor</title>
     <desc lang="es">Cuatro mujeres de diferentes edades y estratos sociales deben convivir bajo el mismo techo y, aunque al principio resulta complicado, la hermandad y solidaridad prevalecerán.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220907153000 -0500" stop="20220907165000 -0500" channel="RCN Television">
+  <programme start="20220907153000 -0500" stop="20220907165000 -0500" channel="RCN (COL)">
     <title lang="es">Diseñando tu amor</title>
     <desc lang="es">Valentina y Nora, dos hermanas con personalidades diferentes, comparten el deseo de destacarse en el mundo de la industria de la moda.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220907165000 -0500" stop="20220907180000 -0500" channel="RCN Television">
+  <programme start="20220907165000 -0500" stop="20220907180000 -0500" channel="RCN (COL)">
     <title lang="es">Mañana Es Para Siempre</title>
     <desc lang="es">Un hombre y una mujer que crecieron juntos a pesar de sus diferentes clases sociales se reencuentran en medio de conflictos entre sus familias.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220907180000 -0500" stop="20220907190000 -0500" channel="RCN Television">
+  <programme start="20220907180000 -0500" stop="20220907190000 -0500" channel="RCN (COL)">
     <title lang="es">La rosa de Guadalupe</title>
     <desc lang="es">Dramatizaciones de casos de la vida diaria de personas que experimentan un milagro verdadero, después de haberlo pedido a la Virgen de Guadalupe; estas historias son fuente de inspiración y esperanza.(n)</desc>
     <rating system="CO">
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20220907190000 -0500" stop="20220907200000 -0500" channel="RCN Television">
+  <programme start="20220907190000 -0500" stop="20220907200000 -0500" channel="RCN (COL)">
     <title lang="es">Noticias RCN</title>
     <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220907200000 -0500" stop="20220907213000 -0500" channel="RCN Television">
+  <programme start="20220907200000 -0500" stop="20220907213000 -0500" channel="RCN (COL)">
     <title lang="es">Café con aroma de mujer</title>
     <desc lang="es">Gaviota, una recolectora de café, y Sebastián, miembro de una de las familias más poderosas del gremio caficultor deben superar obstáculos para estar juntos. A la vez, surgen intrigas y pasiones en el mundo del comercio del café.(n)</desc>
     <rating system="CO">
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20220907213000 -0500" stop="20220907223000 -0500" channel="RCN Television">
+  <programme start="20220907213000 -0500" stop="20220907223000 -0500" channel="RCN (COL)">
     <title lang="es">Hasta que la plata nos separe</title>
     <desc lang="es">Alejandra y Rafael vienen de mundos opuestos y protagonizan un romance poco convencional. Un accidente automovilístico marca sus destinos y, a partir de ese día, sus vidas no serán las mismas.(n)</desc>
     <rating system="CO">
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20220907223000 -0500" stop="20220907233000 -0500" channel="RCN Television">
+  <programme start="20220907223000 -0500" stop="20220907233000 -0500" channel="RCN (COL)">
     <title lang="es">¿Dónde está Elisa?</title>
     <desc lang="es">La hija mayor del reconocido empresario Vicente León, presidente de una renombrada empresa dedicada a los bienes raíces desaparece luego de asistir a una reunión, y Cristóbal Rivas un experimentado detective tiene la misión de encontrarla.(n)</desc>
     <rating system="CO">
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20220907233000 -0500" stop="20220908000000 -0500" channel="RCN Television">
+  <programme start="20220907233000 -0500" stop="20220908000000 -0500" channel="RCN (COL)">
     <title lang="es">Noticias RCN</title>
     <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220908000000 -0500" stop="20220908010000 -0500" channel="RCN Television">
+  <programme start="20220908000000 -0500" stop="20220908010000 -0500" channel="RCN (COL)">
     <title lang="es">La noche</title>
     <desc lang="es">Un espacio en el que el periodismo serio, responsable y honesto, presenta debates sobre los temas más importantes del país y del mundo desde diferentes puntos de vista, así el televidente podrá sacar sus propias conclusiones.(n)</desc>
     <rating system="CO">
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20220908010000 -0500" stop="20220908030000 -0500" channel="RCN Television">
+  <programme start="20220908010000 -0500" stop="20220908030000 -0500" channel="RCN (COL)">
     <title lang="es">La ley del corazón</title>
     <desc lang="es">Mientras un bufete de abogados expertos en derecho de familia debe lidiar con peculiares casos, una historia de amor nace entre Julia y Pablo, justo cuando ella se está por casar.(n)</desc>
     <rating system="CO">
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20220908030000 -0500" stop="20220908034000 -0500" channel="RCN Television">
+  <programme start="20220908030000 -0500" stop="20220908034000 -0500" channel="RCN (COL)">
     <title lang="es">Noticias RCN</title>
     <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220908034000 -0500" stop="20220908044000 -0500" channel="RCN Television">
+  <programme start="20220908034000 -0500" stop="20220908044000 -0500" channel="RCN (COL)">
     <title lang="es">Fuera del aire</title>
     <title lang="es">SIGN OFF</title>
     <desc lang="es">Fin de emisión.(n)</desc>
@@ -12332,147 +12332,147 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20220908044000 -0500" stop="20220908053000 -0500" channel="RCN Television">
+  <programme start="20220908044000 -0500" stop="20220908053000 -0500" channel="RCN (COL)">
     <title lang="es">El Mundo del Campo</title>
     <desc lang="es">Programa sobre la cultura colombiana, las tradiciones, los festivales, la comida y mucho más de cada región.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220908053000 -0500" stop="20220908060000 -0500" channel="RCN Television">
+  <programme start="20220908053000 -0500" stop="20220908060000 -0500" channel="RCN (COL)">
     <title lang="es">Noticias RCN</title>
     <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220908060000 -0500" stop="20220908073000 -0500" channel="RCN Television">
+  <programme start="20220908060000 -0500" stop="20220908073000 -0500" channel="RCN (COL)">
     <title lang="es">Noticias RCN</title>
     <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220908073000 -0500" stop="20220908093000 -0500" channel="RCN Television">
+  <programme start="20220908073000 -0500" stop="20220908093000 -0500" channel="RCN (COL)">
     <title lang="es">Mañana express</title>
     <desc lang="es">Todas las noticias de actualidad con un toque de buen humor.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220908093000 -0500" stop="20220908123000 -0500" channel="RCN Television">
+  <programme start="20220908093000 -0500" stop="20220908123000 -0500" channel="RCN (COL)">
     <title lang="es">Buen día, Colombia</title>
     <desc lang="es">Un espacio donde se abordan temas de interés. Además, se incluyen entrevistas y grandes invitados para que el público pueda hacer a un lado sus preocupaciones.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220908123000 -0500" stop="20220908143000 -0500" channel="RCN Television">
+  <programme start="20220908123000 -0500" stop="20220908143000 -0500" channel="RCN (COL)">
     <title lang="es">Noticias RCN</title>
     <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220908143000 -0500" stop="20220908153000 -0500" channel="RCN Television">
+  <programme start="20220908143000 -0500" stop="20220908153000 -0500" channel="RCN (COL)">
     <title lang="es">Vencer el desamor</title>
     <desc lang="es">Cuatro mujeres de diferentes edades y estratos sociales deben convivir bajo el mismo techo y, aunque al principio resulta complicado, la hermandad y solidaridad prevalecerán.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220908153000 -0500" stop="20220908165000 -0500" channel="RCN Television">
+  <programme start="20220908153000 -0500" stop="20220908165000 -0500" channel="RCN (COL)">
     <title lang="es">Diseñando tu amor</title>
     <desc lang="es">Valentina y Nora, dos hermanas con personalidades diferentes, comparten el deseo de destacarse en el mundo de la industria de la moda.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220908165000 -0500" stop="20220908180000 -0500" channel="RCN Television">
+  <programme start="20220908165000 -0500" stop="20220908180000 -0500" channel="RCN (COL)">
     <title lang="es">Mañana Es Para Siempre</title>
     <desc lang="es">Un hombre y una mujer que crecieron juntos a pesar de sus diferentes clases sociales se reencuentran en medio de conflictos entre sus familias.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220908180000 -0500" stop="20220908190000 -0500" channel="RCN Television">
+  <programme start="20220908180000 -0500" stop="20220908190000 -0500" channel="RCN (COL)">
     <title lang="es">La rosa de Guadalupe</title>
     <desc lang="es">Dramatizaciones de casos de la vida diaria de personas que experimentan un milagro verdadero, después de haberlo pedido a la Virgen de Guadalupe; estas historias son fuente de inspiración y esperanza.(n)</desc>
     <rating system="CO">
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20220908190000 -0500" stop="20220908193000 -0500" channel="RCN Television">
+  <programme start="20220908190000 -0500" stop="20220908193000 -0500" channel="RCN (COL)">
     <title lang="es">Noticiero de la Cámara</title>
     <desc lang="es">Espacio informativo que busca dar a conocer a la ciudadanía lo adelantado en las comisiones y plenarias; analizando el desarrollo, la aprobación de las leyes y el proceso legislativo en la Cámara de Representantes.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220908193000 -0500" stop="20220908200000 -0500" channel="RCN Television">
+  <programme start="20220908193000 -0500" stop="20220908200000 -0500" channel="RCN (COL)">
     <title lang="es">Noticias RCN</title>
     <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220908200000 -0500" stop="20220908213000 -0500" channel="RCN Television">
+  <programme start="20220908200000 -0500" stop="20220908213000 -0500" channel="RCN (COL)">
     <title lang="es">Café con aroma de mujer</title>
     <desc lang="es">Gaviota, una recolectora de café, y Sebastián, miembro de una de las familias más poderosas del gremio caficultor deben superar obstáculos para estar juntos. A la vez, surgen intrigas y pasiones en el mundo del comercio del café.(n)</desc>
     <rating system="CO">
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20220908213000 -0500" stop="20220908223000 -0500" channel="RCN Television">
+  <programme start="20220908213000 -0500" stop="20220908223000 -0500" channel="RCN (COL)">
     <title lang="es">Hasta que la plata nos separe</title>
     <desc lang="es">Alejandra y Rafael vienen de mundos opuestos y protagonizan un romance poco convencional. Un accidente automovilístico marca sus destinos y, a partir de ese día, sus vidas no serán las mismas.(n)</desc>
     <rating system="CO">
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20220908223000 -0500" stop="20220908233000 -0500" channel="RCN Television">
+  <programme start="20220908223000 -0500" stop="20220908233000 -0500" channel="RCN (COL)">
     <title lang="es">¿Dónde está Elisa?</title>
     <desc lang="es">La hija mayor del reconocido empresario Vicente León, presidente de una renombrada empresa dedicada a los bienes raíces desaparece luego de asistir a una reunión, y Cristóbal Rivas un experimentado detective tiene la misión de encontrarla.(n)</desc>
     <rating system="CO">
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20220908233000 -0500" stop="20220909000000 -0500" channel="RCN Television">
+  <programme start="20220908233000 -0500" stop="20220909000000 -0500" channel="RCN (COL)">
     <title lang="es">Noticias RCN</title>
     <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220909000000 -0500" stop="20220909005000 -0500" channel="RCN Television">
+  <programme start="20220909000000 -0500" stop="20220909005000 -0500" channel="RCN (COL)">
     <title lang="es">La noche</title>
     <desc lang="es">Un espacio en el que el periodismo serio, responsable y honesto, presenta debates sobre los temas más importantes del país y del mundo desde diferentes puntos de vista, así el televidente podrá sacar sus propias conclusiones.(n)</desc>
     <rating system="CO">
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20220909005000 -0500" stop="20220909012000 -0500" channel="RCN Television">
+  <programme start="20220909005000 -0500" stop="20220909012000 -0500" channel="RCN (COL)">
     <title lang="es">Contacto astral</title>
     <desc lang="es">En este programa los televidentes podrán informarse acerca del mundo del esoterismo y la magia.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220909012000 -0500" stop="20220909030000 -0500" channel="RCN Television">
+  <programme start="20220909012000 -0500" stop="20220909030000 -0500" channel="RCN (COL)">
     <title lang="es">La ley del corazón</title>
     <desc lang="es">Mientras un bufete de abogados expertos en derecho de familia debe lidiar con peculiares casos, una historia de amor nace entre Julia y Pablo, justo cuando ella se está por casar.(n)</desc>
     <rating system="CO">
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20220909030000 -0500" stop="20220909034000 -0500" channel="RCN Television">
+  <programme start="20220909030000 -0500" stop="20220909034000 -0500" channel="RCN (COL)">
     <title lang="es">Noticias RCN</title>
     <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220909034000 -0500" stop="20220909044000 -0500" channel="RCN Television">
+  <programme start="20220909034000 -0500" stop="20220909044000 -0500" channel="RCN (COL)">
     <title lang="es">Fuera del aire</title>
     <title lang="es">SIGN OFF</title>
     <desc lang="es">Fin de emisión.(n)</desc>
@@ -12480,105 +12480,105 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20220909044000 -0500" stop="20220909053000 -0500" channel="RCN Television">
+  <programme start="20220909044000 -0500" stop="20220909053000 -0500" channel="RCN (COL)">
     <title lang="es">El Mundo del Campo</title>
     <desc lang="es">Programa sobre la cultura colombiana, las tradiciones, los festivales, la comida y mucho más de cada región.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220909053000 -0500" stop="20220909060000 -0500" channel="RCN Television">
+  <programme start="20220909053000 -0500" stop="20220909060000 -0500" channel="RCN (COL)">
     <title lang="es">Noticias RCN</title>
     <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220909060000 -0500" stop="20220909073000 -0500" channel="RCN Television">
+  <programme start="20220909060000 -0500" stop="20220909073000 -0500" channel="RCN (COL)">
     <title lang="es">Noticias RCN</title>
     <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220909073000 -0500" stop="20220909093000 -0500" channel="RCN Television">
+  <programme start="20220909073000 -0500" stop="20220909093000 -0500" channel="RCN (COL)">
     <title lang="es">Mañana express</title>
     <desc lang="es">Todas las noticias de actualidad con un toque de buen humor.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220909093000 -0500" stop="20220909123000 -0500" channel="RCN Television">
+  <programme start="20220909093000 -0500" stop="20220909123000 -0500" channel="RCN (COL)">
     <title lang="es">Buen día, Colombia</title>
     <desc lang="es">Un espacio donde se abordan temas de interés. Además, se incluyen entrevistas y grandes invitados para que el público pueda hacer a un lado sus preocupaciones.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220909123000 -0500" stop="20220909143000 -0500" channel="RCN Television">
+  <programme start="20220909123000 -0500" stop="20220909143000 -0500" channel="RCN (COL)">
     <title lang="es">Noticias RCN</title>
     <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220909143000 -0500" stop="20220909153000 -0500" channel="RCN Television">
+  <programme start="20220909143000 -0500" stop="20220909153000 -0500" channel="RCN (COL)">
     <title lang="es">Vencer el desamor</title>
     <desc lang="es">Cuatro mujeres de diferentes edades y estratos sociales deben convivir bajo el mismo techo y, aunque al principio resulta complicado, la hermandad y solidaridad prevalecerán.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220909153000 -0500" stop="20220909165000 -0500" channel="RCN Television">
+  <programme start="20220909153000 -0500" stop="20220909165000 -0500" channel="RCN (COL)">
     <title lang="es">Diseñando tu amor</title>
     <desc lang="es">Valentina y Nora, dos hermanas con personalidades diferentes, comparten el deseo de destacarse en el mundo de la industria de la moda.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220909165000 -0500" stop="20220909180000 -0500" channel="RCN Television">
+  <programme start="20220909165000 -0500" stop="20220909180000 -0500" channel="RCN (COL)">
     <title lang="es">Mañana Es Para Siempre</title>
     <desc lang="es">Un hombre y una mujer que crecieron juntos a pesar de sus diferentes clases sociales se reencuentran en medio de conflictos entre sus familias.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220909180000 -0500" stop="20220909190000 -0500" channel="RCN Television">
+  <programme start="20220909180000 -0500" stop="20220909190000 -0500" channel="RCN (COL)">
     <title lang="es">La rosa de Guadalupe</title>
     <desc lang="es">Dramatizaciones de casos de la vida diaria de personas que experimentan un milagro verdadero, después de haberlo pedido a la Virgen de Guadalupe; estas historias son fuente de inspiración y esperanza.(n)</desc>
     <rating system="CO">
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20220909190000 -0500" stop="20220909200000 -0500" channel="RCN Television">
+  <programme start="20220909190000 -0500" stop="20220909200000 -0500" channel="RCN (COL)">
     <title lang="es">Noticias RCN</title>
     <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220909200000 -0500" stop="20220909213000 -0500" channel="RCN Television">
+  <programme start="20220909200000 -0500" stop="20220909213000 -0500" channel="RCN (COL)">
     <title lang="es">Café con aroma de mujer</title>
     <desc lang="es">Gaviota, una recolectora de café, y Sebastián, miembro de una de las familias más poderosas del gremio caficultor deben superar obstáculos para estar juntos. A la vez, surgen intrigas y pasiones en el mundo del comercio del café.(n)</desc>
     <rating system="CO">
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20220909213000 -0500" stop="20220909223000 -0500" channel="RCN Television">
+  <programme start="20220909213000 -0500" stop="20220909223000 -0500" channel="RCN (COL)">
     <title lang="es">Hasta que la plata nos separe</title>
     <desc lang="es">Alejandra y Rafael vienen de mundos opuestos y protagonizan un romance poco convencional. Un accidente automovilístico marca sus destinos y, a partir de ese día, sus vidas no serán las mismas.(n)</desc>
     <rating system="CO">
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20220909223000 -0500" stop="20220909233000 -0500" channel="RCN Television">
+  <programme start="20220909223000 -0500" stop="20220909233000 -0500" channel="RCN (COL)">
     <title lang="es">¿Dónde está Elisa?</title>
     <desc lang="es">La hija mayor del reconocido empresario Vicente León, presidente de una renombrada empresa dedicada a los bienes raíces desaparece luego de asistir a una reunión, y Cristóbal Rivas un experimentado detective tiene la misión de encontrarla.(n)</desc>
     <rating system="CO">
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20220909233000 -0500" stop="20220910000000 -0500" channel="RCN Television">
+  <programme start="20220909233000 -0500" stop="20220910000000 -0500" channel="RCN (COL)">
     <title lang="es">Noticias RCN</title>
     <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
     <rating system="CO">
