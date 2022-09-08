@@ -8,12 +8,12 @@
   <channel id="-TVN (CHI)">
     <display-name lang="es">TVN (CHI)</display-name>
     <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/1149.png" />
-    <url>http://www.directv.cl</url>
+    <url>http://www.directv.com.cl</url>
   </channel>
   <channel id="La Red (CHI)">
     <display-name lang="es">La Red (CHI)</display-name>
     <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/148.png" />
-    <url>http://www.directv.cl</url>
+    <url>http://www.directv.com.cl</url>
   </channel>
   <channel id="-UniMás">
     <display-name lang="en">UniMás</display-name>
@@ -2452,8 +2452,8 @@
   <programme start="20220908230000 -0500" stop="20220909000000 -0500" channel="-RCN Novelas">
     <title lang="es">Doña Bella</title>
   </programme>
-  <programme start="20220909130000 -0500" stop="20220909140000 -0500" channel="-RCN Novelas">
-    <title lang="es">Francisco, el matemático</title>
+  <programme start="20220909150000 -0500" stop="20220909160000 -0500" channel="-RCN Novelas">
+    <title lang="es">Garzón</title>
   </programme>
   <programme start="20220908000000 +0000" stop="20220908010000 +0000" channel="Univision 41">
     <title lang="en">La Mexicana y el Güero (new)</title>
@@ -3948,26 +3948,6 @@
     <date>2018</date>
     <premiere />
   </programme>
-  <programme start="20220908144500 +0000" stop="20220908172000 +0000" channel="-Clover Channel">
-    <title lang="es">Babel</title>
-    <desc lang="es">Dos jóvenes marroquíes salen en busca del rebaño de cabras de la familia. En medio del desierto, deciden probar el rifle Winchester, sin saber que la bala hiere a una mujer americana con sus hijos en California, quienes están al cuidado de una niñera mexicana.(n)</desc>
-    <credits>
-      <director>Alejandro González Iñárritu</director>
-      <actor>Cate Blanchett</actor>
-      <actor>Brad Pitt</actor>
-      <actor>Gael García Bernal</actor>
-      <actor>Michael Peña</actor>
-      <actor>Rinko Kikuchi</actor>
-      <actor>Adriana Barraza</actor>
-      <actor>Elle Fanning</actor>
-    </credits>
-    <category lang="es">Drama</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/80/12801048_46941892010D0926.jpg" />
-    <country lang="es">US, MA, MX</country>
-    <rating system="MJColombia">
-      <value>+18</value>
-    </rating>
-  </programme>
   <programme start="20220908172000 +0000" stop="20220908192000 +0000" channel="-Clover Channel">
     <title lang="es">Lejos del cielo</title>
     <desc lang="es">Melodrama que traslada a nuestros tiempos el estilo de Douglas Sirk en los años cincuenta, con Moore y Quaid como esposos: ella, ama de casa, se siente atraída por el jardinero Haysbert, y él, agente de seguros, tiene una opción sexual secreta.(n)</desc>
@@ -4706,17 +4686,28 @@
       <value>+14</value>
     </rating>
   </programme>
-  <programme start="20220908162500 +0000" stop="20220908171500 +0000" channel="-Love Nature">
-    <title lang="es">Perros con trabajos extraordinarios</title>
-    <sub-title lang="es">The Protectors</sub-title>
-    <desc lang="es">Una mujer ciega ha encontrado una nueva oportunidad de vida gracias a su compañero canino, un Jack Russell trabaja como una súper niñera para una sorprendente variedad de especies, y un equipo de perros en Kenia está patrullando diariamente para proteger a los rinocerontes en peligro de extinción de los cazadores furtivos.(n)</desc>
-    <category lang="es">Educativo</category>
-    <category lang="es">Documental</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777771_B9C5E51DC471C6E1.jpg" />
-    <country lang="es">GB</country>
-    <episode-num system="onscreen">S1 E4</episode-num>
+  <programme start="20220911155000 +0000" stop="20220911181500 +0000" channel="-Clover Channel">
+    <title lang="es">Vanilla Sky</title>
+    <desc lang="es">David Aames, un joven atractivo que parece tenerlo todo en la vida, conoce a Sofía de quien se enamora al instante. Sin embargo, cuando su amiga de él se entera, desquiciada por los celos, provoca un accidente en donde le desfigura el rostro a David. El tiempo pasa pero ningún médico ha conseguido reconstruirle el rostro.(n)</desc>
+    <credits>
+      <director>Cameron Crowe</director>
+      <actor>Johnny Galecki</actor>
+      <actor>Jason Lee</actor>
+      <actor>Noah Taylor</actor>
+      <actor>Tom Cruise</actor>
+      <actor>Cameron Mathison</actor>
+      <actor>Timothy Spall</actor>
+      <actor>Ivana Milicevic</actor>
+      <actor>Kurt Russell</actor>
+      <actor>Tilda Swinton</actor>
+      <actor>Delaina Mitchell</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <category lang="es">Suspenso</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/80/12801049_90ABC41300697FE6.jpg" />
+    <country lang="es">US</country>
     <rating system="MJColombia">
-      <value>TE</value>
+      <value>+14</value>
     </rating>
   </programme>
   <programme start="20220908171500 +0000" stop="20220908180500 +0000" channel="-Love Nature">
@@ -5896,6 +5887,22 @@
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/44/12446533_EF59E99338DD54AF.jpg" />
     <country lang="es">CA</country>
     <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220911162500 +0000" stop="20220911171500 +0000" channel="-Love Nature">
+    <title lang="es">Cuentos de Zambia</title>
+    <sub-title lang="es">Pride Lands</sub-title>
+    <desc lang="es">Pase un día y una noche en el valle Luangwa de Zambia con los cazadores más temibles de África: una manada de leones. Los leones tienen hambre porque no han logrado hacer una gran matanza en días y los ánimos están empezando a estallar.(n)</desc>
+    <credits>
+      <actor>David Vickery</actor>
+    </credits>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/44/12446533_EF59E99338DD54AF.jpg" />
+    <country lang="es">CA</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
     <rating system="MJColombia">
       <value>TE</value>
     </rating>
