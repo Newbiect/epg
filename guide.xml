@@ -8,12 +8,12 @@
   <channel id="-TVN (CHI)">
     <display-name lang="es">TVN (CHI)</display-name>
     <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/1149.png" />
-    <url>http://www.directv.cl</url>
+    <url>http://www.directv.com.cl</url>
   </channel>
   <channel id="La Red (CHI)">
     <display-name lang="es">La Red (CHI)</display-name>
     <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/148.png" />
-    <url>http://www.directv.cl</url>
+    <url>http://www.directv.com.cl</url>
   </channel>
   <channel id="-UniMás">
     <display-name lang="en">UniMás</display-name>
@@ -38,6 +38,7 @@
   </channel>
   <channel id="-Love Nature">
     <display-name lang="es">Love Nature</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/15/12150242_3A472015F1DC03AA.png" />
     <url>http://www.movistar.com.pe</url>
   </channel>
   <channel id="-Dreamworks">
@@ -4179,6 +4180,1161 @@
     <country lang="es">US</country>
     <rating system="MJColombia">
       <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20220912172000 +0000" stop="20220912192000 +0000" channel="-Clover Channel">
+    <title lang="es">Shaolin Soccer</title>
+    <desc lang="es">Un maestro shaolin se encargará de reclutar a diversos expertos de la materia con el fin de participar en un torneo de fútbol en el que usarán todas sus habilidades y destrezas para ganar.(n)</desc>
+    <credits>
+      <director>Stephen Chow</director>
+      <actor>Wong Yut fei</actor>
+      <actor>Stephen Chow</actor>
+    </credits>
+    <category lang="es">Acción</category>
+    <category lang="es">Comedia</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/29/10291123_D897E9F5BAB1AB31.jpg" />
+    <country lang="es">CN</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20220909195000 +0000" stop="20220909204000 +0000" channel="-Love Nature">
+    <title lang="es">Islas secretas de Australia</title>
+    <sub-title lang="es">Christmas Island</sub-title>
+    <desc lang="es">Una mota de una isla en el Océano Índico es un pequeño refugio para plantas y criaturas que no se encuentran en ningún otro lugar del mundo. Las aves gobiernan sus cielos, los tiburones ballena patrullan sus mares, y un cangrejo endémico se embarca en una traicionera migración para reproducirse.(n)</desc>
+    <credits>
+      <actor>Edwina Wren</actor>
+    </credits>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777774_2960499C6E664623.jpg" />
+    <country lang="es">CA</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220909204000 +0000" stop="20220909213500 +0000" channel="-Love Nature">
+    <title lang="es">Islas secretas de Australia</title>
+    <sub-title lang="es">Fraser Island</sub-title>
+    <desc lang="es">Construido sobre arenas movedizas que soportan un refugio improbable para plantas y vida silvestre, este mosaico de hábitats curiosos de islas en constante evolución se ha ganado el estatus de Patrimonio Mundial por su notable historia geológica.(n)</desc>
+    <credits>
+      <actor>Edwina Wren</actor>
+    </credits>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777774_2960499C6E664623.jpg" />
+    <country lang="es">CA</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220909213500 +0000" stop="20220909222500 +0000" channel="-Love Nature">
+    <title lang="es">Dentro de lo salvaje: India</title>
+    <sub-title lang="es">Rana: reina de la selva</sub-title>
+    <desc lang="es">Uno de los animales más emblemáticos de la Tierra acecha en las selvas de la India: el tigre de Bengala. En el transcurso de un solo día, sigue la suerte de una madre y sus tres cachorros mientras busca comida y lucha para mantener a su familia segura y viva.(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777769_61E7DAC0FE06A570.jpg" />
+    <country lang="es">GB</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220909222500 +0000" stop="20220909231500 +0000" channel="-Love Nature">
+    <title lang="es">Perros con trabajos extraordinarios</title>
+    <sub-title lang="es">The Scent Detectives</sub-title>
+    <desc lang="es">Un cruce de labrador y su socio ayudan a prevenir un desastre ecológico en Canadá, un Lagotto Romagnolo descubre un manjar raro en los bosques de Washington, y un equipo belga de malinois rastrea a la tortuga geométrica en peligro crítico para salvar a la especie.(n)</desc>
+    <category lang="es">Educativo</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777771_B9C5E51DC471C6E1.jpg" />
+    <country lang="es">GB</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220909231500 +0000" stop="20220910000500 +0000" channel="-Love Nature">
+    <title lang="es">Guardianes de la naturaleza</title>
+    <sub-title lang="es">Camp Phoenix Herd</sub-title>
+    <desc lang="es">Conozca al tímido, joven y huérfano elefante Tafika mientras llega a una gran elección en su entrenamiento: quedarse con sus hermanos en la seguridad del campamento, o unirse a los huérfanos mayores que viven en el campo semi-salvaje. ¿Es lo suficientemente valiente como para avanzar hacia la libertad.(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/76/11769109_C353419DE582AB06.jpg" />
+    <country lang="es">CA</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220910000500 +0000" stop="20220910010000 +0000" channel="-Love Nature">
+    <title lang="es">Convirtiéndose en orangután</title>
+    <desc lang="es">Experimente una montaña rusa de emociones y dolores de crecimiento a medida que los orangutanes del santuario avanzan a través de seis grados hacia su liberación en la naturaleza. Descubra cómo cambia repentinamente el destino de Dilla y observe cómo el niño grande Beni sigue una dieta no deseada.(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/55/12559858_BFE2DBAA2C5CC27E.jpg" />
+    <country lang="es">GB</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220910010000 +0000" stop="20220910015500 +0000" channel="-Love Nature">
+    <title lang="es">Isla de los monos</title>
+    <sub-title lang="es">Trouble in Paradise</sub-title>
+    <desc lang="es">Las tensiones aumentan cuando la sequía se apodera de un antiguo templo de Sri Lanka compartido por langures grises con mechones, macacos de toque y monos de hojas de cara púrpura. Sea testigo del drama mientras los primates de menor rango luchan por mantenerse hidratados en medio de un complot amotinado.(n)</desc>
+    <credits>
+      <director>Hannah Hoare</director>
+    </credits>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Educativo</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777764_CBB3C165CDFB37E2.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220910015500 +0000" stop="20220910021500 +0000" channel="-Love Nature">
+    <title lang="es">Ataque y defensa</title>
+    <sub-title lang="es">African Apex Predators</sub-title>
+    <desc lang="es">Con estrategias que van desde el tamaño y la velocidad temibles hasta el trabajo en equipo sofisticado y la fuerza para romper huesos, los depredadores más adaptados del mundo han desarrollado formas formidables de sobrevivir y prosperar en las duras sabanas africanas.(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777773_9CD7F38F7ECA0C53.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220910021500 +0000" stop="20220910024500 +0000" channel="-Love Nature">
+    <title lang="es">Ataque y defensa</title>
+    <sub-title lang="es">Sky Hunters</sub-title>
+    <desc lang="es">La vista aguda, las garras afiladas como cuchillas y otras adaptaciones ayudan a las aves rapaces como el halcón peregrino, el halcón de cola roja y el águila calva a cazar desde arriba. Vuela junto a estas magníficas aves rapaces para ver el mundo desde los extraordinarios ojos de un depredador aéreo.(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777773_9CD7F38F7ECA0C53.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220910024500 +0000" stop="20220910030500 +0000" channel="-Love Nature">
+    <title lang="es">Ataque y defensa</title>
+    <sub-title lang="es">Insect Eaters</sub-title>
+    <desc lang="es">Los insectos ofrecen una fuente de alimento prácticamente ilimitada para los astutos depredadores que han desarrollado formas de cazarlos. Descubra las habilidades altamente desarrolladas de las libélulas, los escorpiones, las trampas para moscas de Venus y las mantis religiosas.(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777773_9CD7F38F7ECA0C53.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220910030500 +0000" stop="20220910034000 +0000" channel="-Love Nature">
+    <title lang="es">Ataque y defensa</title>
+    <sub-title lang="es">Cold-Blooded Killers</sub-title>
+    <desc lang="es">La caza es un medio de supervivencia para todos los depredadores. Pero algunas máquinas de matar altamente especializadas, como la tarántula sigilosa y el dragón prehistórico de Komodo, han desarrollado adaptaciones mortales que los hacen francamente terroríficos.(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777773_9CD7F38F7ECA0C53.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220910034000 +0000" stop="20220910043000 +0000" channel="-Love Nature">
+    <title lang="es">Dentro de lo salvaje: India</title>
+    <sub-title lang="es">Rana: reina de la selva</sub-title>
+    <desc lang="es">Uno de los animales más emblemáticos de la Tierra acecha en las selvas de la India: el tigre de Bengala. En el transcurso de un solo día, sigue la suerte de una madre y sus tres cachorros mientras busca comida y lucha para mantener a su familia segura y viva.(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777769_61E7DAC0FE06A570.jpg" />
+    <country lang="es">GB</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220910043000 +0000" stop="20220910052500 +0000" channel="-Love Nature">
+    <title lang="es">Perros con trabajos extraordinarios</title>
+    <sub-title lang="es">The Scent Detectives</sub-title>
+    <desc lang="es">Un cruce de labrador y su socio ayudan a prevenir un desastre ecológico en Canadá, un Lagotto Romagnolo descubre un manjar raro en los bosques de Washington, y un equipo belga de malinois rastrea a la tortuga geométrica en peligro crítico para salvar a la especie.(n)</desc>
+    <category lang="es">Educativo</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777771_B9C5E51DC471C6E1.jpg" />
+    <country lang="es">GB</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220910052500 +0000" stop="20220910061500 +0000" channel="-Love Nature">
+    <title lang="es">Islas secretas de Australia</title>
+    <sub-title lang="es">Lady Elliot Island</sub-title>
+    <desc lang="es">La joya de la corona de la Gran Barrera de Coral, Lady Elliot Island es una meca para la vida submarina, repleta de coloridos corales, manta rayas, tortugas marinas y ballenas jorobadas para formar una vertiginosa variedad de biodiversidad sin igual.(n)</desc>
+    <credits>
+      <actor>Edwina Wren</actor>
+    </credits>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777774_2960499C6E664623.jpg" />
+    <country lang="es">CA</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220910061500 +0000" stop="20220910071000 +0000" channel="-Love Nature">
+    <title lang="es">Islas secretas de Australia</title>
+    <sub-title lang="es">Kangaroo Island</sub-title>
+    <desc lang="es">Lanzado a la deriva y solo en el Océano Austral rico en nutrientes, cortado por mares salvajes y vientos brutales, se encuentra una fortaleza isla encantada donde algunas de las especies de fauna continental de Australia han llegado a la última posición.(n)</desc>
+    <credits>
+      <actor>Edwina Wren</actor>
+    </credits>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777774_2960499C6E664623.jpg" />
+    <country lang="es">CA</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220910071000 +0000" stop="20220910080000 +0000" channel="-Love Nature">
+    <title lang="es">Islas secretas de Australia</title>
+    <sub-title lang="es">Christmas Island</sub-title>
+    <desc lang="es">Una mota de una isla en el Océano Índico es un pequeño refugio para plantas y criaturas que no se encuentran en ningún otro lugar del mundo. Las aves gobiernan sus cielos, los tiburones ballena patrullan sus mares, y un cangrejo endémico se embarca en una traicionera migración para reproducirse.(n)</desc>
+    <credits>
+      <actor>Edwina Wren</actor>
+    </credits>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777774_2960499C6E664623.jpg" />
+    <country lang="es">CA</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220910080000 +0000" stop="20220910085500 +0000" channel="-Love Nature">
+    <title lang="es">Islas secretas de Australia</title>
+    <sub-title lang="es">Fraser Island</sub-title>
+    <desc lang="es">Construido sobre arenas movedizas que soportan un refugio improbable para plantas y vida silvestre, este mosaico de hábitats curiosos de islas en constante evolución se ha ganado el estatus de Patrimonio Mundial por su notable historia geológica.(n)</desc>
+    <credits>
+      <actor>Edwina Wren</actor>
+    </credits>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777774_2960499C6E664623.jpg" />
+    <country lang="es">CA</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220910085500 +0000" stop="20220910092500 +0000" channel="-Love Nature">
+    <title lang="es">Criaturas extrañas</title>
+    <sub-title lang="es">Dinosaur Dynamics</sub-title>
+    <desc lang="es">T-Rex y los pollos parecen ser tan diferentes como pueden ser, pero tienen más en común de lo que podrías pensar. Investigaciones recientes revelan que algunos de nuestros dinosaurios favoritos se parecían mucho a las aves, y que las aves son un tipo de dinosaurio existente.(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777770_7BC17292DBE0FDD8.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220910092500 +0000" stop="20220910101500 +0000" channel="-Love Nature">
+    <title lang="es">Guardianes de la naturaleza</title>
+    <sub-title lang="es">Camp Phoenix Herd</sub-title>
+    <desc lang="es">Conozca al tímido, joven y huérfano elefante Tafika mientras llega a una gran elección en su entrenamiento: quedarse con sus hermanos en la seguridad del campamento, o unirse a los huérfanos mayores que viven en el campo semi-salvaje. ¿Es lo suficientemente valiente como para avanzar hacia la libertad.(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/76/11769109_C353419DE582AB06.jpg" />
+    <country lang="es">CA</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220910101500 +0000" stop="20220910110500 +0000" channel="-Love Nature">
+    <title lang="es">Dentro de lo salvaje: India</title>
+    <sub-title lang="es">Rana: reina de la selva</sub-title>
+    <desc lang="es">Uno de los animales más emblemáticos de la Tierra acecha en las selvas de la India: el tigre de Bengala. En el transcurso de un solo día, sigue la suerte de una madre y sus tres cachorros mientras busca comida y lucha para mantener a su familia segura y viva.(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777769_61E7DAC0FE06A570.jpg" />
+    <country lang="es">GB</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220910110500 +0000" stop="20220910120000 +0000" channel="-Love Nature">
+    <title lang="es">Perros con trabajos extraordinarios</title>
+    <sub-title lang="es">The Scent Detectives</sub-title>
+    <desc lang="es">Un cruce de labrador y su socio ayudan a prevenir un desastre ecológico en Canadá, un Lagotto Romagnolo descubre un manjar raro en los bosques de Washington, y un equipo belga de malinois rastrea a la tortuga geométrica en peligro crítico para salvar a la especie.(n)</desc>
+    <category lang="es">Educativo</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777771_B9C5E51DC471C6E1.jpg" />
+    <country lang="es">GB</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220910120000 +0000" stop="20220910125500 +0000" channel="-Love Nature">
+    <title lang="es">Tierra de primates</title>
+    <sub-title lang="es">Lemurs of Anja Mountain</sub-title>
+    <desc lang="es">Hace millones de años, unas criaturas naufragaron y se encontraron varadas en las escarpadas costas de Madagascar. Aislados del continente, los recién llegados evolucionaron. Este es un mundo mágico de criaturas raras y únicas perfectamente adaptadas a su escondite tropical.(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/44/12446538_273946D20AC74FA1.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220910125500 +0000" stop="20220910134500 +0000" channel="-Love Nature">
+    <title lang="es">Tierra de primates</title>
+    <sub-title lang="es">Lemurs of Madagascar</sub-title>
+    <desc lang="es">La isla es la tierra de los lémures. Los lémures son fascinantes primates primitivos arbóreos de Madagascar representados en todos los tamaños, colores y formas desde el Indri más grande hasta el pequeño lémur ratón.(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/44/12446538_273946D20AC74FA1.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220910134500 +0000" stop="20220910143500 +0000" channel="-Love Nature">
+    <title lang="es">Tierra de primates</title>
+    <sub-title lang="es">Wanderers of the Lost Forest</sub-title>
+    <desc lang="es">Esta historia tiene lugar en Hogsback, un pequeño pueblo en la cima de una montaña en el Cabo Oriental de Sudáfrica. Debido a la fragmentación y pérdida del hábitat, los cercopitecos de cuello blanco y los loritos robustos de los bosques cercanos se han visto obligados a adentrarse en la ciudad a buscar alimentos.(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/44/12446538_273946D20AC74FA1.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220910143500 +0000" stop="20220910153000 +0000" channel="-Love Nature">
+    <title lang="es">Tierra de primates</title>
+    <sub-title lang="es">Baboons of Bambelela</sub-title>
+    <desc lang="es">La tropa de babuinos de Bambelela es un excelente ejemplo de porqué los babuinos prosperan en toda África. Su poder se baja en su número, adaptabilidad y liderazgo inteligente. Su comportamiento social altamente refinado y su organización reflejan gran parte de la sociedad humana y muestran lo parecidos que somos a nuestros primos primates.(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/44/12446538_273946D20AC74FA1.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220910153000 +0000" stop="20220910162500 +0000" channel="-Love Nature">
+    <title lang="es">Tierra de primates</title>
+    <sub-title lang="es">The Geladas of Ethiopia</sub-title>
+    <desc lang="es">Los geladas se encuentran entre los picos y las mesetas de las montañas Simia de Etiopía, una antigua cadena de increíble belleza y biodiversidad. Seguimos a la banda de geladas en su migración diaria desde el borde del acantilado hasta la cima.(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/44/12446538_273946D20AC74FA1.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220910162500 +0000" stop="20220910171500 +0000" channel="-Love Nature">
+    <title lang="es">Tierra de primates</title>
+    <sub-title lang="es">Baboon Lagoon</sub-title>
+    <desc lang="es">Se necesita trabajo en equipo para sobrevivir en la reserva natural de De Hoop. Observe cómo un grupo de babuinos de Chacma viaja por comida, lidia con conflictos internos y trata de ganarse la confianza mutua.(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/44/12446538_273946D20AC74FA1.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220910171500 +0000" stop="20220910180500 +0000" channel="-Love Nature">
+    <title lang="es">Dentro de lo salvaje: India</title>
+    <sub-title lang="es">Gibón en crecimiento</sub-title>
+    <desc lang="es">Hoolock Gibbons son especialistas de la jungla india. Al vivir en familias muy unidas, los jóvenes pasan años aprendiendo las habilidades para sobrevivir. Conoce a Samar mientras busca comida, evita a los depredadores y domina las acrobacias necesarias para vivir en los árboles.(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777769_61E7DAC0FE06A570.jpg" />
+    <country lang="es">GB</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220910180500 +0000" stop="20220910190000 +0000" channel="-Love Nature">
+    <title lang="es">Dentro de lo salvaje: India</title>
+    <sub-title lang="es">La tierra del rinoceronte secreto</sub-title>
+    <desc lang="es">Los pastizales del noreste de la India son uno de los hábitats más fértiles de la Tierra, lo que permite que sobreviva el raro rinoceronte mayor de un solo cuerno. Sigue al bebé rinoceronte Rajah y su madre mientras ella le muestra lo que se necesita para prosperar en este paraíso dramático.(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777769_61E7DAC0FE06A570.jpg" />
+    <country lang="es">GB</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220910190000 +0000" stop="20220910195000 +0000" channel="-Love Nature">
+    <title lang="es">Dentro de lo salvaje: India</title>
+    <sub-title lang="es">Los sementales salvajes del Himalaya</sub-title>
+    <desc lang="es">La meseta de Ladakh es una tierra de extremos, pero el asno salvaje tibetano es el rey de esta pradera. ¡Sigue a un semental mientras sombrea una manada de hembras para tener la oportunidad de engendrar a la próxima generación, pero al hacerlo, debe luchar contra aquellos que quieren su corona.(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777769_61E7DAC0FE06A570.jpg" />
+    <country lang="es">GB</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220910195000 +0000" stop="20220910204000 +0000" channel="-Love Nature">
+    <title lang="es">Dentro de lo salvaje: India</title>
+    <sub-title lang="es">El dilema de un oso perezoso</sub-title>
+    <desc lang="es">En una tierra de calor abrasador y tormentas tropicales, la vida en las llanuras del sur de la India es dura. Pero Bibi, una oso perezoso con dos cachorros, está preparada para el desafío de su vida mientras lucha contra la sequía, la escasez de alimentos y los depredadores en cada esquina.(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777769_61E7DAC0FE06A570.jpg" />
+    <country lang="es">GB</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220910204000 +0000" stop="20220910213500 +0000" channel="-Love Nature">
+    <title lang="es">Dentro de lo salvaje: India</title>
+    <sub-title lang="es">Rana: reina de la selva</sub-title>
+    <desc lang="es">Uno de los animales más emblemáticos de la Tierra acecha en las selvas de la India: el tigre de Bengala. En el transcurso de un solo día, sigue la suerte de una madre y sus tres cachorros mientras busca comida y lucha para mantener a su familia segura y viva.(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777769_61E7DAC0FE06A570.jpg" />
+    <country lang="es">GB</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220910213500 +0000" stop="20220910222500 +0000" channel="-Love Nature">
+    <title lang="es">Horizontes salvajes de África</title>
+    <sub-title lang="es">The Waterberg</sub-title>
+    <desc lang="es">En la región de Limpopo, en Sudáfrica, se encuentra una tierra antigua. Desde praderas onduladas hasta gargantas rocosas, la vida silvestre ha aprendido a aprovechar al máximo lo que se ofrece. Este es el Waterberg, una tierra de abundancia.(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/44/12446532_B2191F896B6CC472.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220910222500 +0000" stop="20220910231500 +0000" channel="-Love Nature">
+    <title lang="es">Horizontes salvajes de África</title>
+    <sub-title lang="es">Vredefort Dome Crater of Life</sub-title>
+    <desc lang="es">Conoce el cráter Vredefort en Sudáfrica y la vida que allí se desarrolla. Desde los afloramientos rocosos a los pastizales, y desde los humedales a los ríos, cada hábitat ofrece un nicho para una gran cantidad de criaturas.(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/44/12446532_B2191F896B6CC472.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220910231500 +0000" stop="20220911000500 +0000" channel="-Love Nature">
+    <title lang="es">Horizontes salvajes de África</title>
+    <sub-title lang="es">Africa's Great Oasis: The Okavango</sub-title>
+    <desc lang="es">Atrapado en uno de los grandes desiertos de África hay un mundo exuberante y escondido, como no hay otro en la Tierra. Alimentado por un poderoso río que viaja desde montañas lejanas, es un vasto mosaico de vida que palpita con vívida belleza.(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/44/12446532_B2191F896B6CC472.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220911000500 +0000" stop="20220911010000 +0000" channel="-Love Nature">
+    <title lang="es">Horizontes salvajes de África</title>
+    <sub-title lang="es">Swaziland</sub-title>
+    <desc lang="es">A pesar de su pequeño tamaño, Suazilandia cuenta con 'los grandes cinco' y registra alrededor de 132 especies de mamíferos: jirafas, hipopótamos, cebras y variedad de antílopes, al igual que depredadores como chacales y hienas.(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/44/12446532_B2191F896B6CC472.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220911010000 +0000" stop="20220911015500 +0000" channel="-Love Nature">
+    <title lang="es">Horizontes salvajes de África</title>
+    <sub-title lang="es">The Kalahari</sub-title>
+    <desc lang="es">Una tierra inmensa y árida domina el suroeste de África. Aquí, la arena cubre la tierra en ondulantes dunas y la lluvia se escurre tan rápido como cae. Kalahari significa 'lugar de gran sed', un nombre apropiado para una de las mayores áreas silvestres del sur de África.(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/44/12446532_B2191F896B6CC472.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220911015500 +0000" stop="20220911024500 +0000" channel="-Love Nature">
+    <title lang="es">Horizontes salvajes de África</title>
+    <sub-title lang="es">Africa's Great Oasis: The Okavango</sub-title>
+    <desc lang="es">Atrapado en uno de los grandes desiertos de África hay un mundo exuberante y escondido, como no hay otro en la Tierra. Alimentado por un poderoso río que viaja desde montañas lejanas, es un vasto mosaico de vida que palpita con vívida belleza.(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/44/12446532_B2191F896B6CC472.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220911024500 +0000" stop="20220911034000 +0000" channel="-Love Nature">
+    <title lang="es">Horizontes salvajes de África</title>
+    <sub-title lang="es">Swaziland</sub-title>
+    <desc lang="es">A pesar de su pequeño tamaño, Suazilandia cuenta con 'los grandes cinco' y registra alrededor de 132 especies de mamíferos: jirafas, hipopótamos, cebras y variedad de antílopes, al igual que depredadores como chacales y hienas.(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/44/12446532_B2191F896B6CC472.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220911034000 +0000" stop="20220911043000 +0000" channel="-Love Nature">
+    <title lang="es">Horizontes salvajes de África</title>
+    <sub-title lang="es">The Kalahari</sub-title>
+    <desc lang="es">Una tierra inmensa y árida domina el suroeste de África. Aquí, la arena cubre la tierra en ondulantes dunas y la lluvia se escurre tan rápido como cae. Kalahari significa 'lugar de gran sed', un nombre apropiado para una de las mayores áreas silvestres del sur de África.(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/44/12446532_B2191F896B6CC472.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220911043000 +0000" stop="20220911052500 +0000" channel="-Love Nature">
+    <title lang="es">Horizontes salvajes de África</title>
+    <sub-title lang="es">Africa's Great Oasis: The Okavango</sub-title>
+    <desc lang="es">Atrapado en uno de los grandes desiertos de África hay un mundo exuberante y escondido, como no hay otro en la Tierra. Alimentado por un poderoso río que viaja desde montañas lejanas, es un vasto mosaico de vida que palpita con vívida belleza.(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/44/12446532_B2191F896B6CC472.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220911052500 +0000" stop="20220911061500 +0000" channel="-Love Nature">
+    <title lang="es">Horizontes salvajes de África</title>
+    <sub-title lang="es">Swaziland</sub-title>
+    <desc lang="es">A pesar de su pequeño tamaño, Suazilandia cuenta con 'los grandes cinco' y registra alrededor de 132 especies de mamíferos: jirafas, hipopótamos, cebras y variedad de antílopes, al igual que depredadores como chacales y hienas.(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/44/12446532_B2191F896B6CC472.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220911061500 +0000" stop="20220911071000 +0000" channel="-Love Nature">
+    <title lang="es">Horizontes salvajes de África</title>
+    <sub-title lang="es">The Kalahari</sub-title>
+    <desc lang="es">Una tierra inmensa y árida domina el suroeste de África. Aquí, la arena cubre la tierra en ondulantes dunas y la lluvia se escurre tan rápido como cae. Kalahari significa 'lugar de gran sed', un nombre apropiado para una de las mayores áreas silvestres del sur de África.(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/44/12446532_B2191F896B6CC472.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220911071000 +0000" stop="20220911080000 +0000" channel="-Love Nature">
+    <title lang="es">África extrema</title>
+    <sub-title lang="es">Dragon Mountain: Surviving the Summit</sub-title>
+    <desc lang="es">A cada paso, el poderoso Drakensberg revela nuevas especies que exhiben atributos que les permiten soportar su duro hogar en la montaña. Conoce al observador del sol, el intrigante lagarto suicida, el icónico quebrantahuesos y las aves rapaces viajeras.(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/76/11769060_297C6FA26542E620.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220911080000 +0000" stop="20220911085500 +0000" channel="-Love Nature">
+    <title lang="es">África extrema</title>
+    <sub-title lang="es">Lake Manyara National Park</sub-title>
+    <desc lang="es">El Parque Nacional del Lago Manyara de Tanzania cuenta con varios hábitats diversos. Desde sabanas boscosas hasta pantanos cubiertos de hierba, visite una región que es una parte del ecosistema del este de África y otorga una gran cantidad de recursos.(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/76/11769060_297C6FA26542E620.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220911085500 +0000" stop="20220911092500 +0000" channel="-Love Nature">
+    <title lang="es">Criaturas extrañas</title>
+    <sub-title lang="es">Feo</sub-title>
+    <desc lang="es">Contempla a algunos de los animales más feos del mundo que deben su supervivencia a las adaptaciones que los hacían tan extraños. Una anguila lobo regordeta, una rata topo desnuda y una horrible lamprea marina pueden ser superficialmente grotescos.(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777770_7BC17292DBE0FDD8.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220911092500 +0000" stop="20220911101500 +0000" channel="-Love Nature">
+    <title lang="es">África extrema</title>
+    <sub-title lang="es">The Simien Mountains</sub-title>
+    <desc lang="es">Conocido como 'el techo de África', las montañas Simien albergan las criaturas más raras del continente. Viaje entre acantilados y exuberante vegetación para descubrir la vida silvestre nativa como la Cabra montés Walia, el Lobo Simien y las Geladas.(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/76/11769060_297C6FA26542E620.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220911101500 +0000" stop="20220911110500 +0000" channel="-Love Nature">
+    <title lang="es">África extrema</title>
+    <sub-title lang="es">The Southern Drylands</sub-title>
+    <desc lang="es">Aventúrese en el corazón de Namibia, donde partes del paisaje reciben menos de una pulgada de lluvia cada año. Encuentra criaturas increíblemente resistentes, desde los mamíferos más grandes hasta los insectos más rápidos y un pez fantasma.(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/76/11769060_297C6FA26542E620.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220911110500 +0000" stop="20220911120000 +0000" channel="-Love Nature">
+    <title lang="es">Escenas de la naturaleza</title>
+    <sub-title lang="es">Animales bebés</sub-title>
+    <desc lang="es">Una hora compuesta por una variedad de animales bebés filmados en cautiverio. Mira cómo juegan un buey almizclero, una cebra y unos cachorros de león en el Wildlife Safari de Oregón. Vea cómo comen, juegan y se relajan los pollitos emú y las crías de bisonte en el Wild Animal Safari de Georgia.(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/76/11769143_ACEEDABD419CAD85.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E70</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220911120000 +0000" stop="20220911125500 +0000" channel="-Love Nature">
+    <title lang="es">Cuentos de Zambia</title>
+    <sub-title lang="es">Elephant Valley</sub-title>
+    <desc lang="es">Sigue a una familia de elefantes desde el amanecer hasta el atardecer mientras se unen un elenco de personajes en un valle lleno de vida. Pero en la estación seca las temperaturas se disparan y la sequía se apodera de la tierra.(n)</desc>
+    <credits>
+      <actor>David Vickery</actor>
+    </credits>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/44/12446533_EF59E99338DD54AF.jpg" />
+    <country lang="es">CA</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220911125500 +0000" stop="20220911134500 +0000" channel="-Love Nature">
+    <title lang="es">Cuentos de Zambia</title>
+    <sub-title lang="es">Wild Heavyweights</sub-title>
+    <desc lang="es">En el valle de Luangwa en Zambia, algunos de los animales más grandes de la tierra viven uno al lado del otro. Descubra cómo cada uno de estos gigantes utiliza estrategias ingeniosas y adaptaciones sorprendentes, perfeccionadas durante millones de años, para sobrevivir y prosperar.(n)</desc>
+    <credits>
+      <actor>David Vickery</actor>
+    </credits>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/44/12446533_EF59E99338DD54AF.jpg" />
+    <country lang="es">CA</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220911134500 +0000" stop="20220911143500 +0000" channel="-Love Nature">
+    <title lang="es">Cuentos de Zambia</title>
+    <sub-title lang="es">Life and Death on the Plains</sub-title>
+    <desc lang="es">Liuwa Plains es una pradera remota y uno de los últimos lugares salvajes de África. Solo la vida salvaje más dura de África puede sobrevivir aquí. Sea testigo de una increible historia de perseverancia, adaptación y supervivencia en este hábitat extremo.(n)</desc>
+    <credits>
+      <actor>David Vickery</actor>
+    </credits>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/44/12446533_EF59E99338DD54AF.jpg" />
+    <country lang="es">CA</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220911143500 +0000" stop="20220911153000 +0000" channel="-Love Nature">
+    <title lang="es">Cuentos de Zambia</title>
+    <sub-title lang="es">Hippo River</sub-title>
+    <desc lang="es">El río Luangwa es un salvavidas para los animales y el hogar de la mayor concentración de hipopótamos del mundo. Vea cómo estos hipopótamos pasan sus días lidiando con el calor, los insectos y las amenazas de sus compañeros habitantes del río.(n)</desc>
+    <credits>
+      <actor>David Vickery</actor>
+    </credits>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/44/12446533_EF59E99338DD54AF.jpg" />
+    <country lang="es">CA</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220911153000 +0000" stop="20220911162500 +0000" channel="-Love Nature">
+    <title lang="es">Cuentos de Zambia</title>
+    <sub-title lang="es">The River Troop</sub-title>
+    <desc lang="es">A lo largo de la orilla del río Luangwa en Zambia vive una gran manada de babuinos. A pesar de las dificultades de la estación seca, nacen bebés babuinos. Esta es la historia de un joven babuino macho que se enfrenta a elecciones difíciles a medida que alcanza la mayoría de edad.(n)</desc>
+    <credits>
+      <actor>David Vickery</actor>
+    </credits>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/44/12446533_EF59E99338DD54AF.jpg" />
+    <country lang="es">CA</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220911162500 +0000" stop="20220911171500 +0000" channel="-Love Nature">
+    <title lang="es">Cuentos de Zambia</title>
+    <sub-title lang="es">Pride Lands</sub-title>
+    <desc lang="es">Pase un día y una noche en el valle Luangwa de Zambia con los cazadores más temibles de África: una manada de leones. Los leones tienen hambre porque no han logrado hacer una gran matanza en días y los ánimos están empezando a estallar.(n)</desc>
+    <credits>
+      <actor>David Vickery</actor>
+    </credits>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/44/12446533_EF59E99338DD54AF.jpg" />
+    <country lang="es">CA</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220911171500 +0000" stop="20220911180500 +0000" channel="-Love Nature">
+    <title lang="es">Perros con trabajos extraordinarios</title>
+    <sub-title lang="es">The Rescuers</sub-title>
+    <desc lang="es">Los perros de todo el mundo vienen al rescate de maneras sorprendentes. Algunos buscan sobrevivientes cuando ocurre un desastre o rescatan animales de cazadores furtivos y traficantes de vida silvestre. Otros nos ayudan en tiempos de problemas.(n)</desc>
+    <category lang="es">Educativo</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777771_B9C5E51DC471C6E1.jpg" />
+    <country lang="es">GB</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220911180500 +0000" stop="20220911190000 +0000" channel="-Love Nature">
+    <title lang="es">Perros con trabajos extraordinarios</title>
+    <sub-title lang="es">The Lifesavers</sub-title>
+    <desc lang="es">Conoce a un border collie que protege a los aviones de los ataques letales de aves, un perro de caza sprocker cuyo sentido del olfato está salvando ratones de agua en peligro de extinción y un pastor de Anatolia que ayuda a conservar al felino más amenazado de África, el guepardo.(n)</desc>
+    <category lang="es">Educativo</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777771_B9C5E51DC471C6E1.jpg" />
+    <country lang="es">GB</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220911190000 +0000" stop="20220911195000 +0000" channel="-Love Nature">
+    <title lang="es">Perros con trabajos extraordinarios</title>
+    <sub-title lang="es">The Partners</sub-title>
+    <desc lang="es">Conozca a un golden retriever que alivia la ansiedad y ayuda a curar el trastorno de estrés postraumático, una mezcla de pastores que rescata a los sobrevivientes de deslizamientos de tierra, un par de spaniels que huelen las fugas de agua subterráneas y un grupo de mascotas de maestros en el Reino Unido que ayudan a los niños a aprender a leer.(n)</desc>
+    <category lang="es">Educativo</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777771_B9C5E51DC471C6E1.jpg" />
+    <country lang="es">GB</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220911195000 +0000" stop="20220911204000 +0000" channel="-Love Nature">
+    <title lang="es">Perros con trabajos extraordinarios</title>
+    <sub-title lang="es">The Protectors</sub-title>
+    <desc lang="es">Una mujer ciega ha encontrado una nueva oportunidad de vida gracias a su compañero canino, un Jack Russell trabaja como una súper niñera para una sorprendente variedad de especies, y un equipo de perros en Kenia está patrullando diariamente para proteger a los rinocerontes en peligro de extinción de los cazadores furtivos.(n)</desc>
+    <category lang="es">Educativo</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777771_B9C5E51DC471C6E1.jpg" />
+    <country lang="es">GB</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220911204000 +0000" stop="20220911213500 +0000" channel="-Love Nature">
+    <title lang="es">Perros con trabajos extraordinarios</title>
+    <sub-title lang="es">The Scent Detectives</sub-title>
+    <desc lang="es">Un cruce de labrador y su socio ayudan a prevenir un desastre ecológico en Canadá, un Lagotto Romagnolo descubre un manjar raro en los bosques de Washington, y un equipo belga de malinois rastrea a la tortuga geométrica en peligro crítico para salvar a la especie.(n)</desc>
+    <category lang="es">Educativo</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777771_B9C5E51DC471C6E1.jpg" />
+    <country lang="es">GB</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220911213500 +0000" stop="20220911222500 +0000" channel="-Love Nature">
+    <title lang="es">Guardianes de la naturaleza</title>
+    <sub-title lang="es">Elephant Rescue</sub-title>
+    <desc lang="es">Experimente la vida en uno de los orfanatos de elefantes de África. Conoce al equipo de cuidadores dedicados y apasionados que ayudan a tres jóvenes huérfanos a aprender todas las habilidades necesarias para sobrevivir en la selva.(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/76/11769109_C353419DE582AB06.jpg" />
+    <country lang="es">CA</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220911222500 +0000" stop="20220911231500 +0000" channel="-Love Nature">
+    <title lang="es">Guardianes de la naturaleza</title>
+    <sub-title lang="es">Camp Phoenix Herd</sub-title>
+    <desc lang="es">Conozca al tímido, joven y huérfano elefante Tafika mientras llega a una gran elección en su entrenamiento: quedarse con sus hermanos en la seguridad del campamento, o unirse a los huérfanos mayores que viven en el campo semi-salvaje. ¿Es lo suficientemente valiente como para avanzar hacia la libertad.(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/76/11769109_C353419DE582AB06.jpg" />
+    <country lang="es">CA</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220911231500 +0000" stop="20220912000500 +0000" channel="-Love Nature">
+    <title lang="es">Convirtiéndose en orangután</title>
+    <desc lang="es">Bienvenido bebé orangután Topan, un huérfano que necesita una madre sustituta. Mire su viaje de aprendizaje en la guardería mientras sus compañeros pasan por las escuelas junior, senior y de inmersión salvaje. Mientras tanto, Kasper, de 16 años, se prepara para la graduación.(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/55/12559858_BFE2DBAA2C5CC27E.jpg" />
+    <country lang="es">GB</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220912000500 +0000" stop="20220912010000 +0000" channel="-Love Nature">
+    <title lang="es">Convirtiéndose en orangután</title>
+    <desc lang="es">Observe las amistades florecientes y los lazos entre especies en la guardería, y eche un vistazo al bromance entre los amigos de la escuela secundaria Valentino, Yutris y Madara. Vea al distraído Beni apoyarse en su amor por la comida y recibir una paliza de un alumno más avanzado.(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/55/12559858_BFE2DBAA2C5CC27E.jpg" />
+    <country lang="es">GB</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220912010000 +0000" stop="20220912015500 +0000" channel="-Love Nature">
+    <title lang="es">Convirtiéndose en orangután</title>
+    <desc lang="es">Experimente una montaña rusa de emociones y dolores de crecimiento a medida que los orangutanes del santuario avanzan a través de seis grados hacia su liberación en la naturaleza. Descubra cómo cambia repentinamente el destino de Dilla y observe cómo el niño grande Beni sigue una dieta no deseada.(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/55/12559858_BFE2DBAA2C5CC27E.jpg" />
+    <country lang="es">GB</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220912015500 +0000" stop="20220912024500 +0000" channel="-Love Nature">
+    <title lang="es">Convirtiéndose en orangután</title>
+    <desc lang="es">Bienvenido bebé orangután Topan, un huérfano que necesita una madre sustituta. Mire su viaje de aprendizaje en la guardería mientras sus compañeros pasan por las escuelas junior, senior y de inmersión salvaje. Mientras tanto, Kasper, de 16 años, se prepara para la graduación.(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/55/12559858_BFE2DBAA2C5CC27E.jpg" />
+    <country lang="es">GB</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220912024500 +0000" stop="20220912034000 +0000" channel="-Love Nature">
+    <title lang="es">Convirtiéndose en orangután</title>
+    <desc lang="es">Observe las amistades florecientes y los lazos entre especies en la guardería, y eche un vistazo al bromance entre los amigos de la escuela secundaria Valentino, Yutris y Madara. Vea al distraído Beni apoyarse en su amor por la comida y recibir una paliza de un alumno más avanzado.(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/55/12559858_BFE2DBAA2C5CC27E.jpg" />
+    <country lang="es">GB</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220912034000 +0000" stop="20220912043000 +0000" channel="-Love Nature">
+    <title lang="es">Convirtiéndose en orangután</title>
+    <desc lang="es">Experimente una montaña rusa de emociones y dolores de crecimiento a medida que los orangutanes del santuario avanzan a través de seis grados hacia su liberación en la naturaleza. Descubra cómo cambia repentinamente el destino de Dilla y observe cómo el niño grande Beni sigue una dieta no deseada.(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/55/12559858_BFE2DBAA2C5CC27E.jpg" />
+    <country lang="es">GB</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220912043000 +0000" stop="20220912052500 +0000" channel="-Love Nature">
+    <title lang="es">Convirtiéndose en orangután</title>
+    <desc lang="es">Bienvenido bebé orangután Topan, un huérfano que necesita una madre sustituta. Mire su viaje de aprendizaje en la guardería mientras sus compañeros pasan por las escuelas junior, senior y de inmersión salvaje. Mientras tanto, Kasper, de 16 años, se prepara para la graduación.(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/55/12559858_BFE2DBAA2C5CC27E.jpg" />
+    <country lang="es">GB</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220912052500 +0000" stop="20220912061500 +0000" channel="-Love Nature">
+    <title lang="es">Convirtiéndose en orangután</title>
+    <desc lang="es">Observe las amistades florecientes y los lazos entre especies en la guardería, y eche un vistazo al bromance entre los amigos de la escuela secundaria Valentino, Yutris y Madara. Vea al distraído Beni apoyarse en su amor por la comida y recibir una paliza de un alumno más avanzado.(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/55/12559858_BFE2DBAA2C5CC27E.jpg" />
+    <country lang="es">GB</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220912061500 +0000" stop="20220912071000 +0000" channel="-Love Nature">
+    <title lang="es">Convirtiéndose en orangután</title>
+    <desc lang="es">Experimente una montaña rusa de emociones y dolores de crecimiento a medida que los orangutanes del santuario avanzan a través de seis grados hacia su liberación en la naturaleza. Descubra cómo cambia repentinamente el destino de Dilla y observe cómo el niño grande Beni sigue una dieta no deseada.(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/55/12559858_BFE2DBAA2C5CC27E.jpg" />
+    <country lang="es">GB</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220912071000 +0000" stop="20220912080000 +0000" channel="-Love Nature">
+    <title lang="es">Paisajes por descubrir</title>
+    <sub-title lang="es">Arizona</sub-title>
+    <desc lang="es">Descubre épicas maravillas naturales en el remoto desierto del suroeste de Estados Unidos. Desde cañones barridos por imponentes acantilados hasta dunas fosilizadas rayadas de rojo desértico, la meseta de Paria es una maravilla geológica.(n)</desc>
+    <credits>
+      <director>Dan Hughes</director>
+    </credits>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/76/11769189_E9D984C468FECEEA.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220912080000 +0000" stop="20220912085500 +0000" channel="-Love Nature">
+    <title lang="es">Paisajes por descubrir</title>
+    <sub-title lang="es">Bahamas</sub-title>
+    <desc lang="es">Con más de un millón de acres de parques protegidos, las islas de las Bahamas son un paraíso para las aves migratorias, las tortugas verdes y las iguanas de roca que encuentran refugio en los acantilados de arenisca, las cuevas submarinas y las playas de arena rosa.(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/76/11769189_E9D984C468FECEEA.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220912085500 +0000" stop="20220912092500 +0000" channel="-Love Nature">
+    <title lang="es">Criaturas extrañas</title>
+    <sub-title lang="es">Rastreadores espeluznantes</sub-title>
+    <desc lang="es">Sea testigo de las pequeñas criaturas que nos hacen retorcernos mientras esconden admirables habilidades de supervivencia. Desde hacerse el muerto, quitarse la cola o poder levantar objetos 30 veces su peso, estos insectos conquistan el mundo.(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777770_7BC17292DBE0FDD8.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220912092500 +0000" stop="20220912101500 +0000" channel="-Love Nature">
+    <title lang="es">Paisajes por descubrir</title>
+    <sub-title lang="es">Lago Superior</sub-title>
+    <desc lang="es">El más grande de los Grandes Lagos, con más agua dulce que todos los demás juntos, el Lago Superior se encuentra junto a un tramo escarpado del Escudo Canadiense que alberga osos negros y el animal más rápido del mundo: el halcón peregrino.(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/76/11769189_E9D984C468FECEEA.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220912101500 +0000" stop="20220912110500 +0000" channel="-Love Nature">
+    <title lang="es">Paisajes por descubrir</title>
+    <sub-title lang="es">Niagara</sub-title>
+    <desc lang="es">Famosa por sus cataratas, la escarpa del Niágara es una antigua pared de roca sedimentaria rica en fósiles que se abre camino a través de la región de los Grandes Lagos. Es el hogar de cedros de 1900 años de antigüedad, asentamientos antiguos y la fascinante isla Flowerpot.(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/76/11769189_E9D984C468FECEEA.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220912110500 +0000" stop="20220912120000 +0000" channel="-Love Nature">
+    <title lang="es">Escenas de la naturaleza</title>
+    <sub-title lang="es">Vida Silvestre Artica parte 1</sub-title>
+    <desc lang="es">Espacio que le permite descubrir el hábitat natural y los más hermosos paisajes que posee el Ártico.(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/76/11769143_ACEEDABD419CAD85.jpg" />
+    <country lang="es">US</country>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220912120000 +0000" stop="20220912125500 +0000" channel="-Love Nature">
+    <title lang="es">África extrema</title>
+    <sub-title lang="es">Etosha: The Great White Place</sub-title>
+    <desc lang="es">Explore un rincón de Namibia dominado por un calor sofocante y arena reseca. Pero los márgenes del Parque Nacional Etosha están salpicados de oasis que atraen manadas de criaturas sedientas, antílopes, aves exóticas y los elefantes más grandes del mundo.(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/76/11769060_297C6FA26542E620.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220912125500 +0000" stop="20220912134500 +0000" channel="-Love Nature">
+    <title lang="es">África extrema</title>
+    <sub-title lang="es">The Linear Oasis</sub-title>
+    <desc lang="es">El río Orange de 1.200 millas es el más largo de Sudáfrica. Siga su viaje hacia el oeste y vea una muestra diversa de vida silvestre, desde poderosas aves nadadoras como el dardo africano hasta lagartos planos que habitan las cataratas Augrabies.(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/76/11769060_297C6FA26542E620.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220912134500 +0000" stop="20220912143500 +0000" channel="-Love Nature">
+    <title lang="es">Garras y dientes de África</title>
+    <sub-title lang="es">La urgencia del depredador</sub-title>
+    <desc lang="es">La dura realidad de la vida como cazador nunca es saber de dónde vendrá tu próxima comida. Para sobrevivir, cada depredador debe matar. Investigue las impresionantes armas y estrategias de ataque de los depredadores especializados de África.(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12779708_CFB29BDD01D53D1B.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220912143500 +0000" stop="20220912153000 +0000" channel="-Love Nature">
+    <title lang="es">Garras y dientes de África</title>
+    <sub-title lang="es">Diseño letal</sub-title>
+    <desc lang="es">Las serpientes, las arañas y los escorpiones son el tipo de bichos que muchos temen. Pero en África, estas especies son depredadores refinados. Explore los métodos de caza, las habilidades y las vidas secretas de amor de estas criaturas venenosas.(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12779708_CFB29BDD01D53D1B.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220912153000 +0000" stop="20220912162500 +0000" channel="-Love Nature">
+    <title lang="es">Dentro de lo salvaje: India</title>
+    <sub-title lang="es">Jóvenes del desierto</sub-title>
+    <desc lang="es">Un cachorro de león joven debe sobrevivir mientras su familia se desgarra, dos cachorros de leopardo adolescentes deben valerse por sí mismos después de ser abandonados, y un blackbuck adulto joven arriesga la vida mientras intenta aparearse.(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777769_61E7DAC0FE06A570.jpg" />
+    <country lang="es">GB</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220912162500 +0000" stop="20220912171500 +0000" channel="-Love Nature">
+    <title lang="es">Brasil Salvaje</title>
+    <sub-title lang="es">Jardín de monos</sub-title>
+    <desc lang="es">Explore el Sur del Pantanal, donde los monos capuchinos marrones viven en su propio Jardín del Edén. La estación seca en las tierras altas los trata bien hasta que la sequía seca sus fuentes de alimento. ¿Puede un agutí laborioso salvarlos del hambre.(n)</desc>
+    <credits>
+      <director>Emmanuelle Wiecha</director>
+    </credits>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/76/11769106_4C24AB79CBF975D4.jpg" />
+    <country lang="es">BR</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220912171500 +0000" stop="20220912180500 +0000" channel="-Love Nature">
+    <title lang="es">Guardianes de la naturaleza</title>
+    <sub-title lang="es">Predators Uncovered</sub-title>
+    <desc lang="es">Explore el trabajo de dos científicos mientras estudian los carnívoros más grandes del valle de Luangwa, desde leones hasta perros salvajes. Aprenda lo que estos animales pueden decirles sobre la salud frágil de un ecosistema en riesgo por una población humana en constante expansión.(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/76/11769109_C353419DE582AB06.jpg" />
+    <country lang="es">CA</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220912180500 +0000" stop="20220912190000 +0000" channel="-Love Nature">
+    <title lang="es">Paisajes por descubrir</title>
+    <sub-title lang="es">El mundo perdido de Yucatán</sub-title>
+    <desc lang="es">La selva tropical se encuentra con el Caribe en esta impresionante región del este de México. Viaja a la jungla impenetrable, sumérgete en las profundidades de misteriosas cuevas submarinas y recorre exuberantes pantanos que albergan al depredador más grande del país: el cocodrilo de Morelet.(n)</desc>
+    <category lang="es">Naturaleza</category>
+    <category lang="es">Documental</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/76/11769189_E9D984C468FECEEA.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
     </rating>
   </programme>
   <programme start="20220909050000 +0000" stop="20220909053000 +0000" channel="-Dreamworks">
@@ -9907,11 +11063,6 @@
     <icon src="http://demo.tmsimg.com/assets/p14788706_b_h8_ad.jpg" />
     <country lang="es">ZAF</country>
   </programme>
-  <programme start="20220909185000 +0000" stop="20220909194500 +0000" channel="Telehit Musica">
-    <title lang="en">Super Hits</title>
-    <desc lang="en">Traemos para ti una larga de lista con las mejores canciones de todos los tiempos,.(n)</desc>
-    <date>2014</date>
-  </programme>
   <programme start="20220909194500 +0000" stop="20220909204000 +0000" channel="Telehit Musica">
     <title lang="en">Turbo fiesta</title>
     <date>2022</date>
@@ -11988,9 +13139,9 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20220913142500 -0500" stop="20220913151500 -0500" channel="BitMe">
-    <title lang="es">Attack on Titan</title>
-    <episode-num system="onscreen">S2</episode-num>
+  <programme start="20220913151500 -0500" stop="20220913160500 -0500" channel="BitMe">
+    <title lang="es">My hero academy</title>
+    <episode-num system="onscreen">S3</episode-num>
   </programme>
   <programme start="20220913193000 -0500" stop="20220913204000 -0500" channel="BitMe">
     <title lang="es">Yu-Gi-Oh</title>
