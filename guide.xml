@@ -1669,14 +1669,6 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20220917173000 +0000" stop="20220917193000 +0000" channel="-UniMás">
-    <title lang="en">Trapped in Paradise</title>
-    <desc lang="en">En este thriller de supervivencia, las vacaciones familiares en la isla se convierten en un viaje al infierno. Después de que su esposo fallece trágicamente, Anna lleva a su hijo adolescente Max a un resort. Cuando una despiadada banda de piratas los rodea, Max es tomado como rehén. La única esperanza de Anna es formar un equipo con Philippe, el instructor de buceo del resort, y enfrentarse a los bandidos mortales.(n)</desc>
-    <date>2017</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20220917193000 +0000" stop="20220917220000 +0000" channel="-UniMás">
     <title lang="en">Fútbol de la MLS (live)</title>
     <sub-title lang="en">Atlanta United FC vs. Philadelphia Union</sub-title>
@@ -2232,19 +2224,6 @@
   <programme start="20220918190000 -0500" stop="20220919000000 -0500" channel="-RCN Novelas">
     <title lang="es">Doña Bella</title>
   </programme>
-  <programme start="20220917173000 +0000" stop="20220917180000 +0000" channel="Univision 41">
-    <title lang="en">Programación pagada</title>
-    <desc lang="en">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.(n)</desc>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220917180000 +0000" stop="20220917190000 +0000" channel="Univision 41">
-    <title lang="en">Cuéntamelo Ya Al Fin (new)</title>
-    <sub-title lang="en">09-17-2022</sub-title>
-    <date>2016</date>
-    <premiere />
-  </programme>
   <programme start="20220917190000 +0000" stop="20220917200000 +0000" channel="Univision 41">
     <title lang="en">Misión Europa (new)</title>
     <sub-title lang="en">Mision Europa: Especial</sub-title>
@@ -2759,14 +2738,6 @@
     <title lang="en">La Rosa de Guadalupe (new)</title>
     <date>2008</date>
     <premiere />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220917170000 +0000" stop="20220917193000 +0000" channel="Telemundo 47">
-    <title lang="en">Con Air</title>
-    <desc lang="en">Un ex-convicto queda atrapado en un avión lleno de criminales renombrados que, al ser escoltados por la policía a otra cárcel, se apoderan de la nave.(n)</desc>
-    <date>1997</date>
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
@@ -3299,15 +3270,6 @@
     <date>2022</date>
     <premiere />
   </programme>
-  <programme start="20220917172500 +0000" stop="20220917193500 +0000" channel="-Clover Channel">
-    <title lang="es">Chocolate</title>
-    <desc lang="es">Una mujer y su hija abren una tienda de chocolates al lado de la iglesia de una pequeña comunidad francesa a finales de la década del 50. Ellas satisfacen a sus clientes con el dulce correcto y pronto ven cómo cambian todas las bases de la moralidad de su sociedad.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/31/12318283_4CBB10D1276CC3F4.jpg" />
-    <country lang="es">US, GB</country>
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
   <programme start="20220917193500 +0000" stop="20220917211000 +0000" channel="-Clover Channel">
     <title lang="es">¿Y dónde está el piloto?</title>
     <desc lang="es">Ted Strike, un ex piloto de guerra traumatizado, no tiene más remedio que tomar los controles del avión donde viaja debido a que el capitán de la aeronave se descompuso por consumir comida contaminada. Con el asesoramiento de Kramer, Striker es capaz de vencer sus miedos y buscará la forma de poner a todos a salvo.(n)</desc>
@@ -3650,37 +3612,13 @@
       <value>+14</value>
     </rating>
   </programme>
-  <programme start="20220917171500 +0000" stop="20220917180500 +0000" channel="Love Nature!">
-    <title lang="es">Dentro de lo salvaje: India</title>
-    <sub-title lang="es">Jóvenes del desierto</sub-title>
-    <desc lang="es">Un cachorro de león joven debe sobrevivir mientras su familia se desgarra, dos cachorros de leopardo adolescentes deben valerse por sí mismos después de ser abandonados, y un blackbuck adulto joven arriesga la vida mientras intenta aparearse.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777769_61E7DAC0FE06A570.jpg" />
-    <country lang="es">GB</country>
-    <episode-num system="onscreen">S1 E6</episode-num>
+  <programme start="20220920175000 +0000" stop="20220920194000 +0000" channel="-Clover Channel">
+    <title lang="es">Los locos Addams</title>
+    <desc lang="es">El delirante y gótico estilo de vida de la peculiar familia Addams se ve amenazado peligrosamente cuando una embaucadora profesional, su hijo y un abogado sin ningún escrúpulo conspiran para quedarse con su fortuna haciéndoles creer sobre la existencia de un familiar perdido.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/32/12329266_78F6B42A975883FB.jpg" />
+    <country lang="es">US</country>
     <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220917180500 +0000" stop="20220917190000 +0000" channel="Love Nature!">
-    <title lang="es">Dentro de lo salvaje: India</title>
-    <sub-title lang="es">Rajan: mono en una misión</sub-title>
-    <desc lang="es">Rajan es el poderoso mono macho alfa que se sienta a la cabeza de una tropa inusualmente grande. Ha hecho bien en mantener a su gran tribu, pero el futuro no se ve bien ya que las bocas para alimentarse están creciendo mientras su hogar se está reduciendo.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777769_61E7DAC0FE06A570.jpg" />
-    <country lang="es">GB</country>
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220917190000 +0000" stop="20220917195000 +0000" channel="Love Nature!">
-    <title lang="es">Dentro de lo salvaje: India</title>
-    <sub-title lang="es">Monos del templo a la fuga</sub-title>
-    <desc lang="es">En la antigua ciudad de Jodhpur, los lujosos Jardines del Templo albergan a una tropa de Hanuman Langurs que disfrutan de una vida pacífica y generosa. Pero cuando una tropa de hombres jóvenes ataca, se ven obligados a huir. ¿Tienen lo que se necesita para recuperar su hogar.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12777769_61E7DAC0FE06A570.jpg" />
-    <country lang="es">GB</country>
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
+      <value>+14</value>
     </rating>
   </programme>
   <programme start="20220917195000 +0000" stop="20220917204000 +0000" channel="Love Nature!">
@@ -4567,6 +4505,28 @@
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/76/11769106_4C24AB79CBF975D4.jpg" />
     <country lang="es">BR</country>
     <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220920171500 +0000" stop="20220920180500 +0000" channel="Love Nature!">
+    <title lang="es">Los misterios del Mekong</title>
+    <sub-title lang="es">Laos: vida silvestre de montaña</sub-title>
+    <desc lang="es">La mayor parte del occidente de Laos está delimitada por el río Mekong. Es uno de los paisajes naturales más prístinos y acoge una fauna diversa. Su topografía es en gran parte montañosa, y este terreno empinado está cubierto por la lluvia tropical del norte de Laos y los monzones.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/76/11769110_D5B05B5A264A70F1.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220920180500 +0000" stop="20220920190000 +0000" channel="Love Nature!">
+    <title lang="es">Parques marinos</title>
+    <sub-title lang="es">Parque Nacional Marino Bonaire</sub-title>
+    <desc lang="es">Realiza un viaje al interior del Mar Caribe Sur para explorar las aguas protegidas del Parque Nacional Marino de Bonaire, hogar de arrecifes prósperos, tortugas marinas en peligro de extinción, manglares en expansión y una gran cantidad de vida marina.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/76/11769111_4EAAADC832F97074.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="MJColombia">
       <value>TE</value>
     </rating>
@@ -11114,23 +11074,6 @@
     </credits>
     <icon src="http://demo.tmsimg.com/assets/p14410278_b_h10_ab.jpg" />
     <country lang="es">POL</country>
-  </programme>
-  <programme start="20220917170000 +0000" stop="20220917175500 +0000" channel="Telehit Musica">
-    <title lang="en">Top 10</title>
-    <desc lang="en">La lista de popularidad con los éxitos del momento de Telehit Urbano.(n)</desc>
-  </programme>
-  <programme start="20220917175500 +0000" stop="20220917185000 +0000" channel="Telehit Musica">
-    <title lang="en">Reggaetown</title>
-    <date>2022</date>
-  </programme>
-  <programme start="20220917185000 +0000" stop="20220917190000 +0000" channel="Telehit Musica">
-    <title lang="en">Playlist Telehit</title>
-    <desc lang="en">Disfruta de la playlist que propone Telehit para bailar al ritmo de lo mejor del urbano.(n)</desc>
-    <date>2019</date>
-  </programme>
-  <programme start="20220917190000 +0000" stop="20220917195500 +0000" channel="Telehit Musica">
-    <title lang="en">Ranking</title>
-    <desc lang="en">En esta oportunidad se presentan lo mejores y más destacados videos musicales. En este segmento podremos disfrutar de la música de parte de los artistas y bandas más consagrados de la industria, y sus ingeniosos videos. Preparate para disfrutar todo desde tu pantalla.(n)</desc>
   </programme>
   <programme start="20220917195500 +0000" stop="20220917205000 +0000" channel="Telehit Musica">
     <title lang="en">Suena el Dembow</title>
