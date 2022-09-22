@@ -2,8 +2,8 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.4.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="Sony Movies!">
     <display-name lang="es">Sony Movies!</display-name>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
-    <url>http://www.directv.com.ar</url>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/506.png" />
+    <url>http://www.directv.com.co</url>
   </channel>
   <channel id="HBO 2!">
     <display-name lang="es">HBO 2!</display-name>
@@ -18,12 +18,12 @@
   <channel id="-TVN (CHI)">
     <display-name lang="es">TVN (CHI)</display-name>
     <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/1149.png" />
-    <url>http://www.directv.cl</url>
+    <url>http://www.directv.com.cl</url>
   </channel>
   <channel id="La Red (CHI)">
     <display-name lang="es">La Red (CHI)</display-name>
     <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/148.png" />
-    <url>http://www.directv.cl</url>
+    <url>http://www.directv.com.cl</url>
   </channel>
   <channel id="-UniMás">
     <display-name lang="en">UniMás</display-name>
@@ -92,815 +92,1458 @@
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523290_AD350A44EE3C7F22.png" />
     <url>http://www.movistar.com.pe</url>
   </channel>
-  <programme start="20220922012500 -0300" stop="20220922031500 -0300" channel="Sony Movies!">
-    <title lang="es">¿Y dónde están los Morgan?</title>
-    <title lang="en">Did You Hear About the Morgans?</title>
-    <desc lang="es">A una pareja se les presenta una oportunidad inverosímil de salvar su matrimonio cuando, después de presenciar un asesinato, el FBI los oculta en un pequeño pueblo de Wyoming.(n)</desc>
-    <category lang="es">Películas</category>
-    <category lang="es">Comedia</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
-    <rating system="AR">
-      <value>PG-13</value>
-    </rating>
-  </programme>
-  <programme start="20220922031500 -0300" stop="20220922045500 -0300" channel="Sony Movies!">
+  <programme start="20220922011500 -0500" stop="20220922025500 -0500" channel="Sony Movies!">
     <title lang="es">Como si fuera la primera vez</title>
-    <title lang="en">50 First Dates</title>
+    <title lang="es">50 First Dates</title>
     <desc lang="es">Henry, biólogo marino, no tiene la mínima intención de comprometerse con nadie, hasta que conoce a Lucy, la chica de sus sueños. Sin embargo, hay un pequeño problema, la joven se levanta cada mañana sin recordar absolutamente nada del día anterior.(n)</desc>
-    <category lang="es">Películas</category>
+    <credits>
+      <director>Peter Segal</director>
+      <actor>Adam Sandler</actor>
+      <actor>Alan Au</actor>
+      <actor>Allen Covert</actor>
+      <actor>Amy Hill</actor>
+      <actor>Blake Clark</actor>
+      <actor>Dan Aykroyd</actor>
+      <actor>Daniel Lupi</actor>
+      <actor>David Bach</actor>
+    </credits>
+    <date>2004</date>
     <category lang="es">Comedia</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
-    <rating system="AR">
+    <category lang="es">Pepetición</category>
+    <rating system="CO">
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20220922045500 -0300" stop="20220922065000 -0300" channel="Sony Movies!">
+  <programme start="20220922025500 -0500" stop="20220922045000 -0500" channel="Sony Movies!">
     <title lang="es">Una pareja más tonta</title>
-    <title lang="en">Dumb and Dumber To</title>
+    <title lang="es">Dumb and Dumber To</title>
     <desc lang="es">Tras descubrir que necesita un trasplante de riñón y que tiene una hija, Harry Dunne emprende un viaje en carretera con su amigo Lloyd Christmas.(n)</desc>
-    <category lang="es">Películas</category>
+    <credits>
+      <director>Bobby Farrelly</director>
+      <director>Peter Farrelly</director>
+      <actor>Aaron Osborne</actor>
+      <actor>Atkins Estimond</actor>
+      <actor>Bennett Yellin</actor>
+      <actor>Bill Murray</actor>
+      <actor>Bobby Farrelly</actor>
+      <actor>Brad Krevoy</actor>
+      <actor>Bradley Thomas</actor>
+      <actor>Brady Bluhm</actor>
+    </credits>
+    <date>2014</date>
     <category lang="es">Comedia</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
-    <rating system="AR">
+    <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220922065000 -0300" stop="20220922071000 -0300" channel="Sony Movies!">
+  <programme start="20220922045000 -0500" stop="20220922051000 -0500" channel="Sony Movies!">
+    <title lang="es">Whiplash: Música y obsesión</title>
     <title lang="es">Whiplash</title>
     <desc lang="es">Andrew Neiman es un joven y ambicioso baterista de jazz. Marcado por el fracaso de la carrera literaria de su padre, está obsesionado con alcanzar la cima dentro del elitista conservatorio de música de la Costa Este en el que estudia.(n)</desc>
-    <category lang="es">Películas</category>
+    <credits>
+      <director>Damien Chazelle</director>
+      <actor>Austin Stowell</actor>
+      <actor>Charlie Ian</actor>
+      <actor>Chris Mulkey</actor>
+      <actor>Couper Samuelson</actor>
+      <actor>Damien Chazelle</actor>
+      <actor>Damon Gupton</actor>
+      <actor>David Lancaster</actor>
+      <actor>Gary Walters</actor>
+    </credits>
+    <date>2014</date>
     <category lang="es">Drama</category>
     <category lang="es">Música</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
-    <rating system="AR">
-      <value>NR</value>
+    <rating system="CO">
+      <value>R</value>
     </rating>
   </programme>
-  <programme start="20220922071000 -0300" stop="20220922073500 -0300" channel="Sony Movies!">
+  <programme start="20220922051000 -0500" stop="20220922053500 -0500" channel="Sony Movies!">
     <title lang="es">The Goldbergs</title>
     <sub-title lang="es">Revenge o' the Nerds</sub-title>
-    <desc lang="es">Debido a que sus hijos están creciendo, Beverly decide reinventarse; Erica lucha para equilibrar su vida académica y social en la universidad y busca la ayuda de Adam.(n)</desc>
+    <desc lang="es">Debido a que sus hijos están creciendo, Beverly decide reinventarse; Erica lucha para equilibrar su vida académica y social en la universidad y busca la ayuda de Adam. Temporada:05,Episodio:04.(n)</desc>
+    <credits>
+      <director>David Katzenberg</director>
+      <actor>Adam F. Goldberg</actor>
+      <actor>Alex Barnow</actor>
+      <actor>Alex Jennings</actor>
+      <actor>Alison Rich</actor>
+      <actor>Andrew Secunda</actor>
+      <actor>Celeste DeAstis</actor>
+      <actor>Chris Bishop</actor>
+      <actor>David Guarascio</actor>
+    </credits>
+    <date>2017</date>
     <category lang="es">Series</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
     <episode-num system="onscreen">S5 E4</episode-num>
-    <rating system="AR">
+    <rating system="CO">
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20220922073500 -0300" stop="20220922080000 -0300" channel="Sony Movies!">
+  <programme start="20220922053500 -0500" stop="20220922060000 -0500" channel="Sony Movies!">
     <title lang="es">The Goldbergs</title>
     <sub-title lang="es">Jackie Likes Star Trek</sub-title>
-    <desc lang="es">Adam y Jackie discuten por sus disfraces de Halloween; Murray le enseña Adam cómo mantener feliz a Jackie.(n)</desc>
+    <desc lang="es">Adam y Jackie discuten por sus disfraces de Halloween; Murray le enseña Adam cómo mantener feliz a Jackie. Temporada:05,Episodio:05.(n)</desc>
+    <credits>
+      <director>Lea Thompson</director>
+      <actor>Adam F. Goldberg</actor>
+      <actor>AJ Michalka</actor>
+      <actor>Alex Barnow</actor>
+      <actor>Andrew Secunda</actor>
+      <actor>Chris Bishop</actor>
+      <actor>David Guarascio</actor>
+      <actor>Doug Robinson</actor>
+      <actor>George Segal</actor>
+    </credits>
+    <date>2017</date>
     <category lang="es">Series</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
     <episode-num system="onscreen">S5 E5</episode-num>
-    <rating system="AR">
+    <rating system="CO">
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20220922080000 -0300" stop="20220922095000 -0300" channel="Sony Movies!">
+  <programme start="20220922060000 -0500" stop="20220922075000 -0500" channel="Sony Movies!">
     <title lang="es">Here Comes the Boom</title>
     <desc lang="es">Scott Voss (Kevin James), alguna vez fue un luchador colegial, ahora tiene 42 años y es maestro de biología en una escuela. Cuando los cortes amenazan con eliminar el programa musical de su escuela y a su maestro (Henry Winkler), Scott entra en acción. Él usa sus habilidades de luchador y gana dinero para el programa como peleador de artes marciales mixtas. La enfermera (Salma Hayek) de la escuela cree que está loco, Scott consigue algo que nunca hubiera esperado.(n)</desc>
-    <category lang="es">Películas</category>
+    <credits>
+      <director>Frank Coraci</director>
+      <actor>Adam Sandler</actor>
+      <actor>Alan Au</actor>
+      <actor>Allan Loeb</actor>
+      <actor>Bas Rutten</actor>
+      <actor>Blaine Stevens</actor>
+      <actor>Charice</actor>
+      <actor>Denise Pizzini</actor>
+      <actor>Gary Valentine</actor>
+    </credits>
+    <date>2012</date>
     <category lang="es">Comedia</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
-    <rating system="AR">
+    <rating system="CO">
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20220922095000 -0300" stop="20220922113000 -0300" channel="Sony Movies!">
+  <programme start="20220922075000 -0500" stop="20220922093000 -0500" channel="Sony Movies!">
     <title lang="es">Como si fuera la primera vez</title>
-    <title lang="en">50 First Dates</title>
+    <title lang="es">50 First Dates</title>
     <desc lang="es">Henry, biólogo marino, no tiene la mínima intención de comprometerse con nadie, hasta que conoce a Lucy, la chica de sus sueños. Sin embargo, hay un pequeño problema, la joven se levanta cada mañana sin recordar absolutamente nada del día anterior.(n)</desc>
-    <category lang="es">Películas</category>
+    <credits>
+      <director>Peter Segal</director>
+      <actor>Adam Sandler</actor>
+      <actor>Alan Au</actor>
+      <actor>Allen Covert</actor>
+      <actor>Amy Hill</actor>
+      <actor>Blake Clark</actor>
+      <actor>Dan Aykroyd</actor>
+      <actor>Daniel Lupi</actor>
+      <actor>David Bach</actor>
+    </credits>
+    <date>2004</date>
     <category lang="es">Comedia</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
-    <rating system="AR">
+    <category lang="es">Pepetición</category>
+    <rating system="CO">
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20220922113000 -0300" stop="20220922115500 -0300" channel="Sony Movies!">
+  <programme start="20220922093000 -0500" stop="20220922095500 -0500" channel="Sony Movies!">
     <title lang="es">Community</title>
     <sub-title lang="es">Pascal's Triangle Revisited</sub-title>
-    <desc lang="es">Es el final del año escolar. Jeff está en medio de un triángulo amoroso. Annie reflexiona sobre una propuesta de mudarse con su novio y Troy busca un nuevo lugar para vivir.(n)</desc>
+    <desc lang="es">Es el final del año escolar. Jeff está en medio de un triángulo amoroso. Annie reflexiona sobre una propuesta de mudarse con su novio y Troy busca un nuevo lugar para vivir. Temporada:01,Episodio:25.(n)</desc>
+    <credits>
+      <actor>Alison Brie</actor>
+      <actor>Anthony Russo</actor>
+      <actor>Chevy Chase</actor>
+      <actor>Dan Harmon</actor>
+      <actor>Danny Pudi</actor>
+      <actor>Dino Stamatopoulos</actor>
+      <actor>Donald Glover</actor>
+      <actor>Eric Olsen</actor>
+    </credits>
+    <date>2010</date>
     <category lang="es">Series</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
     <episode-num system="onscreen">S1 E25</episode-num>
-    <rating system="AR">
+    <rating system="CO">
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20220922115500 -0300" stop="20220922122000 -0300" channel="Sony Movies!">
+  <programme start="20220922095500 -0500" stop="20220922102000 -0500" channel="Sony Movies!">
     <title lang="es">Community</title>
     <sub-title lang="es">Anthropology 101</sub-title>
-    <desc lang="es">Empieza el nuevo semestre y el grupo de estudio se reúne para la clase de Antropología. Jeff lidia con la complicada situación entre Britta y Annie. Chang se matricula como estudiante en Greendale.(n)</desc>
+    <desc lang="es">Empieza el nuevo semestre y el grupo de estudio se reúne para la clase de Antropología. Jeff lidia con la complicada situación entre Britta y Annie. Chang se matricula como estudiante en Greendale. Temporada:02,Episodio:01.(n)</desc>
+    <credits>
+      <actor>Alison Brie</actor>
+      <actor>Anthony Russo</actor>
+      <actor>Betty White</actor>
+      <actor>Chevy Chase</actor>
+      <actor>Dan Harmon</actor>
+      <actor>Danny Pudi</actor>
+      <actor>Dino Stamatopoulos</actor>
+      <actor>Donald Glover</actor>
+    </credits>
+    <date>2010</date>
     <category lang="es">Series</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
     <episode-num system="onscreen">S2 E1</episode-num>
-    <rating system="AR">
+    <rating system="CO">
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20220922122000 -0300" stop="20220922124400 -0300" channel="Sony Movies!">
+  <programme start="20220922102000 -0500" stop="20220922104400 -0500" channel="Sony Movies!">
     <title lang="es">Community</title>
     <sub-title lang="es">Accounting for Lawyers</sub-title>
-    <desc lang="es">Un viejo amigo y excolega del bufete de abogados de Jeff aparece de repente y decide abandonar el grupo de estudio para ir a una fiesta con sus viejos amigos. Annie intenta demostrar que uno de ellos es un traidor.(n)</desc>
+    <desc lang="es">Un viejo amigo y excolega del bufete de abogados de Jeff aparece de repente y decide abandonar el grupo de estudio para ir a una fiesta con sus viejos amigos. Annie intenta demostrar que uno de ellos es un traidor. Temporada:02,Episodio:02.(n)</desc>
+    <credits>
+      <actor>Alison Brie</actor>
+      <actor>Anthony Russo</actor>
+      <actor>Chevy Chase</actor>
+      <actor>Dan Harmon</actor>
+      <actor>Danny Pudi</actor>
+      <actor>Dino Stamatopoulos</actor>
+      <actor>Donald Glover</actor>
+      <actor>Drew Carey</actor>
+    </credits>
+    <date>2010</date>
     <category lang="es">Series</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
     <episode-num system="onscreen">S2 E2</episode-num>
-    <rating system="AR">
+    <rating system="CO">
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20220922124400 -0300" stop="20220922131000 -0300" channel="Sony Movies!">
+  <programme start="20220922104400 -0500" stop="20220922111000 -0500" channel="Sony Movies!">
     <title lang="es">The Goldbergs</title>
     <sub-title lang="es">Girl Talk</sub-title>
-    <desc lang="es">Adam ofrece grabar un anuncio comercial para Murray en el que Marvin sea la estrella, pero la actitud de Marvin arruina todo lo planeado por Adam. Mientras tanto, Beverly ayuda a Barry a pedir salir a una niña que le gusta de la escuela.(n)</desc>
+    <desc lang="es">Adam ofrece grabar un anuncio comercial para Murray en el que Marvin sea la estrella, pero la actitud de Marvin arruina todo lo planeado por Adam. Mientras tanto, Beverly ayuda a Barry a pedir salir a una niña que le gusta de la escuela. Temporada:05,Episodio:06.(n)</desc>
+    <credits>
+      <director>Jay Chandrasekhar</director>
+      <actor>Adam F. Goldberg</actor>
+      <actor>Alex Barnow</actor>
+      <actor>Andrew Secunda</actor>
+      <actor>Ben Zelevansky</actor>
+      <actor>Chris Bishop</actor>
+      <actor>Dan Fogler</actor>
+      <actor>David Guarascio</actor>
+      <actor>Doug Robinson</actor>
+    </credits>
+    <date>2017</date>
     <category lang="es">Series</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
     <episode-num system="onscreen">S5 E6</episode-num>
-    <rating system="AR">
+    <rating system="CO">
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20220922131000 -0300" stop="20220922133400 -0300" channel="Sony Movies!">
+  <programme start="20220922111000 -0500" stop="20220922113400 -0500" channel="Sony Movies!">
     <title lang="es">The Goldbergs</title>
     <sub-title lang="es">A Wall Street Thanksgiving</sub-title>
-    <desc lang="es">El tío Marvin cuenta a todos que se ha convertido en corredor de bolsa y convence a Barry y sus amigos de que inviertan dinero en él. Beverly invita a 50 personas en Acción de Gracias.(n)</desc>
-    <category lang="es">Intereses</category>
+    <desc lang="es">El tío Marvin cuenta a todos que se ha convertido en corredor de bolsa y convence a Barry y sus amigos de que inviertan dinero en él. Beverly invita a 50 personas en Acción de Gracias. Temporada:05,Episodio:07.(n)</desc>
+    <credits>
+      <director>Lew Schneider</director>
+      <actor>Adam F. Goldberg</actor>
+      <actor>Alex Barnow</actor>
+      <actor>Andrew Secunda</actor>
+      <actor>Bill Goldberg</actor>
+      <actor>Bryan Callen</actor>
+      <actor>Chris Bishop</actor>
+      <actor>Dan Fogler</actor>
+      <actor>David Guarascio</actor>
+    </credits>
+    <date>2017</date>
     <category lang="es">Series</category>
     <category lang="es">Vacaciones</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
     <episode-num system="onscreen">S5 E7</episode-num>
-    <rating system="AR">
+    <rating system="CO">
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20220922133400 -0300" stop="20220922140000 -0300" channel="Sony Movies!">
+  <programme start="20220922113400 -0500" stop="20220922120000 -0500" channel="Sony Movies!">
     <title lang="es">The Goldbergs</title>
     <sub-title lang="es">The Circle of Driving Again</sub-title>
-    <desc lang="es">Murray lleva a Adam a una lección de manejo y descubren algo sobre Pops en el proceso; Erica lucha para hacer amigos.(n)</desc>
+    <desc lang="es">Murray lleva a Adam a una lección de manejo y descubren algo sobre Pops en el proceso; Erica lucha para hacer amigos. Temporada:05,Episodio:08.(n)</desc>
+    <credits>
+      <director>Lew Schneider</director>
+      <actor>Adam F. Goldberg</actor>
+      <actor>Alex Barnow</actor>
+      <actor>Alison Rich</actor>
+      <actor>Andrew Secunda</actor>
+      <actor>Celeste DeAstis</actor>
+      <actor>Chris Bishop</actor>
+      <actor>David Guarascio</actor>
+      <actor>Doug Robinson</actor>
+    </credits>
+    <date>2017</date>
     <category lang="es">Series</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
     <episode-num system="onscreen">S5 E8</episode-num>
-    <rating system="AR">
+    <rating system="CO">
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20220922140000 -0300" stop="20220922142000 -0300" channel="Sony Movies!">
+  <programme start="20220922120000 -0500" stop="20220922122000 -0500" channel="Sony Movies!">
+    <title lang="es">Whiplash: Música y obsesión</title>
     <title lang="es">Whiplash</title>
     <desc lang="es">Andrew Neiman es un joven y ambicioso baterista de jazz. Marcado por el fracaso de la carrera literaria de su padre, está obsesionado con alcanzar la cima dentro del elitista conservatorio de música de la Costa Este en el que estudia.(n)</desc>
-    <category lang="es">Películas</category>
+    <credits>
+      <director>Damien Chazelle</director>
+      <actor>Austin Stowell</actor>
+      <actor>Charlie Ian</actor>
+      <actor>Chris Mulkey</actor>
+      <actor>Couper Samuelson</actor>
+      <actor>Damien Chazelle</actor>
+      <actor>Damon Gupton</actor>
+      <actor>David Lancaster</actor>
+      <actor>Gary Walters</actor>
+    </credits>
+    <date>2014</date>
     <category lang="es">Drama</category>
     <category lang="es">Música</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
-    <rating system="AR">
-      <value>NR</value>
+    <rating system="CO">
+      <value>R</value>
     </rating>
   </programme>
-  <programme start="20220922142000 -0300" stop="20220922161500 -0300" channel="Sony Movies!">
+  <programme start="20220922122000 -0500" stop="20220922141500 -0500" channel="Sony Movies!">
     <title lang="es">Una pareja más tonta</title>
-    <title lang="en">Dumb and Dumber To</title>
+    <title lang="es">Dumb and Dumber To</title>
     <desc lang="es">Tras descubrir que necesita un trasplante de riñón y que tiene una hija, Harry Dunne emprende un viaje en carretera con su amigo Lloyd Christmas.(n)</desc>
-    <category lang="es">Películas</category>
+    <credits>
+      <director>Bobby Farrelly</director>
+      <director>Peter Farrelly</director>
+      <actor>Aaron Osborne</actor>
+      <actor>Atkins Estimond</actor>
+      <actor>Bennett Yellin</actor>
+      <actor>Bill Murray</actor>
+      <actor>Bobby Farrelly</actor>
+      <actor>Brad Krevoy</actor>
+      <actor>Bradley Thomas</actor>
+      <actor>Brady Bluhm</actor>
+    </credits>
+    <date>2014</date>
     <category lang="es">Comedia</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
-    <rating system="AR">
+    <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220922161500 -0300" stop="20220922180500 -0300" channel="Sony Movies!">
+  <programme start="20220922141500 -0500" stop="20220922160500 -0500" channel="Sony Movies!">
     <title lang="es">Here Comes the Boom</title>
     <desc lang="es">Scott Voss (Kevin James), alguna vez fue un luchador colegial, ahora tiene 42 años y es maestro de biología en una escuela. Cuando los cortes amenazan con eliminar el programa musical de su escuela y a su maestro (Henry Winkler), Scott entra en acción. Él usa sus habilidades de luchador y gana dinero para el programa como peleador de artes marciales mixtas. La enfermera (Salma Hayek) de la escuela cree que está loco, Scott consigue algo que nunca hubiera esperado.(n)</desc>
-    <category lang="es">Películas</category>
+    <credits>
+      <director>Frank Coraci</director>
+      <actor>Adam Sandler</actor>
+      <actor>Alan Au</actor>
+      <actor>Allan Loeb</actor>
+      <actor>Bas Rutten</actor>
+      <actor>Blaine Stevens</actor>
+      <actor>Charice</actor>
+      <actor>Denise Pizzini</actor>
+      <actor>Gary Valentine</actor>
+    </credits>
+    <date>2012</date>
     <category lang="es">Comedia</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
-    <rating system="AR">
+    <rating system="CO">
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20220922180500 -0300" stop="20220922195500 -0300" channel="Sony Movies!">
+  <programme start="20220922160500 -0500" stop="20220922175500 -0500" channel="Sony Movies!">
     <title lang="es">¿Y dónde están los Morgan?</title>
-    <title lang="en">Did You Hear About the Morgans?</title>
+    <title lang="es">Did You Hear About the Morgans?</title>
     <desc lang="es">A una pareja se les presenta una oportunidad inverosímil de salvar su matrimonio cuando, después de presenciar un asesinato, el FBI los oculta en un pequeño pueblo de Wyoming.(n)</desc>
-    <category lang="es">Películas</category>
+    <credits>
+      <director>Marc Lawrence</director>
+      <actor>Anthony Katagas</actor>
+      <actor>Christopher Peterson</actor>
+      <actor>Elisabeth Moss</actor>
+      <actor>Florian Ballhaus</actor>
+      <actor>Hugh Grant</actor>
+      <actor>Ilene Starger</actor>
+      <actor>Jason Liebman</actor>
+      <actor>Kevin Thompson</actor>
+    </credits>
+    <date>2009</date>
     <category lang="es">Comedia</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
-    <rating system="AR">
+    <rating system="CO">
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20220922195500 -0300" stop="20220922220000 -0300" channel="Sony Movies!">
+  <programme start="20220922175500 -0500" stop="20220922200000 -0500" channel="Sony Movies!">
     <title lang="es">Chef</title>
     <desc lang="es">El chef Carl Casper deja su trabajo en un famoso restaurante de Los Ángeles y termina asociándose con su exmujer, su amigo y su hijo para montar un puesto de comida ambulante, donde recupera sus raíces y su pasión.(n)</desc>
-    <category lang="es">Películas</category>
+    <credits>
+      <director>Jon Favreau</director>
+      <actor>Alicia Maccarone</actor>
+      <actor>Amy Sedaris</actor>
+      <actor>Anne Sheehan</actor>
+      <actor>Bobby Cannavale</actor>
+      <actor>Boris Tererov</actor>
+      <actor>Craig Chapman</actor>
+      <actor>Denise Pizzini</actor>
+      <actor>Dustin Hoffman</actor>
+    </credits>
+    <date>2014</date>
     <category lang="es">Comedia</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
-    <rating system="AR">
-      <value>NR</value>
+    <rating system="CO">
+      <value>R</value>
     </rating>
   </programme>
-  <programme start="20220922220000 -0300" stop="20220922222500 -0300" channel="Sony Movies!">
+  <programme start="20220922200000 -0500" stop="20220922202500 -0500" channel="Sony Movies!">
     <title lang="es">Community</title>
     <sub-title lang="es">Basic Sandwich</sub-title>
-    <desc lang="es">El grupo, luego de conocer la historia del primer decano de Greendale, comienza a buscar su antiguo laboratorio de informática. Subway contrata a Chang para espiar al grupo como parte del plan para hacerse cargo de la escuela.(n)</desc>
+    <desc lang="es">El grupo, luego de conocer la historia del primer decano de Greendale, comienza a buscar su antiguo laboratorio de informática. Subway contrata a Chang para espiar al grupo como parte del plan para hacerse cargo de la escuela. Temporada:05,Episodio:13.(n)</desc>
+    <date>2014</date>
     <category lang="es">Series</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
     <episode-num system="onscreen">S5 E13</episode-num>
-    <rating system="AR">
+    <rating system="CO">
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20220922222500 -0300" stop="20220922225500 -0300" channel="Sony Movies!">
+  <programme start="20220922202500 -0500" stop="20220922205500 -0500" channel="Sony Movies!">
     <title lang="es">Community</title>
     <sub-title lang="es">Ladders</sub-title>
-    <desc lang="es">Dean Pelton contrata a un consultor administrativo para organizar las cosas en Greendale; Abed se enfrenta a Jeff, Annie y Britta.(n)</desc>
+    <desc lang="es">Dean Pelton contrata a un consultor administrativo para organizar las cosas en Greendale; Abed se enfrenta a Jeff, Annie y Britta. Temporada:06,Episodio:01.(n)</desc>
+    <date>2015</date>
     <category lang="es">Series</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
     <episode-num system="onscreen">S6 E1</episode-num>
-    <rating system="AR">
+    <rating system="CO">
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20220922225500 -0300" stop="20220922232500 -0300" channel="Sony Movies!">
+  <programme start="20220922205500 -0500" stop="20220922212500 -0500" channel="Sony Movies!">
     <title lang="es">Community</title>
     <sub-title lang="es">Lawnmower Maintenance &amp; Postnatal Care</sub-title>
-    <desc lang="es">Jeff y Frankie piden ayuda a un inventor para extraer a Dean Pelton de su caro mundo de realidad virtual. Britta descubre un hecho inquietante sobre su madre y su padre.(n)</desc>
+    <desc lang="es">Jeff y Frankie piden ayuda a un inventor para extraer a Dean Pelton de su caro mundo de realidad virtual. Britta descubre un hecho inquietante sobre su madre y su padre. Temporada:06,Episodio:02.(n)</desc>
+    <date>2015</date>
     <category lang="es">Series</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
     <episode-num system="onscreen">S6 E2</episode-num>
-    <rating system="AR">
+    <rating system="CO">
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20220922232500 -0300" stop="20220922235500 -0300" channel="Sony Movies!">
+  <programme start="20220922212500 -0500" stop="20220922215500 -0500" channel="Sony Movies!">
     <title lang="es">Community</title>
     <sub-title lang="es">Basic Crisis Room Decorum</sub-title>
-    <desc lang="es">El grupo de Greendale investiga a una universidad rival cuando lanza una campaña mediática agresiva. Annie intenta averiguar la verdad que se esconde tras todo esto.(n)</desc>
+    <desc lang="es">El grupo de Greendale investiga a una universidad rival cuando lanza una campaña mediática agresiva. Annie intenta averiguar la verdad que se esconde tras todo esto. Temporada:06,Episodio:03.(n)</desc>
+    <date>2015</date>
     <category lang="es">Series</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
     <episode-num system="onscreen">S6 E3</episode-num>
-    <rating system="AR">
+    <rating system="CO">
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20220922235500 -0300" stop="20220923002000 -0300" channel="Sony Movies!">
+  <programme start="20220922215500 -0500" stop="20220922222000 -0500" channel="Sony Movies!">
     <title lang="es">The Goldbergs</title>
     <sub-title lang="es">Graduation Day</sub-title>
-    <desc lang="es">Cuando se da cuenta de lo que su amor significa para ella, Erica intenta posponer su graduación para poder permanecer más tiempo cerca de Beverly. Los planes de Barry con Lainey salen mal. Adam y Jackie son oficialmente pareja.(n)</desc>
+    <desc lang="es">Cuando se da cuenta de lo que su amor significa para ella, Erica intenta posponer su graduación para poder permanecer más tiempo cerca de Beverly. Los planes de Barry con Lainey salen mal. Adam y Jackie son oficialmente pareja. Temporada:04,Episodio:24.(n)</desc>
+    <date>2017</date>
     <category lang="es">Series</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
     <episode-num system="onscreen">S4 E24</episode-num>
-    <rating system="AR">
+    <rating system="CO">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20220923002000 -0300" stop="20220923004500 -0300" channel="Sony Movies!">
+  <programme start="20220922222000 -0500" stop="20220922224500 -0500" channel="Sony Movies!">
     <title lang="es">The Goldbergs</title>
     <sub-title lang="es">Weird Science</sub-title>
-    <desc lang="es">Beverly y Murray llevan a Erica a su dormitorio; su compañera de habitación también se llama Erica; Adam intenta encontrar una novia perfecta para Barry.(n)</desc>
+    <desc lang="es">Beverly y Murray llevan a Erica a su dormitorio; su compañera de habitación también se llama Erica; Adam intenta encontrar una novia perfecta para Barry. Temporada:05,Episodio:01.(n)</desc>
+    <credits>
+      <actor>Adam F. Goldberg</actor>
+      <actor>Alex Barnow</actor>
+      <actor>Alex Jennings</actor>
+      <actor>Alison Rich</actor>
+      <actor>Andrew Secunda</actor>
+      <actor>Chris Bishop</actor>
+      <actor>David Guarascio</actor>
+      <actor>Doug Robinson</actor>
+    </credits>
+    <date>2017</date>
     <category lang="es">Series</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
     <episode-num system="onscreen">S5 E1</episode-num>
-    <rating system="AR">
+    <rating system="CO">
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20220923004500 -0300" stop="20220923011000 -0300" channel="Sony Movies!">
+  <programme start="20220922224500 -0500" stop="20220922231000 -0500" channel="Sony Movies!">
     <title lang="es">The Goldbergs</title>
     <sub-title lang="es">Hogan Is My Grandfather</sub-title>
-    <desc lang="es">Adam decide hacer una película sobre el abuelo para un trabajo de la escuela, pero le aburran las historias que el abuelo le cuenta sobre la guerra. Por otro lado, Erica critica la manera en que Beverly se comporta como madre.(n)</desc>
+    <desc lang="es">Adam decide hacer una película sobre el abuelo para un trabajo de la escuela, pero le aburran las historias que el abuelo le cuenta sobre la guerra. Por otro lado, Erica critica la manera en que Beverly se comporta como madre. Temporada:05,Episodio:02.(n)</desc>
+    <date>2017</date>
     <category lang="es">Series</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
     <episode-num system="onscreen">S5 E2</episode-num>
-    <rating system="AR">
+    <rating system="CO">
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20220923011000 -0300" stop="20220923013500 -0300" channel="Sony Movies!">
+  <programme start="20220922231000 -0500" stop="20220922233500 -0500" channel="Sony Movies!">
     <title lang="es">The Goldbergs</title>
     <sub-title lang="es">Goldberg on the Goldbergs</sub-title>
-    <desc lang="es">Beverly provoca que el entrenador Mellor se vea las caras con su hermano, con quien no guarda una buena relación. Por otro lado, la relación a distancia que Geoff y Erica mantienen se vuelve más complicada y empiezan a verse afectados anímicamente.(n)</desc>
+    <desc lang="es">Beverly provoca que el entrenador Mellor se vea las caras con su hermano, con quien no guarda una buena relación. Por otro lado, la relación a distancia que Geoff y Erica mantienen se vuelve más complicada y empiezan a verse afectados anímicamente. Temporada:05,Episodio:03.(n)</desc>
+    <credits>
+      <director>David Katzenberg</director>
+      <actor>Adam F. Goldberg</actor>
+      <actor>Alex Barnow</actor>
+      <actor>Alison Rich</actor>
+      <actor>Andrew Secunda</actor>
+      <actor>Bill Goldberg</actor>
+      <actor>Bryan Callen</actor>
+      <actor>Chris Bishop</actor>
+      <actor>David Guarascio</actor>
+    </credits>
+    <date>2017</date>
     <category lang="es">Series</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
     <episode-num system="onscreen">S5 E3</episode-num>
-    <rating system="AR">
+    <rating system="CO">
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20220923013500 -0300" stop="20220923041000 -0300" channel="Sony Movies!">
+  <programme start="20220922233500 -0500" stop="20220923021000 -0500" channel="Sony Movies!">
     <title lang="es">Memorias de una geisha</title>
-    <title lang="en">Memoirs of a Geisha</title>
+    <title lang="es">Memoirs of a Geisha</title>
     <desc lang="es">Una niña trabaja como sirvienta en una casa de geishas y crece para convertirse en una de las acompañantes más famosas y ricas de Japón.(n)</desc>
-    <category lang="es">Películas</category>
+    <credits>
+      <director>Rob Marshall</director>
+      <actor>Anthony Begonia</actor>
+      <actor>Bobby Cohen</actor>
+      <actor>Cary-Hiroyuki Tagawa</actor>
+      <actor>Chad Cleven</actor>
+      <actor>Dion Beebe</actor>
+      <actor>Douglas Wick</actor>
+      <actor>Eugenia Yuan</actor>
+      <actor>Gary Barber</actor>
+    </credits>
+    <date>2005</date>
     <category lang="es">Drama</category>
     <category lang="es">Romance</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
-    <rating system="AR">
+    <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220923041000 -0300" stop="20220923061500 -0300" channel="Sony Movies!">
+  <programme start="20220923021000 -0500" stop="20220923041500 -0500" channel="Sony Movies!">
     <title lang="es">Chef</title>
     <desc lang="es">El chef Carl Casper deja su trabajo en un famoso restaurante de Los Ángeles y termina asociándose con su exmujer, su amigo y su hijo para montar un puesto de comida ambulante, donde recupera sus raíces y su pasión.(n)</desc>
-    <category lang="es">Películas</category>
+    <credits>
+      <director>Jon Favreau</director>
+      <actor>Alicia Maccarone</actor>
+      <actor>Amy Sedaris</actor>
+      <actor>Anne Sheehan</actor>
+      <actor>Bobby Cannavale</actor>
+      <actor>Boris Tererov</actor>
+      <actor>Craig Chapman</actor>
+      <actor>Denise Pizzini</actor>
+      <actor>Dustin Hoffman</actor>
+    </credits>
+    <date>2014</date>
     <category lang="es">Comedia</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
-    <rating system="AR">
-      <value>NR</value>
+    <rating system="CO">
+      <value>R</value>
     </rating>
   </programme>
-  <programme start="20220923061500 -0300" stop="20220923064500 -0300" channel="Sony Movies!">
+  <programme start="20220923041500 -0500" stop="20220923044500 -0500" channel="Sony Movies!">
     <title lang="es">Community</title>
     <sub-title lang="es">Pascal's Triangle Revisited</sub-title>
-    <desc lang="es">Es el final del año escolar. Jeff está en medio de un triángulo amoroso. Annie reflexiona sobre una propuesta de mudarse con su novio y Troy busca un nuevo lugar para vivir.(n)</desc>
+    <desc lang="es">Es el final del año escolar. Jeff está en medio de un triángulo amoroso. Annie reflexiona sobre una propuesta de mudarse con su novio y Troy busca un nuevo lugar para vivir. Temporada:01,Episodio:25.(n)</desc>
+    <credits>
+      <actor>Alison Brie</actor>
+      <actor>Anthony Russo</actor>
+      <actor>Chevy Chase</actor>
+      <actor>Dan Harmon</actor>
+      <actor>Danny Pudi</actor>
+      <actor>Dino Stamatopoulos</actor>
+      <actor>Donald Glover</actor>
+      <actor>Eric Olsen</actor>
+    </credits>
+    <date>2010</date>
     <category lang="es">Series</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
     <episode-num system="onscreen">S1 E25</episode-num>
-    <rating system="AR">
+    <rating system="CO">
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20220923064500 -0300" stop="20220923071000 -0300" channel="Sony Movies!">
+  <programme start="20220923044500 -0500" stop="20220923051000 -0500" channel="Sony Movies!">
     <title lang="es">Community</title>
     <sub-title lang="es">Anthropology 101</sub-title>
-    <desc lang="es">Empieza el nuevo semestre y el grupo de estudio se reúne para la clase de Antropología. Jeff lidia con la complicada situación entre Britta y Annie. Chang se matricula como estudiante en Greendale.(n)</desc>
+    <desc lang="es">Empieza el nuevo semestre y el grupo de estudio se reúne para la clase de Antropología. Jeff lidia con la complicada situación entre Britta y Annie. Chang se matricula como estudiante en Greendale. Temporada:02,Episodio:01.(n)</desc>
+    <credits>
+      <actor>Alison Brie</actor>
+      <actor>Anthony Russo</actor>
+      <actor>Betty White</actor>
+      <actor>Chevy Chase</actor>
+      <actor>Dan Harmon</actor>
+      <actor>Danny Pudi</actor>
+      <actor>Dino Stamatopoulos</actor>
+      <actor>Donald Glover</actor>
+    </credits>
+    <date>2010</date>
     <category lang="es">Series</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
     <episode-num system="onscreen">S2 E1</episode-num>
-    <rating system="AR">
+    <rating system="CO">
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20220923071000 -0300" stop="20220923073500 -0300" channel="Sony Movies!">
+  <programme start="20220923051000 -0500" stop="20220923053500 -0500" channel="Sony Movies!">
     <title lang="es">The Goldbergs</title>
     <sub-title lang="es">Girl Talk</sub-title>
-    <desc lang="es">Adam ofrece grabar un anuncio comercial para Murray en el que Marvin sea la estrella, pero la actitud de Marvin arruina todo lo planeado por Adam. Mientras tanto, Beverly ayuda a Barry a pedir salir a una niña que le gusta de la escuela.(n)</desc>
+    <desc lang="es">Adam ofrece grabar un anuncio comercial para Murray en el que Marvin sea la estrella, pero la actitud de Marvin arruina todo lo planeado por Adam. Mientras tanto, Beverly ayuda a Barry a pedir salir a una niña que le gusta de la escuela. Temporada:05,Episodio:06.(n)</desc>
+    <credits>
+      <director>Jay Chandrasekhar</director>
+      <actor>Adam F. Goldberg</actor>
+      <actor>Alex Barnow</actor>
+      <actor>Andrew Secunda</actor>
+      <actor>Ben Zelevansky</actor>
+      <actor>Chris Bishop</actor>
+      <actor>Dan Fogler</actor>
+      <actor>David Guarascio</actor>
+      <actor>Doug Robinson</actor>
+    </credits>
+    <date>2017</date>
     <category lang="es">Series</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
     <episode-num system="onscreen">S5 E6</episode-num>
-    <rating system="AR">
+    <rating system="CO">
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20220923073500 -0300" stop="20220923080000 -0300" channel="Sony Movies!">
+  <programme start="20220923053500 -0500" stop="20220923060000 -0500" channel="Sony Movies!">
     <title lang="es">The Goldbergs</title>
     <sub-title lang="es">A Wall Street Thanksgiving</sub-title>
-    <desc lang="es">El tío Marvin cuenta a todos que se ha convertido en corredor de bolsa y convence a Barry y sus amigos de que inviertan dinero en él. Beverly invita a 50 personas en Acción de Gracias.(n)</desc>
-    <category lang="es">Intereses</category>
+    <desc lang="es">El tío Marvin cuenta a todos que se ha convertido en corredor de bolsa y convence a Barry y sus amigos de que inviertan dinero en él. Beverly invita a 50 personas en Acción de Gracias. Temporada:05,Episodio:07.(n)</desc>
+    <credits>
+      <director>Lew Schneider</director>
+      <actor>Adam F. Goldberg</actor>
+      <actor>Alex Barnow</actor>
+      <actor>Andrew Secunda</actor>
+      <actor>Bill Goldberg</actor>
+      <actor>Bryan Callen</actor>
+      <actor>Chris Bishop</actor>
+      <actor>Dan Fogler</actor>
+      <actor>David Guarascio</actor>
+    </credits>
+    <date>2017</date>
     <category lang="es">Series</category>
     <category lang="es">Vacaciones</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
     <episode-num system="onscreen">S5 E7</episode-num>
-    <rating system="AR">
+    <rating system="CO">
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20220923080000 -0300" stop="20220923103500 -0300" channel="Sony Movies!">
+  <programme start="20220923060000 -0500" stop="20220923083500 -0500" channel="Sony Movies!">
     <title lang="es">Memorias de una geisha</title>
-    <title lang="en">Memoirs of a Geisha</title>
+    <title lang="es">Memoirs of a Geisha</title>
     <desc lang="es">Una niña trabaja como sirvienta en una casa de geishas y crece para convertirse en una de las acompañantes más famosas y ricas de Japón.(n)</desc>
-    <category lang="es">Películas</category>
+    <credits>
+      <director>Rob Marshall</director>
+      <actor>Anthony Begonia</actor>
+      <actor>Bobby Cohen</actor>
+      <actor>Cary-Hiroyuki Tagawa</actor>
+      <actor>Chad Cleven</actor>
+      <actor>Dion Beebe</actor>
+      <actor>Douglas Wick</actor>
+      <actor>Eugenia Yuan</actor>
+      <actor>Gary Barber</actor>
+    </credits>
+    <date>2005</date>
     <category lang="es">Drama</category>
     <category lang="es">Romance</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
-    <rating system="AR">
+    <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220923103500 -0300" stop="20220923124000 -0300" channel="Sony Movies!">
+  <programme start="20220923083500 -0500" stop="20220923104000 -0500" channel="Sony Movies!">
     <title lang="es">Chef</title>
     <desc lang="es">El chef Carl Casper deja su trabajo en un famoso restaurante de Los Ángeles y termina asociándose con su exmujer, su amigo y su hijo para montar un puesto de comida ambulante, donde recupera sus raíces y su pasión.(n)</desc>
-    <category lang="es">Películas</category>
+    <credits>
+      <director>Jon Favreau</director>
+      <actor>Alicia Maccarone</actor>
+      <actor>Amy Sedaris</actor>
+      <actor>Anne Sheehan</actor>
+      <actor>Bobby Cannavale</actor>
+      <actor>Boris Tererov</actor>
+      <actor>Craig Chapman</actor>
+      <actor>Denise Pizzini</actor>
+      <actor>Dustin Hoffman</actor>
+    </credits>
+    <date>2014</date>
     <category lang="es">Comedia</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
-    <rating system="AR">
-      <value>NR</value>
+    <rating system="CO">
+      <value>R</value>
     </rating>
   </programme>
-  <programme start="20220923124000 -0300" stop="20220923130500 -0300" channel="Sony Movies!">
+  <programme start="20220923104000 -0500" stop="20220923110500 -0500" channel="Sony Movies!">
     <title lang="es">Community</title>
     <sub-title lang="es">The Psychology of Letting Go</sub-title>
-    <desc lang="es">El grupo de estudio conforta a Pierce después de la muerte de su madre. El profesor Duncan trata de hacerse cargo de la clase de antropología.(n)</desc>
+    <desc lang="es">El grupo de estudio conforta a Pierce después de la muerte de su madre. El profesor Duncan trata de hacerse cargo de la clase de antropología. Temporada:02,Episodio:03.(n)</desc>
+    <credits>
+      <actor>Alison Brie</actor>
+      <actor>Anthony Russo</actor>
+      <actor>Betty White</actor>
+      <actor>Chevy Chase</actor>
+      <actor>D.C. Pierson</actor>
+      <actor>Dan Harmon</actor>
+      <actor>Danny Pudi</actor>
+      <actor>Donald Glover</actor>
+    </credits>
+    <date>2010</date>
     <category lang="es">Series</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
     <episode-num system="onscreen">S2 E3</episode-num>
-    <rating system="AR">
+    <rating system="CO">
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20220923130500 -0300" stop="20220923131500 -0300" channel="Sony Movies!">
+  <programme start="20220923110500 -0500" stop="20220923111500 -0500" channel="Sony Movies!">
     <title lang="es">Monster Pets: A Hotel Transylvania Short Film</title>
     <desc lang="es">Tinkles, el cachorro del tamaño de un monstruo de Drácula, solo quiere jugar a la pelota, pero Drácula esta muy ocupado con su trabajo.(n)</desc>
-    <category lang="es">Películas</category>
+    <date>2021</date>
     <category lang="es">Comedia</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
-    <rating system="AR">
+    <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220923131500 -0300" stop="20220923150500 -0300" channel="Sony Movies!">
+  <programme start="20220923111500 -0500" stop="20220923130500 -0500" channel="Sony Movies!">
+    <title lang="es">El Sr. Holmes</title>
     <title lang="es">Mr. Holmes</title>
     <desc lang="es">Un nuevo caso, quizá el último y más complicado, se presenta ante el anciano Sherlock Holmes, quien, en 1947 y con 93 años, vive retirado en una remota granja de Sussex, llevando una vida apacible y dedicado a escribir, intentar mantener sus facultades mentales lúcidas, y cuidar de su colmena.(n)</desc>
-    <category lang="es">Películas</category>
+    <credits>
+      <director>Bill Condon</director>
+      <actor>Amy Nauiokas</actor>
+      <actor>Anne Carey</actor>
+      <actor>Aviv Giladi</actor>
+      <actor>Carter Burwell</actor>
+      <actor>Charlotte Watts</actor>
+      <actor>Christine Langan</actor>
+      <actor>Colin Starkey</actor>
+      <actor>David Foxxe</actor>
+    </credits>
+    <date>2015</date>
     <category lang="es">Drama</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
-    <rating system="AR">
+    <category lang="es">Estreno</category>
+    <rating system="CO">
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20220923150500 -0300" stop="20220923170500 -0300" channel="Sony Movies!">
+  <programme start="20220923130500 -0500" stop="20220923150500 -0500" channel="Sony Movies!">
     <title lang="es">Nine</title>
     <desc lang="es">El director Guido Contini intenta hallar armonía en su vida mientras lucha con las relaciones en su vida, su amante, su musa, su agente y su madre.(n)</desc>
-    <category lang="es">Películas</category>
+    <date>2009</date>
     <category lang="es">Musical</category>
-    <category lang="es">Romance</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
-    <rating system="AR">
+    <category lang="es">Pepetición</category>
+    <rating system="CO">
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20220923170500 -0300" stop="20220923194000 -0300" channel="Sony Movies!">
+  <programme start="20220923150500 -0500" stop="20220923174000 -0500" channel="Sony Movies!">
     <title lang="es">Memorias de una geisha</title>
-    <title lang="en">Memoirs of a Geisha</title>
+    <title lang="es">Memoirs of a Geisha</title>
     <desc lang="es">Una niña trabaja como sirvienta en una casa de geishas y crece para convertirse en una de las acompañantes más famosas y ricas de Japón.(n)</desc>
-    <category lang="es">Películas</category>
+    <credits>
+      <director>Rob Marshall</director>
+      <actor>Anthony Begonia</actor>
+      <actor>Bobby Cohen</actor>
+      <actor>Cary-Hiroyuki Tagawa</actor>
+      <actor>Chad Cleven</actor>
+      <actor>Dion Beebe</actor>
+      <actor>Douglas Wick</actor>
+      <actor>Eugenia Yuan</actor>
+      <actor>Gary Barber</actor>
+    </credits>
+    <date>2005</date>
     <category lang="es">Drama</category>
     <category lang="es">Romance</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
-    <rating system="AR">
+    <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220923194000 -0300" stop="20220923220000 -0300" channel="Sony Movies!">
+  <programme start="20220923174000 -0500" stop="20220923200000 -0500" channel="Sony Movies!">
     <title lang="es">Corazón de caballero</title>
-    <title lang="en">A Knight's Tale</title>
+    <title lang="es">A Knight's Tale</title>
     <desc lang="es">Anacronismos acerca de un cuento popular sobre un joven campesino que mejora su suerte cuando se disfraza de caballero.(n)</desc>
-    <category lang="es">Películas</category>
+    <credits>
+      <director>Brian Helgeland</director>
+      <actor>Alan Tudyk</actor>
+      <actor>Bérénice Bejo</actor>
+      <actor>Brian Helgeland</actor>
+      <actor>Caroline Harris</actor>
+      <actor>Carter Burwell</actor>
+      <actor>Christopher Cazenove</actor>
+      <actor>Dominic Smithers</actor>
+      <actor>Francine Maisler</actor>
+    </credits>
+    <date>2001</date>
     <category lang="es">Comedia</category>
     <category lang="es">Romance</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
-    <rating system="AR">
+    <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220923220000 -0300" stop="20220923225500 -0300" channel="Sony Movies!">
+  <programme start="20220923200000 -0500" stop="20220923205500 -0500" channel="Sony Movies!">
     <title lang="es">Deadly Class</title>
     <sub-title lang="es">Yo contra yo</sub-title>
-    <desc lang="es">Marcus admite al fin la verdad sobre Chester, lo que lleva a una persecución por toda la ciudad.(n)</desc>
-    <category lang="es">Series</category>
+    <desc lang="es">Marcus admite al fin la verdad sobre Chester, lo que lleva a una persecución por toda la ciudad. Temporada:01,Episodio:07.(n)</desc>
+    <date>2019</date>
     <category lang="es">Drama</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
+    <category lang="es">Series</category>
     <episode-num system="onscreen">S1 E7</episode-num>
-    <rating system="AR">
+    <rating system="CO">
       <value>NC-17</value>
     </rating>
   </programme>
-  <programme start="20220923225500 -0300" stop="20220923235000 -0300" channel="Sony Movies!">
+  <programme start="20220923205500 -0500" stop="20220923215000 -0500" channel="Sony Movies!">
     <title lang="es">Deadly Class</title>
-    <sub-title lang="es">La represión</sub-title>
-    <desc lang="es">Luego de la muerte de Chico y Yukio, una guerra de pandillas empieza a gestarse durante un encierro impuesto por Lin.(n)</desc>
-    <category lang="es">Series</category>
+    <sub-title lang="es">The Clampdown</sub-title>
+    <desc lang="es">Luego de la muerte de Chico y Yukio, una guerra de pandillas empieza a gestarse durante un encierro impuesto por Lin. Temporada:01,Episodio:08.(n)</desc>
+    <date>2019</date>
     <category lang="es">Drama</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
+    <category lang="es">Series</category>
     <episode-num system="onscreen">S1 E8</episode-num>
-    <rating system="AR">
+    <rating system="CO">
       <value>NC-17</value>
     </rating>
   </programme>
-  <programme start="20220923235000 -0300" stop="20220924015500 -0300" channel="Sony Movies!">
-    <title lang="es">Atrapada en Guantanamo</title>
-    <title lang="en">Camp X-Ray</title>
+  <programme start="20220923215000 -0500" stop="20220923235500 -0500" channel="Sony Movies!">
+    <title lang="es">Camp X-Ray</title>
+    <title lang="es">The Guard</title>
     <desc lang="es">Una guardia en Bahía Guantánamo inicia una extraña amistad con uno de los detenidos más antiguos en la instalación.(n)</desc>
-    <category lang="es">Películas</category>
+    <credits>
+      <director>Peter Sattler</director>
+      <actor>Adam Willis</actor>
+      <actor>Christie Wittenborn</actor>
+      <actor>Cory Smith</actor>
+      <actor>David Gordon Green</actor>
+      <actor>Ellen Goldsmith-Vein</actor>
+      <actor>Emmy Ellison</actor>
+      <actor>Geraud Brisson</actor>
+      <actor>Gina Kwon</actor>
+    </credits>
+    <date>2014</date>
     <category lang="es">Drama</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
-    <rating system="AR">
+    <category lang="es">Pepetición</category>
+    <rating system="CO">
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20220924015500 -0300" stop="20220924040500 -0300" channel="Sony Movies!">
+  <programme start="20220923235500 -0500" stop="20220924020500 -0500" channel="Sony Movies!">
     <title lang="es">Philadelphia</title>
     <desc lang="es">Despiden a un abogado portador de VIH por su enfermedad, por lo que decide demandar a su empleador. Para ello, contrata al único profesional que acepta tomar su caso: un abogado homofóbico.(n)</desc>
-    <category lang="es">Películas</category>
+    <credits>
+      <director>Jonathan Demme</director>
+      <actor>Anna Deavere Smith</actor>
+      <actor>Antonio Banderas</actor>
+      <actor>Bradley Whitford</actor>
+      <actor>Charles Napier</actor>
+      <actor>Craig McKay</actor>
+      <actor>Denzel Washington</actor>
+      <actor>Edward Saxon</actor>
+      <actor>Gary Goetzman</actor>
+    </credits>
+    <date>1993</date>
     <category lang="es">Drama</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
-    <rating system="AR">
+    <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220924040500 -0300" stop="20220924062500 -0300" channel="Sony Movies!">
+  <programme start="20220924020500 -0500" stop="20220924042500 -0500" channel="Sony Movies!">
     <title lang="es">Corazón de caballero</title>
-    <title lang="en">A Knight's Tale</title>
+    <title lang="es">A Knight's Tale</title>
     <desc lang="es">Anacronismos acerca de un cuento popular sobre un joven campesino que mejora su suerte cuando se disfraza de caballero.(n)</desc>
-    <category lang="es">Películas</category>
+    <credits>
+      <director>Brian Helgeland</director>
+      <actor>Alan Tudyk</actor>
+      <actor>Bérénice Bejo</actor>
+      <actor>Brian Helgeland</actor>
+      <actor>Caroline Harris</actor>
+      <actor>Carter Burwell</actor>
+      <actor>Christopher Cazenove</actor>
+      <actor>Dominic Smithers</actor>
+      <actor>Francine Maisler</actor>
+    </credits>
+    <date>2001</date>
     <category lang="es">Comedia</category>
     <category lang="es">Romance</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
-    <rating system="AR">
+    <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220924062500 -0300" stop="20220924063500 -0300" channel="Sony Movies!">
+  <programme start="20220924042500 -0500" stop="20220924043500 -0500" channel="Sony Movies!">
+    <title lang="es">Los Chubbchubbs</title>
     <title lang="es">The ChubbChubbs!</title>
     <desc lang="es">Un conserje torpe en una discoteca extraterrestre sueña con ser cantante.(n)</desc>
-    <category lang="es">Películas</category>
+    <credits>
+      <director>Eric Armstrong</director>
+      <actor>Bradford Simonsen</actor>
+      <actor>Chance Thomas</actor>
+      <actor>Jacquie Barnbrook</actor>
+      <actor>Jeff Wolverton</actor>
+      <actor>Robert Gordon</actor>
+      <actor>Yarrow Cheney</actor>
+    </credits>
+    <date>2002</date>
     <category lang="es">Comedia</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
-    <rating system="AR">
-      <value>NR</value>
+    <rating system="CO">
+      <value>G</value>
     </rating>
   </programme>
-  <programme start="20220924063500 -0300" stop="20220924070500 -0300" channel="Sony Movies!">
+  <programme start="20220924043500 -0500" stop="20220924050500 -0500" channel="Sony Movies!">
     <title lang="es">Community</title>
     <sub-title lang="es">Accounting for Lawyers</sub-title>
-    <desc lang="es">Un viejo amigo y excolega del bufete de abogados de Jeff aparece de repente y decide abandonar el grupo de estudio para ir a una fiesta con sus viejos amigos. Annie intenta demostrar que uno de ellos es un traidor.(n)</desc>
+    <desc lang="es">Un viejo amigo y excolega del bufete de abogados de Jeff aparece de repente y decide abandonar el grupo de estudio para ir a una fiesta con sus viejos amigos. Annie intenta demostrar que uno de ellos es un traidor. Temporada:02,Episodio:02.(n)</desc>
+    <credits>
+      <actor>Alison Brie</actor>
+      <actor>Anthony Russo</actor>
+      <actor>Chevy Chase</actor>
+      <actor>Dan Harmon</actor>
+      <actor>Danny Pudi</actor>
+      <actor>Dino Stamatopoulos</actor>
+      <actor>Donald Glover</actor>
+      <actor>Drew Carey</actor>
+    </credits>
+    <date>2010</date>
     <category lang="es">Series</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
     <episode-num system="onscreen">S2 E2</episode-num>
-    <rating system="AR">
+    <rating system="CO">
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20220924070500 -0300" stop="20220924073500 -0300" channel="Sony Movies!">
+  <programme start="20220924050500 -0500" stop="20220924053500 -0500" channel="Sony Movies!">
     <title lang="es">The Goldbergs</title>
     <sub-title lang="es">The Circle of Driving Again</sub-title>
-    <desc lang="es">Murray lleva a Adam a una lección de manejo y descubren algo sobre Pops en el proceso; Erica lucha para hacer amigos.(n)</desc>
+    <desc lang="es">Murray lleva a Adam a una lección de manejo y descubren algo sobre Pops en el proceso; Erica lucha para hacer amigos. Temporada:05,Episodio:08.(n)</desc>
+    <credits>
+      <director>Lew Schneider</director>
+      <actor>Adam F. Goldberg</actor>
+      <actor>Alex Barnow</actor>
+      <actor>Alison Rich</actor>
+      <actor>Andrew Secunda</actor>
+      <actor>Celeste DeAstis</actor>
+      <actor>Chris Bishop</actor>
+      <actor>David Guarascio</actor>
+      <actor>Doug Robinson</actor>
+    </credits>
+    <date>2017</date>
     <category lang="es">Series</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
     <episode-num system="onscreen">S5 E8</episode-num>
-    <rating system="AR">
+    <rating system="CO">
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20220924073500 -0300" stop="20220924080000 -0300" channel="Sony Movies!">
+  <programme start="20220924053500 -0500" stop="20220924060000 -0500" channel="Sony Movies!">
     <title lang="es">The Goldbergs</title>
     <sub-title lang="es">Parents Just Don't Understand</sub-title>
-    <desc lang="es">Adam y Barry no obtienen la reacción que esperaban de Murray cuando escriben una canción llamada "Dads Just Don't Care"; Beverly toma medidas drásticas para cambiar el parecer de Erica sobre el espacio que necesita.(n)</desc>
+    <desc lang="es">Adam y Barry no obtienen la reacción que esperaban de Murray cuando escriben una canción llamada "Dads Just Don't Care"; Beverly toma medidas drásticas para cambiar el parecer de Erica sobre el espacio que necesita. Temporada:05,Episodio:09.(n)</desc>
+    <credits>
+      <director>David Katzenberg</director>
+      <actor>Adam F. Goldberg</actor>
+      <actor>Alex Barnow</actor>
+      <actor>Alison Rich</actor>
+      <actor>Andrew Secunda</actor>
+      <actor>Celeste DeAstis</actor>
+      <actor>Chris Bishop</actor>
+      <actor>Dan Levy</actor>
+      <actor>David Guarascio</actor>
+    </credits>
+    <date>2017</date>
     <category lang="es">Series</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
     <episode-num system="onscreen">S5 E9</episode-num>
-    <rating system="AR">
+    <rating system="CO">
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20220924080000 -0300" stop="20220924100500 -0300" channel="Sony Movies!">
-    <title lang="es">Atrapada en Guantanamo</title>
-    <title lang="en">Camp X-Ray</title>
+  <programme start="20220924060000 -0500" stop="20220924080500 -0500" channel="Sony Movies!">
+    <title lang="es">Camp X-Ray</title>
+    <title lang="es">The Guard</title>
     <desc lang="es">Una guardia en Bahía Guantánamo inicia una extraña amistad con uno de los detenidos más antiguos en la instalación.(n)</desc>
-    <category lang="es">Películas</category>
+    <credits>
+      <director>Peter Sattler</director>
+      <actor>Adam Willis</actor>
+      <actor>Christie Wittenborn</actor>
+      <actor>Cory Smith</actor>
+      <actor>David Gordon Green</actor>
+      <actor>Ellen Goldsmith-Vein</actor>
+      <actor>Emmy Ellison</actor>
+      <actor>Geraud Brisson</actor>
+      <actor>Gina Kwon</actor>
+    </credits>
+    <date>2014</date>
     <category lang="es">Drama</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
-    <rating system="AR">
+    <category lang="es">Pepetición</category>
+    <rating system="CO">
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20220924100500 -0300" stop="20220924122500 -0300" channel="Sony Movies!">
+  <programme start="20220924080500 -0500" stop="20220924102500 -0500" channel="Sony Movies!">
     <title lang="es">Corazón de caballero</title>
-    <title lang="en">A Knight's Tale</title>
+    <title lang="es">A Knight's Tale</title>
     <desc lang="es">Anacronismos acerca de un cuento popular sobre un joven campesino que mejora su suerte cuando se disfraza de caballero.(n)</desc>
-    <category lang="es">Películas</category>
+    <credits>
+      <director>Brian Helgeland</director>
+      <actor>Alan Tudyk</actor>
+      <actor>Bérénice Bejo</actor>
+      <actor>Brian Helgeland</actor>
+      <actor>Caroline Harris</actor>
+      <actor>Carter Burwell</actor>
+      <actor>Christopher Cazenove</actor>
+      <actor>Dominic Smithers</actor>
+      <actor>Francine Maisler</actor>
+    </credits>
+    <date>2001</date>
     <category lang="es">Comedia</category>
     <category lang="es">Romance</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
-    <rating system="AR">
+    <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220924122500 -0300" stop="20220924132000 -0300" channel="Sony Movies!">
+  <programme start="20220924102500 -0500" stop="20220924112000 -0500" channel="Sony Movies!">
     <title lang="es">Deadly Class</title>
     <sub-title lang="es">Yo contra yo</sub-title>
-    <desc lang="es">Marcus admite al fin la verdad sobre Chester, lo que lleva a una persecución por toda la ciudad.(n)</desc>
-    <category lang="es">Series</category>
+    <desc lang="es">Marcus admite al fin la verdad sobre Chester, lo que lleva a una persecución por toda la ciudad. Temporada:01,Episodio:07.(n)</desc>
+    <date>2019</date>
     <category lang="es">Drama</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
+    <category lang="es">Series</category>
     <episode-num system="onscreen">S1 E7</episode-num>
-    <rating system="AR">
+    <rating system="CO">
       <value>NC-17</value>
     </rating>
   </programme>
-  <programme start="20220924132000 -0300" stop="20220924141500 -0300" channel="Sony Movies!">
+  <programme start="20220924112000 -0500" stop="20220924121500 -0500" channel="Sony Movies!">
     <title lang="es">Deadly Class</title>
-    <sub-title lang="es">La represión</sub-title>
-    <desc lang="es">Luego de la muerte de Chico y Yukio, una guerra de pandillas empieza a gestarse durante un encierro impuesto por Lin.(n)</desc>
-    <category lang="es">Series</category>
+    <sub-title lang="es">The Clampdown</sub-title>
+    <desc lang="es">Luego de la muerte de Chico y Yukio, una guerra de pandillas empieza a gestarse durante un encierro impuesto por Lin. Temporada:01,Episodio:08.(n)</desc>
+    <date>2019</date>
     <category lang="es">Drama</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
+    <category lang="es">Series</category>
     <episode-num system="onscreen">S1 E8</episode-num>
-    <rating system="AR">
+    <rating system="CO">
       <value>NC-17</value>
     </rating>
   </programme>
-  <programme start="20220924141500 -0300" stop="20220924161000 -0300" channel="Sony Movies!">
+  <programme start="20220924121500 -0500" stop="20220924141000 -0500" channel="Sony Movies!">
     <title lang="es">Rock the Kasbah: Descubriendo a una estrella</title>
-    <title lang="en">Rock the Kasbah</title>
+    <title lang="es">Rock the Kasbah</title>
     <desc lang="es">Sin dinero y atrapado en Afganistán, totalmente desesperado, un fracasado promotor musical estadounidense descubre a una chica con una voz impresionante y la dirige a la capital, Kabul, para que participe en el programa de demostración de talento más popular de su país, "Afghan Star".(n)</desc>
-    <category lang="es">Películas</category>
+    <credits>
+      <director>Barry Levinson</director>
+      <actor>Aaron Yanes</actor>
+      <actor>Arian Moayed</actor>
+      <actor>Bill Block</actor>
+      <actor>Bill Murray</actor>
+      <actor>Bruce Willis</actor>
+      <actor>Danny McBride</actor>
+      <actor>David Moritz</actor>
+      <actor>Deborah Scott</actor>
+    </credits>
+    <date>2015</date>
     <category lang="es">Comedia</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
-    <rating system="AR">
+    <rating system="CO">
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20220924161000 -0300" stop="20220924181500 -0300" channel="Sony Movies!">
+  <programme start="20220924141000 -0500" stop="20220924161500 -0500" channel="Sony Movies!">
+    <title lang="es">Atrapada en Guantanamo</title>
     <title lang="es">Camp X-Ray</title>
     <desc lang="es">Una guardia en Bahía Guantánamo inicia una extraña amistad con uno de los detenidos más antiguos en la instalación.(n)</desc>
-    <category lang="es">Películas</category>
+    <credits>
+      <director>Peter Sattler</director>
+      <actor>Adam Willis</actor>
+      <actor>Christie Wittenborn</actor>
+      <actor>Cory Smith</actor>
+      <actor>David Gordon Green</actor>
+      <actor>Ellen Goldsmith-Vein</actor>
+      <actor>Emmy Ellison</actor>
+      <actor>Geraud Brisson</actor>
+      <actor>Gina Kwon</actor>
+    </credits>
+    <date>2014</date>
     <category lang="es">Drama</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
-    <rating system="AR">
+    <category lang="es">Pepetición</category>
+    <rating system="CO">
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20220924181500 -0300" stop="20220924202500 -0300" channel="Sony Movies!">
+  <programme start="20220924161500 -0500" stop="20220924182500 -0500" channel="Sony Movies!">
     <title lang="es">Philadelphia</title>
     <desc lang="es">Despiden a un abogado portador de VIH por su enfermedad, por lo que decide demandar a su empleador. Para ello, contrata al único profesional que acepta tomar su caso: un abogado homofóbico.(n)</desc>
-    <category lang="es">Películas</category>
+    <credits>
+      <director>Jonathan Demme</director>
+      <actor>Anna Deavere Smith</actor>
+      <actor>Antonio Banderas</actor>
+      <actor>Bradley Whitford</actor>
+      <actor>Charles Napier</actor>
+      <actor>Craig McKay</actor>
+      <actor>Denzel Washington</actor>
+      <actor>Edward Saxon</actor>
+      <actor>Gary Goetzman</actor>
+    </credits>
+    <date>1993</date>
     <category lang="es">Drama</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
-    <rating system="AR">
+    <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220924202500 -0300" stop="20220924220500 -0300" channel="Sony Movies!">
+  <programme start="20220924182500 -0500" stop="20220924200500 -0500" channel="Sony Movies!">
+    <title lang="es">Mira quién habla</title>
     <title lang="es">Look Who's Talking</title>
     <desc lang="es">Una contadora soltera da a luz a Mikey, un bebé que hace comentarios sarcásticos sobre los acontecimientos de su vida.(n)</desc>
-    <category lang="es">Películas</category>
+    <credits>
+      <director>Amy Heckerling</director>
+      <actor>Abe Vigoda</actor>
+      <actor>Amy Heckerling</actor>
+      <actor>Bruce Willis</actor>
+      <actor>George Segal</actor>
+      <actor>John Travolta</actor>
+      <actor>Jonathan D. Krane</actor>
+      <actor>Joy Boushel</actor>
+      <actor>Kirstie Alley</actor>
+    </credits>
+    <date>1989</date>
     <category lang="es">Comedia</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
-    <rating system="AR">
+    <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220924220500 -0300" stop="20220924235000 -0300" channel="Sony Movies!">
-    <title lang="es">Mira quién habla ahora</title>
-    <title lang="en">Look Who's Talking Now</title>
-    <desc lang="es">Ahora Mikey tiene a su mamá y a un nuevo papá y a su hermanita Julie. Pero de pronto se entera que un nuevo integrante formará parte de la familia.(n)</desc>
-    <category lang="es">Películas</category>
+  <programme start="20220924200500 -0500" stop="20220924215000 -0500" channel="Sony Movies!">
+    <title lang="es">Mira Quien Habla Ahora</title>
+    <title lang="es">Look Who's Talking Now</title>
+    <desc lang="es">La familia Ubriacco aumenta de nuevo la familia. En esta ocasión con dos perros que se comunican entre ellos, insultando y riéndose de las aventuras de esta familia.(n)</desc>
+    <credits>
+      <director>Tom Ropelewski</director>
+      <actor>Danny DeVito</actor>
+      <actor>David Gallagher</actor>
+      <actor>Diane Keaton</actor>
+      <actor>George Segal</actor>
+      <actor>John Travolta</actor>
+      <actor>Kirstie Alley</actor>
+      <actor>Lysette Anthony</actor>
+      <actor>Olympia Dukakis</actor>
+    </credits>
+    <date>1993</date>
     <category lang="es">Comedia</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
-    <rating system="AR">
+    <rating system="CO">
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20220924235000 -0300" stop="20220925020000 -0300" channel="Sony Movies!">
+  <programme start="20220924215000 -0500" stop="20220925000000 -0500" channel="Sony Movies!">
     <title lang="es">Hombre de familia</title>
-    <title lang="en">The Family Man</title>
+    <title lang="es">The Family Man</title>
     <desc lang="es">Un hombre millonario soltero despierta un día y descubre que su identidad ha cambiado. Ahora está casado con su antigua novia y tiene dos hijos. Él debe decidir entre su pasado rutinario, o su presente familiar.(n)</desc>
-    <category lang="es">Películas</category>
+    <credits>
+      <director>Brett Ratner</director>
+      <actor>Alan Riche</actor>
+      <actor>Amber Valletta</actor>
+      <actor>Andrew Z. Davis</actor>
+      <actor>Barbara Delpuech</actor>
+      <actor>Barbra Matis</actor>
+      <actor>Betsy Heimann</actor>
+      <actor>Carrie Angland</actor>
+      <actor>Daniel Whitner</actor>
+    </credits>
+    <date>2000</date>
     <category lang="es">Comedia</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
-    <rating system="AR">
+    <rating system="CO">
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20220925020000 -0300" stop="20220925035500 -0300" channel="Sony Movies!">
+  <programme start="20220925000000 -0500" stop="20220925015500 -0500" channel="Sony Movies!">
     <title lang="es">Rock the Kasbah: Descubriendo a una estrella</title>
-    <title lang="en">Rock the Kasbah</title>
+    <title lang="es">Rock the Kasbah</title>
     <desc lang="es">Sin dinero y atrapado en Afganistán, totalmente desesperado, un fracasado promotor musical estadounidense descubre a una chica con una voz impresionante y la dirige a la capital, Kabul, para que participe en el programa de demostración de talento más popular de su país, "Afghan Star".(n)</desc>
-    <category lang="es">Películas</category>
+    <credits>
+      <director>Barry Levinson</director>
+      <actor>Aaron Yanes</actor>
+      <actor>Arian Moayed</actor>
+      <actor>Bill Block</actor>
+      <actor>Bill Murray</actor>
+      <actor>Bruce Willis</actor>
+      <actor>Danny McBride</actor>
+      <actor>David Moritz</actor>
+      <actor>Deborah Scott</actor>
+    </credits>
+    <date>2015</date>
     <category lang="es">Comedia</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
-    <rating system="AR">
+    <rating system="CO">
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20220925035500 -0300" stop="20220925060000 -0300" channel="Sony Movies!">
-    <title lang="es">El Lado Luminoso de la Vida</title>
-    <title lang="en">Silver Linings Playbook</title>
-    <desc lang="es">Después de perder su casa, trabajo y esposa y pasar ocho meses en prisión, Pat Solatano (Bradley Cooper) termina con sus padres (Robert De Niro, Jacki Weaver). Él está decidido a reconstruir su vida y reunirse con su esposa, pero sus padres estarán felices si él comparte su obsesión por las Águilas de Filadelfia. Las cosas se complican cuando Pat conoce a Tiffany (Jennifer Lawrence), quien le ofrece ayuda para reencontrarse con su esposa si a cambio hace algo muy importante.(n)</desc>
-    <category lang="es">Películas</category>
+  <programme start="20220925015500 -0500" stop="20220925040000 -0500" channel="Sony Movies!">
+    <title lang="es">Los juegos del destino</title>
+    <title lang="es">Silver Linings Playbook</title>
+    <desc lang="es">Después de perder su casa, su trabajo, su esposa y pasar ocho meses en prisión, Pat Solatano termina viviendo con sus padres. Está decidido a reconstruir su vida y reunirse con su esposa. Sin embargo sus padres insisten en compartir su obsesión por los Philadelphia Eagles. Las cosas se complican cuando Pat conoce a Tiffany, que le ofrece ayuda para reencontrarse con su esposa si, a cambio, hace algo muy importante.(n)</desc>
+    <credits>
+      <director>David Russell</director>
+      <actor>Anupam Kher</actor>
+      <actor>Bob Weinstein</actor>
+      <actor>Bradley Cooper</actor>
+      <actor>Brea Bee</actor>
+      <actor>Bruce Cohen</actor>
+      <actor>Cheryl Williams</actor>
+      <actor>Chris Tucker</actor>
+      <actor>Danny Elfman</actor>
+    </credits>
+    <date>2012</date>
     <category lang="es">Comedia</category>
-    <category lang="es">Romance</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
-    <rating system="AR">
+    <category lang="es">Primera vez</category>
+    <rating system="CO">
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20220925060000 -0300" stop="20220925074000 -0300" channel="Sony Movies!">
+  <programme start="20220925040000 -0500" stop="20220925054000 -0500" channel="Sony Movies!">
+    <title lang="es">Mira quién habla</title>
     <title lang="es">Look Who's Talking</title>
     <desc lang="es">Una contadora soltera da a luz a Mikey, un bebé que hace comentarios sarcásticos sobre los acontecimientos de su vida.(n)</desc>
-    <category lang="es">Películas</category>
+    <credits>
+      <director>Amy Heckerling</director>
+      <actor>Abe Vigoda</actor>
+      <actor>Amy Heckerling</actor>
+      <actor>Bruce Willis</actor>
+      <actor>George Segal</actor>
+      <actor>John Travolta</actor>
+      <actor>Jonathan D. Krane</actor>
+      <actor>Joy Boushel</actor>
+      <actor>Kirstie Alley</actor>
+    </credits>
+    <date>1989</date>
     <category lang="es">Comedia</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
-    <rating system="AR">
+    <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220925074000 -0300" stop="20220925080000 -0300" channel="Sony Movies!">
+  <programme start="20220925054000 -0500" stop="20220925060000 -0500" channel="Sony Movies!">
+    <title lang="es">Whiplash: Música y obsesión</title>
     <title lang="es">Whiplash</title>
     <desc lang="es">Andrew Neiman es un joven y ambicioso baterista de jazz. Marcado por el fracaso de la carrera literaria de su padre, está obsesionado con alcanzar la cima dentro del elitista conservatorio de música de la Costa Este en el que estudia.(n)</desc>
-    <category lang="es">Películas</category>
+    <credits>
+      <director>Damien Chazelle</director>
+      <actor>Austin Stowell</actor>
+      <actor>Charlie Ian</actor>
+      <actor>Chris Mulkey</actor>
+      <actor>Couper Samuelson</actor>
+      <actor>Damien Chazelle</actor>
+      <actor>Damon Gupton</actor>
+      <actor>David Lancaster</actor>
+      <actor>Gary Walters</actor>
+    </credits>
+    <date>2014</date>
     <category lang="es">Drama</category>
     <category lang="es">Música</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
-    <rating system="AR">
-      <value>NR</value>
+    <rating system="CO">
+      <value>R</value>
     </rating>
   </programme>
-  <programme start="20220925080000 -0300" stop="20220925082500 -0300" channel="Sony Movies!">
+  <programme start="20220925060000 -0500" stop="20220925062500 -0500" channel="Sony Movies!">
     <title lang="es">The Goldbergs</title>
     <sub-title lang="es">Parents Just Don't Understand</sub-title>
-    <desc lang="es">Adam y Barry no obtienen la reacción que esperaban de Murray cuando escriben una canción llamada "Dads Just Don't Care"; Beverly toma medidas drásticas para cambiar el parecer de Erica sobre el espacio que necesita.(n)</desc>
+    <desc lang="es">Adam y Barry no obtienen la reacción que esperaban de Murray cuando escriben una canción llamada "Dads Just Don't Care"; Beverly toma medidas drásticas para cambiar el parecer de Erica sobre el espacio que necesita. Temporada:05,Episodio:09.(n)</desc>
+    <credits>
+      <director>David Katzenberg</director>
+      <actor>Adam F. Goldberg</actor>
+      <actor>Alex Barnow</actor>
+      <actor>Alison Rich</actor>
+      <actor>Andrew Secunda</actor>
+      <actor>Celeste DeAstis</actor>
+      <actor>Chris Bishop</actor>
+      <actor>Dan Levy</actor>
+      <actor>David Guarascio</actor>
+    </credits>
+    <date>2017</date>
     <category lang="es">Series</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
     <episode-num system="onscreen">S5 E9</episode-num>
-    <rating system="AR">
+    <rating system="CO">
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20220925082500 -0300" stop="20220925102000 -0300" channel="Sony Movies!">
+  <programme start="20220925062500 -0500" stop="20220925082000 -0500" channel="Sony Movies!">
     <title lang="es">Rock the Kasbah: Descubriendo a una estrella</title>
-    <title lang="en">Rock the Kasbah</title>
+    <title lang="es">Rock the Kasbah</title>
     <desc lang="es">Sin dinero y atrapado en Afganistán, totalmente desesperado, un fracasado promotor musical estadounidense descubre a una chica con una voz impresionante y la dirige a la capital, Kabul, para que participe en el programa de demostración de talento más popular de su país, "Afghan Star".(n)</desc>
-    <category lang="es">Películas</category>
+    <credits>
+      <director>Barry Levinson</director>
+      <actor>Aaron Yanes</actor>
+      <actor>Arian Moayed</actor>
+      <actor>Bill Block</actor>
+      <actor>Bill Murray</actor>
+      <actor>Bruce Willis</actor>
+      <actor>Danny McBride</actor>
+      <actor>David Moritz</actor>
+      <actor>Deborah Scott</actor>
+    </credits>
+    <date>2015</date>
     <category lang="es">Comedia</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
-    <rating system="AR">
+    <rating system="CO">
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20220925102000 -0300" stop="20220925122500 -0300" channel="Sony Movies!">
-    <title lang="es">El Lado Luminoso de la Vida</title>
-    <title lang="en">Silver Linings Playbook</title>
-    <desc lang="es">Después de perder su casa, trabajo y esposa y pasar ocho meses en prisión, Pat Solatano (Bradley Cooper) termina con sus padres (Robert De Niro, Jacki Weaver). Él está decidido a reconstruir su vida y reunirse con su esposa, pero sus padres estarán felices si él comparte su obsesión por las Águilas de Filadelfia. Las cosas se complican cuando Pat conoce a Tiffany (Jennifer Lawrence), quien le ofrece ayuda para reencontrarse con su esposa si a cambio hace algo muy importante.(n)</desc>
-    <category lang="es">Películas</category>
+  <programme start="20220925082000 -0500" stop="20220925102500 -0500" channel="Sony Movies!">
+    <title lang="es">Los juegos del destino</title>
+    <title lang="es">Silver Linings Playbook</title>
+    <desc lang="es">Después de perder su casa, su trabajo, su esposa y pasar ocho meses en prisión, Pat Solatano termina viviendo con sus padres. Está decidido a reconstruir su vida y reunirse con su esposa. Sin embargo sus padres insisten en compartir su obsesión por los Philadelphia Eagles. Las cosas se complican cuando Pat conoce a Tiffany, que le ofrece ayuda para reencontrarse con su esposa si, a cambio, hace algo muy importante.(n)</desc>
+    <credits>
+      <director>David Russell</director>
+      <actor>Anupam Kher</actor>
+      <actor>Bob Weinstein</actor>
+      <actor>Bradley Cooper</actor>
+      <actor>Brea Bee</actor>
+      <actor>Bruce Cohen</actor>
+      <actor>Cheryl Williams</actor>
+      <actor>Chris Tucker</actor>
+      <actor>Danny Elfman</actor>
+    </credits>
+    <date>2012</date>
     <category lang="es">Comedia</category>
-    <category lang="es">Romance</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
-    <rating system="AR">
+    <category lang="es">Primera vez</category>
+    <rating system="CO">
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20220925122500 -0300" stop="20220925140500 -0300" channel="Sony Movies!">
+  <programme start="20220925102500 -0500" stop="20220925120500 -0500" channel="Sony Movies!">
+    <title lang="es">Mira quién habla</title>
     <title lang="es">Look Who's Talking</title>
     <desc lang="es">Una contadora soltera da a luz a Mikey, un bebé que hace comentarios sarcásticos sobre los acontecimientos de su vida.(n)</desc>
-    <category lang="es">Películas</category>
+    <credits>
+      <director>Amy Heckerling</director>
+      <actor>Abe Vigoda</actor>
+      <actor>Amy Heckerling</actor>
+      <actor>Bruce Willis</actor>
+      <actor>George Segal</actor>
+      <actor>John Travolta</actor>
+      <actor>Jonathan D. Krane</actor>
+      <actor>Joy Boushel</actor>
+      <actor>Kirstie Alley</actor>
+    </credits>
+    <date>1989</date>
     <category lang="es">Comedia</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
-    <rating system="AR">
+    <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220925140500 -0300" stop="20220925155000 -0300" channel="Sony Movies!">
-    <title lang="es">Mira quién habla ahora</title>
-    <title lang="en">Look Who's Talking Now</title>
-    <desc lang="es">Ahora Mikey tiene a su mamá y a un nuevo papá y a su hermanita Julie. Pero de pronto se entera que un nuevo integrante formará parte de la familia.(n)</desc>
-    <category lang="es">Películas</category>
+  <programme start="20220925120500 -0500" stop="20220925135000 -0500" channel="Sony Movies!">
+    <title lang="es">Mira Quien Habla Ahora</title>
+    <title lang="es">Look Who's Talking Now</title>
+    <desc lang="es">La familia Ubriacco aumenta de nuevo la familia. En esta ocasión con dos perros que se comunican entre ellos, insultando y riéndose de las aventuras de esta familia.(n)</desc>
+    <credits>
+      <director>Tom Ropelewski</director>
+      <actor>Danny DeVito</actor>
+      <actor>David Gallagher</actor>
+      <actor>Diane Keaton</actor>
+      <actor>George Segal</actor>
+      <actor>John Travolta</actor>
+      <actor>Kirstie Alley</actor>
+      <actor>Lysette Anthony</actor>
+      <actor>Olympia Dukakis</actor>
+    </credits>
+    <date>1993</date>
     <category lang="es">Comedia</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
-    <rating system="AR">
+    <rating system="CO">
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20220925155000 -0300" stop="20220925180000 -0300" channel="Sony Movies!">
+  <programme start="20220925135000 -0500" stop="20220925160000 -0500" channel="Sony Movies!">
     <title lang="es">Hombre de familia</title>
-    <title lang="en">The Family Man</title>
+    <title lang="es">The Family Man</title>
     <desc lang="es">Un hombre millonario soltero despierta un día y descubre que su identidad ha cambiado. Ahora está casado con su antigua novia y tiene dos hijos. Él debe decidir entre su pasado rutinario, o su presente familiar.(n)</desc>
-    <category lang="es">Películas</category>
+    <credits>
+      <director>Brett Ratner</director>
+      <actor>Alan Riche</actor>
+      <actor>Amber Valletta</actor>
+      <actor>Andrew Z. Davis</actor>
+      <actor>Barbara Delpuech</actor>
+      <actor>Barbra Matis</actor>
+      <actor>Betsy Heimann</actor>
+      <actor>Carrie Angland</actor>
+      <actor>Daniel Whitner</actor>
+    </credits>
+    <date>2000</date>
     <category lang="es">Comedia</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
-    <rating system="AR">
+    <rating system="CO">
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20220925180000 -0300" stop="20220925194500 -0300" channel="Sony Movies!">
+  <programme start="20220925160000 -0500" stop="20220925174500 -0500" channel="Sony Movies!">
     <title lang="es">Después de la Tierra</title>
-    <title lang="en">After Earth</title>
+    <title lang="es">After Earth</title>
     <desc lang="es">Con su padre atrapado en los restos de su nave espacial, un joven camina por los terrenos hostiles de la Tierra para recuperar su faro de rescate y mandar señales de auxilio.(n)</desc>
-    <category lang="es">Películas</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
-    <rating system="AR">
+    <credits>
+      <director>M. Night Shyamalan</director>
+      <actor>Amy Westcott</actor>
+      <actor>Caleeb Pinkett</actor>
+      <actor>Chris Geere</actor>
+      <actor>David Denman</actor>
+      <actor>Dean Wolcott</actor>
+      <actor>Diego Klattenhoff</actor>
+      <actor>Douglas Aibel</actor>
+      <actor>E. Bennett Walsh</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220925194500 -0300" stop="20220925214000 -0300" channel="Sony Movies!">
+  <programme start="20220925174500 -0500" stop="20220925194000 -0500" channel="Sony Movies!">
     <title lang="es">Elysium</title>
     <desc lang="es">En el año 2154, los ricos viven en una cómoda y lujosa estación espacial mientras que los pobres tienen que vivir en las ruinas de la Tierra superpoblada.(n)</desc>
-    <category lang="es">Películas</category>
+    <credits>
+      <director>Neill Blomkamp</director>
+      <actor>Adrian Holmes</actor>
+      <actor>Alice Braga</actor>
+      <actor>April Ferry</actor>
+      <actor>Bill Block</actor>
+      <actor>Brandon Auret</actor>
+      <actor>Diego Luna</actor>
+      <actor>Don MacAulay</actor>
+      <actor>Emma Tremblay</actor>
+    </credits>
+    <date>2013</date>
     <category lang="es">Drama</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
-    <rating system="AR">
+    <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220925214000 -0300" stop="20220925235000 -0300" channel="Sony Movies!">
+  <programme start="20220925194000 -0500" stop="20220925215000 -0500" channel="Sony Movies!">
     <title lang="es">La huésped</title>
-    <title lang="en">The Host</title>
+    <title lang="es">The Host</title>
     <desc lang="es">Una humana se niega a ceder el control de su mente a una invasora alienígena que se ha apoderado de su cuerpo. Sin embargo, ambas terminan forjando una amistad y se embarcan en un peligroso viaje para salvar a los hombres que aman.(n)</desc>
-    <category lang="es">Películas</category>
+    <credits>
+      <director>Andrew Niccol</director>
+      <actor>Andrew Niccol</actor>
+      <actor>Andy Nicholson</actor>
+      <actor>Antonio Pinto</actor>
+      <actor>Beat Frutiger</actor>
+      <actor>Bill Johnson</actor>
+      <actor>Bokeem Woodbine</actor>
+      <actor>Boyd Holbrook</actor>
+      <actor>Brent Williams</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Pepetición</category>
     <category lang="es">Romance</category>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
-    <rating system="AR">
+    <rating system="CO">
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20220925235000 -0300" stop="20220926014400 -0300" channel="Sony Movies!">
+  <programme start="20220925215000 -0500" stop="20220925234400 -0500" channel="Sony Movies!">
     <title lang="es">District 9</title>
     <desc lang="es">Hace treinta años, los extraterrestres llegaron a la Tierra en busca de un refugio ante la muerte de su planeta. Separados de los humanos en un área de Sudáfrica llamada Distrito 9, los extraterrestres son manejados por Multi-National United, la cual no está preocupada por el bienestar de los alienígenas, pero hará cualquier cosa para dominar su tecnología avanzada. Cuando un agente contrae un virus que empieza a alterar su ADN, sólo hay un lugar en donde se puede esconder: Distrito 9.(n)</desc>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1506.png" />
-    <rating system="AR">
+    <credits>
+      <director>Neill Blomkamp</director>
+      <actor>Bill Block</actor>
+      <actor>Carolynne Cunningham</actor>
+      <actor>Clinton Shorter</actor>
+      <actor>David James</actor>
+      <actor>Diana Cilliers</actor>
+      <actor>Emelia Weavind</actor>
+      <actor>Eugene Khumbanyiwa</actor>
+      <actor>Guy Potgieter</actor>
+    </credits>
+    <date>2009</date>
+    <rating system="CO">
       <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20220925234400 -0500" stop="20220926013000 -0500" channel="Sony Movies!">
+    <title lang="es">Después de la Tierra</title>
+    <title lang="es">After Earth</title>
+    <desc lang="es">Con su padre atrapado en los restos de su nave espacial, un joven camina por los terrenos hostiles de la Tierra para recuperar su faro de rescate y mandar señales de auxilio.(n)</desc>
+    <credits>
+      <director>M. Night Shyamalan</director>
+      <actor>Amy Westcott</actor>
+      <actor>Caleeb Pinkett</actor>
+      <actor>Chris Geere</actor>
+      <actor>David Denman</actor>
+      <actor>Dean Wolcott</actor>
+      <actor>Diego Klattenhoff</actor>
+      <actor>Douglas Aibel</actor>
+      <actor>E. Bennett Walsh</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="CO">
+      <value>NR</value>
     </rating>
   </programme>
   <programme start="20220922001000 -0500" stop="20220922011000 -0500" channel="HBO 2!">
@@ -1738,21 +2381,14 @@
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20220922180000 -0500" stop="20220922185800 -0500" channel="-Caracol TV (COL)">
+  <programme start="20220922180000 -0500" stop="20220922190000 -0500" channel="-Caracol TV (COL)">
     <title lang="es">Hermanitas Calle</title>
     <desc lang="es">Nelly y Fabiola Calle viven en el campo, tienen 10 y 12 años, respectivamente, y al tiempo que sus padres recogen café en fincas de Caicedonia en el Valle, ellas descubren su talento de la mano de doña Edelmira, su abuela materna y primera mentora.(n)</desc>
     <rating system="CO">
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20220922190000 -0500" stop="20220922193000 -0500" channel="-Caracol TV (COL)">
-    <title lang="es">Noticiero del Senado</title>
-    <desc lang="es">Noticias de actualidad nacional, con noticias sobre debates, inversiones, proyectos de ley con intervención de los honorables Senadores de la República.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220922193000 -0500" stop="20220922200000 -0500" channel="-Caracol TV (COL)">
+  <programme start="20220922190000 -0500" stop="20220922200000 -0500" channel="-Caracol TV (COL)">
     <title lang="es">Noticias Caracol: Edición central</title>
     <desc lang="es">Los hechos que son noticia, en compañía de un excelente equipo periodístico.(n)</desc>
     <rating system="CO">
@@ -1815,161 +2451,35 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20220923050000 -0500" stop="20220923051500 -0500" channel="-Caracol TV (COL)">
+  <programme start="20220923050000 -0500" stop="20220923060000 -0500" channel="-Caracol TV (COL)">
     <title lang="es">La Finca de Hoy</title>
     <desc lang="es">Programa dedicado a la producción agropecuaria, economía campesina, tecnología, investigación, sanidad y muchos temas más, relacionados con el campo y su gente.(n)</desc>
     <rating system="CO">
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20220923051500 -0500" stop="20220923053000 -0500" channel="-Caracol TV (COL)">
-    <title lang="es">Día a día I</title>
-    <desc lang="es">Un programa para iniciar el día cargado de buena energía con reflexiones que ayudan a superar obstáculos y ver la vida de forma positiva gracias a la sección "El Man está vivo".(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220923053000 -0500" stop="20220923090000 -0500" channel="-Caracol TV (COL)">
-    <title lang="es">Noticias Caracol: Primera edición</title>
-    <desc lang="es">Los hechos que son noticia, en compañía de un excelente equipo periodístico.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220923090000 -0500" stop="20220923113000 -0500" channel="-Caracol TV (COL)">
-    <title lang="es">Día a día I</title>
-    <desc lang="es">Un programa para iniciar el día cargado de buena energía con reflexiones que ayudan a superar obstáculos y ver la vida de forma positiva gracias a la sección "El Man está vivo".(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220923113000 -0500" stop="20220923123000 -0500" channel="-Caracol TV (COL)">
-    <title lang="es">Lo imperdonable</title>
-    <desc lang="es">Verónica, una acaudalada amazona que será víctima de las intrigas de su prima Virginia y de la venganza de Martín, quien en el intento por vengar la muerte de su hermano vivirá un amor lleno de obstáculos.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220923123000 -0500" stop="20220923153000 -0500" channel="-Caracol TV (COL)">
-    <title lang="es">Noticias Caracol: Edición mediodía</title>
-    <desc lang="es">Los hechos que son noticia, en compañía de un excelente equipo periodístico.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220923153000 -0500" stop="20220923170000 -0500" channel="-Caracol TV (COL)">
-    <title lang="es">Una parte de mí</title>
-    <desc lang="es">La familia Yorukhan es rica, pero no son bendecidos con un hijo. Defne es la esposa de Kahraman y están dispuestos a hacer cualquier cosa. Decidieron contratar a un vientre sustituto, pero no es conveniente enamorarse de quien paga por un vientre.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220923170000 -0500" stop="20220923180000 -0500" channel="-Caracol TV (COL)">
-    <title lang="es">Si nos dejan</title>
-    <desc lang="es">Después de haberle dedicado una vida entera a su familia y esposo, el mundo de Alicia cambiará por completo tras una traición. La aparición de Martín le devolverá la alegría para reconstruir su vida y cumplir los sueños que abandonó.(n)</desc>
-    <rating system="CO">
-      <value>PG-13</value>
-    </rating>
-  </programme>
-  <programme start="20220923180000 -0500" stop="20220923190000 -0500" channel="-Caracol TV (COL)">
-    <title lang="es">Hermanitas Calle</title>
-    <desc lang="es">Nelly y Fabiola Calle viven en el campo, tienen 10 y 12 años, respectivamente, y al tiempo que sus padres recogen café en fincas de Caicedonia en el Valle, ellas descubren su talento de la mano de doña Edelmira, su abuela materna y primera mentora.(n)</desc>
-    <rating system="CO">
-      <value>PG-13</value>
-    </rating>
-  </programme>
-  <programme start="20220923190000 -0500" stop="20220923200000 -0500" channel="-Caracol TV (COL)">
-    <title lang="es">Noticias Caracol: Edición central</title>
-    <desc lang="es">Los hechos que son noticia, en compañía de un excelente equipo periodístico.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220923200000 -0500" stop="20220923213000 -0500" channel="-Caracol TV (COL)">
-    <title lang="es">La voz senior</title>
-    <desc lang="es">Concurso de talentos donde un prestigioso jurado evalúa a los concursantes de más de 60 años que toda la vida quisieron brillar como las estrellas. Porque la música no tiene edad, estos adultos mayores compiten para mostrar sus habilidades de canto.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220923213000 -0500" stop="20220923223000 -0500" channel="-Caracol TV (COL)">
-    <title lang="es">Entre sombras</title>
-    <desc lang="es">Julia y Magdalena, miembros de un grupo de élite, buscan resolver, en tiempo récord, los más enigmáticos crímenes. Julia vive feliz con su marido y su hijo, y Magdalena busca a su padrastro, que abusó de ella cuando era niña.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220923223000 -0500" stop="20220923233000 -0500" channel="-Caracol TV (COL)">
-    <title lang="es">La reina de Indias y el conquistador</title>
-    <desc lang="es">Mucho tiempo después de que el español Pedro de Heredia, fundador de Cartagena, traicionara a Catalina y le rompiera el corazón, la muchacha regresa con un único objetivo: vengarse.(n)</desc>
-    <rating system="CO">
-      <value>PG-13</value>
-    </rating>
-  </programme>
-  <programme start="20220923233000 -0500" stop="20220924000000 -0500" channel="-Caracol TV (COL)">
-    <title lang="es">Noticias Caracol: Última edición</title>
-    <desc lang="es">Los hechos que son noticia, en compañía de un excelente equipo periodístico.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220924000000 -0500" stop="20220924004500 -0500" channel="-Caracol TV (COL)">
-    <title lang="es">Mi Corazón Es Tuyo</title>
-    <desc lang="es">La vida de una joven mujer que trabaja como bailarina exótica da un giro cuando se convierte en niñera al conocer a un hombre viudo con 7 hijos.(n)</desc>
-    <rating system="CO">
-      <value>PG-13</value>
-    </rating>
-  </programme>
-  <programme start="20220924004500 -0500" stop="20220924011500 -0500" channel="-Caracol TV (COL)">
-    <title lang="es">El diario de Diana</title>
-    <desc lang="es">Junto a entrevistas a diferentes expertos, lecciones sobre cómo armonizar todas las áreas de la vida, manejar las emociones y cambiar creencias para entender la felicidad como una oportunidad de vivir a plenitud.(n)</desc>
-    <rating system="CO">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220924011500 -0500" stop="20220924041500 -0500" channel="-Caracol TV (COL)">
-    <title lang="es">También caerás</title>
-    <desc lang="es">Este programa de humor es un espacio abierto a la alegría y la espontaneidad, que lleva las cámaras escondidas a otro nivel. La gente común y corriente se convierte en protagonista de situaciones divertidas, inusuales y hasta aterrorizantes.(n)</desc>
-    <rating system="CO">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220924041500 -0500" stop="20220924050000 -0500" channel="-Caracol TV (COL)">
-    <title lang="es">También caerás</title>
-    <desc lang="es">Este programa de humor es un espacio abierto a la alegría y la espontaneidad, que lleva las cámaras escondidas a otro nivel. La gente común y corriente se convierte en protagonista de situaciones divertidas, inusuales y hasta aterrorizantes.(n)</desc>
-    <rating system="CO">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220924050000 -0500" stop="20220924060000 -0500" channel="-Caracol TV (COL)">
-    <title lang="es">La Finca de Hoy</title>
-    <desc lang="es">Programa dedicado a la producción agropecuaria, economía campesina, tecnología, investigación, sanidad y muchos temas más, relacionados con el campo y su gente.(n)</desc>
-    <rating system="CO">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20220924060000 -0500" stop="20220924070000 -0500" channel="-Caracol TV (COL)">
+  <programme start="20220923060000 -0500" stop="20220923070000 -0500" channel="-Caracol TV (COL)">
     <title lang="es">Los cuentos de los hermanos Grimm</title>
     <desc lang="es">Una narración de los célebres cuentos clásicos infantiles de los hermanos Grimm.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220924070000 -0500" stop="20220924073000 -0500" channel="-Caracol TV (COL)">
+  <programme start="20220923070000 -0500" stop="20220923073000 -0500" channel="-Caracol TV (COL)">
     <title lang="es">Doble vía</title>
     <desc lang="es">Un espacio del Defensor del Televidente en el que se expresan los diferentes puntos de vista de los espectadores acerca de la programación que se emite en el canal con el fin de brindar una televisión responsable y de calidad.(n)</desc>
     <rating system="CO">
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20220924073000 -0500" stop="20220924083000 -0500" channel="-Caracol TV (COL)">
+  <programme start="20220923073000 -0500" stop="20220923083000 -0500" channel="-Caracol TV (COL)">
     <title lang="es">Los cuentos de los hermanos Grimm</title>
     <desc lang="es">Una narración de los célebres cuentos clásicos infantiles de los hermanos Grimm.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220924083000 -0500" stop="20220924103000 -0500" channel="-Caracol TV (COL)">
+  <programme start="20220923083000 -0500" stop="20220923103000 -0500" channel="-Caracol TV (COL)">
     <title lang="es">A Cinderella Story: If the Shoe Fits</title>
     <desc lang="es">Una hijastra sirviente espera participar en una competencia musical para convertirse en una estrella pop.(n)</desc>
     <credits>
@@ -1990,7 +2500,7 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220924103000 -0500" stop="20220924123000 -0500" channel="-Caracol TV (COL)">
+  <programme start="20220923103000 -0500" stop="20220923123000 -0500" channel="-Caracol TV (COL)">
     <title lang="es">The Dust Factory</title>
     <desc lang="es">Un joven mudo se descubre a sí mismo en un mundo de fantasía, donde le es posible hablar y comunicarse con su abuelo.(n)</desc>
     <date>2004</date>
@@ -1999,21 +2509,21 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20220924123000 -0500" stop="20220924150000 -0500" channel="-Caracol TV (COL)">
+  <programme start="20220923123000 -0500" stop="20220923150000 -0500" channel="-Caracol TV (COL)">
     <title lang="es">Noticias Caracol: Fin de semana</title>
     <desc lang="es">Los hechos que son noticia, en compañía de un excelente equipo periodístico.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220924150000 -0500" stop="20220924183000 -0500" channel="-Caracol TV (COL)">
+  <programme start="20220923150000 -0500" stop="20220923183000 -0500" channel="-Caracol TV (COL)">
     <title lang="es">La red</title>
     <desc lang="es">Los chismes, la información más detallada de los famosos de la farándula y lo que está sucediendo en el mundo del entretenimiento, son transmitidos en este espacio en que se revela lo más íntimo y secreto de las estrellas y sus escándalos.(n)</desc>
     <rating system="CO">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20220924183000 -0500" stop="20220924190000 -0500" channel="-Caracol TV (COL)">
+  <programme start="20220923183000 -0500" stop="20220923190000 -0500" channel="-Caracol TV (COL)">
     <title lang="es">Fútbol: Previa</title>
     <sub-title lang="es">Colombia vs. Guatemala</sub-title>
     <desc lang="es">Todo el análisis previo de cara al amistoso internacional entre Colombia y Guatemala, que se disputa en Harrison, Nueva Jersey, Estados Unidos.(n)</desc>
@@ -2024,7 +2534,7 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220924190000 -0500" stop="20220924210000 -0500" channel="-Caracol TV (COL)">
+  <programme start="20220923190000 -0500" stop="20220923210000 -0500" channel="-Caracol TV (COL)">
     <title lang="es">Amistoso internacional: Colombia vs. Guatemala : Fútbol</title>
     <title lang="es">International Friendly: Colombia vs. Guatemala : Soccer - International Friendly: Colombia vs. Guatemala</title>
     <sub-title lang="es">Amistoso internacional: Colombia vs. Guatemala</sub-title>
@@ -2036,98 +2546,98 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220924210000 -0500" stop="20220924220000 -0500" channel="-Caracol TV (COL)">
+  <programme start="20220923210000 -0500" stop="20220923220000 -0500" channel="-Caracol TV (COL)">
     <title lang="es">Sábados felices</title>
     <desc lang="es">El legendario programa televisivo presenta en sus segmentos característicos, una gama variada de estilos de comedia, cuenta chistes, parodias originales, caracterizaciones de importantes personalidades, cuenteros y troveros.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220924220000 -0500" stop="20220924230000 -0500" channel="-Caracol TV (COL)">
+  <programme start="20220923220000 -0500" stop="20220923230000 -0500" channel="-Caracol TV (COL)">
     <title lang="es">Sábados felices</title>
     <desc lang="es">El legendario programa televisivo presenta en sus segmentos característicos, una gama variada de estilos de comedia, cuenta chistes, parodias originales, caracterizaciones de importantes personalidades, cuenteros y troveros.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220924230000 -0500" stop="20220925000000 -0500" channel="-Caracol TV (COL)">
+  <programme start="20220923230000 -0500" stop="20220924000000 -0500" channel="-Caracol TV (COL)">
     <title lang="es">Entre Ojos</title>
     <desc lang="es">Historias de personajes, lugares y hechos que son de resaltar por medio de reportajes y documentales desarrollados, historias reales, las cuales revelan hechos desconocidos pero al igual se abordan temas improbables como el Apocalipsis.(n)</desc>
     <rating system="CO">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20220925000000 -0500" stop="20220925010000 -0500" channel="-Caracol TV (COL)">
+  <programme start="20220924000000 -0500" stop="20220924010000 -0500" channel="-Caracol TV (COL)">
     <title lang="es">Volkers</title>
     <desc lang="es">Magazín dedicado a los gamers y amantes de los eSports. Un espacio que brinda información sobre lanzamientos de consolas, reseñas de videojuegos, torneos y ligas.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220925010000 -0500" stop="20220925041500 -0500" channel="-Caracol TV (COL)">
+  <programme start="20220924010000 -0500" stop="20220924041500 -0500" channel="-Caracol TV (COL)">
     <title lang="es">También caerás</title>
     <desc lang="es">Este programa de humor es un espacio abierto a la alegría y la espontaneidad, que lleva las cámaras escondidas a otro nivel. La gente común y corriente se convierte en protagonista de situaciones divertidas, inusuales y hasta aterrorizantes.(n)</desc>
     <rating system="CO">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20220925041500 -0500" stop="20220925050000 -0500" channel="-Caracol TV (COL)">
+  <programme start="20220924041500 -0500" stop="20220924050000 -0500" channel="-Caracol TV (COL)">
     <title lang="es">También caerás</title>
     <desc lang="es">Este programa de humor es un espacio abierto a la alegría y la espontaneidad, que lleva las cámaras escondidas a otro nivel. La gente común y corriente se convierte en protagonista de situaciones divertidas, inusuales y hasta aterrorizantes.(n)</desc>
     <rating system="CO">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20220925050000 -0500" stop="20220925060000 -0500" channel="-Caracol TV (COL)">
+  <programme start="20220924050000 -0500" stop="20220924060000 -0500" channel="-Caracol TV (COL)">
     <title lang="es">La Finca de Hoy</title>
     <desc lang="es">Programa dedicado a la producción agropecuaria, economía campesina, tecnología, investigación, sanidad y muchos temas más, relacionados con el campo y su gente.(n)</desc>
     <rating system="CO">
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20220925060000 -0500" stop="20220925063000 -0500" channel="-Caracol TV (COL)">
+  <programme start="20220924060000 -0500" stop="20220924063000 -0500" channel="-Caracol TV (COL)">
     <title lang="es">El mundo visto desde el Vaticano</title>
     <desc lang="es">Los hechos más importantes de la semana sobre el Santo Padre, el Vaticano y la Iglesia Católica desde una perspectiva internacional; además, las últimas noticias sociales, culturales y artísticas.(n)</desc>
     <rating system="CO">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20220925063000 -0500" stop="20220925070000 -0500" channel="-Caracol TV (COL)">
+  <programme start="20220924063000 -0500" stop="20220924070000 -0500" channel="-Caracol TV (COL)">
     <title lang="es">Los cuentos de los hermanos Grimm</title>
     <desc lang="es">Una narración de los célebres cuentos clásicos infantiles de los hermanos Grimm.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220925070000 -0500" stop="20220925083000 -0500" channel="-Caracol TV (COL)">
+  <programme start="20220924070000 -0500" stop="20220924083000 -0500" channel="-Caracol TV (COL)">
     <title lang="es">Los cuentos de los hermanos Grimm</title>
     <desc lang="es">Una narración de los célebres cuentos clásicos infantiles de los hermanos Grimm.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220925083000 -0500" stop="20220925084500 -0500" channel="-Caracol TV (COL)">
+  <programme start="20220924083000 -0500" stop="20220924084500 -0500" channel="-Caracol TV (COL)">
     <title lang="es">Ángelus Desde El Vaticano</title>
     <desc lang="es">La celebración dominical del Ángelus con la bendición general desde la ventana del departamento de su Santidad en el Vaticano.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220925084500 -0500" stop="20220925093000 -0500" channel="-Caracol TV (COL)">
+  <programme start="20220924084500 -0500" stop="20220924093000 -0500" channel="-Caracol TV (COL)">
     <title lang="es">Santa Misa</title>
     <desc lang="es">Celebración de la Santa Misa.(n)</desc>
     <rating system="CO">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20220925093000 -0500" stop="20220925103000 -0500" channel="-Caracol TV (COL)">
+  <programme start="20220924093000 -0500" stop="20220924103000 -0500" channel="-Caracol TV (COL)">
     <title lang="es">Los cuentos de los hermanos Grimm</title>
     <desc lang="es">Una narración de los célebres cuentos clásicos infantiles de los hermanos Grimm.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220925103000 -0500" stop="20220925123000 -0500" channel="-Caracol TV (COL)">
+  <programme start="20220924103000 -0500" stop="20220924123000 -0500" channel="-Caracol TV (COL)">
     <title lang="es">Daphne &amp; Velma</title>
     <desc lang="es">Daphne y Vilma, dos adolescentes que resuelven misterios, investigan el motivo por el cual los estudiantes más inteligentes de la escuela se convierten en zombis.(n)</desc>
     <credits>
@@ -2148,28 +2658,28 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220925123000 -0500" stop="20220925150000 -0500" channel="-Caracol TV (COL)">
+  <programme start="20220924123000 -0500" stop="20220924150000 -0500" channel="-Caracol TV (COL)">
     <title lang="es">Noticias Caracol: Fin de semana</title>
     <desc lang="es">Los hechos que son noticia, en compañía de un excelente equipo periodístico.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220925150000 -0500" stop="20220925170000 -0500" channel="-Caracol TV (COL)">
+  <programme start="20220924150000 -0500" stop="20220924170000 -0500" channel="-Caracol TV (COL)">
     <title lang="es">La red</title>
     <desc lang="es">Los chismes, la información más detallada de los famosos de la farándula y lo que está sucediendo en el mundo del entretenimiento, son transmitidos en este espacio en que se revela lo más íntimo y secreto de las estrellas y sus escándalos.(n)</desc>
     <rating system="CO">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20220925170000 -0500" stop="20220925180000 -0500" channel="-Caracol TV (COL)">
+  <programme start="20220924170000 -0500" stop="20220924180000 -0500" channel="-Caracol TV (COL)">
     <title lang="es">Expediente final</title>
     <desc lang="es">Un programa que saca a la luz los secretos de las muertes de las celebridades de Colombia, porque no todo lo investigado es revelado.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220925180000 -0500" stop="20220925190000 -0500" channel="-Caracol TV (COL)">
+  <programme start="20220924180000 -0500" stop="20220924190000 -0500" channel="-Caracol TV (COL)">
     <title lang="es">El show de Suso</title>
     <title lang="es">The Suso's show</title>
     <desc lang="es">Este divertido programa comienza con la actualidad de la ciudad y de sus personajes, vistos a través de la particular óptica y el humor de Suso, interpretado por Danny Hoyos.(n)</desc>
@@ -2177,28 +2687,28 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20220925190000 -0500" stop="20220925203000 -0500" channel="-Caracol TV (COL)">
+  <programme start="20220924190000 -0500" stop="20220924203000 -0500" channel="-Caracol TV (COL)">
     <title lang="es">Noticias Caracol: Fin de semana</title>
     <desc lang="es">Los hechos que son noticia, en compañía de un excelente equipo periodístico.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220925203000 -0500" stop="20220925213000 -0500" channel="-Caracol TV (COL)">
+  <programme start="20220924203000 -0500" stop="20220924213000 -0500" channel="-Caracol TV (COL)">
     <title lang="es">Los informantes</title>
     <desc lang="es">Un programa de análisis y opinión conformado por un excelente equipo periodístico que se encarga de contar historias a través de crónicas, perfiles y entrevistas.(n)</desc>
     <rating system="CO">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20220925213000 -0500" stop="20220925223000 -0500" channel="-Caracol TV (COL)">
+  <programme start="20220924213000 -0500" stop="20220924223000 -0500" channel="-Caracol TV (COL)">
     <title lang="es">Séptimo día</title>
     <desc lang="es">Un programa periodístico que trata temas de actualidad controversiales. Se habla sobre temas polémicos como problemas sociales, económicos, educativos y más en Colombia.(n)</desc>
     <rating system="CO">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220925223000 -0500" stop="20220926001500 -0500" channel="-Caracol TV (COL)">
+  <programme start="20220924223000 -0500" stop="20220925001500 -0500" channel="-Caracol TV (COL)">
     <title lang="es">Entre sombras</title>
     <desc lang="es">Julia y Magdalena, miembros de un grupo de élite, buscan resolver, en tiempo récord, los más enigmáticos crímenes. Julia vive feliz con su marido y su hijo, y Magdalena busca a su padrastro, que abusó de ella cuando era niña.(n)</desc>
     <rating system="CO">
@@ -2443,106 +2953,6 @@
     <date>2018</date>
     <rating system="CL">
       <value>R</value>
-    </rating>
-  </programme>
-  <programme start="20220924011500 -0300" stop="20220924021500 -0300" channel="-TVN (CHI)">
-    <title lang="es">El día menos pensado</title>
-    <desc lang="es">Historias que parecen desafiar todo lo que hasta hoy es posible.(n)</desc>
-    <rating system="CL">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220924021500 -0300" stop="20220924023000 -0300" channel="-TVN (CHI)">
-    <title lang="es">TV tiempo final</title>
-    <desc lang="es">Informe meteorológico.(n)</desc>
-    <rating system="CL">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220924023000 -0300" stop="20220924040000 -0300" channel="-TVN (CHI)">
-    <title lang="es">El Cuento del Tío</title>
-    <desc lang="es">Historia de una persona que ha caído en las redes de un tipo especial de delincuente.(n)</desc>
-    <rating system="CL">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220924040000 -0300" stop="20220924053000 -0300" channel="-TVN (CHI)">
-    <title lang="es">La Vida Es una Lotería</title>
-    <desc lang="es">Historias de chilenos a los que alguna vez la suerte les sonrió, qué fue de sus destinos y cómo enfrentaron la lotería de la vida.(n)</desc>
-    <rating system="CL">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220924053000 -0300" stop="20220924070000 -0300" channel="-TVN (CHI)">
-    <title lang="es">Chile conectado</title>
-    <desc lang="es">Un espacio dedicado a mostrar la riqueza de la tierra, su gente y su patrimonio, y potenciar la descentralización con un claro foco en las regiones de Chile.(n)</desc>
-    <rating system="CL">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220924070000 -0300" stop="20220924080000 -0300" channel="-TVN (CHI)">
-    <title lang="es">Puertas Abiertas</title>
-    <desc lang="es">Programa de orientación cristiana evangélica.(n)</desc>
-    <rating system="CL">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220924080000 -0300" stop="20220924090000 -0300" channel="-TVN (CHI)">
-    <title lang="es">Hermanos a la obra</title>
-    <title lang="en">Property Brothers</title>
-    <desc lang="es">Los hermanos gemelos Jonathan y Drew Scott ayudan a parejas en la transformación de la casa de sus sueños. Los hermanos utilizan tecnología de punta digital para revelar los planes de una propiedad tras la renovación.(n)</desc>
-    <rating system="CL">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20220924090000 -0300" stop="20220924130000 -0300" channel="-TVN (CHI)">
-    <title lang="es">Buen finde en TVN</title>
-    <desc lang="es">Un recorrido por el país en busca de historias únicas, para conectar realidades desde lo local a lo nacional, abordando también la contingencia de una manera simple y amena.(n)</desc>
-    <rating system="CL">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220924130000 -0300" stop="20220924151500 -0300" channel="-TVN (CHI)">
-    <title lang="es">24 Tarde</title>
-    <desc lang="es">La información más relevante a nivel internacional, nacional y regional.(n)</desc>
-    <rating system="CL">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220924151500 -0300" stop="20220924171500 -0300" channel="-TVN (CHI)">
-    <title lang="es">Sucupira</title>
-    <desc lang="es">La gente del pequeño pueblo de Sucupira todavía cree en una leyenda sobre una mujer que emerge del mar para enamorar a los hombres y llevarlos a su mundo. Los que han sobrevivido dicen que la hija del alcalde tiene el mismo rostro.(n)</desc>
-    <rating system="CL">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220924171500 -0300" stop="20220924193000 -0300" channel="-TVN (CHI)">
-    <title lang="es">Fútbol Chileno Primera División</title>
-    <title lang="en">Chile Primera Division Soccer</title>
-    <desc lang="es">La mejor cobertura del campeonato chileno de fútbol.(n)</desc>
-    <rating system="CL">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220924193000 -0300" stop="20220924210000 -0300" channel="-TVN (CHI)">
-    <title lang="es">Pampa Ilusión</title>
-    <desc lang="es">Una apasionada historia donde el amor no respeta tradiciones y suele quebrar con los esquemas de la época, todo ello enmarcado en la salitrera chilena Pampa Ilusión.(n)</desc>
-    <rating system="CL">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220924210000 -0300" stop="20220924223500 -0300" channel="-TVN (CHI)">
-    <title lang="es">24 horas central</title>
-    <desc lang="es">La información de mayor importancia internacional, nacional y regional.(n)</desc>
-    <rating system="CL">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20220924223500 -0300" stop="20220924224500 -0300" channel="-TVN (CHI)">
-    <title lang="es">Sandro de América</title>
-    <desc lang="es">La historia de cómo una guitarra convirtió a Roberto Sánchez en Sandro, una leyenda popular que con su carisma y talento musical lo llevaron a superar las más difíciles circunstancias en su vida, superando la pobreza y los prejuicios.(n)</desc>
-    <rating system="CL">
-      <value>NR</value>
     </rating>
   </programme>
   <programme start="20220924224500 -0300" stop="20220925020000 -0300" channel="-TVN (CHI)">
@@ -2988,133 +3398,6 @@
     <desc lang="es">Cuatro mujeres neoyorquinas se enfrentan a las dificultades de las relaciones de pareja de estos tiempos.(n)</desc>
     <rating system="CL">
       <value>NC-17</value>
-    </rating>
-  </programme>
-  <programme start="20220924003000 -0300" stop="20220924020000 -0300" channel="La Red (CHI)">
-    <title lang="es">Swiss Nature Labs</title>
-    <desc lang="es">La información del programa no fue provista por el proveedor de la señal.(n)</desc>
-    <rating system="CL">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220924020000 -0300" stop="20220924050000 -0300" channel="La Red (CHI)">
-    <title lang="es">Fuera del aire</title>
-    <title lang="en">SIGN OFF</title>
-    <desc lang="es">Fin de emisión.(n)</desc>
-    <rating system="CL">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220924050000 -0300" stop="20220924060000 -0300" channel="La Red (CHI)">
-    <title lang="es">Swiss Nature Labs</title>
-    <desc lang="es">La información del programa no fue provista por el proveedor de la señal.(n)</desc>
-    <rating system="CL">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220924060000 -0300" stop="20220924083000 -0300" channel="La Red (CHI)">
-    <title lang="es">Swiss Nature Labs</title>
-    <desc lang="es">La información del programa no fue provista por el proveedor de la señal.(n)</desc>
-    <rating system="CL">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220924083000 -0300" stop="20220924090000 -0300" channel="La Red (CHI)">
-    <title lang="es">Antena 3D</title>
-    <desc lang="es">Barra de infomerciales que ofrece información sobre diferentes productos para el hogar, belleza, fitness y salud.(n)</desc>
-    <rating system="CL">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220924090000 -0300" stop="20220924093000 -0300" channel="La Red (CHI)">
-    <title lang="es">Antena 3D</title>
-    <desc lang="es">Barra de infomerciales que ofrece información sobre diferentes productos para el hogar, belleza, fitness y salud.(n)</desc>
-    <rating system="CL">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220924093000 -0300" stop="20220924100000 -0300" channel="La Red (CHI)">
-    <title lang="es">Antena 3D</title>
-    <desc lang="es">Barra de infomerciales que ofrece información sobre diferentes productos para el hogar, belleza, fitness y salud.(n)</desc>
-    <rating system="CL">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220924100000 -0300" stop="20220924103000 -0300" channel="La Red (CHI)">
-    <title lang="es">Antena 3D</title>
-    <desc lang="es">Barra de infomerciales que ofrece información sobre diferentes productos para el hogar, belleza, fitness y salud.(n)</desc>
-    <rating system="CL">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220924103000 -0300" stop="20220924110000 -0300" channel="La Red (CHI)">
-    <title lang="es">Antena 3D</title>
-    <desc lang="es">Barra de infomerciales que ofrece información sobre diferentes productos para el hogar, belleza, fitness y salud.(n)</desc>
-    <rating system="CL">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220924110000 -0300" stop="20220924113000 -0300" channel="La Red (CHI)">
-    <title lang="es">Antena 3D</title>
-    <desc lang="es">Barra de infomerciales que ofrece información sobre diferentes productos para el hogar, belleza, fitness y salud.(n)</desc>
-    <rating system="CL">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220924113000 -0300" stop="20220924120000 -0300" channel="La Red (CHI)">
-    <title lang="es">Antena 3D</title>
-    <desc lang="es">Barra de infomerciales que ofrece información sobre diferentes productos para el hogar, belleza, fitness y salud.(n)</desc>
-    <rating system="CL">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220924120000 -0300" stop="20220924123000 -0300" channel="La Red (CHI)">
-    <title lang="es">Antena 3D</title>
-    <desc lang="es">Barra de infomerciales que ofrece información sobre diferentes productos para el hogar, belleza, fitness y salud.(n)</desc>
-    <rating system="CL">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220924123000 -0300" stop="20220924130000 -0300" channel="La Red (CHI)">
-    <title lang="es">Antena 3D</title>
-    <desc lang="es">Barra de infomerciales que ofrece información sobre diferentes productos para el hogar, belleza, fitness y salud.(n)</desc>
-    <rating system="CL">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220924130000 -0300" stop="20220924133000 -0300" channel="La Red (CHI)">
-    <title lang="es">Antena 3D</title>
-    <desc lang="es">Barra de infomerciales que ofrece información sobre diferentes productos para el hogar, belleza, fitness y salud.(n)</desc>
-    <rating system="CL">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220924133000 -0300" stop="20220924140000 -0300" channel="La Red (CHI)">
-    <title lang="es">Antena 3D</title>
-    <desc lang="es">Barra de infomerciales que ofrece información sobre diferentes productos para el hogar, belleza, fitness y salud.(n)</desc>
-    <rating system="CL">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220924140000 -0300" stop="20220924143000 -0300" channel="La Red (CHI)">
-    <title lang="es">Antena 3D</title>
-    <desc lang="es">Barra de infomerciales que ofrece información sobre diferentes productos para el hogar, belleza, fitness y salud.(n)</desc>
-    <rating system="CL">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220924143000 -0300" stop="20220924150000 -0300" channel="La Red (CHI)">
-    <title lang="es">Antena 3D</title>
-    <desc lang="es">Barra de infomerciales que ofrece información sobre diferentes productos para el hogar, belleza, fitness y salud.(n)</desc>
-    <rating system="CL">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220924150000 -0300" stop="20220924210000 -0300" channel="La Red (CHI)">
-    <title lang="es">Swiss Nature Labs</title>
-    <desc lang="es">La información del programa no fue provista por el proveedor de la señal.(n)</desc>
-    <rating system="CL">
-      <value>NR</value>
     </rating>
   </programme>
   <programme start="20220924210000 -0300" stop="20220925020000 -0300" channel="La Red (CHI)">
@@ -3952,11 +4235,6 @@
   <programme start="20220924190000 -0500" stop="20220925000000 -0500" channel="-RCN Novelas">
     <title lang="es">Novia para dos</title>
   </programme>
-  <programme start="20220922160000 +0000" stop="20220922163000 +0000" channel="Univision 41">
-    <title lang="en">Noticiero Univision - Edicion Digital (live)</title>
-    <sub-title lang="en">09-22-2022</sub-title>
-    <date>2022</date>
-  </programme>
   <programme start="20220922163000 +0000" stop="20220922170000 +0000" channel="Univision 41">
     <title lang="en">Edición Digital Nueva York</title>
     <desc lang="en">Mantente informado con los últimos acontecimientos, fotos, videos y noticias de Nueva York. Entrevistas, información del clima y todo lo relacionado con el mundo de la tecnología.(n)</desc>
@@ -4612,12 +4890,6 @@
     <rating system="MPAA">
       <value>TV-G</value>
     </rating>
-  </programme>
-  <programme start="20220922160000 +0000" stop="20220922163000 +0000" channel="Telemundo 47">
-    <title lang="en">Noticiero Telemundo 47 (new)</title>
-    <desc lang="en">El noticiero local en español más completo en el área tri-estatal de Nueva York. Contamos con el equipo más grande de presentadores de noticias y reporteros enfocados en cubrir noticias de última hora y temas de interés para el consumidor. La estación de televisión con las herramientas más avanzadas para pronosticar las condiciones del tiempo y la única en español con meteorólogos certificados.(n)</desc>
-    <date>2018</date>
-    <premiere />
   </programme>
   <programme start="20220922163000 +0000" stop="20220922170000 +0000" channel="Telemundo 47">
     <title lang="en">Noticias Telemundo - Mediodía (new)</title>
@@ -5594,17 +5866,6 @@
       <value>+14</value>
     </rating>
   </programme>
-  <programme start="20220922153000 +0000" stop="20220922162500 +0000" channel="Love Nature!">
-    <title lang="es">Montañas salvajes</title>
-    <sub-title lang="es">Equilibrio del bosque</sub-title>
-    <desc lang="es">La combinación de bosques de crecimiento antiguo y nuevo en las Montañas Rocosas crea un equilibrio que permite que cada especie prospere. Aprenda cómo la Madre Naturaleza y los humanos están protegiendo esta mezcla esencial de bosques, incluso si eso significa destruirlos de vez en cuando.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/97/12978288_AC02DE7B32311D05.jpg" />
-    <country lang="es">CA</country>
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
   <programme start="20220922162500 +0000" stop="20220922171500 +0000" channel="Love Nature!">
     <title lang="es">Brasil Salvaje</title>
     <sub-title lang="es">Refugio de nutrias gigantes</sub-title>
@@ -6570,10 +6831,6 @@
     <rating system="MJColombia">
       <value>TE</value>
     </rating>
-  </programme>
-  <programme start="20220922153500 +0000" stop="20220922163000 +0000" channel="Telehit Musica">
-    <title lang="en">Musicología</title>
-    <date>2022</date>
   </programme>
   <programme start="20220922163000 +0000" stop="20220922170000 +0000" channel="Telehit Musica">
     <title lang="en">Playlist Telehit</title>
@@ -9367,17 +9624,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20220922155900 +0000" stop="20220922162500 +0000" channel="Discovery Kids!">
-    <title lang="es">Peppa</title>
-    <sub-title lang="es">Pedro tiene tos, Richard viene a jugar, El camión de bomberos, Paseo en tren</sub-title>
-    <desc lang="es">Un contagio de tos es transmitido por Pedro a sus compañeros de la guardería. /Richard Rabbit juega con George y Suzy Sheep con Peppa. / Peppa y George visitan el servicio de camiones de bomberos.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/79/9793683_2CF649F99A571685.jpg" />
-    <country lang="es">GB</country>
-    <episode-num system="onscreen">S3</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
   <programme start="20220922162500 +0000" stop="20220922163600 +0000" channel="Discovery Kids!">
     <title lang="es">Kung Fu Wa</title>
     <sub-title lang="es">Cara de Dragón</sub-title>
@@ -12006,17 +12252,6 @@
     <desc lang="es">Serie animada que muestra la relación amical entre Lola y su perro, así como las aventuras por las que atraviesa este pequeño héroe.(n)</desc>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/00/11008931_A33C1DA087AA8B16.jpg" />
     <country lang="es">US</country>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220922160000 +0000" stop="20220922162900 +0000" channel="Disney Channel!">
-    <title lang="es">Agente K.C.</title>
-    <sub-title lang="es">Lavado De Cerebro</sub-title>
-    <desc lang="es">K.C. descubre que Abby y Erica están trabajando para el enemigo. Los Cooper tendrán que actuar con la mayor presteza posible para detener los planes del enemigo durante la fiesta celebrada por la elección del presidente.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/87/12870519_DF5466EF503ED3D9.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S2 E6</episode-num>
     <rating system="MJColombia">
       <value>TE</value>
     </rating>
