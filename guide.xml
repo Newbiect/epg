@@ -28,12 +28,12 @@
   <channel id="-TVN (CHI)">
     <display-name lang="es">TVN (CHI)</display-name>
     <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/1149.png" />
-    <url>http://www.directv.cl</url>
+    <url>http://www.directv.com.cl</url>
   </channel>
   <channel id="La Red (CHI)">
     <display-name lang="es">La Red (CHI)</display-name>
     <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/148.png" />
-    <url>http://www.directv.cl</url>
+    <url>http://www.directv.com.cl</url>
   </channel>
   <channel id="-UniMás">
     <display-name lang="en">UniMás</display-name>
@@ -80,7 +80,6 @@
   </channel>
   <channel id="RCN Nuestra Tele">
     <display-name lang="es">RCN Nuestra Tele</display-name>
-    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/135.png" />
     <url>http://www.directv.com.co</url>
   </channel>
   <channel id="BitMe!">
@@ -102,6 +101,246 @@
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523290_AD350A44EE3C7F22.png" />
     <url>http://www.movistar.com.pe</url>
   </channel>
+  <programme start="20220922000000 -0300" stop="20220922010000 -0300" channel="Music Top!">
+    <title lang="es">Musictop</title>
+    <desc lang="es">Los mejores videos musicales.(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Música</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1265.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220922010000 -0300" stop="20220922020000 -0300" channel="Music Top!">
+    <title lang="es">Musictop</title>
+    <desc lang="es">Los mejores videos musicales.(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Música</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1265.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220922020000 -0300" stop="20220922030000 -0300" channel="Music Top!">
+    <title lang="es">Musictop</title>
+    <desc lang="es">Los mejores videos musicales.(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Música</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1265.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220922030000 -0300" stop="20220922040000 -0300" channel="Music Top!">
+    <title lang="es">Musictop</title>
+    <desc lang="es">Los mejores videos musicales.(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Música</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1265.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220922040000 -0300" stop="20220922050000 -0300" channel="Music Top!">
+    <title lang="es">Musictop</title>
+    <desc lang="es">Los mejores videos musicales.(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Música</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1265.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220922050000 -0300" stop="20220922060000 -0300" channel="Music Top!">
+    <title lang="es">Musictop</title>
+    <desc lang="es">Los mejores videos musicales.(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Música</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1265.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220922060000 -0300" stop="20220922070000 -0300" channel="Music Top!">
+    <title lang="es">Musictop</title>
+    <desc lang="es">Los mejores videos musicales.(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Música</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1265.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220922070000 -0300" stop="20220922080000 -0300" channel="Music Top!">
+    <title lang="es">Musictop</title>
+    <desc lang="es">Los mejores videos musicales.(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Música</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1265.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220922080000 -0300" stop="20220922090000 -0300" channel="Music Top!">
+    <title lang="es">Musictop</title>
+    <desc lang="es">Los mejores videos musicales.(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Música</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1265.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220922090000 -0300" stop="20220922100000 -0300" channel="Music Top!">
+    <title lang="es">Musictop</title>
+    <desc lang="es">Los mejores videos musicales.(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Música</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1265.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220922100000 -0300" stop="20220922110000 -0300" channel="Music Top!">
+    <title lang="es">Musictop</title>
+    <desc lang="es">Los mejores videos musicales.(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Música</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1265.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220922110000 -0300" stop="20220922120000 -0300" channel="Music Top!">
+    <title lang="es">Musictop</title>
+    <desc lang="es">Los mejores videos musicales.(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Música</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1265.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220922120000 -0300" stop="20220922130000 -0300" channel="Music Top!">
+    <title lang="es">Musictop</title>
+    <desc lang="es">Los mejores videos musicales.(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Música</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1265.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220922130000 -0300" stop="20220922140000 -0300" channel="Music Top!">
+    <title lang="es">Musictop</title>
+    <desc lang="es">Los mejores videos musicales.(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Música</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1265.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220922140000 -0300" stop="20220922150000 -0300" channel="Music Top!">
+    <title lang="es">Musictop</title>
+    <desc lang="es">Los mejores videos musicales.(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Música</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1265.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220922150000 -0300" stop="20220922160000 -0300" channel="Music Top!">
+    <title lang="es">Musictop</title>
+    <desc lang="es">Los mejores videos musicales.(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Música</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1265.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220922160000 -0300" stop="20220922170000 -0300" channel="Music Top!">
+    <title lang="es">Musictop</title>
+    <desc lang="es">Los mejores videos musicales.(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Música</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1265.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220922170000 -0300" stop="20220922180000 -0300" channel="Music Top!">
+    <title lang="es">Musictop</title>
+    <desc lang="es">Los mejores videos musicales.(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Música</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1265.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220922180000 -0300" stop="20220922190000 -0300" channel="Music Top!">
+    <title lang="es">Musictop</title>
+    <desc lang="es">Los mejores videos musicales.(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Música</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1265.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220922190000 -0300" stop="20220922200000 -0300" channel="Music Top!">
+    <title lang="es">Musictop</title>
+    <desc lang="es">Los mejores videos musicales.(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Música</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1265.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220922200000 -0300" stop="20220922210000 -0300" channel="Music Top!">
+    <title lang="es">Musictop</title>
+    <desc lang="es">Los mejores videos musicales.(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Música</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1265.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220922210000 -0300" stop="20220922220000 -0300" channel="Music Top!">
+    <title lang="es">Musictop</title>
+    <desc lang="es">Los mejores videos musicales.(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Música</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1265.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220922220000 -0300" stop="20220922230000 -0300" channel="Music Top!">
+    <title lang="es">Musictop</title>
+    <desc lang="es">Los mejores videos musicales.(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Música</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1265.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220922230000 -0300" stop="20220923000000 -0300" channel="Music Top!">
+    <title lang="es">Musictop</title>
+    <desc lang="es">Los mejores videos musicales.(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Música</category>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1265.png" />
+    <rating system="AR">
+      <value>NR</value>
+    </rating>
+  </programme>
   <programme start="20220923000000 -0300" stop="20220923010000 -0300" channel="Music Top!">
     <title lang="es">Musictop</title>
     <desc lang="es">Los mejores videos musicales.(n)</desc>
@@ -1541,7 +1780,7 @@
     <category lang="es">Acción</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula4/MATRESSP1888085" />
     <country lang="es">Alemania</country>
-    <episode-num system="onscreen">T11 E8</episode-num>
+    <episode-num system="onscreen">T11</episode-num>
     <rating system="ES">
       <value>12</value>
       <icon src="https://www.movistarplus.es/assets/images/movistar-plus/info-movie-icons/ICO-HD.svg" />
@@ -6630,24 +6869,6 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20220922160000 +0000" stop="20220922180000 +0000" channel="-UniMás">
-    <title lang="en">Que Te Perdone Dios... Yo No (new)</title>
-    <sub-title lang="en">09-22-2022</sub-title>
-    <date>2015</date>
-    <premiere />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220922180000 +0000" stop="20220922190000 +0000" channel="-UniMás">
-    <title lang="en">Como dice el dicho (new)</title>
-    <desc lang="en">Como Osvaldo es un modelo a seguir, Rodrigo, Jonathan y Valeria tratarán de desprestigiarlo y lo mostrarán ebrio ante todos. Pero su plan no sale como lo esperaban y ahora los tres tendrán que guardar el secreto de lo que le han hecho a Osvaldo.(n)</desc>
-    <date>2020</date>
-    <premiere />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20220922190000 +0000" stop="20220922210000 +0000" channel="-UniMás">
     <title lang="en">Pájaro Soñador (new)</title>
     <sub-title lang="en">09-23-2022</sub-title>
@@ -7308,8 +7529,8 @@
   <programme start="20220922230000 -0500" stop="20220923000000 -0500" channel="-RCN Novelas">
     <title lang="es">Doña Bella</title>
   </programme>
-  <programme start="20220923130000 -0500" stop="20220923140000 -0500" channel="-RCN Novelas">
-    <title lang="es">Francisco, el matemático</title>
+  <programme start="20220923150000 -0500" stop="20220923160000 -0500" channel="-RCN Novelas">
+    <title lang="es">Novia para dos</title>
   </programme>
   <programme start="20220924040000 -0500" stop="20220924090000 -0500" channel="-RCN Novelas">
     <title lang="es">No olvidaras mi nombre</title>
@@ -7322,24 +7543,6 @@
   </programme>
   <programme start="20220924190000 -0500" stop="20220925000000 -0500" channel="-RCN Novelas">
     <title lang="es">Novia para dos</title>
-  </programme>
-  <programme start="20220922170000 +0000" stop="20220922180000 +0000" channel="Univision 41">
-    <title lang="en">Hoy (new)</title>
-    <sub-title lang="en">09-22-2022</sub-title>
-    <date>2022</date>
-    <premiere />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20220922180000 +0000" stop="20220922190000 +0000" channel="Univision 41">
-    <title lang="en">Contigo Sí (new)</title>
-    <sub-title lang="en">09-13-2022</sub-title>
-    <date>2022</date>
-    <premiere />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
   </programme>
   <programme start="20220922190000 +0000" stop="20220922200000 +0000" channel="Univision 41">
     <title lang="en">La Mexicana y el Güero (new)</title>
@@ -7975,24 +8178,6 @@
       <value>TV-G</value>
     </rating>
   </programme>
-  <programme start="20220922170000 +0000" stop="20220922180000 +0000" channel="Telemundo 47">
-    <title lang="en">La Reina del Sur</title>
-    <desc lang="en">Una mujer inteligente y sagaz se mete en el mundo de narcos tras la muerte de su amor.(n)</desc>
-    <date>2011</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220922180000 +0000" stop="20220922185800 +0000" channel="Telemundo 47">
-    <title lang="en">En casa con Telemundo (new)</title>
-    <desc lang="en">Una oferta ligera, de formato accesible, familiar y cálido que incluye entrevistas con grandes estrellas del espectáculo, invitados especiales, buenas noticias y consejos para una vida sana.(n)</desc>
-    <premiere />
-  </programme>
-  <programme start="20220922185800 +0000" stop="20220922195800 +0000" channel="Telemundo 47">
-    <title lang="en">La mesa caliente (new)</title>
-    <desc lang="en">Un equipo de mujeres audaces y empoderadas, debate sobre los temas más controversiales.(n)</desc>
-    <premiere />
-  </programme>
   <programme start="20220922195800 +0000" stop="20220922210000 +0000" channel="Telemundo 47">
     <title lang="en">Al rojo vivo (new)</title>
     <desc lang="en">La revista noticiosa que define la agenda de la televisión en español en los Estados Unidos. Se caracteriza por ofrecer, antes que nadie, historias que cautivan al público hispano y por presentarlas en un formato innovador, que resalta el aspecto humano de cada noticia.(n)</desc>
@@ -8602,15 +8787,6 @@
     <date>2022</date>
     <premiere />
   </programme>
-  <programme start="20220922165500 +0000" stop="20220922192500 +0000" channel="-Clover Channel">
-    <title lang="es">La isla siniestra</title>
-    <desc lang="es">Teddy Daniels y Chuck Aule son enviados a la isla del puerto de Boston para investigar la misteriosa desaparición de Rachel Solando, una peligrosa asesina recluida en el hospital psiquiátrico Ashecliffe. Pronto descubren que el centro guarda muchos secretos.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/45/12450789_9F82156FF84297DE.jpg" />
-    <country lang="es">US</country>
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
   <programme start="20220922192500 +0000" stop="20220922211000 +0000" channel="-Clover Channel">
     <title lang="es">Los locos Addams 2</title>
     <desc lang="es">Cuenta la historia de una niñera que ingresa a la familia Addams con solo un propósito, enamorar al tío Lucas y obtener toda la fortuna de la familia. Sin embargo, en el camino descubre que su plan tiene más de un problema y la cómica familia se convierte en su principal obstáculo.(n)</desc>
@@ -8944,37 +9120,13 @@
       <value>+14</value>
     </rating>
   </programme>
-  <programme start="20220922171500 +0000" stop="20220922180500 +0000" channel="Love Nature!">
-    <title lang="es">Los misterios del Mekong</title>
-    <sub-title lang="es">Cuevas kársticas</sub-title>
-    <desc lang="es">Entre las dos barreras geográficas más formidables del sudeste asiático, las montañas Annamite y el río Mekong, se encuentra Khammouane, un accidentado paisaje cárstico cubierto de innumerables cuevas. Estas cuevas fueron formadas por el agua que fluye hacia el Mekong.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/76/11769110_D5B05B5A264A70F1.jpg" />
+  <programme start="20220925165000 +0000" stop="20220925191000 +0000" channel="-Clover Channel">
+    <title lang="es">The last castle</title>
+    <desc lang="es">El general Irwin ha sido condenado a una prisión militar que es dirigida por el corrupto y estricto coronel Winter. Ambos hombres se ven enfrentados en una lucha por el liderazgo, mientras que los soldados que son prisioneros intentan recuperar su dignidad.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12774252_8FA35CE33CC8DF08.jpg" />
     <country lang="es">US</country>
-    <episode-num system="onscreen">S1 E4</episode-num>
     <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220922180500 +0000" stop="20220922190000 +0000" channel="Love Nature!">
-    <title lang="es">La vida en la playa</title>
-    <sub-title lang="es">Florida</sub-title>
-    <desc lang="es">Florida es famosa por sus costas arenosas. Cuenta con la mayor costa de marea de los estados continentales de Estados Unidos. Estas zonas de recreo al lado del océano también son hábitats críticos para especies amenazadas y en peligro de extinción.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/97/12978278_B32F9A32F5BA2C1E.jpg" />
-    <country lang="es">CA</country>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220922190000 +0000" stop="20220922195000 +0000" channel="Love Nature!">
-    <title lang="es">La vida en la playa</title>
-    <sub-title lang="es">Nueva Escocia</sub-title>
-    <desc lang="es">¿Pueden los conservacionistas mantener salvajes las '100 islas salvajes'? ¿Cómo viven las lavanderas migratorias de la playa, de todos modos? Este recorrido por la costa de Nueva Escocia se adentra en la Bahía de Fundy, las playas de Burntcoat Head y el paraíso de los surfistas en Lawrencetown Beach.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/97/12978279_9FA91E9448447D14.jpg" />
-    <country lang="es">CA</country>
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
+      <value>+14</value>
     </rating>
   </programme>
   <programme start="20220922195000 +0000" stop="20220922204000 +0000" channel="Love Nature!">
@@ -9047,7 +9199,7 @@
     <title lang="es">Grandes parques de África</title>
     <sub-title lang="es">Isimangoliso</sub-title>
     <desc lang="es">Date un chapuzón en el mosaico único de ecosistemas del iSimangaliso Wetland Park. Explore pastizales, bosques, pantanos, lagos, playas y arrecifes de coral, y observe la increíble diversidad de vida animal que sustentan sus variadas zonas climáticas.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/98/12983052_6C0935D29CDB0C3A.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/97/12978296_E167DC2739626D45.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S1 E3</episode-num>
     <rating system="MJColombia">
@@ -9069,7 +9221,7 @@
     <title lang="es">Grandes parques de África</title>
     <sub-title lang="es">Parque Transfronterizo Kgalagadi</sub-title>
     <desc lang="es">El Parque Transfronterizo Kgalagadi es compatible con una variedad de especies que han adaptado estrategias creativas de supervivencia. Siga los antiguos lechos de los ríos secos del parque y cómo las plantas y los animales aprovechan mantenerse con vida.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/97/12978294_9EE559E2E0AF581F.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/98/12980369_C3E9671721F94880.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S1 E5</episode-num>
     <rating system="MJColombia">
@@ -9102,7 +9254,7 @@
     <title lang="es">La vida en la playa</title>
     <sub-title lang="es">Florida</sub-title>
     <desc lang="es">Florida es famosa por sus costas arenosas. Cuenta con la mayor costa de marea de los estados continentales de Estados Unidos. Estas zonas de recreo al lado del océano también son hábitats críticos para especies amenazadas y en peligro de extinción.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/97/12978278_B32F9A32F5BA2C1E.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/97/12979181_A879A08F0846FDFD.jpg" />
     <country lang="es">CA</country>
     <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="MJColombia">
@@ -9113,7 +9265,7 @@
     <title lang="es">La vida en la playa</title>
     <sub-title lang="es">Nueva Escocia</sub-title>
     <desc lang="es">¿Pueden los conservacionistas mantener salvajes las '100 islas salvajes'? ¿Cómo viven las lavanderas migratorias de la playa, de todos modos? Este recorrido por la costa de Nueva Escocia se adentra en la Bahía de Fundy, las playas de Burntcoat Head y el paraíso de los surfistas en Lawrencetown Beach.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/97/12978279_9FA91E9448447D14.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/97/12979180_181A4EE6880A47BD.jpg" />
     <country lang="es">CA</country>
     <episode-num system="onscreen">S1 E2</episode-num>
     <rating system="MJColombia">
@@ -9267,7 +9419,7 @@
     <title lang="es">Azul salvaje</title>
     <sub-title lang="es">Cocos Island</sub-title>
     <desc lang="es">Apodada 'la isla más hermosa del mundo' por Jacques Cousteau, la Isla del Coco es una joya entre los parques nacionales de Costa Rica que posee una prístina selva tropical y peces multicolores.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/86/12863094_23BBEB2992D30030.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/98/12986646_857EAB948DB79B50.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="MJColombia">
@@ -9278,7 +9430,7 @@
     <title lang="es">Azul salvaje</title>
     <sub-title lang="es">Socorro Islands</sub-title>
     <desc lang="es">Un pequeño archipiélago volcánico que se eleva desde las aguas salvajes del Pacífico oriental, las Islas Socorro han sido llamadas las Galápagos mexicanas. Prepárese para encuentros asombrosos con mantarrayas gigantes del Pacífico, delfines y tiburones de arrecife de punta blanca.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/86/12863094_23BBEB2992D30030.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/98/12986643_2BBC64969008B5B7.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S1 E2</episode-num>
     <rating system="MJColombia">
@@ -9289,7 +9441,7 @@
     <title lang="es">Azul salvaje</title>
     <sub-title lang="es">Bahamas</sub-title>
     <desc lang="es">Las islas de las Bahamas están rodeadas de exuberantes corales, sistemas de cuevas subterráneas y arrecifes bajos. Más allá de las arenas blancas y el agua turquesa, abunda la vida marina: ágiles tiburones de arrecife, grandes tiburones de punta blanca, manatíes, tortugas marinas y delfines salvajes.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/86/12863094_23BBEB2992D30030.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/98/12986647_BDC0864078209AA0.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S1 E3</episode-num>
     <rating system="MJColombia">
@@ -9300,7 +9452,7 @@
     <title lang="es">Azul salvaje</title>
     <sub-title lang="es">Belize</sub-title>
     <desc lang="es">Más de 200 cuevas albergan una variedad inigualable de vida marina y formaciones de coral en un reino submarino a 40 kilómetros de la ciudad de Belice. Aquí, un desierto azul profundo rebosa de peces raros, rayas águila, tiburones y enormes morenas verdes.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/86/12863094_23BBEB2992D30030.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/98/12986644_06F175A24C02B958.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S1 E4</episode-num>
     <rating system="MJColombia">
@@ -9409,7 +9561,7 @@
     <title lang="es">Azul salvaje</title>
     <sub-title lang="es">Cocos Island</sub-title>
     <desc lang="es">Apodada 'la isla más hermosa del mundo' por Jacques Cousteau, la Isla del Coco es una joya entre los parques nacionales de Costa Rica que posee una prístina selva tropical y peces multicolores.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/86/12863094_23BBEB2992D30030.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/98/12986646_857EAB948DB79B50.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="MJColombia">
@@ -9420,7 +9572,7 @@
     <title lang="es">Azul salvaje</title>
     <sub-title lang="es">Socorro Islands</sub-title>
     <desc lang="es">Un pequeño archipiélago volcánico que se eleva desde las aguas salvajes del Pacífico oriental, las Islas Socorro han sido llamadas las Galápagos mexicanas. Prepárese para encuentros asombrosos con mantarrayas gigantes del Pacífico, delfines y tiburones de arrecife de punta blanca.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/86/12863094_23BBEB2992D30030.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/98/12986643_2BBC64969008B5B7.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S1 E2</episode-num>
     <rating system="MJColombia">
@@ -9431,7 +9583,7 @@
     <title lang="es">Azul salvaje</title>
     <sub-title lang="es">Bahamas</sub-title>
     <desc lang="es">Las islas de las Bahamas están rodeadas de exuberantes corales, sistemas de cuevas subterráneas y arrecifes bajos. Más allá de las arenas blancas y el agua turquesa, abunda la vida marina: ágiles tiburones de arrecife, grandes tiburones de punta blanca, manatíes, tortugas marinas y delfines salvajes.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/86/12863094_23BBEB2992D30030.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/98/12986647_BDC0864078209AA0.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S1 E3</episode-num>
     <rating system="MJColombia">
@@ -9442,7 +9594,7 @@
     <title lang="es">Azul salvaje</title>
     <sub-title lang="es">Belize</sub-title>
     <desc lang="es">Más de 200 cuevas albergan una variedad inigualable de vida marina y formaciones de coral en un reino submarino a 40 kilómetros de la ciudad de Belice. Aquí, un desierto azul profundo rebosa de peces raros, rayas águila, tiburones y enormes morenas verdes.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/86/12863094_23BBEB2992D30030.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/98/12986644_06F175A24C02B958.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S1 E4</episode-num>
     <rating system="MJColombia">
@@ -9816,7 +9968,7 @@
     <title lang="es">Garras y dientes de África</title>
     <sub-title lang="es">Reptiles extraordinarios</sub-title>
     <desc lang="es">Al acecho en las sombras de África hay una increíble diversidad de reptiles que rara vez vemos. Maestros del inframundo, estas serpientes y lagartijas han conquistado casi todos los hábitats del continente y han desarrollado un conjunto notable de adaptaciones para sobrevivir.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/97/12979189_95F0CB9AE69C185C.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/97/12978290_407400A029D1AD3E.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S1 E4</episode-num>
     <rating system="MJColombia">
@@ -9849,7 +10001,7 @@
     <title lang="es">Tierras de sombras</title>
     <sub-title lang="es">Vida en aguas oscuras</sub-title>
     <desc lang="es">Descubra cómo la llegada del invierno desencadena los instintos de supervivencia de los animales en el suroeste de Nueva Zelanda. Sigue a los delfines mientras se desplazan hacia aguas más cálidas para darles a sus crías la oportunidad de luchar y únete a las anguilas de aleta larga en una migración épica hacia sus zonas de desove.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/97/12979191_BC1510FED60D79AB.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/97/12978292_F82AAC9872996DB3.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S1 E2</episode-num>
     <rating system="MJColombia">
@@ -9932,14 +10084,27 @@
       <value>TE</value>
     </rating>
   </programme>
-  <programme start="20220922175500 +0000" stop="20220922185000 +0000" channel="Telehit Musica">
-    <title lang="en">Reggaetown</title>
-    <date>2022</date>
+  <programme start="20220925171500 +0000" stop="20220925180500 +0000" channel="Love Nature!">
+    <title lang="es">Brasil Salvaje</title>
+    <sub-title lang="es">Monos amazónicos</sub-title>
+    <desc lang="es">Da un vistazo a las familias de primates más extraordinarias del Pantanal. Una mirada a los gritos ensordecedores de los monos aulladores, los intrépidos saltos de los curiosos monos saki y las ágiles colas de los monos araña de patillas blancas.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/97/12974428_904F9C57B18BC745.jpg" />
+    <country lang="es">BR</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
   </programme>
-  <programme start="20220922185000 +0000" stop="20220922194500 +0000" channel="Telehit Musica">
-    <title lang="en">Exitops</title>
-    <desc lang="en">Un programa que presenta la mejor música así como los lanzamientos y temas más populares.(n)</desc>
-    <date>2022</date>
+  <programme start="20220925180500 +0000" stop="20220925190000 +0000" channel="Love Nature!">
+    <title lang="es">Brasil Salvaje</title>
+    <sub-title lang="es">Estanque de carpinchos</sub-title>
+    <desc lang="es">¡Conoce a los capibaras increíblemente grandes del Pantanal, que pueden pesar hasta 40 kilos! Con una gran camada de bebés para criar, estos roedores se mantienen ocupados en los estanques de la región, donde interactúan con insectos, anfibios y moluscos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/97/12974429_5287524B220C3497.jpg" />
+    <country lang="es">BR</country>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
   </programme>
   <programme start="20220922194500 +0000" stop="20220922204000 +0000" channel="Telehit Musica">
     <title lang="en">Telehitazos</title>
@@ -11002,734 +11167,6 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220922010000 -0500" stop="20220922020000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Las Detectivas y el Víctor</title>
-    <desc lang="es">El detective Víctor García junto con su esposa Chavela inician una agencia de detectives: García Detectives, especializada en casos de infidelidades y seguimientos conyugales.(n)</desc>
-    <rating system="CO">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20220922020000 -0500" stop="20220922030000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Charla técnica</title>
-    <desc lang="es">El análisis, la opinión y el resumen de la jornada deportiva.(n)</desc>
-    <rating system="CO">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220922030000 -0500" stop="20220922040000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Trendiando</title>
-    <desc lang="es">Lo mejor del entretenimiento y las nuevas tendencias.(n)</desc>
-    <rating system="CO">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220922040000 -0500" stop="20220922043000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Tenemos que Hablar</title>
-    <desc lang="es">Todo el glamour del mundo del espectáculo, con novedades, polémicas y lo último en información sobre las estrellas del entretenimiento.(n)</desc>
-    <rating system="CO">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220922043000 -0500" stop="20220922053000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">El Mundo del Campo</title>
-    <desc lang="es">Programa sobre la cultura colombiana, las tradiciones, los festivales, la comida y mucho más de cada región.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220922053000 -0500" stop="20220922054500 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Entrevistas con Hernán</title>
-    <desc lang="es">Profundas entrevistas con las grandes figuras del momento.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220922054500 -0500" stop="20220922060000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Alerta Bogotá</title>
-    <desc lang="es">La información del programa no fue provista por el proveedor de la señal.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220922060000 -0500" stop="20220922070000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">RCN mundo</title>
-    <desc lang="es">Un espacio innovador para conectarse con las más recientes noticias y debates que son realizados por expertos profesionales del periodismo.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220922070000 -0500" stop="20220922073000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Noticias RCN</title>
-    <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220922073000 -0500" stop="20220922093000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Mañana express</title>
-    <desc lang="es">Todas las noticias de actualidad con un toque de buen humor.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220922093000 -0500" stop="20220922113000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Buen día, Colombia</title>
-    <desc lang="es">Un espacio donde se abordan temas de interés. Además, se incluyen entrevistas y grandes invitados para que el público pueda hacer a un lado sus preocupaciones.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220922113000 -0500" stop="20220922120000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Ponte al día con Cata Robayo</title>
-    <desc lang="es">Más que un programa de variedades, es una grandiosa oportunidad para que todas las personas se pongan al día con Catalina Robayo en diferentes temas, desde el cuidado de salud, belleza, cocina y más.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220922120000 -0500" stop="20220922123000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">América se entera</title>
-    <desc lang="es">Tratamiento objetivo y profundo de las noticias más relevantes de la actualidad.(n)</desc>
-    <rating system="CO">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220922123000 -0500" stop="20220922143000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Noticias RCN</title>
-    <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220922143000 -0500" stop="20220922160000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">En la jugada</title>
-    <desc lang="es">Un programa para dar a conocer los hechos que giran en torno a cuatro equipos de fútbol del oriente colombiano, la actividad del baloncesto, y los torneos profesionales del fútbol de salón y sala.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220922160000 -0500" stop="20220922163000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Colombia a la carta</title>
-    <desc lang="es">Un programa dedicado a resaltar la riqueza culinaria de Colombia mostrando recetas, cocineros y lugares para visitar. Un espacio para los amantes del buen comer.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220922163000 -0500" stop="20220922170000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Tenemos que Hablar</title>
-    <desc lang="es">Todo el glamour del mundo del espectáculo, con novedades, polémicas y lo último en información sobre las estrellas del entretenimiento.(n)</desc>
-    <rating system="CO">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220922170000 -0500" stop="20220922180000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Trendiando</title>
-    <desc lang="es">Lo mejor del entretenimiento y las nuevas tendencias.(n)</desc>
-    <rating system="CO">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220922180000 -0500" stop="20220922200000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Noticias RCN</title>
-    <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220922200000 -0500" stop="20220922210000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Las Detectivas y el Víctor</title>
-    <desc lang="es">El detective Víctor García junto con su esposa Chavela inician una agencia de detectives: García Detectives, especializada en casos de infidelidades y seguimientos conyugales.(n)</desc>
-    <rating system="CO">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20220922210000 -0500" stop="20220922220000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Charla técnica</title>
-    <desc lang="es">El análisis, la opinión y el resumen de la jornada deportiva.(n)</desc>
-    <rating system="CO">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220922220000 -0500" stop="20220922223000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Noticias RCN</title>
-    <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220922223000 -0500" stop="20220922233000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">El despecho</title>
-    <desc lang="es">Programa orientado al entretenimiento de la comunidad, en el cual se presentan los mejores videos de música popular de artistas regionales y nacionales, conducido por Oscar Guillermo Zapata.(n)</desc>
-    <rating system="CO">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220922233000 -0500" stop="20220923000000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Colombia a la carta</title>
-    <desc lang="es">Un programa dedicado a resaltar la riqueza culinaria de Colombia mostrando recetas, cocineros y lugares para visitar. Un espacio para los amantes del buen comer.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220923000000 -0500" stop="20220923010000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Trendiando</title>
-    <desc lang="es">Lo mejor del entretenimiento y las nuevas tendencias.(n)</desc>
-    <rating system="CO">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220923010000 -0500" stop="20220923020000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Las Detectivas y el Víctor</title>
-    <desc lang="es">El detective Víctor García junto con su esposa Chavela inician una agencia de detectives: García Detectives, especializada en casos de infidelidades y seguimientos conyugales.(n)</desc>
-    <rating system="CO">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20220923020000 -0500" stop="20220923030000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Charla técnica</title>
-    <desc lang="es">El análisis, la opinión y el resumen de la jornada deportiva.(n)</desc>
-    <rating system="CO">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220923030000 -0500" stop="20220923040000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Trendiando</title>
-    <desc lang="es">Lo mejor del entretenimiento y las nuevas tendencias.(n)</desc>
-    <rating system="CO">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220923040000 -0500" stop="20220923043000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Tenemos que Hablar</title>
-    <desc lang="es">Todo el glamour del mundo del espectáculo, con novedades, polémicas y lo último en información sobre las estrellas del entretenimiento.(n)</desc>
-    <rating system="CO">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220923043000 -0500" stop="20220923053000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">El Mundo del Campo</title>
-    <desc lang="es">Programa sobre la cultura colombiana, las tradiciones, los festivales, la comida y mucho más de cada región.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220923053000 -0500" stop="20220923054500 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Yo, José Gabriel</title>
-    <desc lang="es">Las noches se llenan de estrellas con grandes entrevistas a diversos invitados y la mejor música.(n)</desc>
-    <rating system="CO">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20220923054500 -0500" stop="20220923060000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Alerta Bogotá</title>
-    <desc lang="es">La información del programa no fue provista por el proveedor de la señal.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220923060000 -0500" stop="20220923070000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">RCN mundo</title>
-    <desc lang="es">Un espacio innovador para conectarse con las más recientes noticias y debates que son realizados por expertos profesionales del periodismo.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220923070000 -0500" stop="20220923073000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Noticias RCN</title>
-    <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220923073000 -0500" stop="20220923093000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Mañana express</title>
-    <desc lang="es">Todas las noticias de actualidad con un toque de buen humor.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220923093000 -0500" stop="20220923113000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Buen día, Colombia</title>
-    <desc lang="es">Un espacio donde se abordan temas de interés. Además, se incluyen entrevistas y grandes invitados para que el público pueda hacer a un lado sus preocupaciones.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220923113000 -0500" stop="20220923120000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Ponte al día con Cata Robayo</title>
-    <desc lang="es">Más que un programa de variedades, es una grandiosa oportunidad para que todas las personas se pongan al día con Catalina Robayo en diferentes temas, desde el cuidado de salud, belleza, cocina y más.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220923120000 -0500" stop="20220923123000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">América se entera</title>
-    <desc lang="es">Tratamiento objetivo y profundo de las noticias más relevantes de la actualidad.(n)</desc>
-    <rating system="CO">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220923123000 -0500" stop="20220923143000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Noticias RCN</title>
-    <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220923143000 -0500" stop="20220923153000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">En la jugada</title>
-    <desc lang="es">Un programa para dar a conocer los hechos que giran en torno a cuatro equipos de fútbol del oriente colombiano, la actividad del baloncesto, y los torneos profesionales del fútbol de salón y sala.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220923153000 -0500" stop="20220923160000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">La Previa de la Liga</title>
-    <desc lang="es">Análisis previo con lo mejor del campeonato colombiano.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220923160000 -0500" stop="20220923163000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Entrevistas con Hernán</title>
-    <desc lang="es">Profundas entrevistas con las grandes figuras del momento.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220923163000 -0500" stop="20220923170000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Tenemos que Hablar</title>
-    <desc lang="es">Todo el glamour del mundo del espectáculo, con novedades, polémicas y lo último en información sobre las estrellas del entretenimiento.(n)</desc>
-    <rating system="CO">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220923170000 -0500" stop="20220923180000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Trendiando</title>
-    <desc lang="es">Lo mejor del entretenimiento y las nuevas tendencias.(n)</desc>
-    <rating system="CO">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220923180000 -0500" stop="20220923200000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Noticias RCN</title>
-    <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220923200000 -0500" stop="20220923210000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">El Show de las Estrellas</title>
-    <desc lang="es">Programa musical con presentaciones en distintas partes de Colombia.(n)</desc>
-    <rating system="CO">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220923210000 -0500" stop="20220923220000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Charla técnica</title>
-    <desc lang="es">El análisis, la opinión y el resumen de la jornada deportiva.(n)</desc>
-    <rating system="CO">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220923220000 -0500" stop="20220923223000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Noticias RCN</title>
-    <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220923223000 -0500" stop="20220923233000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">El despecho</title>
-    <desc lang="es">Programa orientado al entretenimiento de la comunidad, en el cual se presentan los mejores videos de música popular de artistas regionales y nacionales, conducido por Oscar Guillermo Zapata.(n)</desc>
-    <rating system="CO">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220923233000 -0500" stop="20220924000000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">La Previa de la Liga</title>
-    <desc lang="es">Análisis previo con lo mejor del campeonato colombiano.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220924000000 -0500" stop="20220924010000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Trendiando</title>
-    <desc lang="es">Lo mejor del entretenimiento y las nuevas tendencias.(n)</desc>
-    <rating system="CO">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220924010000 -0500" stop="20220924020000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">El Show de las Estrellas</title>
-    <desc lang="es">Programa musical con presentaciones en distintas partes de Colombia.(n)</desc>
-    <rating system="CO">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220924020000 -0500" stop="20220924030000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Charla técnica</title>
-    <desc lang="es">El análisis, la opinión y el resumen de la jornada deportiva.(n)</desc>
-    <rating system="CO">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220924030000 -0500" stop="20220924040000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Trendiando</title>
-    <desc lang="es">Lo mejor del entretenimiento y las nuevas tendencias.(n)</desc>
-    <rating system="CO">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220924040000 -0500" stop="20220924043000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Tenemos que Hablar</title>
-    <desc lang="es">Todo el glamour del mundo del espectáculo, con novedades, polémicas y lo último en información sobre las estrellas del entretenimiento.(n)</desc>
-    <rating system="CO">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220924043000 -0500" stop="20220924053000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">El Mundo del Campo</title>
-    <desc lang="es">Programa sobre la cultura colombiana, las tradiciones, los festivales, la comida y mucho más de cada región.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220924053000 -0500" stop="20220924063000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">El despecho</title>
-    <desc lang="es">Programa orientado al entretenimiento de la comunidad, en el cual se presentan los mejores videos de música popular de artistas regionales y nacionales, conducido por Oscar Guillermo Zapata.(n)</desc>
-    <rating system="CO">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220924063000 -0500" stop="20220924070000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Vivendo TV</title>
-    <desc lang="es">Un programa donde se promociona la venta de viviendas en las principales ciudades de Colombia.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220924070000 -0500" stop="20220924073000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Turistéate</title>
-    <desc lang="es">Una muestra de la gente, la cultura y algunos de los sitios de interés turístico más representativos de Colombia e Hispanoamérica.(n)</desc>
-    <rating system="CO">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20220924073000 -0500" stop="20220924080000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Girls O'clock</title>
-    <desc lang="es">El mundo de la moda llega con una mirada diferente. Las pasarelas, los backstages y los eventos más top de la moda se dan cita con los mejores diseñadores del mundo.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220924080000 -0500" stop="20220924090000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Colombia a la carta</title>
-    <desc lang="es">Un programa dedicado a resaltar la riqueza culinaria de Colombia mostrando recetas, cocineros y lugares para visitar. Un espacio para los amantes del buen comer.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220924090000 -0500" stop="20220924100000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Colombia a la carta</title>
-    <desc lang="es">Un programa dedicado a resaltar la riqueza culinaria de Colombia mostrando recetas, cocineros y lugares para visitar. Un espacio para los amantes del buen comer.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220924100000 -0500" stop="20220924103000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">La Previa de la Liga</title>
-    <desc lang="es">Análisis previo con lo mejor del campeonato colombiano.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220924103000 -0500" stop="20220924110000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Tr3intay2 regionalmente nuestro</title>
-    <desc lang="es">Programa de la Federación de Departamentos que busca recorrer los 32 departamentos de Colombia, mostrar su cultura, tradiciones, gastronomía y sitios turísticos, además de visitar y animar a los colombianos a recorrer su país.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220924110000 -0500" stop="20220924113000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">El Show de las Estrellas</title>
-    <desc lang="es">Programa musical con presentaciones en distintas partes de Colombia.(n)</desc>
-    <rating system="CO">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220924113000 -0500" stop="20220924123000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">El despecho</title>
-    <desc lang="es">Programa orientado al entretenimiento de la comunidad, en el cual se presentan los mejores videos de música popular de artistas regionales y nacionales, conducido por Oscar Guillermo Zapata.(n)</desc>
-    <rating system="CO">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220924123000 -0500" stop="20220924150000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Noticias RCN</title>
-    <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220924150000 -0500" stop="20220924153000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Vivendo TV</title>
-    <desc lang="es">Un programa donde se promociona la venta de viviendas en las principales ciudades de Colombia.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220924153000 -0500" stop="20220924163000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Colombia a la carta</title>
-    <desc lang="es">Un programa dedicado a resaltar la riqueza culinaria de Colombia mostrando recetas, cocineros y lugares para visitar. Un espacio para los amantes del buen comer.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220924163000 -0500" stop="20220924170000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">La Previa de la Liga</title>
-    <desc lang="es">Análisis previo con lo mejor del campeonato colombiano.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220924170000 -0500" stop="20220924190000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">El despecho</title>
-    <desc lang="es">Programa orientado al entretenimiento de la comunidad, en el cual se presentan los mejores videos de música popular de artistas regionales y nacionales, conducido por Oscar Guillermo Zapata.(n)</desc>
-    <rating system="CO">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220924190000 -0500" stop="20220924200000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Noticias RCN</title>
-    <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220924200000 -0500" stop="20220924210000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Yo, José Gabriel</title>
-    <desc lang="es">Las noches se llenan de estrellas con grandes entrevistas a diversos invitados y la mejor música.(n)</desc>
-    <rating system="CO">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20220924210000 -0500" stop="20220924213000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Girls O'clock</title>
-    <desc lang="es">El mundo de la moda llega con una mirada diferente. Las pasarelas, los backstages y los eventos más top de la moda se dan cita con los mejores diseñadores del mundo.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220924213000 -0500" stop="20220924220000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Entrevistas con Hernán</title>
-    <desc lang="es">Profundas entrevistas con las grandes figuras del momento.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220924220000 -0500" stop="20220924230000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">El Show de las Estrellas</title>
-    <desc lang="es">Programa musical con presentaciones en distintas partes de Colombia.(n)</desc>
-    <rating system="CO">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220924230000 -0500" stop="20220924233000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Colombia a la carta</title>
-    <desc lang="es">Un programa dedicado a resaltar la riqueza culinaria de Colombia mostrando recetas, cocineros y lugares para visitar. Un espacio para los amantes del buen comer.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220924233000 -0500" stop="20220925000000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Vivendo TV</title>
-    <desc lang="es">Un programa donde se promociona la venta de viviendas en las principales ciudades de Colombia.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220925000000 -0500" stop="20220925020000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Las Detectivas y el Víctor</title>
-    <desc lang="es">El detective Víctor García junto con su esposa Chavela inician una agencia de detectives: García Detectives, especializada en casos de infidelidades y seguimientos conyugales.(n)</desc>
-    <rating system="CO">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20220925020000 -0500" stop="20220925030000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Yo, José Gabriel</title>
-    <desc lang="es">Las noches se llenan de estrellas con grandes entrevistas a diversos invitados y la mejor música.(n)</desc>
-    <rating system="CO">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20220925030000 -0500" stop="20220925040000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">El despecho</title>
-    <desc lang="es">Programa orientado al entretenimiento de la comunidad, en el cual se presentan los mejores videos de música popular de artistas regionales y nacionales, conducido por Oscar Guillermo Zapata.(n)</desc>
-    <rating system="CO">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220925040000 -0500" stop="20220925043000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Tenemos que Hablar</title>
-    <desc lang="es">Todo el glamour del mundo del espectáculo, con novedades, polémicas y lo último en información sobre las estrellas del entretenimiento.(n)</desc>
-    <rating system="CO">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220925043000 -0500" stop="20220925053000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">El Mundo del Campo</title>
-    <desc lang="es">Programa sobre la cultura colombiana, las tradiciones, los festivales, la comida y mucho más de cada región.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220925053000 -0500" stop="20220925063000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">El despecho</title>
-    <desc lang="es">Programa orientado al entretenimiento de la comunidad, en el cual se presentan los mejores videos de música popular de artistas regionales y nacionales, conducido por Oscar Guillermo Zapata.(n)</desc>
-    <rating system="CO">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220925063000 -0500" stop="20220925070000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Vivendo TV</title>
-    <desc lang="es">Un programa donde se promociona la venta de viviendas en las principales ciudades de Colombia.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220925070000 -0500" stop="20220925080000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">La Santa Misa</title>
-    <desc lang="es">Jesús rompió todos los paradigmas y sellos que aprisionaban a la humanidad. A través de su muerte y resurrección se nace a una nueva vida, realidad que llena de gozo y se celebra en la santa misa.(n)</desc>
-    <rating system="CO">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220925080000 -0500" stop="20220925090000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Colombia a la carta</title>
-    <desc lang="es">Un programa dedicado a resaltar la riqueza culinaria de Colombia mostrando recetas, cocineros y lugares para visitar. Un espacio para los amantes del buen comer.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220925090000 -0500" stop="20220925100000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">La Santa Misa</title>
-    <desc lang="es">Jesús rompió todos los paradigmas y sellos que aprisionaban a la humanidad. A través de su muerte y resurrección se nace a una nueva vida, realidad que llena de gozo y se celebra en la santa misa.(n)</desc>
-    <rating system="CO">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220925100000 -0500" stop="20220925103000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Girls O'clock</title>
-    <desc lang="es">El mundo de la moda llega con una mirada diferente. Las pasarelas, los backstages y los eventos más top de la moda se dan cita con los mejores diseñadores del mundo.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220925103000 -0500" stop="20220925110000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Tr3intay2 regionalmente nuestro</title>
-    <desc lang="es">Programa de la Federación de Departamentos que busca recorrer los 32 departamentos de Colombia, mostrar su cultura, tradiciones, gastronomía y sitios turísticos, además de visitar y animar a los colombianos a recorrer su país.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220925110000 -0500" stop="20220925113000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">El Show de las Estrellas</title>
-    <desc lang="es">Programa musical con presentaciones en distintas partes de Colombia.(n)</desc>
-    <rating system="CO">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220925113000 -0500" stop="20220925123000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">El despecho</title>
-    <desc lang="es">Programa orientado al entretenimiento de la comunidad, en el cual se presentan los mejores videos de música popular de artistas regionales y nacionales, conducido por Oscar Guillermo Zapata.(n)</desc>
-    <rating system="CO">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220925123000 -0500" stop="20220925150000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Noticias RCN</title>
-    <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220925150000 -0500" stop="20220925153000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Vivendo TV</title>
-    <desc lang="es">Un programa donde se promociona la venta de viviendas en las principales ciudades de Colombia.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220925153000 -0500" stop="20220925163000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Colombia a la carta</title>
-    <desc lang="es">Un programa dedicado a resaltar la riqueza culinaria de Colombia mostrando recetas, cocineros y lugares para visitar. Un espacio para los amantes del buen comer.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220925163000 -0500" stop="20220925170000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Turistéate</title>
-    <desc lang="es">Una muestra de la gente, la cultura y algunos de los sitios de interés turístico más representativos de Colombia e Hispanoamérica.(n)</desc>
-    <rating system="CO">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20220925170000 -0500" stop="20220925190000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">El despecho</title>
-    <desc lang="es">Programa orientado al entretenimiento de la comunidad, en el cual se presentan los mejores videos de música popular de artistas regionales y nacionales, conducido por Oscar Guillermo Zapata.(n)</desc>
-    <rating system="CO">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20220925190000 -0500" stop="20220925200000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Noticias RCN</title>
-    <desc lang="es">Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220925200000 -0500" stop="20220925210000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Leandro Díaz</title>
-    <desc lang="es">Bionovela del compositor y artista colombiano Leandro Díaz, símbolo del género vallenato.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220925210000 -0500" stop="20220925213000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Deportistas de lujo</title>
-    <desc lang="es">Programa enfocado en conocer más detalladamente a los protagonistas que se destacan en las diferentes disciplinas deportivas.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220925213000 -0500" stop="20220925223000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Yo, José Gabriel</title>
-    <desc lang="es">Las noches se llenan de estrellas con grandes entrevistas a diversos invitados y la mejor música.(n)</desc>
-    <rating system="CO">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20220925223000 -0500" stop="20220925230000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Entrevistas con Hernán</title>
-    <desc lang="es">Profundas entrevistas con las grandes figuras del momento.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220925230000 -0500" stop="20220925233000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Colombia a la carta</title>
-    <desc lang="es">Un programa dedicado a resaltar la riqueza culinaria de Colombia mostrando recetas, cocineros y lugares para visitar. Un espacio para los amantes del buen comer.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220925233000 -0500" stop="20220926000000 -0500" channel="RCN Nuestra Tele">
-    <title lang="es">Vivendo TV</title>
-    <desc lang="es">Un programa donde se promociona la venta de viviendas en las principales ciudades de Colombia.(n)</desc>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
   <programme start="20220922014000 -0500" stop="20220922023500 -0500" channel="BitMe!">
     <title lang="es">Fear the Walking Dead</title>
     <title lang="xx">Fear the Walking Dead</title>
@@ -12714,99 +12151,11 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20220922175400 +0000" stop="20220922180600 +0000" channel="Discovery Kids!">
-    <title lang="es">The Enchanted Village Of Pinocchio</title>
-    <sub-title lang="es">Folley se va</sub-title>
-    <desc lang="es">Pinocho intercepta una carta dirigida a Folley, informándole al Elfo que ha sido admitido en una prestigiosa escuela lejana. ¡Qué catástrofe! Pinocho necesita que Folley le escriba un ensayo para mejorar su promedio de calificaciones.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/51/11516720_0D7B75076E0D2124.jpg" />
-    <country lang="es">IT</country>
-    <episode-num system="onscreen">S1 E22</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220922182100 +0000" stop="20220922183200 +0000" channel="Discovery Kids!">
-    <title lang="es">The Beachbuds</title>
-    <sub-title lang="es">El regalo de la amistad</sub-title>
-    <desc lang="es">Bienvenidos al hotel Zoobak, hogar de la hospitalidad de clase mundial proporcionada por unas aves exóticas.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/08/12080159_1EF6E7DAA7507947.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S1 E14</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220922183200 +0000" stop="20220922184800 +0000" channel="Discovery Kids!">
-    <title lang="es">Primaria de héroes</title>
-    <sub-title lang="es">El error del lago</sub-title>
-    <desc lang="es">En un día caluroso, y el equipo hace una excursión al lago. Pero, cuando un estudiante congela accidentalmente todo el lago, el equipo de Sparks tiene que encontrar una manera de que el lago vuelva a ser líquido.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/96/9968264_A900B3139B207328.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S1 E11</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220922184800 +0000" stop="20220922190000 +0000" channel="Discovery Kids!">
-    <title lang="es">Primaria de héroes</title>
-    <sub-title lang="es">Problema con la planta</sub-title>
-    <desc lang="es">Cuando un rayo de Turbo Grow ataca una planta, la planta crece descontroladamente. El equipo de Sparks llega al rescate y aprende sobre las partes de las plantas y qué necesitan las plantas para sobrevivir.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/96/9967482_78D962E8A5C8F31F.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S1 E12</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220922190000 +0000" stop="20220922191100 +0000" channel="Discovery Kids!">
-    <title lang="es">Ba Da Bean</title>
-    <sub-title lang="es">Cuidando al bebé</sub-title>
-    <desc lang="es">Bean y Cosa encuentran a un borrador bebé solo entre los materiales de arte recién llegados. Encantados por la ternura del bebé, los dos amigos deciden cuidarlo hasta que encuentren a sus padres. Pero se apegan demasiado.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/35/11356034_9F59AC8DD42F7A67.jpg" />
-    <country lang="es">BR, US</country>
-    <episode-num system="onscreen">S1 E25</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220922191100 +0000" stop="20220922192600 +0000" channel="Discovery Kids!">
-    <title lang="es">The dog &amp; pony show</title>
-    <sub-title lang="es">Todo está en el glaseado</sub-title>
-    <desc lang="es">Es el cumpleaños de Dog, pero las cosas se ponen un poco raras cuando la colita de pelo mágica de Pony transforma su edificio en un pastel gigante.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/93/9939450_134EF937E2D3DB8E.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S1 E13</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220922192600 +0000" stop="20220922193700 +0000" channel="Discovery Kids!">
-    <title lang="es">¡Presto! Escuela de magia</title>
-    <sub-title lang="es">Aún eres joven</sub-title>
-    <desc lang="es">Lorenzo realiza un truco que falla espectacularmente debido a lo que parecen ser errores relacionados con la edad, lo que lleva a Phyllis a considerar que ya no es apto para dirigir Presto. En realidad, Daniel saboteó a Lorenzo.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/62/10625536_54A527CB0002EFE4.jpg" />
-    <country lang="es">FR</country>
-    <episode-num system="onscreen">S1 E28</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220922193700 +0000" stop="20220922200200 +0000" channel="Discovery Kids!">
-    <title lang="es">100% Wolf: Legend Of The Moonstone</title>
-    <sub-title lang="es">Beatrice Beefcheek</sub-title>
-    <desc lang="es">La verdadera Beatrice Beefcheek llega a Howlington, y Luna es expuesta y expulsada. Freddy tiene que volver a traer a Luna y ver cómo convencer a Pincus de que la deje quedarse, y evitar a un lobo salvaje que parece estar detrás de él.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/95/9955982_8A224CBF76257365.jpg" />
-    <country lang="es">AU</country>
-    <episode-num system="onscreen">S1 E10</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
   <programme start="20220922200200 +0000" stop="20220922201300 +0000" channel="Discovery Kids!">
     <title lang="es">Kung Fu Wa</title>
     <sub-title lang="es">Pescando</sub-title>
     <desc lang="es">Tee Zeng y Min planean ir a un restaurante de mariscos, pero no encuentran el cupón. Mas sí encuentran una caña de pescar del padre de Tee Zeng, la cual usan para obtener mariscos gratis y ganarle un juego a Calcetín Kung-fu sobre paciencia.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/26/11265745_FB58245D62B01310.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/25/11252223_BD3A9EC9B0B36DCB.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S1 E6</episode-num>
     <rating system="MJColombia">
@@ -12839,7 +12188,7 @@
     <title lang="es">Peppa</title>
     <sub-title lang="es">Shake, Rattle &amp; Bang, Champion Daddy Pig, Chatterbox, Mr Fox's Van, Chloe's big</sub-title>
     <desc lang="es">Madame Gazelle lleva muchos instrumentos musicales a la guardería para que los niños los sacudan y los hagan sonar. Papá Pig pierde su título como campeón saltador de charcos y todos lo ayudan a entrenar para volver a ganarlo.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/94/9942707_BE2FD1B8C27F99C8.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/94/9943636_01D2BEC3786FCAFE.jpg" />
     <country lang="es">GB</country>
     <rating system="MJColombia">
       <value>TE</value>
@@ -12859,7 +12208,7 @@
     <title lang="es">Mini Beat Power Rockers</title>
     <sub-title lang="es">El enigma de la pirámide</sub-title>
     <desc lang="es">Dolores lleva a los Power Rockers a un museo en donde un instrumento egipcio llama la atención de Wat. Al tocarlo, Wat y el resto de los Power Rockers son transportados a una fantasía egipcia.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/94/9942278_927E513D7E73F4ED.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/94/9943734_B6E9438E6436BBC8.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S2 E77</episode-num>
     <rating system="MJColombia">
@@ -12947,7 +12296,7 @@
     <title lang="es">Supermonstruos</title>
     <sub-title lang="es">Los vampiros no bailan</sub-title>
     <desc lang="es">Los Supermonstruos están planeando bailar para la Srta. Esmie, pero Drac tiene problemas para aprender los pasos.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/92/9927337_2EC0D8542CA82F3A.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/92/9921015_CEE2AF6C44AFA4C3.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S1 E2</episode-num>
     <rating system="MJColombia">
@@ -12958,7 +12307,7 @@
     <title lang="es">Supermonstruos</title>
     <sub-title lang="es">Problemas prestados</sub-title>
     <desc lang="es">Cuando Frankie usa la varita de Katya sin su permiso, convierte por accidente una excursión en un desastre de magia.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/92/9927338_50BD0C100497D059.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/92/9922715_EC09CF3990D7C7A3.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S1 E3</episode-num>
     <rating system="MJColombia">
@@ -12969,7 +12318,7 @@
     <title lang="es">Peppa</title>
     <sub-title lang="es">Naughty tortoise, Shadows, Int day, Rainy day games, Mrs Rabbit bump</sub-title>
     <desc lang="es">La tortura Tiddles se queda atrapada en un árbol. Peppa y George descubren sus sombras. Es el Día Internacional y Peppa y sus amigos se visten como en cada país. Llueve y Peppa y George no pueden salir. Mummy Rabbit viene de visita.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/94/9942489_D2D1B6F025371152.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/93/9939478_970038EC7526CC87.jpg" />
     <country lang="es">GB</country>
     <rating system="MJColombia">
       <value>TE</value>
@@ -12979,7 +12328,7 @@
     <title lang="es">Peppa</title>
     <sub-title lang="es">Grampy rabbit Dino park, Bedtime story, Lost keys, George new Dino, Grandpa pi</sub-title>
     <desc lang="es">Celebran el cumpleaños de Freddy Fox. Peppa cuenta a George un cuento para dormir. Peppa y su familia viajan a la montaña. George va a la tienda del Señor Fox.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/95/9952868_AC25C20F5D83E098.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/94/9942088_8A2C54488E8B4C57.jpg" />
     <country lang="es">GB</country>
     <rating system="MJColombia">
       <value>TE</value>
@@ -13044,7 +12393,7 @@
     <title lang="es">Kung Fu Wa</title>
     <sub-title lang="es">Pescando</sub-title>
     <desc lang="es">Tee Zeng y Min planean ir a un restaurante de mariscos, pero no encuentran el cupón. Mas sí encuentran una caña de pescar del padre de Tee Zeng, la cual usan para obtener mariscos gratis y ganarle un juego a Calcetín Kung-fu sobre paciencia.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/26/11265745_FB58245D62B01310.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/25/11252223_BD3A9EC9B0B36DCB.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S1 E6</episode-num>
     <rating system="MJColombia">
@@ -13165,7 +12514,7 @@
     <title lang="es">Ba Da Bean</title>
     <sub-title lang="es">Los geniales Cosa y Bean</sub-title>
     <desc lang="es">Bean y Cosa están tan encantados con las mellizas que deciden hacer cualquier cosa para entrar en la fiesta de Mesa Grande. Allí, intentan imitar la actitud de los invitados para demostrar que ellos también pueden ser geniales.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/54/10549567_1BC8E2452B58AEA4.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/55/10550561_7F9582BAAE72B7DB.jpg" />
     <country lang="es">BR, US</country>
     <episode-num system="onscreen">S1 E4</episode-num>
     <rating system="MJColombia">
@@ -13186,7 +12535,7 @@
     <title lang="es">Supermonstruos</title>
     <sub-title lang="es">Problemas prestados</sub-title>
     <desc lang="es">Cuando Frankie usa la varita de Katya sin su permiso, convierte por accidente una excursión en un desastre de magia.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/92/9927338_50BD0C100497D059.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/92/9922715_EC09CF3990D7C7A3.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S1 E3</episode-num>
     <rating system="MJColombia">
@@ -13197,7 +12546,7 @@
     <title lang="es">Supermonstruos</title>
     <sub-title lang="es">Ayudar con hechizos</sub-title>
     <desc lang="es">A Katya le gusta usar la magia para ayudar a los demás, pero cuando sus hechizos hacen un desastre en la biblioteca, Katya debe aprender a pedir ayuda para sí misma.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/92/9924689_9615E8D7182DC479.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/92/9921017_529CFE575E74F016.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S1 E4</episode-num>
     <rating system="MJColombia">
@@ -13285,7 +12634,7 @@
     <title lang="es">Los osos Boonie</title>
     <sub-title lang="es">La base secreta</sub-title>
     <desc lang="es">Carly descubre que Maurice y Arnold irán a la montaña en busca del tigre, entonces los sigue para detenerlos, pero queda atrapada. El equipo se dirige allí para ayudarla. Maurice y Arnold le disparan a Bramble.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/94/9942071_E4CFA4F3A6973012.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/93/9939461_3DFB406D483D83B8.jpg" />
     <country lang="es">CN</country>
     <episode-num system="onscreen">S1 E38</episode-num>
     <rating system="MJColombia">
@@ -13307,7 +12656,7 @@
     <title lang="es">Los osos Boonie</title>
     <sub-title lang="es">La cueva misteriosa</sub-title>
     <desc lang="es">Dado que la entrada está bloqueada, Briar y Bramble no tienen más opción que cargar a Carly y Vick y seguir avanzando. Llegan a una habitación y los tratan con hierbas. Gracias a unas pinturas de las paredes descubren que la cueva es una reliquia.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/94/9942033_A7F3AC0F8EB92EDE.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/95/9950766_FA935AE26A3096C1.jpg" />
     <country lang="es">CN</country>
     <episode-num system="onscreen">S1 E40</episode-num>
     <rating system="MJColombia">
@@ -13318,7 +12667,7 @@
     <title lang="es">Peppa</title>
     <sub-title lang="es">Bedtime story</sub-title>
     <desc lang="es">Después de que George se despierta por la noche, Peppa le cuenta un cuento antes de acostarse para irse a dormir.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/76/11762189_BFD2BAC5767BD1F6.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/76/11763995_EE1B6F874D6D425E.jpg" />
     <country lang="es">GB</country>
     <episode-num system="onscreen">S4 E17</episode-num>
     <rating system="MJColombia">
@@ -13329,7 +12678,7 @@
     <title lang="es">Peppa</title>
     <sub-title lang="es">Peppa y George</sub-title>
     <desc lang="es">Peppa es una cerdita que vive con su hermanito George, su mamá y su papá. A Peppa le encanta jugar y saltar en los charcos de lodo. También le gusta aprender cosas nuevas y escuchar los consejos de sus padres.\n.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/46/12465927_803B84DF6182787B.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/46/12469646_4D034E1EEDB197CE.jpg" />
     <country lang="es">GB</country>
     <rating system="MJColombia">
       <value>TE</value>
@@ -13405,7 +12754,7 @@
     <title lang="es">Peppa</title>
     <sub-title lang="es">Work and play, Pedro's cough, Richard Rabbit comes to play, Delphine donkey</sub-title>
     <desc lang="es">Peppa es una cerdita que vive con su hermanito George, su mamá y su papá. A Peppa le encanta jugar y saltar en los charcos de lodo. También le gusta aprender cosas nuevas y escuchar los consejos de sus padres. Pero, lo que más le gusta es jugar con sus muchos amigos.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/59/10598887_C814FE48DC5515C0.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/60/10603641_AEDD47F9276D954B.jpg" />
     <country lang="es">GB</country>
     <rating system="MJColombia">
       <value>TE</value>
@@ -13426,7 +12775,7 @@
     <title lang="es">Peppa</title>
     <sub-title lang="es">El carro de carreras, el botecito, el arenero, animales nocturnos, vacaciones</sub-title>
     <desc lang="es">Peppa es una cerdita que vive con su hermanito George, su mamá y su papá. A Peppa le encanta jugar y saltar en los charcos de lodo en donde cada una de sus aventuras siempre terminan con ronquidos de risa.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/83/9831433_2193D9F1D3F3223B.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/80/9808365_0577505C4F2474FA.jpg" />
     <country lang="es">GB</country>
     <episode-num system="onscreen">S6</episode-num>
     <rating system="MJColombia">
@@ -13513,7 +12862,7 @@
     <title lang="es">Primaria de héroes</title>
     <sub-title lang="es">La playa de las tortugas</sub-title>
     <desc lang="es">El equipo de Sparks viaja a la playa para ver nacer a las tortugas, pero, en cambio, encuentra la playa llena de basura. Los héroes investigan cómo llegó la basura allí y la limpian para que el camino hacia el agua sea más seguro.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/95/9954422_4DEF621120CB2C61.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/96/9966998_1B76BC6F18D94578.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S1 E25</episode-num>
     <rating system="MJColombia">
@@ -13567,7 +12916,7 @@
     <title lang="es">Peppa</title>
     <sub-title lang="es">Easter bunny, School project, The police, Mummy Pig's book, The zoo</sub-title>
     <desc lang="es">Peppa es una cerdita que vive con su hermanito George, Mamá Cerdita y Papá Cerdito. A Peppa le encanta jugar y saltar en los charcos de lodo. ¡Sus aventuras siempre terminan bien y con ronquidos de risa.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/95/9950536_FF7DF0AE8721E040.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/93/9939447_B23C0A1BBF3BBF0E.jpg" />
     <country lang="es">GB</country>
     <rating system="MJColombia">
       <value>TE</value>
@@ -13618,7 +12967,7 @@
     <title lang="es">Peppa</title>
     <sub-title lang="es">Vamos a esquiar, perfume, el arenero, la tetera del señor Toribio</sub-title>
     <desc lang="es">Peppa y sus amigos están haciendo una isla desierta en el arenero y deciden agregarle un bosque, un lago, casas y tiendas. Todo marcha bien hasta que aparecen los dinosaurios de George y Richard.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/81/9819982_556CE2A81CF4F04D.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/79/9795093_4956B7D7A6E4BCFB.jpg" />
     <country lang="es">GB</country>
     <episode-num system="onscreen">S6</episode-num>
     <rating system="MJColombia">
@@ -13716,7 +13065,7 @@
     <title lang="es">Primaria de héroes</title>
     <sub-title lang="es">¿Dónde está Fur Blur?</sub-title>
     <desc lang="es">Los héroes no pueden encontrar a Fur Blur. El equipo de Sparks usa sus 5 sentidos para rastrearla por toda la escuela.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/95/9954433_63A5BB7072D03459.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/95/9955958_44B378254934BC23.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S1 E13</episode-num>
     <rating system="MJColombia">
@@ -13727,7 +13076,7 @@
     <title lang="es">Primaria de héroes</title>
     <sub-title lang="es">La masa</sub-title>
     <desc lang="es">Una masa gigante y misteriosa está invadiendo los pasillos y las aulas, y generando caos. El equipo de Sparks necesita identificar sus propiedades para detenerla.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/97/9974689_39047858273AF628.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/95/9954436_A5510283EDBBF76D.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S1 E14</episode-num>
     <rating system="MJColombia">
@@ -13749,7 +13098,7 @@
     <title lang="es">The dog &amp; pony show</title>
     <sub-title lang="es">Una hermosa cabellera</sub-title>
     <desc lang="es">La majestuosa crin de Pony inspira a Dog y a Pony a convertirse en estilistas para todo Unicity, llevando alegria y buenos cortes de cabello a todos los habitantes.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/98/9981171_C722FB93519AD6B1.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/96/9966978_D2F7D28C8094FFEF.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S1 E14</episode-num>
     <rating system="MJColombia">
@@ -13771,7 +13120,7 @@
     <title lang="es">100% Wolf: Legend Of The Moonstone</title>
     <sub-title lang="es">Cherry</sub-title>
     <desc lang="es">Cuando se descubre que la loba salvaje que busca a Freddy es Cherry y es sentenciada a pagar por sus crímenes, Freddy intenta demostrar que ella puede cambiar. Scarlet se encuentra con dos cazadores de lobos que piensan distinto.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/95/9955984_4A4E76EC10E61E8E.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/95/9954227_80D4B617CBF79334.jpg" />
     <country lang="es">AU</country>
     <episode-num system="onscreen">S1 E11</episode-num>
     <rating system="MJColombia">
@@ -13782,7 +13131,7 @@
     <title lang="es">Kung Fu Wa</title>
     <sub-title lang="es">El misterio de la tienda de bollos</sub-title>
     <desc lang="es">Hay una cosa sin la que Tee Zeng no puede vivir: los bollos picantes. Pero esta mañana, la tienda está cerrada porque su ingrediente secreto ha desaparecido.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/25/11252213_BEEB96AD1EA66A01.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/25/11257126_1F0543A13254C81C.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S1 E7</episode-num>
     <rating system="MJColombia">
@@ -13825,7 +13174,7 @@
     <title lang="es">Peppa</title>
     <sub-title lang="es">Grandpa Pig's greenhouse, Sailing boat, Masks, Molly Mole, Soft play</sub-title>
     <desc lang="es">Peppa es una cerdita que vive con su hermanito George, Mamá Cerdita y Papá Cerdito. A Peppa le encanta jugar y saltar en los charcos de lodo. ¡Sus aventuras siempre terminan bien y con ronquidos de risa.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/93/9939480_3B51EF3B82B46AAA.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/94/9943641_AD07EFB24D0DB81D.jpg" />
     <country lang="es">GB</country>
     <rating system="MJColombia">
       <value>TE</value>
@@ -13890,7 +13239,7 @@
     <title lang="es">Supermonstruos</title>
     <sub-title lang="es">Ayudar con hechizos</sub-title>
     <desc lang="es">A Katya le gusta usar la magia para ayudar a los demás, pero cuando sus hechizos hacen un desastre en la biblioteca, Katya debe aprender a pedir ayuda para sí misma.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/92/9924689_9615E8D7182DC479.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/92/9921017_529CFE575E74F016.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S1 E4</episode-num>
     <rating system="MJColombia">
@@ -13901,7 +13250,7 @@
     <title lang="es">Supermonstruos</title>
     <sub-title lang="es">Seguridad para todos</sub-title>
     <desc lang="es">En una excursión al parque de diversiones, Lobo aprende por qué es importante para todos, incluso para un Supermonstruo, seguir las reglas de seguridad.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/92/9921797_BD5C8B677F7C546A.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/92/9924094_9AF512999B5F22A5.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S1 E5</episode-num>
     <rating system="MJColombia">
@@ -13912,7 +13261,7 @@
     <title lang="es">Supermonstruos</title>
     <sub-title lang="es">Hasta los monstruos deben tener modales</sub-title>
     <desc lang="es">Los Supermonstruos están organizando una cena en la escuela para sus padres, y Cleo debe ayudar a sus amigos a desplegar sus mejores modales.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/92/9921020_00FA8EBAE62E32B7.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/92/9924742_61368938DC73B82C.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S1 E6</episode-num>
     <rating system="MJColombia">
@@ -13923,7 +13272,7 @@
     <title lang="es">Supermonstruos</title>
     <sub-title lang="es">Monstruos en el museo</sub-title>
     <desc lang="es">Frakie se tropieza, sin querer, y rompe cosas en el museo. Él se siente mal por lo ocurrido, pero sus amigos saben que va estar mejor si conversa sobre ello.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/92/9920997_2FB04113FECBCB96.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/93/9933820_4456D89E8F65FC4F.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S1 E7</episode-num>
     <rating system="MJColombia">
@@ -14020,7 +13369,7 @@
     <title lang="es">Kung Fu Wa</title>
     <sub-title lang="es">El misterio de la tienda de bollos</sub-title>
     <desc lang="es">Hay una cosa sin la que Tee Zeng no puede vivir: los bollos picantes. Pero esta mañana, la tienda está cerrada porque su ingrediente secreto ha desaparecido.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/25/11252213_BEEB96AD1EA66A01.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/25/11257126_1F0543A13254C81C.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S1 E7</episode-num>
     <rating system="MJColombia">
@@ -14041,7 +13390,7 @@
     <title lang="es">Peppa</title>
     <sub-title lang="es">Easter bunny, School project, The police, Mummy Pig's book, The zoo</sub-title>
     <desc lang="es">Peppa es una cerdita que vive con su hermanito George, Mamá Cerdita y Papá Cerdito. A Peppa le encanta jugar y saltar en los charcos de lodo. ¡Sus aventuras siempre terminan bien y con ronquidos de risa.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/95/9950536_FF7DF0AE8721E040.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/93/9939447_B23C0A1BBF3BBF0E.jpg" />
     <country lang="es">GB</country>
     <rating system="MJColombia">
       <value>TE</value>
@@ -14104,7 +13453,7 @@
     <title lang="es">Supermonstruos</title>
     <sub-title lang="es">Seguridad para todos</sub-title>
     <desc lang="es">En una excursión al parque de diversiones, Lobo aprende por qué es importante para todos, incluso para un Supermonstruo, seguir las reglas de seguridad.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/92/9921797_BD5C8B677F7C546A.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/92/9924094_9AF512999B5F22A5.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S1 E5</episode-num>
     <rating system="MJColombia">
@@ -14115,7 +13464,7 @@
     <title lang="es">Supermonstruos</title>
     <sub-title lang="es">Hasta los monstruos deben tener modales</sub-title>
     <desc lang="es">Los Supermonstruos están organizando una cena en la escuela para sus padres, y Cleo debe ayudar a sus amigos a desplegar sus mejores modales.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/92/9921020_00FA8EBAE62E32B7.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/92/9924742_61368938DC73B82C.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S1 E6</episode-num>
     <rating system="MJColombia">
@@ -14355,7 +13704,7 @@
     <title lang="es">Peppa</title>
     <sub-title lang="es">El carro de carreras, el botecito, el arenero, animales nocturnos, vacaciones</sub-title>
     <desc lang="es">Peppa es una cerdita que vive con su hermanito George, su mamá y su papá. A Peppa le encanta jugar y saltar en los charcos de lodo en donde cada una de sus aventuras siempre terminan con ronquidos de risa.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/83/9831433_2193D9F1D3F3223B.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/80/9808365_0577505C4F2474FA.jpg" />
     <country lang="es">GB</country>
     <episode-num system="onscreen">S6</episode-num>
     <rating system="MJColombia">
@@ -14526,7 +13875,7 @@
     <title lang="es">Primaria de héroes</title>
     <sub-title lang="es">Algo de sombra</sub-title>
     <desc lang="es">Desapareció el lugar que AJ eligió para el almuerzo al aire libre de la clase. El equipo de Sparks se embarca en una misión para descubrir quién o qué le quitó la sombra a AJ.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/97/9974690_EA2D440F10184C0C.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/95/9954419_C03B2AF93FD105B0.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S1 E24</episode-num>
     <rating system="MJColombia">
@@ -14603,7 +13952,7 @@
     <title lang="es">Peppa</title>
     <sub-title lang="es">Vamos a esquiar, perfume, el arenero, la tetera del señor Toribio</sub-title>
     <desc lang="es">Peppa y sus amigos están haciendo una isla desierta en el arenero y deciden agregarle un bosque, un lago, casas y tiendas. Todo marcha bien hasta que aparecen los dinosaurios de George y Richard.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/81/9819982_556CE2A81CF4F04D.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/79/9795093_4956B7D7A6E4BCFB.jpg" />
     <country lang="es">GB</country>
     <episode-num system="onscreen">S6</episode-num>
     <rating system="MJColombia">
@@ -14668,7 +14017,7 @@
     <title lang="es">Peppa</title>
     <sub-title lang="es">Naughty tortoise, Shadows, Int day, Rainy day games, Mrs Rabbit bump</sub-title>
     <desc lang="es">La tortura Tiddles se queda atrapada en un árbol. Peppa y George descubren sus sombras. Es el Día Internacional y Peppa y sus amigos se visten como en cada país. Llueve y Peppa y George no pueden salir. Mummy Rabbit viene de visita.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/94/9942489_D2D1B6F025371152.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/93/9939478_970038EC7526CC87.jpg" />
     <country lang="es">GB</country>
     <rating system="MJColombia">
       <value>TE</value>
@@ -14796,7 +14145,7 @@
     <title lang="es">Supermonstruos</title>
     <sub-title lang="es">Ayudar con hechizos</sub-title>
     <desc lang="es">A Katya le gusta usar la magia para ayudar a los demás, pero cuando sus hechizos hacen un desastre en la biblioteca, Katya debe aprender a pedir ayuda para sí misma.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/92/9924689_9615E8D7182DC479.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/92/9921017_529CFE575E74F016.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S1 E4</episode-num>
     <rating system="MJColombia">
@@ -14807,7 +14156,7 @@
     <title lang="es">Supermonstruos</title>
     <sub-title lang="es">Seguridad para todos</sub-title>
     <desc lang="es">En una excursión al parque de diversiones, Lobo aprende por qué es importante para todos, incluso para un Supermonstruo, seguir las reglas de seguridad.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/92/9921797_BD5C8B677F7C546A.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/92/9924094_9AF512999B5F22A5.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S1 E5</episode-num>
     <rating system="MJColombia">
@@ -14818,7 +14167,7 @@
     <title lang="es">Peppa</title>
     <sub-title lang="es">Grampy rabbit Dino park, Bedtime story, Lost keys, George new Dino, Grandpa pi</sub-title>
     <desc lang="es">Celebran el cumpleaños de Freddy Fox. Peppa cuenta a George un cuento para dormir. Peppa y su familia viajan a la montaña. George va a la tienda del Señor Fox.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/95/9952868_AC25C20F5D83E098.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/94/9942088_8A2C54488E8B4C57.jpg" />
     <country lang="es">GB</country>
     <rating system="MJColombia">
       <value>TE</value>
@@ -14920,7 +14269,7 @@
     <title lang="es">Supermonstruos</title>
     <sub-title lang="es">Monstruos en el museo</sub-title>
     <desc lang="es">Frakie se tropieza, sin querer, y rompe cosas en el museo. Él se siente mal por lo ocurrido, pero sus amigos saben que va estar mejor si conversa sobre ello.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/92/9920997_2FB04113FECBCB96.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/93/9933820_4456D89E8F65FC4F.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S1 E7</episode-num>
     <rating system="MJColombia">
@@ -15316,7 +14665,7 @@
     <title lang="es">Primaria de héroes</title>
     <sub-title lang="es">Adiós, Dragonfly</sub-title>
     <desc lang="es">Cuando el dron Dragonfly de AJ vuela solo, el equipo de Sparks se embarca en una misión para atraparlo. ¿Cómo pueden usar pistas de la naturaleza para atraparlo.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/70/10700999_C0FF5619C4EE1312.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/70/10702325_011C0F5F2157117C.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S1 E38</episode-num>
     <rating system="MJColombia">
@@ -15345,57 +14694,43 @@
       <value>TE</value>
     </rating>
   </programme>
-  <programme start="20220922172700 +0000" stop="20220922175900 +0000" channel="Disney Channel!">
-    <title lang="es">Agente K.C.</title>
-    <sub-title lang="es">Del agua al fuego</sub-title>
-    <desc lang="es">Cuando Zane sabotea el viaje en avión de los Cooper, es momento de que K. C. salve a su familia.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/35/11355206_09CC056F5A123213.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S3 E3</episode-num>
+  <programme start="20220925163100 +0000" stop="20220925165800 +0000" channel="Discovery Kids!">
+    <title lang="es">Peppa</title>
+    <sub-title lang="es">Gym class, The blackberry bush, Pottery, Paper aeroplanes, Edmond elephant's bi</sub-title>
+    <desc lang="es">Madame Gazelle lleva a los niños a la clase de gimnasia de Grampy Rabbit y allí aprenden a ser verdaderos exploradores. Peppa y su familia recolectan manzanas y moras en el jardín de sus abuelos para hacer un pastel.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/99/9992055_5A8C6E42B3B5EB23.jpg" />
+    <country lang="es">GB</country>
     <rating system="MJColombia">
       <value>TE</value>
     </rating>
   </programme>
-  <programme start="20220922175900 +0000" stop="20220922182900 +0000" channel="Disney Channel!">
-    <title lang="es">Gravity Falls: Un verano de misterios</title>
-    <sub-title lang="es">Visita al refugio</sub-title>
-    <desc lang="es">Cuando las páginas de diarios secretos de Dipper lo llevan a él y a la banda al búnker oculto del autor, se encuentran cara a cara con una figura misteriosa de la historia de Gravity Falls.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/81/12816815_C6AFA830F59A29FD.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S2 E2</episode-num>
+  <programme start="20220925165800 +0000" stop="20220925172500 +0000" channel="Discovery Kids!">
+    <title lang="es">Peppa</title>
+    <sub-title lang="es">The biggest muddy puddle in the world, Doctor Hamster's tortoise, Miss Rabbit</sub-title>
+    <desc lang="es">Llueve tanto que la casa de Peppa y George se ha transformado en una isla. El Doctor Hámster muestra sus mascotas. Miss Rabbit lleva a Peppa y su familia a pasear en helicóptero. Los niños hacen sus pedidos a Papá Noel.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/94/9942413_D9492805C272AE30.jpg" />
+    <country lang="es">GB</country>
     <rating system="MJColombia">
       <value>TE</value>
     </rating>
   </programme>
-  <programme start="20220922182900 +0000" stop="20220922190000 +0000" channel="Disney Channel!">
-    <title lang="es">Star vs. las fuerzas del mal</title>
-    <sub-title lang="es">Heinous, Dojo certificado</sub-title>
-    <desc lang="es">En el episodio de hoy, Marco quiere demostrarle a su Sensei que es más digno que su rival en karate, Jeremy.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/62/10627848_67702D75F9C017F8.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S2 E19</episode-num>
+  <programme start="20220925173000 +0000" stop="20220925175700 +0000" channel="Discovery Kids!">
+    <title lang="es">Peppa</title>
+    <sub-title lang="es">Misterio resuelto, Año Nuevo chino, Muchos charcos de lodo, Mandy Ratona</sub-title>
+    <desc lang="es">Peppa es una cerdita que vive con su hermanito George, su mamá y su papá. A Peppa le encanta jugar y saltar en los charcos de lodo. También le gusta aprender cosas nuevas y escuchar los consejos de sus padres. Pero, lo que más le gusta es jugar con sus amigos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/91/9913441_132AA205A0CE81E3.jpg" />
+    <country lang="es">GB</country>
     <rating system="MJColombia">
       <value>TE</value>
     </rating>
   </programme>
-  <programme start="20220922190000 +0000" stop="20220922193000 +0000" channel="Disney Channel!">
-    <title lang="es">La casa de Raven</title>
-    <sub-title lang="es">Mr. Petracelli's Revenge</sub-title>
-    <desc lang="es">Para heredar el auto clásico de Víctor, Booker debe sacar buenas notas. Pero el antiguo maestro de Raven, el Sr. Petracelli, jura que no hay forma de que Booker obtenga una A en su clase.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/07/10078926_83F3172A014262B8.jpg" />
+  <programme start="20220925181600 +0000" stop="20220925182500 +0000" channel="Discovery Kids!">
+    <title lang="es">Mini Beat Power Rockers</title>
+    <sub-title lang="es">El Jurado</sub-title>
+    <desc lang="es">El famoso jurado de TV, Baby Jurado, llega la guardería. Los Power Rockers intentarán impresionarlo sin éxito y descubrirán su gran secreto.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/90/9905719_CBAF5B4E06BEBE53.jpg" />
     <country lang="es">US</country>
-    <episode-num system="onscreen">S5 E9</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220922193000 +0000" stop="20220922200000 +0000" channel="Disney Channel!">
-    <title lang="es">Gabby Duran: Niñera de aliens</title>
-    <sub-title lang="es">Gabby Duran: Genius</sub-title>
-    <desc lang="es">Cuando un Jeremy enfermo estornuda accidentalmente en la boca de Gabby, su flema altera la química cerebral de esta, convirtiéndola en un genio. Olivia la insta a usar su nueva habilidad para el bien, pero al principio, Gabby la usa para hacer trampa y ganar premios.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/35/11355195_9540618AF8400CD1.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S1 E13</episode-num>
+    <episode-num system="onscreen">S2 E12</episode-num>
     <rating system="MJColombia">
       <value>TE</value>
     </rating>
@@ -15448,7 +14783,7 @@
     <title lang="es">Sydney como Max</title>
     <sub-title lang="es">¡Cielos! Me siento una genia</sub-title>
     <desc lang="es">Cuando Olive pasa a la clase avanzada de matemáticas, Syd piensa que ella también merece el mismo honor, pero luego se da cuenta rápidamente de que no está destinada a estar en este nivel.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/66/12665208_71F2A1359AB3A25F.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/02/10020550_8093F7DB9DF944F4.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S3 E9</episode-num>
     <rating system="MJColombia">
@@ -15459,7 +14794,7 @@
     <title lang="es">Acampados</title>
     <sub-title lang="es">¿Me pemites, mamá?</sub-title>
     <desc lang="es">Lou está asombrado cuando su héroe, la legendaria Christina Ross, visita el campamento Kikiwaka; Los muchachos de Grizzly Cabin salen a acampar durante la noche.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/99/11991146_F3363AF66F0DED84.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/87/12870501_42471429CDF159D8.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S2 E13</episode-num>
     <rating system="MJColombia">
@@ -15514,7 +14849,7 @@
     <title lang="es">Holly Hobbie</title>
     <sub-title lang="es">La muralista enojada</sub-title>
     <desc lang="es">Holly planea una estrategia para poner celosa a Amy, trayendo a Tyler para que la ayude a pintar un impresionante mural para el Bicentenario de la ciudad.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/95/12957757_0E37D729748E12E9.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/98/9981365_04F4FFF7806342C3.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S1 E9</episode-num>
     <rating system="MJColombia">
@@ -15558,7 +14893,7 @@
     <title lang="es">Prodigiosa: Las aventuras de Ladybug</title>
     <sub-title lang="es">Startrain</sub-title>
     <desc lang="es">La madre de Max se queda en Startrain. A los mandos del tren volador, ahora quiere realizar su sueño de convertirse en astronauta.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/98/12983199_437B81F439C8DE21.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/37/12376671_52E897ABCC962ABF.jpg" />
     <country lang="es">FR</country>
     <episode-num system="onscreen">S3 E19</episode-num>
     <rating system="MJColombia">
@@ -15591,7 +14926,7 @@
     <title lang="es">La casa de Raven</title>
     <sub-title lang="es">La historia estadounidense de la Torá</sub-title>
     <desc lang="es">Las mejores amigas Raven y Chelsea son madres divorciadas, ahora están criando a sus hijos en un apartamento juntas en Chicago. Las cosas dan un giro cuando se dan cuenta de que uno de los hijos de Raven tiene capacidades psíquicas que su madre.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/57/12578315_BF9B5338CA084AE4.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/47/11478793_3288319DD1EC94D2.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S4 E17</episode-num>
     <rating system="MJColombia">
@@ -15635,7 +14970,7 @@
     <title lang="es">Star vs. las fuerzas del mal</title>
     <sub-title lang="es">Dulces sueños, El lago de lava</sub-title>
     <desc lang="es">Star descubre que viaja a través de múltiples dimensiones en sus sueños. Kelly rompe con su novio Tad, y Marco la ayuda hablando con él.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/44/11446921_7438DE78873B54E2.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/98/9989767_805142E1BE818104.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S3 E10</episode-num>
     <rating system="MJColombia">
@@ -15646,7 +14981,7 @@
     <title lang="es">¡Vete ya, Unicornio!</title>
     <sub-title lang="es">Dig this, Unicorn!; Disappear, Unicorn!</sub-title>
     <desc lang="es">Las aventuras de Alice y su mejor amigo, un enérgico unicornio, quien llena de brillo y color la vida de ambos. A medida que pasa el tiempo y exploran sus diferencias, descubren que las amistades se pueden encontrar en los lugares más insólitos.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/56/12561050_3FD9AC9A1E429197.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/20/11209108_10E445374A773286.jpg" />
     <country lang="es">CA</country>
     <episode-num system="onscreen">S1</episode-num>
     <rating system="MJColombia">
@@ -15657,7 +14992,7 @@
     <title lang="es">Gravity Falls: Un verano de misterios</title>
     <sub-title lang="es">El gigantesco Gideon</sub-title>
     <desc lang="es">Dipper, Mabel y Grunkle Stan se ven obligados a mudarse con Soos y su abuela, mientras los habitantes de la ciudad quedan estupefactos del encanto de Gideon.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12770966_081F502C83C8D2BC.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/73/12732305_D9A037CA08975E6C.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S1 E20</episode-num>
     <rating system="MJColombia">
@@ -15701,7 +15036,7 @@
     <title lang="es">Prodigiosa: Las aventuras de Ladybug</title>
     <sub-title lang="es">Gorizilla</sub-title>
     <desc lang="es">Después de no encontrar a Adrien, su guardaespaldas se akumatiza en Gorizilla. Con su nuevo sentido del olfato, puede rastrear a Adrien por todo París.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/39/10392091_398E97CD90310F39.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/98/12982295_F046DC90FE4E7D2A.jpg" />
     <country lang="es">FR</country>
     <episode-num system="onscreen">S2 E12</episode-num>
     <rating system="MJColombia">
@@ -15712,7 +15047,7 @@
     <title lang="es">Prodigiosa: Las aventuras de Ladybug</title>
     <sub-title lang="es">Pirkell</sub-title>
     <desc lang="es">Marinette conoce a Zoe, una nueva estudiante de su escuela secundaria. Pero no tiene idea de que Zoe es la media hermana de alguien muy poderoso en la escuela que hará cualquier cosa para que esa amistad se rompa.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/08/12081782_E093BF7342B60160.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/87/12877790_06135965D1E2DC74.jpg" />
     <country lang="es">FR</country>
     <episode-num system="onscreen">S4 E6</episode-num>
     <rating system="MJColombia">
@@ -15723,7 +15058,7 @@
     <title lang="es">Star vs. las fuerzas del mal</title>
     <sub-title lang="es">Daño colateral, Sólo amigos</sub-title>
     <desc lang="es">Star debe encontrar la manera de revivir el espíritu de sus compañeras después de que accidentalmente rompió la estatua de la mascota de la escuela. Star, Marco y Jackie asisten a un concierto de 'Love Sentence'.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12779765_A2F40D0D0A19C32F.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/76/12768165_E99793D1EC30F303.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S2 E20</episode-num>
     <rating system="MJColombia">
@@ -15809,7 +15144,7 @@
     <title lang="es">Amphibia</title>
     <sub-title lang="es">Rescatando a Polly, Un tráiler llamado deseo</sub-title>
     <desc lang="es">Sintiéndose despreciada, Polly trama un plan para que la familia le preste atención. Hop Pop inscribe a la familia para unirse al teatro, con la esperanza de realizar su sueño de ser actor.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12772671_7FEA25A394F609EA.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/57/10573402_CF599D95218B1E1F.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S2 E3</episode-num>
     <rating system="MJColombia">
@@ -15831,7 +15166,7 @@
     <title lang="es">El fantasma y Molly Mcgee</title>
     <sub-title lang="es">The Curse, First Day Frights</sub-title>
     <desc lang="es">Los McGee descubren que su hogar definitivo, al que acaban de mudarse, ya está ocupado por un fantasma llamado Scratch; y, por culpa de este, a Molly le costará causar una buena primera impresión en el colegio.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/55/12554864_3C2C3F0C36609629.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/55/12554449_C1A4B070AA21E96A.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="MJColombia">
@@ -15842,7 +15177,7 @@
     <title lang="es">Hotel Transylvania: La serie</title>
     <sub-title lang="es">Cuentos sangrientos</sub-title>
     <desc lang="es">Cornelius Shivers está escribiendo un libro sobre el Hotel Transylvania y los Dráculas tratan de aventajarse el uno del otro para tratar de que el libro sea de ellos mismos.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/36/10361819_8D81E75370FD1D22.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/78/10780084_6C165CD7083988BF.jpg" />
     <country lang="es">US</country>
     <rating system="MJColombia">
       <value>TE</value>
@@ -15852,7 +15187,7 @@
     <title lang="es">The Owl House: La casa Búho</title>
     <sub-title lang="es">Salvarse de la expulsión</sub-title>
     <desc lang="es">En una excursión escolar al misterioso castillo del Emperador, Luz se aleja del grupo y se pone en peligro.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/88/12889742_D8093E7EAA3F5576.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/87/12877912_7F62193D9C7FA85C.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S2 E2</episode-num>
     <rating system="MJColombia">
@@ -15863,7 +15198,7 @@
     <title lang="es">Amphibia</title>
     <sub-title lang="es">Ciudad Ranita, compras y algo más</sub-title>
     <desc lang="es">Hop Pop investiga la desaparición de un viejo amigo. La familia se dirige a un centro comercial de Newtopian para comprar recuerdos, y Anne hará cualquier cosa para conseguir un regalo para su madre en casa.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/88/12883877_02A545FD67F47942.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/87/12877789_CBC483D7E811D6BC.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S2 E9</episode-num>
     <rating system="MJColombia">
@@ -15896,7 +15231,7 @@
     <title lang="es">Amphibia</title>
     <sub-title lang="es">Conductores nocturnos, regreso a bosque Verruga</sub-title>
     <desc lang="es">Queriendo llegar a casa más rápido, Sprig y Polly deciden conducir el fwagon por la noche mientras Anne y Hop Pop duermen. Además, Anne y los Plantars regresan a Wartwood para recibir una cálida bienvenida. Sin embargo, Hop Pop y Polly se dan cuenta de que se olvidaron de traer regalos.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/88/12883893_4BE551B81B5790C1.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/49/12492169_79CA44530024C47C.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S2 E12</episode-num>
     <rating system="MJColombia">
@@ -15907,7 +15242,7 @@
     <title lang="es">Hannah Montana</title>
     <sub-title lang="es">Es mi fiesta y mentiré si quiero</sub-title>
     <desc lang="es">Aunque parece una adolescente común y corriente para todos, Miley Stewart tiene una doble vida. Ella se transforma secretamente en una famosa cantante de música pop, y solamente su familia y algunos amigos cercanos conocen esto.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/64/10645989_FC769F5F75CC1426.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/65/10651036_328440FCD46FA601.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S1 E5</episode-num>
     <rating system="MJColombia">
@@ -15918,7 +15253,7 @@
     <title lang="es">Austin &amp; Ally</title>
     <sub-title lang="es">Comienzos y despedidas</sub-title>
     <desc lang="es">El equipo Austin se preparará para el nuevo tour que empezará con su tour alrededor de los Estados Unidos.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/88/12883878_B702645DD4E10BB0.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/15/10154239_E5CD936191123BAA.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S2 E26</episode-num>
     <rating system="MJColombia">
@@ -15984,7 +15319,7 @@
     <title lang="es">Gabby Duran: Niñera de aliens</title>
     <sub-title lang="es">Who is Joey Panther?</sub-title>
     <desc lang="es">Gabby asistirá a Havensburg Junior High. Ella planea que su primer baile allí sea genial hasta que la extraña amiga de Wesley, Rhonda, se presente como parte de un acuerdo que se hizo hace años. Gabby conoce a un chico llamado Joey Panther que se convierte en su cita de graduación.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/96/12965251_25B6F4F769B1F2BF.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/31/12318315_A6A4EA92C7A40B98.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S1 E14</episode-num>
     <rating system="MJColombia">
@@ -16017,7 +15352,7 @@
     <title lang="es">El fantasma y Molly Mcgee</title>
     <sub-title lang="es">Restaurando el anfiteatro, el mejor concierto de todos</sub-title>
     <desc lang="es">Molly acude al alcalde para pedirles que reconstruyan el auditorio acústico, pero se niegan, por lo que ella y Darryl recolectan dinero de todos. Molly decide que la superestrella del country Kenny Star toque en el auditorio e incluso traza meticulosamente dónde estaría su autobús de gira.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/55/12557449_1FB712EE25C5BF64.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/55/12554683_321D21EDAF7BAB4D.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S1 E3</episode-num>
     <rating system="MJColombia">
@@ -16028,7 +15363,7 @@
     <title lang="es">Prodigiosa: Las aventuras de Ladybug</title>
     <sub-title lang="es">Problemática</sub-title>
     <desc lang="es">El famoso artista Jagged Stone va a la panadería del padre de Marinette para hacer un programa de televisión, pero cuando todo se descontrola, Penny, la ayudante de producción, pierde los nervios y es akumatizada.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/88/12880502_34C21C11D55495E5.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/87/12877841_10CBD59B8597F032.jpg" />
     <country lang="es">FR</country>
     <episode-num system="onscreen">S2 E17</episode-num>
     <rating system="MJColombia">
@@ -16039,7 +15374,7 @@
     <title lang="es">Sydney como Max</title>
     <sub-title lang="es">¿A quién ama Olive Rozalski?</sub-title>
     <desc lang="es">Cuando Olive se entera de que sus padres se están separando, Max, Syd y la abuela Judy se reúnen para hablar con Olive sobre cómo han enfrentado el divorcio en su familia.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/65/12658641_A9E0D5F806D7F8D1.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/13/12139010_FFDA1E812D75719E.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S3 E10</episode-num>
     <rating system="MJColombia">
@@ -16177,7 +15512,7 @@
     <title lang="es">Gravity Falls: Un verano de misterios</title>
     <sub-title lang="es">Visita al refugio</sub-title>
     <desc lang="es">Cuando las páginas de diarios secretos de Dipper lo llevan a él y a la banda al búnker oculto del autor, se encuentran cara a cara con una figura misteriosa de la historia de Gravity Falls.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/81/12816815_C6AFA830F59A29FD.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/81/12819030_705D3F4E00BA1912.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S2 E2</episode-num>
     <rating system="MJColombia">
@@ -16676,7 +16011,7 @@
     <title lang="es">Prodigiosa: Las aventuras de Ladybug</title>
     <sub-title lang="es">Problemática</sub-title>
     <desc lang="es">El famoso artista Jagged Stone va a la panadería del padre de Marinette para hacer un programa de televisión, pero cuando todo se descontrola, Penny, la ayudante de producción, pierde los nervios y es akumatizada.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/88/12880502_34C21C11D55495E5.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/87/12877841_10CBD59B8597F032.jpg" />
     <country lang="es">FR</country>
     <episode-num system="onscreen">S2 E17</episode-num>
     <rating system="MJColombia">
@@ -16705,6 +16040,24 @@
     <title lang="es">Chica vs. Monstruo</title>
     <desc lang="es">Telefilme sobre una adolescente que trata de llevar una vida normal, lo que incluye cantar en una banda de rock o ir a una fiesta de Halloween, pero la chica tiene una familia muy especial: sus padres son en realidad cazadores de monstruos.(n)</desc>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12779766_41F6D6A9F85082E9.jpg" />
+    <country lang="es">US</country>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220925170000 +0000" stop="20220925180000 +0000" channel="Disney Channel!">
+    <title lang="es">Holiday Magic Quest</title>
+    <desc lang="es">Disfruta de un especial navideño que muestra un desafío de alto riesgo que recorre el Parque Temático Magic Kingdom, una aventura mágica traída desde Walt Disney World Resort.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/76/12768170_124423D2B938E1FB.jpg" />
+    <country lang="es">US</country>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220925180000 +0000" stop="20220925190000 +0000" channel="Disney Channel!">
+    <title lang="es">Los hechiceros regresanAlex vs. Alex</title>
+    <desc lang="es">Alex trata de impresionar a sus parientes lejanos con un hechizo que sin querer produce que se cree una versión buena y una mala de ella misma.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/89/12892942_C0D5D3250536BCB5.jpg" />
     <country lang="es">US</country>
     <rating system="MJColombia">
       <value>TE</value>
