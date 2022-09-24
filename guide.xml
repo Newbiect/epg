@@ -1,5 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.4.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Animal Planet!">
+    <display-name lang="es">Animal Planet!)</display-name>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/734.png" />
+    <url>http://www.directv.com.co</url>
+  </channel>
   <channel id="Canal Uno (COL)">
     <display-name lang="es">Canal Uno (COL)</display-name>
     <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/136.png" />
@@ -37,12 +42,12 @@
   <channel id="-TVN (CHI)">
     <display-name lang="es">TVN (CHI)</display-name>
     <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/1149.png" />
-    <url>http://www.directv.cl</url>
+    <url>http://www.directv.com.cl</url>
   </channel>
   <channel id="La Red (CHI)">
     <display-name lang="es">La Red (CHI)</display-name>
     <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/148.png" />
-    <url>http://www.directv.cl</url>
+    <url>http://www.directv.com.cl</url>
   </channel>
   <channel id="-UniMás">
     <display-name lang="en">UniMás</display-name>
@@ -102,9 +107,1898 @@
   </channel>
   <channel id="Disney Channel!">
     <display-name lang="es">Disney Channel!</display-name>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523290_AD350A44EE3C7F22.png" />
     <url>http://www.movistar.com.pe</url>
   </channel>
+  <programme start="20220924004700 -0500" stop="20220924014600 -0500" channel="Animal Planet!">
+    <title lang="es">El acuario</title>
+    <title lang="es">The Aquarium - Maggie the Magnificent</title>
+    <sub-title lang="es">Maggie la magnífica</sub-title>
+    <desc lang="es">El acuario adquiere tecnología nueva para monitorear la actividad de una ballena blanca. El entrenamiento de Maggie, la nutria, se hace evidente cuando deben darle una inyección. Morty, la estrella de mar, tiene una protuberancia sospechosa. Temporada:02,Episodio:07.(n)</desc>
+    <credits>
+      <actor>Dave LaMattina</actor>
+      <actor>Lisa Lucas</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220924014600 -0500" stop="20220924024600 -0500" channel="Animal Planet!">
+    <title lang="es">El zoológico del Bronx</title>
+    <title lang="es">The Zoo - The Great Gaur Move</title>
+    <sub-title lang="es">La mudanza del gaur</sub-title>
+    <desc lang="es">Los cuidadores del zoológico integran a tres ejemplares de gaur, un bovino salvaje de Asia, con el resto de la manada. Una cría de sambar, un cérvido originario de Asia, necesita atención veterinaria. Llegan al zoo varios ejemplares de cálao bicorne. Temporada:03,Episodio:09.(n)</desc>
+    <credits>
+      <actor>Banks Tarver</actor>
+      <actor>Chad Walker</actor>
+      <actor>David LaMattina</actor>
+      <actor>Ken Druckerman</actor>
+      <actor>Lisa Lucas</actor>
+      <actor>Patrick Keegan</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S3 E9</episode-num>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220924024600 -0500" stop="20220924034200 -0500" channel="Animal Planet!">
+    <title lang="es">Con el agua al cuello</title>
+    <title lang="es">Tanked - The Wonderful Dr. Oz Tank</title>
+    <sub-title lang="es">El maravilloso estanque del Dr. Oz</sub-title>
+    <desc lang="es">El Dr. Oz, experto en salud y poseedor de muchos animales, solicita al equipo un tanque personalizado cuya temática esté inspirada en la obra "El mago de Oz". De este modo, el Dr. Oz quiere que el acuario contenga un camino de ladrillos amarillos. Temporada:14,Episodio:12.(n)</desc>
+    <credits>
+      <actor>Brett Raymer</actor>
+      <actor>Eric Neuhaus</actor>
+      <actor>Melinda Toporoff</actor>
+      <actor>Nancy Glass</actor>
+      <actor>Wayde King</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S14 E12</episode-num>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220924034200 -0500" stop="20220924043800 -0500" channel="Animal Planet!">
+    <title lang="es">Con el agua al cuello</title>
+    <title lang="es">Tanked - All in the Ocean</title>
+    <sub-title lang="es">Apostar al océano</sub-title>
+    <desc lang="es">El Ocean Resort Casino de Atlantic City, en Nueva Jersey, quiere un acuario de 22 000 litros que tiene al equipo literalmente quemando paneles para hacer el trabajo. Temporada:14,Episodio:16.(n)</desc>
+    <credits>
+      <actor>Brett Raymer</actor>
+      <actor>Eric Neuhaus</actor>
+      <actor>Melinda Toporoff</actor>
+      <actor>Nancy Glass</actor>
+      <actor>Wayde King</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S14 E16</episode-num>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220924043800 -0500" stop="20220924053400 -0500" channel="Animal Planet!">
+    <title lang="es">Con el agua al cuello</title>
+    <title lang="es">Tanked - DeMarcus Cousins and a Snake Tank</title>
+    <sub-title lang="es">Demarcus Cousin y un estanque para serpientes</sub-title>
+    <desc lang="es">Wayde y Brett tienen dos clientes y ambos quieren tener un acuario en su patio. La estrella del baloncesto Demarcus Cousins quiere un tanque en su casa de Las Vegas. Temporada:14,Episodio:14.(n)</desc>
+    <credits>
+      <actor>Brett Raymer</actor>
+      <actor>DeMarcus Cousins</actor>
+      <actor>Eric Neuhaus</actor>
+      <actor>Melinda Toporoff</actor>
+      <actor>Nancy Glass</actor>
+      <actor>Wayde King</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S14 E14</episode-num>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220924053400 -0500" stop="20220924060000 -0500" channel="Animal Planet!">
+    <title lang="es">Misterios del mundo animal</title>
+    <title lang="es">Nature's Strangest Mysteries: Solved - Held Hostage by a Humpback</title>
+    <sub-title lang="es">Rehén de una ballena</sub-title>
+    <desc lang="es">Por qué una ballena jorobada mantiene de rehén a un buzo. Además, cómo hace una colonia de 1,5 millones de animales para esconderse del resto del mundo a plena vista. Temporada:01,Episodio:03.(n)</desc>
+    <credits>
+      <actor>Alexander McMorran</actor>
+      <actor>Andrew Nosal</actor>
+      <actor>Bradley Greive</actor>
+      <actor>Dagmar Midcap</actor>
+      <actor>Dan Riskin</actor>
+      <actor>Dan Schreiber</actor>
+      <actor>Forrest Galante</actor>
+      <actor>Fred Hepburn</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220924060000 -0500" stop="20220924062900 -0500" channel="Animal Planet!">
+    <title lang="es">Guardianes de borneo</title>
+    <title lang="es">Borneo Rangers - Road To Freedom</title>
+    <sub-title lang="es">El camino hacia la libertad</sub-title>
+    <desc lang="es">Un año después del terremoto del monte Kinabalu, los sobrevivientes se reúnen, ahora como parte de un escuadrón de rescate. En el Centro de Vida Silvestre de Matang, Leo se ocupa de un lori perezoso de Java, uno de los animales venenosos más tiernos. Temporada:01,Episodio:11.(n)</desc>
+    <date>2017</date>
+    <category lang="es">Series</category>
+    <category lang="es">Viajes</category>
+    <episode-num system="onscreen">S1 E11</episode-num>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220924062900 -0500" stop="20220924072900 -0500" channel="Animal Planet!">
+    <title lang="es">Pit bulls y convictos</title>
+    <title lang="es">Pit Bulls and Parolees - Love at First Sight</title>
+    <sub-title lang="es">Amor a primera vista</sub-title>
+    <desc lang="es">Kanani, el hijo de Tia, prepara su boda con M2, su prometida. El antiguo preso en libertad provisional Jammall encuentra a un perro que fue abandonado y le pide a Mariah ayuda para rescatarlo. Una mujer y su hijo quieren un perro para su familia. Temporada:13,Episodio:10.(n)</desc>
+    <credits>
+      <actor>Lisa Lucas</actor>
+      <actor>Rasha Drachkovitch</actor>
+      <actor>Tia Torres</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S13 E10</episode-num>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220924072900 -0500" stop="20220924083000 -0500" channel="Animal Planet!">
+    <title lang="es">Dra. Dee: Veterinaria de Alaska</title>
+    <title lang="es">Dr. Dee: Alaska Vet - Laundromat Surgery</title>
+    <sub-title lang="es">Laundromat Surgery</sub-title>
+    <desc lang="es">La Dra. Dee examina un gran caballo de un problema potencialmente mortal; él trata a un caballo miniatura guerrero. Temporada:01,Episodio:02.(n)</desc>
+    <credits>
+      <actor>Dr. Thornell</actor>
+      <actor>Scott Feeley</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220924083000 -0500" stop="20220924090000 -0500" channel="Animal Planet!">
+    <title lang="es">Programa pagado</title>
+    <title lang="es">Paid Programming</title>
+    <desc lang="es">Programa que muestra diversos productos para la venta.(n)</desc>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220924090000 -0500" stop="20220924093000 -0500" channel="Animal Planet!">
+    <title lang="es">Programa pagado</title>
+    <title lang="es">Paid Programming</title>
+    <desc lang="es">Programa que muestra diversos productos para la venta.(n)</desc>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220924093000 -0500" stop="20220924100000 -0500" channel="Animal Planet!">
+    <title lang="es">Programa pagado</title>
+    <title lang="es">Paid Programming</title>
+    <desc lang="es">Programa que muestra diversos productos para la venta.(n)</desc>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220924100000 -0500" stop="20220924102400 -0500" channel="Animal Planet!">
+    <title lang="es">Misterios del mundo animal</title>
+    <title lang="es">Nature's Strangest Mysteries: Solved - Crow Crime Scene</title>
+    <sub-title lang="es">La escena del crimen de los cuervos</sub-title>
+    <desc lang="es">Se echa un vistazo al comportamiento de unas arañas que cubren con sus telas a una ciudad durante el devenir de la noche. Temporada:01,Episodio:10.(n)</desc>
+    <credits>
+      <actor>Alexander McMorran</actor>
+      <actor>Andrew Nosal</actor>
+      <actor>Bradley Greive</actor>
+      <actor>Dagmar Midcap</actor>
+      <actor>Dan Riskin</actor>
+      <actor>Dan Schreiber</actor>
+      <actor>Forrest Galante</actor>
+      <actor>Fred Hepburn</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220924102400 -0500" stop="20220924112300 -0500" channel="Animal Planet!">
+    <title lang="es">El zoológico del Bronx</title>
+    <title lang="es">The Zoo - New Chick on the Block</title>
+    <sub-title lang="es">Nuevas aves</sub-title>
+    <desc lang="es">Un popular lobo marino se enferma luego de ingerir un objeto desconocido. Además, el equipo idea un plan para aumentar la población de aves rupicola. Temporada:04,Episodio:08.(n)</desc>
+    <credits>
+      <actor>Anneka Jones</actor>
+      <actor>Banks Tarver</actor>
+      <actor>Chad Walker</actor>
+      <actor>David LaMattina</actor>
+      <actor>Ken Druckerman</actor>
+      <actor>Lisa Lucas</actor>
+      <actor>Michael LaHaie</actor>
+      <actor>Patrick Keegan</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S4 E8</episode-num>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220924112300 -0500" stop="20220924115200 -0500" channel="Animal Planet!">
+    <title lang="es">Santuario de Orangutanes</title>
+    <title lang="es">Meet the Orangutans - Dealing With Stubbornness and Illness</title>
+    <sub-title lang="es">Dealing With Stubbornness and Illness</sub-title>
+    <desc lang="es">Gellison, traumatizado después de perder a su madre, se instala en el santuario, aunque sus tácticas de intimidación son llevadas a los límites; Mico es trasladado a una reserva protegida. Temporada:01,Episodio:05.(n)</desc>
+    <credits>
+      <actor>Bill Nighy</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220924115200 -0500" stop="20220924122100 -0500" channel="Animal Planet!">
+    <title lang="es">Santuario de Orangutanes</title>
+    <title lang="es">Meet the Orangutans - Feeding Time</title>
+    <sub-title lang="es">Feeding Time</sub-title>
+    <desc lang="es">Los orangutanes necesitan aprender a encontrar alimentos por sí mismos, lo que en ocasiones resulta peligroso. Temporada:01,Episodio:06.(n)</desc>
+    <credits>
+      <director>Phil Stebbing</director>
+      <actor>Bill Nighy</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220924122100 -0500" stop="20220924125000 -0500" channel="Animal Planet!">
+    <title lang="es">Hospital de pingüinos</title>
+    <title lang="es">Meet The Penguins - Marital Troubles</title>
+    <sub-title lang="es">Marital Troubles</sub-title>
+    <desc lang="es">El feliz matrimonio de Cedric, quien carece de ambas piernas, con su esposa Robin, enfrenta su mayor desafío. El joven Squeaker pone a prueba la paciencia de las personas y un pingüino salvaje llega con una herida que podría ser mortal. Temporada:01,Episodio:05.(n)</desc>
+    <date>2017</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220924125000 -0500" stop="20220924131900 -0500" channel="Animal Planet!">
+    <title lang="es">Meet The Penguins</title>
+    <sub-title lang="es">Birthday Girl</sub-title>
+    <desc lang="es">Un pingüino silvestre recibe tratamiento para una herida de vida o muerte, dos habitantes de la casa entran en una lucha desagradable y uno de los residentes de largo plazo celebra una ocasión especial. Temporada:01,Episodio:06.(n)</desc>
+    <date>2017</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220924131900 -0500" stop="20220924134800 -0500" channel="Animal Planet!">
+    <title lang="es">Vida azul</title>
+    <title lang="es">Vida no Azul - Evolução</title>
+    <sub-title lang="es">Evolución</sub-title>
+    <desc lang="es">Este episodio muestra cobras venenosas, cocodrilos en medio del océano, peces pequeños que imitan corales y peces que cazan fuera del agua. Temporada:01,Episodio:05.(n)</desc>
+    <credits>
+      <director>Joao Krajewski</director>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220924134800 -0500" stop="20220924141700 -0500" channel="Animal Planet!">
+    <title lang="es">Vida azul</title>
+    <title lang="es">Vida no Azul - Para Além do Recife</title>
+    <sub-title lang="es">Más allá del arrecife</sub-title>
+    <desc lang="es">Aunque muchas especies marinas viven cerca de los arrecifes, hay una variedad de seres que se aventuran más allá de estos entornos. Temporada:01,Episodio:06.(n)</desc>
+    <credits>
+      <director>Joao Krajewski</director>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220924141700 -0500" stop="20220924151300 -0500" channel="Animal Planet!">
+    <title lang="es">Así cazan los tiburones</title>
+    <title lang="es">How Sharks Hunt</title>
+    <desc lang="es">La ferocidad extraordinaria de los tiburones y métodos especializados de caza hace a esos animales perfectas máquinas asesinas.(n)</desc>
+    <rating system="CO">
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220924151300 -0500" stop="20220924160900 -0500" channel="Animal Planet!">
+    <title lang="es">Expedición a lo desconocido: Megalodón</title>
+    <title lang="es">Expedition Unknown: Megalodon</title>
+    <desc lang="es">Josh Gates se sumerge en un mar repleto de tiburones para develar el misterio de la desaparición del megalodón, uno de los peces más grandes que ha existido.(n)</desc>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220924160900 -0500" stop="20220924170500 -0500" channel="Animal Planet!">
+    <title lang="es">El gran mako: Depredador perfecto</title>
+    <title lang="es">Monster Mako: Perfect Predator</title>
+    <desc lang="es">Programa sobre la búsqueda del escurridizo tiburón marrajo. Además, nuevas imágenes capturadas en la costa de California revelan un comportamiento extraño del tiburón.(n)</desc>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220924170500 -0500" stop="20220924180400 -0500" channel="Animal Planet!">
+    <title lang="es">Ríos de África</title>
+    <title lang="es">Wild Africa: Rivers of Life</title>
+    <sub-title lang="es">Hoanib, el río seco</sub-title>
+    <desc lang="es">El río Hoanib fluye a través del valle de Hoanib, en Namibia, y atraviesa el desierto namibio hasta desembocar en el océano Atlántico. El río solo lleva agua durante dos semanas al año, pero cambia por completo todo aquello próximo a su curso. Temporada:01,Episodio:03.(n)</desc>
+    <credits>
+      <actor>Bray Poor</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220924180400 -0500" stop="20220924190200 -0500" channel="Animal Planet!">
+    <title lang="es">Con el agua al cuello</title>
+    <title lang="es">Tanked - Wyclef's Tank is Ready, or Not?</title>
+    <sub-title lang="es">Un productor legendario</sub-title>
+    <desc lang="es">El mundialmente famoso productor musical Wyclef Jean tiene una emergencia y llama a Brett y Wayde para arreglar dos acuarios. Temporada:12,Episodio:08.(n)</desc>
+    <credits>
+      <actor>Brett Raymer</actor>
+      <actor>Eric Neuhaus</actor>
+      <actor>Melinda Toporoff</actor>
+      <actor>Nancy Glass</actor>
+      <actor>Wayde King</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S12 E8</episode-num>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220924190200 -0500" stop="20220924200000 -0500" channel="Animal Planet!">
+    <title lang="es">Piscinas increíbles</title>
+    <title lang="es">Insane Pools: Off the Deep End - Rockin' It in Rocket City</title>
+    <sub-title lang="es">En la ciudad de los cohetes</sub-title>
+    <desc lang="es">Lucas crea una piscina, el sueño de una vida, de una pareja de militares retirados. Diseña los más grandes gruta, manantial y caída de agua inusual de su carrera. Temporada:02,Episodio:04.(n)</desc>
+    <credits>
+      <actor>Beth Greenwald</actor>
+      <actor>Danny Passman</actor>
+      <actor>Dawn Sinsel</actor>
+      <actor>Juliana Kim</actor>
+      <actor>Lucas Congdon</actor>
+      <actor>Vin Di Bona</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="es">Al aire libre/Naturaleza</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220924200000 -0500" stop="20220924205900 -0500" channel="Animal Planet!">
+    <title lang="es">El zoológico de San Diego</title>
+    <title lang="es">The Zoo: San Diego - Mabel's Joy</title>
+    <sub-title lang="es">La alegría de Mabel</sub-title>
+    <desc lang="es">Los hermanos hienas Puru y Tuli se preparan para compartir hábitat con los leones. Los miembros del personal están extasiados cuando la cebra Bacari muestra signos de estar embarazada. Temporada:02,Episodio:02.(n)</desc>
+    <credits>
+      <actor>Anneka Jones</actor>
+      <actor>Banks Tarver</actor>
+      <actor>Chad Walker</actor>
+      <actor>David LaMattina</actor>
+      <actor>Jessie Findlay</actor>
+      <actor>Ken Druckerman</actor>
+      <actor>Lisa Lucas</actor>
+      <actor>Michael LaHaie</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220924205900 -0500" stop="20220924215800 -0500" channel="Animal Planet!">
+    <title lang="es">Dr. Jeff, veterinario</title>
+    <title lang="es">Dr. Jeff: Rocky Mountain Vet - New Body for Lolly</title>
+    <sub-title lang="es">Un cuerpo nuevo para Lolly</sub-title>
+    <desc lang="es">El Dr. Jeff prepara a una Shiba Inu para que sea operada tras ser atropellada por un coche. El Dr. Baier realiza su primera operación de un ganso salvaje. Un Yorkshire terrier obeso que lucha por caminar comienza un estricto plan de adelgazamiento. Temporada:08,Episodio:07.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S8 E7</episode-num>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220924215800 -0500" stop="20220924225700 -0500" channel="Animal Planet!">
+    <title lang="es">Los Irwin: datos curiosos</title>
+    <title lang="es">Crikey! It's the Irwins: Extra Bites - Bindis Croc Trip Surprise</title>
+    <sub-title lang="es">Viaje sopresa para Bindi</sub-title>
+    <desc lang="es">Robert, Bindi y Terri comparten información nueva sobre el zoológico e imágenes de lo que ocurre detrás de las cámaras.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220924225700 -0500" stop="20220924235500 -0500" channel="Animal Planet!">
+    <title lang="es">Amanda al rescate</title>
+    <title lang="es">Amanda to the Rescue - Super Scootie the Super Senior</title>
+    <sub-title lang="es">Súper Scootie y Súper Senior</sub-title>
+    <desc lang="es">Amanda encuentra hogares para los animales rescatados en Hawái. Super Scootie tiene una malformación en sus piernas, entre otros problemas. Además, llega un nuevo animal rescatado, llamada Lily Rose. Temporada:02,Episodio:04.(n)</desc>
+    <credits>
+      <actor>Amanda Giese</actor>
+      <actor>Christopher Voos</actor>
+      <actor>David Frank</actor>
+      <actor>Keith Hoffman</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220924235500 -0500" stop="20220925002400 -0500" channel="Animal Planet!">
+    <title lang="es">S.O.S. Animal</title>
+    <desc lang="es">Carla y Marilym realizan una campaña de vacunación para los animales que sufrieron, junto a sus comunidades en Minas Gerais, los efectos de la cuarentena provocada por el coronavirus en 2020. Temporada:02,Episodio:01.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220925002400 -0500" stop="20220925005300 -0500" channel="Animal Planet!">
+    <title lang="es">S.O.S. Animal</title>
+    <desc lang="es">El equipo y la policía ambiental de la ciudad de Lafaiete se unen en una acción de rescate de animales tras una grave denuncia de maltrato. Temporada:02,Episodio:02.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220925005300 -0500" stop="20220925015100 -0500" channel="Animal Planet!">
+    <title lang="es">Pit bulls y convictos</title>
+    <title lang="es">Pit Bulls and Parolees - Love at First Sight</title>
+    <sub-title lang="es">Amor a primera vista</sub-title>
+    <desc lang="es">Kanani, el hijo de Tia, prepara su boda con M2, su prometida. El antiguo preso en libertad provisional Jammall encuentra a un perro que fue abandonado y le pide a Mariah ayuda para rescatarlo. Una mujer y su hijo quieren un perro para su familia. Temporada:13,Episodio:10.(n)</desc>
+    <credits>
+      <actor>Lisa Lucas</actor>
+      <actor>Rasha Drachkovitch</actor>
+      <actor>Tia Torres</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S13 E10</episode-num>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220925015100 -0500" stop="20220925024900 -0500" channel="Animal Planet!">
+    <title lang="es">Dra. Dee: Veterinaria de Alaska</title>
+    <title lang="es">Dr. Dee: Alaska Vet - Laundromat Surgery</title>
+    <sub-title lang="es">Laundromat Surgery</sub-title>
+    <desc lang="es">La Dra. Dee examina un gran caballo de un problema potencialmente mortal; él trata a un caballo miniatura guerrero. Temporada:01,Episodio:02.(n)</desc>
+    <credits>
+      <actor>Dr. Thornell</actor>
+      <actor>Scott Feeley</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220925024900 -0500" stop="20220925034500 -0500" channel="Animal Planet!">
+    <title lang="es">Solo y en peligro</title>
+    <title lang="es">I Was Prey - Wicked Bite</title>
+    <sub-title lang="es">Arándanos y serpientes</sub-title>
+    <desc lang="es">Jim Lane recoge arándanos solo en las Montañas Blue Ridge hasta que una serpiente de cascabel ataca; el nado de la maestra Rachael Lilienthal en un río de Florida se vuelve una lucha cuando un cocodrilo le muerde su brazo y la jala debajo del agua. Temporada:01,Episodio:02.(n)</desc>
+    <date>2017</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220925034500 -0500" stop="20220925044000 -0500" channel="Animal Planet!">
+    <title lang="es">Joe Exotic: Historia revelada</title>
+    <title lang="es">Surviving Joe Exotic</title>
+    <desc lang="es">Historias sobre los animales del negocio de cría de grandes felinos de Joe Exotic y aquellos que lograron encontrar refugios seguros después del arresto del excéntrico cuidador del zoológico.(n)</desc>
+    <rating system="CO">
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220925044000 -0500" stop="20220925053400 -0500" channel="Animal Planet!">
+    <title lang="es">Felinos sangrientos</title>
+    <title lang="es">Man-Eating Zombie Cats</title>
+    <desc lang="es">Un patógeno zombi está infectando a los grandes felinos en todo el mundo, convirtiéndolos en asesinos despiadados sin miedo, dirigidos a la raza humana.(n)</desc>
+    <rating system="CO">
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220925053400 -0500" stop="20220925060000 -0500" channel="Animal Planet!">
+    <title lang="es">Misterios del mundo animal</title>
+    <title lang="es">Nature's Strangest Mysteries: Solved - Crow Crime Scene</title>
+    <sub-title lang="es">La escena del crimen de los cuervos</sub-title>
+    <desc lang="es">Se echa un vistazo al comportamiento de unas arañas que cubren con sus telas a una ciudad durante el devenir de la noche. Temporada:01,Episodio:10.(n)</desc>
+    <credits>
+      <actor>Alexander McMorran</actor>
+      <actor>Andrew Nosal</actor>
+      <actor>Bradley Greive</actor>
+      <actor>Dagmar Midcap</actor>
+      <actor>Dan Riskin</actor>
+      <actor>Dan Schreiber</actor>
+      <actor>Forrest Galante</actor>
+      <actor>Fred Hepburn</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220925060000 -0500" stop="20220925063000 -0500" channel="Animal Planet!">
+    <title lang="es">Guardianes de borneo</title>
+    <title lang="es">Frontier Borneo - Lawa's Release</title>
+    <sub-title lang="es">La liberación de Lawa</sub-title>
+    <desc lang="es">Unos guardianes se enfrentan al peligro mientras tratan de liberar a un oso malayo de vuelta a la naturaleza. Temporada:01,Episodio:20.(n)</desc>
+    <credits>
+      <director>Chiara Bellati</director>
+      <director>Mark Orton</director>
+      <director>Philip Mulroy</director>
+      <actor>Chiara Bellati</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Series</category>
+    <category lang="es">Viajes</category>
+    <episode-num system="onscreen">S1 E20</episode-num>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220925063000 -0500" stop="20220925070000 -0500" channel="Animal Planet!">
+    <title lang="es">Hospital de pingüinos</title>
+    <title lang="es">Meet The Penguins - Marital Troubles</title>
+    <sub-title lang="es">Marital Troubles</sub-title>
+    <desc lang="es">El feliz matrimonio de Cedric, quien carece de ambas piernas, con su esposa Robin, enfrenta su mayor desafío. El joven Squeaker pone a prueba la paciencia de las personas y un pingüino salvaje llega con una herida que podría ser mortal. Temporada:01,Episodio:05.(n)</desc>
+    <date>2017</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220925070000 -0500" stop="20220925073000 -0500" channel="Animal Planet!">
+    <title lang="es">Meet The Penguins</title>
+    <sub-title lang="es">Birthday Girl</sub-title>
+    <desc lang="es">Un pingüino silvestre recibe tratamiento para una herida de vida o muerte, dos habitantes de la casa entran en una lucha desagradable y uno de los residentes de largo plazo celebra una ocasión especial. Temporada:01,Episodio:06.(n)</desc>
+    <date>2017</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220925073000 -0500" stop="20220925083000 -0500" channel="Animal Planet!">
+    <title lang="es">Dr. Jeff, veterinario</title>
+    <title lang="es">Dr. Jeff: Rocky Mountain Vet - Blown Away</title>
+    <sub-title lang="es">Volado</sub-title>
+    <desc lang="es">El doctor Jeff y su equipo ayudan a un perro extraviado durante una tormenta. Además, un pequeño pájaro con una gran personalidad, un perro paralítico abandonado y un caimán herido. Temporada:06,Episodio:03.(n)</desc>
+    <credits>
+      <actor>Alastair Cook</actor>
+      <actor>Dr. Amy Hutcheson</actor>
+      <actor>Dr. Donald Kraft</actor>
+      <actor>Dr. Jeff Baier</actor>
+      <actor>Dr. Jeff Young</actor>
+      <actor>Dr. Lindsay Matheson</actor>
+      <actor>Dr. Rachel Nichols</actor>
+      <actor>Dr. Shelly Hulen</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S6 E3</episode-num>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220925083000 -0500" stop="20220925090000 -0500" channel="Animal Planet!">
+    <title lang="es">Programa pagado</title>
+    <title lang="es">Paid Programming</title>
+    <desc lang="es">Programa que muestra diversos productos para la venta.(n)</desc>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220925090000 -0500" stop="20220925093000 -0500" channel="Animal Planet!">
+    <title lang="es">Programa pagado</title>
+    <title lang="es">Paid Programming</title>
+    <desc lang="es">Programa que muestra diversos productos para la venta.(n)</desc>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220925093000 -0500" stop="20220925100000 -0500" channel="Animal Planet!">
+    <title lang="es">Programa pagado</title>
+    <title lang="es">Paid Programming</title>
+    <desc lang="es">Programa que muestra diversos productos para la venta.(n)</desc>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220925100000 -0500" stop="20220925102400 -0500" channel="Animal Planet!">
+    <title lang="es">Misterios del mundo animal</title>
+    <title lang="es">Nature's Strangest Mysteries: Solved - Octopus Houdini</title>
+    <sub-title lang="es">El pulpo Houdini</sub-title>
+    <desc lang="es">Un vistazo a algunos de los misterios de la naturaleza, entre ellos un pájaro que puede cantar sin usar su voz y un pulpo que puede desaparecer de su acuario. Temporada:01,Episodio:07.(n)</desc>
+    <credits>
+      <actor>Alexander McMorran</actor>
+      <actor>Andrew Nosal</actor>
+      <actor>Bradley Greive</actor>
+      <actor>Dagmar Midcap</actor>
+      <actor>Dan Riskin</actor>
+      <actor>Dan Schreiber</actor>
+      <actor>Forrest Galante</actor>
+      <actor>Fred Hepburn</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220925102400 -0500" stop="20220925112100 -0500" channel="Animal Planet!">
+    <title lang="es">El Genio de las Piscinas</title>
+    <title lang="es">The Pool Master - Edible Pool</title>
+    <sub-title lang="es">Piscina Orgánica</sub-title>
+    <desc lang="es">Un restaurante orgánico en Ojai, California, llevado por una familia, se hace con un jardín comestible. Como Anthony y su equipo construyen todo de forma natural y sostenible, los productos químicos no están permitidos en este restaurante. Temporada:01,Episodio:02.(n)</desc>
+    <credits>
+      <actor>Anthony Archer-Wills</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Al aire libre/Naturaleza</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220925112100 -0500" stop="20220925121800 -0500" channel="Animal Planet!">
+    <title lang="es">Felinos sangrientos</title>
+    <title lang="es">Man-Eating Zombie Cats</title>
+    <desc lang="es">Un patógeno zombi está infectando a los grandes felinos en todo el mundo, convirtiéndolos en asesinos despiadados sin miedo, dirigidos a la raza humana.(n)</desc>
+    <rating system="CO">
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220925121800 -0500" stop="20220925131500 -0500" channel="Animal Planet!">
+    <title lang="es">Las Tigresas de Telia</title>
+    <title lang="es">Tigress Blood</title>
+    <desc lang="es">Cuando cuatro hermanas tigresas luchan por el control de su patria, deben elegir cazar juntas o perecer.(n)</desc>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220925131500 -0500" stop="20220925141300 -0500" channel="Animal Planet!">
+    <title lang="es">Joe Exotic: Historia revelada</title>
+    <title lang="es">Surviving Joe Exotic</title>
+    <desc lang="es">Historias sobre los animales del negocio de cría de grandes felinos de Joe Exotic y aquellos que lograron encontrar refugios seguros después del arresto del excéntrico cuidador del zoológico.(n)</desc>
+    <rating system="CO">
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220925141300 -0500" stop="20220925151100 -0500" channel="Animal Planet!">
+    <title lang="es">Islas de Indonesia</title>
+    <title lang="es">Wildest Islands Of Indonesia - Kingdom Of Giants</title>
+    <sub-title lang="es">Reino de gigantes</sub-title>
+    <desc lang="es">Los ecosistemas diversos de las 17.000 islas que conforman Indonesia, hogar de las criaturas más grandes del reino animal, como la serpiente más grande del planeta. Temporada:01,Episodio:01.(n)</desc>
+    <credits>
+      <director>Poppy Riddle</director>
+      <actor>Allison Bean</actor>
+      <actor>Colin Collis</actor>
+      <actor>Paul McGann</actor>
+      <actor>Poppy Riddle</actor>
+      <actor>Rob Holloway</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220925151100 -0500" stop="20220925160900 -0500" channel="Animal Planet!">
+    <title lang="es">Islas de Indonesia</title>
+    <title lang="es">Wildest Islands Of Indonesia - Volcano Nation</title>
+    <sub-title lang="es">Volcanes</sub-title>
+    <desc lang="es">En Indonesia hay más volcanes activos que en cualquier otro país del mundo. ¿Cómo logró la fauna y flora del lugar adaptarse a las exigencias específicas de este ambiente único? Temporada:01,Episodio:03.(n)</desc>
+    <credits>
+      <director>Poppy Riddle</director>
+      <actor>Allison Bean</actor>
+      <actor>Colin Collis</actor>
+      <actor>Paul McGann</actor>
+      <actor>Poppy Riddle</actor>
+      <actor>Rob Holloway</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220925160900 -0500" stop="20220925170900 -0500" channel="Animal Planet!">
+    <title lang="es">Islas de Indonesia</title>
+    <title lang="es">Wildest Islands Of Indonesia - Secret Worlds</title>
+    <sub-title lang="es">Mundos Secretos</sub-title>
+    <desc lang="es">Desde las profundidades del mar hasta las bóvedas formadas por el follaje de los árboles más altos, los mundos ocultos de algunas de las criaturas más fascinantes del planeta. Temporada:01,Episodio:04.(n)</desc>
+    <credits>
+      <director>Poppy Riddle</director>
+      <actor>Allison Bean</actor>
+      <actor>Colin Collis</actor>
+      <actor>Paul McGann</actor>
+      <actor>Poppy Riddle</actor>
+      <actor>Rob Holloway</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220925170900 -0500" stop="20220925180900 -0500" channel="Animal Planet!">
+    <title lang="es">Historias de grandes felinos</title>
+    <title lang="es">Big Cat Tales - Battle on the Plains</title>
+    <sub-title lang="es">Batalla en la planicie</sub-title>
+    <desc lang="es">Bahati lucha por proteger a sus tres cachorros de babuinos y leones; las leonas Marsh cazan a un búfalo herido; Malaika se enfrenta a su pareja en una lucha con un gran impala macho; la llegada de seis leones machos pone en riesgo a la manada Marsh. Temporada:01,Episodio:03.(n)</desc>
+    <credits>
+      <director>Abraham Joffe</director>
+      <actor>Abraham Joffe</actor>
+      <actor>Angela Scott</actor>
+      <actor>Dawn Sinsel</actor>
+      <actor>Jackson Looseyia</actor>
+      <actor>Jonathan Scott</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220925180900 -0500" stop="20220925190600 -0500" channel="Animal Planet!">
+    <title lang="es">Mansiones en los árboles</title>
+    <title lang="es">Treehouse Masters - Ultimate Treehouses VI</title>
+    <sub-title lang="es">El arte de las mansiones en los árboles VI</sub-title>
+    <desc lang="es">Pete Nelson continúa en la búsqueda de las casas del árbol más espectaculares del mundo, apreciando su forma y funcionalidad, así como poniendo en evidencia los movimientos artísticos que influenciaron estas construcciones. Temporada:11,Episodio:11.(n)</desc>
+    <credits>
+      <actor>Christina Salway</actor>
+      <actor>Garry Kief</actor>
+      <actor>Jason Carey</actor>
+      <actor>Mark Grove</actor>
+      <actor>Pete Nelson</actor>
+      <actor>Troy Queen</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Al aire libre/Naturaleza</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S11 E11</episode-num>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220925190600 -0500" stop="20220925200200 -0500" channel="Animal Planet!">
+    <title lang="es">El genio de las piscinas</title>
+    <title lang="es">The Pool Master - Texas-Sized Pool</title>
+    <sub-title lang="es">Piscina Tamaño Texas</sub-title>
+    <desc lang="es">Anthony intenta combinar a la perfección su zona de piscina artificial en un lugar natural y amoroso para parejas, el paisaje de 300 acres de una pareja de enamorados al aire libre donde sus nietos pueden explorar de manera segura. Temporada:02,Episodio:06.(n)</desc>
+    <credits>
+      <actor>Anthony Archer-Wills</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Al aire libre/Naturaleza</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220925200200 -0500" stop="20220925210000 -0500" channel="Animal Planet!">
+    <title lang="es">Planeta inexplicable</title>
+    <title lang="es">Impossible Planet - Natures History Unraveled</title>
+    <sub-title lang="es">Revelaciones de la historia de la naturaleza</sub-title>
+    <desc lang="es">El Parque Nacional Nambung, en Australia, alberga algunas formaciones curiosas y un desierto fascinante, a solo minutos del océano. Temporada:01,Episodio:08.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220925210000 -0500" stop="20220925215600 -0500" channel="Animal Planet!">
+    <title lang="es">Costa Rica salvaje</title>
+    <title lang="es">Costa Rica: Land of Pure Life</title>
+    <desc lang="es">La vida y la muerte son compañeros cercanos en Costa Rica, y una gran cantidad de criaturas florecen a pesar de la constante amenaza de peligro.(n)</desc>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220925215600 -0500" stop="20220925225200 -0500" channel="Animal Planet!">
+    <title lang="es">Cocodrilo en la Mira: Costa Rica</title>
+    <title lang="es">Monster Croc Invasion</title>
+    <desc lang="es">Paul Bedard, el chico de los cocodrilos de Animal Planet, investiga el alarmante número de ataques de cocodrilos en Costa Rica.(n)</desc>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220925225200 -0500" stop="20220925232100 -0500" channel="Animal Planet!">
+    <title lang="es">Coyote Peterson: Aventuras salvajes</title>
+    <title lang="es">Coyote Peterson Project</title>
+    <desc lang="es">Una aventura salvaje para encontrar algunos de los animales más peligrosos e increíbles del planeta Tierra.(n)</desc>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220925232100 -0500" stop="20220925235000 -0500" channel="Animal Planet!">
+    <title lang="es">Coyote Peterson: Aventuras salvajes</title>
+    <title lang="es">Coyote Peterson: Brave the Wild - Into the Anacondas' Den</title>
+    <sub-title lang="es">La guarida de la anaconda</sub-title>
+    <desc lang="es">Coyote se dirige a Brasil para encontrarse con el caimán yacaré. Mientras nada junto a ellos en ríos infestados de pirañas, estudia sus personalidades. Temporada:01,Episodio:10.(n)</desc>
+    <credits>
+      <actor>Coyote Peterson</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220925235000 -0500" stop="20220926001900 -0500" channel="Animal Planet!">
+    <title lang="es">Hospital de pingüinos</title>
+    <title lang="es">Meet The Penguins</title>
+    <desc lang="es">La suerte no ayuda a un pollito abandonado y desventajado; a los cuatro meses, Little Bluey pesa más de 1 kilo. Temporada:01,Episodio:07.(n)</desc>
+    <date>2017</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220926001900 -0500" stop="20220926004800 -0500" channel="Animal Planet!">
+    <title lang="es">Hospital de pingüinos</title>
+    <title lang="es">Meet The Penguins - Sole Survivor</title>
+    <sub-title lang="es">Sole Survivor</sub-title>
+    <desc lang="es">Un ataque de leopardo a gran escala cerca de Ciudad del Cabo deja treinta y tres pingüinos muertos; el único superviviente es recogido por los guardaparques y llevado a Sanccob. Temporada:01,Episodio:08.(n)</desc>
+    <date>2017</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220926004800 -0500" stop="20220926011700 -0500" channel="Animal Planet!">
+    <title lang="es">Hospital de pingüinos</title>
+    <title lang="es">Meet The Penguins - Marital Troubles</title>
+    <sub-title lang="es">Marital Troubles</sub-title>
+    <desc lang="es">El feliz matrimonio de Cedric, quien carece de ambas piernas, con su esposa Robin, enfrenta su mayor desafío. El joven Squeaker pone a prueba la paciencia de las personas y un pingüino salvaje llega con una herida que podría ser mortal. Temporada:01,Episodio:05.(n)</desc>
+    <date>2017</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220926011700 -0500" stop="20220926014600 -0500" channel="Animal Planet!">
+    <title lang="es">Meet The Penguins</title>
+    <sub-title lang="es">Birthday Girl</sub-title>
+    <desc lang="es">Un pingüino silvestre recibe tratamiento para una herida de vida o muerte, dos habitantes de la casa entran en una lucha desagradable y uno de los residentes de largo plazo celebra una ocasión especial. Temporada:01,Episodio:06.(n)</desc>
+    <date>2017</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220926014600 -0500" stop="20220926024600 -0500" channel="Animal Planet!">
+    <title lang="es">Dr. Jeff, veterinario</title>
+    <title lang="es">Dr. Jeff: Rocky Mountain Vet - Blown Away</title>
+    <sub-title lang="es">Volado</sub-title>
+    <desc lang="es">El doctor Jeff y su equipo ayudan a un perro extraviado durante una tormenta. Además, un pequeño pájaro con una gran personalidad, un perro paralítico abandonado y un caimán herido. Temporada:06,Episodio:03.(n)</desc>
+    <credits>
+      <actor>Alastair Cook</actor>
+      <actor>Dr. Amy Hutcheson</actor>
+      <actor>Dr. Donald Kraft</actor>
+      <actor>Dr. Jeff Baier</actor>
+      <actor>Dr. Jeff Young</actor>
+      <actor>Dr. Lindsay Matheson</actor>
+      <actor>Dr. Rachel Nichols</actor>
+      <actor>Dr. Shelly Hulen</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S6 E3</episode-num>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220926024600 -0500" stop="20220926034200 -0500" channel="Animal Planet!">
+    <title lang="es">Guardianes del pantano</title>
+    <title lang="es">Guardians of the Glades - Snakes in the Dark</title>
+    <sub-title lang="es">Serpientes en la oscuridad</sub-title>
+    <desc lang="es">Dusty conduce al equipo hacia una fábrica de misiles abandonada cerca del epicentro de una plaga de serpientes que podría contener la mayor concentración de pitones del parque nacional. Temporada:01,Episodio:04.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Al aire libre/Naturaleza</category>
+    <category lang="es">Animales</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="CO">
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220926034200 -0500" stop="20220926043800 -0500" channel="Animal Planet!">
+    <title lang="es">Dr. Jeff, veterinario</title>
+    <title lang="es">Dr. Jeff: Rocky Mountain Vet - New Body for Lolly</title>
+    <sub-title lang="es">Un cuerpo nuevo para Lolly</sub-title>
+    <desc lang="es">El Dr. Jeff prepara a una Shiba Inu para que sea operada tras ser atropellada por un coche. El Dr. Baier realiza su primera operación de un ganso salvaje. Un Yorkshire terrier obeso que lucha por caminar comienza un estricto plan de adelgazamiento. Temporada:08,Episodio:07.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S8 E7</episode-num>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220926043800 -0500" stop="20220926053400 -0500" channel="Animal Planet!">
+    <title lang="es">Los Irwin: datos curiosos</title>
+    <title lang="es">Crikey! It's the Irwins: Extra Bites - Bindis Croc Trip Surprise</title>
+    <sub-title lang="es">Viaje sopresa para Bindi</sub-title>
+    <desc lang="es">Robert, Bindi y Terri comparten información nueva sobre el zoológico e imágenes de lo que ocurre detrás de las cámaras.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220926053400 -0500" stop="20220926060000 -0500" channel="Animal Planet!">
+    <title lang="es">Misterios del mundo animal</title>
+    <title lang="es">Nature's Strangest Mysteries: Solved - Octopus Houdini</title>
+    <sub-title lang="es">El pulpo Houdini</sub-title>
+    <desc lang="es">Un vistazo a algunos de los misterios de la naturaleza, entre ellos un pájaro que puede cantar sin usar su voz y un pulpo que puede desaparecer de su acuario. Temporada:01,Episodio:07.(n)</desc>
+    <credits>
+      <actor>Alexander McMorran</actor>
+      <actor>Andrew Nosal</actor>
+      <actor>Bradley Greive</actor>
+      <actor>Dagmar Midcap</actor>
+      <actor>Dan Riskin</actor>
+      <actor>Dan Schreiber</actor>
+      <actor>Forrest Galante</actor>
+      <actor>Fred Hepburn</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220926060000 -0500" stop="20220926063000 -0500" channel="Animal Planet!">
+    <title lang="es">Guardianes de borneo</title>
+    <title lang="es">Frontier Borneo - Earthquake Revisited</title>
+    <sub-title lang="es">El recuerdo del terremoto</sub-title>
+    <desc lang="es">Los sobrevivientes de un devastador terremoto en el monte Kinabalu se reúnen de nuevo, un año después, en el lugar donde ocurrió la tragedia. Temporada:01,Episodio:17.(n)</desc>
+    <credits>
+      <director>Chiara Bellati</director>
+      <director>Mark Orton</director>
+      <director>Philip Mulroy</director>
+      <actor>Chiara Bellati</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Series</category>
+    <category lang="es">Viajes</category>
+    <episode-num system="onscreen">S1 E17</episode-num>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220926063000 -0500" stop="20220926073000 -0500" channel="Animal Planet!">
+    <title lang="es">El acuario</title>
+    <title lang="es">The Aquarium - Four Chicks and Counting</title>
+    <sub-title lang="es">Cuatro y contando</sub-title>
+    <desc lang="es">Una colonia de pingüinos africanos aumenta la población tras la temporada de apareamiento. La nutria marina Mara se presenta ante el resto de la manada y se examina a la población de delfines nariz de botella de Florida. Temporada:02,Episodio:06.(n)</desc>
+    <credits>
+      <actor>Dave LaMattina</actor>
+      <actor>Lisa Lucas</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220926073000 -0500" stop="20220926083000 -0500" channel="Animal Planet!">
+    <title lang="es">El zoológico del Bronx</title>
+    <title lang="es">The Zoo - A Warthog Named Peaches</title>
+    <sub-title lang="es">Un jabalí verrugoso llamado Peaches</sub-title>
+    <desc lang="es">Un jabalí de dos meses fascina a los cuidadores mientras entrena para convertirse en embajador animal. Un rinoceronte intenta ajustarse, mientras un panda rojo muestra señales de embarazo. Temporada:03,Episodio:08.(n)</desc>
+    <credits>
+      <actor>Banks Tarver</actor>
+      <actor>Chad Walker</actor>
+      <actor>David LaMattina</actor>
+      <actor>Ken Druckerman</actor>
+      <actor>Lisa Lucas</actor>
+      <actor>Patrick Keegan</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S3 E8</episode-num>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220926083000 -0500" stop="20220926090000 -0500" channel="Animal Planet!">
+    <title lang="es">Programa pagado</title>
+    <title lang="es">Paid Programming</title>
+    <desc lang="es">Programa que muestra diversos productos para la venta.(n)</desc>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220926090000 -0500" stop="20220926093000 -0500" channel="Animal Planet!">
+    <title lang="es">Programa pagado</title>
+    <title lang="es">Paid Programming</title>
+    <desc lang="es">Programa que muestra diversos productos para la venta.(n)</desc>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220926093000 -0500" stop="20220926100000 -0500" channel="Animal Planet!">
+    <title lang="es">Programa pagado</title>
+    <title lang="es">Paid Programming</title>
+    <desc lang="es">Programa que muestra diversos productos para la venta.(n)</desc>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220926100000 -0500" stop="20220926102400 -0500" channel="Animal Planet!">
+    <title lang="es">Misterios del mundo animal</title>
+    <title lang="es">Nature's Strangest Mysteries: Solved - Animal Vandals</title>
+    <sub-title lang="es">Animales vándalos</sub-title>
+    <desc lang="es">Se echa un vistazo a los animales que se entrometen en autos. Cómo las hormigas construyen puentes con sus propios cuerpos. Temporada:01,Episodio:09.(n)</desc>
+    <credits>
+      <actor>Alexander McMorran</actor>
+      <actor>Andrew Nosal</actor>
+      <actor>Bradley Greive</actor>
+      <actor>Dagmar Midcap</actor>
+      <actor>Dan Riskin</actor>
+      <actor>Dan Schreiber</actor>
+      <actor>Forrest Galante</actor>
+      <actor>Fred Hepburn</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220926102400 -0500" stop="20220926112400 -0500" channel="Animal Planet!">
+    <title lang="es">Alerta: Osos Intrusos</title>
+    <title lang="es">Blonde vs. Bear - Breaking Point</title>
+    <sub-title lang="es">Punto de quiebre</sub-title>
+    <desc lang="es">Ann Bryant comienza su campaña para salvar a los osos negros del Lago Tahoe. Temporada:01,Episodio:01.(n)</desc>
+    <date>2011</date>
+    <category lang="es">Al aire libre/Naturaleza</category>
+    <category lang="es">Animales</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220926112400 -0500" stop="20220926115300 -0500" channel="Animal Planet!">
+    <title lang="es">Cazadores de Serpientes</title>
+    <title lang="es">Rattlesnake Republic - Snakes on a Stage</title>
+    <sub-title lang="es">Serpientes en el Escenario</sub-title>
+    <desc lang="es">Leroy se prepara para dar a conocer su producto súper secreto en el Festival del Maní de Floresville; Robert y Shawn llevan sus proezas a nuevos límites. Temporada:03,Episodio:03.(n)</desc>
+    <date>2014</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220926115300 -0500" stop="20220926122200 -0500" channel="Animal Planet!">
+    <title lang="es">Cazadores de Serpientes</title>
+    <title lang="es">Rattlesnake Republic - Showdown</title>
+    <sub-title lang="es">Enfrentamiento</sub-title>
+    <desc lang="es">Riley y el Equipo Bibby trabajan juntos para deshacer a Spooky Ghost Town de serpientes de cascabel antes de que abran las puertas; alguien tiene que estar recordando a Riley "no diversión" para que puedan terminar el trabajo a tiempo. Temporada:03,Episodio:04.(n)</desc>
+    <date>2014</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220926122200 -0500" stop="20220926131900 -0500" channel="Animal Planet!">
+    <title lang="es">Guardianes del pantano</title>
+    <title lang="es">Guardians of the Glades - Snakes in the Dark</title>
+    <sub-title lang="es">Serpientes en la oscuridad</sub-title>
+    <desc lang="es">Dusty conduce al equipo hacia una fábrica de misiles abandonada cerca del epicentro de una plaga de serpientes que podría contener la mayor concentración de pitones del parque nacional. Temporada:01,Episodio:04.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Al aire libre/Naturaleza</category>
+    <category lang="es">Animales</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="CO">
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220926131900 -0500" stop="20220926141600 -0500" channel="Animal Planet!">
+    <title lang="es">Supervivencia salvaje</title>
+    <title lang="es">Wildest Survival - Cold Blooded Creatures</title>
+    <sub-title lang="es">Criaturas de sangre fría</sub-title>
+    <desc lang="es">Los animales de sangre fría, como reptiles, anfibios, peces e insectos, han desarrollado habilidades asombrosas para sobrevivir. Lo esencial, en su caso, es regular la temperatura corporal mediante la exposición a la luz solar. Temporada:02,Episodio:09.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220926141600 -0500" stop="20220926151300 -0500" channel="Animal Planet!">
+    <title lang="es">Supervivencia salvaje</title>
+    <title lang="es">Wildest Survival - Animal Oddities</title>
+    <sub-title lang="es">Curiosidades del reino animal</sub-title>
+    <desc lang="es">En cuanto al aspecto y el comportamiento, algunos animales pueden parecer muy extraños. Sin embargo, cada peculiaridad indica una adaptación necesaria a las condiciones de vida de su entorno. Temporada:02,Episodio:10.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S2 E10</episode-num>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220926151300 -0500" stop="20220926161000 -0500" channel="Animal Planet!">
+    <title lang="es">Pesca de Gigantes</title>
+    <title lang="es">Catching Monsters - Tug of War</title>
+    <sub-title lang="es">La Hora de la Verdad</sub-title>
+    <desc lang="es">El frío podría empujar el atún al sur; Trevor se dirige a recuperar el Bluefiin con sólo una línea de mano; un nuevo cliente podría llevar un día de pago para Steve Clapperton. Temporada:01,Episodio:04.(n)</desc>
+    <date>2015</date>
+    <category lang="es">Pesca</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220926161000 -0500" stop="20220926170700 -0500" channel="Animal Planet!">
+    <title lang="es">Monstruos de río: aguas desconocidas</title>
+    <title lang="es">Jeremy Wade's Dark Waters - Italy's Lake Monster</title>
+    <sub-title lang="es">El monstruo del lago de Italia</sub-title>
+    <desc lang="es">Jeremy viaja a Italia para investigar la presencia de un monstruo acuático, del cual hablan las crónicas desde el siglo XVI, que habita en el lago Garda, al norte del país. Temporada:01,Episodio:01.(n)</desc>
+    <credits>
+      <actor>Andie Clare</actor>
+      <actor>Jeremy Wade</actor>
+      <actor>Laura Marshall</actor>
+      <actor>Lisa Lucas</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Al aire libre/Naturaleza</category>
+    <category lang="es">Animales</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220926170700 -0500" stop="20220926180400 -0500" channel="Animal Planet!">
+    <title lang="es">Pescadores al límite</title>
+    <title lang="es">Fish or Die - Lair of the River Wolf</title>
+    <sub-title lang="es">La guarida del taimen</sub-title>
+    <desc lang="es">El equipo se dirige a Mongolia para encontrar al hucho taimen, la especie más feroz de la familia del salmón. Temporada:01,Episodio:03.(n)</desc>
+    <credits>
+      <actor>Brian Jill</actor>
+      <actor>Chris Owens</actor>
+      <actor>Jay Johnson</actor>
+      <actor>Thad Robison</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Al aire libre/Naturaleza</category>
+    <category lang="es">Pesca</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="CO">
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220926180400 -0500" stop="20220926190100 -0500" channel="Animal Planet!">
+    <title lang="es">Wild Frank en África</title>
+    <desc lang="es">Frank sigue los pasos del Dr. David Livingstone a través de la misteriosa África: desde la Abadía de Westminster, donde descansa el Dr. Livingstone, hasta Chitambo, en Zambia, donde está enterrado su corazón. Temporada:02,Episodio:01.(n)</desc>
+    <credits>
+      <actor>Frank Cuesta</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220926190100 -0500" stop="20220926200100 -0500" channel="Animal Planet!">
+    <title lang="es">Con el agua al cuello</title>
+    <title lang="es">Tanked - Healing Garden Waterfall</title>
+    <sub-title lang="es">La cascada</sub-title>
+    <desc lang="es">Quieren un acuario más grande y mejor para la marca Salt Life. Wayde y Brett deben construir una cascada a medida en Las Vegas. Temporada:14,Episodio:18.(n)</desc>
+    <credits>
+      <actor>Brett Raymer</actor>
+      <actor>Eric Neuhaus</actor>
+      <actor>Melinda Toporoff</actor>
+      <actor>Nancy Glass</actor>
+      <actor>Wayde King</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S14 E18</episode-num>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220926200100 -0500" stop="20220926210000 -0500" channel="Animal Planet!">
+    <title lang="es">Entre perros y gatos</title>
+    <title lang="es">Cat vs. Dog - Vampire Cats!</title>
+    <sub-title lang="es">Gatos vampiros</sub-title>
+    <desc lang="es">Jackson y Zoe encuentran dos gatos que nunca se han visto en el día porque se esconden en los gabinetes para evitar a los tres perros gigantes con los que viven; algunos miembros de la familia dicen que su querido perro está aterrorizado por su gato. Temporada:01,Episodio:04.(n)</desc>
+    <date>2017</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220926210000 -0500" stop="20220926215900 -0500" channel="Animal Planet!">
+    <title lang="es">Dr. Jeff, veterinario</title>
+    <title lang="es">Dr. Jeff: Rocky Mountain Vet - A Far Away Home</title>
+    <sub-title lang="es">Lejos de casa</sub-title>
+    <desc lang="es">El equipo viaja a Rumania para ayudar con un problema con perros callejeros. Un perro sordo necesita una cirugía compleja. Un bisonte europeo herido lleva al equipo a las montañas. Temporada:04,Episodio:09.(n)</desc>
+    <credits>
+      <actor>Alastair Cook</actor>
+      <actor>Dr. Amy Hutcheson</actor>
+      <actor>Dr. Donald Kraft</actor>
+      <actor>Dr. Jeff Baier</actor>
+      <actor>Dr. Jeff Young</actor>
+      <actor>Dr. Lindsay Matheson</actor>
+      <actor>Dr. Rachel Nichols</actor>
+      <actor>Dr. Shelly Hulen</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S4 E9</episode-num>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220926215900 -0500" stop="20220926225800 -0500" channel="Animal Planet!">
+    <title lang="es">Dra. Dee: Veterinaria de Alaska</title>
+    <title lang="es">Dr. Dee: Alaska Vet - Against All Odds</title>
+    <sub-title lang="es">Contra todos los pronósticos</sub-title>
+    <desc lang="es">Dr Dree y Ken se dirigen a Eagle, Alaska, a una clínica veterinaria. Un perro que sufrió un ataque necesita una cirugía de emergencia. Chequeando embarazo de vacas de un granjero. Temporada:02,Episodio:04.(n)</desc>
+    <credits>
+      <actor>Dawn Sinsel</actor>
+      <actor>Dr. Thornell</actor>
+      <actor>Jim Berger</actor>
+      <actor>Sarah Presta</actor>
+      <actor>Scott Feeley</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating system="CO">
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220926225800 -0500" stop="20220926235700 -0500" channel="Animal Planet!">
+    <title lang="es">El zoológico de San Diego</title>
+    <title lang="es">The Zoo: San Diego - Mkhaya Discovers Her Trunk</title>
+    <sub-title lang="es">Mkhaya descubre su trompa</sub-title>
+    <desc lang="es">Mkhaya, el bebé elefante más pequeño de la manada, aprende a utilizar su trompa. Alba, la osa andina, es una posible madre primeriza. Los veterinarios del zoológico revisan a Mandazzi el gorila. Jeff busca a la escurridiza culebra parchada. Temporada:01,Episodio:10.(n)</desc>
+    <credits>
+      <actor>Anneka Jones</actor>
+      <actor>Banks Tarver</actor>
+      <actor>Ben Nevitt</actor>
+      <actor>Chad Walker</actor>
+      <actor>Dave LaMattina</actor>
+      <actor>Evan Miracle</actor>
+      <actor>Hali O'Connor</actor>
+      <actor>Jeff Lemm</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220926235700 -0500" stop="20220927005500 -0500" channel="Animal Planet!">
+    <title lang="es">Pit bulls y convictos</title>
+    <title lang="es">Pit Bulls and Parolees - Left for Dead</title>
+    <sub-title lang="es">Dado por muerto</sub-title>
+    <desc lang="es">Tia se apresura en rescatar a un cachorro raquítico encadenado a una casa abandonada; una pareja visita VRC con la esperanza de encontrar un hermano menor para su perro; un buen samaritano necesita ayuda para rescatar a una perra callejera. Temporada:11,Episodio:09.(n)</desc>
+    <credits>
+      <actor>Lisa Lucas</actor>
+      <actor>Rasha Drachkovitch</actor>
+      <actor>Tia Torres</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S11 E9</episode-num>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220927005500 -0500" stop="20220927015300 -0500" channel="Animal Planet!">
+    <title lang="es">El acuario</title>
+    <title lang="es">The Aquarium - Four Chicks and Counting</title>
+    <sub-title lang="es">Cuatro y contando</sub-title>
+    <desc lang="es">Una colonia de pingüinos africanos aumenta la población tras la temporada de apareamiento. La nutria marina Mara se presenta ante el resto de la manada y se examina a la población de delfines nariz de botella de Florida. Temporada:02,Episodio:06.(n)</desc>
+    <credits>
+      <actor>Dave LaMattina</actor>
+      <actor>Lisa Lucas</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220927015300 -0500" stop="20220927025100 -0500" channel="Animal Planet!">
+    <title lang="es">El zoológico del Bronx</title>
+    <title lang="es">The Zoo - A Warthog Named Peaches</title>
+    <sub-title lang="es">Un jabalí verrugoso llamado Peaches</sub-title>
+    <desc lang="es">Un jabalí de dos meses fascina a los cuidadores mientras entrena para convertirse en embajador animal. Un rinoceronte intenta ajustarse, mientras un panda rojo muestra señales de embarazo. Temporada:03,Episodio:08.(n)</desc>
+    <credits>
+      <actor>Banks Tarver</actor>
+      <actor>Chad Walker</actor>
+      <actor>David LaMattina</actor>
+      <actor>Ken Druckerman</actor>
+      <actor>Lisa Lucas</actor>
+      <actor>Patrick Keegan</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S3 E8</episode-num>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220927025100 -0500" stop="20220927034600 -0500" channel="Animal Planet!">
+    <title lang="es">Planeta inexplicable</title>
+    <title lang="es">Impossible Planet - Natures History Unraveled</title>
+    <sub-title lang="es">Revelaciones de la historia de la naturaleza</sub-title>
+    <desc lang="es">El Parque Nacional Nambung, en Australia, alberga algunas formaciones curiosas y un desierto fascinante, a solo minutos del océano. Temporada:01,Episodio:08.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220927034600 -0500" stop="20220927044000 -0500" channel="Animal Planet!">
+    <title lang="es">Costa Rica salvaje</title>
+    <title lang="es">Wild Costa Rica</title>
+    <desc lang="es">La vida y la muerte son compañeros cercanos en Costa Rica, y una gran cantidad de criaturas florecen a pesar de la constante amenaza de peligro.(n)</desc>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220927044000 -0500" stop="20220927053400 -0500" channel="Animal Planet!">
+    <title lang="es">Cocodrilo en la Mira: Costa Rica</title>
+    <title lang="es">Monster Croc Invasion</title>
+    <desc lang="es">Paul Bedard, el chico de los cocodrilos de Animal Planet, investiga el alarmante número de ataques de cocodrilos en Costa Rica.(n)</desc>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220927053400 -0500" stop="20220927060000 -0500" channel="Animal Planet!">
+    <title lang="es">Misterios del mundo animal</title>
+    <title lang="es">Nature's Strangest Mysteries: Solved - Animal Vandals</title>
+    <sub-title lang="es">Animales vándalos</sub-title>
+    <desc lang="es">Se echa un vistazo a los animales que se entrometen en autos. Cómo las hormigas construyen puentes con sus propios cuerpos. Temporada:01,Episodio:09.(n)</desc>
+    <credits>
+      <actor>Alexander McMorran</actor>
+      <actor>Andrew Nosal</actor>
+      <actor>Bradley Greive</actor>
+      <actor>Dagmar Midcap</actor>
+      <actor>Dan Riskin</actor>
+      <actor>Dan Schreiber</actor>
+      <actor>Forrest Galante</actor>
+      <actor>Fred Hepburn</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220927060000 -0500" stop="20220927062900 -0500" channel="Animal Planet!">
+    <title lang="es">Guardianes de borneo</title>
+    <title lang="es">Borneo Rangers - The Shark Conundrum</title>
+    <sub-title lang="es">El enigma del tiburón</sub-title>
+    <desc lang="es">El experto en tiburones David McGuire se propone trasladar a un grupo de tiburones a un nuevo hogar. El activista Alex Yee se infiltra para tratar de exponer los oscuros secretos sobre el comercio de huevos de tortuga. Temporada:01,Episodio:12.(n)</desc>
+    <credits>
+      <director>Chiara Bellati</director>
+      <director>Mark Orton</director>
+      <director>Philip Mulroy</director>
+      <actor>Chiara Bellati</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Series</category>
+    <category lang="es">Viajes</category>
+    <episode-num system="onscreen">S1 E12</episode-num>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220927062900 -0500" stop="20220927073000 -0500" channel="Animal Planet!">
+    <title lang="es">El acuario</title>
+    <title lang="es">The Aquarium - Ghost Gators</title>
+    <sub-title lang="es">Lagartos fantasma</sub-title>
+    <desc lang="es">El equipo está ansioso por inaugurar la exhibición, en la que las estrellas son los caimanes albinos. Examinan a la nutria marina Gibson por si tuviera una infección. Los submarinistas deben extraerle una muestra de sangre al tiburón ballena Taroko. Temporada:02,Episodio:08.(n)</desc>
+    <credits>
+      <actor>Dave LaMattina</actor>
+      <actor>Lisa Lucas</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220927073000 -0500" stop="20220927083000 -0500" channel="Animal Planet!">
+    <title lang="es">El zoológico del Bronx</title>
+    <title lang="es">The Zoo - The Kings of Queens</title>
+    <sub-title lang="es">Los reyes de Queens</sub-title>
+    <desc lang="es">Tres crías de pingüino entran por primera vez en la piscina para nadar. Una manada de mandriles da la bienvenida a un nuevo miembro de la familia. Una pareja de cóndores reales está lista para su gran aparición en el zoológico de Queens. Temporada:03,Episodio:07.(n)</desc>
+    <credits>
+      <actor>Banks Tarver</actor>
+      <actor>Brenda DeCesare</actor>
+      <actor>Chad Walker</actor>
+      <actor>David LaMattina</actor>
+      <actor>Ken Druckerman</actor>
+      <actor>Lisa Lucas</actor>
+      <actor>Patrick Keegan</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S3 E7</episode-num>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220927083000 -0500" stop="20220927090000 -0500" channel="Animal Planet!">
+    <title lang="es">Programación pagada</title>
+    <title lang="es">Paid Programming</title>
+    <desc lang="es">Programa que muestra diversos productos para la venta.(n)</desc>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220927090000 -0500" stop="20220927093000 -0500" channel="Animal Planet!">
+    <title lang="es">Programación pagada</title>
+    <title lang="es">Paid Programming</title>
+    <desc lang="es">Programa que muestra diversos productos para la venta.(n)</desc>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220927093000 -0500" stop="20220927100000 -0500" channel="Animal Planet!">
+    <title lang="es">Programación pagada</title>
+    <title lang="es">Paid Programming</title>
+    <desc lang="es">Programa que muestra diversos productos para la venta.(n)</desc>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220927100000 -0500" stop="20220927102400 -0500" channel="Animal Planet!">
+    <title lang="es">Misterios del mundo animal</title>
+    <title lang="es">Nature's Strangest Mysteries: Solved - Scorpion Night Lights</title>
+    <sub-title lang="es">Las luces del escorpión</sub-title>
+    <desc lang="es">La razón por la cual un leopardo dejó escapar a su presa. Una amenazante masa oscura emerge en un lago islandés. Además, algunos escorpiones brillan en la oscuridad. Temporada:01,Episodio:16.(n)</desc>
+    <credits>
+      <actor>Alexander McMorran</actor>
+      <actor>Andrew Nosal</actor>
+      <actor>Bradley Greive</actor>
+      <actor>Dagmar Midcap</actor>
+      <actor>Dan Riskin</actor>
+      <actor>Dan Schreiber</actor>
+      <actor>Forrest Galante</actor>
+      <actor>Fred Hepburn</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S1 E16</episode-num>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220927102400 -0500" stop="20220927112100 -0500" channel="Animal Planet!">
+    <title lang="es">Guaridas con estilo</title>
+    <title lang="es">Animal Cribs - Bunny Beach Bungalow</title>
+    <sub-title lang="es">Un bungaló para los conejos</sub-title>
+    <desc lang="es">Antonio transforma un jardín descuidado en un oasis de playa para personas y conejos rescatados que incluye un recinto a prueba de depredadores. Temporada:02,Episodio:08.(n)</desc>
+    <credits>
+      <actor>Antonio Ballatore</actor>
+      <actor>Dave Greider</actor>
+      <actor>Lisa Lucas</actor>
+      <actor>Rob Hill</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220927112100 -0500" stop="20220927121800 -0500" channel="Animal Planet!">
+    <title lang="es">Piscinas increíbles</title>
+    <title lang="es">Insane Pools: Off the Deep End - Pool-a-Vida</title>
+    <sub-title lang="es">Pura vida</sub-title>
+    <desc lang="es">Lucas lleva el exotismo de Costa Rica a Plantation, Florida. Así, su equipo y él construyen un jardín con apariencia selvática que incluye una cancha de voley playa, una piscina con cascada y cueva y un spa. Temporada:03,Episodio:09.(n)</desc>
+    <credits>
+      <actor>Beth Greenwald</actor>
+      <actor>Danny Passman</actor>
+      <actor>Dawn Sinsel</actor>
+      <actor>Juliana Kim</actor>
+      <actor>Lucas Congdon</actor>
+      <actor>Vin Di Bona</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Al aire libre/Naturaleza</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S3 E9</episode-num>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220927121800 -0500" stop="20220927131500 -0500" channel="Animal Planet!">
+    <title lang="es">Piscinas increíbles</title>
+    <title lang="es">Insane Pools: Off the Deep End - Rocks of Love</title>
+    <sub-title lang="es">Espacio de amor</sub-title>
+    <desc lang="es">Unos clientes piden a Lucas que instale una piscina de inspiración mediterránea con un toque del Caribe en su jardín para celebrar su aniversario de bodas. El equipo construye un auténtico paraíso terrenal en el que hay un spa y un gimnasio. Temporada:03,Episodio:08.(n)</desc>
+    <credits>
+      <actor>Beth Greenwald</actor>
+      <actor>Danny Passman</actor>
+      <actor>Dawn Sinsel</actor>
+      <actor>Juliana Kim</actor>
+      <actor>Lucas Congdon</actor>
+      <actor>Vin Di Bona</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Al aire libre/Naturaleza</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S3 E8</episode-num>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220927131500 -0500" stop="20220927141400 -0500" channel="Animal Planet!">
+    <title lang="es">Con el agua al cuello</title>
+    <title lang="es">Tanked - Urijah Faber's Ultimate Fish Tank</title>
+    <sub-title lang="es">El acuario de Urijah Faber</sub-title>
+    <desc lang="es">El luchador de MMA Urijah Faber quiere que Wayde y Brett creen dos acuarios para su nuevo gimnasio y quiere que tengan un toque de océano; una pareja organiza una fiesta para The Marine Aquarium Convention. Temporada:14,Episodio:15.(n)</desc>
+    <credits>
+      <actor>Brett Raymer</actor>
+      <actor>Eric Neuhaus</actor>
+      <actor>Melinda Toporoff</actor>
+      <actor>Nancy Glass</actor>
+      <actor>Wayde King</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S14 E15</episode-num>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220927141400 -0500" stop="20220927151300 -0500" channel="Animal Planet!">
+    <title lang="es">Con el agua al cuello</title>
+    <title lang="es">Tanked - Healing Garden Waterfall</title>
+    <sub-title lang="es">La cascada</sub-title>
+    <desc lang="es">Quieren un acuario más grande y mejor para la marca Salt Life. Wayde y Brett deben construir una cascada a medida en Las Vegas. Temporada:14,Episodio:18.(n)</desc>
+    <credits>
+      <actor>Brett Raymer</actor>
+      <actor>Eric Neuhaus</actor>
+      <actor>Melinda Toporoff</actor>
+      <actor>Nancy Glass</actor>
+      <actor>Wayde King</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S14 E18</episode-num>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220927151300 -0500" stop="20220927154200 -0500" channel="Animal Planet!">
+    <title lang="es">Santuario de Orangutanes</title>
+    <title lang="es">Meet the Orangutans - Relocating a Wild Male</title>
+    <sub-title lang="es">Relocating a Wild Male</sub-title>
+    <desc lang="es">Chiquita tiene apenas tres años, pero tiene ataques de rabia dignos de un adulto, sobre todo cuando la separan de su cuidador favorito Ibri. Cuando la llaman a ayudar, Sue tiene una idea brillante. Temporada:01,Episodio:07.(n)</desc>
+    <credits>
+      <director>Phil Stebbing</director>
+      <actor>Bill Nighy</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220927154200 -0500" stop="20220927161100 -0500" channel="Animal Planet!">
+    <title lang="es">Santuario de Orangutanes</title>
+    <title lang="es">Meet the Orangutans - Baby Boom</title>
+    <sub-title lang="es">Baby Boom</sub-title>
+    <desc lang="es">Un cuarto de crías en el santuario lleno de recién llegados y más por venir; el macho dominante conocido como C.I.D. cree que es padre de todos las crías, pero tal vez no. Temporada:01,Episodio:08.(n)</desc>
+    <credits>
+      <director>Phil Stebbing</director>
+      <actor>Bill Nighy</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220927161100 -0500" stop="20220927164000 -0500" channel="Animal Planet!">
+    <title lang="es">Hospital de pingüinos</title>
+    <title lang="es">Meet The Penguins</title>
+    <desc lang="es">La suerte no ayuda a un pollito abandonado y desventajado; a los cuatro meses, Little Bluey pesa más de 1 kilo. Temporada:01,Episodio:07.(n)</desc>
+    <date>2017</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220927164000 -0500" stop="20220927170900 -0500" channel="Animal Planet!">
+    <title lang="es">Hospital de pingüinos</title>
+    <title lang="es">Meet The Penguins</title>
+    <desc lang="es">Un ataque de leopardo a gran escala cerca de Ciudad del Cabo deja treinta y tres pingüinos muertos; el único superviviente es recogido por los guardaparques y llevado a Sanccob. Temporada:01,Episodio:08.(n)</desc>
+    <date>2017</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220927170900 -0500" stop="20220927173800 -0500" channel="Animal Planet!">
+    <title lang="es">Vida azul</title>
+    <title lang="es">Vida no Azul - Viajantes</title>
+    <sub-title lang="es">Viajeros</sub-title>
+    <desc lang="es">Algunas criaturas marinas son capaces de recorrer distancias enormes. Se explican los motivos que tienen algunos de los mayores transeúntes del océano para regresar a determinados lugares. Temporada:01,Episodio:07.(n)</desc>
+    <credits>
+      <director>Joao Krajewski</director>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220927173800 -0500" stop="20220927180700 -0500" channel="Animal Planet!">
+    <title lang="es">Vida azul</title>
+    <title lang="es">Vida no Azul - Ilhas Oceânicas</title>
+    <sub-title lang="es">Islas oceánicas</sub-title>
+    <desc lang="es">Los ambientes marinos brindan innumerables oportunidades para que la vida se desarrolle y se disperse en el mar. Temporada:01,Episodio:08.(n)</desc>
+    <credits>
+      <director>Joao Krajewski</director>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220927180700 -0500" stop="20220927190300 -0500" channel="Animal Planet!">
+    <title lang="es">Wild Frank en África</title>
+    <sub-title lang="es">Sabana africana (II)</sub-title>
+    <desc lang="es">En el norte de Namibia, Frank continúa profundizando en la sociedad himba. Enseña en una escuela y ordeña con mujeres aldeanas. Temporada:02,Episodio:02.(n)</desc>
+    <credits>
+      <actor>Frank Cuesta</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="CO">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220927190300 -0500" stop="20220927200200 -0500" channel="Animal Planet!">
+    <title lang="es">Con el agua al cuello</title>
+    <title lang="es">Tanked - Clay Matthews' Green Bay Eel Tank</title>
+    <sub-title lang="es">El acuario de Clay Matthews</sub-title>
+    <desc lang="es">El jugador de la NFL Clay Matthews y su mujer están construyendo su casa y desean tener un tanque sofisticado que rememore su paso por los Green Bay Packers. Temporada:14,Episodio:17.(n)</desc>
+    <credits>
+      <actor>Brett Raymer</actor>
+      <actor>Eric Neuhaus</actor>
+      <actor>Melinda Toporoff</actor>
+      <actor>Nancy Glass</actor>
+      <actor>Wayde King</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S14 E17</episode-num>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220927200200 -0500" stop="20220927205900 -0500" channel="Animal Planet!">
+    <title lang="es">Monstruos de Río</title>
+    <title lang="es">River Monsters - Japanese Horrors</title>
+    <sub-title lang="es">Terror en Japón</sub-title>
+    <desc lang="es">Jeremy descubre que los monstruos del río japonés, como el Namazu y Kappa son como ningún otro.(n)</desc>
+    <credits>
+      <actor>Harry Marshall</actor>
+      <actor>Jeremy Wade</actor>
+      <actor>Lisa Lucas</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220927205900 -0500" stop="20220927215500 -0500" channel="Animal Planet!">
+    <title lang="es">Monstruos de Río</title>
+    <title lang="es">River Monsters - Russian Killer</title>
+    <sub-title lang="es">El asesino ruso</sub-title>
+    <desc lang="es">El pescador extremo Jeremy Wade busca peces de agua dulce que comen carne humana. Esta agitada aventura por el lado oscuro de la naturaleza combina la acción y la aventura con el misterio. Temporada:04,Episodio:05.(n)</desc>
+    <credits>
+      <actor>Harry Marshall</actor>
+      <actor>Jeremy Wade</actor>
+      <actor>Lisa Lucas</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="es">Animales</category>
+    <category lang="es">Series</category>
+    <episode-num system="onscreen">S4 E5</episode-num>
+    <rating system="CO">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20220927215500 -0500" stop="20220927225100 -0500" channel="Animal Planet!">
+    <title lang="es">El regreso del gran tiburón blanco</title>
+    <title lang="es">Return of the Great White Serial Killer</title>
+    <desc lang="es">Expertos tratan de descubrir por qué se ha producido una serie de grandes ataques de tiburones blancos con precisión de reloj en Surf Beach, Calif., en el mismo mes, cada dos años.(n)</desc>
+    <rating system="CO">
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220927225100 -0500" stop="20220927235000 -0500" channel="Animal Planet!">
+    <title lang="es">Tras la leyenda de Pie Grande</title>
+    <title lang="es">Finding Bigfoot</title>
+    <desc lang="es">Cuatro miembros de la Organización de Investigadores del Área de Pie Grande se embarcan en una misión para encontrar a la criatura. Desde los pequeños pueblos sureños hasta los lugares más remotos en Alaska y el Noroeste del Pacífico.(n)</desc>
+    <rating system="CO">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220927235000 -0500" stop="20220928004600 -0500" channel="Animal Planet!">
+    <title lang="es">Pescadores al límite</title>
+    <title lang="es">Fish or Die - Danger Down Under</title>
+    <sub-title lang="es">Peligro en Australia</sub-title>
+    <desc lang="es">El equipo emprende un viaje a Australia, donde tribus indígenas los guían en la búsqueda del pez barramundi. Temporada:01,Episodio:06.(n)</desc>
+    <credits>
+      <actor>Brian Jill</actor>
+      <actor>Chris Owens</actor>
+      <actor>Jay Johnson</actor>
+      <actor>Thad Robison</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Al aire libre/Naturaleza</category>
+    <category lang="es">Pesca</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="CO">
+      <value>PG-13</value>
+    </rating>
+  </programme>
   <programme start="20220924010000 -0500" stop="20220924013000 -0500" channel="Canal Uno (COL)">
     <title lang="es">Punto de luz</title>
     <desc lang="es">Familiares entregan sus peticiones para la oración por los enfermos; una reunión de sanidad para encontrar la cura por medio de la fuerza de la oración.(n)</desc>
@@ -7541,10 +9435,6 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220924162500 +0000" stop="20220924165500 +0000" channel="-UniMás">
-    <title lang="en">Programa Pagado</title>
-    <date>2021</date>
-  </programme>
   <programme start="20220924165500 +0000" stop="20220924175500 +0000" channel="-UniMás">
     <title lang="en">Lo Mejor de ¡Siéntese Quien Pueda! (new)</title>
     <date>2022</date>
@@ -9646,17 +11536,6 @@
     <country lang="es">FR</country>
     <rating system="MJColombia">
       <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20220924162500 +0000" stop="20220924164600 +0000" channel="Love Nature!">
-    <title lang="es">Batalla de los alfas</title>
-    <sub-title lang="es">Sudáfrica</sub-title>
-    <desc lang="es">Aprende las formas inteligentes en que los animales evitan convertirse en comida en una tierra mortal donde todo está en el menú. Conoce a un pez diseñado para fallar, lucha contra ñus enloquecidos, únete a una turba asesina de suricatas y conviértete en una fuerza destructiva con un enjambre de langostas.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/88/12886621_B66BC65A4E1F10A8.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S1 E11</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
     </rating>
   </programme>
   <programme start="20220924164600 +0000" stop="20220924171500 +0000" channel="Love Nature!">
@@ -12846,1400 +14725,6 @@
     <episode-num system="onscreen">S3 E15</episode-num>
     <rating>
       <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20220924145900 +0000" stop="20220924165900 +0000" channel="Disney Channel!">
-    <title lang="es">Annie</title>
-    <desc lang="es">Annie es una pequeña huérfana que vive con su malvada madre adoptiva y que, a su corta edad, sabe defenderse muy bien en las calles de Nueva York. Su vida cambiará muy pronto, cuando conozca a Will Stacks, candidato a alcalde de la ciudad.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/55/12559973_43551B8C581BE7DD.jpg" />
-    <country lang="es">US</country>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220924165900 +0000" stop="20220924172600 +0000" channel="Disney Channel!">
-    <title lang="es">Star vs. las fuerzas del mal</title>
-    <sub-title lang="es">Ánimo, Star; Misión compras</sub-title>
-    <desc lang="es">Star y Marco deben navegar a través de una tienda en forma de laberinto, 'Quest Buy', para encontrar un nuevo cargador de varita.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/68/12688909_4C88077D32BCB521.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220924172600 +0000" stop="20220924175400 +0000" channel="Disney Channel!">
-    <title lang="es">Star vs. las fuerzas del mal</title>
-    <sub-title lang="es">El baile de la luna roja, Galletas de la fortuna</sub-title>
-    <desc lang="es">Una guerrera intergaláctica llega a la tierra para vivir junto a la familia Díaz. En este nuevo hogar continúa peleando con los villanos del universo mientras asiste a la escuela secundaria.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/02/10022726_0F3EF8D0A8D173B3.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220924175400 +0000" stop="20220924182100 +0000" channel="Disney Channel!">
-    <title lang="es">Star vs. las fuerzas del mal</title>
-    <sub-title lang="es">Star vs. Echo Arroyo, Mi media varita</sub-title>
-    <desc lang="es">Star huye después de aplastar accidentalmente un coche de policía. Star y Ludo luchan para que sus nuevas varillas funcionen correctamente.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/38/11388391_3343A1E674652060.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S2 E4</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220924182100 +0000" stop="20220924185000 +0000" channel="Disney Channel!">
-    <title lang="es">Star vs. las fuerzas del mal</title>
-    <sub-title lang="es">Bon bon, el payaso de cumpleaños</sub-title>
-    <desc lang="es">En el episodio de hoy, Star tiene dudas sobre asistir a una sesión de payasos, en lugar de asistit a un baile escolar con Marco.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/70/12701538_1EED3DAABEF0A59F.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S2 E14</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220924185000 +0000" stop="20220924191800 +0000" channel="Disney Channel!">
-    <title lang="es">Star vs. las fuerzas del mal</title>
-    <sub-title lang="es">La Batalla por Mewni: El libro se ha ido,Marco y el rey</sub-title>
-    <desc lang="es">A pesar de las terribles advertencias, Ludo intenta escribir un nuevo capítulo en el Libro de los Hechizos. King River no puede mantener el reino sin la reina luna.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/16/12167034_E9C85A47516AE51F.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S3 E2</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220924191800 +0000" stop="20220924195500 +0000" channel="Disney Channel!">
-    <title lang="es">Star vs. las fuerzas del mal</title>
-    <sub-title lang="es">Trampa Butterfly; Ludo, ¿dónde estás?</sub-title>
-    <desc lang="es">Moon y el Magic High Commission ponen a prueba a Eclipsa por su malvado pasado. Dennis emprende un viaje para encontrar a Ludo viviendo en otra dimensión.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/89/12895803_65E28F47AB3D1DCC.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S3 E16</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220924195500 +0000" stop="20220924202700 +0000" channel="Disney Channel!">
-    <title lang="es">Acampados</title>
-    <sub-title lang="es">By all memes</sub-title>
-    <desc lang="es">Emma quiere devolverle a todos sus teléfonos celulares; pues piensa que con la nueva aplicación Campstagram todos se volverán más unidos.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/88/12886691_EC91C1A92BCC8DCE.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S3 E6</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220924202700 +0000" stop="20220924212200 +0000" channel="Disney Channel!">
-    <title lang="es">Disney's Magic Bake-Off</title>
-    <sub-title lang="es">Holiday</sub-title>
-    <desc lang="es">La imaginación cobra vida y el trabajo en equipo triunfa cuando tres equipos de dos personas trabajan contrarreloj para crear los pasteles más sorprendentes inspirados en la magia de Disney. Cada pastelero se enfrenta a un estricto jurado quienes le dan desafíos divertidos con giros inesperados.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/88/12886613_E78DE0E5BB21407E.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S1 E12</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220924212200 +0000" stop="20220924220300 +0000" channel="Disney Channel!">
-    <title lang="es">Slime Chef</title>
-    <desc lang="es">Un slime muy ruidoso aparece en el reto de habilidad. Monstruos y caras son los protagonistas de los desafíos restantes.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/72/9720815_748F461F0CB82ED8.jpg" />
-    <episode-num system="onscreen">S1 E10</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220924220300 +0000" stop="20220924223300 +0000" channel="Disney Channel!">
-    <title lang="es">Prodigiosa: Las aventuras de Ladybug</title>
-    <sub-title lang="es">La verdad</sub-title>
-    <desc lang="es">Gabriel arregla el Peacock Miraculous y lo unifica con el Butterfly Miraculous para hacerlo el arma más poderosa.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/06/12067151_4E53EBF197343BC2.jpg" />
-    <country lang="es">FR</country>
-    <episode-num system="onscreen">S4 E1</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220924223300 +0000" stop="20220924230400 +0000" channel="Disney Channel!">
-    <title lang="es">El fantasma y Molly Mcgee</title>
-    <sub-title lang="es">Mamá y su ajetreo, ¡Viva Mollywood!</sub-title>
-    <desc lang="es">Cuando la camioneta de McGee se avería, la mamá de Molly decide aceptar trabajos ocasionales para ayudar a la familia a costear la reparación. Molly aprende que más dinero significa más problemas cuando se une a Andrea para crear una película de terror.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/88/12886637_F774905BF8F36410.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220924230400 +0000" stop="20220925004000 +0000" channel="Disney Channel!">
-    <title lang="es">Las aventuras del Niño Tiburón y la Niña de Fuego</title>
-    <desc lang="es">Max se convierte en un blanco para los matones. Un día, invoca accidentalmente personajes imaginarios en su mente llamados Sharkboy y Lavagirl. Ellos son sus héroes que lo defenderán a toda costa, pero necesitan un máximo de poder para salvar su mundo.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/52/11527910_02D8EAB99299E595.jpg" />
-    <country lang="es">US</country>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220925004000 +0000" stop="20220925020800 +0000" channel="Disney Channel!">
-    <title lang="es">La chica y el dragón</title>
-    <desc lang="es">Sara se hace amiga de un dragón que se encuentra perdido. A la aventura de estos dos se une un niño nerd y la lucha contra los administradores de la escuela, la policía y una banda de matones mientras buscan devolver al dragón con su familia.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/41/12416996_7A7E143DADE604A7.jpg" />
-    <country lang="es">NO</country>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220925020800 +0000" stop="20220925022200 +0000" channel="Disney Channel!">
-    <title lang="es">Star vs. las fuerzas del mal</title>
-    <sub-title lang="es">Dentro de la varita</sub-title>
-    <desc lang="es">Star le muestra a Glossaryck las fallas que aún tiene su varita, así que él la introduce en el interior de la varita para saber qué sucede con la parte rota de su esta.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/91/9917351_058375112359D045.jpg" />
-    <country lang="es">US</country>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220925022200 +0000" stop="20220925025300 +0000" channel="Disney Channel!">
-    <title lang="es">Prodigiosa: Las aventuras de Ladybug</title>
-    <sub-title lang="es">Festín</sub-title>
-    <desc lang="es">En París, Marinette y Adrien son dos estudiantes de secundaria con una característica muy especial, ambos son súper héroes que deben proteger Francia de las garras de un malévolo villano. Descubre en que divertidas y peligrosas aventuras se ven envueltos estos dos estudiantes.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/13/12139269_1D47A6D0DC03DC7B.jpg" />
-    <country lang="es">FR</country>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220925025300 +0000" stop="20220925032400 +0000" channel="Disney Channel!">
-    <title lang="es">Acampados</title>
-    <sub-title lang="es">Encuentros cercanos con un campista</sub-title>
-    <desc lang="es">Después de que los campistas creen que ven una tierra ovni en el lago Kikiwaka, aparece un niño nuevo y Jorge y Tiffany piensan que es un extraterrestre. Mientras tanto, Emma y Ravi son evaluados por los consejeros del campamento.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/38/12383537_36DEBF021AC3C95D.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S1 E14</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220925032400 +0000" stop="20220925035100 +0000" channel="Disney Channel!">
-    <title lang="es">Coop y Cami</title>
-    <sub-title lang="es">¿Prefieren unos pantalones con puré de papa?</sub-title>
-    <desc lang="es">Charlotte solicita la ayuda de Coop y Cami en un intento por convertirse en miembro de un popular grupo.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/89/12895791_55DAF85EFE33A0F8.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220925035100 +0000" stop="20220925042200 +0000" channel="Disney Channel!">
-    <title lang="es">Gabby Duran: Niñera de aliens</title>
-    <sub-title lang="es">Mom Wipe</sub-title>
-    <desc lang="es">Dina descubre la existencia de extraterrestres y le prohíbe a Gabby seguir cuidándolos. Sin embargo, algo ocurre que ambas tienen que trabajar juntas para poder lograrlo.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/89/12892848_4721D038223F75B3.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S2 E1</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220925042200 +0000" stop="20220925045100 +0000" channel="Disney Channel!">
-    <title lang="es">Andi Mack</title>
-    <sub-title lang="es">The quacks</sub-title>
-    <desc lang="es">El equipo de baloncesto femenino de Jefferson Middle School se prepara para su primer juego, pero están en peligro de perder porque solo cuatro jugadores están presentes.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/89/12892906_F6756DD1FA3FAC20.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S3 E10</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220925045100 +0000" stop="20220925051700 +0000" channel="Disney Channel!">
-    <title lang="es">Los hechiceros de Waverly Place</title>
-    <sub-title lang="es">Profesora de arte</sub-title>
-    <desc lang="es">Alex descubre que su maestra favorita, la señorita Jennifer Majorhealy, en realidad es una niña de 16 años que fue transformada en un adulto por TJ Taylor.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/89/12893004_C591A06152C4D5D0.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S2 E15</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220925051700 +0000" stop="20220925054000 +0000" channel="Disney Channel!">
-    <title lang="es">Gravity Falls: Un verano de misterios</title>
-    <sub-title lang="es">¡Pozo Sin Fondo!</sub-title>
-    <desc lang="es">Dipper, Mabel, Stan y Soos accidentalmente caen en el pozo sin fondo de Mystery Shack y se cuentan historias para pasar el tiempo.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/69/12697510_6FFA5044BE367544.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S1 E14</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220925054000 +0000" stop="20220925060300 +0000" channel="Disney Channel!">
-    <title lang="es">Hotel Transylvania: La serie</title>
-    <sub-title lang="es">Fuga de cerebros, el cabello de hoy desaparece mañana</sub-title>
-    <desc lang="es">Hank y Zombie Sir Isaac Newtn intercambian cerebros. Medusa vuelve a quedarse en el hotel Transilvania.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/89/12892849_2D07CCE328F23CC3.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S1 E16</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220925060300 +0000" stop="20220925062500 +0000" channel="Disney Channel!">
-    <title lang="es">Grandes héroes: la serie</title>
-    <sub-title lang="es">El pasante</sub-title>
-    <desc lang="es">Hiro está celoso de la pasantía de Karmi en Sycorax, donde tiene su propio laboratorio. Para competir con ella, él realiza prácticas en Krei Tech, pero Krei lo obliga a realizar trabajos degradantes.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/69/11695311_4BEFE86031B3241B.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S2 E1</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220925062500 +0000" stop="20220925064800 +0000" channel="Disney Channel!">
-    <title lang="es">Prodigiosa: Las aventuras de Ladybug</title>
-    <sub-title lang="es">Capitán Hardrock</sub-title>
-    <desc lang="es">Después de ser akumatizado por Hawk Moth en el Capitán Hardrock, la madre de Juleka dirige un poderoso barco y lanza su música para que todo París la escuche.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/71/10713953_A19C19942FF19ED0.jpg" />
-    <country lang="es">FR</country>
-    <episode-num system="onscreen">S2 E13</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220925064800 +0000" stop="20220925071000 +0000" channel="Disney Channel!">
-    <title lang="es">Phineas y Ferb</title>
-    <sub-title lang="es">Mi fiel Fútbol</sub-title>
-    <desc lang="es">Los primos de Ferb lo visitan desde Inglaterra y lo desafían a un partido de fútbol.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/32/10325524_432AB393C182FB0B.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S3 E11</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220925071000 +0000" stop="20220925073300 +0000" channel="Disney Channel!">
-    <title lang="es">Star vs. las fuerzas del mal</title>
-    <sub-title lang="es">Juego de banderas, día de chicas</sub-title>
-    <desc lang="es">Star compite en el juego de las banderas en la reunión familiar Butterfly-Johansen en contra a las órdenes de su madre. Cuando Star está nominada como Alcalde de Detención, tiene que ayudar a sus constituyentes con sus diversos problemas.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/44/12443960_6346E6E32A09A39B.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S2 E8</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220925073300 +0000" stop="20220925075500 +0000" channel="Disney Channel!">
-    <title lang="es">Gravity Falls: Un verano de misterios</title>
-    <sub-title lang="es">Teatro de calcetines</sub-title>
-    <desc lang="es">Cerca de desbloquear la computadora portátil del autor, Dipper es visitado por el demonio Bill, que quiere hacer un trato. Mabel ofrece un espectáculo de marionetas para impresionar a un niño.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/81/12819032_2135D0C81BECD145.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S2 E4</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220925075500 +0000" stop="20220925081600 +0000" channel="Disney Channel!">
-    <title lang="es">Star vs. las fuerzas del mal</title>
-    <sub-title lang="es">Pinzas de langosta, hechizos en sueño</sub-title>
-    <desc lang="es">Star y Marco tratan de ayudar a Langosta a adaptarse a la vida en la Tierra. Star empieza a hechizar dormida y Marco intenta usar la psicología para curarla.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/73/10738406_067BE626B62562AD.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220925081600 +0000" stop="20220925083800 +0000" channel="Disney Channel!">
-    <title lang="es">Acampados</title>
-    <sub-title lang="es">Amigándose con el enemigo</sub-title>
-    <desc lang="es">Emma convence a Lou de que deben hacer un esfuerzo para hacerse amigos de Hazel. Mientras tanto, un productor de TV obtiene a Ravi, Zuri y Tiffany para ayudarlo a cazar al legendario monstruo Kikiwaka.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/52/12529163_2CE39AC23D800F7A.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220925083800 +0000" stop="20220925090000 +0000" channel="Disney Channel!">
-    <title lang="es">Star vs. las fuerzas del mal</title>
-    <sub-title lang="es">Mewbertad, Hadápolis</sub-title>
-    <desc lang="es">Star comienza a brotar corazones por todo su cuerpo, el signo revelador de 'Mewberty'. Marco y sus amigos viajan a una dimensión de duendes y se ven obligados a trabajar en Shard Mines.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/48/10488088_0A97A42942868031.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220925090000 +0000" stop="20220925092500 +0000" channel="Disney Channel!">
-    <title lang="es">Los vecinos Green</title>
-    <sub-title lang="es">Grillo-Niñera, voltereta Bill</sub-title>
-    <desc lang="es">Mientras Bill lleva a la abuela al médico para un chequeo, a Tilly se le asigna la tarea de cuidar a Cricket. Cricket convence a Bill para que siga su sueño de la infancia de convertirse en un gimnasta, pero él está presionado por un trauma.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/89/12892876_D7BC855CAB9C1B5F.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220925092500 +0000" stop="20220925095100 +0000" channel="Disney Channel!">
-    <title lang="es">Hotel Transylvania: La serie</title>
-    <sub-title lang="es">El vendaje, convirtiéndose en Klaus</sub-title>
-    <desc lang="es">Después de convertirse en la momia oficial del hotel, Pedro pierde sus envolturas. Klaus sirve un plato frío de venganza a Mavis.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12775881_EE43E309EDEA750E.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S1 E11</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220925095100 +0000" stop="20220925100300 +0000" channel="Disney Channel!">
-    <title lang="es">Star vs. las fuerzas del mal</title>
-    <sub-title lang="es">Trampa Butterfly</sub-title>
-    <desc lang="es">Moon y la Alta Comisión de Magia le hacen un juicio a Eclipsa sobre su pasado, con Star como testigo clave.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/36/10364700_A8D11EFAF7DA2C65.jpg" />
-    <country lang="es">US</country>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220925100300 +0000" stop="20220925103100 +0000" channel="Disney Channel!">
-    <title lang="es">¡Vete ya, Unicornio!</title>
-    <sub-title lang="es">Big surprise, unicorn!; Go away, Alice!</sub-title>
-    <desc lang="es">Cuando Alice y sus amigos van en busca de Bigfoot, nadie puede imaginar la gran sorpresa que pondrá a Ollie en la silla caliente.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/76/11763954_6A84CBA3C0B5A45F.jpg" />
-    <country lang="es">CA</country>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220925103100 +0000" stop="20220925110000 +0000" channel="Disney Channel!">
-    <title lang="es">Enredados otra vez: La serie</title>
-    <sub-title lang="es">The return of Strongbow</sub-title>
-    <desc lang="es">El viejo amigo de Eugene, Strongbow, regresa a la ciudad e intenta arrastrar a Eugene de vuelta a sus caminos de robo.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/56/12564058_E1E47AFB25E13E2D.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220925110000 +0000" stop="20220925112900 +0000" channel="Disney Channel!">
-    <title lang="es">Glitter Model</title>
-    <desc lang="es">Serie de empoderamiento que anima a las niñas de todo el mundo a encontrar su propio 'brillo interior'. En el contenido, hay lecciones importantes sobre el empoderamiento femenino, la responsabilidad y la aceptación.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/35/11358419_3B75964BFF4E7228.jpg" />
-    <country lang="es">BR</country>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220925112900 +0000" stop="20220925120000 +0000" channel="Disney Channel!">
-    <title lang="es">Prodigiosa: Las aventuras de Ladybug</title>
-    <sub-title lang="es">Problemática</sub-title>
-    <desc lang="es">El famoso artista Jagged Stone va a la panadería del padre de Marinette para hacer un programa de televisión, pero cuando todo se descontrola, Penny, la ayudante de producción, pierde los nervios y es akumatizada.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/87/12877841_10CBD59B8597F032.jpg" />
-    <country lang="es">FR</country>
-    <episode-num system="onscreen">S2 E17</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220925120000 +0000" stop="20220925134100 +0000" channel="Disney Channel!">
-    <title lang="es">Matilda</title>
-    <desc lang="es">Matilda Wormwood es una niña extremadamente curiosa e inteligente que es muy diferente de sus padres vulgares y de bajo perfil, quienes la ignoran cruelmente cada vez que pueden. A medida que crece, comienza a descubrir que tiene poderes telequinéticos.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/72/10729425_E9E334916BBA6160.jpg" />
-    <country lang="es">US</country>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220925134100 +0000" stop="20220925151600 +0000" channel="Disney Channel!">
-    <title lang="es">Star vs. las fuerzas del malLa batalla por Mewni</title>
-    <desc lang="es">Star regresa a su dimensión, mientras que Mewni descubre que la magia está desapareciendo en todo el reino. Star debe escavar profundo y desafiar a su enemigo Ludo en un esfuerzo para salvar su familia y el reino.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/89/12892791_6977BF2929F239F8.jpg" />
-    <country lang="es">US</country>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220925151600 +0000" stop="20220925165400 +0000" channel="Disney Channel!">
-    <title lang="es">Chica vs. Monstruo</title>
-    <desc lang="es">Telefilme sobre una adolescente que trata de llevar una vida normal, lo que incluye cantar en una banda de rock o ir a una fiesta de Halloween, pero la chica tiene una familia muy especial: sus padres son en realidad cazadores de monstruos.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12779766_41F6D6A9F85082E9.jpg" />
-    <country lang="es">US</country>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220925165400 +0000" stop="20220925175100 +0000" channel="Disney Channel!">
-    <title lang="es">Holiday Magic Quest</title>
-    <desc lang="es">Disfruta de un especial navideño que muestra un desafío de alto riesgo que recorre el Parque Temático Magic Kingdom, una aventura mágica traída desde Walt Disney World Resort.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/76/12768170_124423D2B938E1FB.jpg" />
-    <country lang="es">US</country>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220925175100 +0000" stop="20220925185900 +0000" channel="Disney Channel!">
-    <title lang="es">Los hechiceros regresanAlex vs. Alex</title>
-    <desc lang="es">Alex trata de impresionar a sus parientes lejanos con un hechizo que sin querer produce que se cree una versión buena y una mala de ella misma.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/89/12892942_C0D5D3250536BCB5.jpg" />
-    <country lang="es">US</country>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220925185900 +0000" stop="20220925203800 +0000" channel="Disney Channel!">
-    <title lang="es">Gravity Falls: Un verano de misterios</title>
-    <sub-title lang="es">Raromageddon</sub-title>
-    <desc lang="es">Bill ha vuelto para terminar con la familia Pines, pero esta vez ha traído a algunos de sus amigos con él.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/77/10770219_B9A34B562EB417C5.jpg" />
-    <country lang="es">US</country>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220925203800 +0000" stop="20220925210900 +0000" channel="Disney Channel!">
-    <title lang="es">Gravity Falls: Un verano de misterios</title>
-    <sub-title lang="es">El cerdito del viajero del tiempo</sub-title>
-    <desc lang="es">Dipper arruina la oportunidad de impresionar a Wendy en una feria, lo que le obliga a usar una máquina del tiempo para viajar y evitar que suceda.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/61/10619077_219C4B19559ED6AE.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S1 E9</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220925210900 +0000" stop="20220925213600 +0000" channel="Disney Channel!">
-    <title lang="es">Hall of villains</title>
-    <desc lang="es">Disfruta de este espacio donde los villanos de Disney presentan diversos videos musicales de pop con mucho color y coreografías extraordinarias que ponen a todos a bailar. Además descubre cual de tus villanos favoritos forman parte de este especial.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/70/12701495_C9D9879E1F8DA8CF.jpg" />
-    <country lang="es">US</country>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220925213600 +0000" stop="20220925231900 +0000" channel="Disney Channel!">
-    <title lang="es">La fabulosa aventura de Sharpay</title>
-    <desc lang="es">Sharpray Evans viaja hasta Nueva York con la intención de hacer carrera en Broadway, pero es su perro quien consigue lograrlo antes que ella. Spin-off de la saga High School Musical.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/35/11355283_CC495F1C6C111F75.jpg" />
-    <country lang="es">US</country>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220925231900 +0000" stop="20220926010300 +0000" channel="Disney Channel!">
-    <title lang="es">Matilda</title>
-    <desc lang="es">Matilda Wormwood es una niña extremadamente curiosa e inteligente que es muy diferente de sus padres vulgares y de bajo perfil, quienes la ignoran cruelmente cada vez que pueden. A medida que crece, comienza a descubrir que tiene poderes telequinéticos.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/72/10729425_E9E334916BBA6160.jpg" />
-    <country lang="es">US</country>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220926010300 +0000" stop="20220926014500 +0000" channel="Disney Channel!">
-    <title lang="es">Tierra incógnita</title>
-    <sub-title lang="es">El laberinto</sub-title>
-    <desc lang="es">El adolescente, Eric Dalaras, con la ayuda de sus amigos, su hermana y una tía, debe superar sus miedos para resolver el misterio y encontrar respuestas sobre la desaparición de sus padres en un universo oscuro y desconocido: Tierra Incógnita.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12774271_E85F14E3F61FE040.jpg" />
-    <country lang="es">AR</country>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220926014500 +0000" stop="20220926031700 +0000" channel="Disney Channel!">
-    <title lang="es">Halloweentown 2</title>
-    <desc lang="es">Una nueva aventura de las brujas Cromwell. Esta vez, viajarán a la ciudad de Halloweentown para enfrentar a un malvado mago.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/89/12898506_888FA9D7DB610411.jpg" />
-    <country lang="es">US</country>
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20220926031700 +0000" stop="20220926033000 +0000" channel="Disney Channel!">
-    <title lang="es">Star vs. las fuerzas del mal</title>
-    <sub-title lang="es">Más que una pizza</sub-title>
-    <desc lang="es">Marco y Pony Head tienen que conseguir una pizza para una noche de películas mientras pasan por una serie de infortunios.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/33/10338975_C9C5C1DC7C959CD5.jpg" />
-    <country lang="es">US</country>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220926033000 +0000" stop="20220926040300 +0000" channel="Disney Channel!">
-    <title lang="es">Acampados</title>
-    <sub-title lang="es">Acampados y complicados</sub-title>
-    <desc lang="es">Los hermanos Emma, Ravi y Zuri encuentran nuevas aventuras en su visita al campamento Kikiwaka. Ellos deben adaptarse a su nuevo estilo de vida.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/70/12701490_4FE1DC0F6F8D88DE.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S1 E17</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220926040300 +0000" stop="20220926043100 +0000" channel="Disney Channel!">
-    <title lang="es">Coop y Cami</title>
-    <sub-title lang="es">¿Prefieren ser mejores amigos del director?</sub-title>
-    <desc lang="es">Cooper encuentra el rechazo de sus compañeros en la escuela. ¿Por qué? Piensan que se está haciendo amigo del director.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/56/11565173_71B2C50C2ED09627.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220926043100 +0000" stop="20220926050300 +0000" channel="Disney Channel!">
-    <title lang="es">Gabby Duran: Niñera de aliens</title>
-    <sub-title lang="es">Gabby's Big Break</sub-title>
-    <desc lang="es">Gabby tiene problemas para alejarse de su trabajo, ya que siempre busca estar haciendo algo. Sin embargo pronto Swift la obliga a tomar un descanso y dejar de cuidar niños.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/89/12898507_7EEC9A6E2D982FD7.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S2 E2</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220926050300 +0000" stop="20220926053000 +0000" channel="Disney Channel!">
-    <title lang="es">Andi Mack</title>
-    <sub-title lang="es">Uno en un Minián</sub-title>
-    <desc lang="es">Tras la muerte de la abuela de Cyrus, Rose, su familia sostiene a Shiva para que llore su pérdida y honre su memoria. Andi, Buffy y Jonah asisten, así como Bowie, cuyo kugel no es bien recibido por la compañía.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/89/12898508_4200980D43F57688.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S3 E11</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220926053000 +0000" stop="20220926055800 +0000" channel="Disney Channel!">
-    <title lang="es">Los hechiceros de Waverly Place</title>
-    <sub-title lang="es">La semana de la moda</sub-title>
-    <desc lang="es">Harper ayuda al Sr. Frenchy durante la Semana de la Moda y recluta la ayuda de Alex.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/10/11101994_19E2F5622BEC3361.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S2 E13</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220926055800 +0000" stop="20220926061900 +0000" channel="Disney Channel!">
-    <title lang="es">Gravity Falls: Un verano de misterios</title>
-    <sub-title lang="es">Locura por los chicos</sub-title>
-    <desc lang="es">Cuando Mabel descubre que su banda preferida es en realidad un grupo de clones encarcelados, los libera, solo para decidir guardarlos para ella; Dipper está convencido de que Robbie planea lavarle el cerebro a Wendy con un mensaje secreto.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/75/12751134_54450484593C4A19.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S1 E17</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220926061900 +0000" stop="20220926064400 +0000" channel="Disney Channel!">
-    <title lang="es">Hotel Transylvania: La serie</title>
-    <sub-title lang="es">La leyenda de tripas de calabaza</sub-title>
-    <desc lang="es">Mavis y sus amigos aprenden el verdadero significado de Halloween.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/89/12898520_DE76FF7E21E2BE73.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S1 E13</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220926064400 +0000" stop="20220926070700 +0000" channel="Disney Channel!">
-    <title lang="es">Grandes héroes: la serie</title>
-    <sub-title lang="es">Seventh wheel</sub-title>
-    <desc lang="es">Momakase hace un trato con Amara que implica obtener algún tipo de implante. Por otro lado, Granville comienza a ofrecer consejos al equipo que demuestran ser algo útiles.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/32/12329475_078F4E9DFC99C35E.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S2 E2</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220926070700 +0000" stop="20220926073100 +0000" channel="Disney Channel!">
-    <title lang="es">Prodigiosa: Las aventuras de Ladybug</title>
-    <sub-title lang="es">Helador</sub-title>
-    <desc lang="es">Philippe, el nuevo instructor de patinaje de la ciudad, es transformado en Frozer. Con sus patines de hielo malignos, quiere convertir París en un Reino de Hielo.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/71/10714108_3B29BC2323F27C59.jpg" />
-    <country lang="es">FR</country>
-    <episode-num system="onscreen">S2 E21</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220926073100 +0000" stop="20220926075300 +0000" channel="Disney Channel!">
-    <title lang="es">Phineas y Ferb</title>
-    <sub-title lang="es">Perry, el actortorrinco, ¡En El Blanco!</sub-title>
-    <desc lang="es">Lawrence Fletcher es golpeado por el malvado izner de Rodney mientras que Candace confunde la escultura basura de mamá por el trabajo de Phineas y Ferb.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/47/10477516_8921C38FB45226AB.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S3 E19</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220926075300 +0000" stop="20220926081600 +0000" channel="Disney Channel!">
-    <title lang="es">Star vs. las fuerzas del mal</title>
-    <sub-title lang="es">La piyamada, el obsequio de la tarjeta</sub-title>
-    <desc lang="es">Es la fiesta de pijamas de Star y Ponyhead sugiere que jueguen un juego que trajo de Mewni. Marco tiene que usar una tarjeta de regalo que Star le dio antes de que expire.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/94/12948733_1E76625A54B0877E.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S2 E9</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220926081600 +0000" stop="20220926083800 +0000" channel="Disney Channel!">
-    <title lang="es">Gravity Falls: Un verano de misterios</title>
-    <sub-title lang="es">La sociedad del ojo cegado</sub-title>
-    <desc lang="es">Dipper y la pandilla descubren una sociedad secreta que ha estado borrando las memorias de los ciudadanos de Gravity Falls.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/87/12872377_3C82925C29965F07.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S2 E7</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220926083800 +0000" stop="20220926090000 +0000" channel="Disney Channel!">
-    <title lang="es">Star vs. las fuerzas del mal</title>
-    <sub-title lang="es">El baile de la luna roja, Galletas de la fortuna</sub-title>
-    <desc lang="es">Una guerrera intergaláctica llega a la tierra para vivir junto a la familia Díaz. En este nuevo hogar continúa peleando con los villanos del universo mientras asiste a la escuela secundaria.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/02/10022726_0F3EF8D0A8D173B3.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220926090000 +0000" stop="20220926092500 +0000" channel="Disney Channel!">
-    <title lang="es">Prodigiosa: Las aventuras de Ladybug</title>
-    <sub-title lang="es">Reina Banana</sub-title>
-    <desc lang="es">Cuando Chloé es akumatizada por Queen Banana, Ladybug decide confiarle un Miraculous a un nuevo y prometedor aliado. Ella debería ayudarla a detener al súper villano y su gorila gigante.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/94/10943349_67DD07301388F4E8.jpg" />
-    <country lang="es">FR</country>
-    <episode-num system="onscreen">S4 E7</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220926092500 +0000" stop="20220926095000 +0000" channel="Disney Channel!">
-    <title lang="es">Star vs. las fuerzas del mal</title>
-    <sub-title lang="es">Flechada</sub-title>
-    <desc lang="es">Con la esperanza de ayudarla a olvidarse de su tensa amistad con Marco, las amigas de Star la convencen de abandonar la fiesta de fin de año de los Díaz para acudir a un evento más peligroso.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/79/12791077_28AFC45560FDB20E.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S2 E22</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220926095000 +0000" stop="20220926100200 +0000" channel="Disney Channel!">
-    <title lang="es">Star vs. las fuerzas del mal</title>
-    <sub-title lang="es">Ludo, ¿dónde estás?</sub-title>
-    <desc lang="es">Dennis emprende un peligroso viaje para encontrar a su hermano Ludo y descubre que él se encuentra viviendo en otra dimensión.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/91/12912363_47011F6E167BA189.jpg" />
-    <country lang="es">US</country>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220926100200 +0000" stop="20220926103200 +0000" channel="Disney Channel!">
-    <title lang="es">Phineas y Ferb</title>
-    <sub-title lang="es">El código del bravucón, Buscando a Mary McGuffin</sub-title>
-    <desc lang="es">Después de que Baljeet le salva la vida, Buford se compromete a convertirse en el criado de Baljeet. Phineas y Ferb ayudan a Candace a perseguir a una muñeca perdida.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/25/10251000_D161CB3D2AB798A0.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S2 E18</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220926103200 +0000" stop="20220926104400 +0000" channel="Disney Channel!">
-    <title lang="es">Las aventuras de Pilar</title>
-    <sub-title lang="es">Aracne y Atenea</sub-title>
-    <desc lang="es">Pilar será jurado del concurso de tapioca. Para aprender criterios de evaluación, viaja a Grecia con Breno y Samba para aprender de Atenea, la divinidad de la justicia. Allá, ellos presencian una competencia entre ella y Aracne.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/62/11626797_E964A51640A27003.jpg" />
-    <country lang="es">BR</country>
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220926104400 +0000" stop="20220926110000 +0000" channel="Disney Channel!">
-    <title lang="es">Cortos Mickey Mouse</title>
-    <sub-title lang="es">Stayin' cool</sub-title>
-    <desc lang="es">Mickey, Donald y Goofy intentan mantenerse frescos en el día más caluroso del año.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/93/10933669_081852796068057A.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220926110000 +0000" stop="20220926113000 +0000" channel="Disney Channel!">
-    <title lang="es">Patoaventuras</title>
-    <sub-title lang="es">¿Qué pasó con Donald Duck?</sub-title>
-    <desc lang="es">Donald es tomado prisionero por los Moonlanders y Lunaris lo envía a las minas de oro. Sin embargo, al no querer que ocurra la invasión, Penumbra libera en secreto a Donald y le dice que se reúna con ella en el hangar de Lunaris.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/90/12907707_D96454EE5AFB2723.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S2 E17</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220926113000 +0000" stop="20220926114400 +0000" channel="Disney Channel!">
-    <title lang="es">Dino Dana</title>
-    <sub-title lang="es">Juego De Huesos - Parte 1</sub-title>
-    <desc lang="es">En este especial de dos partes, Dana crea un juego de mesa llamado 'Juego de Huesos' que saca el lado competitivo de la familia, mientras representan qué sucedió cuando un meteorito terminó con el reinado de los dinosaurios.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/91/12912333_7B77E010981B0901.jpg" />
-    <country lang="es">CA</country>
-    <episode-num system="onscreen">S2 E25</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220926114400 +0000" stop="20220926115900 +0000" channel="Disney Channel!">
-    <title lang="es">Los vecinos Green</title>
-    <sub-title lang="es">Amigas y gárgolas</sub-title>
-    <desc lang="es">Tilly mantiene amistad con Andrómeda, quien juega con su estilo de vida.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/91/9916981_90D3D0CB0ADDAB94.jpg" />
-    <country lang="es">US</country>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220926115900 +0000" stop="20220926122500 +0000" channel="Disney Channel!">
-    <title lang="es">Amphibia</title>
-    <sub-title lang="es">El paso de los peleadores, El batracio más buscado</sub-title>
-    <desc lang="es">Anne ya está en terribles condiciones por estar buscando respuestas sobre cómo abrir un portal a Amphibia, mientras los Plantar ya están atraídos por el mundo humano moderno. Anne anuncia a los Plantar que la Doctora Jan tuvo un descubrimiento y quiere verlos para que les enseñe.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/76/12762437_FD569D0F8F0BB421.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S3 E4</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220926122500 +0000" stop="20220926123700 +0000" channel="Disney Channel!">
-    <title lang="es">Hotel Transylvania: La serie</title>
-    <sub-title lang="es">Suelta la aguja</sub-title>
-    <desc lang="es">El lujoso Hotel Transylvania será la sede principal de las aventuras y más disparatados ratos de Drácula, su hija Mavis y los demás monstruos que aguardan en el lugar, y que quieren mantenerse a salvo y apartados de los humanos.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/65/11655796_AB90F543F6A2043E.jpg" />
-    <country lang="es">US</country>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220926123700 +0000" stop="20220926130300 +0000" channel="Disney Channel!">
-    <title lang="es">Grandes héroes: la serie</title>
-    <sub-title lang="es">El regreso de Baymax primera parte</sub-title>
-    <desc lang="es">Hiro descubre un chip para la creación de Baymax que fue dejado por su difunto hermano Tadashi.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/66/12665254_DC885EB10BE2B763.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220926130300 +0000" stop="20220926131500 +0000" channel="Disney Channel!">
-    <title lang="es">El fantasma y Molly Mcgee</title>
-    <sub-title lang="es">A aullar, (anti)natural</sub-title>
-    <desc lang="es">Molly quiere tener un mejor amigo humano y lo lleva hasta Kat, Sheela y Libby, que son todas Wilder-Scouts. Ella decide acampar con ellos mientras Scratch trata con Geoff, un fantasma tonto que dice ser su amigo. Molly apoya al equipo de béisbol de su escuela, los Lemmings, que son terribles. Ella decide ser su principal partidaria y se une a su equipo.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/55/12556386_C49123A5FFCE4C54.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220926131500 +0000" stop="20220926132700 +0000" channel="Disney Channel!">
-    <title lang="es">Hotel Transylvania: La serie</title>
-    <sub-title lang="es">Unos cuantos monstruos buenos</sub-title>
-    <desc lang="es">El lujoso Hotel Transylvania es la sede principal de las aventuras más disparatadas de Drácula, su hija Mavis y los demás monstruos que aguardan en el lugar, ya que su único objetivo es mantenerse a salvo y apartados de los humanos.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/89/12898568_9FF4561F0D9D7A90.jpg" />
-    <country lang="es">US</country>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220926132700 +0000" stop="20220926135900 +0000" channel="Disney Channel!">
-    <title lang="es">The Owl House: La casa Búho</title>
-    <sub-title lang="es">Ecos del pasado</sub-title>
-    <desc lang="es">Luz, Lilith y Hooty llegan a una isla peligrosa en donde sus vidas corren riesgo a raíz de la ilusión de grandeza de King.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/90/12904939_7A87660C02BFF08E.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S2 E3</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220926135900 +0000" stop="20220926153800 +0000" channel="Disney Channel!">
-    <title lang="es">The Swap</title>
-    <desc lang="es">Dos atletas de una escuela secundaria, una gimnasta y un jugador de hockey, se intercambian de cuerpo por arte de magia. Ahora, tendrán que encontrar la manera de que sus almas regresen al cuerpo al que pertenecen, mientras cada uno afronta los problemas que tienen.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/70/12701460_1DBD5023B0EF8E25.jpg" />
-    <country lang="es">US</country>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220926153800 +0000" stop="20220926160100 +0000" channel="Disney Channel!">
-    <title lang="es">Acampados</title>
-    <sub-title lang="es">¡Waka, Waka, Waka!</sub-title>
-    <desc lang="es">Ravi y Tiffany obtienen video PRUEBA de que existe el Kikiwaka. Mientras tanto, Emma y Lou intentan vender más que a Hazel en el Kikiwaka Day Festival.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/31/12318099_AD844F218665C7CF.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220926160100 +0000" stop="20220926163200 +0000" channel="Disney Channel!">
-    <title lang="es">Liv y Maddie</title>
-    <sub-title lang="es">Las gemelas Rooney</sub-title>
-    <desc lang="es">Liv regresa a casa después de protagonizar un exitoso programa de televisión.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/01/10016029_0276613485BC9BDD.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220926163200 +0000" stop="20220926170100 +0000" channel="Disney Channel!">
-    <title lang="es">Programa de talentos</title>
-    <sub-title lang="es">Vivir y dejar mentir</sub-title>
-    <desc lang="es">Situada en San Francisco, esta comedia trata sobre la vida de China Parks, una chica prodigio de 11 años que va a la escuela secundaria como participante del prestigioso programa ANT.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/56/10569793_5517D0DF0371050D.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S3 E59</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220926170100 +0000" stop="20220926172600 +0000" channel="Disney Channel!">
-    <title lang="es">Los hechiceros de Waverly Place</title>
-    <sub-title lang="es">Solo para tu-Niverso</sub-title>
-    <desc lang="es">Como un acto de rebelión contra sus padres, Alex entra en un espejo mágico, donde se encuentra con un universo donde todo es sobre ella.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/77/11773057_AC333C08BF795923.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S3 E24</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220926172600 +0000" stop="20220926175900 +0000" channel="Disney Channel!">
-    <title lang="es">Es tan Raven</title>
-    <sub-title lang="es">Punto sin retorno</sub-title>
-    <desc lang="es">Víctor le da dinero a Raven para que se compre una calculadora científica para el instituto. Chelsea acompaña a Raven a los grandes almacenes, pero Raven no se fija en las calculadoras.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/75/10750843_420BFF1E54C3EBD9.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S3 E69</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220926175900 +0000" stop="20220926182800 +0000" channel="Disney Channel!">
-    <title lang="es">Gravity Falls: Un verano de misterios</title>
-    <sub-title lang="es">Soos y la chica real</sub-title>
-    <desc lang="es">Soos hace una promesa a su abuela de que puede encontrar una novia en una semana, y compra un juego de simulador de citas para ayudarlo a aprender a hablar con las mujeres.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/81/12816860_826CD5BF2385D21F.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S2 E5</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220926182800 +0000" stop="20220926190000 +0000" channel="Disney Channel!">
-    <title lang="es">Star vs. las fuerzas del mal</title>
-    <sub-title lang="es">La batalla por Mewni: Regreso a Mewni, La Batalla por Mewni: Moon</sub-title>
-    <desc lang="es">Mientras Marco lamenta la desaparición de Star, Star y Moon viajan de regreso a Mewni para intentar revivir al Alto Comité de magia. La reina joven Moon debe tomar una decisión si ir a la guerra o firmar un tratado de paz con los monstruos.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/83/12830589_6B0303A779307787.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S3 E1</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220926190000 +0000" stop="20220926193000 +0000" channel="Disney Channel!">
-    <title lang="es">La casa de Raven</title>
-    <sub-title lang="es">The Trouble with Levi</sub-title>
-    <desc lang="es">Booker se siente incómodo a la hora de relacionarse con sus compañeros de clase delante de Levi. Al día siguiente, Levi se une al club Dissed Sibs Anonymous.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/39/12399774_DAFC00840C735149.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S2 E9</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220926193000 +0000" stop="20220926200100 +0000" channel="Disney Channel!">
-    <title lang="es">Gabby Duran: Niñera de aliens</title>
-    <sub-title lang="es">Fake news</sub-title>
-    <desc lang="es">Mientras capturan a un hada, Gabby y Olivia escuchan a su madre hablar con su abuela sobre los planes de trasladar a la familia a Miami debido a la falta de noticias interesantes. Para hacer que Havensburg sea interesante, las chicas reclutan a Jeremy, Sky, Kali y un Vitrious Primian llamado Louis para cometer cosas extrañas en Havensburg.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/73/12732308_C194B9C2F92687E6.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S1 E15</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220926200100 +0000" stop="20220926201300 +0000" channel="Disney Channel!">
-    <title lang="es">Los vecinos Green</title>
-    <sub-title lang="es">Escándalo en el supermercado</sub-title>
-    <desc lang="es">Los Green abren un puesto de comida, pero tienen pocos suministros, por lo que Cricket tiene la idea de hacer comida artificial.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/91/9916984_999D956B73E13A65.jpg" />
-    <country lang="es">US</country>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220926201300 +0000" stop="20220926215900 +0000" channel="Disney Channel!">
-    <title lang="es">Vampire Sisters 3</title>
-    <desc lang="es">La alegría de las dos hermanas vampiro Silvana y Dakaria podría ser mayor ante la llegada de su hermano mitad vampiro llamado Franz. Pero cuando el menor cumple su primer año, la reina Antanasia decide secuestrarlo para convertirlo en su heredero.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/39/12399737_68C872C87668499A.jpg" />
-    <country lang="es">DE</country>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220926215900 +0000" stop="20220926222800 +0000" channel="Disney Channel!">
-    <title lang="es">Sydney como Max</title>
-    <sub-title lang="es">Haz lo correcto</sub-title>
-    <desc lang="es">Syd sospecha que su maestra les asignó figuras históricas dependiendo de su raza, y ella y sus compañeros deciden hacer algo al respecto.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/72/12724227_8A771A651858871D.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S3 E11</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220926222800 +0000" stop="20220926230000 +0000" channel="Disney Channel!">
-    <title lang="es">Acampados</title>
-    <sub-title lang="es">Cruzando la frontera</sub-title>
-    <desc lang="es">Zuri y Griff están enamorados el uno del otro, pero Emma y Xander creen que están tramando algo que podría ponerlos en problemas.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/92/9921542_F1224B5A3A2F0530.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S2 E21</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220926230000 +0000" stop="20220926233200 +0000" channel="Disney Channel!">
-    <title lang="es">Andi Mack</title>
-    <sub-title lang="es">Tengo tu número</sub-title>
-    <desc lang="es">Buffy invita a Andi a una noche de cine de baile en su casa, pero en una noche, Andi tiene otros planes, así que intentan reprogramarla.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/83/12838225_D3DFEB9E6A97F87B.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S3 E8</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220926233200 +0000" stop="20220927000000 +0000" channel="Disney Channel!">
-    <title lang="es">Andi Mack</title>
-    <sub-title lang="es">Sociedad secreta</sub-title>
-    <desc lang="es">Andi, Cyrus y Buffy son informados por Jonah que hay una sociedad secreta en la Escuela Secundaria Jefferson, y uno será seleccionado para unirse a Cyrus no cree que sea elegido, pero lo es.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/84/12844834_C45B899E39BC4D13.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S3 E9</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220927000000 +0000" stop="20220927003300 +0000" channel="Disney Channel!">
-    <title lang="es">Gabby Duran: Niñera de aliens</title>
-    <sub-title lang="es">Welcome to the Club</sub-title>
-    <desc lang="es">En este episodio, al unirse al club Latinx, Gabby se ve en una crisis de identidad, intentando demostrar al grupo su conocimiento de todo lo Latinx.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/71/10714116_50CF9CA22F065AB6.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S2 E11</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220927003300 +0000" stop="20220927010800 +0000" channel="Disney Channel!">
-    <title lang="es">Gabby Duran: Niñera de aliens</title>
-    <sub-title lang="es">Shoe-Dun-It</sub-title>
-    <desc lang="es">Una niña encuentra su momento para brillar al conseguir un trabajo en el que debe cuidar a un grupo rebelde de niños extraterrestres que se esconden en la Tierra con sus familias, disfrazados de niños comunes.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/35/11358434_53A2F3770DBDBDC1.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S2 E18</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220927010800 +0000" stop="20220927014000 +0000" channel="Disney Channel!">
-    <title lang="es">Holly Hobbie</title>
-    <sub-title lang="es">La criminal aplastante</sub-title>
-    <desc lang="es">Después de descubrir que Piper y su madre están atrasados en el pago del alquiler y tendrán que mudarse, Holly toma medidas extremas para ayudar a su nueva amiga.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/35/11358491_9F113D544CD5E65B.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S1 E10</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220927014000 +0000" stop="20220927021100 +0000" channel="Disney Channel!">
-    <title lang="es">Gravity Falls: Un verano de misterios</title>
-    <sub-title lang="es">Soos y la chica real</sub-title>
-    <desc lang="es">Soos hace una promesa a su abuela de que puede encontrar una novia en una semana, y compra un juego de simulador de citas para ayudarlo a aprender a hablar con las mujeres.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/81/12816860_826CD5BF2385D21F.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S2 E5</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220927021100 +0000" stop="20220927024200 +0000" channel="Disney Channel!">
-    <title lang="es">Trollhunters</title>
-    <sub-title lang="es">The Eternal Knight: Part 1</sub-title>
-    <desc lang="es">La caída de la sombra de la Noche Eterna sobre Arcadia da paso al esperado enfrentamiento entre Gunmar y el recientemente transformado cazador de trolls.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/82/12825130_6C8F0453AD8BBC37.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S3 E12</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220927024200 +0000" stop="20220927031400 +0000" channel="Disney Channel!">
-    <title lang="es">Grandes héroes: la serie</title>
-    <sub-title lang="es">Prey date</sub-title>
-    <desc lang="es">Amara visita la residencia de Frederickson donde Hiro le pregunta cómo le va a Knox. Después de dar una respuesta vaga, Hiro comienza a sospechar que algo está mal.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/31/12318193_A35BBB4D11401159.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S2 E3</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220927031400 +0000" stop="20220927034300 +0000" channel="Disney Channel!">
-    <title lang="es">Prodigiosa: Las aventuras de Ladybug</title>
-    <sub-title lang="es">Climatika 2</sub-title>
-    <desc lang="es">Chloé se junta con Aurore después de que sus calificaciones bajaron debido a su trabajo como chica del clima, la enojó y permitió que Hawk Moth la transformara nuevamente en Stormy Weather, pero esta vez con sus poderes mucho más fuertes que antes.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/89/9899126_3C5E692CA83DD9C1.jpg" />
-    <country lang="es">FR</country>
-    <episode-num system="onscreen">S3 E8</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220927034300 +0000" stop="20220927041000 +0000" channel="Disney Channel!">
-    <title lang="es">Secretos en Sulphur Springs</title>
-    <sub-title lang="es">Perejil, Salvia, Romero y Tiempo</sub-title>
-    <desc lang="es">Ben está molesto por la avalancha de noticias que marcan el trigésimo aniversario de la desaparición de Savannah, mientras que Zoey y Wyatt lo ven como la oportunidad perfecta para finalmente capturar a su fantasma en una cinta.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/96/9968011_2A2037C7A9A92FA1.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220927041000 +0000" stop="20220927043500 +0000" channel="Disney Channel!">
-    <title lang="es">Los hechiceros de Waverly Place</title>
-    <sub-title lang="es">Hacer Que Pase</sub-title>
-    <desc lang="es">Jerry les pregunta a los chicos que opción de trabajo harían si perdieran sus poderes. Alex tiene la idea de ser baterista de una banda, Justin de ser el campeón de ajedrez, y Max un mago.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/05/11057737_61DC61EB3B6640DE.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S2 E32</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220927043500 +0000" stop="20220927050400 +0000" channel="Disney Channel!">
-    <title lang="es">La casa de Raven</title>
-    <sub-title lang="es">Salvado por la bella</sub-title>
-    <desc lang="es">Como parte de su misión para ganar el Freshest por cuarto año consecutivo, Booker necesita con desesperación el anhelado Freshest Freshman para solidificar su leyenda.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/48/11485924_83F4F37BE7F525DC.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S4 E19</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220927050400 +0000" stop="20220927053200 +0000" channel="Disney Channel!">
-    <title lang="es">Gabby Duran: Niñera de aliens</title>
-    <sub-title lang="es">Who is Joey Panther?</sub-title>
-    <desc lang="es">Gabby asistirá a Havensburg Junior High. Ella planea que su primer baile allí sea genial hasta que la extraña amiga de Wesley, Rhonda, se presente como parte de un acuerdo que se hizo hace años. Gabby conoce a un chico llamado Joey Panther que se convierte en su cita de graduación.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/31/12318315_A6A4EA92C7A40B98.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S1 E14</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220927053200 +0000" stop="20220927055900 +0000" channel="Disney Channel!">
-    <title lang="es">Sydney como Max</title>
-    <sub-title lang="es">Jingled Out</sub-title>
-    <desc lang="es">Max quiere un jingle para promocionar Reynolds Rides, por lo que Sydney insiste en escribirlo. Después de que las dos primeras que escribe son rechazadas, Sydney finalmente se siente tentada a renunciar, justo cuando escribió una tercera versión, sin embargo, Olive termina salvando el día.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/35/11355976_FFFE6E835F0AA5D2.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S3 E15</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220927055900 +0000" stop="20220927062200 +0000" channel="Disney Channel!">
-    <title lang="es">Acampados</title>
-    <sub-title lang="es">Amigándose con el enemigo</sub-title>
-    <desc lang="es">Emma convence a Lou de que deben hacer un esfuerzo para hacerse amigos de Hazel. Mientras tanto, un productor de TV obtiene a Ravi, Zuri y Tiffany para ayudarlo a cazar al legendario monstruo Kikiwaka.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/52/12529163_2CE39AC23D800F7A.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220927062200 +0000" stop="20220927064500 +0000" channel="Disney Channel!">
-    <title lang="es">Star vs. las fuerzas del mal</title>
-    <sub-title lang="es">Vida nocturna, Excavar profundo</sub-title>
-    <desc lang="es">Star se entera de que Marco y Hekapoo han estado lidiando con portales interdimensionales problemáticos; el sueño de Star se convierte en un peligro y decide detenerlo.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/91/12912353_9D32C8744E51F8BB.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S3 E12</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220927064500 +0000" stop="20220927070700 +0000" channel="Disney Channel!">
-    <title lang="es">¡Vete ya, Unicornio!</title>
-    <sub-title lang="es">This is tutu much, unicorn!; Get real, unicorn!</sub-title>
-    <desc lang="es">Alice y sus compañeros de karate esperan derrotar al dojo de Chaz en una exhibición, pero primero tendrán que dominar la forma más agotadora de entrenamiento físico, el ballet.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/95/12959684_25411F37E63CDF8A.jpg" />
-    <country lang="es">CA</country>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220927070700 +0000" stop="20220927073000 +0000" channel="Disney Channel!">
-    <title lang="es">Gravity Falls: Un verano de misterios</title>
-    <sub-title lang="es">La guerra del golf</sub-title>
-    <desc lang="es">Después de ser criticado por Pacifica demasiadas veces, Mabel la desafía a un juego de golf en miniatura, que se sale de control cuando algunos residentes locales ofrecen su ayuda.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/81/12819031_B93FB1680845DAE0.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S2 E3</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220927073000 +0000" stop="20220927075200 +0000" channel="Disney Channel!">
-    <title lang="es">Hotel Transylvania: La serie</title>
-    <sub-title lang="es">Verdaderas molestias, cómo resuelves un problema como Medusa</sub-title>
-    <desc lang="es">Mavis invita al rival de la escuela secundaria de Lydia al hotel.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/66/12662936_9632946A386E2B79.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220927075200 +0000" stop="20220927081500 +0000" channel="Disney Channel!">
-    <title lang="es">Los vecinos Green</title>
-    <sub-title lang="es">Problemas en el agua, la cabra de Tilly</sub-title>
-    <desc lang="es">Cuando los Verdes visitan una piscina cubierta, desafían a Cricket a saltar de la inmersión. Tilly afirma que su cabra tiene el espíritu de un perro y lo ingresa en una exposición canina.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/83/12832618_1C7666487B4E6EDA.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220927081500 +0000" stop="20220927083700 +0000" channel="Disney Channel!">
-    <title lang="es">Star vs. las fuerzas del mal</title>
-    <sub-title lang="es">Dar vuelta la página, Nolódiga</sub-title>
-    <desc lang="es">Star intenta resistir ante la tentación de leer un capítulo prohibido en su libro de hechizos. A Marco le crece una segunda cabeza que le revela sus más oscuros secretos e inseguridades.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/90/9908633_4DE45DD6E3F97176.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S2 E13</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220927083700 +0000" stop="20220927090000 +0000" channel="Disney Channel!">
-    <title lang="es">Prodigiosa: Las aventuras de Ladybug</title>
-    <sub-title lang="es">Sapotis</sub-title>
-    <desc lang="es">Las hermanas pequeñas de Alya, Ella y Etta, se convierten en Sapotis después de permanecer despiertas. Ladybug y Cat Noir deben buscar la ayuda de un aliado para vencer a los monstruos que se multiplican.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/18/10189843_CFC913680D418C9F.jpg" />
-    <country lang="es">FR</country>
-    <episode-num system="onscreen">S2 E11</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220927090000 +0000" stop="20220927093000 +0000" channel="Disney Channel!">
-    <title lang="es">Prodigiosa: Las aventuras de Ladybug</title>
-    <sub-title lang="es">Culpa</sub-title>
-    <desc lang="es">Mientras Reflekta se ve invadido por un sentimiento de culpa, Ladybug llama a un nuevo aliado lleno de positividad.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/14/12142788_1B3B6A4F82A1BDE6.jpg" />
-    <country lang="es">FR</country>
-    <episode-num system="onscreen">S4 E8</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220927093000 +0000" stop="20220927095400 +0000" channel="Disney Channel!">
-    <title lang="es">Star vs. las fuerzas del mal</title>
-    <sub-title lang="es">La Batalla por Mewni: Defensor del charco, La Batalla por Mewni: Rey Ludo</sub-title>
-    <desc lang="es">Star y su madre Moon al no poder revivir al Alto Comité de Magia, le hacen una pequeña visita a Sapo Toro. Star se dirige al castillo para rescatar a su padre si, pero luego se encontró con Marco, para detener a Ludo y Toffee juntos.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/81/12816773_2A4DE9A5360CEFB8.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S3 E3</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220927095400 +0000" stop="20220927100000 +0000" channel="Disney Channel!">
-    <title lang="es">Star vs. las fuerzas del mal</title>
-    <sub-title lang="es">Es otro misterio</sub-title>
-    <desc lang="es">Marco descubre un mensaje de Sapo Toro que revela que él y otros Monstruos se irán de Mewni para buscar una vida mejor y libre de discriminación, así que Star y Tom van a buscarlos para intentar hacerlos cambiar de idea.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/91/12912336_962B6EAF53A87D0A.jpg" />
-    <country lang="es">US</country>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220927100000 +0000" stop="20220927103000 +0000" channel="Disney Channel!">
-    <title lang="es">Phineas y Ferb</title>
-    <sub-title lang="es">¿Qué es lo que hace?, La Atlántida</sub-title>
-    <desc lang="es">Después de que una de las invenciones del Dr. Doofenshmirtz aterriza en el patio, los niños intentan descubrir qué hace. Phineas y Ferb y los niños del barrio realizan un viaje épico para encontrar la ciudad perdida de Atlantis.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/24/10245346_E26CB3FD177821AA.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S2 E20</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220927103000 +0000" stop="20220927104500 +0000" channel="Disney Channel!">
-    <title lang="es">Las aventuras de Pilar</title>
-    <sub-title lang="es">Urania</sub-title>
-    <desc lang="es">Pilar va a Grecia para conocer a la musa de los astrónomos Urania y que le enseñe sobre las constelaciones, ¡pero un ladrón roba su mapa.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/58/12581523_A46FEA8186826D8D.jpg" />
-    <country lang="es">BR</country>
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220927104500 +0000" stop="20220927110000 +0000" channel="Disney Channel!">
-    <title lang="es">Cortos Mickey Mouse</title>
-    <sub-title lang="es">Captain Donald</sub-title>
-    <desc lang="es">Mickey y Donald en una nueva aventura marina: un paseo en velero. Pero hay algo que lo impide: Donald no sabe cómo navegar.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/39/12399730_556407BED225A680.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S2 E7</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220927110000 +0000" stop="20220927113000 +0000" channel="Disney Channel!">
-    <title lang="es">Patoaventuras</title>
-    <sub-title lang="es">Pesadilla en la colina Killmotor</sub-title>
-    <desc lang="es">Después de una larga noche celebrando el aniversario de un año de Webby y Lena como amigos, ellos, Violet y los niños se van a dormir. Sin embargo, entran en un mundo de sueños a través de la magia de Lena y viajan a través de sus sueños favoritos.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/91/12910177_075AD1BE4E36451B.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S2 E19</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220927113000 +0000" stop="20220927114500 +0000" channel="Disney Channel!">
-    <title lang="es">Dino Dana</title>
-    <sub-title lang="es">Juego de huesos - Parte 2</sub-title>
-    <desc lang="es">En este especial de dos partes, Dana crea un juego de mesa llamado 'Juego de Huesos' que saca el lado competitivo de la familia, mientras representan qué sucedió cuando un meteorito terminó con el reinado de los dinosaurios.\n.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/27/10270117_97D52DD5FCA6B436.jpg" />
-    <country lang="es">CA</country>
-    <episode-num system="onscreen">S2 E26</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220927114500 +0000" stop="20220927120000 +0000" channel="Disney Channel!">
-    <title lang="es">Los vecinos Green</title>
-    <sub-title lang="es">Barry cuda</sub-title>
-    <desc lang="es">Cricket gasta los 10 dólares de propina que ganó ahuyentando una ave en un adorno de pez que canta, y no dejará de hacerlo cantar.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/49/10494710_415B0AAF3C1A9D81.jpg" />
-    <country lang="es">US</country>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220927120000 +0000" stop="20220927122500 +0000" channel="Disney Channel!">
-    <title lang="es">Amphibia</title>
-    <sub-title lang="es">Sapos y sentimientos, El museo de cera</sub-title>
-    <desc lang="es">En una ciudad lujosa, Anne y los Plantars se encuentran inesperadamente con un viejo amigo de Wartwood. La familia visita un museo de rarezas al borde de la carretera donde cada tesoro tiene un precio.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/75/12753545_CAA5124F3B31FD5E.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S2 E5</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220927123000 +0000" stop="20220927130000 +0000" channel="Disney Channel!">
-    <title lang="es">Grandes héroes: la serie</title>
-    <sub-title lang="es">El regreso de Baymax, segunda parte</sub-title>
-    <desc lang="es">Hiro es un niño genio de 14 años amante de la robótica, quien junto a Baymax y un grupo de genios, amigos de su difunto hermano, deben proteger la ciudad de San Fransokyo.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13016614_5B70DA9C533EBE50.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S1</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220927130000 +0000" stop="20220927131500 +0000" channel="Disney Channel!">
-    <title lang="es">El fantasma y Molly Mcgee</title>
-    <sub-title lang="es">Restaurando el anfiteatro, el mejor concierto de todos</sub-title>
-    <desc lang="es">Molly acude al alcalde para pedirles que reconstruyan el auditorio acústico, pero se niegan, por lo que ella y Darryl recolectan dinero de todos. Molly decide que la superestrella del country Kenny Star toque en el auditorio e incluso traza meticulosamente dónde estaría su autobús de gira.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/55/12557449_1FB712EE25C5BF64.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220927131500 +0000" stop="20220927133000 +0000" channel="Disney Channel!">
-    <title lang="es">Hotel Transylvania: La serie</title>
-    <sub-title lang="es">Destino Festival de la Momia</sub-title>
-    <desc lang="es">Pedro siempre es el primero en la fila en el buffet. ¿Cuál es su secreto? ¡Un amuleto que literalmente puede detener el tiempo! Y a pesar de que ha sido advertido de no usarlo, Mavis lo hace. Y ahí es cuando los problemas comienzan.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/86/11867181_94451A579BFA1323.jpg" />
-    <country lang="es">US</country>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220927133000 +0000" stop="20220927140000 +0000" channel="Disney Channel!">
-    <title lang="es">The Owl House: La casa Búho</title>
-    <sub-title lang="es">Manteniendo los miedos</sub-title>
-    <desc lang="es">Eda se sorprende al recibir una visita no deseada de un miembro de la familia quien ejerce presión sobre todos en la Casa Búho. Pronto, más de un problema sale a la luz.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/91/12910265_0DD2AC17251F1028.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S2 E4</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220927140000 +0000" stop="20220927143000 +0000" channel="Disney Channel!">
-    <title lang="es">Los vecinos Green</title>
-    <sub-title lang="es">Ganarle al calor, Incredi-Bill</sub-title>
-    <desc lang="es">En el día más caluroso en Big City, Remy aparece para desafiar a Cricket a un juego de caballo. Cricket encuentra el viejo scooter móvil de Gramma y lo monta, lo que hace que el jardín se destruya.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/17/11178201_17601078F0169ADB.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S2 E7</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220927143000 +0000" stop="20220927150000 +0000" channel="Disney Channel!">
-    <title lang="es">Los vecinos Green</title>
-    <sub-title lang="es">Aletas y arena, Tejedor de sueños</sub-title>
-    <desc lang="es">La Familia Verde se dirige a pasar un día en la playa donde quedan atrapados en travesuras locas. Cricket se aburre después de despertarse en medio de la noche.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/31/12318011_44B60CDECD0C6C85.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S2 E8</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
     </rating>
   </programme>
 </tv>
