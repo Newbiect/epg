@@ -119,6 +119,7 @@
   </channel>
   <channel id="Disney Channel!">
     <display-name lang="es">Disney Channel!</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523290_AD350A44EE3C7F22.png" />
     <url>http://www.movistar.com.pe</url>
   </channel>
   <programme start="20220926193000 +0000" stop="20220926200000 +0000" channel="NY1 Noticias">
@@ -19805,6 +19806,1604 @@
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/97/9977078_2131F45380F91F28.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S1 E21</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220926200100 +0000" stop="20220926201300 +0000" channel="Disney Channel!">
+    <title lang="es">Los vecinos Green</title>
+    <sub-title lang="es">Escándalo en el supermercado</sub-title>
+    <desc lang="es">Los Green abren un puesto de comida, pero tienen pocos suministros, por lo que Cricket tiene la idea de hacer comida artificial.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/48/10488092_E003798D4F02DFB0.jpg" />
+    <country lang="es">US</country>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220926201300 +0000" stop="20220926215900 +0000" channel="Disney Channel!">
+    <title lang="es">Vampire Sisters 3</title>
+    <desc lang="es">La alegría de las dos hermanas vampiro Silvana y Dakaria podría ser mayor ante la llegada de su hermano mitad vampiro llamado Franz. Pero cuando el menor cumple su primer año, la reina Antanasia decide secuestrarlo para convertirlo en su heredero.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/39/12399737_68C872C87668499A.jpg" />
+    <country lang="es">DE</country>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220926215900 +0000" stop="20220926222800 +0000" channel="Disney Channel!">
+    <title lang="es">Sydney como Max</title>
+    <sub-title lang="es">Haz lo correcto</sub-title>
+    <desc lang="es">Syd sospecha que su maestra les asignó figuras históricas dependiendo de su raza, y ella y sus compañeros deciden hacer algo al respecto.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/72/12724227_8A771A651858871D.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S3 E11</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220926222800 +0000" stop="20220926230000 +0000" channel="Disney Channel!">
+    <title lang="es">Acampados</title>
+    <sub-title lang="es">Cruzando la frontera</sub-title>
+    <desc lang="es">Zuri y Griff están enamorados el uno del otro, pero Emma y Xander creen que están tramando algo que podría ponerlos en problemas.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/13/12139268_16A6DCE499D0C253.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S2 E21</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220926230000 +0000" stop="20220926233200 +0000" channel="Disney Channel!">
+    <title lang="es">Andi Mack</title>
+    <sub-title lang="es">Tengo tu número</sub-title>
+    <desc lang="es">Buffy invita a Andi a una noche de cine de baile en su casa, pero en una noche, Andi tiene otros planes, así que intentan reprogramarla.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/83/12838225_D3DFEB9E6A97F87B.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S3 E8</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220926233200 +0000" stop="20220927000000 +0000" channel="Disney Channel!">
+    <title lang="es">Andi Mack</title>
+    <sub-title lang="es">Sociedad secreta</sub-title>
+    <desc lang="es">Andi, Cyrus y Buffy son informados por Jonah que hay una sociedad secreta en la Escuela Secundaria Jefferson, y uno será seleccionado para unirse a Cyrus no cree que sea elegido, pero lo es.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/84/12844834_C45B899E39BC4D13.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S3 E9</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220927000000 +0000" stop="20220927003300 +0000" channel="Disney Channel!">
+    <title lang="es">Gabby Duran: Niñera de aliens</title>
+    <sub-title lang="es">Welcome to the Club</sub-title>
+    <desc lang="es">En este episodio, al unirse al club Latinx, Gabby se ve en una crisis de identidad, intentando demostrar al grupo su conocimiento de todo lo Latinx.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/71/10714116_50CF9CA22F065AB6.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S2 E11</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220927003300 +0000" stop="20220927010800 +0000" channel="Disney Channel!">
+    <title lang="es">Gabby Duran: Niñera de aliens</title>
+    <sub-title lang="es">Shoe-Dun-It</sub-title>
+    <desc lang="es">Una niña encuentra su momento para brillar al conseguir un trabajo en el que debe cuidar a un grupo rebelde de niños extraterrestres que se esconden en la Tierra con sus familias, disfrazados de niños comunes.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/35/11358434_53A2F3770DBDBDC1.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S2 E18</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220927010800 +0000" stop="20220927014000 +0000" channel="Disney Channel!">
+    <title lang="es">Holly Hobbie</title>
+    <sub-title lang="es">La criminal aplastante</sub-title>
+    <desc lang="es">Después de descubrir que Piper y su madre están atrasados en el pago del alquiler y tendrán que mudarse, Holly toma medidas extremas para ayudar a su nueva amiga.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/35/11358491_9F113D544CD5E65B.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220927014000 +0000" stop="20220927021100 +0000" channel="Disney Channel!">
+    <title lang="es">Gravity Falls: Un verano de misterios</title>
+    <sub-title lang="es">Soos y la chica real</sub-title>
+    <desc lang="es">Soos hace una promesa a su abuela de que puede encontrar una novia en una semana, y compra un juego de simulador de citas para ayudarlo a aprender a hablar con las mujeres.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/81/12819033_D73D209AB7C5D2BF.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220927021100 +0000" stop="20220927024200 +0000" channel="Disney Channel!">
+    <title lang="es">Trollhunters</title>
+    <sub-title lang="es">The Eternal Knight: Part 1</sub-title>
+    <desc lang="es">La caída de la sombra de la Noche Eterna sobre Arcadia da paso al esperado enfrentamiento entre Gunmar y el recientemente transformado cazador de trolls.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/82/12825130_6C8F0453AD8BBC37.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S3 E12</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220927024200 +0000" stop="20220927031400 +0000" channel="Disney Channel!">
+    <title lang="es">Grandes héroes: la serie</title>
+    <sub-title lang="es">Prey date</sub-title>
+    <desc lang="es">Amara visita la residencia de Frederickson donde Hiro le pregunta cómo le va a Knox. Después de dar una respuesta vaga, Hiro comienza a sospechar que algo está mal.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/91/12912334_D187ACA99EFE25BA.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220927031400 +0000" stop="20220927034300 +0000" channel="Disney Channel!">
+    <title lang="es">Prodigiosa: Las aventuras de Ladybug</title>
+    <sub-title lang="es">Climatika 2</sub-title>
+    <desc lang="es">Chloé se junta con Aurore después de que sus calificaciones bajaron debido a su trabajo como chica del clima, la enojó y permitió que Hawk Moth la transformara nuevamente en Stormy Weather, pero esta vez con sus poderes mucho más fuertes que antes.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/89/9899126_3C5E692CA83DD9C1.jpg" />
+    <country lang="es">FR</country>
+    <episode-num system="onscreen">S3 E8</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220927034300 +0000" stop="20220927041000 +0000" channel="Disney Channel!">
+    <title lang="es">Secretos en Sulphur Springs</title>
+    <sub-title lang="es">Perejil, Salvia, Romero y Tiempo</sub-title>
+    <desc lang="es">Ben está molesto por la avalancha de noticias que marcan el trigésimo aniversario de la desaparición de Savannah, mientras que Zoey y Wyatt lo ven como la oportunidad perfecta para finalmente capturar a su fantasma en una cinta.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/96/9968011_2A2037C7A9A92FA1.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220927041000 +0000" stop="20220927043500 +0000" channel="Disney Channel!">
+    <title lang="es">Los hechiceros de Waverly Place</title>
+    <sub-title lang="es">Hacer Que Pase</sub-title>
+    <desc lang="es">Jerry les pregunta a los chicos que opción de trabajo harían si perdieran sus poderes. Alex tiene la idea de ser baterista de una banda, Justin de ser el campeón de ajedrez, y Max un mago.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/78/12785283_BD5505B7D186CCA8.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S2 E32</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220927043500 +0000" stop="20220927050400 +0000" channel="Disney Channel!">
+    <title lang="es">La casa de Raven</title>
+    <sub-title lang="es">Salvado por la bella</sub-title>
+    <desc lang="es">Como parte de su misión para ganar el Freshest por cuarto año consecutivo, Booker necesita con desesperación el anhelado Freshest Freshman para solidificar su leyenda.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/93/12938285_51BEB74D80AF523C.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S4 E19</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220927050400 +0000" stop="20220927053200 +0000" channel="Disney Channel!">
+    <title lang="es">Gabby Duran: Niñera de aliens</title>
+    <sub-title lang="es">Who is Joey Panther?</sub-title>
+    <desc lang="es">Gabby asistirá a Havensburg Junior High. Ella planea que su primer baile allí sea genial hasta que la extraña amiga de Wesley, Rhonda, se presente como parte de un acuerdo que se hizo hace años. Gabby conoce a un chico llamado Joey Panther que se convierte en su cita de graduación.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/96/12965251_25B6F4F769B1F2BF.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E14</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220927053200 +0000" stop="20220927055900 +0000" channel="Disney Channel!">
+    <title lang="es">Sydney como Max</title>
+    <sub-title lang="es">Jingled Out</sub-title>
+    <desc lang="es">Max quiere un jingle para promocionar Reynolds Rides, por lo que Sydney insiste en escribirlo. Después de que las dos primeras que escribe son rechazadas, Sydney finalmente se siente tentada a renunciar, justo cuando escribió una tercera versión, sin embargo, Olive termina salvando el día.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/35/11355976_FFFE6E835F0AA5D2.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S3 E15</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220927055900 +0000" stop="20220927062200 +0000" channel="Disney Channel!">
+    <title lang="es">Acampados</title>
+    <sub-title lang="es">Amigándose con el enemigo</sub-title>
+    <desc lang="es">Emma convence a Lou de que deben hacer un esfuerzo para hacerse amigos de Hazel. Mientras tanto, un productor de TV obtiene a Ravi, Zuri y Tiffany para ayudarlo a cazar al legendario monstruo Kikiwaka.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/52/12529163_2CE39AC23D800F7A.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220927062200 +0000" stop="20220927064500 +0000" channel="Disney Channel!">
+    <title lang="es">Star vs. las fuerzas del mal</title>
+    <sub-title lang="es">Vida nocturna, Excavar profundo</sub-title>
+    <desc lang="es">Star se entera de que Marco y Hekapoo han estado lidiando con portales interdimensionales problemáticos; el sueño de Star se convierte en un peligro y decide detenerlo.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/57/10570217_1C24D3A05AAAA07B.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S3 E12</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220927064500 +0000" stop="20220927070700 +0000" channel="Disney Channel!">
+    <title lang="es">¡Vete ya, Unicornio!</title>
+    <sub-title lang="es">This is tutu much, unicorn!; Get real, unicorn!</sub-title>
+    <desc lang="es">Alice y sus compañeros de karate esperan derrotar al dojo de Chaz en una exhibición, pero primero tendrán que dominar la forma más agotadora de entrenamiento físico, el ballet.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/35/11355250_2F0BFF9ABF202FA6.jpg" />
+    <country lang="es">CA</country>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220927070700 +0000" stop="20220927073000 +0000" channel="Disney Channel!">
+    <title lang="es">Gravity Falls: Un verano de misterios</title>
+    <sub-title lang="es">La guerra del golf</sub-title>
+    <desc lang="es">Después de ser criticado por Pacifica demasiadas veces, Mabel la desafía a un juego de golf en miniatura, que se sale de control cuando algunos residentes locales ofrecen su ayuda.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/81/12819031_B93FB1680845DAE0.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220927073000 +0000" stop="20220927075200 +0000" channel="Disney Channel!">
+    <title lang="es">Hotel Transylvania: La serie</title>
+    <sub-title lang="es">Verdaderas molestias, cómo resuelves un problema como Medusa</sub-title>
+    <desc lang="es">Mavis invita al rival de la escuela secundaria de Lydia al hotel.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/84/12848299_A19903CA90B505A1.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220927075200 +0000" stop="20220927081500 +0000" channel="Disney Channel!">
+    <title lang="es">Los vecinos Green</title>
+    <sub-title lang="es">Problemas en el agua, la cabra de Tilly</sub-title>
+    <desc lang="es">Cuando los Verdes visitan una piscina cubierta, desafían a Cricket a saltar de la inmersión. Tilly afirma que su cabra tiene el espíritu de un perro y lo ingresa en una exposición canina.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/83/12832618_1C7666487B4E6EDA.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220927081500 +0000" stop="20220927083700 +0000" channel="Disney Channel!">
+    <title lang="es">Star vs. las fuerzas del mal</title>
+    <sub-title lang="es">Dar vuelta la página, Nolódiga</sub-title>
+    <desc lang="es">Star intenta resistir ante la tentación de leer un capítulo prohibido en su libro de hechizos. A Marco le crece una segunda cabeza que le revela sus más oscuros secretos e inseguridades.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13031789_759DC9BDCAF49802.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S2 E13</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220927083700 +0000" stop="20220927090000 +0000" channel="Disney Channel!">
+    <title lang="es">Prodigiosa: Las aventuras de Ladybug</title>
+    <sub-title lang="es">Sapotis</sub-title>
+    <desc lang="es">Las hermanas pequeñas de Alya, Ella y Etta, se convierten en Sapotis después de permanecer despiertas. Ladybug y Cat Noir deben buscar la ayuda de un aliado para vencer a los monstruos que se multiplican.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13035261_CD32304A2ADF6D70.jpg" />
+    <country lang="es">FR</country>
+    <episode-num system="onscreen">S2 E11</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220927090000 +0000" stop="20220927093000 +0000" channel="Disney Channel!">
+    <title lang="es">Prodigiosa: Las aventuras de Ladybug</title>
+    <sub-title lang="es">Culpa</sub-title>
+    <desc lang="es">Mientras Reflekta se ve invadido por un sentimiento de culpa, Ladybug llama a un nuevo aliado lleno de positividad.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/91/12912335_B038BE583C805B61.jpg" />
+    <country lang="es">FR</country>
+    <episode-num system="onscreen">S4 E8</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220927093000 +0000" stop="20220927095400 +0000" channel="Disney Channel!">
+    <title lang="es">Star vs. las fuerzas del mal</title>
+    <sub-title lang="es">La Batalla por Mewni: Defensor del charco, La Batalla por Mewni: Rey Ludo</sub-title>
+    <desc lang="es">Star y su madre Moon al no poder revivir al Alto Comité de Magia, le hacen una pequeña visita a Sapo Toro. Star se dirige al castillo para rescatar a su padre si, pero luego se encontró con Marco, para detener a Ludo y Toffee juntos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/81/12816773_2A4DE9A5360CEFB8.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220927095400 +0000" stop="20220927100000 +0000" channel="Disney Channel!">
+    <title lang="es">Star vs. las fuerzas del mal</title>
+    <sub-title lang="es">Es otro misterio</sub-title>
+    <desc lang="es">Marco descubre un mensaje de Sapo Toro que revela que él y otros Monstruos se irán de Mewni para buscar una vida mejor y libre de discriminación, así que Star y Tom van a buscarlos para intentar hacerlos cambiar de idea.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/91/12912336_962B6EAF53A87D0A.jpg" />
+    <country lang="es">US</country>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220927100000 +0000" stop="20220927103000 +0000" channel="Disney Channel!">
+    <title lang="es">Phineas y Ferb</title>
+    <sub-title lang="es">¿Qué es lo que hace?, La Atlántida</sub-title>
+    <desc lang="es">Después de que una de las invenciones del Dr. Doofenshmirtz aterriza en el patio, los niños intentan descubrir qué hace. Phineas y Ferb y los niños del barrio realizan un viaje épico para encontrar la ciudad perdida de Atlantis.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/62/12624977_41B2FE7DF8B42B3C.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S2 E20</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220927103000 +0000" stop="20220927104500 +0000" channel="Disney Channel!">
+    <title lang="es">Las aventuras de Pilar</title>
+    <sub-title lang="es">Urania</sub-title>
+    <desc lang="es">Pilar va a Grecia para conocer a la musa de los astrónomos Urania y que le enseñe sobre las constelaciones, ¡pero un ladrón roba su mapa.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/58/12581523_A46FEA8186826D8D.jpg" />
+    <country lang="es">BR</country>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220927104500 +0000" stop="20220927110000 +0000" channel="Disney Channel!">
+    <title lang="es">Cortos Mickey Mouse</title>
+    <sub-title lang="es">Captain Donald</sub-title>
+    <desc lang="es">Mickey y Donald en una nueva aventura marina: un paseo en velero. Pero hay algo que lo impide: Donald no sabe cómo navegar.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/31/12318012_F88AF55C9400250F.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220927110000 +0000" stop="20220927113000 +0000" channel="Disney Channel!">
+    <title lang="es">Patoaventuras</title>
+    <sub-title lang="es">Pesadilla en la colina Killmotor</sub-title>
+    <desc lang="es">Después de una larga noche celebrando el aniversario de un año de Webby y Lena como amigos, ellos, Violet y los niños se van a dormir. Sin embargo, entran en un mundo de sueños a través de la magia de Lena y viajan a través de sus sueños favoritos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/91/12910177_075AD1BE4E36451B.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S2 E19</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220927113000 +0000" stop="20220927114500 +0000" channel="Disney Channel!">
+    <title lang="es">Dino Dana</title>
+    <sub-title lang="es">Juego de huesos - Parte 2</sub-title>
+    <desc lang="es">En este especial de dos partes, Dana crea un juego de mesa llamado 'Juego de Huesos' que saca el lado competitivo de la familia, mientras representan qué sucedió cuando un meteorito terminó con el reinado de los dinosaurios.\n.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/91/12914719_697E459566D44E21.jpg" />
+    <country lang="es">CA</country>
+    <episode-num system="onscreen">S2 E26</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220927114500 +0000" stop="20220927120000 +0000" channel="Disney Channel!">
+    <title lang="es">Los vecinos Green</title>
+    <sub-title lang="es">Barry cuda</sub-title>
+    <desc lang="es">Cricket gasta los 10 dólares de propina que ganó ahuyentando una ave en un adorno de pez que canta, y no dejará de hacerlo cantar.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/49/10494710_415B0AAF3C1A9D81.jpg" />
+    <country lang="es">US</country>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220927120000 +0000" stop="20220927122500 +0000" channel="Disney Channel!">
+    <title lang="es">Amphibia</title>
+    <sub-title lang="es">Sapos y sentimientos, El museo de cera</sub-title>
+    <desc lang="es">En una ciudad lujosa, Anne y los Plantars se encuentran inesperadamente con un viejo amigo de Wartwood. La familia visita un museo de rarezas al borde de la carretera donde cada tesoro tiene un precio.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/75/12753545_CAA5124F3B31FD5E.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220927123000 +0000" stop="20220927130000 +0000" channel="Disney Channel!">
+    <title lang="es">Grandes héroes: la serie</title>
+    <sub-title lang="es">El regreso de Baymax, segunda parte</sub-title>
+    <desc lang="es">Hiro es un niño genio de 14 años amante de la robótica, quien junto a Baymax y un grupo de genios, amigos de su difunto hermano, deben proteger la ciudad de San Fransokyo.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13016614_5B70DA9C533EBE50.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220927130000 +0000" stop="20220927131500 +0000" channel="Disney Channel!">
+    <title lang="es">El fantasma y Molly Mcgee</title>
+    <sub-title lang="es">Restaurando el anfiteatro, el mejor concierto de todos</sub-title>
+    <desc lang="es">Molly acude al alcalde para pedirles que reconstruyan el auditorio acústico, pero se niegan, por lo que ella y Darryl recolectan dinero de todos. Molly decide que la superestrella del country Kenny Star toque en el auditorio e incluso traza meticulosamente dónde estaría su autobús de gira.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/55/12554683_321D21EDAF7BAB4D.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220927131500 +0000" stop="20220927133000 +0000" channel="Disney Channel!">
+    <title lang="es">Hotel Transylvania: La serie</title>
+    <sub-title lang="es">Destino Festival de la Momia</sub-title>
+    <desc lang="es">Pedro siempre es el primero en la fila en el buffet. ¿Cuál es su secreto? ¡Un amuleto que literalmente puede detener el tiempo! Y a pesar de que ha sido advertido de no usarlo, Mavis lo hace. Y ahí es cuando los problemas comienzan.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/86/11867181_94451A579BFA1323.jpg" />
+    <country lang="es">US</country>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220927133000 +0000" stop="20220927140000 +0000" channel="Disney Channel!">
+    <title lang="es">The Owl House: La casa Búho</title>
+    <sub-title lang="es">Manteniendo los miedos</sub-title>
+    <desc lang="es">Eda se sorprende al recibir una visita no deseada de un miembro de la familia quien ejerce presión sobre todos en la Casa Búho. Pronto, más de un problema sale a la luz.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/91/12910265_0DD2AC17251F1028.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220927140000 +0000" stop="20220927143000 +0000" channel="Disney Channel!">
+    <title lang="es">Los vecinos Green</title>
+    <sub-title lang="es">Ganarle al calor, Incredi-Bill</sub-title>
+    <desc lang="es">En el día más caluroso en Big City, Remy aparece para desafiar a Cricket a un juego de caballo. Cricket encuentra el viejo scooter móvil de Gramma y lo monta, lo que hace que el jardín se destruya.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/70/12705099_4DD1FD37B6C0E6A5.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220927143000 +0000" stop="20220927150000 +0000" channel="Disney Channel!">
+    <title lang="es">Los vecinos Green</title>
+    <sub-title lang="es">Aletas y arena, Tejedor de sueños</sub-title>
+    <desc lang="es">La Familia Verde se dirige a pasar un día en la playa donde quedan atrapados en travesuras locas. Cricket se aburre después de despertarse en medio de la noche.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/32/12329466_8DDEBEFADFD4A087.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220927150000 +0000" stop="20220927153000 +0000" channel="Disney Channel!">
+    <title lang="es">Los vecinos Green</title>
+    <sub-title lang="es">Subir de nivel, Lado salvaje</sub-title>
+    <desc lang="es">Decepcionado por la falta de avances en su agricultura, debido a la naturaleza restrictiva de Big City. Cricket sufre de 'picazón' cuando se niega a establecerse y se convierte en un niño salvaje.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/98/12982297_0D361E7D7F16CC98.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220927153000 +0000" stop="20220927160000 +0000" channel="Disney Channel!">
+    <title lang="es">Los vecinos Green</title>
+    <sub-title lang="es">Historias de garaje, Rebelión en otra granja</sub-title>
+    <desc lang="es">Mientras examinan algo de basura en el garaje, Cricket y Tilly descubren una caja de cosas viejas que Gramma insiste en que es importante para ella y les cuenta sobre la mayor aventura de su vida.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/47/10474442_5B11C7019465FA47.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S2 E10</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220927160000 +0000" stop="20220927163000 +0000" channel="Disney Channel!">
+    <title lang="es">Zack y Cody: gemelos en acción</title>
+    <sub-title lang="es">A Tale of Two Houses</sub-title>
+    <desc lang="es">La familia de Esteban vuelve a casa y al trono. Ahora Esteban es rico y, por eso, London quiere llevárselo de compras. Zack y Cody están enfadados porque Carey no deja que se queden en casa solos con sus novias.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/73/9739763_D898E7BE92E7125D.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S3 E15</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220927163000 +0000" stop="20220927170000 +0000" channel="Disney Channel!">
+    <title lang="es">Sunny entre estrellas</title>
+    <sub-title lang="es">Sunny With A Secret II</sub-title>
+    <desc lang="es">Cuando Sunny vuelve a Wisconsin la escuela secundaria le prepara una bienvenida. Cuando alguien en el set comienza a propagar los rumores de que es una ladrona, causando su reputación a deteriorarse y es en última instancia, pedirá que deje el show.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/91/12912372_AD08B9E64DB7CE04.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S2</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220927170000 +0000" stop="20220927173000 +0000" channel="Disney Channel!">
+    <title lang="es">Agente K.C.</title>
+    <sub-title lang="es">58</sub-title>
+    <desc lang="es">Ernie y Marisa se burlan de KC, creyendo que no tiene una cita para su regreso a la escuela secundaria. KC tiene la misión de recuperar un dispositivo para alterar el clima conocido como Storm Maker.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/91/12919561_D78AE8C90DE94D7F.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S3 E7</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220927173000 +0000" stop="20220927180000 +0000" channel="Disney Channel!">
+    <title lang="es">A todo ritmo</title>
+    <sub-title lang="es">A todo Ty</sub-title>
+    <desc lang="es">CeCe y Rocky deben volver audicionar para Shake It Up, en la ciudad de Chicago.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/91/12912338_4177F75A576EF5A2.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S3 E9</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220927180000 +0000" stop="20220927183000 +0000" channel="Disney Channel!">
+    <title lang="es">Gravity Falls: Un verano de misterios</title>
+    <sub-title lang="es">Teatro de calcetines</sub-title>
+    <desc lang="es">Cerca de desbloquear la computadora portátil del autor, Dipper es visitado por el demonio Bill, que quiere hacer un trato. Mabel ofrece un espectáculo de marionetas para impresionar a un niño.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/13/12137082_C4D370FA933D4490.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220927183000 +0000" stop="20220927190000 +0000" channel="Disney Channel!">
+    <title lang="es">Star vs. las fuerzas del mal</title>
+    <sub-title lang="es">La batalla por Miauni: Toffee</sub-title>
+    <desc lang="es">El reinado del Rey Ludo llega como un punto de inflexión cuando Star regresa al castillo. Star debe convocar su fuerza para salvar a su familia y el reino.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/70/11706815_32F10624B807E453.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220927190000 +0000" stop="20220927193000 +0000" channel="Disney Channel!">
+    <title lang="es">La casa de Raven</title>
+    <sub-title lang="es">Sleevemore Part One: Frozen</sub-title>
+    <desc lang="es">Después de encontrarse con el Dr. Sleevemore una vez más, Raven acepta su invitación para que su familia y amigos, Booker en particular, visiten su instituto para jóvenes extraordinarios. Booker hace una aparente desaparición.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/49/12493783_643F46B432F7CB3E.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S2 E12</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220927193000 +0000" stop="20220927200000 +0000" channel="Disney Channel!">
+    <title lang="es">Gabby Duran: Niñera de aliens</title>
+    <sub-title lang="es">Vortex &amp; night train</sub-title>
+    <desc lang="es">Al tropezar con 'Bagly Cooper', Wesley besa accidentalmente a Gabby, lo que los hace sentir incómodos cuando Wesley afirma que el beso es el mejor asesino de los amigos. Jeremy utiliza una tecnología que borra la mente de algunas amistades, lo que falla cuando elimina las próximas cuatro horas en lugar de las últimas horas.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/04/13040374_8BD29A35791582A5.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E16</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220927200000 +0000" stop="20220927201500 +0000" channel="Disney Channel!">
+    <title lang="es">Los vecinos Green</title>
+    <sub-title lang="es">Un merecido descanso</sub-title>
+    <desc lang="es">Descubre las aventuras de Cricket Green, un chico de campo travieso pero optimista que se muda a la gran ciudad junto con su familia.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/49/10492164_E9F713E0872125E4.jpg" />
+    <country lang="es">US</country>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220927201500 +0000" stop="20220927220000 +0000" channel="Disney Channel!">
+    <title lang="es">Las aventuras del Niño Tiburón y la Niña de Fuego</title>
+    <desc lang="es">Max se convierte en un blanco para los matones. Un día, invoca accidentalmente personajes imaginarios en su mente llamados Sharkboy y Lavagirl. Ellos son sus héroes que lo defenderán a toda costa, pero necesitan un máximo de poder para salvar su mundo.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/52/11527910_02D8EAB99299E595.jpg" />
+    <country lang="es">US</country>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220927220000 +0000" stop="20220927223000 +0000" channel="Disney Channel!">
+    <title lang="es">Sydney como Max</title>
+    <sub-title lang="es">Cool Intentions</sub-title>
+    <desc lang="es">Cuando Max se va el fin de semana y deja a su madre a cargo, Sydney se aprovecha de su abuela y organiza una fiesta de pijamas un domingo por la noche.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/35/11355976_FFFE6E835F0AA5D2.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S3 E12</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220927223000 +0000" stop="20220927230000 +0000" channel="Disney Channel!">
+    <title lang="es">Acampados</title>
+    <sub-title lang="es">Tristes días de verano</sub-title>
+    <desc lang="es">Emma, Ravi y Zuri Ross se dirigen a un campamento de verano rústico en Maine, donde sus padres se conocieron cuando eran adolescentes. Junto con sus nuevos amigos, amores y los temores del campamento, el trío hace todo lo posible para instalarse en sus nuevas y emocionantes vidas en el Campamento Kikiwaka.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/92/12925744_B1FCAF1752716B6C.jpg" />
+    <country lang="es">US</country>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220927230000 +0000" stop="20220927233000 +0000" channel="Disney Channel!">
+    <title lang="es">Coop y Cami</title>
+    <sub-title lang="es">Would You Wrather Move?</sub-title>
+    <desc lang="es">Los niños se sorprenden al descubrir que, por un malentendido del que son responsables, Walker ha sido despedido de su trabajo.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/70/12701536_1314BD6D0C909F04.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S2 E27</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220927233000 +0000" stop="20220928000000 +0000" channel="Disney Channel!">
+    <title lang="es">Coop y Cami</title>
+    <sub-title lang="es">Would you wrather lose your bestie?</sub-title>
+    <desc lang="es">Coop y Cami son dos hermanos que toman importantes decisiones en su vida basándose en las opiniones de sus millones de seguidores, los cuales siguen su canal de video online llamado 'Would You Wrather?'.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/79/12794779_007F5A9657ED7E3A.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S2 E17</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220928000000 +0000" stop="20220928003000 +0000" channel="Disney Channel!">
+    <title lang="es">Sydney como Max</title>
+    <sub-title lang="es">Family Buy</sub-title>
+    <desc lang="es">Los Reynold reciben una suma de dinero, pero no pueden ponerse de acuerdo acerca de en qué gastarla. Mientras, Sydney se encuentra en el medio de lo que su padre y la abuela Judy quieren.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/35/11355976_FFFE6E835F0AA5D2.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S3 E17</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220928003000 +0000" stop="20220928010000 +0000" channel="Disney Channel!">
+    <title lang="es">Sydney como Max</title>
+    <sub-title lang="es">My Cousin Lexi</sub-title>
+    <desc lang="es">Sydney está emocionada de pasar tiempo con su prima Lexi, de siete años, quien se quedará unos días mientras sus padres están en Sudáfrica. Los Reynolds descubren que la estadía de Lexi es más agradable de lo que pensaban, cuando presenta algunas bromas que aprendió en su ciudad natal en Savannah, Georgia.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/35/11355976_FFFE6E835F0AA5D2.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S3 E18</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220928010000 +0000" stop="20220928013000 +0000" channel="Disney Channel!">
+    <title lang="es">Holly Hobbie</title>
+    <sub-title lang="es">Una nueva Holly</sub-title>
+    <desc lang="es">Holly Hobbie ha vivido toda su vida en el pequeño pueblo de Collinsville. Holly es cantautora y tiene a sus mejores amigos y familia a su lado, pero sueña con formas de salvar el mundo, incluso si está comenzando en su propio patio trasero.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/37/11374174_D17537848D4755B0.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S2 E11</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220928013000 +0000" stop="20220928020000 +0000" channel="Disney Channel!">
+    <title lang="es">Gravity Falls: Un verano de misterios</title>
+    <sub-title lang="es">Teatro de calcetines</sub-title>
+    <desc lang="es">Cerca de desbloquear la computadora portátil del autor, Dipper es visitado por el demonio Bill, que quiere hacer un trato. Mabel ofrece un espectáculo de marionetas para impresionar a un niño.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/13/12137082_C4D370FA933D4490.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220928020000 +0000" stop="20220928023000 +0000" channel="Disney Channel!">
+    <title lang="es">Trollhunters</title>
+    <sub-title lang="es">The Eternal Knight: Part 2</sub-title>
+    <desc lang="es">La épica batalla llega a su punto álgido mientras Jim y sus amigos intentan contener a Morgana. Sin embargo, no cuentan con la ayuda de Merlín.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/82/12825130_6C8F0453AD8BBC37.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S3 E13</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220928023000 +0000" stop="20220928030000 +0000" channel="Disney Channel!">
+    <title lang="es">Grandes héroes: la serie</title>
+    <sub-title lang="es">Something's fishy</sub-title>
+    <desc lang="es">Mientras prueba el nuevo traje de camaleón de Fred, Cass le informa a Hiro que ha establecido una cita con una chica llamada Megan Cruz. Mientras tanto, Amara libera a High Voltage de la prisión.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/21/10213001_14D5EA7198C5B07B.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220928030000 +0000" stop="20220928033000 +0000" channel="Disney Channel!">
+    <title lang="es">Prodigiosa: Las aventuras de Ladybug</title>
+    <sub-title lang="es">Ikari Gozen</sub-title>
+    <desc lang="es">Kagami y Marinette están juntas en París y juegan en el día de la amistad para encontrar una celebridad oculta: Adrien. Además Marinette descubre que Kagami está realmente sola y quiere conocerla.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/83/12838180_BC43B1D0E82D43CD.jpg" />
+    <country lang="es">FR</country>
+    <episode-num system="onscreen">S3 E16</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220928033000 +0000" stop="20220928040000 +0000" channel="Disney Channel!">
+    <title lang="es">Secretos en Sulphur Springs</title>
+    <sub-title lang="es">Túnel del tiempo</sub-title>
+    <desc lang="es">La joven Jess desafía a Savannah a pasar la noche en el sótano de The Tremont con verdaderos fantasmas. El joven Ben sale en defensa de Savannah. ¡La joven Jess se marcha y desea que Savannah se vaya.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/96/9968012_6157AD50664C9BA4.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220928040000 +0000" stop="20220928043000 +0000" channel="Disney Channel!">
+    <title lang="es">Los hechiceros de Waverly Place</title>
+    <sub-title lang="es">La futura Harper</sub-title>
+    <desc lang="es">Los hermanos Russo se enteran de que su secreto fue expuesto por un autor popular a través de sus novelas, pero cuando atraviesan el Inter-Wizard People Porter para enfrentarse a ella, hacen un descubrimiento sorprendente.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/05/11057648_73D93CB02FD7F95A.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S2 E16</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220928043000 +0000" stop="20220928050000 +0000" channel="Disney Channel!">
+    <title lang="es">La casa de Raven</title>
+    <sub-title lang="es">¿Con que crees que puedes conducir?</sub-title>
+    <desc lang="es">Booker y Nia tienen sus permisos de principiantes, pero Raven no está lista para enseñarles a conducir. Cuando su padre llega a Chicago para ayudar con las lecciones de manejo, Nia comienza a preguntarse si está lista para conducir.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/94/12949987_793D19E1A5411DF8.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S4 E20</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220928050000 +0000" stop="20220928053000 +0000" channel="Disney Channel!">
+    <title lang="es">Gabby Duran: Niñera de aliens</title>
+    <sub-title lang="es">Fake news</sub-title>
+    <desc lang="es">Mientras capturan a un hada, Gabby y Olivia escuchan a su madre hablar con su abuela sobre los planes de trasladar a la familia a Miami debido a la falta de noticias interesantes. Para hacer que Havensburg sea interesante, las chicas reclutan a Jeremy, Sky, Kali y un Vitrious Primian llamado Louis para cometer cosas extrañas en Havensburg.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/72/12724174_C3199800026CDA84.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E15</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220928053000 +0000" stop="20220928060000 +0000" channel="Disney Channel!">
+    <title lang="es">Sydney como Max</title>
+    <sub-title lang="es">Honey, You Shrunk the Fit</sub-title>
+    <desc lang="es">Sydney debe representar a una línea de ropa popular en las redes sociales, pero tiene problemas con su molde de 'talla única'. En los años 90, Max recluta a Leo para que lo ayude a mejorar para impresionar a Alisha.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/35/11355976_FFFE6E835F0AA5D2.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S3 E16</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220928060000 +0000" stop="20220928063000 +0000" channel="Disney Channel!">
+    <title lang="es">Acampados</title>
+    <sub-title lang="es">¡Waka, Waka, Waka!</sub-title>
+    <desc lang="es">Ravi y Tiffany obtienen video PRUEBA de que existe el Kikiwaka. Mientras tanto, Emma y Lou intentan vender más que a Hazel en el Kikiwaka Day Festival.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/31/12318099_AD844F218665C7CF.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220928063000 +0000" stop="20220928070000 +0000" channel="Disney Channel!">
+    <title lang="es">Star vs. las fuerzas del mal</title>
+    <sub-title lang="es">Celebración monstruosa</sub-title>
+    <desc lang="es">Star Butterfly, una guerrera intergaláctica, llega a la tierra para vivir junto a la familia Díaz. No obstante, continua peleando con los villanos del universo junto a Marco, el hijo de la familia Díaz, y asiste a la escuela secundaria.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/91/12919573_951C58FDE906880A.jpg" />
+    <country lang="es">US</country>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220928070000 +0000" stop="20220928073000 +0000" channel="Disney Channel!">
+    <title lang="es">¡Vete ya, Unicornio!</title>
+    <sub-title lang="es">Blast off, unicorn!; Stay out, unicorn!</sub-title>
+    <desc lang="es">Cuando Alice va a un campamento de temática espacial con Unicornio y Ollie, todos se divierten hasta que Unicornio los dispara accidentalmente al espacio.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/70/12701530_E554612E56C27001.jpg" />
+    <country lang="es">CA</country>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220928073000 +0000" stop="20220928080000 +0000" channel="Disney Channel!">
+    <title lang="es">Gravity Falls: Un verano de misterios</title>
+    <sub-title lang="es">Soos y la chica real</sub-title>
+    <desc lang="es">Soos hace una promesa a su abuela de que puede encontrar una novia en una semana, y compra un juego de simulador de citas para ayudarlo a aprender a hablar con las mujeres.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/81/12819033_D73D209AB7C5D2BF.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220928080000 +0000" stop="20220928083000 +0000" channel="Disney Channel!">
+    <title lang="es">Hotel Transylvania: La serie</title>
+    <sub-title lang="es">Aventuras de una niñera vampira, flemabol</sub-title>
+    <desc lang="es">Los niños quedan atrapados en la casa de un humano. El primo de Mavis la desafía a un juego de bola de flema.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/71/10719893_F690AD599ECCB537.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220928083000 +0000" stop="20220928090000 +0000" channel="Disney Channel!">
+    <title lang="es">Los vecinos Green</title>
+    <sub-title lang="es">Abuela al volante, buscando al oso</sub-title>
+    <desc lang="es">Cricket y Tilly ayudan a la abuela a practicar su examen de conducir, Cricket, Tilly y Remy se hacen amigos de uno oso que anda suelto por la ciudad y tratan de protegerlo del oficial Keys.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/57/11571903_E2D6EBF7D1900AAF.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220928090000 +0000" stop="20220928093000 +0000" channel="Disney Channel!">
+    <title lang="es">Prodigiosa: Las aventuras de Ladybug</title>
+    <sub-title lang="es">Sentiburbujeador</sub-title>
+    <desc lang="es">Ahora que Shadow Moth sabe que Alya es Rena Rouge, intenta atrapar a todas las personas que más ama en burbujas en el cielo de París. La condición para liberarlos es simple: traicionar a Ladybug y Cat Noir.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/81/12814707_57617A18AC98F3B6.jpg" />
+    <country lang="es">FR</country>
+    <episode-num system="onscreen">S4 E10</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220928093000 +0000" stop="20220928095400 +0000" channel="Disney Channel!">
+    <title lang="es">Star vs. las fuerzas del mal</title>
+    <sub-title lang="es">El aroma de un abrigo, Descansa en Pudín</sub-title>
+    <desc lang="es">Después de ayudar a derrotar a Toffee, Marco se despide de Star y regresa a la Tierra, pero le falta su sudadera con capucha. La familia de Star y la Alta Comisión Mágica celebran un memorial para Lekmet.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/97/9976717_625F41F9EBE3F8F2.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S3 E5</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220928095400 +0000" stop="20220928100000 +0000" channel="Disney Channel!">
+    <title lang="es">Star vs. las fuerzas del mal</title>
+    <sub-title lang="es">Marco Junior</sub-title>
+    <desc lang="es">Marco y Star regresan a la Tierra y descubren que muy pronto Marco tendrá un hermano menor que llevará su mismo nombre.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/91/12919637_DF9E956C244EB2BB.jpg" />
+    <country lang="es">US</country>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220928100000 +0000" stop="20220928103000 +0000" channel="Disney Channel!">
+    <title lang="es">Phineas y Ferb</title>
+    <sub-title lang="es">El foto transportador, El concurso de baile</sub-title>
+    <desc lang="es">Phineas y Ferb se divierten con un dispositivo de teletransportación. Phineas y Ferb ayudan a Jeremy a convertirse en un gran bailarín para un programa de TV dance.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/25/10257227_ED1A8A3A74715934.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S2 E19</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220928103000 +0000" stop="20220928104500 +0000" channel="Disney Channel!">
+    <title lang="es">Las aventuras de Pilar</title>
+    <sub-title lang="es">Hefestos</sub-title>
+    <desc lang="es">Guayabanda va a realizar un concierto, pero Edu quiebra su brazo. Entonces Breno propone una solución, ¡el músico robot Mono Vox.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/58/12583621_07324397510428B2.jpg" />
+    <country lang="es">BR</country>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220928104500 +0000" stop="20220928110000 +0000" channel="Disney Channel!">
+    <title lang="es">Cortos Mickey Mouse</title>
+    <sub-title lang="es">Mumbai madness</sub-title>
+    <desc lang="es">Mickey haría un tranquilo viaje hacia Mumbai, pero un invitado especial cambia las cosas y todo se vuelve una gran aventura.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/31/12318329_9F0A36BDEC652D0A.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220928110000 +0000" stop="20220928113000 +0000" channel="Disney Channel!">
+    <title lang="es">Patoaventuras</title>
+    <sub-title lang="es">El arsenal dorado de Cornelio Coot</sub-title>
+    <desc lang="es">En Fort Duckburg, Webby convence a los niños de unirse a ella en una aventura para encontrar a Cornelius Cootla armería dorada; un tesoro que Della nunca encontró.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/56/10569929_346BF1CD38B6C76A.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S2 E20</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220928113000 +0000" stop="20220928114500 +0000" channel="Disney Channel!">
+    <title lang="es">Dino Dana</title>
+    <sub-title lang="es">The Dino or the Egg - Part 1</sub-title>
+    <desc lang="es">¡Es el comienzo de la tercera temporada y el nuevo bebé está por llegar! En la sala de espera, Saara lleva a Dana a una aventura en el tiempo para ver cómo nacen los bebés dinosaurios y cómo las familias trabajan para cuidarlos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/84/10847997_19833CD4C4440BF7.jpg" />
+    <country lang="es">CA</country>
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220928114500 +0000" stop="20220928120000 +0000" channel="Disney Channel!">
+    <title lang="es">Los vecinos Green</title>
+    <sub-title lang="es">El legado familiar</sub-title>
+    <desc lang="es">Conoce las aventuras de Cricket Green, un chico de campo que se muda con su familia, acostumbrada a la granja, a una metrópoli moderna.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/49/10497785_87F0E23316D02938.jpg" />
+    <country lang="es">US</country>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220928120000 +0000" stop="20220928122500 +0000" channel="Disney Channel!">
+    <title lang="es">Amphibia</title>
+    <sub-title lang="es">El reencuentro con Marcy</sub-title>
+    <desc lang="es">La familia llega a Newtopia, pero las puertas están cerradas debido a una invasión de hormigas gigantes. Tendrán que derrotar a todo el ejército de hormigas antes de que puedan entrar en la ciudad.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/57/10573394_6B4C61D1BAB32BBE.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220928123000 +0000" stop="20220928130000 +0000" channel="Disney Channel!">
+    <title lang="es">Grandes héroes: la serie</title>
+    <sub-title lang="es">Operación superación</sub-title>
+    <desc lang="es">Hiro es un niño genio de 14 años amante de la robótica, quien junto a Baymax y un grupo de genios, amigos de su difunto hermano, deben proteger la ciudad de San Fransokyo.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/95/12959685_BC779CD4F3942097.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220928130000 +0000" stop="20220928131500 +0000" channel="Disney Channel!">
+    <title lang="es">El fantasma y Molly Mcgee</title>
+    <sub-title lang="es">Mamá y su ajetreo, ¡Viva Mollywood!</sub-title>
+    <desc lang="es">Cuando la camioneta de McGee se avería, la mamá de Molly decide aceptar trabajos ocasionales para ayudar a la familia a costear la reparación. Molly aprende que más dinero significa más problemas cuando se une a Andrea para crear una película de terror.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/55/12554861_00BF35782A931C67.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220928131500 +0000" stop="20220928133000 +0000" channel="Disney Channel!">
+    <title lang="es">Hotel Transylvania: La serie</title>
+    <sub-title lang="es">Vendas de hermanos</sub-title>
+    <desc lang="es">El lujoso Hotel Transylvania es la sede principal de las aventuras más disparatadas de Drácula, su hija Mavis y los demás monstruos que aguardan en el lugar, ya que su único objetivo es mantenerse a salvo y apartados de los humanos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/77/10776324_A0A6A6F55612D19F.jpg" />
+    <country lang="es">US</country>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220928133000 +0000" stop="20220928140000 +0000" channel="Disney Channel!">
+    <title lang="es">The Owl House: La casa Búho</title>
+    <sub-title lang="es">A través de las ruinas del espejo</sub-title>
+    <desc lang="es">Gus intenta impresionar a un grupo de chicos geniales de Glandus High, mientras Luz y Amity viajan a la sección más peligrosa de la biblioteca.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/91/12919576_46E9BA0A15D00BD5.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220928140000 +0000" stop="20220928143000 +0000" channel="Disney Channel!">
+    <title lang="es">Prodigiosa: Las aventuras de Ladybug</title>
+    <sub-title lang="es">Gabriel Agreste</sub-title>
+    <desc lang="es">Nathaniel y Marc tienen un plan para que Marinette le declare sus sentimientos a Adrien. Lo preparan en la escuela, donde Adrien está libre del control de su padre. Pero Chloé filma su encuentro y amenaza con revelarle todo a Gabriel.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/86/12863114_745BF026782C4549.jpg" />
+    <country lang="es">FR</country>
+    <episode-num system="onscreen">S4 E19</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220928143000 +0000" stop="20220928150000 +0000" channel="Disney Channel!">
+    <title lang="es">Prodigiosa: Las aventuras de Ladybug</title>
+    <sub-title lang="es">Psicomediante</sub-title>
+    <desc lang="es">Un comediante famoso es akumatizado en psicomediante, capaz de imponer cualquier emoción a cualquiera. Ahora quiere borrar las sonrisas de los rostros de todos, comenzando con Ladybug y Cat Noir.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/86/12863114_745BF026782C4549.jpg" />
+    <country lang="es">FR</country>
+    <episode-num system="onscreen">S4 E21</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220928150000 +0000" stop="20220928153000 +0000" channel="Disney Channel!">
+    <title lang="es">Prodigiosa: Las aventuras de Ladybug</title>
+    <sub-title lang="es">Clima tempestuoso</sub-title>
+    <desc lang="es">Aurore Borell acaba de perder ante su competidora, Mireille Jattée, para convertirse en la próxima meteoróloga. Enfurecida, ella se ve influenciada por Hawk Moth y se convierte en 'Stormy Weather', una villana que controla el clima.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/92/12928569_08E6A8A74E0CA95B.jpg" />
+    <country lang="es">FR</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220928153000 +0000" stop="20220928160000 +0000" channel="Disney Channel!">
+    <title lang="es">Prodigiosa: Las aventuras de Ladybug</title>
+    <sub-title lang="es">Burbujeo</sub-title>
+    <desc lang="es">Es el cumpleaños de Adrien y Marinette está luchando por darle el regalo que hizo para él. Cuando el padre de Adrien no le permite a Adrien tener una fiesta de cumpleaños, su mejor amigo Nino se enoja por lo injusto que es con Adrien.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/92/12922720_3D411DA57D3BE01D.jpg" />
+    <country lang="es">FR</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220928160000 +0000" stop="20220928163000 +0000" channel="Disney Channel!">
+    <title lang="es">Jonas</title>
+    <desc lang="es">La serie gira alrededor de los hermanos Lucas, quienes al frente de su banda Jonas, intentan alcanzar el éxito sin dejar de llevar una vida normal.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/91/12919599_70F5CD944B9EA696.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220928163000 +0000" stop="20220928170000 +0000" channel="Disney Channel!">
+    <title lang="es">¡Buena suerte, Charlie!</title>
+    <sub-title lang="es">Baile de plagas</sub-title>
+    <desc lang="es">La familia asiste a la danza anual de la Denver Pest Control Association.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/91/12919618_76DF36BAF7FE91CD.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S4 E12</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220928170000 +0000" stop="20220928173000 +0000" channel="Disney Channel!">
+    <title lang="es">El mundo de Riley</title>
+    <sub-title lang="es">La elegida de Farkle</sub-title>
+    <desc lang="es">Farkle está nominado a unos importantes premios y debe elegir quién le acompañará a la gala: Riley o Maya. Las chicas empezarán a ser conscientes de lo importante que es él para ellas.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/93/12931398_D8124A689AEF99BC.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E19</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220928173000 +0000" stop="20220928180000 +0000" channel="Disney Channel!">
+    <title lang="es">Bizaardvark</title>
+    <sub-title lang="es">Eye of the Duckworth</sub-title>
+    <desc lang="es">Paige y Willow están vendiendo granola casera en un mercado de granjeros, y rechazan la oferta de Amelia para ayudarlos a ser mejores empresarios, ya que no les interesa obtener ganancias.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/92/12925746_6FB3EDBE260E047E.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S3 E12</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220928180000 +0000" stop="20220928183000 +0000" channel="Disney Channel!">
+    <title lang="es">Gravity Falls: Un verano de misterios</title>
+    <sub-title lang="es">La sociedad del ojo cegado</sub-title>
+    <desc lang="es">Dipper y la pandilla descubren una sociedad secreta que ha estado borrando las memorias de los ciudadanos de Gravity Falls.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/87/12872377_3C82925C29965F07.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220928183000 +0000" stop="20220928190000 +0000" channel="Disney Channel!">
+    <title lang="es">Star vs. las fuerzas del mal</title>
+    <sub-title lang="es">Desairada, peligro extraño</sub-title>
+    <desc lang="es">Star intenta darle pudín a Glossaryck. Mientras Star toma a Glossaryck a pasear como un perro, la arrastra a través del castillo y persigue a una ardilla en el jardín de rosas del castillo. Allí, se encuentra con Eclipsa Butterfly , libre de su prisión de.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/76/11765199_F48B202046BCD2E1.jpg" />
+    <country lang="es">US</country>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220928190000 +0000" stop="20220928193000 +0000" channel="Disney Channel!">
+    <title lang="es">La casa de Raven</title>
+    <sub-title lang="es">Sleevemore Part One: Frozen</sub-title>
+    <desc lang="es">Después de encontrarse con el Dr. Sleevemore una vez más, Raven acepta su invitación para que su familia y amigos, Booker en particular, visiten su instituto para jóvenes extraordinarios. Booker hace una aparente desaparición.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/49/12493783_643F46B432F7CB3E.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S2 E12</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220928193000 +0000" stop="20220928200000 +0000" channel="Disney Channel!">
+    <title lang="es">Gabby Duran: Niñera de aliens</title>
+    <sub-title lang="es">Tailoring Swift</sub-title>
+    <desc lang="es">La directora Swift alerta a Gabby de un daño a la propiedad durante su último cuidado de los niños en Kali. Su próxima tarea es ver a Daria Mungo, cuyo tipo son los mejores sastres del universo. Cuando Gabby entra en una habitación y es atrapada por la Sra. Mungo, Swift cree en su mentira de que Gabby les causó problemas.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12774272_F028A59909D9F468.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E17</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220928200000 +0000" stop="20220928201500 +0000" channel="Disney Channel!">
+    <title lang="es">Los vecinos Green</title>
+    <sub-title lang="es">Ataque artístico</sub-title>
+    <desc lang="es">\nCricket, durante el trabajo en Big Coffee, descubre que Gloria aún no ha vendido una sola obra de arte, por lo que Cricket dibuja algunos garabatos sobre ellos, y pronto descubren que los dos tienen una poderosa chispa de sinergia.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/97/9976981_F368592CA6928B66.jpg" />
+    <country lang="es">US</country>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220928201500 +0000" stop="20220928220000 +0000" channel="Disney Channel!">
+    <title lang="es">Kim Possible</title>
+    <desc lang="es">Kim y Ron entran a la escuela secundaria y se hacen amigos de Athenea. Sin embargo, con la guía de Kim, Athena se transforma en el miembro más nuevo del equipo y pronto comienza a eclipsarla pero cuando Drakken y Shego vuelven a aparecer en Middleton, el equipo debe detenerlos a toda costa.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/81/12816818_19572061FC0B7960.jpg" />
+    <country lang="es">US</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20220928220000 +0000" stop="20220928223000 +0000" channel="Disney Channel!">
+    <title lang="es">Sydney como Max</title>
+    <sub-title lang="es">A Crush of Their Own</sub-title>
+    <desc lang="es">Cuando Max se enamora de la profesora Gemma, Sydney recluta a Olive, quien ayuda a descubrir que ella está soltera recientemente. Sydney organiza una cita para Gemma con Max.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/35/11355976_FFFE6E835F0AA5D2.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S3 E13</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220928223000 +0000" stop="20220928230000 +0000" channel="Disney Channel!">
+    <title lang="es">Acampados</title>
+    <sub-title lang="es">¡Perro malo!</sub-title>
+    <desc lang="es">Emma, Tiffany y Zuri no están felices cuando el nuevo cachorro de Lou, Chuck, causa estragos en la cabaña Woodchuck; Ravi anima a Jorge a hacer todo lo posible para establecer un registro de campamento para recibir una placa.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/91/12919557_2FAAAD7F37B2D7FB.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S2 E16</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220928230000 +0000" stop="20220928233000 +0000" channel="Disney Channel!">
+    <title lang="es">Slime Chef</title>
+    <desc lang="es">Para el desafío de habilidad, los participantes trabajan con los ojos vendados. En el desafío de creatividad los espera un arcoiris, mientras que el reto final implica un brebaje.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/72/9720815_748F461F0CB82ED8.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220928233000 +0000" stop="20220929000000 +0000" channel="Disney Channel!">
+    <title lang="es">Slime Chef</title>
+    <desc lang="es">La pizza es la protagonista del desafío de creatividad, mientras que el reto final se centra en una magdalena frutal.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/72/9720815_748F461F0CB82ED8.jpg" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220929000000 +0000" stop="20220929010000 +0000" channel="Disney Channel!">
+    <title lang="es">Disney's Magic Bake-Off</title>
+    <sub-title lang="es">Star Wars</sub-title>
+    <desc lang="es">La imaginación cobra vida y el trabajo en equipo triunfa cuando tres equipos de dos personas trabajan contrarreloj para crear los pasteles más sorprendentes inspirados en la magia de Disney. Cada pastelero se enfrenta a un estricto jurado quienes le dan desafíos divertidos con giros inesperados.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12774201_479C9A1C3CD0BD4C.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220929010000 +0000" stop="20220929013000 +0000" channel="Disney Channel!">
+    <title lang="es">Holly Hobbie</title>
+    <sub-title lang="es">La actriz frustrada</sub-title>
+    <desc lang="es">Holly Hobbie ha vivido toda su vida en el pequeño pueblo de Collinsville. Holly es cantautora y tiene a sus mejores amigos y familia a su lado, pero sueña con formas de salvar el mundo, incluso si está comenzando en su propio patio trasero.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/39/11392019_8873670644F1AD5D.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S2 E12</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220929013000 +0000" stop="20220929020000 +0000" channel="Disney Channel!">
+    <title lang="es">Gravity Falls: Un verano de misterios</title>
+    <sub-title lang="es">La sociedad del ojo cegado</sub-title>
+    <desc lang="es">Dipper y la pandilla descubren una sociedad secreta que ha estado borrando las memorias de los ciudadanos de Gravity Falls.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/87/12872377_3C82925C29965F07.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220929020000 +0000" stop="20220929023000 +0000" channel="Disney Channel!">
+    <title lang="es">Trollhunters</title>
+    <sub-title lang="es">Becoming: part 1</sub-title>
+    <desc lang="es">Dos trolls se ven envueltos en una batalla épica que trae terribles consecuencias en el mundo humano, especialmente para Jim Lake, quien se apodera de un manto sagrado.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/67/11673946_71AAAE2059E2D42B.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220929023000 +0000" stop="20220929030000 +0000" channel="Disney Channel!">
+    <title lang="es">Grandes héroes: la serie</title>
+    <sub-title lang="es">Nega-globby</sub-title>
+    <desc lang="es">Honey Lemon hace que Karmi la ayude a desarrollar un suero, pero en medio de la noche, Chris, el asistente de Amara, roba una muestra de Globby. La pandilla le pasa el suero a Globby y él se convierte exitosamente en Dibs.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/76/11762116_2C8606DFC673BF00.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220929030000 +0000" stop="20220929033000 +0000" channel="Disney Channel!">
+    <title lang="es">Prodigiosa: Las aventuras de Ladybug</title>
+    <sub-title lang="es">Grafitempo</sub-title>
+    <desc lang="es">Ladybug y Cat Noir enfrentan a Timetagger, un súper villano venido del futuro para tomar sus Miraculous. El futuro de París está en sus manos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/43/12433724_AF7E5696668258C7.jpg" />
+    <country lang="es">FR</country>
+    <episode-num system="onscreen">S3 E12</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220929033000 +0000" stop="20220929040000 +0000" channel="Disney Channel!">
+    <title lang="es">Secretos en Sulphur Springs</title>
+    <sub-title lang="es">Hace mucho tiempo</sub-title>
+    <desc lang="es">Griffin y Harper se escabullen a través del portal para encontrar un grupo de búsqueda en busca de Savannah.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/96/9968045_DCEEC1681369A54A.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220929040000 +0000" stop="20220929043000 +0000" channel="Disney Channel!">
+    <title lang="es">Los hechiceros de Waverly Place</title>
+    <sub-title lang="es">Cuento de hadas</sub-title>
+    <desc lang="es">Justin elige a Harper para tocar Tinkerbell en la producción de la escuela.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/38/10383785_104C2E98CF4577D9.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S2 E12</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220929043000 +0000" stop="20220929050000 +0000" channel="Disney Channel!">
+    <title lang="es">La casa de Raven</title>
+    <sub-title lang="es">The Wrong Victor</sub-title>
+    <desc lang="es">Cuando el padre de Raven, Victor, tiene un problema de salud, Raven y Booker regresan a San Francisco para ayudar. Mientras, Booker no logra cuidar a su primo y debe arreglar la situación antes de que Raven se entere.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/07/10078926_83F3172A014262B8.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S5 E1</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220929050000 +0000" stop="20220929053000 +0000" channel="Disney Channel!">
+    <title lang="es">Gabby Duran: Niñera de aliens</title>
+    <sub-title lang="es">Vortex &amp; night train</sub-title>
+    <desc lang="es">Al tropezar con 'Bagly Cooper', Wesley besa accidentalmente a Gabby, lo que los hace sentir incómodos cuando Wesley afirma que el beso es el mejor asesino de los amigos. Jeremy utiliza una tecnología que borra la mente de algunas amistades, lo que falla cuando elimina las próximas cuatro horas en lugar de las últimas horas.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/04/13040374_8BD29A35791582A5.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E16</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220929053000 +0000" stop="20220929060000 +0000" channel="Disney Channel!">
+    <title lang="es">Sydney como Max</title>
+    <sub-title lang="es">Family Buy</sub-title>
+    <desc lang="es">Los Reynold reciben una suma de dinero, pero no pueden ponerse de acuerdo acerca de en qué gastarla. Mientras, Sydney se encuentra en el medio de lo que su padre y la abuela Judy quieren.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/35/11355976_FFFE6E835F0AA5D2.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S3 E17</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220929060000 +0000" stop="20220929063000 +0000" channel="Disney Channel!">
+    <title lang="es">Acampados</title>
+    <sub-title lang="es">Pupas y cumpleaños</sub-title>
+    <desc lang="es">Emma y Zuri chocan cuando intentan planear una fiesta de cumpleaños sorpresa para Tiffany. Mientras tanto, para salir de un torneo de voleibol, Ravi y Jorge falsifican lesiones.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/56/12564097_A33954EF817CCF5B.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E16</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220929063000 +0000" stop="20220929070000 +0000" channel="Disney Channel!">
+    <title lang="es">Star vs. las fuerzas del mal</title>
+    <sub-title lang="es">La panta-bestia de Pantanah, eclipsa total</sub-title>
+    <desc lang="es">El rey River interrumpe la ansiosa investigación de Star sobre el pasado de Eclipsa y le exige ayuda en una peligrosa cacería. Moon y Eclipsa sospechan que la historia de Mewni no es como está registrada.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/79/10790169_18FDBD3742BE66F2.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S3 E15</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220929070000 +0000" stop="20220929073000 +0000" channel="Disney Channel!">
+    <title lang="es">¡Vete ya, Unicornio!</title>
+    <sub-title lang="es">Buzz off, unicorn!; There's no escape, unicorn!</sub-title>
+    <desc lang="es">Cuando Alice encuentra una colmena en su patio trasero, ella le pide a Unicornio que le dé una oportunidad a las abejas, pero cuando lo hace, se convierte en su nueva Abeja Reina.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/70/12701568_3BFBBC506DA67C47.jpg" />
+    <country lang="es">CA</country>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220929073000 +0000" stop="20220929080000 +0000" channel="Disney Channel!">
+    <title lang="es">Gravity Falls: Un verano de misterios</title>
+    <sub-title lang="es">Teatro de calcetines</sub-title>
+    <desc lang="es">Cerca de desbloquear la computadora portátil del autor, Dipper es visitado por el demonio Bill, que quiere hacer un trato. Mabel ofrece un espectáculo de marionetas para impresionar a un niño.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/13/12137082_C4D370FA933D4490.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220929080000 +0000" stop="20220929083000 +0000" channel="Disney Channel!">
+    <title lang="es">Hotel Transylvania: La serie</title>
+    <sub-title lang="es">Wendy grande y pequeña, El reflejo</sub-title>
+    <desc lang="es">Mavis accidentalmente convierte a Wendy en una versión gigante de sí misma. Jett Black, el enamorado adolescente de Mavi, visita el hotel.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/02/10024997_03542F5A8CB89AEC.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220929083000 +0000" stop="20220929090000 +0000" channel="Disney Channel!">
+    <title lang="es">Los vecinos Green</title>
+    <sub-title lang="es">Atascados, mamá pájaro</sub-title>
+    <desc lang="es">Bill lleva a la familia a un viaje por carretera al país, solo para terminar atrapado en un embotellamiento. Tilly encuentra un nido de aves abandonado en el patio y decide cuidar de los polluelos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/88/12886638_B50C8AC06A2CBD49.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220929090000 +0000" stop="20220929093000 +0000" channel="Disney Channel!">
+    <title lang="es">Prodigiosa: Las aventuras de Ladybug</title>
+    <sub-title lang="es">Rocketear</sub-title>
+    <desc lang="es">Como guardiana de Miraculous, Ladybug debe tomar decisiones difíciles que afectan a las personas que la rodean. Alya se confunde y termina haciéndole creer a Nino que ella está enamorada de Cat Noir.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/80/12801094_781E16AF8F652B67.jpg" />
+    <country lang="es">FR</country>
+    <episode-num system="onscreen">S4 E11</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220929093000 +0000" stop="20220929095500 +0000" channel="Disney Channel!">
+    <title lang="es">Star vs. las fuerzas del mal</title>
+    <sub-title lang="es">Demonismo, Intercambio escolar</sub-title>
+    <desc lang="es">La amistad entre Star y Tom se pone a prueba cuando Tom decide deshacerse de sus demonios. Star despierta cuando la familia Diaz le celebra su llegada a la tierra número 47°, pero llega un chico de intercambio que antes ya los había visitado.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/37/11371802_B48C10007871547F.jpg" />
+    <country lang="es">US</country>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220929100000 +0000" stop="20220929103000 +0000" channel="Disney Channel!">
+    <title lang="es">Phineas y Ferb</title>
+    <sub-title lang="es">Un robot maduro, de pronto, Suzy</sub-title>
+    <desc lang="es">Candace entra en una carrera padre-hija con un robot Lawrence. El enemigo mortal de Candace, Little Suzy, la ayuda a sabotear a los chicos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/65/12655989_1CC034289CDC006A.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S2 E23</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220929103000 +0000" stop="20220929104500 +0000" channel="Disney Channel!">
+    <title lang="es">Las aventuras de Pilar</title>
+    <sub-title lang="es">Argos con los 100 ojos</sub-title>
+    <desc lang="es">Pilar quiere aprender cómo dormir con un ojo y mantenerse despierta con el otro. Para ello, ¡irá a conocer a Argo, el gigante de cien ojos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/84/10847986_04C0D1AE89F3FBA2.jpg" />
+    <country lang="es">BR</country>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220929104500 +0000" stop="20220929110000 +0000" channel="Disney Channel!">
+    <title lang="es">Cortos Mickey Mouse</title>
+    <sub-title lang="es">The boiler room</sub-title>
+    <desc lang="es">Mickey tiene una misión algo extraña: debe ocuparse del sótano de un monstruo.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/35/12356298_2BDB67FDB2068987.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220929110000 +0000" stop="20220929113000 +0000" channel="Disney Channel!">
+    <title lang="es">Patoaventuras</title>
+    <sub-title lang="es">¡El huracán del tiempo!</sub-title>
+    <desc lang="es">Mientras prepara la mansión para un huracán, la Sra. Beakley discute con Della por su falta de rigor. Mientras tanto, Louie tiene un nuevo esquema de 'hacerse rico rápidamente'.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/93/12934176_078A8ECA38600133.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S2 E21</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220929113000 +0000" stop="20220929114500 +0000" channel="Disney Channel!">
+    <title lang="es">Dino Dana</title>
+    <sub-title lang="es">The Dino or the Egg - Part 2</sub-title>
+    <desc lang="es">¡Es el comienzo de la tercera temporada y el nuevo bebé está por llegar! En la sala de espera, Saara lleva a Dana a una aventura en el tiempo para ver cómo nacen los bebés dinosaurios y cómo las familias trabajan para cuidarlos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/84/10846751_69C23B5A4047A4B7.jpg" />
+    <country lang="es">CA</country>
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220929114500 +0000" stop="20220929120000 +0000" channel="Disney Channel!">
+    <title lang="es">Los vecinos Green</title>
+    <sub-title lang="es">No apto para grillos</sub-title>
+    <desc lang="es">Conoce las aventuras de Cricket Green, un chico de campo que se muda con su familia, acostumbrada a la granja, a una metrópoli moderna.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/56/10569937_D23C35BA5D8FA9AB.jpg" />
+    <country lang="es">US</country>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220929120000 +0000" stop="20220929122500 +0000" channel="Disney Channel!">
+    <title lang="es">Amphibia</title>
+    <sub-title lang="es">Búsqueda escabrosa, La llegada de los Plantar</sub-title>
+    <desc lang="es">Anne, Sprig y Marcy van a una misión del Rey. Anne se encuentra con el rey y solicita su ayuda, mientras que Sprig se va de juerga con la tarjeta de crédito real de King.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/62/11626719_A8E83C843439A4A4.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220929123000 +0000" stop="20220929130000 +0000" channel="Disney Channel!">
+    <title lang="es">Grandes héroes: la serie</title>
+    <sub-title lang="es">Tía Cass sale con alguien</sub-title>
+    <desc lang="es">Luego de que la tía Cass casi descubre la vida secreta de Hiro como miembro de Big Hero 6, Hiro interpreta al casamentero para encontrar el novio ideal.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/70/12701535_072DDF7587819B1D.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220929130000 +0000" stop="20220929131500 +0000" channel="Disney Channel!">
+    <title lang="es">El fantasma y Molly Mcgee</title>
+    <sub-title lang="es">Un Abe poco honesto, tensiones con Nin</sub-title>
+    <desc lang="es">Cuando Scratch le dice a Molly que puede conseguir que Abraham Lincoln la ayude con su proyecto, tiene que esforzarse para encubrir su mentira. Además, mamá y la abuela Nin no se llevan muy bien últimamente y Molly las obliga a hacer las paces.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/55/12559861_FDC280974AEAA0F0.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220929131500 +0000" stop="20220929133000 +0000" channel="Disney Channel!">
+    <title lang="es">Hotel Transylvania: La serie</title>
+    <sub-title lang="es">Fiesta cubierta</sub-title>
+    <desc lang="es">Los amigos hombre lobo de Mavis de su antigua tropa de Guías de espíritus malos vienen al hotel a una visita, y ella está súper emocionada. Esta es su oportunidad de finalmente ganarse la medalla de su banda.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/92/12928560_9E9BD93224904520.jpg" />
+    <country lang="es">US</country>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220929133000 +0000" stop="20220929140000 +0000" channel="Disney Channel!">
+    <title lang="es">The Owl House: La casa Búho</title>
+    <sub-title lang="es">Cacería de Taliamigos</sub-title>
+    <desc lang="es">Es el día de emparejamiento de Palisman en Hexside, pero Luz no coincide con un Palisman propio y pronto se encuentra en un viaje inesperado con un enemigo.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/93/12931385_3D4A9B49FDEBF46A.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220929140000 +0000" stop="20220929143000 +0000" channel="Disney Channel!">
+    <title lang="es">Gravity Falls: Un verano de misterios</title>
+    <sub-title lang="es">Calabozos, calabozos y más calabozos</sub-title>
+    <desc lang="es">Dipper encuentra un amigo para unirse a él con su nueva obsesión, un juego de mesa nerd llamado 'mazmorras, mazmorras y más mazmorras'.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/92/12928561_AED3854CDE344C43.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S2 E13</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220929143000 +0000" stop="20220929150000 +0000" channel="Disney Channel!">
+    <title lang="es">Gravity Falls: Un verano de misterios</title>
+    <sub-title lang="es">El candidato</sub-title>
+    <desc lang="es">Cuando Grunkle Stan decide postularse para la alcaldía, Dipper y Mabel tienen su trabajo cortado para ellos tratando de convertir a su tío propenso a la metedura de pata en el candidato perfecto.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/65/12655986_123FBC2C488515F4.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S2 E14</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220929150000 +0000" stop="20220929153000 +0000" channel="Disney Channel!">
+    <title lang="es">Gravity Falls: Un verano de misterios</title>
+    <sub-title lang="es">La historia de dos Stan</sub-title>
+    <desc lang="es">La reunión de los hermanos Pine Stanford y Stanley. Se muestra una serie de flashbacks de sus vidas y se explica su historia juntos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/93/12934178_163DE77F533B295C.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S2 E12</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220929153000 +0000" stop="20220929160000 +0000" channel="Disney Channel!">
+    <title lang="es">Gravity Falls: Un verano de misterios</title>
+    <sub-title lang="es">Atracción en la carretera</sub-title>
+    <desc lang="es">Grunkle Stan lleva a los niños con él en un viaje por carretera para sabotear todas las otras trampas turísticas en Oregon.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/93/12931391_DDE7A719ED7D6218.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S2 E16</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220929160000 +0000" stop="20220929163000 +0000" channel="Disney Channel!">
+    <title lang="es">Agente K.C.</title>
+    <sub-title lang="es">Drama adolescente</sub-title>
+    <desc lang="es">K.C. se esfuerza por hacer las paces con Marisa después de pelearse, mientras Marisa quiere una recomendación para la Organización de K.C.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/35/11355206_09CC056F5A123213.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S3 E5</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220929163000 +0000" stop="20220929170000 +0000" channel="Disney Channel!">
+    <title lang="es">Agente K.C.</title>
+    <sub-title lang="es">Peligro en construcción</sub-title>
+    <desc lang="es">A KC se le asigna ir de incógnito como trabajador de la construcción en un edificio alto sin terminar, lo que le permite espiar en una torre cercana donde se cree que se reúnen un grupo de espías renegados.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/86/12861185_944346A9A2AAA602.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S3 E6</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220929170000 +0000" stop="20220929173000 +0000" channel="Disney Channel!">
+    <title lang="es">Agente K.C.</title>
+    <sub-title lang="es">58</sub-title>
+    <desc lang="es">Ernie y Marisa se burlan de KC, creyendo que no tiene una cita para su regreso a la escuela secundaria. KC tiene la misión de recuperar un dispositivo para alterar el clima conocido como Storm Maker.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/91/12919561_D78AE8C90DE94D7F.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S3 E7</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220929173000 +0000" stop="20220929180000 +0000" channel="Disney Channel!">
+    <title lang="es">Agente K.C.</title>
+    <sub-title lang="es">Asuntos de trabajo</sub-title>
+    <desc lang="es">KC y Craig descubren que el dispositivo Storm Maker no puede funcionar sin una sustancia química rara conocida como Dilithium. Van de incógnito como trabajadores en un restaurante de paradas de camiones para que puedan obtenerlo de un camión.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/35/11355206_09CC056F5A123213.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S3 E8</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220929180000 +0000" stop="20220929183000 +0000" channel="Disney Channel!">
+    <title lang="es">Gravity Falls: Un verano de misterios</title>
+    <sub-title lang="es">El juego de Blendin</sub-title>
+    <desc lang="es">Blendin vuelve a enfrentarse con Dipper y Mabel en una batalla futurista que podría atraparlos para siempre en la cárcel del tiempo.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/87/12870462_63D59AD515D37A81.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20220929183000 +0000" stop="20220929190000 +0000" channel="Disney Channel!">
+    <title lang="es">Star vs. las fuerzas del mal</title>
+    <sub-title lang="es">Una pelusa peligrosa, escuderos primero</sub-title>
+    <desc lang="es">Star Butterfly, una guerrera intergaláctica, llega a la tierra para vivir junto a la familia Díaz. No obstante, continua peleando con los villanos del universo junto a Marco, el hijo de la familia Díaz, y asiste a la escuela secundaria.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/13/10135505_C4309EF052E0FF7E.jpg" />
+    <country lang="es">US</country>
     <rating system="MJColombia">
       <value>TE</value>
     </rating>
