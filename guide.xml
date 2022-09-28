@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Universal Premiere (E)">
-    <display-name lang="en">Universal Premiere (E)</display-name>
+  <channel id="Las Estrellas -2HR">
+    <display-name lang="en">Las Estrellas -2HR</display-name>
     <url>http://www.tvguide.com</url>
   </channel>
   <channel id="Sony Movies!">
@@ -53,7 +53,7 @@
   <channel id="A3Series HD!">
     <display-name lang="es">A3Series HD!</display-name>
     <icon src="https://cdn.sincroguia.tv/uploads/images/v/5/n/xatresseries.jpg.pagespeed.ic.9ZIdKUT2Zo.jpg" />
-    <url>http://www.sincroguia-tv.com.E</url>
+    <url>http://www.sincroguia-tv.expansion.com</url>
   </channel>
   <channel id="HBO 2!">
     <display-name lang="es">HBO 2!</display-name>
@@ -68,12 +68,12 @@
   <channel id="TVN (CHI)">
     <display-name lang="es">TVN (CHI)</display-name>
     <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/1149.png" />
-    <url>http://www.directv.com.cl</url>
+    <url>http://www.directv.cl</url>
   </channel>
   <channel id="La Red (CHI)">
     <display-name lang="es">La Red (CHI)</display-name>
     <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/148.png" />
-    <url>http://www.directv.com.cl</url>
+    <url>http://www.directv.cl</url>
   </channel>
   <channel id="UniMás">
     <display-name lang="en">UniMás</display-name>
@@ -125,914 +125,469 @@
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523290_AD350A44EE3C7F22.png" />
     <url>http://www.movistar.com.pe</url>
   </channel>
-  <programme start="20220928141500 +0000" stop="20220928150000 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Blue Bloods</title>
-    <desc lang="en">Los miembros de la familia Reagan tienen una vocación común: velar por el cumplimiento de las leyes en las conflictivas calles de Nueva York. Pero todo cambia cuando el hijo menor forme parte de una investigación clandestina.(n)</desc>
-    <date>2010</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220928150000 +0000" stop="20220928154000 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Blue Bloods</title>
-    <desc lang="en">Los miembros de la familia Reagan tienen una vocación común: velar por el cumplimiento de las leyes en las conflictivas calles de Nueva York. Pero todo cambia cuando el hijo menor forme parte de una investigación clandestina.(n)</desc>
-    <date>2010</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220928154000 +0000" stop="20220928162500 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Blue Bloods</title>
-    <desc lang="en">Los miembros de la familia Reagan tienen una vocación común: velar por el cumplimiento de las leyes en las conflictivas calles de Nueva York. Pero todo cambia cuando el hijo menor forme parte de una investigación clandestina.(n)</desc>
-    <date>2010</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220928162500 +0000" stop="20220928171500 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Evil</title>
-    <desc lang="en">Último episodio de la temporada.(n)</desc>
-    <date>2022</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220928171500 +0000" stop="20220928180000 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Chicago Fire</title>
-    <desc lang="en">El equipo de bomberos está en la escena de un accidente grave que implica un carro petrolero y un tren que luego se estrelló contra un almacén.(n)</desc>
-    <date>2013</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220928180000 +0000" stop="20220928184500 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Suits</title>
-    <desc lang="en">Tras ser ascendido, Harvey debe recluta y contrata a un licenciado en Derecho: Mike Ross.(n)</desc>
-    <date>2012</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220928184500 +0000" stop="20220928193000 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Suits</title>
-    <desc lang="en">Harvey trata de solucionar una crisis con un cliente a pesar del deseo de Jessica de controlarlo. Por otra parte, Mike ve a Rachel como una guía cuando se entera de que va a ser el anfitrión de una cena para los novatos, una importante tradición en la firma.(n)</desc>
-    <date>2011</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220928193000 +0000" stop="20220928201500 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Suits</title>
-    <desc lang="en">Jessica espera que con el ascenso, Harvey sea más fácil de controlar,.(n)</desc>
-    <date>2021</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220928201500 +0000" stop="20220928210000 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Suits</title>
-    <desc lang="en">En un juicio por un divorcio, Kang-seok inesperadamente se encuentra con un antiguo amor. Por su parte, Chae Geun-sik es amenazado por Yeon-woo y después de su ultimátum debe convencer a un famoso artista de hip-hop para que se...(n)</desc>
-    <date>2011</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220928210000 +0000" stop="20220928214500 +0000" channel="Universal Premiere (E)">
-    <title lang="en">FBI</title>
-    <desc lang="en">El equipo busca a una niña que fue secuestrada de una cabaña en la que estaba con su familia.(n)</desc>
-    <date>2018</date>
-    <rating system="MPAA">
-      <value>F</value>
-    </rating>
-  </programme>
-  <programme start="20220928214500 +0000" stop="20220928223000 +0000" channel="Universal Premiere (E)">
-    <title lang="en">FBI</title>
-    <desc lang="en">El equipo debe infiltrarse en una banda de narcotraficantes.(n)</desc>
-    <date>2018</date>
-    <rating system="MPAA">
-      <value>F</value>
-    </rating>
-  </programme>
-  <programme start="20220928223000 +0000" stop="20220928231500 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Blue Bloods</title>
-    <desc lang="en">Los miembros de la familia Reagan tienen una vocación común: velar por el cumplimiento de las leyes en las conflictivas calles de Nueva York. Pero todo cambia cuando el hijo menor forme parte de una investigación clandestina.(n)</desc>
-    <date>2010</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220928231500 +0000" stop="20220929000000 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Blue Bloods</title>
-    <desc lang="en">Los miembros de la familia Reagan tienen una vocación común: velar por el cumplimiento de las leyes en las conflictivas calles de Nueva York. Pero todo cambia cuando el hijo menor forme parte de una investigación clandestina.(n)</desc>
-    <date>2010</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220929000000 +0000" stop="20220929004500 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Blue Bloods</title>
-    <desc lang="en">Los miembros de la familia Reagan tienen una vocación común: velar por el cumplimiento de las leyes en las conflictivas calles de Nueva York. Pero todo cambia cuando el hijo menor forme parte de una investigación clandestina.(n)</desc>
-    <date>2010</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220929004500 +0000" stop="20220929013000 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Blue Bloods</title>
-    <desc lang="en">Los miembros de la familia Reagan tienen una vocación común: velar por el cumplimiento de las leyes en las conflictivas calles de Nueva York. Pero todo cambia cuando el hijo menor forme parte de una investigación clandestina.(n)</desc>
-    <date>2010</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220929013000 +0000" stop="20220929021500 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Imposters (new)</title>
-    <desc lang="en">Maddie encuentra al hombre que podría liberarla. Jules comparte más que una copa con un confidente.(n)</desc>
-    <date>2018</date>
-    <premiere />
-    <rating system="MPAA">
-      <value>F</value>
-    </rating>
-  </programme>
-  <programme start="20220929021500 +0000" stop="20220929030000 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Surreal Estate</title>
-    <sub-title lang="en">Boda blanca</sub-title>
-    <desc lang="en">Susan trabaja para evitar que una boda soñada se convierta en una pesadilla y la Casa Donovan contraataca.(n)</desc>
-    <date>2021</date>
-    <rating system="MPAA">
-      <value>A</value>
-    </rating>
-  </programme>
-  <programme start="20220929030000 +0000" stop="20220929034500 +0000" channel="Universal Premiere (E)">
-    <title lang="en">FBI</title>
-    <desc lang="en">El equipo busca a una niña que fue secuestrada de una cabaña en la que estaba con su familia.(n)</desc>
-    <date>2018</date>
-    <rating system="MPAA">
-      <value>F</value>
-    </rating>
-  </programme>
-  <programme start="20220929034500 +0000" stop="20220929043000 +0000" channel="Universal Premiere (E)">
-    <title lang="en">FBI</title>
-    <desc lang="en">El equipo debe infiltrarse en una banda de narcotraficantes.(n)</desc>
-    <date>2018</date>
-    <rating system="MPAA">
-      <value>F</value>
-    </rating>
-  </programme>
-  <programme start="20220929043000 +0000" stop="20220929051500 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Chicago P.D.</title>
-    <desc lang="en">Un médico relacionado con Voight es investigado cuando cuatro de sus pacientes son atendidos en Chicago Med por causa de una sobredosis de quimioterapia; y Burgess y Platt trabajan juntos para limpiar el nombre de Roman.(n)</desc>
+  <programme start="20220928150000 +0000" stop="20220928160000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">Al aire (live)</title>
+    <desc lang="en">Programa informativo en el que se abordan temas de ciencia y tecnología, entre otros.(n)</desc>
     <date>2016</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
   </programme>
-  <programme start="20220929051500 +0000" stop="20220929060000 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Chicago Fire</title>
-    <desc lang="en">El equipo de bomberos está en la escena de un accidente grave que implica un carro petrolero y un tren que luego se estrelló contra un almacén.(n)</desc>
-    <date>2013</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220929060000 +0000" stop="20220929064500 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Suits</title>
-    <desc lang="en">Jessica espera que con el ascenso, Harvey sea más fácil de controlar,.(n)</desc>
-    <date>2021</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220929064500 +0000" stop="20220929073000 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Suits</title>
-    <desc lang="en">En un juicio por un divorcio, Kang-seok inesperadamente se encuentra con un antiguo amor. Por su parte, Chae Geun-sik es amenazado por Yeon-woo y después de su ultimátum debe convencer a un famoso artista de hip-hop para que se...(n)</desc>
-    <date>2011</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220929073000 +0000" stop="20220929081500 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Blue Bloods</title>
-    <desc lang="en">Los miembros de la familia Reagan tienen una vocación común: velar por el cumplimiento de las leyes en las conflictivas calles de Nueva York. Pero todo cambia cuando el hijo menor forme parte de una investigación clandestina.(n)</desc>
-    <date>2010</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220929081500 +0000" stop="20220929090000 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Blue Bloods</title>
-    <desc lang="en">Los miembros de la familia Reagan tienen una vocación común: velar por el cumplimiento de las leyes en las conflictivas calles de Nueva York. Pero todo cambia cuando el hijo menor forme parte de una investigación clandestina.(n)</desc>
-    <date>2010</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220929090000 +0000" stop="20220929094500 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Blue Bloods</title>
-    <desc lang="en">Los miembros de la familia Reagan tienen una vocación común: velar por el cumplimiento de las leyes en las conflictivas calles de Nueva York. Pero todo cambia cuando el hijo menor forme parte de una investigación clandestina.(n)</desc>
-    <date>2010</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220929094500 +0000" stop="20220929103000 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Blue Bloods</title>
-    <desc lang="en">Los miembros de la familia Reagan tienen una vocación común: velar por el cumplimiento de las leyes en las conflictivas calles de Nueva York. Pero todo cambia cuando el hijo menor forme parte de una investigación clandestina.(n)</desc>
-    <date>2010</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220929103000 +0000" stop="20220929111500 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Chicago PD</title>
-    <desc lang="en">El equipo investiga un asalto sexual en un condominio de lujo. Lindsay, Halstead, Atwater y Ruzek van de incógnitos en un intento de atrapar a los perpetradores. Entretanto, Voight trata de ayudar a un antiguo conocido.(n)</desc>
-    <date>2016</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220929111500 +0000" stop="20220929120000 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Chicago Fire</title>
-    <desc lang="en">Cruz y su hermano se llenan de emociones cuando una joven recibe un disparo en su vecindario. Mientras tanto, la pelea entre el Director Boden y McLeod se intensifica.(n)</desc>
-    <date>2013</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220929120000 +0000" stop="20220929124500 +0000" channel="Universal Premiere (E)">
-    <title lang="en">FBI</title>
-    <desc lang="en">El equipo persigue a un asesino que dispara fatalmente a objetivos aparentemente no relacionados.(n)</desc>
-    <date>2021</date>
-    <rating system="MPAA">
-      <value>F</value>
-    </rating>
-  </programme>
-  <programme start="20220929124500 +0000" stop="20220929133000 +0000" channel="Universal Premiere (E)">
-    <title lang="en">FBI</title>
-    <desc lang="en">El equipo busca al responsable de plantar una bomba que dejó tres víctimas fatales.(n)</desc>
-    <date>2018</date>
-    <rating system="MPAA">
-      <value>F</value>
-    </rating>
-  </programme>
-  <programme start="20220929133000 +0000" stop="20220929141500 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Blue Bloods</title>
-    <desc lang="en">Los miembros de la familia Reagan tienen una vocación común: velar por el cumplimiento de las leyes en las conflictivas calles de Nueva York. Pero todo cambia cuando el hijo menor forme parte de una investigación clandestina.(n)</desc>
-    <date>2010</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220929141500 +0000" stop="20220929150000 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Blue Bloods</title>
-    <desc lang="en">Los miembros de la familia Reagan tienen una vocación común: velar por el cumplimiento de las leyes en las conflictivas calles de Nueva York. Pero todo cambia cuando el hijo menor forme parte de una investigación clandestina.(n)</desc>
-    <date>2010</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220929150000 +0000" stop="20220929154500 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Blue Bloods</title>
-    <desc lang="en">Los miembros de la familia Reagan tienen una vocación común: velar por el cumplimiento de las leyes en las conflictivas calles de Nueva York. Pero todo cambia cuando el hijo menor forme parte de una investigación clandestina.(n)</desc>
-    <date>2010</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220929154500 +0000" stop="20220929163000 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Blue Bloods</title>
-    <desc lang="en">Los miembros de la familia Reagan tienen una vocación común: velar por el cumplimiento de las leyes en las conflictivas calles de Nueva York. Pero todo cambia cuando el hijo menor forme parte de una investigación clandestina.(n)</desc>
-    <date>2010</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220929163000 +0000" stop="20220929171500 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Imposters</title>
-    <desc lang="en">Maddie encuentra al hombre que podría liberarla. Jules comparte más que una copa con un confidente.(n)</desc>
-    <date>2018</date>
-    <rating system="MPAA">
-      <value>F</value>
-    </rating>
-  </programme>
-  <programme start="20220929171500 +0000" stop="20220929180000 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Chicago Fire</title>
-    <desc lang="en">Cruz y su hermano se llenan de emociones cuando una joven recibe un disparo en su vecindario. Mientras tanto, la pelea entre el Director Boden y McLeod se intensifica.(n)</desc>
-    <date>2013</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220929180000 +0000" stop="20220929184500 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Suits</title>
-    <desc lang="en">Jessica espera que con el ascenso, Harvey sea más fácil de controlar,.(n)</desc>
-    <date>2021</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220929184500 +0000" stop="20220929193000 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Suits</title>
-    <desc lang="en">En un juicio por un divorcio, Kang-seok inesperadamente se encuentra con un antiguo amor. Por su parte, Chae Geun-sik es amenazado por Yeon-woo y después de su ultimátum debe convencer a un famoso artista de hip-hop para que se...(n)</desc>
-    <date>2011</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220929193000 +0000" stop="20220929201500 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Suits</title>
-    <desc lang="en">Los chicos defienden a una mujer falsamente acusada de abuso de información privilegiada. Por otra parte, Mike ayuda a Rachel a estudiar para el 'LSAT' y se da cuenta que ella está a punto de descubrir su secreto.(n)</desc>
-    <date>2011</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220929201500 +0000" stop="20220929210000 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Suits</title>
-    <desc lang="en">Mike asume al protegido de Louis durante un simulacro de juicio, pero su conflicto con Rachel podría perjudicar sus posibilidades de ganar. Por otra parte, Harvey trabaja en una fusión entre dos cadenas hoteleras, pero su pasado con el abogado contrario complica las cosas.(n)</desc>
-    <date>2011</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220929210000 +0000" stop="20220929214500 +0000" channel="Universal Premiere (E)">
-    <title lang="en">FBI</title>
-    <desc lang="en">El equipo persigue a un asesino que dispara fatalmente a objetivos aparentemente no relacionados.(n)</desc>
-    <date>2021</date>
-    <rating system="MPAA">
-      <value>F</value>
-    </rating>
-  </programme>
-  <programme start="20220929214500 +0000" stop="20220929223000 +0000" channel="Universal Premiere (E)">
-    <title lang="en">FBI</title>
-    <desc lang="en">El equipo busca al responsable de plantar una bomba que dejó tres víctimas fatales.(n)</desc>
-    <date>2018</date>
-    <rating system="MPAA">
-      <value>F</value>
-    </rating>
-  </programme>
-  <programme start="20220929223000 +0000" stop="20220929231500 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Blue Bloods</title>
-    <desc lang="en">Los miembros de la familia Reagan tienen una vocación común: velar por el cumplimiento de las leyes en las conflictivas calles de Nueva York. Pero todo cambia cuando el hijo menor forme parte de una investigación clandestina.(n)</desc>
-    <date>2010</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220929231500 +0000" stop="20220930000000 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Blue Bloods</title>
-    <desc lang="en">Los miembros de la familia Reagan tienen una vocación común: velar por el cumplimiento de las leyes en las conflictivas calles de Nueva York. Pero todo cambia cuando el hijo menor forme parte de una investigación clandestina.(n)</desc>
-    <date>2010</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220930000000 +0000" stop="20220930004500 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Blue Bloods</title>
-    <desc lang="en">Los miembros de la familia Reagan tienen una vocación común: velar por el cumplimiento de las leyes en las conflictivas calles de Nueva York. Pero todo cambia cuando el hijo menor forme parte de una investigación clandestina.(n)</desc>
-    <date>2010</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220930004500 +0000" stop="20220930013000 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Blue Bloods</title>
-    <desc lang="en">Los miembros de la familia Reagan tienen una vocación común: velar por el cumplimiento de las leyes en las conflictivas calles de Nueva York. Pero todo cambia cuando el hijo menor forme parte de una investigación clandestina.(n)</desc>
-    <date>2010</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220930013000 +0000" stop="20220930022500 +0000" channel="Universal Premiere (E)">
-    <title lang="en">La vuelta al mundo en 80 días</title>
-    <desc lang="en">En la última parada en Nueva York, Fogg pone en peligro la apuesta para buscar a su amor perdido,.(n)</desc>
-    <date>2022</date>
-    <rating system="MPAA">
-      <value>F</value>
-    </rating>
-  </programme>
-  <programme start="20220930022500 +0000" stop="20220930031000 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Devils</title>
-    <sub-title lang="en">Episodio 06</sub-title>
-    <desc lang="en">Sin saber que él es el objetivo, Massimo está desesperado por recuperar las pruebas que le robaron.(n)</desc>
-    <date>2022</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220930031000 +0000" stop="20220930035500 +0000" channel="Universal Premiere (E)">
-    <title lang="en">FBI</title>
-    <desc lang="en">El equipo persigue a un asesino que dispara fatalmente a objetivos aparentemente no relacionados.(n)</desc>
-    <date>2021</date>
-    <rating system="MPAA">
-      <value>F</value>
-    </rating>
-  </programme>
-  <programme start="20220930035500 +0000" stop="20220930044000 +0000" channel="Universal Premiere (E)">
-    <title lang="en">FBI</title>
-    <desc lang="en">El equipo busca al responsable de plantar una bomba que dejó tres víctimas fatales.(n)</desc>
-    <date>2018</date>
-    <rating system="MPAA">
-      <value>F</value>
-    </rating>
-  </programme>
-  <programme start="20220930044000 +0000" stop="20220930052500 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Chicago PD</title>
-    <desc lang="en">El equipo investiga un asalto sexual en un condominio de lujo. Lindsay, Halstead, Atwater y Ruzek van de incógnitos en un intento de atrapar a los perpetradores. Entretanto, Voight trata de ayudar a un antiguo conocido.(n)</desc>
-    <date>2016</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220930052500 +0000" stop="20220930061000 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Chicago Fire</title>
-    <desc lang="en">Cruz y su hermano se llenan de emociones cuando una joven recibe un disparo en su vecindario. Mientras tanto, la pelea entre el Director Boden y McLeod se intensifica.(n)</desc>
-    <date>2013</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220930061000 +0000" stop="20220930065000 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Suits</title>
-    <desc lang="en">Los chicos defienden a una mujer falsamente acusada de abuso de información privilegiada. Por otra parte, Mike ayuda a Rachel a estudiar para el 'LSAT' y se da cuenta que ella está a punto de descubrir su secreto.(n)</desc>
-    <date>2011</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220930065000 +0000" stop="20220930073500 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Suits</title>
-    <desc lang="en">Mike asume al protegido de Louis durante un simulacro de juicio, pero su conflicto con Rachel podría perjudicar sus posibilidades de ganar. Por otra parte, Harvey trabaja en una fusión entre dos cadenas hoteleras, pero su pasado con el abogado contrario complica las cosas.(n)</desc>
-    <date>2011</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220930073500 +0000" stop="20220930081500 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Blue Bloods</title>
-    <desc lang="en">Los miembros de la familia Reagan tienen una vocación común: velar por el cumplimiento de las leyes en las conflictivas calles de Nueva York. Pero todo cambia cuando el hijo menor forme parte de una investigación clandestina.(n)</desc>
-    <date>2010</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220930081500 +0000" stop="20220930090000 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Blue Bloods</title>
-    <desc lang="en">Los miembros de la familia Reagan tienen una vocación común: velar por el cumplimiento de las leyes en las conflictivas calles de Nueva York. Pero todo cambia cuando el hijo menor forme parte de una investigación clandestina.(n)</desc>
-    <date>2010</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220930090000 +0000" stop="20220930094500 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Blue Bloods</title>
-    <desc lang="en">Los miembros de la familia Reagan tienen una vocación común: velar por el cumplimiento de las leyes en las conflictivas calles de Nueva York. Pero todo cambia cuando el hijo menor forme parte de una investigación clandestina.(n)</desc>
-    <date>2010</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220930094500 +0000" stop="20220930103000 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Blue Bloods</title>
-    <desc lang="en">Los miembros de la familia Reagan tienen una vocación común: velar por el cumplimiento de las leyes en las conflictivas calles de Nueva York. Pero todo cambia cuando el hijo menor forme parte de una investigación clandestina.(n)</desc>
-    <date>2010</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220930103000 +0000" stop="20220930111500 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Chicago PD</title>
-    <desc lang="en">Voight convence a Crowley a que traiga a su ex compañero de celda, Eddie Little, para que trabaje de informante y los ayude a derribar a un gran abastecedor de cocaína y a sus vendedores locales. Antonio no está convencido con esta decisión.(n)</desc>
-    <date>2016</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220930111500 +0000" stop="20220930120000 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Chicago Fire</title>
-    <desc lang="en">Para los bomberos, los rescatistas y los paramédicos del destacamento de bomberos 51 de chicago, no hay ocupación más estresante y peligrosa, y al mismo tiempo más gratificante y emocionante.(n)</desc>
-    <date>2013</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220930120000 +0000" stop="20220930124500 +0000" channel="Universal Premiere (E)">
-    <title lang="en">FBI</title>
-    <desc lang="en">El equipo investiga el secuestro de una periodista de política.(n)</desc>
-    <date>2018</date>
-    <rating system="MPAA">
-      <value>F</value>
-    </rating>
-  </programme>
-  <programme start="20220930124500 +0000" stop="20220930133000 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Maratón FBI</title>
-    <desc lang="en">El equipo debe localizar a dos asaltantes que usan máscaras de animales.(n)</desc>
-    <date>2018</date>
-    <rating system="MPAA">
-      <value>F</value>
-    </rating>
-  </programme>
-  <programme start="20220930133000 +0000" stop="20220930141500 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Blue Bloods</title>
-    <desc lang="en">Los miembros de la familia Reagan tienen una vocación común: velar por el cumplimiento de las leyes en las conflictivas calles de Nueva York. Pero todo cambia cuando el hijo menor forme parte de una investigación clandestina.(n)</desc>
-    <date>2010</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220930141500 +0000" stop="20220930150000 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Blue Bloods</title>
-    <desc lang="en">Los miembros de la familia Reagan tienen una vocación común: velar por el cumplimiento de las leyes en las conflictivas calles de Nueva York. Pero todo cambia cuando el hijo menor forme parte de una investigación clandestina.(n)</desc>
-    <date>2010</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220930150000 +0000" stop="20220930154500 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Blue Bloods</title>
-    <desc lang="en">Los miembros de la familia Reagan tienen una vocación común: velar por el cumplimiento de las leyes en las conflictivas calles de Nueva York. Pero todo cambia cuando el hijo menor forme parte de una investigación clandestina.(n)</desc>
-    <date>2010</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220930154500 +0000" stop="20220930163000 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Blue Bloods</title>
-    <desc lang="en">Los miembros de la familia Reagan tienen una vocación común: velar por el cumplimiento de las leyes en las conflictivas calles de Nueva York. Pero todo cambia cuando el hijo menor forme parte de una investigación clandestina.(n)</desc>
-    <date>2010</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220930163000 +0000" stop="20220930171500 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Angelyne</title>
-    <desc lang="en">Murales, situaciones peliagudas, chica de revista, papeles en películas, nuevos ojos: fama enorme,.(n)</desc>
-    <date>2022</date>
-    <rating system="MPAA">
-      <value>A</value>
-    </rating>
-  </programme>
-  <programme start="20220930171500 +0000" stop="20220930180000 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Chicago Fire</title>
-    <desc lang="en">Para los bomberos, los rescatistas y los paramédicos del destacamento de bomberos 51 de chicago, no hay ocupación más estresante y peligrosa, y al mismo tiempo más gratificante y emocionante.(n)</desc>
-    <date>2013</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220930180000 +0000" stop="20220930184500 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Suits</title>
-    <desc lang="en">Los chicos defienden a una mujer falsamente acusada de abuso de información privilegiada. Por otra parte, Mike ayuda a Rachel a estudiar para el 'LSAT' y se da cuenta que ella está a punto de descubrir su secreto.(n)</desc>
-    <date>2011</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220930184500 +0000" stop="20220930193000 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Suits</title>
-    <desc lang="en">Mike asume al protegido de Louis durante un simulacro de juicio, pero su conflicto con Rachel podría perjudicar sus posibilidades de ganar. Por otra parte, Harvey trabaja en una fusión entre dos cadenas hoteleras, pero su pasado con el abogado contrario complica las cosas.(n)</desc>
-    <date>2011</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220930193000 +0000" stop="20220930201500 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Suits: La clave del éxito</title>
-    <desc lang="en">Mike asume al protegido de Louis durante un simulacro de juicio, pero su conflicto con Rachel podría perjudicar sus posibilidades de ganar. Por otra parte, Harvey trabaja en una fusión entre dos cadenas hoteleras, pero su pasado con el abogado contrario complica las cosas.(n)</desc>
-    <date>2011</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220930201500 +0000" stop="20220930210000 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Suits: La clave del éxito</title>
-    <desc lang="en">Harvey es obligado a trabajar junto con Louis en un caso complicado que incluye la sorpresiva muerte de su testigo estrella. Por otro lado, Mike trabaja en un caso que le exige tomar una difícil decisión.(n)</desc>
-    <date>2011</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220930210000 +0000" stop="20220930214500 +0000" channel="Universal Premiere (E)">
-    <title lang="en">FBI</title>
-    <desc lang="en">El equipo investiga el secuestro de una periodista de política.(n)</desc>
-    <date>2018</date>
-    <rating system="MPAA">
-      <value>F</value>
-    </rating>
-  </programme>
-  <programme start="20220930214500 +0000" stop="20220930223000 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Maratón FBI</title>
-    <desc lang="en">El equipo debe localizar a dos asaltantes que usan máscaras de animales.(n)</desc>
-    <date>2018</date>
-    <rating system="MPAA">
-      <value>F</value>
-    </rating>
-  </programme>
-  <programme start="20220930223000 +0000" stop="20220930231500 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Blue Bloods</title>
-    <desc lang="en">Los miembros de la familia Reagan tienen una vocación común: velar por el cumplimiento de las leyes en las conflictivas calles de Nueva York. Pero todo cambia cuando el hijo menor forme parte de una investigación clandestina.(n)</desc>
-    <date>2010</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220930231500 +0000" stop="20221001000000 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Blue Bloods</title>
-    <desc lang="en">Los miembros de la familia Reagan tienen una vocación común: velar por el cumplimiento de las leyes en las conflictivas calles de Nueva York. Pero todo cambia cuando el hijo menor forme parte de una investigación clandestina.(n)</desc>
-    <date>2010</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20221001000000 +0000" stop="20221001004500 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Blue Bloods</title>
-    <desc lang="en">Los miembros de la familia Reagan tienen una vocación común: velar por el cumplimiento de las leyes en las conflictivas calles de Nueva York. Pero todo cambia cuando el hijo menor forme parte de una investigación clandestina.(n)</desc>
-    <date>2010</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20221001004500 +0000" stop="20221001013000 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Blue Bloods</title>
-    <desc lang="en">Frank y Garrett intentan convencer al alcalde Chase de trabajar mejor con los demás para administrar la ciudad como se debe, y Danny y Báez intentan localizar a alguien que vandalizó varios vehículos policiales con grafitis en contra de la policía y amenazó a los agentes. Además, Erin queda alterada luego de sufrir un accidente de tránsito, y Eddie y Jamie discuten sobre si quedarse con un perro callejero que los condujo a la escena de un crimen.(n)</desc>
-    <date>2020</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20221001013000 +0000" stop="20221001022000 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Angelyne (new)</title>
-    <date>2022</date>
-    <premiere />
-    <rating system="MPAA">
-      <value>A</value>
-    </rating>
-  </programme>
-  <programme start="20221001022000 +0000" stop="20221001030500 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Imposters</title>
-    <desc lang="en">Maddie encuentra al hombre que podría liberarla. Jules comparte más que una copa con un confidente.(n)</desc>
-    <date>2018</date>
-    <rating system="MPAA">
-      <value>F</value>
-    </rating>
-  </programme>
-  <programme start="20221001030500 +0000" stop="20221001035000 +0000" channel="Universal Premiere (E)">
-    <title lang="en">FBI</title>
-    <desc lang="en">El equipo investiga el secuestro de una periodista de política.(n)</desc>
-    <date>2018</date>
-    <rating system="MPAA">
-      <value>F</value>
-    </rating>
-  </programme>
-  <programme start="20221001035000 +0000" stop="20221001043500 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Maratón FBI</title>
-    <desc lang="en">El equipo debe localizar a dos asaltantes que usan máscaras de animales.(n)</desc>
-    <date>2018</date>
-    <rating system="MPAA">
-      <value>F</value>
-    </rating>
-  </programme>
-  <programme start="20221001043500 +0000" stop="20221001052000 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Chicago PD</title>
-    <desc lang="en">Voight convence a Crowley a que traiga a su ex compañero de celda, Eddie Little, para que trabaje de informante y los ayude a derribar a un gran abastecedor de cocaína y a sus vendedores locales. Antonio no está convencido con esta decisión.(n)</desc>
-    <date>2016</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20221001052000 +0000" stop="20221001060500 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Chicago Fire</title>
-    <desc lang="en">Para los bomberos, los rescatistas y los paramédicos del destacamento de bomberos 51 de chicago, no hay ocupación más estresante y peligrosa, y al mismo tiempo más gratificante y emocionante.(n)</desc>
-    <date>2013</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20221001060500 +0000" stop="20221001065000 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Suits: La clave del éxito</title>
-    <desc lang="en">Mike asume al protegido de Louis durante un simulacro de juicio, pero su conflicto con Rachel podría perjudicar sus posibilidades de ganar. Por otra parte, Harvey trabaja en una fusión entre dos cadenas hoteleras, pero su pasado con el abogado contrario complica las cosas.(n)</desc>
-    <date>2011</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20221001065000 +0000" stop="20221001073500 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Suits: La clave del éxito</title>
-    <desc lang="en">Harvey es obligado a trabajar junto con Louis en un caso complicado que incluye la sorpresiva muerte de su testigo estrella. Por otro lado, Mike trabaja en un caso que le exige tomar una difícil decisión.(n)</desc>
-    <date>2011</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20221001073500 +0000" stop="20221001081500 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Blue Bloods</title>
-    <desc lang="en">Los miembros de la familia Reagan tienen una vocación común: velar por el cumplimiento de las leyes en las conflictivas calles de Nueva York. Pero todo cambia cuando el hijo menor forme parte de una investigación clandestina.(n)</desc>
-    <date>2010</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20221001081500 +0000" stop="20221001090000 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Blue Bloods</title>
-    <desc lang="en">Los miembros de la familia Reagan tienen una vocación común: velar por el cumplimiento de las leyes en las conflictivas calles de Nueva York. Pero todo cambia cuando el hijo menor forme parte de una investigación clandestina.(n)</desc>
-    <date>2010</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20221001090000 +0000" stop="20221001094500 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Blue Bloods: Familia de policías</title>
-    <desc lang="en">Danny acompaña a un peligroso exmafioso que lo está ayudando a encontrar cadáveres de casos cerrados a cambio de indulgencia con su hijo por un caso de robo de auto.(n)</desc>
-    <date>2011</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20221001094500 +0000" stop="20221001102500 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Blue Bloods</title>
-    <desc lang="en">Danny acompaña a un peligroso exmafioso que lo está ayudando a encontrar cadáveres de casos cerrados a cambio de indulgencia con su hijo por un caso de robo de auto.(n)</desc>
-    <date>2018</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20221001102500 +0000" stop="20221001111000 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Blue Bloods</title>
-    <desc lang="en">Los miembros de la familia Reagan tienen una vocación común: velar por el cumplimiento de las leyes en las conflictivas calles de Nueva York. Pero todo cambia cuando el hijo menor forme parte de una investigación clandestina.(n)</desc>
-    <date>2010</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20221001111000 +0000" stop="20221001115000 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Blue Bloods</title>
-    <desc lang="en">Danny y Jackie investigan la escena de un crimen en un restaurante, donde un testigo indica que un oficial uniformado huyó del lugar cuando se oyeron los disparos.(n)</desc>
-    <date>2012</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20221001115000 +0000" stop="20221001124000 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Angelyne</title>
-    <desc lang="en">Accidentes automovilísticos, pactos de confianza, amenazas vacuas, detectives privados, juicios.(n)</desc>
-    <date>2022</date>
-    <rating system="MPAA">
-      <value>A</value>
-    </rating>
-  </programme>
-  <programme start="20221001124000 +0000" stop="20221001132500 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Surreal Estate</title>
-    <sub-title lang="en">Boda blanca</sub-title>
-    <desc lang="en">Susan trabaja para evitar que una boda soñada se convierta en una pesadilla y la Casa Donovan contraataca.(n)</desc>
-    <date>2021</date>
-    <rating system="MPAA">
-      <value>A</value>
-    </rating>
-  </programme>
-  <programme start="20221001132500 +0000" stop="20221001141500 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Evil</title>
-    <desc lang="en">Último episodio de la temporada.(n)</desc>
-    <date>2022</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20221001141500 +0000" stop="20221001151000 +0000" channel="Universal Premiere (E)">
-    <title lang="en">La vuelta al mundo en 80 días</title>
-    <desc lang="en">En la última parada en Nueva York, Fogg pone en peligro la apuesta para buscar a su amor perdido,.(n)</desc>
-    <date>2022</date>
-    <rating system="MPAA">
-      <value>F</value>
-    </rating>
-  </programme>
-  <programme start="20221001151000 +0000" stop="20221001155500 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Devils</title>
-    <sub-title lang="en">Episodio 06</sub-title>
-    <desc lang="en">Sin saber que él es el objetivo, Massimo está desesperado por recuperar las pruebas que le robaron.(n)</desc>
-    <date>2022</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20221001155500 +0000" stop="20221001164000 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Imposters</title>
-    <desc lang="en">Maddie encuentra al hombre que podría liberarla. Jules comparte más que una copa con un confidente.(n)</desc>
-    <date>2018</date>
-    <rating system="MPAA">
-      <value>F</value>
-    </rating>
-  </programme>
-  <programme start="20221001164000 +0000" stop="20221001172500 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Chicago Med</title>
-    <desc lang="en">La doctora Manning se apresura a salvar a un niño que tiene un caso de gripe con peligro de muerte. Luego de descubrir que robaron analgésicos opioides durante el accidente masivo de la semana anterior, April cree que es la hermana del doctor Choi quien.(n)</desc>
-    <date>2018</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20221001172500 +0000" stop="20221001181000 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Chicago med</title>
-    <desc lang="en">El doctor Rhodes cuestiona irse del equipo de médicos que separarán a un par de siameses. El doctor Choi y April hacen un descubrimiento sorprendente sobre la hermana del doctor Choi, Emily, y el doctor Charles descubre información preocupante con relación al padre de la doctora Reese.(n)</desc>
-    <date>2018</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20221001181000 +0000" stop="20221001185500 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Chicago Med</title>
-    <desc lang="en">Un accidente de tren elevado afecta grandemente a Chicago y extiende el hospital a sus límites en el estreno de la serie de este drama.(n)</desc>
-    <date>2015</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20221001185500 +0000" stop="20221001193500 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Chicago Med</title>
-    <desc lang="en">Mientras el Dr. Ethan Choi trata a una adolescente con sangrando vaginal, descubre que acaba de dar a luz, lo que desencadena una búsqueda desesperada por el bebé.(n)</desc>
-    <date>2015</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20221001193500 +0000" stop="20221001202000 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Chicago Med</title>
-    <desc lang="en">Cuando el Dr. Connor Rhodes toma el caso de un amigo íntimo de la familia que ha sido herido con esquirlas de vidrio, se vuelve a encontrar con su hermana, Claire Rhodes, y se ve obligado a enfrentarse a su pasado.(n)</desc>
-    <date>2015</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20221001202000 +0000" stop="20221001210500 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Blue Bloods: Familia de policías</title>
-    <desc lang="en">Jackie se hace pasar una dama de compañía para atrapar a un asesino en serie que está matando prostitutas. Erin se encuentra con un potencial pretendiente en una galería de arte.(n)</desc>
-    <date>2011</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20221001210500 +0000" stop="20221001215000 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Blue Bloods: Familia de policías</title>
-    <desc lang="en">Danny acompaña a un peligroso exmafioso que lo está ayudando a encontrar cadáveres de casos cerrados a cambio de indulgencia con su hijo por un caso de robo de auto.(n)</desc>
-    <date>2011</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20221001215000 +0000" stop="20221001223500 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Blue Bloods</title>
-    <desc lang="en">Danny acompaña a un peligroso exmafioso que lo está ayudando a encontrar cadáveres de casos cerrados a cambio de indulgencia con su hijo por un caso de robo de auto.(n)</desc>
-    <date>2018</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20221001223500 +0000" stop="20221001232000 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Blue Bloods</title>
-    <desc lang="en">Los miembros de la familia Reagan tienen una vocación común: velar por el cumplimiento de las leyes en las conflictivas calles de Nueva York. Pero todo cambia cuando el hijo menor forme parte de una investigación clandestina.(n)</desc>
-    <date>2010</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20221001232000 +0000" stop="20221002000000 +0000" channel="Universal Premiere (E)">
-    <title lang="en">Blue Bloods</title>
-    <desc lang="en">Danny y Jackie investigan la escena de un crimen en un restaurante, donde un testigo indica que un oficial uniformado huyó del lugar cuando se oyeron los disparos.(n)</desc>
-    <date>2012</date>
-    <rating system="MPAA">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220928124500 +0000" stop="20220928143000 +0000" channel="Sony Movies!">
-    <title lang="en">La Herencia del Sr. Deeds</title>
-    <desc lang="en">Adam Sandler en esta conmovedora y cómica nueva versión de la película de Frank Capra de 1936, "Mr. Deeds Goes to Town". Sandler es Longfellow Deeds, un hombre sencillo y feliz de un pequeño pueblo que hereda una fortuna y lidia con urbanitas avaros.(n)</desc>
-    <date>2002</date>
+  <programme start="20220928160000 +0000" stop="20220928190000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">Hoy (live)</title>
+    <desc lang="en">Actualidad, información y todo lo que sucede en Guatemala. Sigue las novedades de la jornada, con los acontecimientos de todos los ámbitos. Además, escucha a nuestros analistas y danos tu opinión.(n)</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20220928143500 +0000" stop="20220928150000 +0000" channel="Sony Movies!">
-    <title lang="en">Community</title>
-    <desc lang="en">Abed se convierte en una "chica mala" para el deleite de Britta; Annie y Shirley se encuentran con una compañera de clase cruel y esto las deja tambaleando. Jeff y Troy encuentran un trampolín oculto, lo que les proporciona iluminación espiritual dual. Sin embargo, el cambio en sus personalidades no pasa desapercibido y Pierce está decidido a llegar al fondo de los casos.(n)</desc>
-    <date>2010</date>
+  <programme start="20220928190000 +0000" stop="20220928203000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">¡Cuéntamelo ya! (live)</title>
+    <desc lang="en">Espacio de entretenimiento en donde las más importantes noticias del espectáculo serán reseñadas, pero con un enfoque fresco y amable. Las primicias del mundo de los famosos, entrevistas, y muchísimas más variedades están aquí. Así que "cuéntamelo ya".(n)</desc>
+    <date>2016</date>
+  </programme>
+  <programme start="20220928203000 +0000" stop="20220928213000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">100 Mexicanos dijieron</title>
+    <desc lang="en">Programa de concurso en que se enfrentan dos equipos de cinco personalidades famosas y contestan preguntas para ganar dinero que será donado a las instituciones benéficas. Los participantes incluyen a estrellas de telenovela, cantantes, deportistas y más.(n)</desc>
+    <date>2020</date>
+  </programme>
+  <programme start="20220928213000 +0000" stop="20220928233000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">Lo que la vida me robó</title>
+    <desc lang="en">Serie que cuenta cómo el amor de Montserrat se ve truncado por la avaricia de su madre.(n)</desc>
+    <date>2013</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220928233000 +0000" stop="20220929003000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">Mi secreto</title>
+    <desc lang="en">Una joven adopta la identidad de su amiga, aparentemente muerta, para evitar ser arrestada.(n)</desc>
+  </programme>
+  <programme start="20220929003000 +0000" stop="20220929013000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">Como dice el dicho</title>
+    <desc lang="en">Sergio Corona en compañía de Mario Bautista, Brisa Carrillo y Benny Emmanuel te traen historias llenas de emociones con las que te podrás identificar, ellos tienen un café, donde los clientes escriben en sus paredes los refranes que se acomodan a sus historias, las cuales luego son dramatizadas conmovedoramente.(n)</desc>
+    <date>2011</date>
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220928150000 +0000" stop="20220928152500 +0000" channel="Sony Movies!">
-    <title lang="en">Community</title>
-    <desc lang="en">Todo el mundo es sospechoso cuando la pluma favorita de Annie se pierde, por lo que el grupo se encierra hasta que aparezca el ladrón. Jeff conduce la investigación, pero Abed y Troy no están muy interesados en el misterio porque quieren ir a un desfile de cachorros en un área cercana.(n)</desc>
-    <date>2010</date>
+  <programme start="20220929013000 +0000" stop="20220929023000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">Corona de lágrimas</title>
+    <desc lang="en">Una mujer sola inicia una nueva vida junto a sus tres hijos.(n)</desc>
+    <date>2012</date>
+    <rating system="MPAA">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220929023000 +0000" stop="20220929033000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">La Rosa de Guadalupe</title>
+    <desc lang="en">La Virgen de Guadalupe se ha convertido en estandarte de millones de mexicanos. Cada uno de sus milagros se traducen en historias, de amor, desamor, esperanza, lucha e intriga. Este espacio abordará temas como la prostitución, violencia intrafamiliar, drogadicción, entre otros.(n)</desc>
+    <date>2008</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220929033000 +0000" stop="20220929043000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">Vencer la ausencia</title>
+    <desc lang="en">Se trata de la historia de cuatro mujeres que tienen distintos orígenes: Julia, Esther,.(n)</desc>
+    <date>2022</date>
+  </programme>
+  <programme start="20220929043000 +0000" stop="20220929053000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">La Madrastra</title>
+    <desc lang="en">Dada por muerta por su familia, una mujer regresa a su hogar, tras una larga estancia en la cárcel, para ajustar cuentas con su esposo que la dejó a su suerte y recuperar el amor de sus hijos.(n)</desc>
+    <date>2005</date>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20220928152500 +0000" stop="20220928155000 +0000" channel="Sony Movies!">
-    <title lang="en">Community</title>
-    <desc lang="en">Dean Pelton acusa a Jeff de incluir una clase falsa en su agenda, pero un profesor misterioso aparece para defender de Jeff. Jeff y Annie investigan sobre el misterioso hombre. En otra parte, Abed y Troy construyen un fuerte de grandes proporciones.(n)</desc>
-    <date>2010</date>
+  <programme start="20220929053000 +0000" stop="20220929060000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">En punto con: Denise Maerker</title>
+    <desc lang="en">Espacio con toda la actualidad conducido Denise Maerker. La experimentada periodista y conductora no sólo brinda información, sino que pretende que el televidente entienda la noticia. Por eso, este ciclo deja de ser un mero noticiero e intenta llegar un poco más allá de los hechos que dejan la jornada.(n)</desc>
+  </programme>
+  <programme start="20220929060000 +0000" stop="20220929070000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">Tercer Grado</title>
+    <desc lang="en">Periodistas prestigiosos de México analizan y debaten temas relevantes.(n)</desc>
+  </programme>
+  <programme start="20220929070000 +0000" stop="20220929080000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">Pare de Sufrir</title>
+    <desc lang="en">Programación religiosa.(n)</desc>
+  </programme>
+  <programme start="20220929080000 +0000" stop="20220929083000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.(n)</desc>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220929083000 +0000" stop="20220929090000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.(n)</desc>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220929090000 +0000" stop="20220929093000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">C.V. Directo</title>
+    <desc lang="en">Este espacio de tele ventas ha sido creado con el propósito de aportar soluciones para todas las personas que tengan preguntas sobre salud, pérdida de peso, artículos de novedad y para relajamiento y todos los productos que nos han caracterizado durante muchos años a través de la televisión.(n)</desc>
+  </programme>
+  <programme start="20220929093000 +0000" stop="20220929100000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">C.V. Directo</title>
+    <desc lang="en">Este espacio de tele ventas ha sido creado con el propósito de aportar soluciones para todas las personas que tengan preguntas sobre salud, pérdida de peso, artículos de novedad y para relajamiento y todos los productos que nos han caracterizado durante muchos años a través de la televisión.(n)</desc>
+  </programme>
+  <programme start="20220929100000 +0000" stop="20220929103000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">C.V. Directo</title>
+    <desc lang="en">Este espacio de tele ventas ha sido creado con el propósito de aportar soluciones para todas las personas que tengan preguntas sobre salud, pérdida de peso, artículos de novedad y para relajamiento y todos los productos que nos han caracterizado durante muchos años a través de la televisión.(n)</desc>
+  </programme>
+  <programme start="20220929103000 +0000" stop="20220929110000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">C.V. Directo</title>
+    <desc lang="en">Este espacio de tele ventas ha sido creado con el propósito de aportar soluciones para todas las personas que tengan preguntas sobre salud, pérdida de peso, artículos de novedad y para relajamiento y todos los productos que nos han caracterizado durante muchos años a través de la televisión.(n)</desc>
+  </programme>
+  <programme start="20220929110000 +0000" stop="20220929113000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.(n)</desc>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220929113000 +0000" stop="20220929120000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">Especiales de RTC</title>
+    <desc lang="en">Se abordan temas de interés general para informar, educar y entretener al espectador.(n)</desc>
+    <date>2017</date>
+  </programme>
+  <programme start="20220929120000 +0000" stop="20220929123000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">C.V. Directo</title>
+    <desc lang="en">Este espacio de tele ventas ha sido creado con el propósito de aportar soluciones para todas las personas que tengan preguntas sobre salud, pérdida de peso, artículos de novedad y para relajamiento y todos los productos que nos han caracterizado durante muchos años a través de la televisión.(n)</desc>
+  </programme>
+  <programme start="20220929123000 +0000" stop="20220929130000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">Farmacias de Similares</title>
+    <desc lang="en">Promociones y descuentos de la cadena farmacéutica líder en ventas y distribución. Tanto en México como en el resto de América Latina. En este infomercial encontrarás los medicamentos genéricos de la más alta calidad a los mejores precios.(n)</desc>
+  </programme>
+  <programme start="20220929130000 +0000" stop="20220929133000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">Las noticias (live)</title>
+    <desc lang="en">Te presentamos las últimas informaciones de México y del mundo, entrevistas, fotos, videos, reportajes, coberturas, blogs e información actual.(n)</desc>
+    <date>2008</date>
+  </programme>
+  <programme start="20220929133000 +0000" stop="20220929150000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">Despierta (live)</title>
+    <desc lang="en">Un documental acerca del autismo, la historia de cuatro jóvenes autistas y su transición de la etapa de la niñez a la edad adulta.(n)</desc>
+    <date>2019</date>
+  </programme>
+  <programme start="20220929150000 +0000" stop="20220929160000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">Al aire (live)</title>
+    <desc lang="en">Programa informativo en el que se abordan temas de ciencia y tecnología, entre otros.(n)</desc>
+    <date>2016</date>
+  </programme>
+  <programme start="20220929160000 +0000" stop="20220929190000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">Hoy (live)</title>
+    <desc lang="en">Actualidad, información y todo lo que sucede en Guatemala. Sigue las novedades de la jornada, con los acontecimientos de todos los ámbitos. Además, escucha a nuestros analistas y danos tu opinión.(n)</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
+  </programme>
+  <programme start="20220929190000 +0000" stop="20220929203000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">¡Cuéntamelo ya! (live)</title>
+    <desc lang="en">Espacio de entretenimiento en donde las más importantes noticias del espectáculo serán reseñadas, pero con un enfoque fresco y amable. Las primicias del mundo de los famosos, entrevistas, y muchísimas más variedades están aquí. Así que "cuéntamelo ya".(n)</desc>
+    <date>2016</date>
+  </programme>
+  <programme start="20220929203000 +0000" stop="20220929213000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">100 Mexicanos dijieron</title>
+    <desc lang="en">Programa de concurso en que se enfrentan dos equipos de cinco personalidades famosas y contestan preguntas para ganar dinero que será donado a las instituciones benéficas. Los participantes incluyen a estrellas de telenovela, cantantes, deportistas y más.(n)</desc>
+    <date>2020</date>
+  </programme>
+  <programme start="20220929213000 +0000" stop="20220929233000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">Lo que la vida me robó</title>
+    <desc lang="en">Serie que cuenta cómo el amor de Montserrat se ve truncado por la avaricia de su madre.(n)</desc>
+    <date>2013</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220929233000 +0000" stop="20220930003000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">Mi secreto</title>
+    <desc lang="en">Una joven adopta la identidad de su amiga, aparentemente muerta, para evitar ser arrestada.(n)</desc>
+  </programme>
+  <programme start="20220930003000 +0000" stop="20220930013000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">Como dice el dicho</title>
+    <desc lang="en">Sergio Corona en compañía de Mario Bautista, Brisa Carrillo y Benny Emmanuel te traen historias llenas de emociones con las que te podrás identificar, ellos tienen un café, donde los clientes escriben en sus paredes los refranes que se acomodan a sus historias, las cuales luego son dramatizadas conmovedoramente.(n)</desc>
+    <date>2011</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220930013000 +0000" stop="20220930023000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">Corona de lágrimas</title>
+    <desc lang="en">Una mujer sola inicia una nueva vida junto a sus tres hijos.(n)</desc>
+    <date>2012</date>
+    <rating system="MPAA">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220930023000 +0000" stop="20220930033000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">La Rosa de Guadalupe</title>
+    <desc lang="en">La Virgen de Guadalupe se ha convertido en estandarte de millones de mexicanos. Cada uno de sus milagros se traducen en historias, de amor, desamor, esperanza, lucha e intriga. Este espacio abordará temas como la prostitución, violencia intrafamiliar, drogadicción, entre otros.(n)</desc>
+    <date>2008</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220930033000 +0000" stop="20220930043000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">Vencer la ausencia</title>
+    <desc lang="en">Se trata de la historia de cuatro mujeres que tienen distintos orígenes: Julia, Esther,.(n)</desc>
+    <date>2022</date>
+  </programme>
+  <programme start="20220930043000 +0000" stop="20220930053000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">La Madrastra</title>
+    <desc lang="en">Dada por muerta por su familia, una mujer regresa a su hogar, tras una larga estancia en la cárcel, para ajustar cuentas con su esposo que la dejó a su suerte y recuperar el amor de sus hijos.(n)</desc>
+    <date>2005</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220930053000 +0000" stop="20220930060000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">En punto con: Denise Maerker</title>
+    <desc lang="en">Espacio con toda la actualidad conducido Denise Maerker. La experimentada periodista y conductora no sólo brinda información, sino que pretende que el televidente entienda la noticia. Por eso, este ciclo deja de ser un mero noticiero e intenta llegar un poco más allá de los hechos que dejan la jornada.(n)</desc>
+  </programme>
+  <programme start="20220930060000 +0000" stop="20220930063000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">Renta congelada</title>
+    <desc lang="en">Dos parejas de recién casados deben convivir en el mismo hogar. Una situación impensada para los cuatro, pero que tuvieron que afrontar después de haber sido víctimas de un fraude inmobiliario previo a sus bodas. Así las cosas, deberán poner lo mejor de cada uno para compartir el espacio común de la mejor manera posible.(n)</desc>
+    <date>2017</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220930063000 +0000" stop="20220930070000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">Contacto Deportivo (live)</title>
+    <desc lang="en">El noticiero de TUDN es el destino obligado de todos los amantes del deporte, noticias completamente actualizadas sobre los eventos más importantes y los partidos más destacados alrededor del mundo.(n)</desc>
+  </programme>
+  <programme start="20220930070000 +0000" stop="20220930080000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">Pare de Sufrir</title>
+    <desc lang="en">Programación religiosa.(n)</desc>
+  </programme>
+  <programme start="20220930080000 +0000" stop="20220930083000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.(n)</desc>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220930083000 +0000" stop="20220930090000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.(n)</desc>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220930090000 +0000" stop="20220930093000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">C.V. Directo</title>
+    <desc lang="en">Este espacio de tele ventas ha sido creado con el propósito de aportar soluciones para todas las personas que tengan preguntas sobre salud, pérdida de peso, artículos de novedad y para relajamiento y todos los productos que nos han caracterizado durante muchos años a través de la televisión.(n)</desc>
+  </programme>
+  <programme start="20220930093000 +0000" stop="20220930100000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">C.V. Directo</title>
+    <desc lang="en">Este espacio de tele ventas ha sido creado con el propósito de aportar soluciones para todas las personas que tengan preguntas sobre salud, pérdida de peso, artículos de novedad y para relajamiento y todos los productos que nos han caracterizado durante muchos años a través de la televisión.(n)</desc>
+  </programme>
+  <programme start="20220930100000 +0000" stop="20220930103000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">C.V. Directo</title>
+    <desc lang="en">Este espacio de tele ventas ha sido creado con el propósito de aportar soluciones para todas las personas que tengan preguntas sobre salud, pérdida de peso, artículos de novedad y para relajamiento y todos los productos que nos han caracterizado durante muchos años a través de la televisión.(n)</desc>
+  </programme>
+  <programme start="20220930103000 +0000" stop="20220930110000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">C.V. Directo</title>
+    <desc lang="en">Este espacio de tele ventas ha sido creado con el propósito de aportar soluciones para todas las personas que tengan preguntas sobre salud, pérdida de peso, artículos de novedad y para relajamiento y todos los productos que nos han caracterizado durante muchos años a través de la televisión.(n)</desc>
+  </programme>
+  <programme start="20220930110000 +0000" stop="20220930113000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.(n)</desc>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220930113000 +0000" stop="20220930120000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">Especiales de RTC</title>
+    <desc lang="en">Se abordan temas de interés general para informar, educar y entretener al espectador.(n)</desc>
+    <date>2017</date>
+  </programme>
+  <programme start="20220930120000 +0000" stop="20220930123000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">C.V. Directo</title>
+    <desc lang="en">Este espacio de tele ventas ha sido creado con el propósito de aportar soluciones para todas las personas que tengan preguntas sobre salud, pérdida de peso, artículos de novedad y para relajamiento y todos los productos que nos han caracterizado durante muchos años a través de la televisión.(n)</desc>
+  </programme>
+  <programme start="20220930123000 +0000" stop="20220930130000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">Farmacias de Similares</title>
+    <desc lang="en">Promociones y descuentos de la cadena farmacéutica líder en ventas y distribución. Tanto en México como en el resto de América Latina. En este infomercial encontrarás los medicamentos genéricos de la más alta calidad a los mejores precios.(n)</desc>
+  </programme>
+  <programme start="20220930130000 +0000" stop="20220930133000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">Las noticias (live)</title>
+    <desc lang="en">Te presentamos las últimas informaciones de México y del mundo, entrevistas, fotos, videos, reportajes, coberturas, blogs e información actual.(n)</desc>
+    <date>2008</date>
+  </programme>
+  <programme start="20220930133000 +0000" stop="20220930150000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">Despierta (live)</title>
+    <desc lang="en">Un documental acerca del autismo, la historia de cuatro jóvenes autistas y su transición de la etapa de la niñez a la edad adulta.(n)</desc>
+    <date>2019</date>
+  </programme>
+  <programme start="20220930150000 +0000" stop="20220930160000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">Al aire (live)</title>
+    <desc lang="en">Programa informativo en el que se abordan temas de ciencia y tecnología, entre otros.(n)</desc>
+    <date>2016</date>
+  </programme>
+  <programme start="20220930160000 +0000" stop="20220930190000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">Hoy (live)</title>
+    <desc lang="en">Actualidad, información y todo lo que sucede en Guatemala. Sigue las novedades de la jornada, con los acontecimientos de todos los ámbitos. Además, escucha a nuestros analistas y danos tu opinión.(n)</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220930190000 +0000" stop="20220930203000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">¡Cuéntamelo ya! (live)</title>
+    <desc lang="en">Espacio de entretenimiento en donde las más importantes noticias del espectáculo serán reseñadas, pero con un enfoque fresco y amable. Las primicias del mundo de los famosos, entrevistas, y muchísimas más variedades están aquí. Así que "cuéntamelo ya".(n)</desc>
+    <date>2016</date>
+  </programme>
+  <programme start="20220930203000 +0000" stop="20220930213000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">100 Mexicanos dijieron</title>
+    <desc lang="en">Programa de concurso en que se enfrentan dos equipos de cinco personalidades famosas y contestan preguntas para ganar dinero que será donado a las instituciones benéficas. Los participantes incluyen a estrellas de telenovela, cantantes, deportistas y más.(n)</desc>
+    <date>2020</date>
+  </programme>
+  <programme start="20220930213000 +0000" stop="20220930233000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">Lo que la vida me robó</title>
+    <desc lang="en">Serie que cuenta cómo el amor de Montserrat se ve truncado por la avaricia de su madre.(n)</desc>
+    <date>2013</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220930233000 +0000" stop="20221001003000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">Mi secreto</title>
+    <desc lang="en">Una joven adopta la identidad de su amiga, aparentemente muerta, para evitar ser arrestada.(n)</desc>
+  </programme>
+  <programme start="20221001003000 +0000" stop="20221001013000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">Como dice el dicho</title>
+    <desc lang="en">Sergio Corona en compañía de Mario Bautista, Brisa Carrillo y Benny Emmanuel te traen historias llenas de emociones con las que te podrás identificar, ellos tienen un café, donde los clientes escriben en sus paredes los refranes que se acomodan a sus historias, las cuales luego son dramatizadas conmovedoramente.(n)</desc>
+    <date>2011</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20221001013000 +0000" stop="20221001023000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">Corona de lágrimas</title>
+    <desc lang="en">Una mujer sola inicia una nueva vida junto a sus tres hijos.(n)</desc>
+    <date>2012</date>
+    <rating system="MPAA">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20221001023000 +0000" stop="20221001033000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">La Rosa de Guadalupe</title>
+    <desc lang="en">La Virgen de Guadalupe se ha convertido en estandarte de millones de mexicanos. Cada uno de sus milagros se traducen en historias, de amor, desamor, esperanza, lucha e intriga. Este espacio abordará temas como la prostitución, violencia intrafamiliar, drogadicción, entre otros.(n)</desc>
+    <date>2008</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20221001033000 +0000" stop="20221001043000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">Vencer la ausencia</title>
+    <desc lang="en">Se trata de la historia de cuatro mujeres que tienen distintos orígenes: Julia, Esther,.(n)</desc>
+    <date>2022</date>
+  </programme>
+  <programme start="20221001043000 +0000" stop="20221001053000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">La Madrastra</title>
+    <desc lang="en">Dada por muerta por su familia, una mujer regresa a su hogar, tras una larga estancia en la cárcel, para ajustar cuentas con su esposo que la dejó a su suerte y recuperar el amor de sus hijos.(n)</desc>
+    <date>2005</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20221001053000 +0000" stop="20221001060000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">En punto con: Denise Maerker</title>
+    <desc lang="en">Espacio con toda la actualidad conducido Denise Maerker. La experimentada periodista y conductora no sólo brinda información, sino que pretende que el televidente entienda la noticia. Por eso, este ciclo deja de ser un mero noticiero e intenta llegar un poco más allá de los hechos que dejan la jornada.(n)</desc>
+  </programme>
+  <programme start="20221001060000 +0000" stop="20221001063000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">Relatos macabrones</title>
+    <desc lang="en">Programa de entretenimiento.(n)</desc>
+    <date>2020</date>
+  </programme>
+  <programme start="20221001063000 +0000" stop="20221001070000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">Contacto Deportivo (live)</title>
+    <desc lang="en">El noticiero de TUDN es el destino obligado de todos los amantes del deporte, noticias completamente actualizadas sobre los eventos más importantes y los partidos más destacados alrededor del mundo.(n)</desc>
+  </programme>
+  <programme start="20221001070000 +0000" stop="20221001080000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">Pare de Sufrir</title>
+    <desc lang="en">Programación religiosa.(n)</desc>
+  </programme>
+  <programme start="20221001080000 +0000" stop="20221001083000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.(n)</desc>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20221001083000 +0000" stop="20221001090000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.(n)</desc>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20221001090000 +0000" stop="20221001093000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">C.V. Directo</title>
+    <desc lang="en">Este espacio de tele ventas ha sido creado con el propósito de aportar soluciones para todas las personas que tengan preguntas sobre salud, pérdida de peso, artículos de novedad y para relajamiento y todos los productos que nos han caracterizado durante muchos años a través de la televisión.(n)</desc>
+  </programme>
+  <programme start="20221001093000 +0000" stop="20221001100000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">C.V. Directo</title>
+    <desc lang="en">Este espacio de tele ventas ha sido creado con el propósito de aportar soluciones para todas las personas que tengan preguntas sobre salud, pérdida de peso, artículos de novedad y para relajamiento y todos los productos que nos han caracterizado durante muchos años a través de la televisión.(n)</desc>
+  </programme>
+  <programme start="20221001100000 +0000" stop="20221001103000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">C.V. Directo</title>
+    <desc lang="en">Este espacio de tele ventas ha sido creado con el propósito de aportar soluciones para todas las personas que tengan preguntas sobre salud, pérdida de peso, artículos de novedad y para relajamiento y todos los productos que nos han caracterizado durante muchos años a través de la televisión.(n)</desc>
+  </programme>
+  <programme start="20221001103000 +0000" stop="20221001110000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">C.V. Directo</title>
+    <desc lang="en">Este espacio de tele ventas ha sido creado con el propósito de aportar soluciones para todas las personas que tengan preguntas sobre salud, pérdida de peso, artículos de novedad y para relajamiento y todos los productos que nos han caracterizado durante muchos años a través de la televisión.(n)</desc>
+  </programme>
+  <programme start="20221001110000 +0000" stop="20221001113000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">C.V. Directo</title>
+    <desc lang="en">Este espacio de tele ventas ha sido creado con el propósito de aportar soluciones para todas las personas que tengan preguntas sobre salud, pérdida de peso, artículos de novedad y para relajamiento y todos los productos que nos han caracterizado durante muchos años a través de la televisión.(n)</desc>
+  </programme>
+  <programme start="20221001113000 +0000" stop="20221001120000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">Especiales de RTC</title>
+    <desc lang="en">Se abordan temas de interés general para informar, educar y entretener al espectador.(n)</desc>
+    <date>2017</date>
+  </programme>
+  <programme start="20221001120000 +0000" stop="20221001123000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">C.V. Directo</title>
+    <desc lang="en">Este espacio de tele ventas ha sido creado con el propósito de aportar soluciones para todas las personas que tengan preguntas sobre salud, pérdida de peso, artículos de novedad y para relajamiento y todos los productos que nos han caracterizado durante muchos años a través de la televisión.(n)</desc>
+  </programme>
+  <programme start="20221001123000 +0000" stop="20221001130000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">C.V. Directo</title>
+    <desc lang="en">Este espacio de tele ventas ha sido creado con el propósito de aportar soluciones para todas las personas que tengan preguntas sobre salud, pérdida de peso, artículos de novedad y para relajamiento y todos los productos que nos han caracterizado durante muchos años a través de la televisión.(n)</desc>
+  </programme>
+  <programme start="20221001130000 +0000" stop="20221001141500 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">¡Papá Soltero!</title>
+    <desc lang="en">Los enredos en la vida de un viudo y sus hijos.(n)</desc>
+    <date>1987</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20221001141500 +0000" stop="20221001160000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">Música de Viento</title>
+    <desc lang="en">Roberto Gómez Bolaños (Chespirito) y Florinda Meza protagonizan esta comedia sobre un hombre que no puede controlar sus extrañas reacciones al ver pistolas.(n)</desc>
+    <date>1989</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20221001160000 +0000" stop="20221001180000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">S.O.S. Conspiración Bikini</title>
+    <desc lang="en">Protegidas por su exuberante belleza, un grupo de bellas mujeres, que forma parte de una organización terrorista de Latinoamérica, se infiltra en un hotel de Quito, Ecuador, mientras se celebra una convención de moda de playa, con el objetivo de...(n)</desc>
+    <date>1967</date>
+  </programme>
+  <programme start="20221001180000 +0000" stop="20221001200000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">Cuéntamelo Ya!... Al fin</title>
+    <desc lang="en">Espacio de entretenimiento en donde las más importantes noticias del espectáculo serán reseñadas, pero con un enfoque fresco y amable. Las primicias del mundo de los famosos, entrevistas, y muchísimas más variedades están aquí. Así que "cuéntamelo ya".(n)</desc>
+  </programme>
+  <programme start="20221001200000 +0000" stop="20221001220000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">Pero sigo siendo el rey</title>
+    <desc lang="en">La vida del famoso cantautor José Alfredo Jiménez: su difícil inicio en la música, sus amores, éxitos y fracasos que lo llevaron a ser uno de los compositores más representativos de México.(n)</desc>
+    <date>1988</date>
+  </programme>
+  <programme start="20221001220000 +0000" stop="20221002000000 +0000" channel="Las Estrellas -2HR">
+    <title lang="en">Acorralados</title>
+    <desc lang="en">Un hombre sin escrúpulos y un corrupto abogado conspiran a encubrir el asesinato de dos hombres a sangre fría.(n)</desc>
+    <date>1976</date>
   </programme>
   <programme start="20220928155000 +0000" stop="20220928161500 +0000" channel="Sony Movies!">
     <title lang="en">The Goldbergs</title>
@@ -1532,15 +1087,6 @@
     <desc lang="en">Adam Jones es un exitoso chef que tenía todo y lo pierde por culpa de sus malos hábitos. Ahora, quiere comenzar de nuevo y para lograrlo, necesita lo mejor de lo mejor. Entre su lista de tareas, está la bellísima Helene, quien le dará un giro inesperado a su vida con un nuevo condimento: el amor. Un film divertido, que habla sobre el maravilloso poder de las segundas oportunidades.(n)</desc>
     <date>2015</date>
   </programme>
-  <programme start="20220928140000 +0000" stop="20220928143000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20220928143000 +0000" stop="20220928150000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20220928150000 +0000" stop="20220928153000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
   <programme start="20220928153000 +0000" stop="20220928160000 +0000" channel="NY1 Noticias">
     <title lang="en">NY1 Noticias</title>
   </programme>
@@ -2013,11 +1559,6 @@
   <programme start="20221001233000 +0000" stop="20221002000000 +0000" channel="NY1 Noticias">
     <title lang="en">NY1 Noticias</title>
   </programme>
-  <programme start="20220928133000 +0000" stop="20220928144000 +0000" channel="BitMe!">
-    <title lang="en">Yu Gi Oh!</title>
-    <desc lang="en">La más divertida serie de monstruos gigantes, magia poderosa y antiguas leyendas egipcias, que muestra las aventuras de Yugi y sus mejores amigos Joey, Tristan y Téa.(n)</desc>
-    <date>1998</date>
-  </programme>
   <programme start="20220928144000 +0000" stop="20220928162000 +0000" channel="BitMe!">
     <title lang="en">Universo Marcial</title>
     <desc lang="en">Lin Dong es un niño de un pequeño pueblo que no es favorecido por su familia. Por casualidad, obtiene un misterioso artefacto que es codiciado por muchos clanes en el mundo marcial. Debido a tal artefacto, Lin Dong es abordado por muchas personas...(n)</desc>
@@ -2377,17 +1918,6 @@
     <title lang="en">Yu Gi Oh!</title>
     <desc lang="en">La más divertida serie de monstruos gigantes, magia poderosa y antiguas leyendas egipcias, que muestra las aventuras de Yugi y sus mejores amigos Joey, Tristan y Téa.(n)</desc>
     <date>1998</date>
-  </programme>
-  <programme start="20220928140100 +0000" stop="20220928150000 +0000" channel="Curiosity Stream!">
-    <title lang="en">El ocaso de las civilizaciones</title>
-    <desc lang="en">¿Cómo llegó al ocaso la civilización más prestigiosa del mundo?(n)</desc>
-    <date>2021</date>
-  </programme>
-  <programme start="20220928150000 +0000" stop="20220928153000 +0000" channel="Curiosity Stream!">
-    <title lang="en">El efecto mariposa</title>
-    <sub-title lang="en">Estambul: de un imperio a otro</sub-title>
-    <desc lang="en">Constantinopla fue una parte del Imperio Romano que luego se convirtió en el trono del Imperio Bizantino y, más tarde, fue la ciudad del Imperio Otomano. Esta es la historia de la ciudad legendaria y la historia de su poder y conflicto a lo largo de los años.(n)</desc>
-    <date>2022</date>
   </programme>
   <programme start="20220928153000 +0000" stop="20220928160000 +0000" channel="Curiosity Stream!">
     <title lang="en">El efecto mariposa</title>
@@ -3078,30 +2608,6 @@
   <programme start="20221001233000 +0000" stop="20221002000000 +0000" channel="Curiosity Stream!">
     <title lang="en">A confirmar</title>
     <desc lang="en">El mejor contenido de la TV disponible para que disfrutes de tu tiempo de ocio y recreación. Una cuidada programación así como todo el entretenimiento accesible desde la pantalla de tu televisor aguardan tu compañía.(n)</desc>
-  </programme>
-  <programme start="20220928140000 +0000" stop="20220928143000 +0000" channel="Dreamworks!">
-    <title lang="en">Las épicas aventuras del Capitán Calzoncillos</title>
-    <desc lang="en">Jorge y Berto se esconden tras un vergonzoso incidente con un pudín de chocolate,.(n)</desc>
-    <date>2018</date>
-    <rating system="MPAA">
-      <value>TV-Y7</value>
-    </rating>
-  </programme>
-  <programme start="20220928143000 +0000" stop="20220928150000 +0000" channel="Dreamworks!">
-    <title lang="en">Home: Adventures With Tip &amp; Oh</title>
-    <desc lang="en">Oh piensa que su programa de televisión buv favorito es real. Tip hace todo lo posible por mantener la ilusión del alienígena; así que graba nuevos episodios para la serie. Más tarde, Tip se enfurece al descubrir que Oh ha estado leyendo su diario íntimo; mientras que Oh decide crear su propio drama.(n)</desc>
-    <date>2017</date>
-    <rating system="MPAA">
-      <value>TV-Y7</value>
-    </rating>
-  </programme>
-  <programme start="20220928150000 +0000" stop="20220928153000 +0000" channel="Dreamworks!">
-    <title lang="en">El amanecer de los Croods</title>
-    <desc lang="en">En el Crudázico, los cavernícolas más fuertes tenían las mejores casas, los mejores juguetes y los mejores amigos. Pero no todo el mundo nace fuerte, así que, para enseñar a los niños a sobrevivir, el Valle de Ahhh! inventó el colegio y...(n)</desc>
-    <date>2016</date>
-    <rating system="MPAA">
-      <value>TV-Y7</value>
-    </rating>
   </programme>
   <programme start="20220928153000 +0000" stop="20220928160000 +0000" channel="Dreamworks!">
     <title lang="en">Las aventuras del Gato con Botas</title>
@@ -4345,13 +3851,6 @@
       <value>TV-Y7</value>
     </rating>
   </programme>
-  <programme start="20220928142400 +0000" stop="20220928151000 +0000" channel="Aplauso">
-    <title lang="en">Código De Ley</title>
-  </programme>
-  <programme start="20220928151000 +0000" stop="20220928153500 +0000" channel="Aplauso">
-    <title lang="en">Edición Limitada</title>
-    <date>2022</date>
-  </programme>
   <programme start="20220928153500 +0000" stop="20220928161900 +0000" channel="Aplauso">
     <title lang="en">Un viaje para sanar</title>
     <date>2021</date>
@@ -4657,22 +4156,6 @@
     <date>2014</date>
     <rating system="MPAA">
       <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220928140000 +0000" stop="20220928143000 +0000" channel="Hogar HGTV">
-    <title lang="en">Nuestro hogar en Hawái</title>
-    <desc lang="en">Una pareja de Oregón deja su agitada vida en el mar para vivir del cultivo en Isla Grande.(n)</desc>
-    <date>2017</date>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20220928143000 +0000" stop="20220928150000 +0000" channel="Hogar HGTV">
-    <title lang="en">Nuestro hogar en Hawái</title>
-    <desc lang="en">Una familia grande de Oregón cumple sus sueños y se muda a Kona.(n)</desc>
-    <date>2017</date>
-    <rating system="MPAA">
-      <value>TV-G</value>
     </rating>
   </programme>
   <programme start="20220928150000 +0000" stop="20220928160000 +0000" channel="Hogar HGTV">
@@ -5641,25 +5124,6 @@
       <value>TV-G</value>
     </rating>
   </programme>
-  <programme start="20220928133000 +0000" stop="20220928150000 +0000" channel="Animal Planet!">
-    <title lang="es">Televentas</title>
-    <desc lang="es">Conoce todos los productos más exclusivos, innovadores y de excelente cantidad, los cuales son presentados en este espacio televisivo.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/99/11990013_1BAB9087515323FC.jpg" />
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220928150000 +0000" stop="20220928152400 +0000" channel="Animal Planet!">
-    <title lang="es">Misterios del mundo animal</title>
-    <sub-title lang="es">El cuervo que hace snowboard</sub-title>
-    <desc lang="es">¿Cómo hizo un alce para quedar atrapado en un manzano? ¿Por qué un cuervo hace snowboard? ¿Va a hacer erupción el volcán de Yellowstone.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/64/10647535_3CA99513D95120AF.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S1 E12</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
   <programme start="20220928152400 +0000" stop="20220928162300 +0000" channel="Animal Planet!">
     <title lang="es">Guardianes de Texas</title>
     <sub-title lang="es">Extraño junto al lago</sub-title>
@@ -5675,7 +5139,7 @@
     <title lang="es">Justicia salvaje</title>
     <sub-title lang="es">El caso del venado decapitado</sub-title>
     <desc lang="es">La Policía del Servicio de Pesca y Vida Silvestre de Washington arresta a un sospechoso, investiga el caso de un alce decapitado y toma medidas contra quienes arrojan basura. Unos pescadores de cangrejos canadienses son capturados en aguas americanas.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/72/12726379_82864CD47D7BBB49.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/72/12724190_286C1D9E15620784.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S3 E3</episode-num>
     <rating system="MJColombia">
@@ -5824,7 +5288,7 @@
     <title lang="es">El zoológico del Bronx</title>
     <sub-title lang="es">Macacos japoneses</sub-title>
     <desc lang="es">El apartamento de aves prepara un grupo de cálaos de Von der Decken para su traslado al zoológico de Minnesota. Además, los cuidadores del zoológico de Central Park esperan que los macacos japoneses hembras acepten un macho.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/90/9905701_8FCF0AF69459F284.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/89/9898389_08BB8AB788653A6D.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S3 E14</episode-num>
     <rating system="MJColombia">
@@ -5899,7 +5363,7 @@
     <title lang="es">El zoológico del Bronx</title>
     <sub-title lang="es">Conejos pequeños, mundo grande</sub-title>
     <desc lang="es">El entrenamiento de Tigita Nikita para mudarse a Washington es un desafío. Un caimán chino en peligro de extinción muestra signos de estar embarazada. Y el personal se prepara para liberar raros conejos de rabo blanco de Nueva Inglaterra.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/91/9917159_FEE4B99DF7CD4332.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/89/9898399_6F0FB59CD1B2A8BE.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S3 E5</episode-num>
     <rating system="MJColombia">
@@ -5918,7 +5382,7 @@
     <title lang="es">Misterios del mundo animal</title>
     <sub-title lang="es">La araña que baila</sub-title>
     <desc lang="es">¿Por qué las arañas bailan? ¿Qué criatura misteriosa mata ovejas en Europa? ¿Qué hace que toda una ciudad quede cubierta de espuma? Misterios del mundo animal tiene las respuestas.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/64/10647548_ADD8124FB1D12F6E.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/65/10657533_C62F0EF774466D36.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S1 E14</episode-num>
     <rating system="MJColombia">
@@ -5951,7 +5415,7 @@
     <title lang="es">El último de su especie</title>
     <sub-title lang="es">El unicornio asiático</sub-title>
     <desc lang="es">En Vietnam, Forrest recorre cuevas en busca del antílope Saola en un oasis oculto. Esta especie exótica se descubrió recientemente, pero existen rumores de que el 'unicornio asiático' podría extinguirse.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/47/10477539_69B2ADDFF3848A4A.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/47/10475973_41CB298913B2B5EC.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S2 E9</episode-num>
     <rating system="MJColombia">
@@ -6048,7 +5512,7 @@
     <title lang="es">Islas de Indonesia</title>
     <sub-title lang="es">La tierra del dragón</sub-title>
     <desc lang="es">Los reptiles que habitan Indonesia sobreviven gracias al calor. Desde el dosel de los bosques tropicales hasta los mares repletos de corales, ¿cómo se convirtieron estos hábitats en reinos de dragones.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/88/9886154_FE988D8530054A33.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/90/9908039_7066E9BC59314D3C.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S1 E5</episode-num>
     <rating system="MJColombia">
@@ -6147,7 +5611,7 @@
     <title lang="es">El zoológico del Bronx</title>
     <sub-title lang="es">Conejos pequeños, mundo grande</sub-title>
     <desc lang="es">El entrenamiento de Tigita Nikita para mudarse a Washington es un desafío. Un caimán chino en peligro de extinción muestra signos de estar embarazada. Y el personal se prepara para liberar raros conejos de rabo blanco de Nueva Inglaterra.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/91/9917159_FEE4B99DF7CD4332.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/89/9898399_6F0FB59CD1B2A8BE.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S3 E5</episode-num>
     <rating system="MJColombia">
@@ -6190,7 +5654,7 @@
     <title lang="es">Misterios del mundo animal</title>
     <sub-title lang="es">La araña que baila</sub-title>
     <desc lang="es">¿Por qué las arañas bailan? ¿Qué criatura misteriosa mata ovejas en Europa? ¿Qué hace que toda una ciudad quede cubierta de espuma? Misterios del mundo animal tiene las respuestas.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/64/10647548_ADD8124FB1D12F6E.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/65/10657533_C62F0EF774466D36.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S1 E14</episode-num>
     <rating system="MJColombia">
@@ -6308,7 +5772,7 @@
     <title lang="es">Islas de Indonesia</title>
     <sub-title lang="es">La tierra del dragón</sub-title>
     <desc lang="es">Los reptiles que habitan Indonesia sobreviven gracias al calor. Desde el dosel de los bosques tropicales hasta los mares repletos de corales, ¿cómo se convirtieron estos hábitats en reinos de dragones.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/88/9886154_FE988D8530054A33.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/90/9908039_7066E9BC59314D3C.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S1 E5</episode-num>
     <rating system="MJColombia">
@@ -6575,6 +6039,14 @@
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/79/9795421_FEC524FB2330BFDC.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221001133000 +0000" stop="20221001150000 +0000" channel="Animal Planet!">
+    <title lang="es">Televentas</title>
+    <desc lang="es">Conoce todos los productos más exclusivos, innovadores y de excelente cantidad, los cuales son presentados en este espacio televisivo.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/99/11990013_1BAB9087515323FC.jpg" />
     <rating system="MJColombia">
       <value>TE</value>
     </rating>
@@ -7673,14 +7145,6 @@
     <desc lang="es">Retransmisión del inicio de la temporada 2022 del Turismo Carretera en Argentina. La competencia da inicio en el Autódromo deViedma y el público podrá disfrutar de las carreras más emocionantes con los pilotos más destacados.(n)</desc>
     <category lang="es">Show</category>
     <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/708813/1459597890/220927174915_22f464c0efd34b1aec9a304d1fa526bb78b0d380_2209194415.jpg" />
-  </programme>
-  <programme start="20220928141500 +0000" stop="20220928155000 +0000" channel="A3Cine!">
-    <title lang="en">Menos es más</title>
-    <desc lang="en">Una joven decide ayudar a su novio en la conquista de otra mujer. Polilla: Vanessa Sáiz. Carlos: Sergio Peris-Mencheta. Diana: Elsa Pataky. Arturo: Luis Fernando Alvés. Dirigida por Pascal Jongen.(n)</desc>
-    <date>2000</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
   </programme>
   <programme start="20220928155000 +0000" stop="20220928174000 +0000" channel="A3Cine!">
     <title lang="en">La Lola Se Va a los Puertos</title>
@@ -9615,218 +9079,7 @@
       <value>+16</value>
     </rating>
   </programme>
-  <programme start="20220928002500 -0500" stop="20220928021000 -0500" channel="HBO 2!">
-    <title lang="es">Get Hard</title>
-    <desc lang="es">Un banquero inversionista que será encarcelado le pide al hombre que lava su carro que lo prepare para su vida detrás de las rejas.(n)</desc>
-    <credits>
-      <director>Etan Cohen</director>
-      <actor>Adam McKay</actor>
-      <actor>Alison Brie</actor>
-      <actor>Ariana Neal</actor>
-      <actor>Chris Henchy</actor>
-      <actor>Christophe Beck</actor>
-      <actor>Craig Nelson</actor>
-      <actor>Dan Bakkedahl</actor>
-      <actor>Edwina Findley</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="es">Comedia</category>
-    <rating system="CO">
-      <value>R</value>
-    </rating>
-  </programme>
-  <programme start="20220928021000 -0500" stop="20220928040000 -0500" channel="HBO 2!">
-    <title lang="es">Hasta que la muerte los juntó</title>
-    <title lang="es">This Is Where I Leave You</title>
-    <desc lang="es">Cuando la última petición de su padre obliga a cuatro hermanos a vivir juntos durante una semana bajo el mismo techo, ellos confrontan su turbulenta historia y relaciones complicadas.(n)</desc>
-    <credits>
-      <director>Shawn Levy</director>
-      <actor>Aaron Lazar</actor>
-      <actor>Abigail Spencer</actor>
-      <actor>Adam Driver</actor>
-      <actor>Ben Schwartz</actor>
-      <actor>Cade Lappin</actor>
-      <actor>Chryss Hionis</actor>
-      <actor>Cindy Tolan</actor>
-      <actor>Connie Britton</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="es">Comedia</category>
-    <rating system="CO">
-      <value>R</value>
-    </rating>
-  </programme>
-  <programme start="20220928040000 -0500" stop="20220928063000 -0500" channel="HBO 2!">
-    <title lang="es">El origen</title>
-    <title lang="es">Inception</title>
-    <desc lang="es">Dom Cobb (Leonardo DiCaprio) es un ladrón con una extraña habilidad para entrar a los sueños de la gente y robarle los secretos de sus subconscientes. Su habilidad lo ha convertido en un atractivo en el mundo del espionaje corporativo, pero ha tenido un gran costo en la gente que ama. Cobb tiene la oportunidad de ser perdonado cuando recibe una tarea imposible: plantar una idea en la mente de una persona. Si tiene éxito, será el crimen perfecto, pero un enemigo se anticipa a sus movimientos.(n)</desc>
-    <credits>
-      <director>Christopher Nolan</director>
-      <actor>Brad Ricker</actor>
-      <actor>Chris Brigham</actor>
-      <actor>Christopher Nolan</actor>
-      <actor>Cillian Murphy</actor>
-      <actor>Dean Wolcott</actor>
-      <actor>Dileep Rao</actor>
-      <actor>Doug Mowat</actor>
-      <actor>Ellen Page</actor>
-    </credits>
-    <date>2010</date>
-    <rating system="CO">
-      <value>PG-13</value>
-    </rating>
-  </programme>
-  <programme start="20220928063000 -0500" stop="20220928082500 -0500" channel="HBO 2!">
-    <title lang="es">Sucker Punch: Mundo surreal</title>
-    <title lang="es">Sucker Punch</title>
-    <desc lang="es">Una chica es internada por su padrastro en una institución psiquiátrica para que le practiquen una lobotomía. Mientras espera, su imaginación crea una realidad alternativa que podría salvarla de su dramática situación.(n)</desc>
-    <credits>
-      <director>Zack Snyder</director>
-      <actor>Abbie Cornish</actor>
-      <actor>AC Peterson</actor>
-      <actor>Carla Gugino</actor>
-      <actor>Christopher DeFaria</actor>
-      <actor>Deborah Snyder</actor>
-      <actor>Emily Browning</actor>
-      <actor>Frederique Raucourt</actor>
-      <actor>Gerard Plunkett</actor>
-    </credits>
-    <date>2011</date>
-    <category lang="es">Fantasía</category>
-    <rating system="CO">
-      <value>R</value>
-    </rating>
-  </programme>
-  <programme start="20220928082500 -0500" stop="20220928110000 -0500" channel="HBO 2!">
-    <title lang="es">Spider-Man: Sin camino a casa</title>
-    <title lang="es">Spider-Man: No Way Home</title>
-    <desc lang="es">Tras descubrirse la identidad secreta de Peter Parker como Spider-Man, la vida del joven se vuelve una locura. Peter le pide ayuda al Doctor Strange para recuperar su vida, pero algo sale mal y provoca una fractura en el multiverso.(n)</desc>
-    <date>2021</date>
-    <category lang="es">Comedia</category>
-    <category lang="es">Fantasía</category>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220928110000 -0500" stop="20220928113500 -0500" channel="HBO 2!">
-    <title lang="es">Los Espookys</title>
-    <sub-title lang="es">Los espíritus en el cementerio</sub-title>
-    <desc lang="es">El fantasma de una reina de un concurso de belleza que fue asesinada persigue a Renaldo, el carismático líder de Los Espookys. Mientras tanto, el resto de la pandilla lucha con sus propios problemas. Temporada:02,Episodio:01.(n)</desc>
-    <date>2022</date>
-    <category lang="es">Series</category>
-    <episode-num system="onscreen">S2 E1</episode-num>
-    <rating system="CO">
-      <value>NC-17</value>
-    </rating>
-  </programme>
-  <programme start="20220928113500 -0500" stop="20220928140500 -0500" channel="HBO 2!">
-    <title lang="es">Man of Steel</title>
-    <desc lang="es">Mientras lucha con las repercusiones de su origen y sus habilidades extraordinarias, el joven Clark Kent debe convertirse en un héroe y salvar a las personas que ama de una grave amenaza.(n)</desc>
-    <credits>
-      <director>Zack Snyder</director>
-      <actor>Alex McDowell</actor>
-      <actor>Amir Mokri</actor>
-      <actor>Amy Adams</actor>
-      <actor>Anne Kuljian</actor>
-      <actor>Antje Traue</actor>
-      <actor>Ayelet Zurer</actor>
-      <actor>Charles Roven</actor>
-      <actor>Chris Farmer</actor>
-    </credits>
-    <date>2013</date>
-    <category lang="es">Fantasía</category>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220928140500 -0500" stop="20220928162500 -0500" channel="HBO 2!">
-    <title lang="es">El escuadrón suicida</title>
-    <title lang="es">The Suicide Squad</title>
-    <desc lang="es">Con tal de salir de una prisión infernal, los supervillanos más peligrosos del mundo aceptan una misión del Gobierno: viajar a una remota isla, enemiga de los Estados Unidos y repleta de soldados, para destruir un laboratorio de alta tecnología.(n)</desc>
-    <credits>
-      <director>James Gunn</director>
-      <actor>Alan Hook</actor>
-      <actor>Alice Braga</actor>
-      <actor>Beth Mickle</actor>
-      <actor>Chantal Nong Vo</actor>
-      <actor>Charles Roven</actor>
-      <actor>Christian Wagner</actor>
-      <actor>Daniela Melchior</actor>
-      <actor>David Dastmalchian</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="es">Comedia</category>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220928162500 -0500" stop="20220928190000 -0500" channel="HBO 2!">
-    <title lang="es">Spider-Man: Sin camino a casa</title>
-    <title lang="es">Spider-Man: No Way Home</title>
-    <desc lang="es">Tras descubrirse la identidad secreta de Peter Parker como Spider-Man, la vida del joven se vuelve una locura. Peter le pide ayuda al Doctor Strange para recuperar su vida, pero algo sale mal y provoca una fractura en el multiverso.(n)</desc>
-    <date>2021</date>
-    <category lang="es">Comedia</category>
-    <category lang="es">Fantasía</category>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220928190000 -0500" stop="20220928200000 -0500" channel="HBO 2!">
-    <title lang="es">Vale dos Esquecidos</title>
-    <sub-title lang="es">Adeus, Civilização</sub-title>
-    <desc lang="es">Invitados por Ana, un grupo de jóvenes se aventura en un sendero, pero es atacado por unos desconocidos en medio del bosque. Uno de ellos resulta gravemente herido y es secuestrado. El resto del grupo pide ayuda en un pueblo muy peculiar. Temporada:01,Episodio:01.(n)</desc>
-    <date>2022</date>
-    <category lang="es">Drama</category>
-    <category lang="es">Series</category>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="CO">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220928200000 -0500" stop="20220928220000 -0500" channel="HBO 2!">
-    <title lang="es">El Conjuro</title>
-    <title lang="es">The Conjuring</title>
-    <desc lang="es">Los investigadores paranormales Ed (Patrick Wilson) y Lorraine Warren (Vera Farmiga) confrontan a una entidad poderosamente demoníaca cuando intentan ayudar a una familia que está siendo aterrorizada por una presencia oscura en su granja aislada.(n)</desc>
-    <credits>
-      <director>James Wan</director>
-      <actor>Amy Tipton</actor>
-      <actor>Anne McCarthy</actor>
-      <actor>Carey W. Hayes</actor>
-      <actor>Chad Hayes</actor>
-      <actor>Dave Neustadter</actor>
-      <actor>Geoffrey Grimsman</actor>
-      <actor>Hayley McFarland</actor>
-      <actor>Joey King</actor>
-    </credits>
-    <date>2013</date>
-    <category lang="es">Horror</category>
-    <rating system="CO">
-      <value>R</value>
-    </rating>
-  </programme>
-  <programme start="20220928220000 -0500" stop="20220929003500 -0500" channel="HBO 2!">
-    <title lang="es">Tenet</title>
-    <desc lang="es">Armado con tan solo una palabra, Tenet, el protagonista de esta historia deberá pelear por la supervivencia del mundo entero en una misión que lo lleva a viajar a través del oscuro mundo del espionaje internacional, y cuya experiencia se desdoblará más allá del tiempo lineal.(n)</desc>
-    <credits>
-      <director>Christopher Nolan</director>
-      <director>Emma Thomas</director>
-      <director>Emmanuel Delis</director>
-      <actor>Aaron Taylor-Johnson</actor>
-      <actor>Clémence Poésy</actor>
-      <actor>Dimple Kapadia</actor>
-      <actor>Elizabeth Debicki</actor>
-      <actor>Himesh Patel</actor>
-      <actor>John Washington</actor>
-      <actor>Kenneth Branagh</actor>
-      <actor>Martin Donovan</actor>
-    </credits>
-    <date>2020</date>
-    <category lang="es">Estreno</category>
-    <rating system="CO">
-      <value>PG-13</value>
-    </rating>
-  </programme>
-  <programme start="20220929003500 -0500" stop="20220929023000 -0500" channel="HBO 2!">
+  <programme start="20220928003500 -0500" stop="20220928023000 -0500" channel="HBO 2!">
     <title lang="es">Profile</title>
     <desc lang="es">Una periodista británica encubierta arriesga su vida infiltrándose en grupos militantes extremistas en línea.(n)</desc>
     <date>2018</date>
@@ -9835,7 +9088,7 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220929023000 -0500" stop="20220929040000 -0500" channel="HBO 2!">
+  <programme start="20220928023000 -0500" stop="20220928040000 -0500" channel="HBO 2!">
     <title lang="es">Hotel sin salida</title>
     <title lang="es">Vacancy</title>
     <desc lang="es">Cuando el automóvil de David y Amy se descompone, no tienen otra opción que pasar la noche en un motel remoto. La pareja se entretiene viendo películas de terror en la televisión hasta que descubren que las terribles escenas que están viendo fueron grabadas en el cuarto en el que se encuentran. Con cámaras escondidas capturando cada uno de sus movimientos, David y Amy deben encontrar la forma de huir antes de convertirse en las estrellas de otra película.(n)</desc>
@@ -9855,7 +9108,7 @@
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20220929040000 -0500" stop="20220929054500 -0500" channel="HBO 2!">
+  <programme start="20220928040000 -0500" stop="20220928054500 -0500" channel="HBO 2!">
     <title lang="es">Los fantasmas de mi ex</title>
     <title lang="es">Ghosts of Girlfriends Past</title>
     <desc lang="es">El fotógrafo de celebridades Connor Mead vive al máximo y disfruta de la soltería con varias relaciones simultáneas con varias mujeres. En la víspera de la boda de su hermano, Connor recibe la visita de los espíritus de sus amantes abandonadas, quienes lo llevan a vivir una odisea a través de sus relaciones fallidas para descubrir en qué ha fallado.(n)</desc>
@@ -9876,7 +9129,7 @@
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20220929054500 -0500" stop="20220929072500 -0500" channel="HBO 2!">
+  <programme start="20220928054500 -0500" stop="20220928072500 -0500" channel="HBO 2!">
     <title lang="es">Antes de Partir</title>
     <title lang="es">The Bucket List</title>
     <desc lang="es">Dos enfermos terminales abandonan el hospital para cumplir una lista completa de las cosas que quieren hacer antes de morir.(n)</desc>
@@ -9897,7 +9150,7 @@
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20220929072500 -0500" stop="20220929090500 -0500" channel="HBO 2!">
+  <programme start="20220928072500 -0500" stop="20220928090500 -0500" channel="HBO 2!">
     <title lang="es">Tag</title>
     <desc lang="es">Durante un mes cada año, cinco adultos siguen practicando el juego infantil de intentar no ser tocados, a pesar de que hacerlo pone en peligro sus puestos de trabajo, sus relaciones sentimentales e incluso, a veces, sus propias vidas.(n)</desc>
     <credits>
@@ -9917,7 +9170,7 @@
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20220929090500 -0500" stop="20220929105500 -0500" channel="HBO 2!">
+  <programme start="20220928090500 -0500" stop="20220928105500 -0500" channel="HBO 2!">
     <title lang="es">Morbius</title>
     <desc lang="es">Al intentar encontrar una cura para una extraña enfermedad en su sangre, un doctor se transforma en un vampiro.(n)</desc>
     <date>2022</date>
@@ -9926,7 +9179,7 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220929105500 -0500" stop="20220929115500 -0500" channel="HBO 2!">
+  <programme start="20220928105500 -0500" stop="20220928115500 -0500" channel="HBO 2!">
     <title lang="es">La casa del dragón</title>
     <title lang="es">House of the Dragon - The Rogue Prince</title>
     <sub-title lang="es">El príncipe canalla</sub-title>
@@ -9939,7 +9192,7 @@
       <value>NC-17</value>
     </rating>
   </programme>
-  <programme start="20220929115500 -0500" stop="20220929132500 -0500" channel="HBO 2!">
+  <programme start="20220928115500 -0500" stop="20220928132500 -0500" channel="HBO 2!">
     <title lang="es">Child's Play 2</title>
     <desc lang="es">El muñeco de la muerte continúa con sus homicidios, después de ser revivido por la fábrica de juguetes que lo fabricó.(n)</desc>
     <credits>
@@ -9959,7 +9212,7 @@
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20220929132500 -0500" stop="20220929150000 -0500" channel="HBO 2!">
+  <programme start="20220928132500 -0500" stop="20220928150000 -0500" channel="HBO 2!">
     <title lang="es">Chucky 3</title>
     <title lang="es">Child's Play 3</title>
     <desc lang="es">Chucky vuelve a despertar y mientras busca a Andy, encuentra a otro niño que le ofrece una nueva idea maléfica para sus despiadados planes.(n)</desc>
@@ -9980,7 +9233,7 @@
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20220929150000 -0500" stop="20220929163000 -0500" channel="HBO 2!">
+  <programme start="20220928150000 -0500" stop="20220928163000 -0500" channel="HBO 2!">
     <title lang="es">El hijo de Chucky</title>
     <title lang="es">Seed of Chucky</title>
     <desc lang="es">Chucky y su esposa Tiffany, han sido resucitados por su hijo. La diabólica pareja se embarca en una nueva serie de asesinatos, sin imaginar que el joven no está dispuesto a seguir sus pasos.(n)</desc>
@@ -10002,7 +9255,7 @@
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20220929163000 -0500" stop="20220929181000 -0500" channel="HBO 2!">
+  <programme start="20220928163000 -0500" stop="20220928181000 -0500" channel="HBO 2!">
     <title lang="es">Curse of Chucky</title>
     <desc lang="es">Cuando un misterioso paquete llega a la casa de Nica, se desata una serie de acontecimientos indescifrables que señalan que el temido muñeco Chucky ha regresado.(n)</desc>
     <credits>
@@ -10022,7 +9275,7 @@
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20220929181000 -0500" stop="20220929200000 -0500" channel="HBO 2!">
+  <programme start="20220928181000 -0500" stop="20220928200000 -0500" channel="HBO 2!">
     <title lang="es">Morbius</title>
     <desc lang="es">Al intentar encontrar una cura para una extraña enfermedad en su sangre, un doctor se transforma en un vampiro.(n)</desc>
     <date>2022</date>
@@ -10031,7 +9284,7 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220929200000 -0500" stop="20220929222000 -0500" channel="HBO 2!">
+  <programme start="20220928200000 -0500" stop="20220928222000 -0500" channel="HBO 2!">
     <title lang="es">El conjuro 2</title>
     <title lang="es">The Conjuring 2</title>
     <desc lang="es">Ed y Lorraine Warren, renombrados demonólogos e investigadores de lo paranormal, se enfrentan de nuevo a las fuerzas infernales. En esta ocasión, viajan hasta el norte de Londres para tratar de ayudar a una madre y sus cuatro hijos, quienes habitan en una casa plagada de espíritus malignos.(n)</desc>
@@ -10054,7 +9307,7 @@
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20220929222000 -0500" stop="20220929225500 -0500" channel="HBO 2!">
+  <programme start="20220928222000 -0500" stop="20220928225500 -0500" channel="HBO 2!">
     <title lang="es">Los Espookys</title>
     <sub-title lang="es">Los espíritus en el cementerio</sub-title>
     <desc lang="es">El fantasma de una reina de un concurso de belleza que fue asesinada persigue a Renaldo, el carismático líder de Los Espookys. Mientras tanto, el resto de la pandilla lucha con sus propios problemas. Temporada:02,Episodio:01.(n)</desc>
@@ -10065,7 +9318,7 @@
       <value>NC-17</value>
     </rating>
   </programme>
-  <programme start="20220929225500 -0500" stop="20220930010500 -0500" channel="HBO 2!">
+  <programme start="20220928225500 -0500" stop="20220929010500 -0500" channel="HBO 2!">
     <title lang="es">Father Stu</title>
     <desc lang="es">Tras sobrevivir a un accidente de moto, un boxeador retirado, hombre agnóstico, decide usar la segunda oportunidad que le dio la vida para ayudar a los demás. Esto lo lleva a darse cuenta de que su verdadera vocación es la de sacerdote católico.(n)</desc>
     <date>2022</date>
@@ -10075,7 +9328,7 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220930010500 -0500" stop="20220930023500 -0500" channel="HBO 2!">
+  <programme start="20220929010500 -0500" stop="20220929023500 -0500" channel="HBO 2!">
     <title lang="es">The Seventh Day</title>
     <desc lang="es">Un sacerdote llega para su primer día de entrenamiento con un exorcista de renombre. A medida que se sumergen más profundamente en el infierno en la Tierra, las líneas entre el bien y el mal se difuminan y sus propios demonios emergen.(n)</desc>
     <date>2021</date>
@@ -10084,7 +9337,7 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220930023500 -0500" stop="20220930040000 -0500" channel="HBO 2!">
+  <programme start="20220929023500 -0500" stop="20220929040000 -0500" channel="HBO 2!">
     <title lang="es">Cuando las luces se apagan</title>
     <title lang="es">Lights Out</title>
     <desc lang="es">Rebecca pensaba que al marcharse de casa, los terrores nocturnos habían desaparecido de su vida. Pero cuando su hermano pequeño comienza a experimentar aquello por lo que ella pasó, sabe que la criatura que la atormentaba por las noches ha vuelto para hacer de su vida un infierno.(n)</desc>
@@ -10107,7 +9360,7 @@
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20220930040000 -0500" stop="20220930060000 -0500" channel="HBO 2!">
+  <programme start="20220929040000 -0500" stop="20220929060000 -0500" channel="HBO 2!">
     <title lang="es">Virgen a los 40</title>
     <title lang="es">The 40-Year-Old Virgin</title>
     <desc lang="es">Andy tiene 40 años, un buen trabajo, un hermoso departamento y una actitud agradable. Pero Andy nunca ha tenido relaciones sexuales. Por eso, sus amigos se proponen revertir esta situación.(n)</desc>
@@ -10128,7 +9381,7 @@
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20220930060000 -0500" stop="20220930080000 -0500" channel="HBO 2!">
+  <programme start="20220929060000 -0500" stop="20220929080000 -0500" channel="HBO 2!">
     <title lang="es">El espía inglés</title>
     <title lang="es">The Courier</title>
     <desc lang="es">Durante la Guerra Fría, el ingeniero Greville Wynne es reclutado por el MI6, Servicio de Inteligencia británico. Wynne deberá trabajar con el espía soviético Oleg Penkovsky para obtener información sobre la crisis de los misiles en Cuba.(n)</desc>
@@ -10137,7 +9390,7 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220930080000 -0500" stop="20220930100000 -0500" channel="HBO 2!">
+  <programme start="20220929080000 -0500" stop="20220929100000 -0500" channel="HBO 2!">
     <title lang="es">El conjuro 3: El diablo me obligó a hacerlo</title>
     <title lang="es">The Conjuring: The Devil Made Me Do It</title>
     <desc lang="es">Los investigadores de fenómenos paranormales Ed y Lorraine Warren se enfrentan a un nuevo caso: el de un hombre acusado de un terrible asesinato, que asegura haber sido poseído por un demonio.(n)</desc>
@@ -10158,7 +9411,7 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220930100000 -0500" stop="20220930114500 -0500" channel="HBO 2!">
+  <programme start="20220929100000 -0500" stop="20220929114500 -0500" channel="HBO 2!">
     <title lang="es">Annabelle</title>
     <desc lang="es">John Form encuentra el regalo perfecto para Mia, su esposa embarazada: una preciosa muñeca antigua llamada Annabelle. Una noche, una secta satánica les ataca brutalmente y provocan que un ente maligno se apodere de Annabelle.(n)</desc>
     <credits>
@@ -10179,7 +9432,7 @@
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20220930114500 -0500" stop="20220930134500 -0500" channel="HBO 2!">
+  <programme start="20220929114500 -0500" stop="20220929134500 -0500" channel="HBO 2!">
     <title lang="es">El Conjuro</title>
     <title lang="es">The Conjuring</title>
     <desc lang="es">Los investigadores paranormales Ed (Patrick Wilson) y Lorraine Warren (Vera Farmiga) confrontan a una entidad poderosamente demoníaca cuando intentan ayudar a una familia que está siendo aterrorizada por una presencia oscura en su granja aislada.(n)</desc>
@@ -10200,7 +9453,7 @@
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20220930134500 -0500" stop="20220930154000 -0500" channel="HBO 2!">
+  <programme start="20220929134500 -0500" stop="20220929154000 -0500" channel="HBO 2!">
     <title lang="es">Annabelle: Creation</title>
     <desc lang="es">Varios años después del trágico fallecimiento de su hija, un juguetero que crea muñecas y su mujer alojan en su casa a una enfermera y un grupo de chicas; pero la muñeca Annabelle, poseída por un espíritu, comienza a atacarlas.(n)</desc>
     <credits>
@@ -10220,7 +9473,7 @@
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20220930154000 -0500" stop="20220930180000 -0500" channel="HBO 2!">
+  <programme start="20220929154000 -0500" stop="20220929180000 -0500" channel="HBO 2!">
     <title lang="es">El conjuro 2</title>
     <title lang="es">The Conjuring 2</title>
     <desc lang="es">Ed y Lorraine Warren, renombrados demonólogos e investigadores de lo paranormal, se enfrentan de nuevo a las fuerzas infernales. En esta ocasión, viajan hasta el norte de Londres para tratar de ayudar a una madre y sus cuatro hijos, quienes habitan en una casa plagada de espíritus malignos.(n)</desc>
@@ -10243,7 +9496,7 @@
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20220930180000 -0500" stop="20220930200000 -0500" channel="HBO 2!">
+  <programme start="20220929180000 -0500" stop="20220929200000 -0500" channel="HBO 2!">
     <title lang="es">Malignant</title>
     <desc lang="es">Paralizada por aterradoras visiones, los tormentos de una mujer empeoran cuando descubre que sus pesadillas son reales.(n)</desc>
     <credits>
@@ -10263,7 +9516,7 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220930200000 -0500" stop="20220930220000 -0500" channel="HBO 2!">
+  <programme start="20220929200000 -0500" stop="20220929220000 -0500" channel="HBO 2!">
     <title lang="es">El conjuro 3: El diablo me obligó a hacerlo</title>
     <title lang="es">The Conjuring: The Devil Made Me Do It</title>
     <desc lang="es">Los investigadores de fenómenos paranormales Ed y Lorraine Warren se enfrentan a un nuevo caso: el de un hombre acusado de un terrible asesinato, que asegura haber sido poseído por un demonio.(n)</desc>
@@ -10284,7 +9537,7 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220930220000 -0500" stop="20220930230000 -0500" channel="HBO 2!">
+  <programme start="20220929220000 -0500" stop="20220929230000 -0500" channel="HBO 2!">
     <title lang="es">La casa del dragón</title>
     <title lang="es">House of the Dragon - The Rogue Prince</title>
     <sub-title lang="es">El príncipe canalla</sub-title>
@@ -10297,7 +9550,7 @@
       <value>NC-17</value>
     </rating>
   </programme>
-  <programme start="20220930230000 -0500" stop="20221001000000 -0500" channel="HBO 2!">
+  <programme start="20220929230000 -0500" stop="20220930000000 -0500" channel="HBO 2!">
     <title lang="es">Vale dos Esquecidos</title>
     <sub-title lang="es">Adeus, Civilização</sub-title>
     <desc lang="es">Invitados por Ana, un grupo de jóvenes se aventura en un sendero, pero es atacado por unos desconocidos en medio del bosque. Uno de ellos resulta gravemente herido y es secuestrado. El resto del grupo pide ayuda en un pueblo muy peculiar. Temporada:01,Episodio:01.(n)</desc>
@@ -10309,7 +9562,7 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20221001000000 -0500" stop="20221001020500 -0500" channel="HBO 2!">
+  <programme start="20220930000000 -0500" stop="20220930020500 -0500" channel="HBO 2!">
     <title lang="es">Súper cool</title>
     <title lang="es">Superbad</title>
     <desc lang="es">Seth y Evan, dos estudiantes inadaptados de preparatoria, tienen grandes esperanzas en su fiesta de graduación: los jóvenes se sienten retados por la sociedad y planean divertirse a lo grande y conseguir chicas hermosas para finalmente poder integrarse con sus compañeros. Sin embargo, la ansiedad por la separación y dos aburridos policías complican la misión de la pareja.(n)</desc>
@@ -10330,7 +9583,7 @@
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20221001020500 -0500" stop="20221001040000 -0500" channel="HBO 2!">
+  <programme start="20220930020500 -0500" stop="20220930040000 -0500" channel="HBO 2!">
     <title lang="es">Pase libre</title>
     <title lang="es">Hall Pass</title>
     <desc lang="es">Dos amigos lamentan que el matrimonio les haya arruinado toda posibilidad de diversión. Sus esposas deciden concederles un fin de semana de libertad en el que podrán hacer todo lo que quieran, sin remordimientos ni explicaciones.(n)</desc>
@@ -10352,7 +9605,7 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20221001040000 -0500" stop="20221001055000 -0500" channel="HBO 2!">
+  <programme start="20220930040000 -0500" stop="20220930055000 -0500" channel="HBO 2!">
     <title lang="es">Morbius</title>
     <desc lang="es">Al intentar encontrar una cura para una extraña enfermedad en su sangre, un doctor se transforma en un vampiro.(n)</desc>
     <date>2022</date>
@@ -10361,7 +9614,7 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20221001055000 -0500" stop="20221001073500 -0500" channel="HBO 2!">
+  <programme start="20220930055000 -0500" stop="20220930073500 -0500" channel="HBO 2!">
     <title lang="es">Venom 2: Carnage liberado</title>
     <title lang="es">Venom 2: Let There Be Carnage</title>
     <desc lang="es">Después de encontrar un cuerpo anfitrión en el periodista de investigación Eddie Brock, el simbionte alienígena debe enfrentarse a un nuevo enemigo, Carnage, el alter ego del asesino en serie Cletus Kasady.(n)</desc>
@@ -10372,7 +9625,7 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20221001073500 -0500" stop="20221001094500 -0500" channel="HBO 2!">
+  <programme start="20220930073500 -0500" stop="20220930094500 -0500" channel="HBO 2!">
     <title lang="es">Rey Arturo: La leyenda de la espada</title>
     <title lang="es">King Arthur: Legend of the Sword</title>
     <desc lang="es">Arturo fue robado al nacer y tuvo una educación espartana en una zona conflictiva de la ciudad, pero cuando extrae la espada Excalibur de la piedra en la que estaba clavada, la profecía se cumple y acepta el destino de liderar a su pueblo.(n)</desc>
@@ -10393,7 +9646,7 @@
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20221001094500 -0500" stop="20221001115000 -0500" channel="HBO 2!">
+  <programme start="20220930094500 -0500" stop="20220930115000 -0500" channel="HBO 2!">
     <title lang="es">Kong: Skull Island</title>
     <desc lang="es">En la década de 1970, un grupo de soldados y exploradores, acompañados por una fotoperiodista, llega a una isla del Pacífico habitada por un simio gigantesco y otros monstruos. Marlow, un peculiar habitante del lugar, guía a los aventureros a través de las misteriosas junglas y marismas de la isla.(n)</desc>
     <credits>
@@ -10413,7 +9666,7 @@
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20221001115000 -0500" stop="20221001135000 -0500" channel="HBO 2!">
+  <programme start="20220930115000 -0500" stop="20220930135000 -0500" channel="HBO 2!">
     <title lang="es">The Meg</title>
     <desc lang="es">Un tiburón prehistórico de 25 metros de longitud amenaza a los tripulantes de un submarino hundido en la fosa más profunda del océano Pacífico y al grupo enviado para rescatarlos. Si no lo detienen, el tiburón causará estragos.(n)</desc>
     <credits>
@@ -10434,7 +9687,7 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20221001135000 -0500" stop="20221001155000 -0500" channel="HBO 2!">
+  <programme start="20220930135000 -0500" stop="20220930155000 -0500" channel="HBO 2!">
     <title lang="es">San Andreas</title>
     <desc lang="es">El piloto de un helicóptero se prepara para rescatar a su hija después de un temblor en California.(n)</desc>
     <credits>
@@ -10453,7 +9706,7 @@
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20221001155000 -0500" stop="20221001175000 -0500" channel="HBO 2!">
+  <programme start="20220930155000 -0500" stop="20220930175000 -0500" channel="HBO 2!">
     <title lang="es">Uncharted: Fuera del mapa</title>
     <title lang="es">Uncharted</title>
     <desc lang="es">El cazador de tesoros Victor Sullivan recluta a Nathan Drake para que lo ayude a recuperar una fortuna de 500 años de antigüedad. Lo que comienza como un atraco se convierte en una competencia contra el despiadado Santiago Moncada.(n)</desc>
@@ -10462,7 +9715,7 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20221001175000 -0500" stop="20221001200000 -0500" channel="HBO 2!">
+  <programme start="20220930175000 -0500" stop="20220930200000 -0500" channel="HBO 2!">
     <title lang="es">Father Stu</title>
     <desc lang="es">Tras sobrevivir a un accidente de moto, un boxeador retirado, hombre agnóstico, decide usar la segunda oportunidad que le dio la vida para ayudar a los demás. Esto lo lleva a darse cuenta de que su verdadera vocación es la de sacerdote católico.(n)</desc>
     <date>2022</date>
@@ -10472,7 +9725,7 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20221001200000 -0500" stop="20221001214500 -0500" channel="HBO 2!">
+  <programme start="20220930200000 -0500" stop="20220930214500 -0500" channel="HBO 2!">
     <title lang="es">Morbius</title>
     <desc lang="es">Al intentar encontrar una cura para una extraña enfermedad en su sangre, un doctor se transforma en un vampiro.(n)</desc>
     <date>2022</date>
@@ -10481,7 +9734,7 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20221001214500 -0500" stop="20221001233000 -0500" channel="HBO 2!">
+  <programme start="20220930214500 -0500" stop="20220930233000 -0500" channel="HBO 2!">
     <title lang="es">Venom: Let There Be Carnage</title>
     <title lang="es">Venom 2: Let There Be Carnage</title>
     <desc lang="es">Después de encontrar un cuerpo anfitrión en el periodista de investigación Eddie Brock, el simbionte alienígena debe enfrentarse a un nuevo enemigo, Carnage, el alter ego del asesino en serie Cletus Kasady.(n)</desc>
@@ -10492,7 +9745,7 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20221001233000 -0500" stop="20221002011000 -0500" channel="HBO 2!">
+  <programme start="20220930233000 -0500" stop="20221001011000 -0500" channel="HBO 2!">
     <title lang="es">Don't Breathe 2</title>
     <desc lang="es">Un veterano ciego debe usar su entrenamiento militar para salvar a un joven huérfano de un grupo de matones que irrumpen en su casa.(n)</desc>
     <date>2021</date>
@@ -11127,35 +10380,42 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220928210000 -0300" stop="20220928224000 -0300" channel="TVN (CHI)">
+  <programme start="20220928210000 -0300" stop="20220928223500 -0300" channel="TVN (CHI)">
     <title lang="es">24 horas central</title>
     <desc lang="es">La información de mayor importancia internacional, nacional y regional.(n)</desc>
     <rating system="CL">
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20220928224500 -0300" stop="20220929013000 -0300" channel="TVN (CHI)">
-    <title lang="es">El día menos pensado</title>
-    <desc lang="es">Historias que parecen desafiar todo lo que hasta hoy es posible.(n)</desc>
+  <programme start="20220928224000 -0300" stop="20220928234500 -0300" channel="TVN (CHI)">
+    <title lang="es">Informe Especial</title>
+    <desc lang="es">El programa de investigación periodística más longevo de la televisión chilena.(n)</desc>
     <rating system="CL">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220929013000 -0300" stop="20220929021500 -0300" channel="TVN (CHI)">
+  <programme start="20220928234500 -0300" stop="20220929010000 -0300" channel="TVN (CHI)">
+    <title lang="es">Buenas noches a todos</title>
+    <desc lang="es">Una conversación amena e íntima con distintas personalidades.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220929010000 -0300" stop="20220929014500 -0300" channel="TVN (CHI)">
     <title lang="es">Medianoche</title>
     <desc lang="es">Un informativo que aborda las noticias que marcaron durante el día, que incluye entrevistas, análisis de noticias y enlaces en vivo.(n)</desc>
     <rating system="CL">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220929021500 -0300" stop="20220929023000 -0300" channel="TVN (CHI)">
+  <programme start="20220929014500 -0300" stop="20220929020000 -0300" channel="TVN (CHI)">
     <title lang="es">TV tiempo final</title>
     <desc lang="es">Informe meteorológico.(n)</desc>
     <rating system="CL">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220929023000 -0300" stop="20220929033000 -0300" channel="TVN (CHI)">
+  <programme start="20220929020000 -0300" stop="20220929033000 -0300" channel="TVN (CHI)">
     <title lang="es">Mea culpa</title>
     <desc lang="es">Se recrean los homicidios más macabros y los crímenes que marcaron la historia policial chilena.(n)</desc>
     <rating system="CL">
@@ -11169,14 +10429,14 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220929043000 -0300" stop="20220929053000 -0300" channel="TVN (CHI)">
+  <programme start="20220929043000 -0300" stop="20220929050000 -0300" channel="TVN (CHI)">
     <title lang="es">La Vida Es una Lotería</title>
     <desc lang="es">Historias de chilenos a los que alguna vez la suerte les sonrió, qué fue de sus destinos y cómo enfrentaron la lotería de la vida.(n)</desc>
     <rating system="CL">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220929053000 -0300" stop="20220929060000 -0300" channel="TVN (CHI)">
+  <programme start="20220929050000 -0300" stop="20220929060000 -0300" channel="TVN (CHI)">
     <title lang="es">Chile conectado</title>
     <desc lang="es">Un espacio dedicado a mostrar la riqueza de la tierra, su gente y su patrimonio, y potenciar la descentralización con un claro foco en las regiones de Chile.(n)</desc>
     <rating system="CL">
@@ -11260,7 +10520,133 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20220929224500 -0300" stop="20220930011500 -0300" channel="TVN (CHI)">
+  <programme start="20220929224500 -0300" stop="20220930013000 -0300" channel="TVN (CHI)">
+    <title lang="es">El día menos pensado</title>
+    <desc lang="es">Historias que parecen desafiar todo lo que hasta hoy es posible.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220930013000 -0300" stop="20220930021500 -0300" channel="TVN (CHI)">
+    <title lang="es">Medianoche</title>
+    <desc lang="es">Un informativo que aborda las noticias que marcaron durante el día, que incluye entrevistas, análisis de noticias y enlaces en vivo.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220930021500 -0300" stop="20220930023000 -0300" channel="TVN (CHI)">
+    <title lang="es">TV tiempo final</title>
+    <desc lang="es">Informe meteorológico.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220930023000 -0300" stop="20220930033000 -0300" channel="TVN (CHI)">
+    <title lang="es">Mea culpa</title>
+    <desc lang="es">Se recrean los homicidios más macabros y los crímenes que marcaron la historia policial chilena.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220930033000 -0300" stop="20220930043000 -0300" channel="TVN (CHI)">
+    <title lang="es">El Cuento del Tío</title>
+    <desc lang="es">Historia de una persona que ha caído en las redes de un tipo especial de delincuente.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220930043000 -0300" stop="20220930053000 -0300" channel="TVN (CHI)">
+    <title lang="es">La Vida Es una Lotería</title>
+    <desc lang="es">Historias de chilenos a los que alguna vez la suerte les sonrió, qué fue de sus destinos y cómo enfrentaron la lotería de la vida.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220930053000 -0300" stop="20220930060000 -0300" channel="TVN (CHI)">
+    <title lang="es">Chile conectado</title>
+    <desc lang="es">Un espacio dedicado a mostrar la riqueza de la tierra, su gente y su patrimonio, y potenciar la descentralización con un claro foco en las regiones de Chile.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220930060000 -0300" stop="20220930063000 -0300" channel="TVN (CHI)">
+    <title lang="es">Previa 24</title>
+    <desc lang="es">Un programa para empezar el día con los cambios en el tránsito, el climas y la opinión pública.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220930063000 -0300" stop="20220930080000 -0300" channel="TVN (CHI)">
+    <title lang="es">24 AM</title>
+    <desc lang="es">Repaso de los hechos que marcaron la noche y la madrugada de Chile y el mundo.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220930080000 -0300" stop="20220930130000 -0300" channel="TVN (CHI)">
+    <title lang="es">Buenos días a todos</title>
+    <desc lang="es">Programa matutino con temas de actualidad y del espectáculo chileno, concursos y entretenimiento.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220930130000 -0300" stop="20220930150000 -0300" channel="TVN (CHI)">
+    <title lang="es">24 Tarde</title>
+    <desc lang="es">La información más relevante a nivel internacional, nacional y regional.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220930150000 -0300" stop="20220930160000 -0300" channel="TVN (CHI)">
+    <title lang="es">Génesis</title>
+    <desc lang="es">Adaptación de uno de los libros más reconocidos de la Biblia, que aborda la historia del origen de la humanidad, invitando a entender el presente, volviendo al principio de todo. La caída de Lucifer, la vida de Adán y Eva, Noé y el diluvio, y otros.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220930160000 -0300" stop="20220930170500 -0300" channel="TVN (CHI)">
+    <title lang="es">Rojo y Miel</title>
+    <desc lang="es">La información del programa no fue provista por el proveedor de la señal.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220930170500 -0300" stop="20220930180500 -0300" channel="TVN (CHI)">
+    <title lang="es">Pampa Ilusión</title>
+    <desc lang="es">Una apasionada historia donde el amor no respeta tradiciones y suele quebrar con los esquemas de la época, todo ello enmarcado en la salitrera chilena Pampa Ilusión.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220930180500 -0300" stop="20220930193000 -0300" channel="TVN (CHI)">
+    <title lang="es">Carmen Gloria a tu servicio</title>
+    <desc lang="es">Un programa con historias de la vida real, al servicio de la familia y que intenta ayudar, orientar y educar en torno a problemas que afectan a miles de chilenos.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220930193000 -0300" stop="20220930201500 -0300" channel="TVN (CHI)">
+    <title lang="es">Soñar contigo</title>
+    <desc lang="es">Para escapar de un matrimonio arreglado, Sanem acepta trabajar en una agencia de publicidad. Allí conoce a Cam, un fotógrafo de fama internacional, y se enamora de él. Juntos viven aventuras transformadoras.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220930201500 -0300" stop="20220930210000 -0300" channel="TVN (CHI)">
+    <title lang="es">Amor sin recetas</title>
+    <desc lang="es">Nazli es una cocinera joven y ambiciosa que está estudiando para poder algún día realizar su gran sueño: abrir un restaurante japonés. Un día le proponen trabajar como chef para un hombre de negocios.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220930210000 -0300" stop="20220930224000 -0300" channel="TVN (CHI)">
+    <title lang="es">24 horas central</title>
+    <desc lang="es">La información de mayor importancia internacional, nacional y regional.(n)</desc>
+    <rating system="CL">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220930224500 -0300" stop="20221001011500 -0300" channel="TVN (CHI)">
     <title lang="es">K-19</title>
     <desc lang="es">El comandante (Harrison Ford) de un submarino ruso intenta evitar un desastre después de la falla de un reactor nuclear.(n)</desc>
     <credits>
@@ -11280,49 +10666,49 @@
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20220930011500 -0300" stop="20220930021500 -0300" channel="TVN (CHI)">
+  <programme start="20221001011500 -0300" stop="20221001021500 -0300" channel="TVN (CHI)">
     <title lang="es">El día menos pensado</title>
     <desc lang="es">Historias que parecen desafiar todo lo que hasta hoy es posible.(n)</desc>
     <rating system="CL">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220930021500 -0300" stop="20220930023000 -0300" channel="TVN (CHI)">
+  <programme start="20221001021500 -0300" stop="20221001023000 -0300" channel="TVN (CHI)">
     <title lang="es">TV tiempo final</title>
     <desc lang="es">Informe meteorológico.(n)</desc>
     <rating system="CL">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220930023000 -0300" stop="20220930040000 -0300" channel="TVN (CHI)">
+  <programme start="20221001023000 -0300" stop="20221001040000 -0300" channel="TVN (CHI)">
     <title lang="es">El Cuento del Tío</title>
     <desc lang="es">Historia de una persona que ha caído en las redes de un tipo especial de delincuente.(n)</desc>
     <rating system="CL">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220930040000 -0300" stop="20220930053000 -0300" channel="TVN (CHI)">
+  <programme start="20221001040000 -0300" stop="20221001053000 -0300" channel="TVN (CHI)">
     <title lang="es">La Vida Es una Lotería</title>
     <desc lang="es">Historias de chilenos a los que alguna vez la suerte les sonrió, qué fue de sus destinos y cómo enfrentaron la lotería de la vida.(n)</desc>
     <rating system="CL">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220930053000 -0300" stop="20220930070000 -0300" channel="TVN (CHI)">
+  <programme start="20221001053000 -0300" stop="20221001070000 -0300" channel="TVN (CHI)">
     <title lang="es">Chile conectado</title>
     <desc lang="es">Un espacio dedicado a mostrar la riqueza de la tierra, su gente y su patrimonio, y potenciar la descentralización con un claro foco en las regiones de Chile.(n)</desc>
     <rating system="CL">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220930070000 -0300" stop="20220930080000 -0300" channel="TVN (CHI)">
+  <programme start="20221001070000 -0300" stop="20221001080000 -0300" channel="TVN (CHI)">
     <title lang="es">Puertas Abiertas</title>
     <desc lang="es">Programa de orientación cristiana evangélica.(n)</desc>
     <rating system="CL">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220930080000 -0300" stop="20220930090000 -0300" channel="TVN (CHI)">
+  <programme start="20221001080000 -0300" stop="20221001090000 -0300" channel="TVN (CHI)">
     <title lang="es">Hermanos a la obra</title>
     <title lang="en">Property Brothers</title>
     <desc lang="es">Los hermanos gemelos Jonathan y Drew Scott ayudan a parejas en la transformación de la casa de sus sueños. Los hermanos utilizan tecnología de punta digital para revelar los planes de una propiedad tras la renovación.(n)</desc>
@@ -11330,28 +10716,28 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20220930090000 -0300" stop="20220930130000 -0300" channel="TVN (CHI)">
+  <programme start="20221001090000 -0300" stop="20221001130000 -0300" channel="TVN (CHI)">
     <title lang="es">Buen finde en TVN</title>
     <desc lang="es">Un recorrido por el país en busca de historias únicas, para conectar realidades desde lo local a lo nacional, abordando también la contingencia de una manera simple y amena.(n)</desc>
     <rating system="CL">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220930130000 -0300" stop="20220930151500 -0300" channel="TVN (CHI)">
+  <programme start="20221001130000 -0300" stop="20221001151500 -0300" channel="TVN (CHI)">
     <title lang="es">24 Tarde</title>
     <desc lang="es">La información más relevante a nivel internacional, nacional y regional.(n)</desc>
     <rating system="CL">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220930151500 -0300" stop="20220930171500 -0300" channel="TVN (CHI)">
+  <programme start="20221001151500 -0300" stop="20221001171500 -0300" channel="TVN (CHI)">
     <title lang="es">Sucupira</title>
     <desc lang="es">La gente del pequeño pueblo de Sucupira todavía cree en una leyenda sobre una mujer que emerge del mar para enamorar a los hombres y llevarlos a su mundo. Los que han sobrevivido dicen que la hija del alcalde tiene el mismo rostro.(n)</desc>
     <rating system="CL">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220930171500 -0300" stop="20220930193000 -0300" channel="TVN (CHI)">
+  <programme start="20221001171500 -0300" stop="20221001193000 -0300" channel="TVN (CHI)">
     <title lang="es">Fútbol Chileno Primera División</title>
     <title lang="en">Chile Primera Division Soccer</title>
     <desc lang="es">La mejor cobertura del campeonato chileno de fútbol.(n)</desc>
@@ -11359,58 +10745,51 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220930193000 -0300" stop="20220930210000 -0300" channel="TVN (CHI)">
+  <programme start="20221001193000 -0300" stop="20221001210000 -0300" channel="TVN (CHI)">
     <title lang="es">Pampa Ilusión</title>
     <desc lang="es">Una apasionada historia donde el amor no respeta tradiciones y suele quebrar con los esquemas de la época, todo ello enmarcado en la salitrera chilena Pampa Ilusión.(n)</desc>
     <rating system="CL">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220930210000 -0300" stop="20220930223500 -0300" channel="TVN (CHI)">
+  <programme start="20221001210000 -0300" stop="20221001223500 -0300" channel="TVN (CHI)">
     <title lang="es">24 horas central</title>
     <desc lang="es">La información de mayor importancia internacional, nacional y regional.(n)</desc>
     <rating system="CL">
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20220930223500 -0300" stop="20220930224500 -0300" channel="TVN (CHI)">
+  <programme start="20221001223500 -0300" stop="20221001224500 -0300" channel="TVN (CHI)">
     <title lang="es">Sandro de América</title>
     <desc lang="es">La historia de cómo una guitarra convirtió a Roberto Sánchez en Sandro, una leyenda popular que con su carisma y talento musical lo llevaron a superar las más difíciles circunstancias en su vida, superando la pobreza y los prejuicios.(n)</desc>
     <rating system="CL">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220930224500 -0300" stop="20221001020000 -0300" channel="TVN (CHI)">
+  <programme start="20221001224500 -0300" stop="20221002020000 -0300" channel="TVN (CHI)">
     <title lang="es">El día menos pensado</title>
     <desc lang="es">Historias que parecen desafiar todo lo que hasta hoy es posible.(n)</desc>
     <rating system="CL">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220928003000 -0300" stop="20220928030000 -0300" channel="La Red (CHI)">
-    <title lang="es">Enemigo interno</title>
-    <title lang="en">Bad Lieutenant: Port of Call New Orleans</title>
-    <desc lang="es">Terence McDonough, un detective de homicidios de Nueva Orleans, utiliza a su antojo a traficantes, prostitutas y delincuentes. Pero su nueva investigación, el misterioso asesinato de cinco inmigrantes senegaleses, lo pone entre la espada y la pared.(n)</desc>
+  <programme start="20220928003000 -0300" stop="20220928040000 -0300" channel="La Red (CHI)">
+    <title lang="es">Un puente demasiado lejos</title>
+    <title lang="en">A Bridge Too Far</title>
+    <desc lang="es">Tras la invasión de Normandía, los aliados emprenden la operación Market Garden, un arriesgado plan para acabar con la Segunda Guerra Mundial a costa de invadir Alemania.(n)</desc>
     <credits>
-      <director>Werner Herzog</director>
-      <actor>Alan Polsky</actor>
-      <actor>Alvin Joiner</actor>
-      <actor>Avi Lerner</actor>
-      <actor>Boaz Davidson</actor>
-      <actor>Danny Dimbort</actor>
-      <actor>Denzel Whitaker</actor>
-      <actor>Edward R. Pressman</actor>
-      <actor>Elliot Rosenblatt</actor>
+      <director>Richard Attenborough</director>
+      <actor>Alan Tomkins</actor>
+      <actor>Anthony Hopkins</actor>
+      <actor>Anthony Mendleson</actor>
+      <actor>Antony Gibbs</actor>
+      <actor>Arthur Hill</actor>
+      <actor>Christopher Good</actor>
+      <actor>Dirk Bogarde</actor>
+      <actor>Edward Fox</actor>
     </credits>
-    <date>2009</date>
-    <category lang="es">Estreno</category>
-    <rating system="CL">
-      <value>R</value>
-    </rating>
-  </programme>
-  <programme start="20220928030000 -0300" stop="20220928040000 -0300" channel="La Red (CHI)">
-    <title lang="es">R.I.S. París</title>
-    <desc lang="es">Un grupo de policías resuelve los casos más difíciles y espeluznantes ayudados por la más alta tecnología forense en la capital de Francia.(n)</desc>
+    <date>1977</date>
+    <category lang="es">Documental Dramático</category>
     <rating system="CL">
       <value>NR</value>
     </rating>
@@ -11536,17 +10915,17 @@
     </rating>
   </programme>
   <programme start="20220928203000 -0300" stop="20220928210000 -0300" channel="La Red (CHI)">
-    <title lang="es">Swiss Nature Labs</title>
-    <desc lang="es">La información del programa no fue provista por el proveedor de la señal.(n)</desc>
+    <title lang="es">La rosa de Guadalupe</title>
+    <desc lang="es">Dramatizaciones de casos de la vida diaria de personas que experimentan un milagro verdadero, después de haberlo pedido a la Virgen de Guadalupe; estas historias son fuente de inspiración y esperanza.(n)</desc>
     <rating system="CL">
-      <value>NR</value>
+      <value>PG-13</value>
     </rating>
   </programme>
   <programme start="20220928210000 -0300" stop="20220928220000 -0300" channel="La Red (CHI)">
-    <title lang="es">Stage urbano</title>
-    <desc lang="es">Un espacio para conocer a la nueva generación del mundo urbano que son tendencia a nivel global.(n)</desc>
+    <title lang="es">La rosa de Guadalupe</title>
+    <desc lang="es">Dramatizaciones de casos de la vida diaria de personas que experimentan un milagro verdadero, después de haberlo pedido a la Virgen de Guadalupe; estas historias son fuente de inspiración y esperanza.(n)</desc>
     <rating system="CL">
-      <value>NR</value>
+      <value>PG-13</value>
     </rating>
   </programme>
   <programme start="20220928220000 -0300" stop="20220929003000 -0300" channel="La Red (CHI)">
@@ -11557,24 +10936,24 @@
     </rating>
   </programme>
   <programme start="20220929003000 -0300" stop="20220929030000 -0300" channel="La Red (CHI)">
-    <title lang="es">En defensa del honor</title>
-    <title lang="en">Hart's War</title>
-    <desc lang="es">En la Segunda Guerra Mundial, el coronel William McNamara asigna al teniente Tommy Hart, estudiante de Derecho de segundo año, la defensa legal de Lincoln Scott, un teniente afroamericano acusado de haber asesinado a un prisionero blanco.(n)</desc>
+    <title lang="es">Enemigo interno</title>
+    <title lang="en">Bad Lieutenant: Port of Call New Orleans</title>
+    <desc lang="es">Terence McDonough, un detective de homicidios de Nueva Orleans, utiliza a su antojo a traficantes, prostitutas y delincuentes. Pero su nueva investigación, el misterioso asesinato de cinco inmigrantes senegaleses, lo pone entre la espada y la pared.(n)</desc>
     <credits>
-      <director>Gregory Hoblit</director>
-      <actor>Adrian Grenier</actor>
-      <actor>Alar Kivilo</actor>
-      <actor>Arnold Rifkin</actor>
-      <actor>Billy Ray</actor>
-      <actor>Bruce Willis</actor>
-      <actor>Cole Hauser</actor>
-      <actor>Colin Farrell</actor>
-      <actor>David Foster</actor>
+      <director>Werner Herzog</director>
+      <actor>Alan Polsky</actor>
+      <actor>Alvin Joiner</actor>
+      <actor>Avi Lerner</actor>
+      <actor>Boaz Davidson</actor>
+      <actor>Danny Dimbort</actor>
+      <actor>Denzel Whitaker</actor>
+      <actor>Edward R. Pressman</actor>
+      <actor>Elliot Rosenblatt</actor>
     </credits>
-    <date>2002</date>
-    <category lang="es">Drama</category>
+    <date>2009</date>
+    <category lang="es">Estreno</category>
     <rating system="CL">
-      <value>NR</value>
+      <value>R</value>
     </rating>
   </programme>
   <programme start="20220929030000 -0300" stop="20220929040000 -0300" channel="La Red (CHI)">
@@ -11683,21 +11062,7 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220929153000 -0300" stop="20220929173000 -0300" channel="La Red (CHI)">
-    <title lang="es">Hola Chile</title>
-    <desc lang="es">Programa de variedad con mucho humor, entretenimiento y la mejor conversación.(n)</desc>
-    <rating system="CL">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220929173000 -0300" stop="20220929183000 -0300" channel="La Red (CHI)">
-    <title lang="es">Hola ciencia</title>
-    <desc lang="es">Un espacio informativo de la actualidad científica y temas afines.(n)</desc>
-    <rating system="CL">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220929183000 -0300" stop="20220929193000 -0300" channel="La Red (CHI)">
+  <programme start="20220929153000 -0300" stop="20220929193000 -0300" channel="La Red (CHI)">
     <title lang="es">Hola Chile</title>
     <desc lang="es">Programa de variedad con mucho humor, entretenimiento y la mejor conversación.(n)</desc>
     <rating system="CL">
@@ -11719,17 +11084,17 @@
     </rating>
   </programme>
   <programme start="20220929203000 -0300" stop="20220929210000 -0300" channel="La Red (CHI)">
-    <title lang="es">Antena 3D</title>
-    <desc lang="es">Barra de infomerciales que ofrece información sobre diferentes productos para el hogar, belleza, fitness y salud.(n)</desc>
+    <title lang="es">Swiss Nature Labs</title>
+    <desc lang="es">La información del programa no fue provista por el proveedor de la señal.(n)</desc>
     <rating system="CL">
       <value>NR</value>
     </rating>
   </programme>
   <programme start="20220929210000 -0300" stop="20220929220000 -0300" channel="La Red (CHI)">
-    <title lang="es">La rosa de Guadalupe</title>
-    <desc lang="es">Dramatizaciones de casos de la vida diaria de personas que experimentan un milagro verdadero, después de haberlo pedido a la Virgen de Guadalupe; estas historias son fuente de inspiración y esperanza.(n)</desc>
+    <title lang="es">Stage urbano</title>
+    <desc lang="es">Un espacio para conocer a la nueva generación del mundo urbano que son tendencia a nivel global.(n)</desc>
     <rating system="CL">
-      <value>PG-13</value>
+      <value>NR</value>
     </rating>
   </programme>
   <programme start="20220929220000 -0300" stop="20220930003000 -0300" channel="La Red (CHI)">
@@ -11739,25 +11104,32 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220930003000 -0300" stop="20220930020000 -0300" channel="La Red (CHI)">
-    <title lang="es">Swiss Nature Labs</title>
-    <desc lang="es">La información del programa no fue provista por el proveedor de la señal.(n)</desc>
+  <programme start="20220930003000 -0300" stop="20220930030000 -0300" channel="La Red (CHI)">
+    <title lang="es">En defensa del honor</title>
+    <title lang="en">Hart's War</title>
+    <desc lang="es">En la Segunda Guerra Mundial, el coronel William McNamara asigna al teniente Tommy Hart, estudiante de Derecho de segundo año, la defensa legal de Lincoln Scott, un teniente afroamericano acusado de haber asesinado a un prisionero blanco.(n)</desc>
+    <credits>
+      <director>Gregory Hoblit</director>
+      <actor>Adrian Grenier</actor>
+      <actor>Alar Kivilo</actor>
+      <actor>Arnold Rifkin</actor>
+      <actor>Billy Ray</actor>
+      <actor>Bruce Willis</actor>
+      <actor>Cole Hauser</actor>
+      <actor>Colin Farrell</actor>
+      <actor>David Foster</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="es">Drama</category>
     <rating system="CL">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220930020000 -0300" stop="20220930030000 -0300" channel="La Red (CHI)">
-    <title lang="es">Águila Roja</title>
-    <desc lang="es">Un héroe anónimo justiciero conocido con el apelativo de Águila Roja, ayuda a los débiles y busca sin descanso a los culpables del trágico asesinato de su joven esposa.(n)</desc>
-    <rating system="CL">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme start="20220930030000 -0300" stop="20220930040000 -0300" channel="La Red (CHI)">
-    <title lang="es">Sex and the City</title>
-    <desc lang="es">Cuatro mujeres neoyorquinas se enfrentan a las dificultades de las relaciones de pareja de estos tiempos.(n)</desc>
+    <title lang="es">R.I.S. París</title>
+    <desc lang="es">Un grupo de policías resuelve los casos más difíciles y espeluznantes ayudados por la más alta tecnología forense en la capital de Francia.(n)</desc>
     <rating system="CL">
-      <value>NC-17</value>
+      <value>NR</value>
     </rating>
   </programme>
   <programme start="20220930040000 -0300" stop="20220930050000 -0300" channel="La Red (CHI)">
@@ -11775,30 +11147,9 @@
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220930060000 -0300" stop="20220930083000 -0300" channel="La Red (CHI)">
+  <programme start="20220930060000 -0300" stop="20220930100000 -0300" channel="La Red (CHI)">
     <title lang="es">Swiss Nature Labs</title>
     <desc lang="es">La información del programa no fue provista por el proveedor de la señal.(n)</desc>
-    <rating system="CL">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220930083000 -0300" stop="20220930090000 -0300" channel="La Red (CHI)">
-    <title lang="es">Antena 3D</title>
-    <desc lang="es">Barra de infomerciales que ofrece información sobre diferentes productos para el hogar, belleza, fitness y salud.(n)</desc>
-    <rating system="CL">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220930090000 -0300" stop="20220930093000 -0300" channel="La Red (CHI)">
-    <title lang="es">Antena 3D</title>
-    <desc lang="es">Barra de infomerciales que ofrece información sobre diferentes productos para el hogar, belleza, fitness y salud.(n)</desc>
-    <rating system="CL">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220930093000 -0300" stop="20220930100000 -0300" channel="La Red (CHI)">
-    <title lang="es">Antena 3D</title>
-    <desc lang="es">Barra de infomerciales que ofrece información sobre diferentes productos para el hogar, belleza, fitness y salud.(n)</desc>
     <rating system="CL">
       <value>NR</value>
     </rating>
@@ -11874,6 +11225,203 @@
     </rating>
   </programme>
   <programme start="20220930150000 -0300" stop="20220930153000 -0300" channel="La Red (CHI)">
+    <title lang="es">Swiss Nature Labs</title>
+    <desc lang="es">La información del programa no fue provista por el proveedor de la señal.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220930153000 -0300" stop="20220930173000 -0300" channel="La Red (CHI)">
+    <title lang="es">Hola Chile</title>
+    <desc lang="es">Programa de variedad con mucho humor, entretenimiento y la mejor conversación.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220930173000 -0300" stop="20220930183000 -0300" channel="La Red (CHI)">
+    <title lang="es">Hola ciencia</title>
+    <desc lang="es">Un espacio informativo de la actualidad científica y temas afines.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220930183000 -0300" stop="20220930193000 -0300" channel="La Red (CHI)">
+    <title lang="es">Hola Chile</title>
+    <desc lang="es">Programa de variedad con mucho humor, entretenimiento y la mejor conversación.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220930193000 -0300" stop="20220930200000 -0300" channel="La Red (CHI)">
+    <title lang="es">Antena 3D</title>
+    <desc lang="es">Barra de infomerciales que ofrece información sobre diferentes productos para el hogar, belleza, fitness y salud.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220930200000 -0300" stop="20220930203000 -0300" channel="La Red (CHI)">
+    <title lang="es">Antena 3D</title>
+    <desc lang="es">Barra de infomerciales que ofrece información sobre diferentes productos para el hogar, belleza, fitness y salud.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220930203000 -0300" stop="20220930210000 -0300" channel="La Red (CHI)">
+    <title lang="es">Antena 3D</title>
+    <desc lang="es">Barra de infomerciales que ofrece información sobre diferentes productos para el hogar, belleza, fitness y salud.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220930210000 -0300" stop="20220930220000 -0300" channel="La Red (CHI)">
+    <title lang="es">La rosa de Guadalupe</title>
+    <desc lang="es">Dramatizaciones de casos de la vida diaria de personas que experimentan un milagro verdadero, después de haberlo pedido a la Virgen de Guadalupe; estas historias son fuente de inspiración y esperanza.(n)</desc>
+    <rating system="CL">
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220930220000 -0300" stop="20221001003000 -0300" channel="La Red (CHI)">
+    <title lang="es">Mentiras verdaderas</title>
+    <desc lang="es">Los más diversos tema de actualidad bajo el análisis de un experto grupo de panelistas que se encargará de mostrar la contingencia con una mirada crítica y particular.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20221001003000 -0300" stop="20221001020000 -0300" channel="La Red (CHI)">
+    <title lang="es">Swiss Nature Labs</title>
+    <desc lang="es">La información del programa no fue provista por el proveedor de la señal.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20221001020000 -0300" stop="20221001030000 -0300" channel="La Red (CHI)">
+    <title lang="es">Águila Roja</title>
+    <desc lang="es">Un héroe anónimo justiciero conocido con el apelativo de Águila Roja, ayuda a los débiles y busca sin descanso a los culpables del trágico asesinato de su joven esposa.(n)</desc>
+    <rating system="CL">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20221001030000 -0300" stop="20221001040000 -0300" channel="La Red (CHI)">
+    <title lang="es">Sex and the City</title>
+    <desc lang="es">Cuatro mujeres neoyorquinas se enfrentan a las dificultades de las relaciones de pareja de estos tiempos.(n)</desc>
+    <rating system="CL">
+      <value>NC-17</value>
+    </rating>
+  </programme>
+  <programme start="20221001040000 -0300" stop="20221001050000 -0300" channel="La Red (CHI)">
+    <title lang="es">Fuera del aire</title>
+    <title lang="en">SIGN OFF</title>
+    <desc lang="es">Fin de emisión.(n)</desc>
+    <rating system="CL">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20221001050000 -0300" stop="20221001060000 -0300" channel="La Red (CHI)">
+    <title lang="es">Swiss Nature Labs</title>
+    <desc lang="es">La información del programa no fue provista por el proveedor de la señal.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20221001060000 -0300" stop="20221001083000 -0300" channel="La Red (CHI)">
+    <title lang="es">Swiss Nature Labs</title>
+    <desc lang="es">La información del programa no fue provista por el proveedor de la señal.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20221001083000 -0300" stop="20221001090000 -0300" channel="La Red (CHI)">
+    <title lang="es">Antena 3D</title>
+    <desc lang="es">Barra de infomerciales que ofrece información sobre diferentes productos para el hogar, belleza, fitness y salud.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20221001090000 -0300" stop="20221001093000 -0300" channel="La Red (CHI)">
+    <title lang="es">Antena 3D</title>
+    <desc lang="es">Barra de infomerciales que ofrece información sobre diferentes productos para el hogar, belleza, fitness y salud.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20221001093000 -0300" stop="20221001100000 -0300" channel="La Red (CHI)">
+    <title lang="es">Antena 3D</title>
+    <desc lang="es">Barra de infomerciales que ofrece información sobre diferentes productos para el hogar, belleza, fitness y salud.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20221001100000 -0300" stop="20221001103000 -0300" channel="La Red (CHI)">
+    <title lang="es">Antena 3D</title>
+    <desc lang="es">Barra de infomerciales que ofrece información sobre diferentes productos para el hogar, belleza, fitness y salud.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20221001103000 -0300" stop="20221001110000 -0300" channel="La Red (CHI)">
+    <title lang="es">Antena 3D</title>
+    <desc lang="es">Barra de infomerciales que ofrece información sobre diferentes productos para el hogar, belleza, fitness y salud.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20221001110000 -0300" stop="20221001113000 -0300" channel="La Red (CHI)">
+    <title lang="es">Antena 3D</title>
+    <desc lang="es">Barra de infomerciales que ofrece información sobre diferentes productos para el hogar, belleza, fitness y salud.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20221001113000 -0300" stop="20221001120000 -0300" channel="La Red (CHI)">
+    <title lang="es">Antena 3D</title>
+    <desc lang="es">Barra de infomerciales que ofrece información sobre diferentes productos para el hogar, belleza, fitness y salud.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20221001120000 -0300" stop="20221001123000 -0300" channel="La Red (CHI)">
+    <title lang="es">Antena 3D</title>
+    <desc lang="es">Barra de infomerciales que ofrece información sobre diferentes productos para el hogar, belleza, fitness y salud.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20221001123000 -0300" stop="20221001130000 -0300" channel="La Red (CHI)">
+    <title lang="es">Antena 3D</title>
+    <desc lang="es">Barra de infomerciales que ofrece información sobre diferentes productos para el hogar, belleza, fitness y salud.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20221001130000 -0300" stop="20221001133000 -0300" channel="La Red (CHI)">
+    <title lang="es">Antena 3D</title>
+    <desc lang="es">Barra de infomerciales que ofrece información sobre diferentes productos para el hogar, belleza, fitness y salud.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20221001133000 -0300" stop="20221001140000 -0300" channel="La Red (CHI)">
+    <title lang="es">Antena 3D</title>
+    <desc lang="es">Barra de infomerciales que ofrece información sobre diferentes productos para el hogar, belleza, fitness y salud.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20221001140000 -0300" stop="20221001143000 -0300" channel="La Red (CHI)">
+    <title lang="es">Antena 3D</title>
+    <desc lang="es">Barra de infomerciales que ofrece información sobre diferentes productos para el hogar, belleza, fitness y salud.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20221001143000 -0300" stop="20221001150000 -0300" channel="La Red (CHI)">
+    <title lang="es">Antena 3D</title>
+    <desc lang="es">Barra de infomerciales que ofrece información sobre diferentes productos para el hogar, belleza, fitness y salud.(n)</desc>
+    <rating system="CL">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20221001150000 -0300" stop="20221001153000 -0300" channel="La Red (CHI)">
     <title lang="es">Plaza Sésamo</title>
     <title lang="en">Sesame Street</title>
     <desc lang="es">Abelardo, Elmo, Enrique y todos sus amigos les enseñan a los niños de todo el mundo el valioso principio de la amistad, además de muchas otras cosas.(n)</desc>
@@ -11881,35 +11429,18 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20220930153000 -0300" stop="20220930210000 -0300" channel="La Red (CHI)">
+  <programme start="20221001153000 -0300" stop="20221001210000 -0300" channel="La Red (CHI)">
     <title lang="es">Swiss Nature Labs</title>
     <desc lang="es">La información del programa no fue provista por el proveedor de la señal.(n)</desc>
     <rating system="CL">
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220930210000 -0300" stop="20221001020000 -0300" channel="La Red (CHI)">
+  <programme start="20221001210000 -0300" stop="20221002020000 -0300" channel="La Red (CHI)">
     <title lang="es">Swiss Nature Labs</title>
     <desc lang="es">La información del programa no fue provista por el proveedor de la señal.(n)</desc>
     <rating system="CL">
       <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220928130000 +0000" stop="20220928150000 +0000" channel="UniMás">
-    <title lang="en">Triunfo del Amor</title>
-    <sub-title lang="en">09-26-2022</sub-title>
-    <date>2010</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220928150000 +0000" stop="20220928160000 +0000" channel="UniMás">
-    <title lang="en">La 3ra. en Discordia (new)</title>
-    <sub-title lang="en">09-28-2022</sub-title>
-    <date>2019</date>
-    <premiere />
-    <rating system="MPAA">
-      <value>TV-14</value>
     </rating>
   </programme>
   <programme start="20220928160000 +0000" stop="20220928180000 +0000" channel="UniMás">
@@ -12598,21 +12129,8 @@
   <programme start="20220928230000 -0500" stop="20220929000000 -0500" channel="RCN Novelas">
     <title lang="es">Doña Bella</title>
   </programme>
-  <programme start="20220929100000 -0500" stop="20220929110000 -0500" channel="RCN Novelas">
-    <title lang="es">No olvidaras mi nombre</title>
-  </programme>
-  <programme start="20220928110000 +0000" stop="20220928150000 +0000" channel="Univision 41">
-    <title lang="en">Despierta América (live)</title>
-    <date>2022</date>
-  </programme>
-  <programme start="20220928150000 +0000" stop="20220928160000 +0000" channel="Univision 41">
-    <title lang="en">Como dice el dicho (new)</title>
-    <sub-title lang="en">09-29-2022</sub-title>
-    <date>2011</date>
-    <premiere />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
+  <programme start="20220929120000 -0500" stop="20220929130000 -0500" channel="RCN Novelas">
+    <title lang="es">Expedientes</title>
   </programme>
   <programme start="20220928160000 +0000" stop="20220928163000 +0000" channel="Univision 41">
     <title lang="en">Contacto Deportivo (live)</title>
@@ -13252,31 +12770,6 @@
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
-  </programme>
-  <programme start="20220928140000 +0000" stop="20220928150000 +0000" channel="Telemundo 47">
-    <title lang="en">Caso cerrado (new)</title>
-    <sub-title lang="en">Presente ausente / Amistad violenta</sub-title>
-    <desc lang="en">La Dra. Polo busca resolver de la manera más justa los casos que se le presentan.(n)</desc>
-    <date>2002</date>
-    <premiere />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220928150000 +0000" stop="20220928153000 +0000" channel="Telemundo 47">
-    <title lang="en">Caso Cerrado</title>
-    <sub-title lang="en">Un chisme sin compasión</sub-title>
-    <desc lang="en">La doctora le da la palabra a César, quien busca explicar, como puede, su caso. Manifiesta que no quiso pagar el ticket por la adquisición de varios kilos de carne, porque el comercio que se lo envío está acusado de utilizar trozos humanos de un pequeño niño asesinado. En el siguiente turno, dos mujeres cuentan que no están de acuerdo con el rol que la religión tiene en su familia y que influye en la crianza de sus sobrinos.(n)</desc>
-    <date>2021</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220928153000 +0000" stop="20220928160000 +0000" channel="Telemundo 47">
-    <title lang="en">Telemundo 47 acceso total (new)</title>
-    <desc lang="en">Mujeres emprendedoras se toman Acceso Total.(n)</desc>
-    <date>2019</date>
-    <premiere />
   </programme>
   <programme start="20220928160000 +0000" stop="20220928163000 +0000" channel="Telemundo 47">
     <title lang="en">Noticiero Telemundo 47 (new)</title>
@@ -14236,28 +13729,6 @@
       <value>+14</value>
     </rating>
   </programme>
-  <programme start="20220928134500 +0000" stop="20220928143500 +0000" channel="Love Nature!">
-    <title lang="es">Azul salvaje</title>
-    <sub-title lang="es">Sea Of Cortez</sub-title>
-    <desc lang="es">Viaje a Cabo Pulmo, hogar de una extraordinaria historia de recuperación marina. Una vez llamado 'el acuario del mundo', este arrecife de coral casi prístino fue casi destruido por la sobrepesca imprudente hasta que los pescadores de la zona intervinieron con esfuerzos de rescate.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/86/12863094_23BBEB2992D30030.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S2 E1</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220928143500 +0000" stop="20220928153000 +0000" channel="Love Nature!">
-    <title lang="es">Azul salvaje</title>
-    <sub-title lang="es">Palau Shark Sanctuary</sub-title>
-    <desc lang="es">En 2009, Palau creó un santuario de tiburones que protege a más de 100 especies de tiburones. En 2014 establecieron el santuario marino más grande del mundo, una zona prohibida para la pesca comercial extranjera. ¿Pero puede Palau mantener a raya las flotas pesqueras ilegales.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/86/12863094_23BBEB2992D30030.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S2 E2</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
   <programme start="20220928153000 +0000" stop="20220928162500 +0000" channel="Love Nature!">
     <title lang="es">América Latina salvaje</title>
     <sub-title lang="es">El reino del oso de anteojos</sub-title>
@@ -15153,16 +14624,6 @@
     <rating system="MJColombia">
       <value>+14</value>
     </rating>
-  </programme>
-  <programme start="20220928134500 +0000" stop="20220928144000 +0000" channel="Telehit Musica">
-    <title lang="en">Telehitazos</title>
-    <desc lang="en">Una selección de los videos musicales más exitosos del 2010 y de otros años.(n)</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20220928144000 +0000" stop="20220928153500 +0000" channel="Telehit Musica">
-    <title lang="en">Musicoterapia</title>
-    <desc lang="en">Un espacio que aborda diversos proyectos en materia de Medicina y Musica.(n)</desc>
-    <date>2007</date>
   </programme>
   <programme start="20220928153500 +0000" stop="20220928163000 +0000" channel="Telehit Musica">
     <title lang="en">Musicología</title>
@@ -16889,59 +16350,6 @@
     <desc lang="es">Un programa donde se promociona la venta de viviendas en las principales ciudades de Colombia.(n)</desc>
     <rating system="CO">
       <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220928142400 +0000" stop="20220928144700 +0000" channel="Discovery Kids!">
-    <title lang="es">Peppa</title>
-    <sub-title lang="es">Vamos a esquiar, perfume, el arenero, la tetera del señor Toribio</sub-title>
-    <desc lang="es">Peppa y sus amigos están haciendo una isla desierta en el arenero y deciden agregarle un bosque, un lago, casas y tiendas. Todo marcha bien hasta que aparecen los dinosaurios de George y Richard.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/81/9819982_556CE2A81CF4F04D.jpg" />
-    <country lang="es">GB</country>
-    <episode-num system="onscreen">S6</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220928145700 +0000" stop="20220928152000 +0000" channel="Discovery Kids!">
-    <title lang="es">Peppa</title>
-    <sub-title lang="es">Police station, When i grow up, Ambulance, Doctors, Super Potato</sub-title>
-    <desc lang="es">Peppa es una cerdita que vive con su hermanito George, su mamá y su papá. A Peppa le encanta jugar y saltar en los charcos de lodo. También le gusta aprender cosas nuevas y escuchar los consejos de sus padres. Pero, lo que más le gusta es jugar con sus amigos.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/94/9942656_E6D8D6497E5A9A30.jpg" />
-    <country lang="es">GB</country>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220928152500 +0000" stop="20220928153600 +0000" channel="Discovery Kids!">
-    <title lang="es">Topo Gigio</title>
-    <sub-title lang="es">Bob, la bomba</sub-title>
-    <desc lang="es">Gigio y Bob compiten por el mejor video de bicicletas a alta velocidad. Tatum corre contra ellos con su bicicleta moderna ultrarrápida. Pero Gigio tiene una idea, aumentar la velocidad de la bicicleta de Bob con latas.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/95/9954178_59B95FFCB157C439.jpg" />
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220928153600 +0000" stop="20220928154700 +0000" channel="Discovery Kids!">
-    <title lang="es">Héroes en la playa</title>
-    <sub-title lang="es">El monstruo de la laguna</sub-title>
-    <desc lang="es">Pounce cae en la laguna y queda cubierto de algas, por lo que los otros cadetes lo confunden con un monstruo del pantano y deciden que tienen que capturarlo.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/65/10657539_590A7DBDA6F8464C.jpg" />
-    <country lang="es">AU</country>
-    <episode-num system="onscreen">S1 E24</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220928154700 +0000" stop="20220928155900 +0000" channel="Discovery Kids!">
-    <title lang="es">Pinocchio and Friends</title>
-    <sub-title lang="es">Mecha, un chico problemático</sub-title>
-    <desc lang="es">Mecha, un conocido mentiroso, roba un cohete de resorte de la tienda de las maravillas para convencer a sus amigos de que es un regalo de su tío astronauta.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/89/12898604_969DF94D89C94BA1.jpg" />
-    <country lang="es">IN</country>
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
     </rating>
   </programme>
   <programme start="20220928155900 +0000" stop="20220928162500 +0000" channel="Discovery Kids!">
@@ -19605,39 +19013,6 @@
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/73/9737106_5863766DFB91E798.jpg" />
     <rating system="MJColombia">
       <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20220928143000 +0000" stop="20220928150000 +0000" channel="Disney Channel!">
-    <title lang="es">Prodigiosa: Las aventuras de Ladybug</title>
-    <sub-title lang="es">Psicomediante</sub-title>
-    <desc lang="es">Un comediante famoso es akumatizado en psicomediante, capaz de imponer cualquier emoción a cualquiera. Ahora quiere borrar las sonrisas de los rostros de todos, comenzando con Ladybug y Cat Noir.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/86/12863114_745BF026782C4549.jpg" />
-    <country lang="es">FR</country>
-    <episode-num system="onscreen">S4 E21</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220928150000 +0000" stop="20220928153000 +0000" channel="Disney Channel!">
-    <title lang="es">Prodigiosa: Las aventuras de Ladybug</title>
-    <sub-title lang="es">Clima tempestuoso</sub-title>
-    <desc lang="es">Aurore Borell acaba de perder ante su competidora, Mireille Jattée, para convertirse en la próxima meteoróloga. Enfurecida, ella se ve influenciada por Hawk Moth y se convierte en 'Stormy Weather', una villana que controla el clima.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/92/12928569_08E6A8A74E0CA95B.jpg" />
-    <country lang="es">FR</country>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20220928153000 +0000" stop="20220928160000 +0000" channel="Disney Channel!">
-    <title lang="es">Prodigiosa: Las aventuras de Ladybug</title>
-    <sub-title lang="es">Burbujeo</sub-title>
-    <desc lang="es">Es el cumpleaños de Adrien y Marinette está luchando por darle el regalo que hizo para él. Cuando el padre de Adrien no le permite a Adrien tener una fiesta de cumpleaños, su mejor amigo Nino se enoja por lo injusto que es con Adrien.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/92/12922720_3D411DA57D3BE01D.jpg" />
-    <country lang="es">FR</country>
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
     </rating>
   </programme>
   <programme start="20220928160000 +0000" stop="20220928163000 +0000" channel="Disney Channel!">
