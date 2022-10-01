@@ -92,7 +92,7 @@
   <channel id="A3Series HD!">
     <display-name lang="es">A3Series HD!</display-name>
     <icon src="https://cdn.sincroguia.tv/uploads/images/v/5/n/xatresseries.jpg.pagespeed.ic.9ZIdKUT2Zo.jpg" />
-    <url>http://www.sincroguia-tv.expansion.com</url>
+    <url>http://www.sincroguia-tv.com.E</url>
   </channel>
   <channel id="UniMás">
     <display-name lang="en">UniMás</display-name>
@@ -130,1097 +130,334 @@
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523290_AD350A44EE3C7F22.png" />
     <url>http://www.movistar.com.pe</url>
   </channel>
-  <programme start="20221001170000 +0000" stop="20221001190000 +0000" channel="HBO 2!">
-    <title lang="en">My Cousin Vinny</title>
-    <desc lang="en">When his young cousin is inadvertently charged with murder in an Alabama town, an untested Brooklyn lawyer takes on his first case as he attempts to defend two penniless youths in the heart of Dixie, where he clearly does not understand the protocols of the courtroom...or the South. (repeat).(n)</desc>
-    <credits>
-      <director>Jonathan Lynn</director>
-      <actor role="Vinny Gambini">Joe Pesci</actor>
-      <actor role="Bill Gambini">Ralph Macchio</actor>
-      <actor role="Mona Lisa Vito">Marisa Tomei</actor>
-      <actor role="Stan Rothenstein">Mitchell Whitfield</actor>
-      <actor role="Judge Chamberlain Haller">Fred Gwynne</actor>
-      <actor role="Jim Trotter III">Lane Smith</actor>
-      <actor role="John Gibbons">Austin Pendleton</actor>
-      <actor role="Sheriff Farley">Bruce McGill</actor>
-      <writer>Dale Launer</writer>
-      <producer>Dale Launer</producer>
-      <composer>Randy Edelman</composer>
-    </credits>
-    <date>1992</date>
-    <category lang="en">Comedy</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/037/000037/000037_640x480_2875_167.jpg" />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20221001190000 +0000" stop="20221001210000 +0000" channel="HBO 2!">
-    <title lang="en">Free Guy</title>
-    <desc lang="en">Guy is a bank teller and a non-playable character in an open world video game called Free City. All is going well in his virtual world until publisher Antoine decides to insert a code developed by programmers Keys and Milly into the game. All of a sudden, he finds himself imbued with consciousness. As he grows increasingly aware of his surroundings, he is confronted with the fact that he is a background character and that he is the only person who can save their game from going offline. (repeat).(n)</desc>
-    <credits>
-      <director>Shawn Levy</director>
-      <actor role="Millie/Molotov Girl">Jodie Comer</actor>
-      <actor role="Guy">Ryan Reynolds</actor>
-      <actor role="Antoine">Taika Waititi</actor>
-      <actor role="Bombshell">Camille Kostek</actor>
-      <actor role="Dude">Aaron W Reed</actor>
-      <actor role="Dude">Aaron W. Reed</actor>
-      <actor role="Mouser">Utkarsh Ambudkar</actor>
-      <actor role="Keys">Joe Keery</actor>
-      <writer>Matt Lieberman</writer>
-      <producer>Dan Levine</producer>
-      <composer>Christophe Beck</composer>
-    </credits>
-    <date>2021</date>
-    <category lang="en">Comedy</category>
-    <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13512/013512/013512_770x578_637635441434923345.jpg" />
-  </programme>
-  <programme start="20221001210000 +0000" stop="20221001220000 +0000" channel="HBO 2!">
-    <title lang="en">Hostages</title>
-    <sub-title lang="en">The Peacock Throne</sub-title>
-    <desc lang="en">An examination of the Iran Hostage Crisis of 1979 and its consequences. (repeat).(n)</desc>
-    <date>2022</date>
-    <category lang="en">Documentary</category>
-    <episode-num system="onscreen">S1 E1</episode-num>
-  </programme>
-  <programme start="20221001220000 +0000" stop="20221001230000 +0000" channel="HBO 2!">
-    <title lang="en">Hostages</title>
-    <sub-title lang="en">Den of Spies</sub-title>
-    <desc lang="en">An examination of the Iran Hostage Crisis of 1979 and its consequences. (repeat).(n)</desc>
-    <date>2022</date>
-    <category lang="en">Documentary</category>
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20221001230000 +0000" stop="20221002000000 +0000" channel="HBO 2!">
-    <title lang="en">Hostages</title>
-    <sub-title lang="en">The Sand Storm</sub-title>
-    <desc lang="en">An examination of the Iran Hostage Crisis of 1979 and its consequences. (repeat).(n)</desc>
-    <date>2022</date>
-    <category lang="en">Documentary</category>
-    <episode-num system="onscreen">S1 E3</episode-num>
-  </programme>
-  <programme start="20221002000000 +0000" stop="20221002010000 +0000" channel="HBO 2!">
-    <title lang="en">Hostages</title>
-    <sub-title lang="en">The Transaction</sub-title>
-    <desc lang="en">An examination of the Iran Hostage Crisis of 1979 and its consequences. (repeat).(n)</desc>
-    <date>2022</date>
-    <category lang="en">Documentary</category>
-    <episode-num system="onscreen">S1 E4</episode-num>
-  </programme>
-  <programme start="20221002010000 +0000" stop="20221002024500 +0000" channel="HBO 2!">
-    <title lang="en">Little Miss Sunshine</title>
-    <desc lang="en">In this uproarious road comedy, parents take their spunky 7-year-old daughter and dysfunctional family from New Mexico to California for a kiddie beauty pageant. (repeat).(n)</desc>
-    <credits>
-      <director>Jonathan Dayton</director>
-      <director>Valerie Faris</director>
-      <actor role="Richard Hoover">Greg Kinnear</actor>
-      <actor role="Sheryl Hoover">Toni Collette</actor>
-      <actor role="Frank Hoover">Steve Carell</actor>
-      <actor role="Dwayne Hoover">Paul Dano</actor>
-      <actor role="Olive Hoover">Abigail Breslin</actor>
-      <actor role="Grandpa Edwin Hoover">Alan Arkin</actor>
-      <actor role="Stan Grossman">Bryan Cranston</actor>
-      <actor role="Pageant Official Jenkins">Beth Grant</actor>
-      <writer>Michael Arndt</writer>
-      <producer>Jeb Brody</producer>
-      <composer>Mychael Danna</composer>
-    </credits>
-    <date>2006</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/photos/896/575039_005.jpg" />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221002024500 +0000" stop="20221002030000 +0000" channel="HBO 2!">
-    <title lang="en">Hbo First Look: See How They Run</title>
-    <desc lang="en">An inside look at this comedy-mystery featuring a stellar ensemble cast, including Sam Rockwell, Saoirse Ronan, Adrien Brody, and others. (repeat).(n)</desc>
-    <date>2022</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20221002030000 +0000" stop="20221002040000 +0000" channel="HBO 2!">
-    <title lang="en">Real Time With Bill Maher</title>
-    <sub-title lang="en">Real Time with Bill Maher 614</sub-title>
-    <desc lang="en">A talk show about current events with the former host of 'Politically Incorrect'. In addition to the roundtable discussions, the show also features topical interviews with in-studio and satellite guests. (repeat).(n)</desc>
-    <credits>
-      <director>Paul Casey</director>
-      <director>Hal Grant</director>
-      <producer>Bill Maher</producer>
-      <presenter>Bill Maher</presenter>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Talk &amp; Interview</category>
-    <icon src="https://content.internetvideoarchive.com/content/photos/1475/06197707_.jpg" />
-    <episode-num system="onscreen">S20 E29</episode-num>
-    <rating system="MPAA">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20221002040000 +0000" stop="20221002043000 +0000" channel="HBO 2!">
-    <title lang="en">Los Espookys</title>
-    <sub-title lang="en">La Ruinas</sub-title>
-    <desc lang="en">Delighted with the success of her town's attractions,. (repeat).(n)</desc>
-    <credits>
-      <director>Fernando Frías</director>
-      <director>Fernando Frias</director>
-      <actor role="Úrsula">Cassandra Ciangherotti</actor>
-      <actor role="Tati">Ana Fabrega</actor>
-      <actor role="Andrés">Julio Torres</actor>
-      <actor role="Juan Carlos">José Pablo Minor</actor>
-      <actor role="Tico">Fred Armisen</actor>
-      <writer>Ana Fabrega</writer>
-      <producer>Lorne Michaels</producer>
-      <composer>Emilio Acevedo</composer>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Horror</category>
-    <category lang="en">Comedy</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12357/012357/012357_960x720_976922_008.jpg" />
-    <episode-num system="onscreen">S2</episode-num>
-    <episode-num system="onscreen">2 E3</episode-num>
-    <rating system="MPAA">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20221002043000 +0000" stop="20221002051000 +0000" channel="HBO 2!">
-    <title lang="en">Last Week Tonight With John Oliver</title>
-    <sub-title lang="en">Last Week Tonight with John Oliver 262</sub-title>
-    <desc lang="en">John Oliver's satirical look at the previous week's news, politics and headlines. (repeat).(n)</desc>
-    <credits>
-      <director>Jim Hoskinson</director>
-      <director>Paul Pennolino</director>
-      <producer>John Oliver</producer>
-      <presenter>John Oliver</presenter>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Comedy</category>
-    <category lang="en">Talk &amp; Interview</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/11869/011869/011869_994x559_107728_025.jpg" />
-    <episode-num system="onscreen">S9 E23</episode-num>
-    <rating system="MPAA">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20221002051000 +0000" stop="20221002065500 +0000" channel="HBO 2!">
-    <title lang="en">American Psycho</title>
-    <desc lang="en">A rich Wall Street player (Christian Bale) basks in his late-1980s yuppie lifestyle, but behind his slick appearance lurks a murderous monster. Jared Leto, Willem Dafoe, Samantha Mathis, Chloe Sevigny, Reese Witherspoon, Josh Lucas. Contains extra footage not shown in theaters. Mary Harron directed the adaptation of Bret Easton Ellis's controversial novel. (repeat).(n)</desc>
-    <credits>
-      <director>Mary Harron</director>
-      <director>Edward R. Pressman</director>
-      <actor role="Patrick Bateman">Christian Bale</actor>
-      <actor role="Donald Kimball">Willem Dafoe</actor>
-      <actor role="Paul Allen">Jared Leto</actor>
-      <actor role="Craig McDermott">Joshua Lucas</actor>
-      <actor role="Courtney Rawlinson">Samantha Mathis</actor>
-      <actor role="Jean">Chloe Sevigny</actor>
-      <actor role="Evelyn Williams">Reese Witherspoon</actor>
-      <actor role="Luis Carruthers">Matt Ross</actor>
-      <writer>Bret Easton Ellis</writer>
-      <producer>Ron Rotholz</producer>
-      <composer>Danny Elfman</composer>
-    </credits>
-    <date>2000</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Suspense</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/9732/009732/009732_960x720_524452_007.jpg" />
-    <rating system="MPAA">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20221002065500 +0000" stop="20221002084000 +0000" channel="HBO 2!">
-    <title lang="en">Cry Macho</title>
-    <desc lang="en">Rodeo professional Miko agrees to free his ex-employer's son from the sway of his alcoholic mother. As Miko and the boy venture back to Texas, the boy experiences meaningful lessons in morality and masculinity from the grizzled cowboy. Based on the novel of the same name by N. Richard Nash. (repeat).(n)</desc>
-    <credits>
-      <director>Clint Eastwood</director>
-      <director>Dwight Yoakam</director>
-      <actor role="Mike Milo">Clint Eastwood</actor>
-      <actor role="cast">Dwight Yoakam</actor>
-      <actor role="cast">Fernanda Urrejola</actor>
-      <actor role="Marta">Natalia Traven</actor>
-      <actor role="Hippie Girl #1">Brytnee Ratledge</actor>
-      <actor role="Aurelio">Horacio Garciá Rojas</actor>
-      <actor role="Rafa">Eduardo Minett</actor>
-      <writer>Nick Schenk</writer>
-      <producer>Tim Moore</producer>
-      <composer>Mark Mancina</composer>
-    </credits>
-    <date>2021</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Suspense</category>
-    <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13518/013518/013518_1143x643_637638618752087035.jpg" />
-  </programme>
-  <programme start="20221002084000 +0000" stop="20221002110000 +0000" channel="HBO 2!">
-    <title lang="en">Rent</title>
-    <desc lang="en">The Tony-winning Broadway hit centering on the lives and loves of a group of struggling bohemians in New York's East Village is vibrantly brought to the screen in this dazzling musical featuring many of the original stage stars. Anthony Rapp, Adam Pascal, Rosario Dawson, Jesse L. Martin, Wilson Jermaine Heredia. Directed by Chris Columbus. (repeat).(n)</desc>
-    <credits>
-      <director>Chris Columbus</director>
-      <actor role="Mark Cohen">Anthony Rapp</actor>
-      <actor role="Roger Davis">Adam Pascal</actor>
-      <actor role="Mimi Marquez">Rosario Dawson</actor>
-      <actor role="Tom Collins">Jesse L. Martin</actor>
-      <actor role="Angel Schunard">Wilson Jermaine Heredia</actor>
-      <actor role="Maureen Johnson">Idina Menzel</actor>
-      <actor role="Joanne Jefferson">Tracie Thoms</actor>
-      <actor role="Benjamin Coffin III">Taye Diggs</actor>
-      <producer>Lata Ryan</producer>
-      <composer>Jamie Muhoberac</composer>
-    </credits>
-    <date>2005</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Music</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/791/000791/000791_960x720_733578_053.jpg" />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221002110000 +0000" stop="20221002120000 +0000" channel="HBO 2!">
-    <title lang="en">Real Sports With Bryant Gumbel</title>
-    <sub-title lang="en">Real Sports With Bryant Gumbel Xxxx22 - #305</sub-title>
-    <desc lang="en">An award-winning monthly sports journalism series with investigative pieces and in-depth profiles from across the sports spectrum. (repeat).(n)</desc>
-    <credits>
-      <producer>Rick Bernstein</producer>
-      <presenter>Bryant Gumbel</presenter>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Sports</category>
-    <icon src="https://content.internetvideoarchive.com/content/photos/8528/57324_009.jpg" />
-    <episode-num system="onscreen">S28 E9</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20221002120000 +0000" stop="20221002130000 +0000" channel="HBO 2!">
-    <title lang="en">Real Time With Bill Maher</title>
-    <sub-title lang="en">Real Time with Bill Maher 614</sub-title>
-    <desc lang="en">A talk show about current events with the former host of 'Politically Incorrect'. In addition to the roundtable discussions, the show also features topical interviews with in-studio and satellite guests. (repeat).(n)</desc>
-    <credits>
-      <director>Paul Casey</director>
-      <director>Hal Grant</director>
-      <producer>Bill Maher</producer>
-      <presenter>Bill Maher</presenter>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Talk &amp; Interview</category>
-    <icon src="https://content.internetvideoarchive.com/content/photos/1475/06197707_.jpg" />
-    <episode-num system="onscreen">S20 E29</episode-num>
-    <rating system="MPAA">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20221002130000 +0000" stop="20221002144000 +0000" channel="HBO 2!">
-    <title lang="en">My Week With Marilyn</title>
-    <desc lang="en">A 23-year-old is hired to chauffeur Marilyn Monroe (Michelle Williams) for one week during the shooting of "The Prince and the Showgirl," affording the young man a glimpse at the sadness behind her Hollywood persona. Based on the memoirs of British filmmaker Colin Clark. (repeat).(n)</desc>
-    <credits>
-      <director>Simon Curtis</director>
-      <actor role="Colin Clark">Eddie Redmayne</actor>
-      <actor role="Marilyn Monroe">Michelle Williams</actor>
-      <actor role="Sir Laurence Olivier">Kenneth Branagh</actor>
-      <actor role="Arthur Miller">Dougray Scott</actor>
-      <actor role="Vivien Leigh">Julia Ormond</actor>
-      <actor role="Dame Sybil Thorndike">Judi Dench</actor>
-      <actor role="Milton Greene">Dominic Cooper</actor>
-      <actor role="Lucy">Emma Watson</actor>
-      <writer>Adrian Hodges</writer>
-      <producer>Harvey Weinstein</producer>
-    </credits>
-    <date>2011</date>
-    <category lang="en">Drama</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/9963/009963/009963_275x206_827337_011.jpg" />
-  </programme>
-  <programme start="20221002144000 +0000" stop="20221002161500 +0000" channel="HBO 2!">
-    <title lang="en">Thoroughbreds</title>
-    <desc lang="en">Affluent childhood friends Lily and Amanda reconnect after spending several years apart and developing vastly different personalities, and they find common ground in a plot to murder Lily's oppressive father. However, doing so involves enlisting the help of a local hustler and seizing control of their own lives. (repeat).(n)</desc>
-    <credits>
-      <director>Cory Finley</director>
-      <actor role="Amanda">Olivia Cooke</actor>
-      <actor role="Lily">Anya Taylor-Joy</actor>
-      <actor role="Tim">Anton Yelchin</actor>
-      <actor role="Mark">Paul Sparks</actor>
-      <actor role="Cynthia">Francie Swift</actor>
-      <actor role="Karen">Kaili Vernoff</actor>
-      <actor role="Cleaning Lady">Svetlana Orlova</actor>
-      <actor role="Jessica">Alyssa Fishenden</actor>
-      <producer>Declan Baldwin</producer>
-      <composer>Erik Friedlander</composer>
-    </credits>
-    <date>2017</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Suspense</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/11479/011479/011479_1280x720_969734_027.jpg" />
-  </programme>
-  <programme start="20221002161500 +0000" stop="20221002183500 +0000" channel="HBO 2!">
-    <title lang="en">Divergent</title>
-    <desc lang="en">In this inventive sci-fi film set in a society where the population is segregated by personality, a teenager classified as "divergent" uncovers a plot to kill everyone in her category and races to find out why they are considered so uniquely dangerous. (repeat).(n)</desc>
-    <credits>
-      <director>Neil Burger</director>
-      <director>Douglas Wick</director>
-      <actor role="Tris Prior">Shailene Woodley</actor>
-      <actor role="Four">Theo James</actor>
-      <actor role="Jeanine Matthews">Kate Winslet</actor>
-      <actor role="Caleb">Ansel Elgort</actor>
-      <actor role="Marcus">Ray Stevenson</actor>
-      <actor role="Peter">Miles Teller</actor>
-      <actor role="Christina">Zoë Kravitz</actor>
-      <actor role="Al">Christian Madsen</actor>
-      <writer>Veronica  Roth</writer>
-      <producer>Joel Mendias</producer>
-      <composer>Junkie XL</composer>
-    </credits>
-    <date>2014</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Action &amp; Adventure</category>
-    <category lang="en">Science Fiction</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/11591/011591/011591_960x720_950344_050.jpg" />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221002183500 +0000" stop="20221002194100 +0000" channel="HBO 2!">
-    <title lang="en">House of the Dragon</title>
-    <sub-title lang="en">The Heirs of the Dragon</sub-title>
-    <desc lang="en">Learn the Targaryens' story. (repeat).(n)</desc>
-    <credits>
-      <actor role="King Viserys Targaryen">Paddy Considine</actor>
-      <actor role="Princess Rhaenyra Targaryen">Emma D'Arcy</actor>
-      <actor role="Prince Daemon Targaryen">Matt Smith</actor>
-      <actor role="Lady Alicent Hightower">Olivia Cooke</actor>
-      <actor role="Ser Otto Hightower">Rhys Ifans</actor>
-      <actor role="Mysaria">Sonoya Mizuno</actor>
-      <actor role="Lord Corlys Velaryon">Steve Toussaint</actor>
-      <actor role="Princess Rhaenys Velaryon">Eve Best</actor>
-      <producer>Miguel Sapochnik</producer>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13614/013614/013614_1030x773_637939460741896981.jpg" />
-    <episode-num system="onscreen">S1</episode-num>
-    <episode-num system="onscreen">1 E1</episode-num>
-    <rating system="MPAA">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20221002194100 +0000" stop="20221002203500 +0000" channel="HBO 2!">
-    <title lang="en">House of the Dragon</title>
-    <sub-title lang="en">The Rogue Prince</sub-title>
-    <desc lang="en">Princess Rhaenyra looks deeper into the prophecies surrounding the House of Targaryen. (repeat).(n)</desc>
-    <credits>
-      <actor role="King Viserys Targaryen">Paddy Considine</actor>
-      <actor role="Princess Rhaenyra Targaryen">Emma D'Arcy</actor>
-      <actor role="Prince Daemon Targaryen">Matt Smith</actor>
-      <actor role="Lady Alicent Hightower">Olivia Cooke</actor>
-      <actor role="Ser Otto Hightower">Rhys Ifans</actor>
-      <actor role="Mysaria">Sonoya Mizuno</actor>
-      <actor role="Lord Corlys Velaryon">Steve Toussaint</actor>
-      <actor role="Princess Rhaenys Velaryon">Eve Best</actor>
-      <producer>Miguel Sapochnik</producer>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13614/013614/013614_1030x773_637939460741896981.jpg" />
-    <episode-num system="onscreen">S1</episode-num>
-    <episode-num system="onscreen">1 E2</episode-num>
-    <rating system="MPAA">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20221002203500 +0000" stop="20221002213900 +0000" channel="HBO 2!">
-    <title lang="en">House Of The Dragon</title>
-    <sub-title lang="en">Second of His Name</sub-title>
-    <desc lang="en">Daemon and the Sea Snake take on the Crabfeeder; the realm celebrates Aegon's second nameday and Rhaenyra struggles with the prospect of marriage. (repeat).(n)</desc>
-    <credits>
-      <actor role="King Viserys Targaryen">Paddy Considine</actor>
-      <actor role="Princess Rhaenyra Targaryen">Emma D'Arcy</actor>
-      <actor role="Prince Daemon Targaryen">Matt Smith</actor>
-      <actor role="Lady Alicent Hightower">Olivia Cooke</actor>
-      <actor role="Ser Otto Hightower">Rhys Ifans</actor>
-      <actor role="Mysaria">Sonoya Mizuno</actor>
-      <actor role="Lord Corlys Velaryon">Steve Toussaint</actor>
-      <actor role="Princess Rhaenys Velaryon">Eve Best</actor>
-      <producer>Miguel Sapochnik</producer>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13614/013614/013614_1030x773_637939460741896981.jpg" />
-    <episode-num system="onscreen">S1</episode-num>
-    <episode-num system="onscreen">1 E3</episode-num>
-    <rating system="MPAA">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20221002213900 +0000" stop="20221002224200 +0000" channel="HBO 2!">
-    <title lang="en">House Of The Dragon</title>
-    <sub-title lang="en">King of the Narrow Sea</sub-title>
-    <desc lang="en">After the successful completion of the battle, Daemon returns to court. (repeat).(n)</desc>
-    <credits>
-      <actor role="King Viserys Targaryen">Paddy Considine</actor>
-      <actor role="Princess Rhaenyra Targaryen">Emma D'Arcy</actor>
-      <actor role="Prince Daemon Targaryen">Matt Smith</actor>
-      <actor role="Lady Alicent Hightower">Olivia Cooke</actor>
-      <actor role="Ser Otto Hightower">Rhys Ifans</actor>
-      <actor role="Mysaria">Sonoya Mizuno</actor>
-      <actor role="Lord Corlys Velaryon">Steve Toussaint</actor>
-      <actor role="Princess Rhaenys Velaryon">Eve Best</actor>
-      <producer>Miguel Sapochnik</producer>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13614/013614/013614_1030x773_637939460741896981.jpg" />
-    <episode-num system="onscreen">S1</episode-num>
-    <episode-num system="onscreen">1 E4</episode-num>
-    <rating system="MPAA">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20221002224200 +0000" stop="20221002234500 +0000" channel="HBO 2!">
-    <title lang="en">House of the Dragon</title>
-    <sub-title lang="en">We Light the Way</sub-title>
-    <desc lang="en">Viserys and Rhaenyra broker agreements with the Velaryons. (repeat).(n)</desc>
-    <credits>
-      <actor role="King Viserys Targaryen">Paddy Considine</actor>
-      <actor role="Princess Rhaenyra Targaryen">Emma D'Arcy</actor>
-      <actor role="Prince Daemon Targaryen">Matt Smith</actor>
-      <actor role="Lady Alicent Hightower">Olivia Cooke</actor>
-      <actor role="Ser Otto Hightower">Rhys Ifans</actor>
-      <actor role="Mysaria">Sonoya Mizuno</actor>
-      <actor role="Lord Corlys Velaryon">Steve Toussaint</actor>
-      <actor role="Princess Rhaenys Velaryon">Eve Best</actor>
-      <producer>Miguel Sapochnik</producer>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13614/013614/013614_1030x773_637939460741896981.jpg" />
-    <episode-num system="onscreen">S1</episode-num>
-    <episode-num system="onscreen">1 E5</episode-num>
-    <rating system="MPAA">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20221002234500 +0000" stop="20221003014000 +0000" channel="HBO 2!">
-    <title lang="en">What to Expect When You're Expecting</title>
-    <desc lang="en">In this poignant and hilarious comedy-drama, a fitness guru, an infant-advice author, a photographer, a trophy wife and a food-truck owner contend with the complications of pregnancy as their partners strive to provide support and become good parents. (repeat).(n)</desc>
-    <credits>
-      <director>Kirk Jones</director>
-      <actor role="Jules">Cameron Diaz</actor>
-      <actor role="Evan">Matthew J. Morrison</actor>
-      <actor role="Holly">Jennifer Lopez</actor>
-      <actor role="Wendy">Elizabeth Banks</actor>
-      <actor role="Rosie">Anna Kendrick</actor>
-      <actor role="Skyler">Brooklyn Decker</actor>
-      <actor role="Ramsey">Dennis Quaid</actor>
-      <actor role="Marco">Chace Crawford</actor>
-      <writer>Shauna Cross</writer>
-      <producer>Arnie Messer</producer>
-      <composer>Mark Mothersbaugh</composer>
-    </credits>
-    <date>2012</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Comedy</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/7732/007732/007732_903x508_986985_013.jpg" />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221003014000 +0000" stop="20221003031500 +0000" channel="HBO 2!">
-    <title lang="en">The Stepford Wives</title>
-    <desc lang="en">Frank Oz's remake of the 1975 thriller is a pointed black comedy with a sublime A-list cast. Nicole Kidman stars as a former TV exec who suspects something is amiss when all of her new neighbors seem programmed to please their husbands. Matthew Broderick costars as her Milquetoast husband. Bette Midler, Faith Hill, Glenn Close, Christopher Walken, Jon Lovitz. (repeat).(n)</desc>
-    <credits>
-      <director>Frank Oz</director>
-      <director>Bryan Forbes</director>
-      <actor role="Joanna Eberhard">Nicole Kidman</actor>
-      <actor role="Walter Kresby">Matthew Broderick</actor>
-      <actor role="Bobbie Markowitz">Bette Midler</actor>
-      <actor role="Claire Wellington">Glenn Close</actor>
-      <actor role="Mike Wellington">Christopher Walken</actor>
-      <actor role="Roger Bannister">Roger Bart</actor>
-      <actor role="Jerry Harmon">David Marshall Grant</actor>
-      <actor role="Dave Markowitz">Jon Lovitz</actor>
-      <writer>Paul Rudnick</writer>
-      <producer>Keri Selig</producer>
-      <composer>David Arnold</composer>
-    </credits>
-    <date>2004</date>
-    <category lang="en">Comedy</category>
-    <category lang="en">Suspense</category>
-    <category lang="en">Science Fiction</category>
-    <icon src="https://content.internetvideoarchive.com/content/photos/706/710232_067.jpg" />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221003031500 +0000" stop="20221003051500 +0000" channel="HBO 2!">
-    <title lang="en">Wicker Park</title>
-    <desc lang="en">Nothing is as it appears in this suspenseful and stylized thriller starring Josh Hartnett ("Black Hawk Down"). The intricate plot employs flashbacks and shifting perspectives as it tells the story of a man's obsessive search for his missing lover. Paul McGuigan directed. Rose Byrne, Matthew Lillard, Diane Kruger. (repeat).(n)</desc>
-    <credits>
-      <director>Paul McGuigan</director>
-      <actor role="Matthew">Josh Hartnett</actor>
-      <actor role="Alex">Rose Byrne</actor>
-      <actor role="Luke">Matthew Lillard</actor>
-      <actor role="Lisa">Diane Kruger</actor>
-      <actor role="Daniel">Christopher Cousins</actor>
-      <actor role="Rebecca">Jessica Pare</actor>
-      <actor role="Jeweller">Vlasta Vrana</actor>
-      <actor role="Ellie">Amy Sobol</actor>
-      <writer>Brandon Boyce</writer>
-      <producer>Georges Benayoun</producer>
-      <composer>Cliff Martinez</composer>
-    </credits>
-    <date>2004</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Suspense</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/738/000738/000738_447x335_412197_003.jpg" />
-  </programme>
-  <programme start="20221003051500 +0000" stop="20221003065000 +0000" channel="HBO 2!">
-    <title lang="en">Young Adult</title>
-    <desc lang="en">An author bonds with a former high-school classmate when she returns to her hometown in hopes of reliving her glory days. (repeat).(n)</desc>
-    <credits>
-      <director>Jason Reitman</director>
-      <producer>Jason Reitman</producer>
-      <composer>Rolfe Kent</composer>
-    </credits>
-    <date>2011</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Comedy</category>
-    <icon src="https://content.internetvideoarchive.com/content/photos/7517/967168_014.jpg" />
-  </programme>
-  <programme start="20221003065000 +0000" stop="20221003084500 +0000" channel="HBO 2!">
-    <title lang="en">A Private War</title>
-    <desc lang="en">A look at the life of wartime journalist Marie Colvin, who died covering the Syrian civil war. Colvin relies on her boldness and ingenuity to chase down dangerous but vital stories while combatting her personal demons. (repeat).(n)</desc>
-    <credits>
-      <director>Matthew Heineman</director>
-      <actor role="Marie Colvin">Rosamund Pike</actor>
-      <actor role="Paul Conroy">Jamie Dornan</actor>
-      <actor role="Tony Shaw">Stanley Tucci</actor>
-      <actor role="Sean Ryan">Tom Hollander</actor>
-      <actor role="Kate Richardson">Faye Marsay</actor>
-      <actor role="Bird-Rita Williams">Nikki Amuka-Bird</actor>
-      <actor role="Norm Coburn">Corey Johnson</actor>
-      <actor role="Zoe">Alexandra Moen</actor>
-      <writer>Arash Amel</writer>
-      <producer>Charlize Theron</producer>
-      <composer>H. Scott Salinas</composer>
-    </credits>
+  <programme start="20221001165100 +0000" stop="20221001185100 +0000" channel="HBO 2!">
+    <title lang="en">Megalodon</title>
+    <desc lang="en">Un barco militar se enfrenta cara a cara con un tiburón gigante mientras se encuentran en la búsqueda de un sumergible no identificado. Debido a esto, los tripulantes del barco deberán utilizar todo lo que tienen a bordo para defenderse de esta monstruosa bestia del mar.(n)</desc>
     <date>2018</date>
-    <category lang="en">Drama</category>
-    <icon src="https://content.internetvideoarchive.com/content/photos/11939/164175_179.jpg" />
-  </programme>
-  <programme start="20221003084500 +0000" stop="20221003102500 +0000" channel="HBO 2!">
-    <title lang="en">Wild Hogs</title>
-    <desc lang="en">Four suburbanites in the midst of mid-life crises take a motorcycle road trip. (repeat).(n)</desc>
-    <credits>
-      <director>Walter Becker</director>
-      <director>Walt Becker</director>
-      <actor role="Doug Madsen">Tim Allen</actor>
-      <actor role="Woody Stevens">John Travolta</actor>
-      <actor role="Bobby Davis">Martin Lawrence</actor>
-      <actor role="Dudley Frank">William H. Macy</actor>
-      <actor role="Jack">Ray Liotta</actor>
-      <actor role="Maggie">Marisa Tomei</actor>
-      <actor role="Kelly Madsen">Jill Hennessy</actor>
-      <actor role="Murdock">M.C. Gainey</actor>
-      <writer>Brad Copeland</writer>
-      <producer>Sharla Sumpter</producer>
-      <composer>Teddy Castellucci</composer>
-    </credits>
-    <date>2007</date>
-    <category lang="en">Comedy</category>
-    <category lang="en">Action &amp; Adventure</category>
     <rating system="MPAA">
-      <value>TV-14</value>
+      <value>13</value>
     </rating>
   </programme>
-  <programme start="20221003102500 +0000" stop="20221003120500 +0000" channel="HBO 2!">
-    <title lang="en">Baggage Claim</title>
-    <desc lang="en">In this high-flying romantic comedy, a desperate flight attendant seeks Mr. Right in order to get engaged before her younger sister's upcoming wedding, taking her on a trek around the globe to woo a potential suitor. (repeat).(n)</desc>
-    <credits>
-      <director>David E. Talbert</director>
-      <actor role="Montana Moore">Paula Patton</actor>
-      <producer>David E. Talbert</producer>
-      <composer>Aaron Zigman</composer>
-    </credits>
-    <date>2013</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Comedy</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/10371/010371/010371_960x720_135191_166.jpg" />
+  <programme start="20221001185100 +0000" stop="20221001205100 +0000" channel="HBO 2!">
+    <title lang="en">Terremoto: La falla de San Andrés</title>
+    <desc lang="en">Raymond Gaines fue piloto de helicópteros en Afganistán y hoy es piloto de rescate para el Departamento de Bomberos de Los Ángeles. Está en pleno divorcio de su mujer Emma y su hija Blake está por empezar la universidad en San Francisco.(n)</desc>
+    <date>2015</date>
     <rating system="MPAA">
-      <value>TV-14</value>
+      <value>13</value>
     </rating>
   </programme>
-  <programme start="20221003120500 +0000" stop="20221003130500 +0000" channel="HBO 2!">
-    <title lang="en">Real Sports With Bryant Gumbel</title>
-    <sub-title lang="en">Real Sports With Bryant Gumbel Xxxx22 - #305</sub-title>
-    <desc lang="en">An award-winning monthly sports journalism series with investigative pieces and in-depth profiles from across the sports spectrum. (repeat).(n)</desc>
-    <credits>
-      <producer>Rick Bernstein</producer>
-      <presenter>Bryant Gumbel</presenter>
-    </credits>
+  <programme start="20221001205100 +0000" stop="20221001225100 +0000" channel="HBO 2!">
+    <title lang="en">Uncharted: fuera del mapa</title>
+    <desc lang="en">Un descendiente del explorador Sir Francis Drake descubre la ubicación de una legendaria ciudad.(n)</desc>
     <date>2022</date>
-    <category lang="en">Sports</category>
-    <icon src="https://content.internetvideoarchive.com/content/photos/8528/57324_009.jpg" />
-    <episode-num system="onscreen">S28 E9</episode-num>
     <rating system="MPAA">
-      <value>TV-PG</value>
+      <value>13</value>
     </rating>
   </programme>
-  <programme start="20221003130500 +0000" stop="20221003144000 +0000" channel="HBO 2!">
-    <title lang="en">One for the Money</title>
-    <desc lang="en">This delightful comedy follows the recently divorced Stephanie Plum (Katherine Heigl), who, desperate for a job, discovers a knack for detective work during a stint at her cousin's bail-bond business, where she takes on the case of a New Jersey cop who happens to be the same man who once broke her heart in high school. (repeat).(n)</desc>
-    <credits>
-      <director>Julie Ann Robinson</director>
-      <director>Wendy Finerman</director>
-      <actor role="Carmen's Neighbor">David Early</actor>
-      <writer>Stacy Sherman</writer>
-      <producer>Tom Rosenberg</producer>
-      <composer>Deborah Lurie</composer>
-    </credits>
-    <date>2012</date>
-    <category lang="en">Comedy</category>
-    <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/6877/006877/006877_267x200_690230_017.jpg" />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221003144000 +0000" stop="20221003161000 +0000" channel="HBO 2!">
-    <title lang="en">The New Guy</title>
-    <desc lang="en">DJ Qualls ("Road Trip") stars in this sweet-natured high-school comedy as a bona fide loser who seems destined to be a target for bullies and anathema to girls. But on the advice of a convict, he changes his identity and location, and his newfound popularity and unabashed school spirit make him a candidate for Big Man on Campus. Eliza Dushku, Eddie Griffin, Lyle Lovett, Zooey Deschanel. (repeat).(n)</desc>
-    <credits>
-      <director>Edward Decter</director>
-      <director>Ed Decter</director>
-      <actor role="Dizzy Harrison/Gil Harris">DJ Qualls</actor>
-      <actor role="Danielle">Eliza Dushku</actor>
-      <actor role="Nora">Zooey Deschanel</actor>
-      <actor role="Kirk">Jerod Mixon</actor>
-      <actor role="Glen">Parry Shen</actor>
-      <actor role="Luther">Eddie Griffin</actor>
-      <actor role="Bear Harrison">Lyle Lovett</actor>
-      <actor role="Courtney">Sunny Mabrey</actor>
-      <writer>David Kendall</writer>
-      <producer>Edward Decter</producer>
-      <composer>Ralph Sall</composer>
-    </credits>
-    <date>2002</date>
-    <category lang="en">Comedy</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/498/000498/000498_704x396_960668_008.jpg" />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221003161000 +0000" stop="20221003180500 +0000" channel="HBO 2!">
-    <title lang="en">Wicker Park</title>
-    <desc lang="en">Nothing is as it appears in this suspenseful and stylized thriller starring Josh Hartnett ("Black Hawk Down"). The intricate plot employs flashbacks and shifting perspectives as it tells the story of a man's obsessive search for his missing lover. Paul McGuigan directed. Rose Byrne, Matthew Lillard, Diane Kruger. (repeat).(n)</desc>
-    <credits>
-      <director>Paul McGuigan</director>
-      <actor role="Matthew">Josh Hartnett</actor>
-      <actor role="Alex">Rose Byrne</actor>
-      <actor role="Luke">Matthew Lillard</actor>
-      <actor role="Lisa">Diane Kruger</actor>
-      <actor role="Daniel">Christopher Cousins</actor>
-      <actor role="Rebecca">Jessica Pare</actor>
-      <actor role="Jeweller">Vlasta Vrana</actor>
-      <actor role="Ellie">Amy Sobol</actor>
-      <writer>Brandon Boyce</writer>
-      <producer>Georges Benayoun</producer>
-      <composer>Cliff Martinez</composer>
-    </credits>
-    <date>2004</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Suspense</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/738/000738/000738_447x335_412197_003.jpg" />
-  </programme>
-  <programme start="20221003180500 +0000" stop="20221003195000 +0000" channel="HBO 2!">
-    <title lang="en">The Day the Earth Stood Still</title>
-    <desc lang="en">An alien from another planet, accompanied by a giant robot, lands on Earth to eradicate the human race because of environmental damage inflicted by mankind on the planet. Keanu Reeves stars in this spectacular update of the 1951 sci-fi classic. Jennifer Connelly, Jaden Smith, Kathy Bates, Jon Hamm. Directed by Scott Derrickson. (repeat).(n)</desc>
-    <credits>
-      <director>Scott Derrickson</director>
-      <actor role="Klaatu">Keanu Reeves</actor>
-      <actor role="Helen Benson">Jennifer Connelly</actor>
-      <actor role="Jacob">Jaden Smith</actor>
-      <actor role="Regina">Kathy Bates</actor>
-      <actor role="Dr. Granier">Jon Hamm</actor>
-      <actor role="Prof. Barnhardt">John Cleese</actor>
-      <actor role="John Driscoll">Kyle Chandler</actor>
-      <actor role="Colonel">Robert Knepper</actor>
-      <writer>David Scarpa</writer>
-      <producer>Paul Harris Boardman</producer>
-      <composer>Tyler Bates</composer>
-    </credits>
-    <date>2008</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Suspense</category>
-    <category lang="en">Science Fiction</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/1424/001424/001424_1280x720_517677_043.jpg" />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20221003195000 +0000" stop="20221003215500 +0000" channel="HBO 2!">
-    <title lang="en">Bringing Out the Dead</title>
-    <desc lang="en">Martin Scorsese directed this edgy and powerful film, which recalls the spirit of his 1976 masterpiece "Taxi Driver." Nicolas Cage stars as a paramedic on the brink of madness working amid the dead and dying in New York City's Hell's Kitchen in the early 1990s. Patricia Arquette, John Goodman, Ving Rhames, Marc Anthony, Tom Sizemore. (repeat).(n)</desc>
-    <credits>
-      <director>Martin Scorsese</director>
-      <actor role="Frank">Nicolas Cage</actor>
-      <actor role="Mary">Patricia Arquette</actor>
-      <actor role="Larry">John Goodman</actor>
-      <actor role="Marcus">Ving Rhames</actor>
-      <actor role="Noel">Marc Anthony</actor>
-      <actor role="Tom">Tom Sizemore</actor>
-      <actor role="Nurse Constance">Mary Beth Hurt</actor>
-      <actor role="Cy Coates">Cliff Curtis</actor>
-      <writer>Paul Schrader</writer>
-      <producer>Barbara De Fina</producer>
-      <composer>Elmer Bernstein</composer>
-    </credits>
-    <date>1999</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Suspense</category>
-    <icon src="https://content.internetvideoarchive.com/content/photos/335/014078_19.jpg" />
-  </programme>
-  <programme start="20221003215500 +0000" stop="20221003221000 +0000" channel="HBO 2!">
-    <title lang="en">Hbo First Look: See How They Run</title>
-    <desc lang="en">An inside look at this comedy-mystery featuring a stellar ensemble cast, including Sam Rockwell, Saoirse Ronan, Adrien Brody, and others. (repeat).(n)</desc>
+  <programme start="20221001225100 +0000" stop="20221002010100 +0000" channel="HBO 2!">
+    <title lang="en">El milagro del Padre Stu</title>
+    <desc lang="en">Sigue la vida del padre Stuart Long, un boxeador que acabó convirtiéndose en sacerdote.(n)</desc>
     <date>2022</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Comedy</category>
+    <rating system="MPAA">
+      <value>16</value>
+    </rating>
   </programme>
-  <programme start="20221003221000 +0000" stop="20221004000000 +0000" channel="HBO 2!">
-    <title lang="en">Old</title>
-    <desc lang="en">Existential shock and horror ensue when a family embarks on a tropical holiday at a secluded beach — only to discover that a mysterious force is causing them to accelerate the aging process. They struggle to cope with the compression of their remaining lifespan into a single day. (repeat).(n)</desc>
-    <credits>
-      <director>M. Night Shyamalan</director>
-      <director>Rufus Sewell</director>
-      <actor role="Guy">Gael García Bernal</actor>
-      <actor role="Maddox Aged 16">Thomasin McKenzie</actor>
-      <actor role="Prisca">Vicky Krieps</actor>
-      <actor role="Charles">Rufus Sewell</actor>
-      <actor role="Trent Aged 15">Alex Wolff</actor>
-      <actor role="Chrystal">Abbey Lee</actor>
-      <actor role="Patricia">Nikki Amuka-Bird</actor>
-      <writer>M. Night Shyamalan</writer>
-      <producer>Steven Schneider</producer>
-      <composer>Trevor Gureckis</composer>
-    </credits>
+  <programme start="20221002010100 +0000" stop="20221002024600 +0000" channel="HBO 2!">
+    <title lang="en">Morbius</title>
+    <desc lang="en">Morbius intenta curarse de una enfermedad sanguínea pero se infecta con un tipo de vampirismo.(n)</desc>
+    <date>2022</date>
+    <rating system="MPAA">
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20221002024600 +0000" stop="20221002043100 +0000" channel="HBO 2!">
+    <title lang="en">Venom: Carnage liberado</title>
+    <desc lang="en">Eddie Brock intenta relanzar su carrera entrevistando al asesino en serie Cletus Kasady, que se convierte en el huésped del simbionte Carnage y escapa de la cárcel tras una ejecución fallida.(n)</desc>
     <date>2021</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13469/013469/013469_742x557_637612838436362842.jpg" />
+    <rating system="MPAA">
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20221002043100 +0000" stop="20221002061100 +0000" channel="HBO 2!">
+    <title lang="en">No respires 2</title>
+    <desc lang="en">Norman se ha estado escondiendo durante varios años en una cabaña aislada. Vive con una jovencita y ha recreado la familia que le fue robada por un conductor ebrio. Su tranquila vida se hace añicos cuando un grupo de criminales secuestra a la chica.(n)</desc>
+    <date>2021</date>
+    <rating system="MPAA">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20221002061100 +0000" stop="20221002090100 +0000" channel="HBO 2!">
+    <title lang="en">Django sin cadenas</title>
+    <desc lang="en">Escrita y dirigida por Quentin Tarantino y con un reparto galardonado, Jamie Foxx es Django, un esclavo que, bajo la promesa de ganarse su libertad, se une al Dr. King Schultz (Christoph Waltz), un cazarrecompensas, para capturar a los criminales más buscados del Sur.(n)</desc>
+    <date>2012</date>
+    <rating system="MPAA">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20221002090100 +0000" stop="20221002110100 +0000" channel="HBO 2!">
+    <title lang="en">Hermosa venganza</title>
+    <desc lang="en">Una joven mujer traumatizada busca venganza contra los hombres que se cruzan en su camino.(n)</desc>
+    <date>2020</date>
+    <rating system="MPAA">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20221002110100 +0000" stop="20221002130600 +0000" channel="HBO 2!">
+    <title lang="en">La cumbre escarlata</title>
+    <desc lang="en">Una escritora es incapaz de elegir entre el amor de su amigo de la infancia o el de un misterioso desconocido. En un intento por escapar de los fantasmas del pasado, se encuentra de pronto en una casa que respira, sangra... y recuerda.(n)</desc>
+    <date>2015</date>
+    <rating system="MPAA">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20221002130600 +0000" stop="20221002151100 +0000" channel="HBO 2!">
+    <title lang="en">El misterio de Soho</title>
+    <desc lang="en">Una joven amante de la moda viaja en el tiempo y termina en Londres en la década de 1960. Allí conoce a su gran ídolo, una cantante. Sin embargo, tiene que descubrir que la vida en ese momento en el Soho es diferente de lo que ella esperaba.(n)</desc>
+    <date>2021</date>
+    <rating system="MPAA">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20221002151100 +0000" stop="20221002174100 +0000" channel="HBO 2!">
+    <title lang="en">Rápidos y furiosos 9</title>
+    <desc lang="en">La acción sobre ruedas espera su ansiado retorno con más adrenalina y más velocidad que nunca. El equipo de Dominic y Brian deberá enfrentar nuevos desafíos, y para eso contarán con sus poderosos autos, en los que depositan toda su confianza. La mejor acción cobrará vida nuevamente y estos intrépidos hombres bólidos seguro sorprenderán otra vez sorteando todo tipo de peligros.(n)</desc>
+    <date>2021</date>
+    <rating system="MPAA">
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20221002174100 +0000" stop="20221002200100 +0000" channel="HBO 2!">
+    <title lang="en">El escuadrón suicida</title>
+    <desc lang="en">El gobierno envía a los supervillanos más peligrosos del mundo a la remota isla de Corto Maltés,.(n)</desc>
+    <date>2021</date>
+    <rating system="MPAA">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20221002200100 +0000" stop="20221002210100 +0000" channel="HBO 2!">
+    <title lang="en">El valle olvidado</title>
+    <desc lang="en">Invitados por Ana, un grupo de jóvenes se aventura en un sendero,.(n)</desc>
+    <date>2022</date>
+    <rating system="MPAA">
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20221002210100 +0000" stop="20221002230100 +0000" channel="HBO 2!">
+    <title lang="en">Sing 2</title>
+    <desc lang="en">Buster Moon y sus amigos deben persuadir a la solitaria estrella de rock Clay Calloway para que se una a ellos en la apertura de un nuevo espectáculo.(n)</desc>
+    <date>2022</date>
+    <rating system="MPAA">
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20221002230100 +0000" stop="20221003010200 +0000" channel="HBO 2!">
+    <title lang="en">Marry Me</title>
+    <desc lang="en">Una estrella del pop desconsolada se casa espontáneamente con un extraño de la audiencia.(n)</desc>
+    <date>2022</date>
+    <rating system="MPAA">
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20221003010200 +0000" stop="20221003020600 +0000" channel="HBO 2!">
+    <title lang="en">La casa del dragón</title>
+    <sub-title lang="en">Episodio 07</sub-title>
+    <date>2022</date>
+    <rating system="MPAA">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20221003020600 +0000" stop="20221003043600 +0000" channel="HBO 2!">
+    <title lang="en">Rápidos y furiosos 9</title>
+    <desc lang="en">La acción sobre ruedas espera su ansiado retorno con más adrenalina y más velocidad que nunca. El equipo de Dominic y Brian deberá enfrentar nuevos desafíos, y para eso contarán con sus poderosos autos, en los que depositan toda su confianza. La mejor acción cobrará vida nuevamente y estos intrépidos hombres bólidos seguro sorprenderán otra vez sorteando todo tipo de peligros.(n)</desc>
+    <date>2021</date>
+    <rating system="MPAA">
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20221003043600 +0000" stop="20221003064100 +0000" channel="HBO 2!">
+    <title lang="en">Loco y estúpido amor</title>
+    <desc lang="en">Cal, un hombre divorciado, comienza a tener facilidad para conquistar a las mujeres tras formar una amistad con Jacob, un hombre mujeriego, y al mismo tiempo entiende cómo arruinó su matrimonio. Entretanto, contra su propia voluntad, Jacob se enamora de una mujer y necesita la ayuda de Cal para aprender a ser fiel.(n)</desc>
+    <date>2011</date>
+    <rating system="MPAA">
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20221003064100 +0000" stop="20221003090000 +0000" channel="HBO 2!">
+    <title lang="en">La isla</title>
+    <desc lang="en">Ewan McGregor y Scarlett Johansson son un dúo dinámico en esta explosiva producción de ciencia ficción en la que son una pareja clonada que intenta escapar de sus captores cuando descubren que la "isla" está habitada realmente por clones.(n)</desc>
+    <date>2005</date>
+    <rating system="MPAA">
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20221003090000 +0000" stop="20221003105500 +0000" channel="HBO 2!">
+    <title lang="en">Contrabando</title>
+    <desc lang="en">Chris Faraday es un extraficante legendario que decidió abandonar su vida de delincuencia. Pero cuando el hermano de su esposa fracasa en una transacción de drogas para su jefe despiadado, Chris organiza un último trabajo para pagar la deuda.(n)</desc>
+    <date>2012</date>
+    <rating system="MPAA">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20221003105500 +0000" stop="20221003131500 +0000" channel="HBO 2!">
+    <title lang="en">El vengador del futuro</title>
+    <desc lang="en">La compañía Rekall ofrece convertir a los sueños en recuerdos reales. Douglas Quaid se siente frustrado y decide probar los servicios de Rekall. Para escapar de su vida mundana quiere tener recuerdos de una vida de espionaje. Pero la operación no funciona y Douglas se queda atrapado dentro de su propia mente, y es perseguido por la policía.(n)</desc>
+    <date>2012</date>
+    <rating system="MPAA">
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20221003131500 +0000" stop="20221003151500 +0000" channel="HBO 2!">
+    <title lang="en">Megalodon</title>
+    <desc lang="en">Un barco militar se enfrenta cara a cara con un tiburón gigante mientras se encuentran en la búsqueda de un sumergible no identificado. Debido a esto, los tripulantes del barco deberán utilizar todo lo que tienen a bordo para defenderse de esta monstruosa bestia del mar.(n)</desc>
+    <date>2018</date>
+    <rating system="MPAA">
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20221003151500 +0000" stop="20221003171500 +0000" channel="HBO 2!">
+    <title lang="en">The Nice Guys</title>
+    <desc lang="en">Los Ángeles, años 70. Un patoso agente privado y un asesino a sueldo tratan de encontrar a una mujer desaparecida relacionada con la industria del porno. Con el tiempo, los detectives descubren una conspiración de largo alcance que implica una trama de corrupción con el gobierno federal.(n)</desc>
+    <date>2016</date>
+    <rating system="MPAA">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20221003171500 +0000" stop="20221003201500 +0000" channel="HBO 2!">
+    <title lang="en">The Batman</title>
+    <desc lang="en">Después de dos años acechando por las calles de la ciudad como Batman e infundiendo miedo en las mentes perversas de los criminales, Bruce Wayne está sumido en las profundidades de las sombras de Gotham City. Este vigilante solitario cuenta con pocos aliados de confianza y eso le ha llevado a convertirse en la única encarnación de la venganza entre sus conciudadanos.(n)</desc>
+    <date>2022</date>
+    <rating system="MPAA">
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20221003201500 +0000" stop="20221003221500 +0000" channel="HBO 2!">
+    <title lang="en">Reminiscencia</title>
+    <desc lang="en">Un investigador privado que se dedica a explorar la mente, navega por el oscuro y seductor mundo del pasado para ayudar a sus clientes a recuperar recuerdos perdidos.(n)</desc>
+    <date>2021</date>
+    <rating system="MPAA">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20221003221500 +0000" stop="20221004000000 +0000" channel="HBO 2!">
+    <title lang="en">Those Who Wish Me Dead</title>
+    <desc lang="en">Una bombero paracaidista (Angelina Jolie) y un nino de 12 anos luchan por sus vidas mientras huyen de dos asesinos que los persiguen por el bosque. Angelina Jolie, Nicholas Hoult.(n)</desc>
+    <date>2021</date>
+    <rating system="MPAA">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20221004000000 +0000" stop="20221004010000 +0000" channel="HBO 2!">
-    <title lang="en">House Of The Dragon</title>
-    <sub-title lang="en">Driftmark</sub-title>
-    <desc lang="en">HBO presents House of the Dragon, an original series based on George R.R. (repeat).(n)</desc>
-    <credits>
-      <actor role="King Viserys Targaryen">Paddy Considine</actor>
-      <actor role="Princess Rhaenyra Targaryen">Emma D'Arcy</actor>
-      <actor role="Prince Daemon Targaryen">Matt Smith</actor>
-      <actor role="Lady Alicent Hightower">Olivia Cooke</actor>
-      <actor role="Ser Otto Hightower">Rhys Ifans</actor>
-      <actor role="Mysaria">Sonoya Mizuno</actor>
-      <actor role="Lord Corlys Velaryon">Steve Toussaint</actor>
-      <actor role="Princess Rhaenys Velaryon">Eve Best</actor>
-      <producer>Miguel Sapochnik</producer>
-    </credits>
+    <title lang="en">La casa del dragón</title>
+    <sub-title lang="en">Episodio 07</sub-title>
     <date>2022</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13614/013614/013614_1030x773_637939460741896981.jpg" />
-    <episode-num system="onscreen">S1</episode-num>
-    <episode-num system="onscreen">1 E7</episode-num>
     <rating system="MPAA">
-      <value>TV-MA</value>
+      <value>18</value>
     </rating>
   </programme>
   <programme start="20221004010000 +0000" stop="20221004031000 +0000" channel="HBO 2!">
-    <title lang="en">The Wolverine</title>
-    <desc lang="en">Still mourning the death of Jean Grey, Wolverine travels to Japan after an old friend tells him that he can remove his immortality, but he soon gets caught up in a conspiracy involving the yakuza in this action-packed and explosive comic-book adventure. (repeat).(n)</desc>
-    <credits>
-      <director>James Mangold</director>
-      <actor role="Logan/Wolverine">Hugh Jackman</actor>
-      <writer>Christopher McQuarrie</writer>
-      <producer>Joe Caracciolo, Jr.</producer>
-      <composer>Marco Beltrami</composer>
-    </credits>
-    <date>2013</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Action &amp; Adventure</category>
-    <category lang="en">Science Fiction</category>
-    <icon src="https://content.internetvideoarchive.com/content/photos/6994/363371_042.jpg" />
+    <title lang="en">Jurassic World Mundo Jurásico (new)</title>
+    <desc lang="en">Un conjunto hotelero basado en el Parque Jurásico atrae a miles de visitantes cada año, así como lo imaginó John Hammond. Sin embargo, tras una mala participación que se lleva a cabo al revitalizar el Parque Jurásico, una vez más los intentos de la humanidad de interferir con la naturaleza traerán resultados siniestros.(n)</desc>
+    <date>2015</date>
+    <premiere />
     <rating system="MPAA">
-      <value>TV-14</value>
+      <value>13</value>
     </rating>
   </programme>
-  <programme start="20221004031000 +0000" stop="20221004034000 +0000" channel="HBO 2!">
-    <title lang="en">Los Espookys</title>
-    <sub-title lang="en">La Ruinas</sub-title>
-    <desc lang="en">Delighted with the success of her town's attractions,. (repeat).(n)</desc>
-    <credits>
-      <director>Fernando Frías</director>
-      <director>Fernando Frias</director>
-      <actor role="Úrsula">Cassandra Ciangherotti</actor>
-      <actor role="Tati">Ana Fabrega</actor>
-      <actor role="Andrés">Julio Torres</actor>
-      <actor role="Juan Carlos">José Pablo Minor</actor>
-      <actor role="Tico">Fred Armisen</actor>
-      <writer>Ana Fabrega</writer>
-      <producer>Lorne Michaels</producer>
-      <composer>Emilio Acevedo</composer>
-    </credits>
+  <programme start="20221004031000 +0000" stop="20221004052000 +0000" channel="HBO 2!">
+    <title lang="en">Parque Jurásico</title>
+    <desc lang="en">El multimillonario John Hammond construye un parque temático basado en la clonación de ADN de fósiles de dinosaurios para la creación de ejemplares vivientes.(n)</desc>
+    <date>1993</date>
+    <rating system="MPAA">
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20221004052000 +0000" stop="20221004065500 +0000" channel="HBO 2!">
+    <title lang="en">Exorcismo en el séptimo día</title>
+    <desc lang="en">Un reconocido exorcista se reúne con un sacerdote novicio en su primer día de entrenamiento.(n)</desc>
+    <date>2021</date>
+    <rating system="MPAA">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20221004065500 +0000" stop="20221004090000 +0000" channel="HBO 2!">
+    <title lang="en">Día de entrenamiento</title>
+    <desc lang="en">Podría decirse que la actuación de Denzel Washington en esta impactante historia policial es su mejor (ganó un premio "Oscar"). Él hace el rol de un agente encubierto corrupto en Los Ángeles que capacita a un principiante idealista.(n)</desc>
+    <date>2001</date>
+    <rating system="MPAA">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20221004090000 +0000" stop="20221004103000 +0000" channel="HBO 2!">
+    <title lang="en">Cuidado con el guardia</title>
+    <desc lang="en">Un vigilante de un centro comercial, quien tiene problemas mentales, compite con un detective para atrapar a un exhibicionista que asedia a las mujeres en la noche. Mientras esto ocurre, él intenta entrar a la academia de policía para impresionar a una vendedora de maquillaje de la que está enamorado, pero las cosas no terminan como lo esperaba.(n)</desc>
+    <date>2009</date>
+    <rating system="MPAA">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20221004103000 +0000" stop="20221004120500 +0000" channel="HBO 2!">
+    <title lang="en">Horizonte mortal</title>
+    <desc lang="en">Una pareja que viaja en un pequeño avión para asistir a una boda en una isla tropical debe luchar por sus vidas luego de que el piloto sufre un ataque cardíaco.(n)</desc>
+    <date>2020</date>
+    <rating system="MPAA">
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20221004120500 +0000" stop="20221004135000 +0000" channel="HBO 2!">
+    <title lang="en">Venom: Let There Be Carnage</title>
+    <desc lang="en">Venom, el protector letal; uno de los personajes mas grandes y complejos de MARVEL esta de regreso.(n)</desc>
+    <date>2021</date>
+    <rating system="MPAA">
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20221004135000 +0000" stop="20221004145000 +0000" channel="HBO 2!">
+    <title lang="en">Vale dos Esquecidos</title>
+    <desc lang="en">Preocupados por el paradero de Du, los forasteros se alojan en la pensión de Irene,.(n)</desc>
     <date>2022</date>
-    <category lang="en">Horror</category>
-    <category lang="en">Comedy</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12357/012357/012357_960x720_976922_008.jpg" />
-    <episode-num system="onscreen">S2</episode-num>
-    <episode-num system="onscreen">2 E3</episode-num>
     <rating system="MPAA">
-      <value>TV-MA</value>
+      <value>ATP</value>
     </rating>
   </programme>
-  <programme start="20221004034000 +0000" stop="20221004053500 +0000" channel="HBO 2!">
-    <title lang="en">Free Guy</title>
-    <desc lang="en">Guy is a bank teller and a non-playable character in an open world video game called Free City. All is going well in his virtual world until publisher Antoine decides to insert a code developed by programmers Keys and Milly into the game. All of a sudden, he finds himself imbued with consciousness. As he grows increasingly aware of his surroundings, he is confronted with the fact that he is a background character and that he is the only person who can save their game from going offline. (repeat).(n)</desc>
-    <credits>
-      <director>Shawn Levy</director>
-      <actor role="Millie/Molotov Girl">Jodie Comer</actor>
-      <actor role="Guy">Ryan Reynolds</actor>
-      <actor role="Antoine">Taika Waititi</actor>
-      <actor role="Bombshell">Camille Kostek</actor>
-      <actor role="Dude">Aaron W Reed</actor>
-      <actor role="Dude">Aaron W. Reed</actor>
-      <actor role="Mouser">Utkarsh Ambudkar</actor>
-      <actor role="Keys">Joe Keery</actor>
-      <writer>Matt Lieberman</writer>
-      <producer>Dan Levine</producer>
-      <composer>Christophe Beck</composer>
-    </credits>
-    <date>2021</date>
-    <category lang="en">Comedy</category>
-    <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13512/013512/013512_770x578_637635441434923345.jpg" />
-  </programme>
-  <programme start="20221004053500 +0000" stop="20221004072500 +0000" channel="HBO 2!">
-    <title lang="en">Equilibrium</title>
-    <desc lang="en">In this futuristic thriller, set in a postapocalyptic world where emotions have been outlawed, a top government enforcer entrusted with seeking and destroying offenders finds his loyalty questioned when his true feelings are exposed. (repeat).(n)</desc>
-    <credits>
-      <director>Kurt Wimmer</director>
-      <director>Jan de Bont</director>
-      <actor role="John Preston">Christian Bale</actor>
-      <actor role="Mary O'Brien">Emily Watson</actor>
-      <actor role="Brandt">Taye Diggs</actor>
-      <actor role="Dupont">Angus Macfadyen</actor>
-      <actor role="Father">Sean Pertwee</actor>
-      <actor role="Jurgen">William Fichtner</actor>
-      <actor role="Partridge">Sean Bean</actor>
-      <actor role="Robbie Preston">Matthew Harbour</actor>
-      <producer>Jan de Bont</producer>
-      <composer>Klaus Badelt</composer>
-    </credits>
-    <date>2002</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Suspense</category>
-    <category lang="en">Action &amp; Adventure</category>
-    <category lang="en">Science Fiction</category>
-    <icon src="https://content.internetvideoarchive.com/content/photos/9551/885464_008.jpg" />
+  <programme start="20221004145000 +0000" stop="20221004173000 +0000" channel="HBO 2!">
+    <title lang="en">Wonder Woman 1984</title>
+    <desc lang="en">En plena Guerra Fría la Mujer Maravilla se enfrenta a Maxwell Lord y a la villana Cheetah.(n)</desc>
+    <date>2020</date>
     <rating system="MPAA">
-      <value>TV-14</value>
+      <value>13</value>
     </rating>
   </programme>
-  <programme start="20221004072500 +0000" stop="20221004090500 +0000" channel="HBO 2!">
-    <title lang="en">Those Who Wish Me Dead</title>
-    <desc lang="en">Isolated in the Montana backcountry, Hannah finds herself the target of a pair of assassins after she inadvertently witnesses their murder of a local boy. As she flees her hunters deeper into the wilderness, she encounters a new threat as a fire spreads throughout the forest. Hannah must then rely on a bushcraft expert with unexpected connections to the murdered teen if she is to come out alive. (repeat).(n)</desc>
-    <credits>
-      <director>Taylor Sheridan</director>
-      <director>Angelina Jolie</director>
-      <actor role="Hannah">Angelina Jolie</actor>
-      <actor role="Connor">Finn Little</actor>
-      <actor role="Ethan">Jon Bernthal</actor>
-      <actor role="Jack">Aidan Gillen</actor>
-      <actor role="Patrick">Nicholas Hoult</actor>
-      <actor role="Owen">Jake Weber</actor>
-      <actor role="Allison">Medina Senghore</actor>
-      <actor role="Arthur">Tyler Perry</actor>
-      <writer>Michael Koryta</writer>
-      <producer>Ashley Levinson</producer>
-      <composer>Brian Tyler</composer>
-    </credits>
-    <date>2021</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Suspense</category>
-    <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13324/013324/013324_1161x653_637534073407173884.jpg" />
-  </programme>
-  <programme start="20221004090500 +0000" stop="20221004103500 +0000" channel="HBO 2!">
-    <title lang="en">Bushwhacked</title>
-    <desc lang="en">After he's framed for murder, a con artist-turned-deliveryman hides from authorities by posing as a wilderness survival-savvy scout leader. (repeat).(n)</desc>
-    <credits>
-      <director>Greg Beeman</director>
-      <actor role="Max Grabelski">Daniel Stern</actor>
-      <actor role="Agente Palmer">Jon Polito</actor>
-      <actor role="Jack Erickson">Brad Sullivan</actor>
-      <actor role="Señorita Patterson">Ann Dowd</actor>
-      <actor role="Bragdon">Anthony Heald</actor>
-      <actor role="Agente McMurrey">Tom Wood</actor>
-      <actor role="Marty">Art Evans</actor>
-      <actor role="Gordy">Blake Bashoff</actor>
-      <writer>John Jordan</writer>
-      <producer>Paul Schiff</producer>
-      <composer>Bill Conti</composer>
-    </credits>
-    <date>1995</date>
-    <category lang="en">Comedy</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/139/000139/000139_456x342_5867_031.jpg" />
-  </programme>
-  <programme start="20221004103500 +0000" stop="20221004124500 +0000" channel="HBO 2!">
-    <title lang="en">What Lies Beneath (?)</title>
+  <programme start="20221004173000 +0000" stop="20221004192500 +0000" channel="HBO 2!">
+    <title lang="en">Hustlers</title>
+    <desc lang="en">Un grupo de expertos strippers, que trabajan en diversas discos y bares nocturnos, se pusieron de acuerdo para robarles todo el dinero posible a sus clientes más asquerosos, viles y desgraciados. Como si fuesen protagonistas modernos de una historia como la de "Robin Hood", ellos les roban a los ricos. Para repartir sus ganancias entre quienes tienen más necesidades económicas. Como ellos mismos.(n)</desc>
+    <date>2019</date>
     <rating system="MPAA">
-      <value>TV-14</value>
+      <value>18</value>
     </rating>
   </programme>
-  <programme start="20221004124500 +0000" stop="20221004143500 +0000" channel="HBO 2!">
-    <title lang="en">Little Black Book</title>
-    <desc lang="en">Brittany Murphy is utterly charming in this winning comedy. She plays an insecure producer who raids her boyfriend's electronic organizer to find out about his romantic past. Unfortunately, she learns much more than she bargained for. Carly Simon contributed to the terrific soundtrack. Holly Hunter, Kathy Bates, Ron Livingston, Julianne Nicholson. (repeat).(n)</desc>
-    <credits>
-      <director>Nick Hurran</director>
-      <director>Kathy Bates</director>
-      <actor role="Stacy">Brittany Murphy</actor>
-      <actor role="Barb">Holly Hunter</actor>
-      <actor role="Kippie Kann">Kathy Bates</actor>
-      <actor role="Derek">Ron Livingston</actor>
-      <actor role="Joyce">Julianne Nicholson</actor>
-      <actor role="Carl">Stephen Tobolowsky</actor>
-      <actor role="Ira">Kevin Sussman</actor>
-      <actor role="Dr. Rachel Keyes">Rashida Jones</actor>
-      <writer>Elisa Bell</writer>
-      <producer>Warren Zide</producer>
-      <composer>Christophe Beck</composer>
-    </credits>
-    <date>2004</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Comedy</category>
-    <icon src="https://content.internetvideoarchive.com/content/photos/8749/134138_004.jpg" />
+  <programme start="20221004192500 +0000" stop="20221004211500 +0000" channel="HBO 2!">
+    <title lang="en">Sueños de amor</title>
+    <desc lang="en">Una mucama y un político se conocen.Tras superar las barreras, vivirán un cuento de hadas.(n)</desc>
+    <date>2008</date>
     <rating system="MPAA">
-      <value>TV-14</value>
+      <value>13</value>
     </rating>
   </programme>
-  <programme start="20221004143500 +0000" stop="20221004162500 +0000" channel="HBO 2!">
-    <title lang="en">Bringing Down the House</title>
-    <desc lang="en">Steve Martin and Queen Latifah's chemistry drive this odd-couple comedy. He plays a lonely lawyer, eager to meet a woman from an Internet chat room; she's his e-mail buddy, a brassy convict who wants him to represent her in court. Hilarity ensues when she shows up on his doorstep and turns his family's life upside down. (repeat).(n)</desc>
-    <credits>
-      <director>Adam Shankman</director>
-      <actor role="Peter Sanderson">Steve Martin</actor>
-      <actor role="Charlene Morton">Queen Latifah</actor>
-      <actor role="Howie Rottman">Eugene Levy</actor>
-      <actor role="Mrs. Arness">Joan Plowright</actor>
-      <actor role="Kate Sanderson">Jean Smart</actor>
-      <actor role="Sarah Sanderson">Kimberly J. Brown</actor>
-      <actor role="Georgey Sanderson">Angus T. Jones</actor>
-      <actor role="Ashley">Missi Pyle</actor>
-      <writer>Jason Filardi</writer>
-      <producer>Ashok Amritraj</producer>
-      <composer>Lalo Schifrin</composer>
-    </credits>
-    <date>2003</date>
-    <category lang="en">Comedy</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/9891/009891/009891_616x462_442223_040.jpg" />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221004162500 +0000" stop="20221004182500 +0000" channel="HBO 2!">
-    <title lang="en">Reminiscence</title>
-    <desc lang="en">This dystopian sci-fi tale set in Miami in the near future paints a bleak society surviving in a place devastated by natural catastrophe. Nick Bannister runs a business using technology to tap into people's memories so they can relive their past. Trouble starts when Nick falls for Mae, a mysterious client who seems to be implicated in a crime, as evident in another client's nostalgic memories. (repeat).(n)</desc>
-    <credits>
-      <director>Lisa Joy</director>
-      <actor role="Mae">Rebecca Ferguson</actor>
-      <actor role="Nick Bannister">Hugh Jackman</actor>
-      <actor role="Emily 'Watts' Sanders">Thandiwe Newton</actor>
-      <actor role="Cyrus Boothe">Cliff Curtis</actor>
-      <actor role="Tamara Sylvan">Marina de Tavira</actor>
-      <actor role="Saint Joe">Daniel Wu</actor>
-      <actor role="Sebastian Sylvan">Mojean Aria</actor>
-      <writer>Lisa Joy</writer>
-      <producer>Michael DeLuca</producer>
-      <composer>Ramin Djawadi</composer>
-    </credits>
-    <date>2021</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Science Fiction</category>
-    <icon src="https://content.internetvideoarchive.com/content/photos/13412/563337_320x240_637583352832382723.jpg" />
-  </programme>
-  <programme start="20221004182500 +0000" stop="20221004210500 +0000" channel="HBO 2!">
-    <title lang="en">Dune</title>
-    <desc lang="en">This version of Frank Herbert's popular 1965 sci-fi novel is the first of a two-part adaptation. This story covers only the first half of the novel and features Paul Atreides, whose duke father, Leto, accepts the stewardship of a planet called Arrakis. Since it's the main source of a most coveted substance called the melange, the leadership of its mining industry has been contentious, which the heir of the House Atreides will soon find out. (repeat).(n)</desc>
-    <credits>
-      <director>Denis Villeneuve</director>
-      <director>Rebecca Ferguson</director>
-      <actor role="Paul Atreides">Timothée Chalamet</actor>
-      <actor role="Lady Jessica Atreides">Rebecca Ferguson</actor>
-      <actor role="Duke Leto Atreides">Oscar Isaac</actor>
-      <actor role="Duncan Idaho">Jason Momoa</actor>
-      <actor role="Baron Vladimir Harkonnen">Stellan Skarsgård</actor>
-      <actor role="Thufir Hawat">Stephen McKinley Henderson</actor>
-      <actor role="Gurney Halleck">Josh Brolin</actor>
-      <writer>Jon Spaihts</writer>
-      <producer>Jon Spaihts</producer>
-      <composer>Hans Zimmer</composer>
-    </credits>
-    <date>2021</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Action &amp; Adventure</category>
-    <category lang="en">Science Fiction</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13892/013892/013892_909x682_637844482261027371.jpg" />
-  </programme>
-  <programme start="20221004210500 +0000" stop="20221004234500 +0000" channel="HBO 2!">
-    <title lang="en">Elvis</title>
-    <desc lang="en">The life of singer Elvis Presley from childhood until his untimely death at the age of forty-two. Elvis redefines the rock and roll genre through his music. During his rise to fame, he works with manager Colonel Tom Parker and meets the love of his life, Priscilla. (repeat).(n)</desc>
-    <credits>
-      <director>Baz Luhrmann</director>
-      <actor role="Elvis">Austin Butler</actor>
-      <actor role="Colonel Tom Parker">Tom Hanks</actor>
-      <actor role="Priscilla">Olivia DeJonge</actor>
-      <actor role="Gladys">Helen Thomson</actor>
-      <actor role="Vernon">Richard Roxburgh</actor>
-      <actor role="Jerry Schilling">Luke Bracey</actor>
-      <actor role="B.B. King">Kelvin Harrison Jr.</actor>
-      <actor role="Hank Snow">David Wenham</actor>
-      <writer>Baz Luhrmann</writer>
-      <producer>Catherine Martin</producer>
-      <composer>Elliott Wheeler</composer>
-    </credits>
+  <programme start="20221004211500 +0000" stop="20221004231500 +0000" channel="HBO 2!">
+    <title lang="en">Marry Me</title>
+    <desc lang="en">Una estrella del pop desconsolada se casa espontáneamente con un extraño de la audiencia.(n)</desc>
     <date>2022</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Music</category>
+    <rating system="MPAA">
+      <value>ATP</value>
+    </rating>
   </programme>
-  <programme start="20221004234500 +0000" stop="20221005000000 +0000" channel="HBO 2!">
-    <title lang="en">Hbo First Look: See How They Run</title>
-    <desc lang="en">An inside look at this comedy-mystery featuring a stellar ensemble cast, including Sam Rockwell, Saoirse Ronan, Adrien Brody, and others. (repeat).(n)</desc>
-    <date>2022</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20221001113000 +0000" stop="20221001180000 +0000" channel="La Red (CHI)">
-    <title lang="en">Antena 3D</title>
-    <desc lang="en">Barra de infomerciales que ofrece información sobre diferentes productos.(n)</desc>
-    <date>2017</date>
+  <programme start="20221004231500 +0000" stop="20221005010000 +0000" channel="HBO 2!">
+    <title lang="en">Venom: Let There Be Carnage</title>
+    <desc lang="en">Venom, el protector letal; uno de los personajes mas grandes y complejos de MARVEL esta de regreso.(n)</desc>
+    <date>2021</date>
+    <rating system="MPAA">
+      <value>13</value>
+    </rating>
   </programme>
   <programme start="20221001180000 +0000" stop="20221001183000 +0000" channel="La Red (CHI)">
     <title lang="en">Plaza Sésamo</title>
@@ -1619,11 +856,6 @@
   <programme start="20221004231500 +0000" stop="20221005000000 +0000" channel="TVN (CHI)">
     <title lang="en">Amor sin recetas</title>
     <desc lang="en">La historia cuenta la relación entre Ferit, un rico hombre de negocios, y Nazli, su chef privada.(n)</desc>
-  </programme>
-  <programme start="20221001160000 +0000" stop="20221001180000 +0000" channel="Canal Uno (COL)">
-    <title lang="en">Conferencia general de la Iglesia de Jesucristo de los Santos de los últimos días</title>
-    <desc lang="en">Millones de personas de todo el mundo se unen para escuchar mensajes sobre el Salvador Jesucristo.(n)</desc>
-    <date>2020</date>
   </programme>
   <programme start="20221001180000 +0000" stop="20221001190000 +0000" channel="Canal Uno (COL)">
     <title lang="en">Historias de la Virgen Morena</title>
@@ -2353,13 +1585,6 @@
     <title lang="en">Noticias RCN</title>
     <desc lang="en">Emisiones en directo con el mayor cubrimiento en los sucesos nacionales e internacionales.(n)</desc>
     <date>1995</date>
-  </programme>
-  <programme start="20221001130000 +0000" stop="20221001180000 +0000" channel="RCN Novelas">
-    <title lang="en">Doña Bella</title>
-    <desc lang="en">Una mujer seductora se aprovecha de sus encantos para vengarse de su verdadero amor.(n)</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
   </programme>
   <programme start="20221001180000 +0000" stop="20221001230000 +0000" channel="RCN Novelas">
     <title lang="en">Francisco el Matemático</title>
@@ -4156,9 +3381,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221001174100 +0000" stop="20221001180000 +0000" channel="Kids Street!">
-    <title lang="en">SOS FAIRY MANU</title>
-  </programme>
   <programme start="20221001180900 +0000" stop="20221001182000 +0000" channel="Kids Street!">
     <title lang="en">Strawberry Shortcake: Berry in the Big City</title>
     <sub-title lang="en">No Ordinary Berry / Mean Berries</sub-title>
@@ -5810,11 +5032,6 @@
     <category lang="en">Drama</category>
     <category lang="en">Action &amp; Adventure</category>
   </programme>
-  <programme start="20221001160000 +0000" stop="20221001180000 +0000" channel="Las Estrellas -2HR">
-    <title lang="en">S.O.S. Conspiración Bikini</title>
-    <desc lang="en">Protegidas por su exuberante belleza, un grupo de bellas mujeres, que forma parte de una organización terrorista de Latinoamérica, se infiltra en un hotel de Quito, Ecuador, mientras se celebra una convención de moda de playa, con el objetivo de...(n)</desc>
-    <date>1967</date>
-  </programme>
   <programme start="20221001180000 +0000" stop="20221001200000 +0000" channel="Las Estrellas -2HR">
     <title lang="en">Cuéntamelo Ya!... Al fin</title>
     <desc lang="en">Espacio de entretenimiento en donde las más importantes noticias del espectáculo serán reseñadas, pero con un enfoque fresco y amable. Las primicias del mundo de los famosos, entrevistas, y muchísimas más variedades están aquí. Así que "cuéntamelo ya".(n)</desc>
@@ -6575,9 +5792,6 @@
     <title lang="en">El casamiento de Raquel</title>
     <desc lang="en">Una mujer caprichosa deja su rehabilitación por ir a la boda de su hermana, creando caos en el idílico fin de semana.(n)</desc>
     <date>2008</date>
-  </programme>
-  <programme start="20221001173000 +0000" stop="20221001180000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
   </programme>
   <programme start="20221001180000 +0000" stop="20221001190000 +0000" channel="NY1 Noticias">
     <title lang="en">Pura Política: Voces de la Ciudad</title>
@@ -7368,10 +6582,6 @@
     <desc lang="en">La más divertida serie de monstruos gigantes, magia poderosa y antiguas leyendas egipcias, que muestra las aventuras de Yugi y sus mejores amigos Joey, Tristan y Téa.(n)</desc>
     <date>1998</date>
   </programme>
-  <programme start="20221001173000 +0000" stop="20221001180000 +0000" channel="Curiosity Stream!">
-    <title lang="en">A confirmar</title>
-    <desc lang="en">El mejor contenido de la TV disponible para que disfrutes de tu tiempo de ocio y recreación. Una cuidada programación así como todo el entretenimiento accesible desde la pantalla de tu televisor aguardan tu compañía.(n)</desc>
-  </programme>
   <programme start="20221001180000 +0000" stop="20221001190000 +0000" channel="Curiosity Stream!">
     <title lang="en">El ferrocarril de Mumbai</title>
     <desc lang="en">Los anfitriones exploran el funcionamiento interno de la colosal estación de tren de Mumbai.(n)</desc>
@@ -7792,14 +7002,6 @@
   <programme start="20221004233000 +0000" stop="20221005000000 +0000" channel="Curiosity Stream!">
     <title lang="en">El efecto mariposa</title>
     <desc lang="en">Programa sobre investigaciones de los casos que conmovieron al país.(n)</desc>
-  </programme>
-  <programme start="20221001173000 +0000" stop="20221001180000 +0000" channel="Dreamworks!">
-    <title lang="en">Un jefe en pañales: De vuelta a los negocios</title>
-    <desc lang="en">Ted tiene miedo de que el desfile de Pequeño Dumpling provoque un descenso en los niveles de amor de bebés después de que al ganador del año pasado, Jarreau McIntosh, se le subió su fama a la cabeza, y se convirtió en un bebé mimado. Ted recluta a Jimbo para ingresar a la competencia y ganarla. Sin embargo, Jimbo es un fan de Jarreau y se convierte en su guardaespaldas.(n)</desc>
-    <date>2018</date>
-    <rating system="MPAA">
-      <value>TV-Y7</value>
-    </rating>
   </programme>
   <programme start="20221001180000 +0000" stop="20221001183000 +0000" channel="Dreamworks!">
     <title lang="en">Les aventures extraordinaires de Capitaine Superslip</title>
@@ -8982,14 +8184,6 @@
       <value>TV-Y7</value>
     </rating>
   </programme>
-  <programme start="20221001155000 +0000" stop="20221001180900 +0000" channel="Aplauso">
-    <title lang="en">Guardianes de Altamar</title>
-    <desc lang="en">Perseguido por el recuerdo de un trágico accidente en el que pierde a su equipo, un legendario nadador rescatista de la Guardia Costera reaciamente se convierte en el mentor de un nuevo recluta engreído. Ashton Kutcher protagoniza en este filme que despierta emociones.(n)</desc>
-    <date>2006</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20221001180900 +0000" stop="20221001200800 +0000" channel="Aplauso">
     <title lang="en">Hasta que la muerte nos separe</title>
     <desc lang="en">Una mujer es involucrada en el narcotráfico luego de casarse con un mafioso. Melissa Gilbert, Joe Penny, Eileen Brennan, Tony Franciosa.(n)</desc>
@@ -9291,12 +8485,6 @@
   </programme>
   <programme start="20221004233500 +0000" stop="20221005003000 +0000" channel="Aplauso">
     <title lang="en">Campeonato de Lucha Libre de Hollywood</title>
-  </programme>
-  <programme start="20221001170000 +0000" stop="20221001180000 +0000" channel="Hogar HGTV">
-    <title lang="en">Hogares increíbles</title>
-    <sub-title lang="en">Casa de bolsas de arena, iglú moderno, búmeran y torre gótica</sub-title>
-    <desc lang="en">Esta increíble variedad de casas de todo el mundo incluye una casa de fiestas de alta tecnología en California, una residencia inglesa dentro de una torre gótica y una casa australiana con forma de búmeran.(n)</desc>
-    <date>2022</date>
   </programme>
   <programme start="20221001180000 +0000" stop="20221001183000 +0000" channel="Hogar HGTV">
     <title lang="en">Nuestro hogar en Hawái</title>
@@ -13864,13 +13052,6 @@
     <date>2022</date>
     <premiere />
   </programme>
-  <programme start="20221001173000 +0000" stop="20221001180000 +0000" channel="Univision 41">
-    <title lang="en">Programación pagada</title>
-    <desc lang="en">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.(n)</desc>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20221001180000 +0000" stop="20221001190000 +0000" channel="Univision 41">
     <title lang="en">Cuéntamelo Ya Al Fin (new)</title>
     <sub-title lang="en">10-01-2022</sub-title>
@@ -14409,11 +13590,6 @@
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
-  </programme>
-  <programme start="20221001160000 +0000" stop="20221001180000 +0000" channel="Telemundo 47">
-    <title lang="en">Entre Monjas Anda el Diablo</title>
-    <desc lang="en">Un jugador de gallos (Vicente Fernández) se enamora de una joven que vive en un orfelinato con monjas y trata de ayudar a salvar el lugar de la ruina total apostando todo lo que tiene.(n)</desc>
-    <date>1973</date>
   </programme>
   <programme start="20221001180000 +0000" stop="20221001190000 +0000" channel="Telemundo 47">
     <title lang="en">La alfombra de los premios Billboard</title>
@@ -15327,17 +14503,6 @@
     <country lang="es">US</country>
     <rating system="MJColombia">
       <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20221001171500 +0000" stop="20221001180500 +0000" channel="Love Nature!">
-    <title lang="es">América Latina salvaje</title>
-    <sub-title lang="es">Nacimiento del jorobado de un gigante</sub-title>
-    <desc lang="es">Siga los primeros meses de la vida de una ballena jorobada recién nacida en las aguas de la costa del Pacífico de Columbia. Vea cómo su madre lo nutre a través de la enfermedad, sostiene su cuerpo, lo protege bajo ataque y lo prepara para un viaje épico.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/09/13094522_9793C4D2CAE3074D.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
     </rating>
   </programme>
   <programme start="20221001180500 +0000" stop="20221001190000 +0000" channel="Love Nature!">
@@ -16681,17 +15846,6 @@
     <title lang="en">Musikipedia</title>
     <desc lang="en">Un programa que presenta los mejores temas musicales junto a los artistas más destacados.(n)</desc>
     <date>2022</date>
-  </programme>
-  <programme start="20221001174700 +0000" stop="20221001180200 +0000" channel="Discovery Kids!">
-    <title lang="es">Supermonstruos</title>
-    <sub-title lang="es">Una sirena en la escuela</sub-title>
-    <desc lang="es">Cuando Drac conoce a una sirena llamada Melusina, él y sus mascotas monstruo tratan de enseñarle a volar.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/98/9981181_D69AB55F35175BFB.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S3 E6</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
   </programme>
   <programme start="20221001180200 +0000" stop="20221001182900 +0000" channel="Discovery Kids!">
     <title lang="es">Peppa</title>
