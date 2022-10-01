@@ -1,5 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Tastemade">
+    <display-name lang="en">Tastemade</display-name>
+    <icon src="http://pluto.tv.s3.amazonaws.com/channels/5ece9beb0a542e0007199c2f/logo.png" />
+    <url>http://www.pluto.tv.E</url>
+  </channel>
   <channel id="HBO 2!">
     <display-name lang="en">HBO 2!</display-name>
     <url>http://www.tvguide.com</url>
@@ -92,7 +97,7 @@
   <channel id="A3Series HD!">
     <display-name lang="es">A3Series HD!</display-name>
     <icon src="https://cdn.sincroguia.tv/uploads/images/v/5/n/xatresseries.jpg.pagespeed.ic.9ZIdKUT2Zo.jpg" />
-    <url>http://www.sincroguia-tv.com.E</url>
+    <url>http://www.sincroguia-tv.expansion.com</url>
   </channel>
   <channel id="UniMás">
     <display-name lang="en">UniMás</display-name>
@@ -130,14 +135,6 @@
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523290_AD350A44EE3C7F22.png" />
     <url>http://www.movistar.com.pe</url>
   </channel>
-  <programme start="20221001165100 +0000" stop="20221001185100 +0000" channel="HBO 2!">
-    <title lang="en">Megalodon</title>
-    <desc lang="en">Un barco militar se enfrenta cara a cara con un tiburón gigante mientras se encuentran en la búsqueda de un sumergible no identificado. Debido a esto, los tripulantes del barco deberán utilizar todo lo que tienen a bordo para defenderse de esta monstruosa bestia del mar.(n)</desc>
-    <date>2018</date>
-    <rating system="MPAA">
-      <value>13</value>
-    </rating>
-  </programme>
   <programme start="20221001185100 +0000" stop="20221001205100 +0000" channel="HBO 2!">
     <title lang="en">Terremoto: La falla de San Andrés</title>
     <desc lang="en">Raymond Gaines fue piloto de helicópteros en Afganistán y hoy es piloto de rescate para el Departamento de Bomberos de Los Ángeles. Está en pleno divorcio de su mujer Emma y su hija Blake está por empezar la universidad en San Francisco.(n)</desc>
@@ -459,14 +456,6 @@
       <value>13</value>
     </rating>
   </programme>
-  <programme start="20221001180000 +0000" stop="20221001183000 +0000" channel="La Red (CHI)">
-    <title lang="en">Plaza Sésamo</title>
-    <desc lang="en">Programa infantil educativo, famoso mundialmente por sus personajes. Los niños aprenden números y letras a través de juegos y canciones.(n)</desc>
-    <date>1973</date>
-    <rating system="MPAA">
-      <value>TV-Y</value>
-    </rating>
-  </programme>
   <programme start="20221001183000 +0000" stop="20221002050000 +0000" channel="La Red (CHI)">
     <title lang="en">Swiss Nature Labs</title>
     <desc lang="en">Las mejores soluciones de salud, belleza y bienestar de origen natural.(n)</desc>
@@ -604,11 +593,6 @@
   <programme start="20221004233000 +0000" stop="20221005000000 +0000" channel="La Red (CHI)">
     <title lang="en">Swiss Nature Labs</title>
     <desc lang="en">Las mejores soluciones de salud, belleza y bienestar de origen natural.(n)</desc>
-  </programme>
-  <programme start="20221001160000 +0000" stop="20221001181500 +0000" channel="TVN (CHI)">
-    <title lang="en">24 Tarde</title>
-    <desc lang="en">Conoce los detalles más resaltantes sobre los últimos acontecimientos ocurridos en Chile, América Latina y el mundo, en este segmento especial de la tarde, donde te presentamos un resumen con informaciones completas.(n)</desc>
-    <date>2018</date>
   </programme>
   <programme start="20221001181500 +0000" stop="20221001201500 +0000" channel="TVN (CHI)">
     <title lang="en">Sucupira, la Comedia</title>
@@ -856,11 +840,6 @@
   <programme start="20221004231500 +0000" stop="20221005000000 +0000" channel="TVN (CHI)">
     <title lang="en">Amor sin recetas</title>
     <desc lang="en">La historia cuenta la relación entre Ferit, un rico hombre de negocios, y Nazli, su chef privada.(n)</desc>
-  </programme>
-  <programme start="20221001180000 +0000" stop="20221001190000 +0000" channel="Canal Uno (COL)">
-    <title lang="en">Historias de la Virgen Morena</title>
-    <desc lang="en">Los personajes atraviesan grandes dificultades y acuden a Nuestra Señora de Guadalupe.(n)</desc>
-    <date>2012</date>
   </programme>
   <programme start="20221001190000 +0000" stop="20221001200000 +0000" channel="Canal Uno (COL)">
     <title lang="en">Caso cerrado</title>
@@ -2089,11 +2068,6 @@
     <desc lang="en">Dos heroínas que dan todo por su familia, por su carrera artística y por un género musical que las baña de gloria y de fama, pero les arrebata gran parte de su infancia y toda su juventud. Nelly y Fabiola Calle se aferran a sus voces y se lanzan a posicionar la música popular, un género despreciado por emisoras y disqueras.(n)</desc>
     <date>2015</date>
   </programme>
-  <programme start="20221001173000 +0000" stop="20221001193000 +0000" channel="RCN Television">
-    <title lang="en">Noticias RCN</title>
-    <desc lang="en">Emisiones en directo con el mayor cubrimiento en los sucesos nacionales e internacionales.(n)</desc>
-    <date>1995</date>
-  </programme>
   <programme start="20221001193000 +0000" stop="20221001210000 +0000" channel="RCN Television">
     <title lang="en">Francisco el Matemático</title>
     <desc lang="en">Jóvenes adultos hacen frente a los retos de la vida en dramáticos tramas que entablan temas de interés social como el alcoholismo, la sexualidad y otros.(n)</desc>
@@ -2407,14 +2381,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221001165400 +0000" stop="20221001185400 +0000" channel="Golden Edge!">
-    <title lang="en">Rendirse jamás</title>
-    <desc lang="en">Drama de acción acerca de un adolescente que llega a una ciudad nueva, resulta envuelto en una liga de peleas ilegales y es entrenado por un maestro de artes marciales.(n)</desc>
-    <date>2008</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20221001185400 +0000" stop="20221001205900 +0000" channel="Golden Edge!">
     <title lang="en">Agente Bajo Fuego</title>
     <desc lang="en">Tercera entrega de la saga de películas Olympus Has Fallen. El agente del Servicio Secreto, Mike Banni, ha sido acusado de intento de asesinato contra el Presidente de los Estados Unidos. Banni deberá huir de su propia agencia y del FBI, al mismo tiempo que intenta limpiar su nombre ante la justicia; además de encontrar la verdadera amenaza para el Presidente y la nación.(n)</desc>
@@ -2673,23 +2639,6 @@
     <title lang="en">Londres Bajo Fuego</title>
     <desc lang="en">Un agente secreto, el presidente de EE.UU. y un funcionario del MI-6 tendrán que trabajar juntos, para evitar que un grupo terrorista asesine a los líderes mundiales, que se reúnen en Londres para asistir al funeral del primer ministro británico.(n)</desc>
     <date>2016</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221001172500 +0000" stop="20221001182000 +0000" channel="UNIVERSAL TV!">
-    <title lang="en">Chicago Fire</title>
-    <desc lang="en">Chef Hawkins ayuda a Brett y Violet con un problema. A Mouch y Herrmann se les pide un favor.(n)</desc>
-    <date>2022</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221001182000 +0000" stop="20221001191500 +0000" channel="UNIVERSAL TV!">
-    <title lang="en">Chicago P.D.</title>
-    <sub-title lang="en">Blood Relation</sub-title>
-    <desc lang="en">El equipo busca a un brutal asesino con un modus operandi muy particular.(n)</desc>
-    <date>2022</date>
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
@@ -3380,47 +3329,6 @@
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
-  </programme>
-  <programme start="20221001180900 +0000" stop="20221001182000 +0000" channel="Kids Street!">
-    <title lang="en">Strawberry Shortcake: Berry in the Big City</title>
-    <sub-title lang="en">No Ordinary Berry / Mean Berries</sub-title>
-    <desc lang="en">Strawberry Shortcakes explores everything that Big Apple City has to offer; a jealous Raspberry Tart buys all of Strawberry Shortcake's baked goods and resells them using her own packaging.(n)</desc>
-    <date>2021</date>
-    <rating system="MPAA">
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20221001183000 +0000" stop="20221001183700 +0000" channel="Kids Street!">
-    <title lang="en">CHOCOLIX</title>
-    <date>2018</date>
-  </programme>
-  <programme start="20221001183700 +0000" stop="20221001184500 +0000" channel="Kids Street!">
-    <title lang="en">CHOCOLIX</title>
-    <date>2018</date>
-  </programme>
-  <programme start="20221001184500 +0000" stop="20221001185200 +0000" channel="Kids Street!">
-    <title lang="en">CHOCOLIX</title>
-    <date>2018</date>
-  </programme>
-  <programme start="20221001185200 +0000" stop="20221001190200 +0000" channel="Kids Street!">
-    <title lang="en">CHOCOLIX</title>
-    <date>2018</date>
-  </programme>
-  <programme start="20221001190200 +0000" stop="20221001191000 +0000" channel="Kids Street!">
-    <title lang="en">CHOCOLIX</title>
-    <date>2018</date>
-  </programme>
-  <programme start="20221001191000 +0000" stop="20221001191700 +0000" channel="Kids Street!">
-    <title lang="en">CHOCOLIX</title>
-    <date>2018</date>
-  </programme>
-  <programme start="20221001191700 +0000" stop="20221001193000 +0000" channel="Kids Street!">
-    <title lang="en">CHOCOLIX</title>
-    <date>2018</date>
-  </programme>
-  <programme start="20221001193000 +0000" stop="20221001194100 +0000" channel="Kids Street!">
-    <title lang="en">Atchoo</title>
-    <date>2016</date>
   </programme>
   <programme start="20221001194100 +0000" stop="20221001200000 +0000" channel="Kids Street!">
     <title lang="en">Atchoo</title>
@@ -5420,14 +5328,6 @@
     <title lang="en">Mi secreto</title>
     <desc lang="en">Una joven adopta la identidad de su amiga, aparentemente muerta, para evitar ser arrestada.(n)</desc>
   </programme>
-  <programme start="20221001171500 +0000" stop="20221001190000 +0000" channel="Sony Movies!">
-    <title lang="en">Alquiler de padrinos</title>
-    <desc lang="en">A menos de dos semanas de casarse, Doug decide recurrir a una empresa que provee padrinos de bodas.(n)</desc>
-    <date>2015</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20221001190000 +0000" stop="20221001210500 +0000" channel="Sony Movies!">
     <title lang="en">En la cuerda floja</title>
     <desc lang="en">Una película basada en la historia real de Philippe Petit, un equilibrista que caminaba una cuerda suspendida entre las dos torres en 1974. Petit debe centrarse en la tarea que siente que nació para hacer, mientras que se enfrenta a los obstáculos y sus preocupados seres queridos.(n)</desc>
@@ -5792,12 +5692,6 @@
     <title lang="en">El casamiento de Raquel</title>
     <desc lang="en">Una mujer caprichosa deja su rehabilitación por ir a la boda de su hermana, creando caos en el idílico fin de semana.(n)</desc>
     <date>2008</date>
-  </programme>
-  <programme start="20221001180000 +0000" stop="20221001190000 +0000" channel="NY1 Noticias">
-    <title lang="en">Pura Política: Voces de la Ciudad</title>
-  </programme>
-  <programme start="20221001190000 +0000" stop="20221001193000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
   </programme>
   <programme start="20221001193000 +0000" stop="20221001200000 +0000" channel="NY1 Noticias">
     <title lang="en">NY1 Noticias</title>
@@ -6254,10 +6148,6 @@
   <programme start="20221004233000 +0000" stop="20221005000000 +0000" channel="NY1 Noticias">
     <title lang="en">NY1 Noticias</title>
   </programme>
-  <programme start="20221001174000 +0000" stop="20221001194000 +0000" channel="BitMe!">
-    <title lang="en">Maratón My Hero Academy</title>
-    <desc lang="en">Un niño amante de los superhéroes pero sin poder alguno está decidido a entrar en la prestigiosa academia para héroes y a aprender lo que realmente significa ser un héroe.(n)</desc>
-  </programme>
   <programme start="20221001194000 +0000" stop="20221001214000 +0000" channel="BitMe!">
     <title lang="en">Assassination Classroom</title>
     <desc lang="en">Los estudiantes deben matar a una especie de pulpo extraterrestre que finge ser un maestro.(n)</desc>
@@ -6581,11 +6471,6 @@
     <title lang="en">Yu Gi Oh!</title>
     <desc lang="en">La más divertida serie de monstruos gigantes, magia poderosa y antiguas leyendas egipcias, que muestra las aventuras de Yugi y sus mejores amigos Joey, Tristan y Téa.(n)</desc>
     <date>1998</date>
-  </programme>
-  <programme start="20221001180000 +0000" stop="20221001190000 +0000" channel="Curiosity Stream!">
-    <title lang="en">El ferrocarril de Mumbai</title>
-    <desc lang="en">Los anfitriones exploran el funcionamiento interno de la colosal estación de tren de Mumbai.(n)</desc>
-    <date>2021</date>
   </programme>
   <programme start="20221001190000 +0000" stop="20221001203000 +0000" channel="Curiosity Stream!">
     <title lang="en">A confirmar</title>
@@ -7002,29 +6887,6 @@
   <programme start="20221004233000 +0000" stop="20221005000000 +0000" channel="Curiosity Stream!">
     <title lang="en">El efecto mariposa</title>
     <desc lang="en">Programa sobre investigaciones de los casos que conmovieron al país.(n)</desc>
-  </programme>
-  <programme start="20221001180000 +0000" stop="20221001183000 +0000" channel="Dreamworks!">
-    <title lang="en">Les aventures extraordinaires de Capitaine Superslip</title>
-    <desc lang="en">Jorge y Berto crean un nuevo personaje luego de recibir críticas de Érica por el cómic: una vampira que succiona la diversión de todo.(n)</desc>
-    <date>2018</date>
-    <rating system="MPAA">
-      <value>TV-Y7</value>
-    </rating>
-  </programme>
-  <programme start="20221001183000 +0000" stop="20221001190000 +0000" channel="Dreamworks!">
-    <title lang="en">Les aventures extraordinaires de Capitaine Superslip</title>
-    <desc lang="en">Una broma con papel higiénico termina en inodoros tapados y una explosión fatídica que convierte a la maestra de Francés en una momia.(n)</desc>
-    <date>2018</date>
-    <rating system="MPAA">
-      <value>TV-Y7</value>
-    </rating>
-  </programme>
-  <programme start="20221001190000 +0000" stop="20221001193000 +0000" channel="Dreamworks!">
-    <title lang="en">¡Chicas Harvey por siempre!</title>
-    <date>2022</date>
-    <rating system="MPAA">
-      <value>TV-Y7</value>
-    </rating>
   </programme>
   <programme start="20221001193000 +0000" stop="20221001200000 +0000" channel="Dreamworks!">
     <title lang="en">¡Chicas Harvey por siempre!</title>
@@ -8486,30 +8348,6 @@
   <programme start="20221004233500 +0000" stop="20221005003000 +0000" channel="Aplauso">
     <title lang="en">Campeonato de Lucha Libre de Hollywood</title>
   </programme>
-  <programme start="20221001180000 +0000" stop="20221001183000 +0000" channel="Hogar HGTV">
-    <title lang="en">Nuestro hogar en Hawái</title>
-    <desc lang="en">Una pareja de Oregón deja su agitada vida en el mar para vivir del cultivo en Isla Grande.(n)</desc>
-    <date>2017</date>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20221001183000 +0000" stop="20221001190000 +0000" channel="Hogar HGTV">
-    <title lang="en">Nuestro hogar en Hawái</title>
-    <desc lang="en">Una familia grande de Oregón cumple sus sueños y se muda a Kona.(n)</desc>
-    <date>2017</date>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20221001190000 +0000" stop="20221001193000 +0000" channel="Hogar HGTV">
-    <title lang="en">Los cazahogares</title>
-    <desc lang="en">No es fácil entrar al mercado de Nashville cuando no se tiene un gran presupuesto.(n)</desc>
-    <date>2016</date>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
   <programme start="20221001193000 +0000" stop="20221001200000 +0000" channel="Hogar HGTV">
     <title lang="en">Los cazahogares</title>
     <desc lang="en">Una pareja de Chicago no logra ponerse de acuerdo sobre si deberían comprar una casa lista para mudarse o una para renovar.(n)</desc>
@@ -9418,39 +9256,6 @@
     <desc lang="en">Locos x el asado es un espectáculo de entretenimiento dedicado al asado, un espacio muy cotidiano revestido de sabores y humor. 'El Laucha' con sus amigos prepararán extraordinarias recetas de asado, con un tinte de humor.(n)</desc>
     <date>2018</date>
   </programme>
-  <programme start="20221001174700 +0000" stop="20221001181600 +0000" channel="Animal Planet!">
-    <title lang="es">Hospital de pingüinos</title>
-    <sub-title lang="es">Sole survivor</sub-title>
-    <desc lang="es">En Stony Point, un leopardo ataca la colonia y mata a 33 pingüinos; hay un solo sobreviviente, pero no se sabe si resistirá. Natasha, la veterinaria, enfrenta una de las operaciones más delicadas. Un pingüino aparece con heridas en el cuello.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/88/9886949_6591F72931896259.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20221001181600 +0000" stop="20221001184500 +0000" channel="Animal Planet!">
-    <title lang="es">Vida azul</title>
-    <sub-title lang="es">Viajeros</sub-title>
-    <desc lang="es">Muchos animales marinos pueden nadar grandes distancias. Descubra por qué algunos de ellos necesitan volver a determinados lugares en ciertas etapas de sus vidas.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/13/10135640_E1A93983076B05BB.jpg" />
-    <country lang="es">BR</country>
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20221001184500 +0000" stop="20221001191400 +0000" channel="Animal Planet!">
-    <title lang="es">Vida azul</title>
-    <sub-title lang="es">Islas oceánicas</sub-title>
-    <desc lang="es">El ambiente marino ofrece muchas oportunidades para que la vida se desarrolle y se expanda en el mar. Pero, ¿es posible que se convierta en una roca pequeña y aislada.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/13/10135641_D0505BDB75E706DD.jpg" />
-    <country lang="es">BR</country>
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
   <programme start="20221001191400 +0000" stop="20221001201200 +0000" channel="Animal Planet!">
     <title lang="es">Wild Frank</title>
     <sub-title lang="es">In Search Of The Bengal Tiger</sub-title>
@@ -10327,6 +10132,28 @@
       <value>TE</value>
     </rating>
   </programme>
+  <programme start="20221004170200 +0000" stop="20221004180300 +0000" channel="Animal Planet!">
+    <title lang="es">Piscinas increíbles</title>
+    <sub-title lang="es">Los patios más paradisíacos</sub-title>
+    <desc lang="es">Luego de transformar más de 150 patios traseros en paraísos, Lucas vuelve a visitar cinco de sus construcciones y familias favoritas.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/88/9884483_7EF54BBD3C31C2E8.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221004180300 +0000" stop="20221004190400 +0000" channel="Animal Planet!">
+    <title lang="es">Con el agua al cuello</title>
+    <sub-title lang="es">El acuario de Clay Matthews</sub-title>
+    <desc lang="es">Clay Matthews, de los Green Bay Packers, está construyendo su casa ideal y cree que no estaría completa sin un acuario personalizado. Su esposa, Casey Noble, quiere que el interior sea elegante pero incluya referencias sutiles a la carrera de Clay.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/55/10558172_38FEDDC03BA0BFBC.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S15 E6</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
   <programme start="20221001000000 +0000" stop="20221001010000 +0000" channel="Fox Sports Premium!">
     <title lang="es">710: Silva vs. Sonnen</title>
     <desc lang="es">La pelea principal de la noche, en la que se miden los contrincantes más aguerridos y temidos de la UFC, una enorme lucha en la que solo habrá un vencedor.(n)</desc>
@@ -10613,11 +10440,6 @@
     <desc lang="es">La Ultimate Fighting Championship (UFC) es la mayor empresa de artes marciales mixtas en el mundo, alberga a los mejores peleadores del ranking en el deporte y produce eventos por todo el mundo.(n)</desc>
     <category lang="es">UFC Reloaded</category>
     <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/260024/1465165098/220930120916_c927034e2e875470ec12628b9681084e8a31d2aa_2209121416.jpg" />
-  </programme>
-  <programme start="20221001163500 +0000" stop="20221001182500 +0000" channel="A3Cine!">
-    <title lang="en">Como un Relámpago</title>
-    <desc lang="en">Eloy Azorín como un adolescente en busca de su verdadero padre (Santiago Ramos) en este drama español de 1997 dirigido por Miguel Hermoso. Assumpta Serna.(n)</desc>
-    <date>1997</date>
   </programme>
   <programme start="20221001182500 +0000" stop="20221001200000 +0000" channel="A3Cine!">
     <title lang="en">Cuatro noches de boda</title>
@@ -12477,12 +12299,6 @@
       <value>+12</value>
     </rating>
   </programme>
-  <programme start="20221001173000 +0000" stop="20221001193000 +0000" channel="UniMás">
-    <title lang="en">Fútbol de la MLS (live)</title>
-    <sub-title lang="en">New England Revolution vs. Atlanta United FC</sub-title>
-    <desc lang="en">New England Revolution vs. Atlanta United FC. Desde Gillette Stadium.(n)</desc>
-    <date>2022</date>
-  </programme>
   <programme start="20221001193000 +0000" stop="20221001220000 +0000" channel="UniMás">
     <title lang="en">Fútbol de la MLS (live)</title>
     <sub-title lang="en">Colorado Rapids vs. FC Dallas</sub-title>
@@ -13052,18 +12868,6 @@
     <date>2022</date>
     <premiere />
   </programme>
-  <programme start="20221001180000 +0000" stop="20221001190000 +0000" channel="Univision 41">
-    <title lang="en">Cuéntamelo Ya Al Fin (new)</title>
-    <sub-title lang="en">10-01-2022</sub-title>
-    <date>2016</date>
-    <premiere />
-  </programme>
-  <programme start="20221001190000 +0000" stop="20221001200000 +0000" channel="Univision 41">
-    <title lang="en">Misión Europa (new)</title>
-    <sub-title lang="en">10-01-2022</sub-title>
-    <date>2018</date>
-    <premiere />
-  </programme>
   <programme start="20221001200000 +0000" stop="20221001220000 +0000" channel="Univision 41">
     <title lang="en">Me Caigo de Risa (new)</title>
     <sub-title lang="en">10-01-2022</sub-title>
@@ -13590,11 +13394,6 @@
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
-  </programme>
-  <programme start="20221001180000 +0000" stop="20221001190000 +0000" channel="Telemundo 47">
-    <title lang="en">La alfombra de los premios Billboard</title>
-    <desc lang="en">La antesala de los Premios Billboard a la Música Latina ofrece entrevistas exclusivas y una pasarela de moda con todo el glamour de las estrellas nominadas, donde no faltan las sorpresas.(n)</desc>
-    <date>2022</date>
   </programme>
   <programme start="20221001190000 +0000" stop="20221001220000 +0000" channel="Telemundo 47">
     <title lang="en">Premios Billboard de la Música Latina</title>
@@ -14163,15 +13962,6 @@
     <date>2022</date>
     <premiere />
   </programme>
-  <programme start="20221001165500 +0000" stop="20221001184500 +0000" channel="Clover Channel">
-    <title lang="es">Viudas</title>
-    <desc lang="es">Una mujer recibe la noticia de que su esposo tuvo un infarto, y antes de morir, este le hace un pedido que debe cumplir: que cuide de su amante, también presente en la clínica. Entonces se la lleva a vivir con ella.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/93/12938175_3DD037AAECFC5450.jpg" />
-    <country lang="es">AR</country>
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
   <programme start="20221001184500 +0000" stop="20221001204000 +0000" channel="Clover Channel">
     <title lang="es">Te amo brother</title>
     <desc lang="es">Peter está a punto de casarse, pero se da cuenta de que no tiene ningún amigo que pueda hacer de padrino. A partir de aquí concierta una serie de alocadas citas para agenciarse uno.(n)</desc>
@@ -14505,26 +14295,13 @@
       <value>+14</value>
     </rating>
   </programme>
-  <programme start="20221001180500 +0000" stop="20221001190000 +0000" channel="Love Nature!">
-    <title lang="es">América Latina salvaje</title>
-    <sub-title lang="es">La isla del mono ardilla</sub-title>
-    <desc lang="es">Viaja a lo más profundo de la selva colombiana, donde es la temporada de apareamiento de una de las especies de monos más inteligentes del mundo. Sea testigo de la época más importante del año para los monos ardilla macho.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/09/13094523_698F870F3091DBD8.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S1 E2</episode-num>
+  <programme start="20221004175000 +0000" stop="20221004200000 +0000" channel="Clover Channel">
+    <title lang="es">Cinema Paradise</title>
+    <desc lang="es">El único pasatiempo en el pueblo natal de Salvatore era ir al cine. Él creció pensando que las imágenes en movimiento eran magia. Sin embargo, luego de dejar su pueblo se verá obligado a regresar debido a un mensaje que recibió.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12779760_D99246BF1B7A7658.jpg" />
+    <country lang="es">IT</country>
     <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20221001190000 +0000" stop="20221001195000 +0000" channel="Love Nature!">
-    <title lang="es">América Latina salvaje</title>
-    <sub-title lang="es">El reino del oso de anteojos</sub-title>
-    <desc lang="es">Conozca la única especie de oso de América del Sur. Sea testigo de cómo el tímido y carismático oso de anteojos juega y busca pareja en la apartada Reserva Ecológica Chaparri en el norte de Perú.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/09/13094524_2DDE565AD1E847DF.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
+      <value>+14</value>
     </rating>
   </programme>
   <programme start="20221001195000 +0000" stop="20221001204000 +0000" channel="Love Nature!">
@@ -15415,18 +15192,27 @@
       <value>TE</value>
     </rating>
   </programme>
-  <programme start="20221001175500 +0000" stop="20221001185000 +0000" channel="Telehit Musica">
-    <title lang="en">Reggaetown</title>
-    <date>2022</date>
+  <programme start="20221004171500 +0000" stop="20221004180500 +0000" channel="Love Nature!">
+    <title lang="es">Brasil Salvaje</title>
+    <sub-title lang="es">Paraíso de aves</sub-title>
+    <desc lang="es">Sea testigo de la llegada de más de 650 especies de aves a las marismas y copas de los árboles del Pantanal. La temporada de reproducción va acompañada de festines para las cigüeñas jabiru, nidos para los guacamayos jacintos y riñas para los buitres.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/08/13081864_5C047E16ACA851D6.jpg" />
+    <country lang="es">BR</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
   </programme>
-  <programme start="20221001185000 +0000" stop="20221001190000 +0000" channel="Telehit Musica">
-    <title lang="en">Playlist Telehit</title>
-    <desc lang="en">Disfruta de la playlist que propone Telehit para bailar al ritmo de lo mejor del urbano.(n)</desc>
-    <date>2019</date>
-  </programme>
-  <programme start="20221001190000 +0000" stop="20221001195500 +0000" channel="Telehit Musica">
-    <title lang="en">Ranking</title>
-    <desc lang="en">En esta oportunidad se presentan lo mejores y más destacados videos musicales. En este segmento podremos disfrutar de la música de parte de los artistas y bandas más consagrados de la industria, y sus ingeniosos videos. Preparate para disfrutar todo desde tu pantalla.(n)</desc>
+  <programme start="20221004180500 +0000" stop="20221004190000 +0000" channel="Love Nature!">
+    <title lang="es">Horizontes salvajes de África</title>
+    <sub-title lang="es">The Waterberg</sub-title>
+    <desc lang="es">En la región de Limpopo, en Sudáfrica, se encuentra una tierra antigua. Desde praderas onduladas hasta gargantas rocosas, la vida silvestre ha aprendido a aprovechar al máximo lo que se ofrece. Este es el Waterberg, una tierra de abundancia.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/44/12446532_B2191F896B6CC472.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
   </programme>
   <programme start="20221001195500 +0000" stop="20221001205000 +0000" channel="Telehit Musica">
     <title lang="en">Suena el Dembow</title>
@@ -15846,71 +15632,6 @@
     <title lang="en">Musikipedia</title>
     <desc lang="en">Un programa que presenta los mejores temas musicales junto a los artistas más destacados.(n)</desc>
     <date>2022</date>
-  </programme>
-  <programme start="20221001180200 +0000" stop="20221001182900 +0000" channel="Discovery Kids!">
-    <title lang="es">Peppa</title>
-    <sub-title lang="es">The biggest muddy puddle in the world, Doctor Hamster's tortoise, Miss Rabbit</sub-title>
-    <desc lang="es">Llueve tanto que la casa de Peppa y George se ha transformado en una isla. El Doctor Hámster muestra sus mascotas. Miss Rabbit lleva a Peppa y su familia a pasear en helicóptero. Los niños hacen sus pedidos a Papá Noel.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/94/9943724_61B7F9F65674891E.jpg" />
-    <country lang="es">GB</country>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20221001182900 +0000" stop="20221001183900 +0000" channel="Discovery Kids!">
-    <title lang="es">¡Presto! Escuela de magia</title>
-    <sub-title lang="es">La última ilusión</sub-title>
-    <desc lang="es">Mientras Lorenzo no está, Daniel ejecuta su último plan para vender la mansión. Pone reglas que convierten la vida de los estudiantes de Presto en una pesadilla, su objetivo es hacer su vida intolerable así los niños querrán dejar la escuela de magia.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/62/10625536_54A527CB0002EFE4.jpg" />
-    <country lang="es">FR</country>
-    <episode-num system="onscreen">S1 E18</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20221001183900 +0000" stop="20221001185300 +0000" channel="Discovery Kids!">
-    <title lang="es">¡Presto! Escuela de magia</title>
-    <sub-title lang="es">El huerto mágico</sub-title>
-    <desc lang="es">Violet y Lisa cultivan vegetales en el jardín como un descanso de la competencia mágica. Cuando las verduras de Lisa no crecen tan bien como las de Violet, Lisa usa varias técnicas mágicas para hacer que su cosecha se vea increíble.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/62/10625536_54A527CB0002EFE4.jpg" />
-    <country lang="es">FR</country>
-    <episode-num system="onscreen">S1 E20</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20221001185300 +0000" stop="20221001190500 +0000" channel="Discovery Kids!">
-    <title lang="es">Primaria de héroes</title>
-    <sub-title lang="es">El gatito</sub-title>
-    <desc lang="es">El gatito de una niña anda suelto. El equipo de Sparks debe rescatarlo. Entonces, observan cómo los animales ayudan y usan esa información para el rescate.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/96/9968283_67D2C826F2EC5ABC.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S1 E9</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20221001190500 +0000" stop="20221001192000 +0000" channel="Discovery Kids!">
-    <title lang="es">Primaria de héroes</title>
-    <sub-title lang="es">El cine</sub-title>
-    <desc lang="es">En el cine, el equipo de Sparks conoce a Stevie Heat, un adolescente con superpoder increíble, sus manos se calientan y derriten todo lo que toca. El equipo tiene que ayudar a Stevie a controlar sus manos antes de que comience la película.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/95/9954432_0987A672C4A85B87.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S1 E10</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20221001192000 +0000" stop="20221001194700 +0000" channel="Discovery Kids!">
-    <title lang="es">Peppa</title>
-    <sub-title lang="es">Jugar y trabajar, El arcoíris, Pedro tiene tos, La biblioteca, Casa rodante</sub-title>
-    <desc lang="es">Suzy ayudará a Peppa a descubrir que los adultos trabajan todo el día mientras los niños juegan en el taller de trabajo de la guardería y eso les resulta pesado. Peppa y su familia ven un arco iris durante un paseo en auto.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/79/9793691_104DCE671EE98692.jpg" />
-    <country lang="es">GB</country>
-    <episode-num system="onscreen">S3</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
   </programme>
   <programme start="20221001194700 +0000" stop="20221001201300 +0000" channel="Discovery Kids!">
     <title lang="es">Peppa</title>
@@ -18396,46 +18117,100 @@
       <value>TE</value>
     </rating>
   </programme>
-  <programme start="20221001175400 +0000" stop="20221001182100 +0000" channel="Disney Channel!">
-    <title lang="es">Gravity Falls: Un verano de misterios</title>
-    <sub-title lang="es">La jefa Mabel</sub-title>
-    <desc lang="es">Mabel está a cargo de Mystery Shack después de hacer una apuesta con Stan para ver quién puede ganar más dinero en tres días y determinar cuál de ellos es el mejor jefe.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/93/12938284_FD81F07522F3F2E2.jpg" />
+  <programme start="20221004162600 +0000" stop="20221004163700 +0000" channel="Discovery Kids!">
+    <title lang="es">Kung Fu Wa</title>
+    <sub-title lang="es">Día de relajación</sub-title>
+    <desc lang="es">Calcetín Kung-fu está estresado por la misión de encontrar a Kwei y tiene pesadillas todos los días. Preocupado por él, Tee Zeng reemplaza el pergamino por uno falso que no se ilumina y planea para él un día de diversión para que deje de pensar en Kwei.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/33/11332157_A9CB4384DAEB48E7.jpg" />
     <country lang="es">US</country>
-    <episode-num system="onscreen">S1 E13</episode-num>
+    <episode-num system="onscreen">S1 E11</episode-num>
     <rating system="MJColombia">
       <value>TE</value>
     </rating>
   </programme>
-  <programme start="20221001182100 +0000" stop="20221001184800 +0000" channel="Disney Channel!">
-    <title lang="es">Gravity Falls: Un verano de misterios</title>
-    <sub-title lang="es">Visita al refugio</sub-title>
-    <desc lang="es">Cuando las páginas de diarios secretos de Dipper lo llevan a él y a la banda al búnker oculto del autor, se encuentran cara a cara con una figura misteriosa de la historia de Gravity Falls.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/81/12816815_C6AFA830F59A29FD.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S2 E2</episode-num>
+  <programme start="20221004163700 +0000" stop="20221004170400 +0000" channel="Discovery Kids!">
+    <title lang="es">Peppa</title>
+    <sub-title lang="es">La reina, La isla desierta, Perfume, La fiesta de los niños, El acuario</sub-title>
+    <desc lang="es">Peppa es una cerdita que vive con su hermanito George, su mamá y su papá. A Peppa le encanta jugar y saltar en los charcos de lodo. ¡Sus aventuras siempre terminan bien y con ronquidos de risa.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/91/9913751_B5DF78F88F2337CA.jpg" />
+    <country lang="es">GB</country>
     <rating system="MJColombia">
       <value>TE</value>
     </rating>
   </programme>
-  <programme start="20221001184800 +0000" stop="20221001191500 +0000" channel="Disney Channel!">
-    <title lang="es">Gravity Falls: Un verano de misterios</title>
-    <sub-title lang="es">Él no es lo que parece</sub-title>
-    <desc lang="es">Los gemelos se preguntan si realmente conocen a Grunkle Stan después de ser detenido por los agentes del gobierno.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/87/12870518_AFCA000088267B92.jpg" />
-    <country lang="es">US</country>
-    <episode-num system="onscreen">S2 E11</episode-num>
+  <programme start="20221004170400 +0000" stop="20221004171500 +0000" channel="Discovery Kids!">
+    <title lang="es">Underdogs United</title>
+    <sub-title lang="es">El doctor malvado</sub-title>
+    <desc lang="es">La insistencia de Capi cuando se trata de seguir las reglas, hace que siga los consejos de un doctor del vecindario, quien es en realidad Waldobert Worst disfrazado. El doctor intenta prescribirles reposo absoluto a Capi y a los Underdogs con el afán de ponerle fin a los deportes en Sportsville.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/65/10651949_11C1D2B837FE7ACA.jpg" />
+    <country lang="es">AR</country>
+    <episode-num system="onscreen">S1 E9</episode-num>
     <rating system="MJColombia">
       <value>TE</value>
     </rating>
   </programme>
-  <programme start="20221001191500 +0000" stop="20221001194200 +0000" channel="Disney Channel!">
-    <title lang="es">Gravity Falls: Un verano de misterios</title>
-    <sub-title lang="es">Dipper y Mabel contra el futuro</sub-title>
-    <desc lang="es">Cuando se acerca el décimo tercer cumpleaños de Dipper y Mabel, Ford y Dipper se embarcan en una misión peligrosa.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/08/13086004_DE6DE2E09B31573D.jpg" />
+  <programme start="20221004171500 +0000" stop="20221004173000 +0000" channel="Discovery Kids!">
+    <title lang="es">Underdogs United</title>
+    <sub-title lang="es">La mascota de Gigi</sub-title>
+    <desc lang="es">Gigi lleva una mascota adorable llamada 'Cheeky la gallina'. A pesar de sus encantos y que todos la quieren, Cheeky termina generando muchos problemas a los Underdogs United tanto fuera de la cancha como en ella.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/65/10651975_F4A8C0A4FE8CB1C7.jpg" />
+    <country lang="es">AR</country>
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221004173000 +0000" stop="20221004174200 +0000" channel="Discovery Kids!">
+    <title lang="es">GhostForce</title>
+    <sub-title lang="es">Gmagia</sub-title>
+    <desc lang="es">Mike se obsesiona con entender cada truco de magia al enfrentarse a Gmagia.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/08/10083357_308D5B4501C39902.jpg" />
+    <country lang="es">FR</country>
+    <episode-num system="onscreen">S1 E22</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221004174200 +0000" stop="20221004175700 +0000" channel="Discovery Kids!">
+    <title lang="es">Polly Pocket</title>
+    <sub-title lang="es">Felices Fiestas Con Polly</sub-title>
+    <desc lang="es">Polly está tan emocionada con hacerles el regalo perfecto a todos en Littleton, que descuida a su nueva amiga Big.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/96/9966964_B48D663F5A9D6F49.jpg" />
     <country lang="es">US</country>
-    <episode-num system="onscreen">S2 E17</episode-num>
+    <episode-num system="onscreen">S2 E26</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221004175700 +0000" stop="20221004180900 +0000" channel="Discovery Kids!">
+    <title lang="es">The Enchanted Village Of Pinocchio</title>
+    <sub-title lang="es">Mi papá es un héroe</sub-title>
+    <desc lang="es">El día antes del 'día de la profesión de los padres', Volpek se burla de Pinocho porque su padre solo hace banquetas. Nuestro héroe intenta disuadir a su padre de que vaya a la escuela.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/98/11989404_C9FFFEF795AE64D5.jpg" />
+    <country lang="es">IT</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221004181900 +0000" stop="20221004183100 +0000" channel="Discovery Kids!">
+    <title lang="es">The Beachbuds</title>
+    <sub-title lang="es">Crianza revuelta</sub-title>
+    <desc lang="es">Alejandro encuentra un huevo en el campo de golf y no sabe qué hacer con él, entonces Bayo y Nola deciden criarlo juntos en familia. Nola espera que esta sea una excelente manera de acercarse a Bayo, pero la paternidad es difícil.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/43/12433696_20ABC7F7CEB92B44.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221004183100 +0000" stop="20221004184600 +0000" channel="Discovery Kids!">
+    <title lang="es">Primaria de héroes</title>
+    <sub-title lang="es">El sonido de helado</sub-title>
+    <desc lang="es">Un camión de helados se vuelve invisible accidentalmente, y el equipo de Sparks tiene que confiar en el sonido de la música del camión para rastrearlo y encontrarlo.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/42/10422428_2F57FBA244BE04A0.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E27</episode-num>
     <rating system="MJColombia">
       <value>TE</value>
     </rating>
@@ -20055,6 +19830,59 @@
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/08/13081884_BE7FCE31F1EB48C7.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S2 E14</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221004164900 +0000" stop="20221004171700 +0000" channel="Disney Channel!">
+    <title lang="es">Agente K.C.</title>
+    <sub-title lang="es">Asuntos de trabajo</sub-title>
+    <desc lang="es">KC y Craig descubren que el dispositivo Storm Maker no puede funcionar sin una sustancia química rara conocida como Dilithium. Van de incógnito como trabajadores en un restaurante de paradas de camiones para que puedan obtenerlo de un camión.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/05/13052219_AD3F17DB071B55E1.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S3 E8</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221004171700 +0000" stop="20221004174500 +0000" channel="Disney Channel!">
+    <title lang="es">A todo ritmo</title>
+    <sub-title lang="es">A Todo Mi Bella Biblotecaria</sub-title>
+    <desc lang="es">CeCe y Rocky son dos amigos que audicionan para el programa 'A todo ritmo Chicago'. Pero CeCe no es seleccionada pues sus nervios la traicionan en plena audición. Rocky que quedó adentro, no está dispuesto a dejar atrás a su compañera.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/33/12338426_D41B6E6F5766CFD9.jpg" />
+    <country lang="es">US</country>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221004174500 +0000" stop="20221004180000 +0000" channel="Disney Channel!">
+    <title lang="es">Hotel Transylvania: La serie</title>
+    <sub-title lang="es">La envoltura</sub-title>
+    <desc lang="es">El lujoso Hotel Transylvania es la sede principal de las aventuras más disparatadas de Drácula, su hija Mavis y los demás monstruos que aguardan en el lugar, ya que su único objetivo es mantenerse a salvo y apartados de los humanos.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/10/13102339_8A9D3FFC39B23F5E.jpg" />
+    <country lang="es">US</country>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221004180000 +0000" stop="20221004182800 +0000" channel="Disney Channel!">
+    <title lang="es">Gravity Falls: Un verano de misterios</title>
+    <sub-title lang="es">El misterio de la mansión noroeste</sub-title>
+    <desc lang="es">Pacifica invita a Dipper a su mansión para deshacerse de un fantasma; de lo contrario, la reputación del noroeste se arruinaría.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/06/13062433_1B76EA97AD208B3C.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S2 E10</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20221004182800 +0000" stop="20221004190000 +0000" channel="Disney Channel!">
+    <title lang="es">Star vs. las fuerzas del mal</title>
+    <sub-title lang="es">Trampa Butterfly; Ludo, ¿dónde estás?</sub-title>
+    <desc lang="es">Moon y el Magic High Commission ponen a prueba a Eclipsa por su malvado pasado. Dennis emprende un viaje para encontrar a Ludo viviendo en otra dimensión.(n)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/91/12910298_A0B368A22BB17C28.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S3 E16</episode-num>
     <rating system="MJColombia">
       <value>TE</value>
     </rating>
