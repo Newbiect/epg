@@ -237,7 +237,7 @@
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20221012090000 +0000" stop="20221012130000 +0000" channel="Vevo Pop">
+  <programme start="20221012090000 +0000" stop="20221012150000 +0000" channel="Vevo Pop">
     <title lang="en">Vevo Pop</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
@@ -246,26 +246,14 @@
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20221012130000 +0000" stop="20221012140000 +0000" channel="Vevo Pop">
-    <title lang="en">Rocktober: Pop Punk &amp; Alt Rock</title>
-    <desc lang="en">Jam out to these pop punkers and alt rockers all October long.(n)</desc>
-    <category lang="en">Music</category>
-    <category lang="en">Pop</category>
-    <icon src="https://images.pluto.tv/episodes/632836a29d9b7c00133a38dd/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-  </programme>
-  <programme start="20221012140000 +0000" stop="20221012150000 +0000" channel="Vevo Pop">
-    <title lang="en">Pop Videos</title>
-    <desc lang="en">Hot new videos.(n)</desc>
-    <category lang="en">Music</category>
-    <category lang="en">Pop</category>
-    <icon src="https://images.pluto.tv/episodes/62fade1e9bd9c6001b63ac6e/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-  </programme>
   <programme start="20221012150000 +0000" stop="20221012160000 +0000" channel="Vevo Pop">
-    <title lang="en">DSCVR Pop</title>
-    <desc lang="en">Videos from artists on the rise.(n)</desc>
-    <category lang="en">Music</category>
-    <category lang="en">Pop</category>
-    <icon src="https://images.pluto.tv/episodes/62fade1e9bd9c6001b63ac74/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <title lang="en">Vevo Pop</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
   </programme>
   <programme start="20221012160000 +0000" stop="20221012180000 +0000" channel="Vevo Pop">
     <title lang="en">Autumnal Vibes</title>
@@ -330,7 +318,21 @@
     <category lang="en">Pop</category>
     <icon src="https://images.pluto.tv/episodes/62fade1d9bd9c6001b63ac5b/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
-  <programme start="20221013040000 +0000" stop="20221013090000 +0000" channel="Vevo Pop">
+  <programme start="20221013040000 +0000" stop="20221013060000 +0000" channel="Vevo Pop">
+    <title lang="en">Pop Videos</title>
+    <desc lang="en">Hot new videos.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Pop</category>
+    <icon src="https://images.pluto.tv/episodes/62fade1d9bd9c6001b63ac62/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221013060000 +0000" stop="20221013080000 +0000" channel="Vevo Pop">
+    <title lang="en">Pop Videos</title>
+    <desc lang="en">Hot new videos.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Pop</category>
+    <icon src="https://images.pluto.tv/episodes/62fade1d9bd9c6001b63ac62/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221013080000 +0000" stop="20221013090000 +0000" channel="Vevo Pop">
     <title lang="en">Vevo Pop</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
@@ -411,7 +413,7 @@
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20221012090000 +0000" stop="20221012120000 +0000" channel="Vevo 2K">
+  <programme start="20221012090000 +0000" stop="20221012150000 +0000" channel="Vevo 2K">
     <title lang="en">Vevo 2K</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
@@ -420,26 +422,14 @@
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20221012120000 +0000" stop="20221012140000 +0000" channel="Vevo 2K">
-    <title lang="en">Top Hits</title>
-    <desc lang="en">The decade's biggest videos.(n)</desc>
-    <category lang="en">Music</category>
-    <category lang="en">Pop</category>
-    <icon src="https://images.pluto.tv/episodes/62fae54520b977001eecc93c/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-  </programme>
-  <programme start="20221012140000 +0000" stop="20221012150000 +0000" channel="Vevo 2K">
-    <title lang="en">Best of New Found Glory</title>
-    <desc lang="en">Videos from the pop-punk band. #VevoROCKTOBER.(n)</desc>
-    <category lang="en">Music</category>
-    <category lang="en">Pop</category>
-    <icon src="https://images.pluto.tv/episodes/633d32995f952a00138a5b37/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-  </programme>
   <programme start="20221012150000 +0000" stop="20221012160000 +0000" channel="Vevo 2K">
-    <title lang="en">Green Day: Live at Milton Keynes National Bowl, 2005</title>
-    <desc lang="en">Watch the punk band tear through England in this 2005 concert! #VevoROCKTOBER.(n)</desc>
-    <category lang="en">Music</category>
-    <category lang="en">Pop</category>
-    <icon src="https://images.pluto.tv/episodes/633615f80eb13d0013a0214f/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <title lang="en">Vevo 2K</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
   </programme>
   <programme start="20221012160000 +0000" stop="20221012180000 +0000" channel="Vevo 2K">
     <title lang="en">Alt to Rock</title>
@@ -504,7 +494,21 @@
     <category lang="en">Pop</category>
     <icon src="https://images.pluto.tv/episodes/62fae54520b977001eecc943/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
-  <programme start="20221013040000 +0000" stop="20221013090000 +0000" channel="Vevo 2K">
+  <programme start="20221013040000 +0000" stop="20221013060000 +0000" channel="Vevo 2K">
+    <title lang="en">Vevo 2K Videos</title>
+    <desc lang="en">Videos from all of your favorite 2K artists.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Pop</category>
+    <icon src="https://images.pluto.tv/episodes/62fae54620b977001eecc94a/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221013060000 +0000" stop="20221013080000 +0000" channel="Vevo 2K">
+    <title lang="en">Vevo 2K Videos</title>
+    <desc lang="en">Videos from all of your favorite 2K artists.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Pop</category>
+    <icon src="https://images.pluto.tv/episodes/62fae54620b977001eecc94a/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221013080000 +0000" stop="20221013090000 +0000" channel="Vevo 2K">
     <title lang="en">Vevo 2K</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
@@ -585,7 +589,7 @@
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20221012090000 +0000" stop="20221012120000 +0000" channel="Vevo Reggaetón &amp; Trap">
+  <programme start="20221012090000 +0000" stop="20221012150000 +0000" channel="Vevo Reggaetón &amp; Trap">
     <title lang="en">Vevo Reggaeton &amp; Trap</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
@@ -594,33 +598,14 @@
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20221012120000 +0000" stop="20221012140000 +0000" channel="Vevo Reggaetón &amp; Trap">
-    <title lang="en">Reggaeton &amp; Trap Videos</title>
-    <desc lang="en">Hot new videos.(n)</desc>
-    <category lang="en">Music</category>
-    <category lang="en">Dance &amp; Party</category>
-    <icon src="https://images.pluto.tv/episodes/62fae53120b977001eecc368/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-  </programme>
-  <programme start="20221012140000 +0000" stop="20221012150000 +0000" channel="Vevo Reggaetón &amp; Trap">
-    <title lang="en">Reggaeton &amp; Trap Videos</title>
-    <desc lang="en">Hot new videos.(n)</desc>
-    <category lang="en">Music</category>
-    <category lang="en">Dance &amp; Party</category>
-    <icon src="https://images.pluto.tv/episodes/62fae53220b977001eecc373/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-  </programme>
-  <programme start="20221012150000 +0000" stop="20221012160000 +0000" channel="Vevo Reggaetón &amp; Trap">
-    <title lang="en">Hispanic Heritage Month: DSCVR Artists on the Rise</title>
-    <desc lang="en">Celebrate Hispanic Herititage month with videos from Latin artists on the rise.(n)</desc>
-    <category lang="en">Music</category>
-    <category lang="en">Dance &amp; Party</category>
-    <icon src="https://images.pluto.tv/episodes/6321c962e2125200134d1e6a/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-  </programme>
-  <programme start="20221012160000 +0000" stop="20221012170000 +0000" channel="Vevo Reggaetón &amp; Trap">
-    <title lang="en">R&amp;T Femeninas Con Flow</title>
-    <desc lang="en">Videos from the women of Reggaeton and trap.(n)</desc>
-    <category lang="en">Music</category>
-    <category lang="en">Dance &amp; Party</category>
-    <icon src="https://images.pluto.tv/episodes/62fae53220b977001eecc382/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  <programme start="20221012150000 +0000" stop="20221012170000 +0000" channel="Vevo Reggaetón &amp; Trap">
+    <title lang="en">Vevo Reggaeton &amp; Trap</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5f32f397795b750007706448/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
   </programme>
   <programme start="20221012170000 +0000" stop="20221012180000 +0000" channel="Vevo Reggaetón &amp; Trap">
     <title lang="en">Hispanic Heritage Month</title>
@@ -678,7 +663,21 @@
     <category lang="en">Dance &amp; Party</category>
     <icon src="https://images.pluto.tv/episodes/62fae53120b977001eecc361/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
-  <programme start="20221013040000 +0000" stop="20221013090000 +0000" channel="Vevo Reggaetón &amp; Trap">
+  <programme start="20221013040000 +0000" stop="20221013060000 +0000" channel="Vevo Reggaetón &amp; Trap">
+    <title lang="en">Reggaeton &amp; Trap Videos</title>
+    <desc lang="en">Hot new videos.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Dance &amp; Party</category>
+    <icon src="https://images.pluto.tv/episodes/62fae53120b977001eecc368/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221013060000 +0000" stop="20221013080000 +0000" channel="Vevo Reggaetón &amp; Trap">
+    <title lang="en">Reggaeton &amp; Trap Videos</title>
+    <desc lang="en">Hot new videos.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Dance &amp; Party</category>
+    <icon src="https://images.pluto.tv/episodes/62fae53120b977001eecc368/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221013080000 +0000" stop="20221013090000 +0000" channel="Vevo Reggaetón &amp; Trap">
     <title lang="en">Vevo Reggaeton &amp; Trap</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
@@ -759,7 +758,7 @@
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20221012090000 +0000" stop="20221012130000 +0000" channel="Vevo Latino">
+  <programme start="20221012090000 +0000" stop="20221012150000 +0000" channel="Vevo Latino">
     <title lang="en">Vevo Latino</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
@@ -768,40 +767,14 @@
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20221012130000 +0000" stop="20221012140000 +0000" channel="Vevo Latino">
-    <title lang="en">Latin Videos</title>
-    <desc lang="en">¡Los mejores videos de pop latino!(n)</desc>
-    <category lang="en">Music</category>
-    <category lang="en">Latino</category>
-    <icon src="https://images.pluto.tv/episodes/61ee6ac879ba2f001aab1cf0/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-  </programme>
-  <programme start="20221012140000 +0000" stop="20221012150000 +0000" channel="Vevo Latino">
-    <title lang="en">Hispanic Heritage Month: Afro-Latino</title>
-    <desc lang="en">Es el Mes de la Herencia Hispana y estamos destacando a los afrolatinos que continúan allanando el camino y siendo una fuerza impulsora en la industria de la música latina hoy día.(n)</desc>
-    <category lang="en">Music</category>
-    <category lang="en">Latino</category>
-    <icon src="https://images.pluto.tv/episodes/6336d367b2e75600132ab3d8/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-  </programme>
-  <programme start="20221012150000 +0000" stop="20221012160000 +0000" channel="Vevo Latino">
-    <title lang="en">En Vivo</title>
-    <desc lang="en">Favorite artists straight from the stage.(n)</desc>
-    <category lang="en">Music</category>
-    <category lang="en">Latino</category>
-    <icon src="https://images.pluto.tv/episodes/61f975a1f72e7b001a73ec41/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-  </programme>
-  <programme start="20221012160000 +0000" stop="20221012170000 +0000" channel="Vevo Latino">
-    <title lang="en">Hispanic Heritage Month: Latin Stars</title>
-    <desc lang="en">Celebrate Hispanic Heritage Month with videos from iconic Latin stars like Shakira, Enrique Igelesias, and more.(n)</desc>
-    <category lang="en">Music</category>
-    <category lang="en">Latino</category>
-    <icon src="https://images.pluto.tv/episodes/63249687b5308b0014df02fd/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-  </programme>
-  <programme start="20221012170000 +0000" stop="20221012173000 +0000" channel="Vevo Latino">
-    <title lang="en">Hispanic Heritage Month: Regional Mexicano</title>
-    <desc lang="en">¡Los mejores videos de pop latino!(n)</desc>
-    <category lang="en">Music</category>
-    <category lang="en">Latino</category>
-    <icon src="https://images.pluto.tv/episodes/6335c11fb5308b0014e42947/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  <programme start="20221012150000 +0000" stop="20221012173000 +0000" channel="Vevo Latino">
+    <title lang="en">Vevo Latino</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5da0d64d0e8a62000964ebe4/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
   </programme>
   <programme start="20221012173000 +0000" stop="20221012180000 +0000" channel="Vevo Latino">
     <title lang="en">Puro Hits</title>
@@ -880,7 +853,21 @@
     <category lang="en">Latino</category>
     <icon src="https://images.pluto.tv/episodes/6285818c8fa44b0014d21ad1/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
-  <programme start="20221013040000 +0000" stop="20221013090000 +0000" channel="Vevo Latino">
+  <programme start="20221013040000 +0000" stop="20221013060000 +0000" channel="Vevo Latino">
+    <title lang="en">Latin Videos</title>
+    <desc lang="en">¡Los mejores videos de pop latino!(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Latino</category>
+    <icon src="https://images.pluto.tv/episodes/61f452b50a7fe8001a15864a/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221013060000 +0000" stop="20221013080000 +0000" channel="Vevo Latino">
+    <title lang="en">Latin Videos</title>
+    <desc lang="en">¡Los mejores videos de pop latino!(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Latino</category>
+    <icon src="https://images.pluto.tv/episodes/61f452b50a7fe8001a15864a/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221013080000 +0000" stop="20221013090000 +0000" channel="Vevo Latino">
     <title lang="en">Vevo Latino</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
@@ -961,7 +948,7 @@
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20221012090000 +0000" stop="20221012120000 +0000" channel="Vevo Country">
+  <programme start="20221012090000 +0000" stop="20221012150000 +0000" channel="Vevo Country">
     <title lang="en">Vevo Country</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
@@ -970,26 +957,14 @@
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20221012120000 +0000" stop="20221012140000 +0000" channel="Vevo Country">
-    <title lang="en">Country Videos</title>
-    <desc lang="en">Nothing but hit videos from the biggest Country artists!(n)</desc>
-    <category lang="en">Music</category>
-    <category lang="en">Country</category>
-    <icon src="https://images.pluto.tv/episodes/62fade269bd9c6001b63aeb1/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-  </programme>
-  <programme start="20221012140000 +0000" stop="20221012150000 +0000" channel="Vevo Country">
-    <title lang="en">Country Videos</title>
-    <desc lang="en">Nothing but hit videos from the biggest Country artists!(n)</desc>
-    <category lang="en">Music</category>
-    <category lang="en">Country</category>
-    <icon src="https://images.pluto.tv/episodes/62fade279bd9c6001b63aedf/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-  </programme>
   <programme start="20221012150000 +0000" stop="20221012160000 +0000" channel="Vevo Country">
-    <title lang="en">DSCVR Country</title>
-    <desc lang="en">Country's most buzzing new artists.(n)</desc>
-    <category lang="en">Music</category>
-    <category lang="en">Country</category>
-    <icon src="https://images.pluto.tv/episodes/62fade269bd9c6001b63aec6/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <title lang="en">Vevo Country</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
   </programme>
   <programme start="20221012160000 +0000" stop="20221012180000 +0000" channel="Vevo Country">
     <title lang="en">Midday Mix</title>
@@ -1040,7 +1015,21 @@
     <category lang="en">Country</category>
     <icon src="https://images.pluto.tv/episodes/6311fe7abb171a00130e9676/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
-  <programme start="20221013040000 +0000" stop="20221013090000 +0000" channel="Vevo Country">
+  <programme start="20221013040000 +0000" stop="20221013060000 +0000" channel="Vevo Country">
+    <title lang="en">Country Videos</title>
+    <desc lang="en">Nothing but hit videos from the biggest Country artists!(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Country</category>
+    <icon src="https://images.pluto.tv/episodes/62fade269bd9c6001b63aeb1/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221013060000 +0000" stop="20221013080000 +0000" channel="Vevo Country">
+    <title lang="en">Country Videos</title>
+    <desc lang="en">Nothing but hit videos from the biggest Country artists!(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Country</category>
+    <icon src="https://images.pluto.tv/episodes/62fade269bd9c6001b63aeb1/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221013080000 +0000" stop="20221013090000 +0000" channel="Vevo Country">
     <title lang="en">Vevo Country</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
@@ -1121,7 +1110,7 @@
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20221012090000 +0000" stop="20221012130000 +0000" channel="Vevo R&amp;B">
+  <programme start="20221012090000 +0000" stop="20221012150000 +0000" channel="Vevo R&amp;B">
     <title lang="en">Vevo R&amp;B</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
@@ -1130,26 +1119,14 @@
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20221012130000 +0000" stop="20221012140000 +0000" channel="Vevo R&amp;B">
-    <title lang="en">Souled Out</title>
-    <desc lang="en">From groove to smooth, videos to get your vibes right!(n)</desc>
-    <category lang="en">Music</category>
-    <category lang="en">R&amp;B/Soul</category>
-    <icon src="https://images.pluto.tv/episodes/62fade099bd9c6001b63a690/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-  </programme>
-  <programme start="20221012140000 +0000" stop="20221012150000 +0000" channel="Vevo R&amp;B">
-    <title lang="en">Souled Out</title>
-    <desc lang="en">From groove to smooth, videos to get your vibes right!(n)</desc>
-    <category lang="en">Music</category>
-    <category lang="en">R&amp;B/Soul</category>
-    <icon src="https://images.pluto.tv/episodes/62fade099bd9c6001b63a690/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-  </programme>
   <programme start="20221012150000 +0000" stop="20221012160000 +0000" channel="Vevo R&amp;B">
-    <title lang="en">DSCVR R&amp;B</title>
-    <desc lang="en">Emerging artists that one needs to know about.(n)</desc>
-    <category lang="en">Music</category>
-    <category lang="en">R&amp;B/Soul</category>
-    <icon src="https://images.pluto.tv/episodes/62fade099bd9c6001b63a697/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <title lang="en">Vevo R&amp;B</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
   </programme>
   <programme start="20221012160000 +0000" stop="20221012180000 +0000" channel="Vevo R&amp;B">
     <title lang="en">R&amp;B Feels</title>
@@ -1210,7 +1187,21 @@
     <category lang="en">R&amp;B/Soul</category>
     <icon src="https://images.pluto.tv/episodes/62fade089bd9c6001b63a674/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
-  <programme start="20221013040000 +0000" stop="20221013090000 +0000" channel="Vevo R&amp;B">
+  <programme start="20221013040000 +0000" stop="20221013060000 +0000" channel="Vevo R&amp;B">
+    <title lang="en">Vevo R&amp;B Videos</title>
+    <desc lang="en">Videos from R&amp;B artists.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">R&amp;B/Soul</category>
+    <icon src="https://images.pluto.tv/episodes/62fade099bd9c6001b63a67b/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221013060000 +0000" stop="20221013080000 +0000" channel="Vevo R&amp;B">
+    <title lang="en">Vevo R&amp;B Videos</title>
+    <desc lang="en">Videos from R&amp;B artists.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">R&amp;B/Soul</category>
+    <icon src="https://images.pluto.tv/episodes/62fade099bd9c6001b63a67b/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221013080000 +0000" stop="20221013090000 +0000" channel="Vevo R&amp;B">
     <title lang="en">Vevo R&amp;B</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
@@ -1281,11 +1272,6 @@
     <rating>
       <value>No Rating</value>
     </rating>
-  </programme>
-  <programme start="20221012150000 +0000" stop="20221012190000 +0000" channel="Azteca America">
-    <title lang="en">Venga la alegría</title>
-    <desc lang="en">Un programa de entretenimiento, información y mucha diversión para toda la familia. Diviértete junto Patricio Borghetti, Anette Cuburu, Brandon Peniche, Sergio Sepúlveda, Ricardo Casares, Carlos Quirarte, Tabata Jalil, Mariano Sandoval y Kristal Silva en Venga la Alegría.(n)</desc>
-    <date>2006</date>
   </programme>
   <programme start="20221012190000 +0000" stop="20221012200000 +0000" channel="Azteca America">
     <title lang="en">Ventaneando</title>
@@ -1529,21 +1515,6 @@
     <title lang="en">Acércate a Rocío</title>
     <desc lang="en">Hablar de los problemas es el primer paso para superarlos, por eso, Rocío trae un programa único para hablar de todo lo que preocupa y, en conjunto, encontrar una solución.(n)</desc>
   </programme>
-  <programme start="20221012140000 +0000" stop="20221012160000 +0000" channel="Azteca Uno">
-    <title lang="en">Venga la alegría</title>
-    <desc lang="en">Un programa de entretenimiento, información y mucha diversión para toda la familia. Diviértete junto Patricio Borghetti, Anette Cuburu, Brandon Peniche, Sergio Sepúlveda, Ricardo Casares, Carlos Quirarte, Tabata Jalil, Mariano Sandoval y Kristal Silva en Venga la Alegría.(n)</desc>
-    <date>2006</date>
-  </programme>
-  <programme start="20221012160000 +0000" stop="20221012180000 +0000" channel="Azteca Uno">
-    <title lang="en">Venga la alegría</title>
-    <desc lang="en">Un programa de entretenimiento, información y mucha diversión para toda la familia. Diviértete junto Patricio Borghetti, Anette Cuburu, Brandon Peniche, Sergio Sepúlveda, Ricardo Casares, Carlos Quirarte, Tabata Jalil, Mariano Sandoval y Kristal Silva en Venga la Alegría.(n)</desc>
-    <date>2006</date>
-  </programme>
-  <programme start="20221012180000 +0000" stop="20221012190000 +0000" channel="Azteca Uno">
-    <title lang="en">Venga la alegría</title>
-    <desc lang="en">Un programa de entretenimiento, información y mucha diversión para toda la familia. Diviértete junto Patricio Borghetti, Anette Cuburu, Brandon Peniche, Sergio Sepúlveda, Ricardo Casares, Carlos Quirarte, Tabata Jalil, Mariano Sandoval y Kristal Silva en Venga la Alegría.(n)</desc>
-    <date>2006</date>
-  </programme>
   <programme start="20221012190000 +0000" stop="20221012200000 +0000" channel="Azteca Uno">
     <title lang="en">Hechos Meridiano</title>
     <desc lang="en">Un resumen de las ultimas noticias acontecidas en el día, videos y reportajes exclusivos con temas de México, Latinoamérica y el mundo, a cargo del excelente equipo periodístico de Azteca Noticias. De la mano con los periodistas Christian Lara y Alejandro Villalvazo quienes destacan su estilo concreto y veraz.(n)</desc>
@@ -1784,50 +1755,6 @@
     <title lang="en">Acércate a Rocío</title>
     <desc lang="en">Hablar de tus problemas es el primer paso para superarlos, por eso Rocío Sánchez Azuara está de regreso con un programa único, en el cual, podrás acercarte, para que con ella, hables de todo lo que te preocupa, y juntas o juntos, puedan encontrar una solución.(n)</desc>
     <date>2021</date>
-  </programme>
-  <programme start="20221012151000 +0000" stop="20221012153000 +0000" channel="UNIVERSAL REALITY">
-    <title lang="en">La familia Chrisley</title>
-    <sub-title lang="en">El gran aire libre</sub-title>
-    <desc lang="en">Todd y Chase se ven obligados a experimentar estar al aire libre cuando Grayson insiste en ir de campamento. Mientras los chicos "pasan trabajo" y aterrorizan a Grayson con historias de un lago embrujado, Savannah y Julie deben volver a la escuela de manejo.(n)</desc>
-    <date>2018</date>
-  </programme>
-  <programme start="20221012153000 +0000" stop="20221012155500 +0000" channel="UNIVERSAL REALITY">
-    <title lang="en">La familia Chrisley</title>
-    <sub-title lang="en">Matrimonio revivido</sub-title>
-    <desc lang="en">Todd y Julie quieren evitar que su matrimonio se estanque cuando los chicos se vayan a la universidad, por lo que buscan nuevas formas de reconectarse y reactivar su relación.(n)</desc>
-    <date>2021</date>
-  </programme>
-  <programme start="20221012155500 +0000" stop="20221012161500 +0000" channel="UNIVERSAL REALITY">
-    <title lang="en">La familia Chrisley</title>
-    <sub-title lang="en">Invitado infernal</sub-title>
-    <desc lang="en">A Todd Chrisley le encanta ser el rey de su castillo,.(n)</desc>
-    <date>2018</date>
-  </programme>
-  <programme start="20221012161500 +0000" stop="20221012170000 +0000" channel="UNIVERSAL REALITY">
-    <title lang="en">Nuestro propio castillo DIY</title>
-    <desc lang="en">Mientras Jonathan y Michael preparan su château para la gran boda,.(n)</desc>
-    <date>2018</date>
-  </programme>
-  <programme start="20221012170000 +0000" stop="20221012174500 +0000" channel="UNIVERSAL REALITY">
-    <title lang="en">Nuestro propio castillo DIY</title>
-    <desc lang="en">Se aproxima el día de reservaciones para la gran boda.(n)</desc>
-    <date>2018</date>
-  </programme>
-  <programme start="20221012174500 +0000" stop="20221012183000 +0000" channel="UNIVERSAL REALITY">
-    <title lang="en">Top Chef</title>
-    <desc lang="en">En un giro masivo, el desafío favorito de Padma, guerras de restautante, llega a principios de este año.(n)</desc>
-    <date>2018</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221012183000 +0000" stop="20221012191500 +0000" channel="UNIVERSAL REALITY">
-    <title lang="en">Top Chef</title>
-    <desc lang="en">Después de un día ajetreado preparando y llevando a cabo un servicio completo de almuerzo,.(n)</desc>
-    <date>2021</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
   </programme>
   <programme start="20221012191500 +0000" stop="20221012200000 +0000" channel="UNIVERSAL REALITY">
     <title lang="en">Top Chef</title>
@@ -2433,37 +2360,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221012151000 +0000" stop="20221012155500 +0000" channel="UNIVERSAL CRIME">
-    <title lang="en">Enterrado en el jardín</title>
-    <sub-title lang="en">Una súplica mortal</sub-title>
-    <desc lang="en">Cuando un secreto guardado durante mucho tiempo en Florida amenaza con exponer una verdad mortal,.(n)</desc>
-    <date>2020</date>
-  </programme>
-  <programme start="20221012155500 +0000" stop="20221012164000 +0000" channel="UNIVERSAL CRIME">
-    <title lang="en">Accidente, suicidio, o asesinato</title>
-    <desc lang="en">Un terrible accidente en una carretera de montaña deja a una mujer muerta y a su esposo herido.(n)</desc>
-    <date>2020</date>
-  </programme>
-  <programme start="20221012164000 +0000" stop="20221012172500 +0000" channel="UNIVERSAL CRIME">
-    <title lang="en">Accidente, suicidio, o asesinato</title>
-    <desc lang="en">Un joven pastor se aflige después de que su esposa muere en un incendio en una casa.(n)</desc>
-    <date>2021</date>
-  </programme>
-  <programme start="20221012172500 +0000" stop="20221012181000 +0000" channel="UNIVERSAL CRIME">
-    <title lang="en">Un motivo para matar</title>
-    <desc lang="en">Los miembros de una familia buscan desesperadamente a un adolescente desaparecido de Virginia,.(n)</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20221012181000 +0000" stop="20221012185500 +0000" channel="UNIVERSAL CRIME">
-    <title lang="en">Un motivo para matar</title>
-    <desc lang="en">La policía busca a un pistolero de aspecto extraño que fue visto huyendo después de matar a tiros a una joven madre y descubren a un inesperado sospechoso con un motivo imposible de comprender.(n)</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20221012185500 +0000" stop="20221012194500 +0000" channel="UNIVERSAL CRIME">
-    <title lang="en">Votos fatales</title>
-    <desc lang="en">Stephanie y Daniel son jóvenes, están enamorados y equilibran felizmente el trabajo y la diversión.(n)</desc>
-    <date>2022</date>
-  </programme>
   <programme start="20221012194500 +0000" stop="20221012203500 +0000" channel="UNIVERSAL CRIME">
     <title lang="en">Votos fatales</title>
     <desc lang="en">La mayor parte de los noviazgos de secundaria terminan en desamor,.(n)</desc>
@@ -2863,71 +2759,6 @@
     <sub-title lang="en">Obligado a matar</sub-title>
     <desc lang="en">Un asesino en serie provoca a Wichita, Kansas,.(n)</desc>
     <date>2021</date>
-  </programme>
-  <programme start="20221012152000 +0000" stop="20221012154500 +0000" channel="UNIVERSAL COMEDY">
-    <title lang="en">The Office</title>
-    <desc lang="en">Un año después, los empleados del pasado y del presente de Dunder Mifflin se reúnen para una mesa redonda sobre el documental y para asistir a la boda de Dwight y Angela.(n)</desc>
-    <date>2005</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221012154500 +0000" stop="20221012161000 +0000" channel="UNIVERSAL COMEDY">
-    <title lang="en">The Office</title>
-    <desc lang="en">Un año después, los empleados del pasado y del presente de Dunder Mifflin se reúnen para una mesa redonda sobre el documental y para asistir a la boda de Dwight y Angela.(n)</desc>
-    <date>2013</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221012161000 +0000" stop="20221012163500 +0000" channel="UNIVERSAL COMEDY">
-    <title lang="en">The Office</title>
-    <desc lang="en">Un año después, los empleados del pasado y del presente de Dunder Mifflin se reúnen para una mesa redonda sobre el documental y para asistir a la boda de Dwight y Angela.(n)</desc>
-    <date>2005</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221012163500 +0000" stop="20221012170000 +0000" channel="UNIVERSAL COMEDY">
-    <title lang="en">The Office</title>
-    <desc lang="en">Serie con toques de reality que parodia las nimiedades diarias dentro de una compañía papelera supervisada por un jefe incompetente. Una nueva versión de la exitosa serie británica del mismo nombre.(n)</desc>
-    <date>2005</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221012170000 +0000" stop="20221012172500 +0000" channel="UNIVERSAL COMEDY">
-    <title lang="en">Señor alcalde</title>
-    <sub-title lang="en">Respeto en el lugar de trabajo</sub-title>
-    <desc lang="en">Una reunión de personal obligatoria descarrila los planes del día preferido del mes del equipo.(n)</desc>
-    <date>2021</date>
-  </programme>
-  <programme start="20221012172500 +0000" stop="20221012175000 +0000" channel="UNIVERSAL COMEDY">
-    <title lang="en">Ghosts</title>
-    <desc lang="en">Cuando se descubren los huesos de Thorfinn en la propiedad,.(n)</desc>
-    <date>2021</date>
-  </programme>
-  <programme start="20221012175000 +0000" stop="20221012182000 +0000" channel="UNIVERSAL COMEDY">
-    <title lang="en">Dr. Ken</title>
-    <desc lang="en">La boda de un colega le da la oportunidad a Ken de mostrar sus pasos de baile,.(n)</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20221012182000 +0000" stop="20221012184500 +0000" channel="UNIVERSAL COMEDY">
-    <title lang="en">Upright</title>
-    <desc lang="en">Lucky, un músico autodestructivo,.(n)</desc>
-    <date>2021</date>
-  </programme>
-  <programme start="20221012184500 +0000" stop="20221012191000 +0000" channel="UNIVERSAL COMEDY">
-    <title lang="en">The Unicorn</title>
-    <sub-title lang="en">Solo protagónicos</sub-title>
-    <desc lang="en">Cuando a Grace le dan el papel principal del musical de la escuela, Wade se da cuenta,.(n)</desc>
-    <date>2019</date>
-  </programme>
-  <programme start="20221012191000 +0000" stop="20221012193500 +0000" channel="UNIVERSAL COMEDY">
-    <title lang="en">The Mindy Project</title>
-    <sub-title lang="en">¿Esto era todo?</sub-title>
-    <desc lang="en">Shulman Associates está en pleno drama. Mientras Mindy se adapta a la vida de casada con Ben,.(n)</desc>
-    <date>2017</date>
   </programme>
   <programme start="20221012193500 +0000" stop="20221012200000 +0000" channel="UNIVERSAL COMEDY">
     <title lang="en">The Mindy Project</title>
@@ -3683,24 +3514,6 @@
     <desc lang="en">Jeremy da una fiesta en la oficina y, esta vez, está emocionado. Para sumarle a la intriga,.(n)</desc>
     <date>2018</date>
   </programme>
-  <programme start="20221012140500 +0000" stop="20221012154500 +0000" channel="UNIVERSAL CINEMA">
-    <title lang="en">El Rey Escorpion 5: El Libro de las Almas</title>
-    <desc lang="en">El Rey Escorpión une sus fuerzas con la guerrera Tala, la feroz hermana del rey de Nubia, para detener a un malvado señor de la guerra. El dúo se entera de que debe recuperar el poderoso libro de las almas para derrotar al Señor de la guerra y se ponen en marcha para encontrar la legendaria reliquia.(n)</desc>
-    <date>2018</date>
-  </programme>
-  <programme start="20221012154500 +0000" stop="20221012174000 +0000" channel="UNIVERSAL CINEMA">
-    <title lang="en">Protegiendo al enemigo</title>
-    <desc lang="en">El exagente de la CIA, Frost Tobin, ha entrado al programa de protección de testigos y está en un hogar bajo alta protección. Pero cuando la casa es atacada por un grupo de delincuentes, Frost no tiene más remedio que seguir a un nuevo recluta, Matt Weston, encargado con trasladarlo a otro lugar seguro.(n)</desc>
-    <date>2012</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221012174000 +0000" stop="20221012195000 +0000" channel="UNIVERSAL CINEMA">
-    <title lang="en">Rápidos y Furiosos: Hobbs and Shaw</title>
-    <desc lang="en">Spin-off de la franquicia cinematográfica "A todo gas", que sigue al policía estadounidense Hobbs y al mercenario británico Shaw. En el pasado, Hobbs encarceló a Shaw después de que este intentara matarlo. Ahora deben aliarse para combatir al terrorista Brixton, que tiene una fuerza sobrenatural.(n)</desc>
-    <date>2019</date>
-  </programme>
   <programme start="20221012195000 +0000" stop="20221012213500 +0000" channel="UNIVERSAL CINEMA">
     <title lang="en">Los Agentes del Destino</title>
     <desc lang="en">David Norris es un carismático congresista a punto de ser elegido senador cuando se enamora de una hermosa bailarina llamada Elise, que alterará completamente su vida. Descubre que debe luchar contra el mismo destino y el Departamento de Ajuste que interpone a sus hombres entre él y Elise. Ahora tiene que escoger entre dejar que Elise se vaya y seguir el camino predestinado, o arriesgarlo todo para estar con ella.(n)</desc>
@@ -3950,54 +3763,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221012145500 +0000" stop="20221012154000 +0000" channel="UNIVERSAL PREMIERE">
-    <title lang="en">Blue Bloods</title>
-    <desc lang="en">Los miembros de la familia Reagan tienen una vocación común: velar por el cumplimiento de las leyes en las conflictivas calles de Nueva York. Pero todo cambia cuando el hijo menor forme parte de una investigación clandestina.(n)</desc>
-    <date>2011</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221012154000 +0000" stop="20221012162500 +0000" channel="UNIVERSAL PREMIERE">
-    <title lang="en">Blue Bloods</title>
-    <desc lang="en">Los miembros de la familia Reagan tienen una vocación común: velar por el cumplimiento de las leyes en las conflictivas calles de Nueva York. Pero todo cambia cuando el hijo menor forme parte de una investigación clandestina.(n)</desc>
-    <date>2010</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221012162500 +0000" stop="20221012171500 +0000" channel="UNIVERSAL PREMIERE">
-    <title lang="en">Evil</title>
-    <desc lang="en">David,.(n)</desc>
-    <date>2022</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221012171500 +0000" stop="20221012180000 +0000" channel="UNIVERSAL PREMIERE">
-    <title lang="en">Chicago Fire</title>
-    <desc lang="en">Un hombre que Severide salva en un accidente automovilístico le recuerda su propio pasado y Severide se siente impulsado a ayudarlo.(n)</desc>
-    <date>2014</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221012180000 +0000" stop="20221012184500 +0000" channel="UNIVERSAL PREMIERE">
-    <title lang="en">Suits</title>
-    <desc lang="en">Harvey intenta convencer a un destacado personaje cuyo voto afecta seriamente el futuro de la firma.(n)</desc>
-    <date>2012</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221012184500 +0000" stop="20221012193000 +0000" channel="UNIVERSAL PREMIERE">
-    <title lang="en">Suits</title>
-    <desc lang="en">Mike Ross, un joven con una mente brillante pero lleno de conflictos, se topa por error con la entrevista de trabajo de Harvey Specter, un trabajador en ascenso que busca un abogado joven para contratar.(n)</desc>
-    <date>2011</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20221012193000 +0000" stop="20221012201500 +0000" channel="UNIVERSAL PREMIERE">
     <title lang="en">Suits</title>
     <desc lang="en">Mike se encuentra con un caso criminal que le deja involucrado emocionalmente.(n)</desc>
@@ -4172,8 +3937,8 @@
       <actor role="Kim Burgess">Marina Squerciati</actor>
       <actor role="Trudy Platt">Amy Morton</actor>
       <actor role="Vanessa Rojas">Lisseth Chavez</actor>
-      <writer>Matt Olmstead</writer>
-      <producer>Derek Haas</producer>
+      <writer>Michael Brandt</writer>
+      <producer>Terry Miller</producer>
       <composer>Atli Örvarsson</composer>
     </credits>
     <date>2016</date>
@@ -4383,8 +4148,8 @@
       <actor role="Kim Burgess">Marina Squerciati</actor>
       <actor role="Trudy Platt">Amy Morton</actor>
       <actor role="Vanessa Rojas">Lisseth Chavez</actor>
-      <writer>Matt Olmstead</writer>
-      <producer>Derek Haas</producer>
+      <writer>Michael Brandt</writer>
+      <producer>Terry Miller</producer>
       <composer>Atli Örvarsson</composer>
     </credits>
     <date>2016</date>
@@ -4595,16 +4360,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221012151700 +0000" stop="20221012170700 +0000" channel="HBO MUNDI">
-    <title lang="en">La Verónica</title>
-    <desc lang="en">Verónica, una modelo muy popular en las redes sociales,.(n)</desc>
-    <date>2015</date>
-  </programme>
-  <programme start="20221012170700 +0000" stop="20221012185700 +0000" channel="HBO MUNDI">
-    <title lang="en">Efectos secundarios</title>
-    <desc lang="en">Emily y Martin Taylor conforman una acaudalada pareja joven que lleva una buena vida, con una mansión, un yate y todos los lujos que el dinero puede comprar. Pero todo se desmorona cuando él es enviado a prisión por tráfico de información...(n)</desc>
-    <date>2013</date>
-  </programme>
   <programme start="20221012185700 +0000" stop="20221012201700 +0000" channel="HBO MUNDI">
     <title lang="en">La Novia de Frankenstein</title>
     <desc lang="en">En esta continuación, el Dr. Frankenstein es forzado a crear una pareja para su monstruo cuando su esposa es secuestrada por un científico loco. Colin Clive, Elsa Lanchester, Boris Karloff, Valerie Hobson, Ernest Thesiger, O.P. Heggie, Dwight Frye, E.E. Clive.(n)</desc>
@@ -4760,21 +4515,6 @@
     <title lang="en">Un cuento de invierno</title>
     <desc lang="en">Peter Lake se gana la vida en el duro Nueva York del siglo XIX, a veces de manera no muy honrada. Un día, planea un atraco a una rica mansión supuestamente vacía... Pero cuando Peter entra en ella, descubre que una hermosa joven vive allí. Una hermosa joven, Beverly Penn, gravemente enferma, de la que pronto se enamora y por la que construirá un mundo de fantasía.(n)</desc>
     <date>2014</date>
-  </programme>
-  <programme start="20221012135400 +0000" stop="20221012154900 +0000" channel="HBO XTREME">
-    <title lang="en">Godzilla vs. Kong</title>
-    <desc lang="en">El planeta está conmovido por el enfrentamiento de dos gigantes: Godzilla y Kong. Que son dos de las criaturas más poderosas, entre todas las que existen. Y su pelea pone en vilo a toda la humanidad. Mientras se atacan sin piedad, Monarch se coloca al frente de una peligrosa misión con destino hacia los territorios más inexplorados. Con el objetivo de descubrir los orígenes de estos dos titanes, para dejar a salvo a la Tierra.(n)</desc>
-    <date>2021</date>
-  </programme>
-  <programme start="20221012154900 +0000" stop="20221012172400 +0000" channel="HBO XTREME">
-    <title lang="en">Nadie</title>
-    <desc lang="en">Luego de decidir no actuar frente a un robo, la familia de Hutch no puede evitar la decepción.(n)</desc>
-    <date>2021</date>
-  </programme>
-  <programme start="20221012172400 +0000" stop="20221012185700 +0000" channel="HBO XTREME">
-    <title lang="en">Rendirse jamás 4: La vuelta</title>
-    <desc lang="en">Anya es secuestrada por un peligroso criminal y su única opción es satisfacer las demandas de su captor o unirse a las otras mujeres para derribar a sus secuestradores.(n)</desc>
-    <date>2021</date>
   </programme>
   <programme start="20221012185700 +0000" stop="20221012210200 +0000" channel="HBO XTREME">
     <title lang="en">Godzilla</title>
@@ -4943,35 +4683,6 @@
     <title lang="en">Midway: Batalla En El Pacífico</title>
     <desc lang="en">Aaron es acusado erróneamente de asesinato, por lo que su hijo Jalen crece sin un padre. Cuando Jalen y su amigo Diggy arriesgan sus vidas mezclándose con un peligroso narcotraficante, Aaron tiene esperanzas de usar el poder de la oración para cambiar las cosas, demostrar su inocencia y ayudar a su hijo.(n)</desc>
     <date>2019</date>
-  </programme>
-  <programme start="20221012145200 +0000" stop="20221012170700 +0000" channel="HBO SIGNATURE">
-    <title lang="en">The Rock &amp; Roll Hall of Fame 2020 Inductions</title>
-    <desc lang="en">Especial que honra a los artistas que entraron en el Salón de la Fama del Rock Roll en el 2020.(n)</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20221012170700 +0000" stop="20221012180200 +0000" channel="HBO SIGNATURE">
-    <title lang="en">Doom Patrol</title>
-    <desc lang="en">Las aventuras de un científico loco idealista y su equipo de campo de marginados superpoderes.(n)</desc>
-    <date>2020</date>
-    <rating system="MPAA">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20221012180200 +0000" stop="20221012185700 +0000" channel="HBO SIGNATURE">
-    <title lang="en">Doom Patrol</title>
-    <desc lang="en">Las aventuras de un científico loco idealista y su equipo de campo de marginados superpoderes.(n)</desc>
-    <date>2020</date>
-    <rating system="MPAA">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20221012185700 +0000" stop="20221012194700 +0000" channel="HBO SIGNATURE">
-    <title lang="en">Doom Patrol</title>
-    <desc lang="en">Las aventuras de un científico loco idealista y su equipo de campo de marginados superpoderes.(n)</desc>
-    <date>2020</date>
-    <rating system="MPAA">
-      <value>TV-MA</value>
-    </rating>
   </programme>
   <programme start="20221012194700 +0000" stop="20221012204200 +0000" channel="HBO SIGNATURE">
     <title lang="en">Doom Patrol</title>
@@ -5266,27 +4977,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221012141600 +0000" stop="20221012154600 +0000" channel="HBO PLUS">
-    <title lang="en">La maldición de Chucky</title>
-    <desc lang="en">Nica queda destrozada tras el terrible suicidio de su madre. Su hermana mayor regresa a su casa para ayudarle en este duro momento, trayéndose con ella a su hija, quien posee un muñeco llamado Chucky, el cual llegó de manera misteriosa por correo. A medida que una serie de brutales asesinatos comienzan a aterrorizar a la familia, Nica sospecha de Chucky.(n)</desc>
-    <date>2013</date>
-    <rating system="MPAA">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20221012154600 +0000" stop="20221012171600 +0000" channel="HBO PLUS">
-    <title lang="en">La aparición</title>
-    <desc lang="en">Kelly y Ben son una joven pareja. Ella es estudiante de veterinaria y él es técnico, y deciden mudarse para vivir juntos. Se van a una casa un tanto apartada, propiedad de los padres de Kelly. Pero en la casa empiezan a suceder cosas extrañas. Las habitaciones se llenan de moho, y el perro del vecino muere de manera misteriosa...(n)</desc>
-    <date>2012</date>
-  </programme>
-  <programme start="20221012171600 +0000" stop="20221012193600 +0000" channel="HBO PLUS">
-    <title lang="en">El conjuro 2</title>
-    <desc lang="en">Una madre soltera y sus hijos sufren numerosos sucesos extraños entre las paredes de su hogar, en Enfield (Inglaterra) durante los años 70. Los renombrados demonólogos Lorraine y Ed Warren estudiarán esta serie de fenómenos paranormales.(n)</desc>
-    <date>2016</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20221012193600 +0000" stop="20221012211100 +0000" channel="HBO PLUS">
     <title lang="en">The Boy: La Maldición De Brahms</title>
     <desc lang="en">Brahms, el terrorífico niño, está listo para atormentar a una nueva familia en su cuerpo de muñeco. Tan pronto como Sean y Liza se mudan junto a sus hijos a la Mansión Heelshire, el pequeño Judas se hace amigo del muñeco. Sus padres, inocientes de la oscura historia, deberán hacer hasta lo imposible por evitar una tragedia.(n)</desc>
@@ -5510,22 +5200,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221012141200 +0000" stop="20221012163700 +0000" channel="HBO POP">
-    <title lang="en">James Brown: El Rey del Soul</title>
-    <desc lang="en">Basada en el increíble recorrido del padrino del soul, la película se adentra en la música, la vida y los estados de ánimo de James Brown, en un viaje desde la dura infancia del cantante hasta que se convierte en una de las figuras más influyentes del siglo XX.(n)</desc>
-    <date>2014</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221012163700 +0000" stop="20221012182700 +0000" channel="HBO POP">
-    <title lang="en">Letra y Música</title>
-    <desc lang="en">Una vieja estrella pop de los 80, Alex Fletcher, tiene la oportunidad de volver a saborear el éxito cuando le piden componer y cantar una canción con la popular cantante Cora Corman. El problema es que Alex lleva años sin componer y, además, ha perdido la motivación para escribir.(n)</desc>
-    <date>2007</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20221012182700 +0000" stop="20221012204700 +0000" channel="HBO POP">
     <title lang="en">Querido Evan Hansen</title>
     <desc lang="en">El extraordinario musical de Broadway acerca de un estudiante de secundaria ansioso por pertenecer a la era de las redes sociales se convierte en un fenomeno cinematografico.(n)</desc>
@@ -5727,27 +5401,6 @@
     <title lang="en">Ocean's 8: Las Estafadoras</title>
     <desc lang="en">Debbie Ocean es la líder de un grupo de ladronas. Su aliada Lou planea llevar a cabo un gran atraco en Nueva York. Daphne, Nine, Amita, Constance, Rose y Tammy se unen a la idea y se proponen robar un valioso collar en la Met Gala, un importante evento de moda al que asisten grandes celebridades. Pero el robo no será tan fácil de llevar a cabo, puesto que un agente de seguridad podría descubrirlas.(n)</desc>
     <date>2018</date>
-  </programme>
-  <programme start="20221012141200 +0000" stop="20221012154200 +0000" channel="HBO FAMILY">
-    <title lang="en">Cigüeñas: La historia que no te contaron</title>
-    <desc lang="en">El antiguo trabajo de las cigüeñas de llevar a los bebés sosteniéndolos con sus picos para depositarlos en sus casas se volvió industrial. Ahora ellas se desempeñan en una compañía multinacional y hacen las entregas más sofisticadas, con paquetes.(n)</desc>
-    <date>2016</date>
-  </programme>
-  <programme start="20221012154200 +0000" stop="20221012172500 +0000" channel="HBO FAMILY">
-    <title lang="en">Como entrenar a tu dragón 2</title>
-    <desc lang="en">Han pasado cinco años desde que Hipo empezó a entrenar a su dragón, rompiendo la tradición vikinga de cazarlos. Durante un viaje descubren una cueva cubierta de hielo que resulta ser el refugio de cientos de dragones salvajes.(n)</desc>
-    <date>2014</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20221012172500 +0000" stop="20221012191500 +0000" channel="HBO FAMILY">
-    <title lang="en">Winter: el delfín 2</title>
-    <desc lang="en">La madre adoptiva de Winter ha fallecido, dejando al pequeño delfín sólo. El acuario debe encontrarle un compañero pronto sino quieren perderlo.(n)</desc>
-    <date>2014</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
   </programme>
   <programme start="20221012191500 +0000" stop="20221012210700 +0000" channel="HBO FAMILY">
     <title lang="en">Mamma Mia!</title>
@@ -5954,20 +5607,6 @@
     <desc lang="en">Newt Scamander, un excéntrico magizoólogo, acaba de ser expulsado del colegio de magia y hechicería Hogwarts, como consecuencia de un incidente relacionado con una de sus criaturas mágicas. Por ello, el joven mago decide emprender un viaje.(n)</desc>
     <date>2016</date>
   </programme>
-  <programme start="20221012152600 +0000" stop="20221012173500 +0000" channel="HBO 2">
-    <title lang="en">Ghostbusters: El legado</title>
-    <desc lang="en">Una madre soltera y sus dos hijos se mudan a una nueva ciudad, en la que pronto descubren que tienen una conexión con los Cazafantasmas originales y el legado secreto de su abuelo.(n)</desc>
-    <date>2021</date>
-  </programme>
-  <programme start="20221012173500 +0000" stop="20221012181000 +0000" channel="HBO 2">
-    <title lang="en">Los Espookys</title>
-    <sub-title lang="en">El monstruo marino</sub-title>
-    <desc lang="en">Renaldo crea una atracción turística para una ciudad costera. Tico contempla una nueva asociación para Los Espookys.(n)</desc>
-    <date>2019</date>
-    <rating system="MPAA">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
   <programme start="20221012181000 +0000" stop="20221012204500 +0000" channel="HBO 2">
     <title lang="en">Spider-Man: Sin camino a casa</title>
     <desc lang="en">Por primera vez en la historia cinematográfica de Spider-Man, se revela la identidad de nuestro héroe y amigable vecino, lo cual hace que sus responsabilidades como superhéroe entren en conflicto con su vida normal.(n)</desc>
@@ -6142,19 +5781,6 @@
   <programme start="20221014223000 +0000" stop="20221015010500 +0000" channel="HBO 2">
     <title lang="en">Duna</title>
     <desc lang="en">Un joven debe viajar a un peligroso planeta para asegurar el futuro de su pueblo.(n)</desc>
-    <date>2021</date>
-  </programme>
-  <programme start="20221012145500 +0000" stop="20221012170000 +0000" channel="HBO Latino (West)">
-    <title lang="en">Loco y estúpido amor</title>
-    <desc lang="en">Cal, un hombre divorciado, comienza a tener facilidad para conquistar a las mujeres tras formar una amistad con Jacob, un hombre mujeriego, y al mismo tiempo entiende cómo arruinó su matrimonio. Entretanto, contra su propia voluntad, Jacob se enamora de una mujer y necesita la ayuda de Cal para aprender a ser fiel.(n)</desc>
-    <date>2011</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221012170000 +0000" stop="20221012184500 +0000" channel="HBO Latino (West)">
-    <title lang="en">Aquellos que desean mi muerte</title>
-    <desc lang="en">Un adolescente testigo de un asesinato es perseguido por dos asesinos gemelos a través de las tierras salvajes de Montana.(n)</desc>
     <date>2021</date>
   </programme>
   <programme start="20221012184500 +0000" stop="20221012201500 +0000" channel="HBO Latino (West)">
@@ -6358,20 +5984,6 @@
   <programme start="20221014235000 +0000" stop="20221015020000 +0000" channel="HBO Latino (West)">
     <title lang="en">Ghostbusters: El legado</title>
     <desc lang="en">Una madre soltera y sus dos hijos se mudan a una nueva ciudad, en la que pronto descubren que tienen una conexión con los Cazafantasmas originales y el legado secreto de su abuelo.(n)</desc>
-    <date>2021</date>
-  </programme>
-  <programme start="20221012140000 +0000" stop="20221012163000 +0000" channel="Imagen TV">
-    <title lang="en">Sale el sol</title>
-    <desc lang="en">Segmento divertido, informal, dinámico, incluyente y optimista que transformará las mañanas de los mexicanos con temas actuales que inspiran, informan y generan una actitud positiva.(n)</desc>
-    <date>2016</date>
-  </programme>
-  <programme start="20221012163000 +0000" stop="20221012173000 +0000" channel="Imagen TV">
-    <title lang="en">Que chulada</title>
-    <desc lang="en">Rescata esa esencia de las conversaciones entre mujeres en un espacio en el que se puede hablar de los hot topics del momento.(n)</desc>
-  </programme>
-  <programme start="20221012173000 +0000" stop="20221012190000 +0000" channel="Imagen TV">
-    <title lang="en">Rocío a tu lado</title>
-    <desc lang="en">Hablar de tus problemas es el primer paso para superarlos.(n)</desc>
     <date>2021</date>
   </programme>
   <programme start="20221012190000 +0000" stop="20221012200000 +0000" channel="Imagen TV">
@@ -6643,22 +6255,6 @@
     <desc lang="en">Un programa que presenta problemáticas sociales y familiares y se proponen posibles soluciones.(n)</desc>
     <date>2022</date>
   </programme>
-  <programme start="20221012152500 +0000" stop="20221012172500 +0000" channel="HBO 2!">
-    <title lang="en">Megalodon</title>
-    <desc lang="en">Un barco militar se enfrenta cara a cara con un tiburón gigante mientras se encuentran en la búsqueda de un sumergible no identificado. Debido a esto, los tripulantes del barco deberán utilizar todo lo que tienen a bordo para defenderse de esta monstruosa bestia del mar.(n)</desc>
-    <date>2018</date>
-    <rating system="MPAA">
-      <value>13</value>
-    </rating>
-  </programme>
-  <programme start="20221012172500 +0000" stop="20221012192500 +0000" channel="HBO 2!">
-    <title lang="en">El agente de C.I.P.O.L.</title>
-    <desc lang="en">En plena Guerra Fría, dos agentes de la CIA y la KGB deben hacer lo posible por llevarse bien, pues tienen que trabajar en una misión conjunta para evitar una gran catástrofe. Deben desarticular una organización criminal internacional que se dedica al tráfico de armas y tecnología nuclear. Para infiltrarse, deberán encontrar a la hija de un científico alemán de quien no se sabe su paradero.(n)</desc>
-    <date>2015</date>
-    <rating system="MPAA">
-      <value>13</value>
-    </rating>
-  </programme>
   <programme start="20221012192500 +0000" stop="20221012220000 +0000" channel="HBO 2!">
     <title lang="en">Batman: El caballero de la noche</title>
     <desc lang="en">Obligado por el recrudecimiento del crimen en la ciudad, Batman debe volver a escena. El héroe enmascarado contará con la ayuda del teniente Jim Gordon y del Fiscal del Distrito, Harvey Dent, con quienes combatirá a los villanos que azotan las calles de Gotham. Pero deberán tener cuidado con un nuevo enemigo, el Joker, un peligroso y violento personaje con muchos poderes.(n)</desc>
@@ -6893,15 +6489,6 @@
       <value>13</value>
     </rating>
   </programme>
-  <programme start="20221012130000 +0000" stop="20221012180000 +0000" channel="La Red (CHI)">
-    <title lang="en">Antena 3D</title>
-    <desc lang="en">Barra de infomerciales que ofrece información sobre diferentes productos.(n)</desc>
-    <date>2017</date>
-  </programme>
-  <programme start="20221012180000 +0000" stop="20221012183000 +0000" channel="La Red (CHI)">
-    <title lang="en">Swiss Nature Labs</title>
-    <desc lang="en">Las mejores soluciones de salud, belleza y bienestar de origen natural.(n)</desc>
-  </programme>
   <programme start="20221012183000 +0000" stop="20221012223000 +0000" channel="La Red (CHI)">
     <title lang="en">La tarde con Hola, Chile</title>
     <desc lang="en">Con humor, mucha entretenimiento y la mejor conversación, estos buenos amigos nos invitan a compartir la mañana más alegres. Este divertido grupo te acompañará todas las mañanas con los más entretenidos temas de conversación.(n)</desc>
@@ -7005,20 +6592,6 @@
   <programme start="20221014233000 +0000" stop="20221015000000 +0000" channel="La Red (CHI)">
     <title lang="en">Swiss Nature Labs</title>
     <desc lang="en">Las mejores soluciones de salud, belleza y bienestar de origen natural.(n)</desc>
-  </programme>
-  <programme start="20221012110000 +0000" stop="20221012160000 +0000" channel="TVN (CHI)">
-    <title lang="en">Buenos días a todos</title>
-    <desc lang="en">Programa matutino con temas de actualidad y del show chileno, concursos y entretenimiento.(n)</desc>
-  </programme>
-  <programme start="20221012160000 +0000" stop="20221012180000 +0000" channel="TVN (CHI)">
-    <title lang="en">24 Tarde</title>
-    <desc lang="en">Conoce los detalles más resaltantes sobre los últimos acontecimientos ocurridos en Chile, América Latina y el mundo, en este segmento especial de la tarde, donde te presentamos un resumen con informaciones completas.(n)</desc>
-    <date>2018</date>
-  </programme>
-  <programme start="20221012180000 +0000" stop="20221012193000 +0000" channel="TVN (CHI)">
-    <title lang="en">Hoy se habla</title>
-    <desc lang="en">Programa de conversación de todos aquellos temas que están marcando pauta, con miradas diversas,.(n)</desc>
-    <date>2022</date>
   </programme>
   <programme start="20221012193000 +0000" stop="20221012201500 +0000" channel="TVN (CHI)">
     <title lang="en">Rojo y Miel</title>
@@ -7194,27 +6767,6 @@
   <programme start="20221014235500 +0000" stop="20221015014000 +0000" channel="TVN (CHI)">
     <title lang="en">24 Horas Central</title>
     <desc lang="en">Noticiero central, con despachos en directo y corresponsalías en todo el mundo.(n)</desc>
-  </programme>
-  <programme start="20221012150000 +0000" stop="20221012160000 +0000" channel="Canal Uno (COL)">
-    <title lang="en">Caso cerrado</title>
-    <desc lang="en">La Dra. Polo busca resolver de la manera más justa los casos que se le presentan.(n)</desc>
-    <date>2001</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221012160000 +0000" stop="20221012173000 +0000" channel="Canal Uno (COL)">
-    <title lang="en">Noticentro 1 CM &amp; Primera emisión</title>
-    <desc lang="en">Toda la información de Colombia y el mundo.(n)</desc>
-    <date>1992</date>
-  </programme>
-  <programme start="20221012173000 +0000" stop="20221012190000 +0000" channel="Canal Uno (COL)">
-    <title lang="en">La suerte de Loli</title>
-    <desc lang="en">La vida de Loli, una mujer profesional e independiente, dará un giro inesperado al recibir una herencia que no cree poder manejar, pero que le mostrará el verdadero significado del éxito.(n)</desc>
-    <date>2021</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
   </programme>
   <programme start="20221012190000 +0000" stop="20221012210000 +0000" channel="Canal Uno (COL)">
     <title lang="en">Lo sé todo</title>
@@ -7478,28 +7030,6 @@
     <desc lang="en">Hombres y mujeres se enfrentarán a diario para saber cuál es el sexo más fuerte. Diez participantes, diez personalidades, diez historias darán el marco ideal para disfrutar de un ciclo lleno de diversión, tensión, emoción y también, amor.(n)</desc>
     <date>2017</date>
   </programme>
-  <programme start="20221012150000 +0000" stop="20221012160000 +0000" channel="RCN Nuestra Tele">
-    <title lang="en">Programación pagada</title>
-    <desc lang="en">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.(n)</desc>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221012160000 +0000" stop="20221012170000 +0000" channel="RCN Nuestra Tele">
-    <title lang="en">Buen día Colombia</title>
-    <desc lang="en">El día comienza de una forma diferente, entretenida y familiar con entrevistas, actualidad y humor.(n)</desc>
-    <date>2021</date>
-  </programme>
-  <programme start="20221012170000 +0000" stop="20221012173000 +0000" channel="RCN Nuestra Tele">
-    <title lang="en">América se entera</title>
-    <desc lang="en">Despierta con los titulares más frescos del día, sintonizándote con los hechos más relevantes del momento, con un análisis profundo y objetividad en la información, para que inicies tu jornada actualizada y no pierdas detalle sobre los...(n)</desc>
-    <date>2014</date>
-  </programme>
-  <programme start="20221012173000 +0000" stop="20221012193000 +0000" channel="RCN Nuestra Tele">
-    <title lang="en">Noticias RCN</title>
-    <desc lang="en">Emisiones en directo con el mayor cubrimiento en los sucesos nacionales e internacionales.(n)</desc>
-    <date>1995</date>
-  </programme>
   <programme start="20221012193000 +0000" stop="20221012200000 +0000" channel="RCN Nuestra Tele">
     <title lang="en">Treinta y 2 regionalmente nuestro</title>
     <desc lang="en">Programa Federación de departamentos.(n)</desc>
@@ -7735,27 +7265,6 @@
     <title lang="en">Noticias RCN</title>
     <desc lang="en">Emisiones en directo con el mayor cubrimiento en los sucesos nacionales e internacionales.(n)</desc>
     <date>1995</date>
-  </programme>
-  <programme start="20221012150000 +0000" stop="20221012160000 +0000" channel="RCN Novelas">
-    <title lang="en">Doña Bella</title>
-    <desc lang="en">Una mujer seductora se aprovecha de sus encantos para vengarse de su verdadero amor.(n)</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20221012160000 +0000" stop="20221012170000 +0000" channel="RCN Novelas">
-    <title lang="en">Expedientes</title>
-    <desc lang="en">Programa televisivo transmitido por TeleSUR, donde se analizan a fondo los resultados de un complicado trabajo de investigación, relacionado con el impacto y la gran polémica que han generado las obras, y el camino laboral, de diversos personajes latinoamericanos.(n)</desc>
-  </programme>
-  <programme start="20221012170000 +0000" stop="20221012180000 +0000" channel="RCN Novelas">
-    <title lang="en">Francisco el Matemático</title>
-    <desc lang="en">Jóvenes adultos hacen frente a los retos de la vida en dramáticos tramas que entablan temas de interés social como el alcoholismo, la sexualidad y otros.(n)</desc>
-    <date>1999</date>
-  </programme>
-  <programme start="20221012180000 +0000" stop="20221012190000 +0000" channel="RCN Novelas">
-    <title lang="en">Te quiero pecas</title>
-    <desc lang="en">Después de casarse en Dejémonos de vainas, Teresita y John empienzan una nueva vida juntos.(n)</desc>
-    <date>1988</date>
   </programme>
   <programme start="20221012190000 +0000" stop="20221012200000 +0000" channel="RCN Novelas">
     <title lang="en">Novia para Dos</title>
@@ -8031,16 +7540,6 @@
     <desc lang="en">Jóvenes adultos hacen frente a los retos de la vida en dramáticos tramas que entablan temas de interés social como el alcoholismo, la sexualidad y otros.(n)</desc>
     <date>1999</date>
   </programme>
-  <programme start="20221012143000 +0000" stop="20221012163000 +0000" channel="Caracol TV (COL)">
-    <title lang="en">Copa Mundial Femenina Sub-17 de la FIFA India 2022</title>
-    <desc lang="en">Fase de Grupos Jornada 1 España vs. Colombia.(n)</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20221012163000 +0000" stop="20221012173000 +0000" channel="Caracol TV (COL)">
-    <title lang="en">Lo imperdonable</title>
-    <desc lang="en">Dos hermanas se enamoran del mismo hombre y una de ellas no descansará hasta hacer la otra infeliz.(n)</desc>
-    <date>2015</date>
-  </programme>
   <programme start="20221012173000 +0000" stop="20221012203000 +0000" channel="Caracol TV (COL)">
     <title lang="en">Noticias 12:30 PM Caracol</title>
     <desc lang="en">De la mano de Mábel Lara, Mónica Jaramillo y Vanessa De La Torre, haga un recorrido por el país y entérese qué es noticia al mediodía en Colombia y el mundo.(n)</desc>
@@ -8238,21 +7737,6 @@
     <title lang="en">Las hermanitas calle</title>
     <desc lang="en">Dos heroínas que dan todo por su familia, por su carrera artística y por un género musical que las baña de gloria y de fama, pero les arrebata gran parte de su infancia y toda su juventud. Nelly y Fabiola Calle se aferran a sus voces y se lanzan a posicionar la música popular, un género despreciado por emisoras y disqueras.(n)</desc>
     <date>2015</date>
-  </programme>
-  <programme start="20221012133000 +0000" stop="20221012163000 +0000" channel="RCN Television">
-    <title lang="en">Copa Mundial Femenina Sub-17 de la FIFA India 2022</title>
-    <desc lang="en">Fase de Grupos Jornada 1 España vs. Colombia.(n)</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20221012163000 +0000" stop="20221012173000 +0000" channel="RCN Television">
-    <title lang="en">Buen día Colombia</title>
-    <desc lang="en">El día comienza de una forma diferente, entretenida y familiar con entrevistas, actualidad y humor.(n)</desc>
-    <date>2021</date>
-  </programme>
-  <programme start="20221012173000 +0000" stop="20221012193000 +0000" channel="RCN Television">
-    <title lang="en">Noticias RCN</title>
-    <desc lang="en">Emisiones en directo con el mayor cubrimiento en los sucesos nacionales e internacionales.(n)</desc>
-    <date>1995</date>
   </programme>
   <programme start="20221012193000 +0000" stop="20221012203000 +0000" channel="RCN Television">
     <title lang="en">Vencer el miedo</title>
@@ -8491,19 +7975,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221012150500 +0000" stop="20221012164600 +0000" channel="Golden Edge">
-    <title lang="en">Veinteañera, divorciada y fantástica</title>
-    <desc lang="en">El mayor sueño de Regina, desde que era una niña, fue el de casarse y ser feliz. Sin embargo, cuando de grande consiguió ese objetivo con su prometido, la ilusión de una vida en pareja duró menos que un suspiro. Ahora tiene un nuevo desafío, que es el de enfrentar la vida, de la mejor manera posible, como una mujer divorciada.(n)</desc>
-    <date>2020</date>
-  </programme>
-  <programme start="20221012164600 +0000" stop="20221012190800 +0000" channel="Golden Edge">
-    <title lang="en">Corazón de caballero</title>
-    <desc lang="en">Inspirada en Los cuentos de Canterbury y en la historia de Ulrich von Lichtenstein, la película cuenta las aventuras de William, un joven escudero con talento de justador. Luego de la repentina muerte de su amo, el escudero se hace al camino junto con sus compañeros Roland y Wat. En el viaje, se cruzan con un escritor desconocido, Chaucer.(n)</desc>
-    <date>2001</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20221012190800 +0000" stop="20221012212600 +0000" channel="Golden Edge">
     <title lang="en">La leyenda del Zorro</title>
     <desc lang="en">El héroe espadachín de "La Máscara del Zorro" regresa en esta desgarradora aventura ambientada en California alrededor del año 1850.(n)</desc>
@@ -8693,40 +8164,6 @@
     <rating system="MPAA">
       <value>TV-MA</value>
     </rating>
-  </programme>
-  <programme start="20221012144000 +0000" stop="20221012153500 +0000" channel="UNIVERSAL TV">
-    <title lang="en">Chicago Med</title>
-    <desc lang="en">El Dr. Rhodes atiende al Dr. Downey mientras Goodwin se ve obligada a ocuparse de unos asuntos personales. April se lleva la peor parte de un golpe mientras atiende a un paciente revoltoso, pero el incidente podría resultar ser positivo. El Dr. Halstead descubre que Goodwin tiene un as en la manga y la Dra. Manning encuentra que el pasado la está afectando. Finalmente llega el día de la graduación de Sarah pero ella sigue sin saber cómo definir sus planes laborales para el futuro.(n)</desc>
-    <date>2016</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221012153500 +0000" stop="20221012163000 +0000" channel="UNIVERSAL TV">
-    <title lang="en">Chicago Med</title>
-    <desc lang="en">El Dr. Rhodes comienza una beca en cirugía cardiotorácica, sólo para tener problemas con su nuevo jefe.También: Dr. Choi es el nuevo jefe de residentes; Sarah recibe una oportunidad; y abril se enfrenta a ella recientemente descubierta enfermedad.(n)</desc>
-    <date>2016</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221012163000 +0000" stop="20221012172500 +0000" channel="UNIVERSAL TV">
-    <title lang="en">La ley y el orden: U.V.E.</title>
-    <desc lang="en">La SVU busca a tres mujeres sospechosas de drogar y robar a hombres ricos.(n)</desc>
-    <date>1999</date>
-  </programme>
-  <programme start="20221012172500 +0000" stop="20221012182000 +0000" channel="UNIVERSAL TV">
-    <title lang="en">Maratón La ley y el orden: UVE</title>
-    <desc lang="en">Rollins debe revisar un caso anterior cuando un niño enviado a un centro de detención es liberado.(n)</desc>
-    <date>1999</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221012182000 +0000" stop="20221012191500 +0000" channel="UNIVERSAL TV">
-    <title lang="en">La ley y el orden: U.V.E.</title>
-    <desc lang="en">Garland le pide a Benson que investigue un caso inusual de violencia doméstica.(n)</desc>
-    <date>2021</date>
   </programme>
   <programme start="20221012191500 +0000" stop="20221012201000 +0000" channel="UNIVERSAL TV">
     <title lang="en">Chicago Fire</title>
@@ -9225,175 +8662,6 @@
     <date>2020</date>
     <rating system="MPAA">
       <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221012150000 +0000" stop="20221012153000 +0000" channel="Kids Street">
-    <title lang="en">Rosita Fresita: Aventuras en Tutti Frutti</title>
-    <sub-title lang="en">Berry Big Tale-Teller</sub-title>
-    <desc lang="en">Sour enriches a story about an adventure in the forest she had with Sweet, and Sweet's unable to match her sister's yarn-spinning skills.(n)</desc>
-    <credits>
-      <director>Michael Hack</director>
-      <director>Bob Hathcock</director>
-      <producer>Michael Hirsh</producer>
-      <composer>Chip Whitewood</composer>
-    </credits>
-    <date>2015</date>
-    <category lang="en">Fantasy</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/7866/007866/007866_1280x720_92969_115.jpg" />
-    <episode-num system="onscreen">S4 E6</episode-num>
-    <rating system="MPAA">
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20221012153000 +0000" stop="20221012154200 +0000" channel="Kids Street">
-    <title lang="en">World of Oceans - Life on the Reef</title>
-  </programme>
-  <programme start="20221012154200 +0000" stop="20221012160000 +0000" channel="Kids Street">
-    <title lang="en">World of Oceans - Life on the Reef</title>
-  </programme>
-  <programme start="20221012160000 +0000" stop="20221012161700 +0000" channel="Kids Street">
-    <title lang="en">World of Oceans - Life on the Reef</title>
-  </programme>
-  <programme start="20221012161700 +0000" stop="20221012163000 +0000" channel="Kids Street">
-    <title lang="en">World of Oceans - Life on the Reef</title>
-  </programme>
-  <programme start="20221012163000 +0000" stop="20221012163700 +0000" channel="Kids Street">
-    <title lang="en">World of Oceans - Life on the Reef</title>
-  </programme>
-  <programme start="20221012163700 +0000" stop="20221012164500 +0000" channel="Kids Street">
-    <title lang="en">World of Oceans - Life on the Reef</title>
-  </programme>
-  <programme start="20221012164500 +0000" stop="20221012165200 +0000" channel="Kids Street">
-    <title lang="en">World of Oceans - Life on the Reef</title>
-  </programme>
-  <programme start="20221012165200 +0000" stop="20221012170000 +0000" channel="Kids Street">
-    <title lang="en">World of Oceans - Life on the Reef</title>
-  </programme>
-  <programme start="20221012170000 +0000" stop="20221012171100 +0000" channel="Kids Street">
-    <title lang="en">Darwin and Newts</title>
-    <sub-title lang="en">Darwin's Precious Collection</sub-title>
-    <desc lang="en">Newts and Heni go searching for gold to complete Darwin's rock collection while Darwin stays at the treehouse to grow crystals from his new crystal-growing set.(n)</desc>
-    <date>2018</date>
-    <category lang="en">Family</category>
-    <category lang="en">Kids</category>
-    <episode-num system="onscreen">S1 E36</episode-num>
-  </programme>
-  <programme start="20221012171100 +0000" stop="20221012173000 +0000" channel="Kids Street">
-    <title lang="en">Darwin and Newts</title>
-    <sub-title lang="en">Sailing Away</sub-title>
-    <desc lang="en">Two siblings discover and experiment with early scientific principles by exploring natural wonders.(n)</desc>
-    <date>2018</date>
-    <category lang="en">Family</category>
-    <category lang="en">Kids</category>
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20221012173000 +0000" stop="20221012174500 +0000" channel="Kids Street">
-    <title lang="en">World of Oceans - Life on the Reef</title>
-  </programme>
-  <programme start="20221012174500 +0000" stop="20221012180000 +0000" channel="Kids Street">
-    <title lang="en">Earth to Luna!</title>
-    <desc lang="en">The adventures of a little girl who loves science.(n)</desc>
-    <date>2014</date>
-    <rating system="MPAA">
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20221012180000 +0000" stop="20221012181500 +0000" channel="Kids Street">
-    <title lang="en">World of Oceans - Life on the Reef</title>
-  </programme>
-  <programme start="20221012181500 +0000" stop="20221012183000 +0000" channel="Kids Street">
-    <title lang="en">Earth to Luna!</title>
-    <desc lang="en">The adventures of a little girl who loves science.(n)</desc>
-    <date>2014</date>
-    <rating system="MPAA">
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20221012183000 +0000" stop="20221012184500 +0000" channel="Kids Street">
-    <title lang="en">Maya the Bee</title>
-    <sub-title lang="en">HoneyMunch</sub-title>
-    <desc lang="en">Children's animated series about a curious young bee who leaves her hive to explore the outside world, where she befriends other insects and goes on adventures.(n)</desc>
-    <date>2021</date>
-    <rating system="MPAA">
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20221012184500 +0000" stop="20221012190000 +0000" channel="Kids Street">
-    <title lang="en">Maya the Bee</title>
-    <sub-title lang="en">Maya the First</sub-title>
-    <desc lang="en">Children's animated series about a curious young bee who leaves her hive to explore the outside world, where she befriends other insects and goes on adventures.(n)</desc>
-    <date>2017</date>
-    <rating system="MPAA">
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20221012190000 +0000" stop="20221012191400 +0000" channel="Kids Street">
-    <title lang="en">Maya the Bee</title>
-    <sub-title lang="en">To-Xi-Kant</sub-title>
-    <desc lang="en">Children's animated series about a curious young bee who leaves her hive to explore the outside world, where she befriends other insects and goes on adventures.(n)</desc>
-    <date>2021</date>
-    <rating system="MPAA">
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20221012191400 +0000" stop="20221012193000 +0000" channel="Kids Street">
-    <title lang="en">Maya the Bee</title>
-    <sub-title lang="en">Fab Four</sub-title>
-    <desc lang="en">Children's animated series about a curious young bee who leaves her hive to explore the outside world, where she befriends other insects and goes on adventures.(n)</desc>
-    <date>2021</date>
-    <rating system="MPAA">
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20221012193000 +0000" stop="20221012193700 +0000" channel="Kids Street">
-    <title lang="en">Wissper</title>
-    <sub-title lang="en">Bert's Ice Monster Dragon</sub-title>
-    <desc lang="en">The series revolves around a 7 year old girl who's born with a magical ability to whisper to animals.(n)</desc>
-    <credits>
-      <director>Kevin Snoad</director>
-      <writer>Shane Langan</writer>
-      <composer>Ian Porter</composer>
-    </credits>
-    <date>2019</date>
-    <category lang="en">Family</category>
-    <category lang="en">Kids</category>
-    <episode-num system="onscreen">S2 E35</episode-num>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20221012193700 +0000" stop="20221012194500 +0000" channel="Kids Street">
-    <title lang="en">Wissper</title>
-    <sub-title lang="en">A Penguin Party</sub-title>
-    <desc lang="en">CGI-animated series about a seven-year-old girl who talks to animals. Peggy the penguin is feeling sad and left out because all the other baby penguins have had their own special day and she hasn't. Wissper summons all her friends and between them they cheer up Peggy with a very special penguin party.(n)</desc>
-    <credits>
-      <director>Kevin Snoad</director>
-      <writer>Shane Langan</writer>
-      <composer>Ian Porter</composer>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Family</category>
-    <category lang="en">Kids</category>
-    <episode-num system="onscreen">S1 E44</episode-num>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20221012194500 +0000" stop="20221012195200 +0000" channel="Kids Street">
-    <title lang="en">Wissper</title>
-    <sub-title lang="en">Whale Song Sing-a-long</sub-title>
-    <desc lang="en">Gale the whale returns from a long trip across the ocean to discover that her pod has learnt a new whale song and water routine. However, with Peggy pingwing and Wissper's help, Gale soon fits in again.(n)</desc>
-    <credits>
-      <director>Kevin Snoad</director>
-      <writer>Shane Langan</writer>
-      <composer>Ian Porter</composer>
-    </credits>
-    <date>2015</date>
-    <category lang="en">Family</category>
-    <category lang="en">Kids</category>
-    <episode-num system="onscreen">S1 E21</episode-num>
-    <rating system="MPAA">
-      <value>TV-G</value>
     </rating>
   </programme>
   <programme start="20221012195200 +0000" stop="20221012200000 +0000" channel="Kids Street">
@@ -10642,23 +9910,6 @@
       <value>TV-Y</value>
     </rating>
   </programme>
-  <programme start="20221012140000 +0000" stop="20221012170000 +0000" channel="Las Estrellas">
-    <title lang="en">Hoy (live)</title>
-    <desc lang="en">Actualidad, información y todo lo que sucede en Guatemala. Sigue las novedades de la jornada, con los acontecimientos de todos los ámbitos. Además, escucha a nuestros analistas y danos tu opinión.(n)</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20221012170000 +0000" stop="20221012183000 +0000" channel="Las Estrellas">
-    <title lang="en">¡Cuéntamelo ya! (live)</title>
-    <desc lang="en">Espacio de entretenimiento en donde las más importantes noticias del espectáculo serán reseñadas, pero con un enfoque fresco y amable. Las primicias del mundo de los famosos, entrevistas, y muchísimas más variedades están aquí. Así que "cuéntamelo ya".(n)</desc>
-    <date>2016</date>
-  </programme>
-  <programme start="20221012183000 +0000" stop="20221012193000 +0000" channel="Las Estrellas">
-    <title lang="en">100 Mexicanos dijieron</title>
-    <desc lang="en">Programa de concurso en que se enfrentan dos equipos de cinco personalidades famosas y contestan preguntas para ganar dinero que será donado a las instituciones benéficas. Los participantes incluyen a estrellas de telenovela, cantantes, deportistas y más.(n)</desc>
-    <date>2020</date>
-  </programme>
   <programme start="20221012193000 +0000" stop="20221012213000 +0000" channel="Las Estrellas">
     <title lang="en">Lo que la vida me robó</title>
     <desc lang="en">Serie que cuenta cómo el amor de Montserrat se ve truncado por la avaricia de su madre.(n)</desc>
@@ -10978,18 +10229,6 @@
       <value>TV-Y7</value>
     </rating>
   </programme>
-  <programme start="20221012150000 +0000" stop="20221012160000 +0000" channel="Las Estrellas -2HR">
-    <title lang="en">Al aire (live)</title>
-    <desc lang="en">Programa informativo en el que se abordan temas de ciencia y tecnología, entre otros.(n)</desc>
-    <date>2016</date>
-  </programme>
-  <programme start="20221012160000 +0000" stop="20221012190000 +0000" channel="Las Estrellas -2HR">
-    <title lang="en">Hoy (live)</title>
-    <desc lang="en">Actualidad, información y todo lo que sucede en Guatemala. Sigue las novedades de la jornada, con los acontecimientos de todos los ámbitos. Además, escucha a nuestros analistas y danos tu opinión.(n)</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
   <programme start="20221012190000 +0000" stop="20221012203000 +0000" channel="Las Estrellas -2HR">
     <title lang="en">¡Cuéntamelo ya! (live)</title>
     <desc lang="en">Espacio de entretenimiento en donde las más importantes noticias del espectáculo serán reseñadas, pero con un enfoque fresco y amable. Las primicias del mundo de los famosos, entrevistas, y muchísimas más variedades están aquí. Así que "cuéntamelo ya".(n)</desc>
@@ -11302,43 +10541,6 @@
   <programme start="20221014233000 +0000" stop="20221015003000 +0000" channel="Las Estrellas -2HR">
     <title lang="en">Mi secreto</title>
     <desc lang="en">Una joven adopta la identidad de su amiga, aparentemente muerta, para evitar ser arrestada.(n)</desc>
-  </programme>
-  <programme start="20221012152000 +0000" stop="20221012154500 +0000" channel="Sony Movies">
-    <title lang="en">Community</title>
-    <desc lang="en">Britta teme que alguien en el grupo es un psicópata después de que un examen de personalidad revela resultados preocupantes. Con el fin de averiguar quién es, ella y Jeff convencen al grupo para que cuenten historias de terror.(n)</desc>
-    <date>2011</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20221012154500 +0000" stop="20221012161000 +0000" channel="Sony Movies">
-    <title lang="en">The Goldbergs</title>
-    <desc lang="en">La boda de Lainey y Barry está a la vuelta de la esquina y Beverly está en su elemento tratando de que todo quede perfecto en el gran día de su amorcito.(n)</desc>
-    <date>2013</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221012161000 +0000" stop="20221012163500 +0000" channel="Sony Movies">
-    <title lang="en">The Goldbergs</title>
-    <desc lang="en">Murray y Geoff se unen para sacar a Beverly, Barry y Érica de su miseria ya que Lainey salió de la ciudad. Mientras tanto, el temor de Adam a la clase de gimnasia aumenta cuando el hermano del entrenador Mellor, da el siguiente paso.(n)</desc>
-    <date>2013</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221012163500 +0000" stop="20221012170000 +0000" channel="Sony Movies">
-    <title lang="en">The Goldbergs</title>
-    <desc lang="en">Beverly decide que sus calles necesitan otra señal de pare y defiende su caso ante el contralor de la ciudad. Barry entra en pánico cuando se da cuenta de que ha descuidado sus solicitudes para la universidad.(n)</desc>
-    <date>2019</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221012170000 +0000" stop="20221012185000 +0000" channel="Sony Movies">
-    <title lang="en">Mirada de Ángel</title>
-    <desc lang="en">Jennifer Lopez hace el rol de una mujer policía que es salvada de un delincuente armado por un transeúnte misterioso (Jim Caviezel). Pero, ¿él pasaba sólo por casualidad? Poco a poco se hace aparente la posibilidad de que ya se habían conocido antes, y un romance parece forecer esta vez.(n)</desc>
-    <date>2001</date>
   </programme>
   <programme start="20221012185000 +0000" stop="20221012202500 +0000" channel="Sony Movies">
     <title lang="en">Anaconda</title>
@@ -11744,33 +10946,6 @@
     <desc lang="en">Durante muchos años, los extraterrestres han vivido en la Tierra, mezclados con los seres humanos, sin que nadie lo supiese. Los Hombres de Negro son agentes especiales que forman parte de una unidad altamente secreta del gobierno.(n)</desc>
     <date>1997</date>
   </programme>
-  <programme start="20221012150000 +0000" stop="20221012153000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221012153000 +0000" stop="20221012160000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221012160000 +0000" stop="20221012163000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221012163000 +0000" stop="20221012170000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221012170000 +0000" stop="20221012173000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221012173000 +0000" stop="20221012180000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221012180000 +0000" stop="20221012183000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221012183000 +0000" stop="20221012190000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221012190000 +0000" stop="20221012193000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
   <programme start="20221012193000 +0000" stop="20221012200000 +0000" channel="NY1 Noticias">
     <title lang="en">NY1 Noticias</title>
   </programme>
@@ -12083,29 +11258,6 @@
   <programme start="20221014233000 +0000" stop="20221015000000 +0000" channel="NY1 Noticias">
     <title lang="en">NY1 Noticias</title>
   </programme>
-  <programme start="20221012144000 +0000" stop="20221012162000 +0000" channel="BitMe">
-    <title lang="en">Universo Marcial</title>
-    <desc lang="en">Lin Dong es un niño de un pequeño pueblo que no es favorecido por su familia. Por casualidad, obtiene un misterioso artefacto que es codiciado por muchos clanes en el mundo marcial. Debido a tal artefacto, Lin Dong es abordado por muchas personas...(n)</desc>
-    <date>2018</date>
-  </programme>
-  <programme start="20221012162000 +0000" stop="20221012171000 +0000" channel="BitMe">
-    <title lang="en">Sailor Moon</title>
-    <desc lang="en">Usagi conoce a una gata que le habla de su misión como Sailor Senshi y de salvar al mundo.(n)</desc>
-    <date>1992</date>
-    <rating system="MPAA">
-      <value>TV-Y7</value>
-    </rating>
-  </programme>
-  <programme start="20221012171000 +0000" stop="20221012182000 +0000" channel="BitMe">
-    <title lang="en">Yu Gi Oh!</title>
-    <desc lang="en">La más divertida serie de monstruos gigantes, magia poderosa y antiguas leyendas egipcias, que muestra las aventuras de Yugi y sus mejores amigos Joey, Tristan y Téa.(n)</desc>
-    <date>1998</date>
-  </programme>
-  <programme start="20221012182000 +0000" stop="20221012191000 +0000" channel="BitMe">
-    <title lang="en">Attack on Titan</title>
-    <desc lang="en">Eren lucha contra los Titanes que han llevado a la humanidad al borde de la extinción.(n)</desc>
-    <date>2013</date>
-  </programme>
   <programme start="20221012191000 +0000" stop="20221012200000 +0000" channel="BitMe">
     <title lang="en">My Hero Academia</title>
     <desc lang="en">Un niño amante de los superhéroes está decidido a entrar en la prestigiosa academia para héroes.A.(n)</desc>
@@ -12376,35 +11528,6 @@
     <title lang="en">Yu Gi Oh!</title>
     <desc lang="en">La más divertida serie de monstruos gigantes, magia poderosa y antiguas leyendas egipcias, que muestra las aventuras de Yugi y sus mejores amigos Joey, Tristan y Téa.(n)</desc>
     <date>1998</date>
-  </programme>
-  <programme start="20221012150100 +0000" stop="20221012153100 +0000" channel="Curiosity Stream">
-    <title lang="en">El efecto mariposa</title>
-    <sub-title lang="en">Las sufragistas, la batalla por las urnas</sub-title>
-    <desc lang="en">A finales del siglo XIX, las mujeres de los países europeos exigen enérgicamente el derecho al voto,.(n)</desc>
-    <date>2018</date>
-  </programme>
-  <programme start="20221012153100 +0000" stop="20221012160100 +0000" channel="Curiosity Stream">
-    <title lang="en">El efecto mariposa</title>
-    <sub-title lang="en">Gutenberg</sub-title>
-    <desc lang="en">En el siglo XV,.(n)</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20221012160100 +0000" stop="20221012170100 +0000" channel="Curiosity Stream">
-    <title lang="en">Cuentos de la naturaleza</title>
-    <sub-title lang="en">Bajo el sofocante sol</sub-title>
-    <desc lang="en">¿Cómo resisten los animales y las plantas ese calor tan sofocante?(n)</desc>
-    <date>2021</date>
-  </programme>
-  <programme start="20221012170100 +0000" stop="20221012180100 +0000" channel="Curiosity Stream">
-    <title lang="en">Cuentos de la naturaleza</title>
-    <desc lang="en">Esta serie observa los típicos ecosistemas de Europa - Costa atlántica, bosques, tierras de cultivo,.(n)</desc>
-    <date>2021</date>
-  </programme>
-  <programme start="20221012180100 +0000" stop="20221012190100 +0000" channel="Curiosity Stream">
-    <title lang="en">Evolución</title>
-    <sub-title lang="en">Supervivencia</sub-title>
-    <desc lang="en">Patrick investiga si los sobrevivientes de la naturaleza pueden inspirar tecnologías que ayuden a la humanidad a evitar la extinción.(n)</desc>
-    <date>2022</date>
   </programme>
   <programme start="20221012190100 +0000" stop="20221012200100 +0000" channel="Curiosity Stream">
     <title lang="en">Evolución</title>
@@ -12883,76 +12006,6 @@
     <sub-title lang="en">27 litros, 1100 caballos de fuerza</sub-title>
     <desc lang="en">El experto coleccionista de autos Bill Stephens y Keith Martin de la revista 'Sports Car Market' evalúan verdaderos clásicos en la subasta de Gooding Company en Scottsdale.(n)</desc>
     <date>2021</date>
-  </programme>
-  <programme start="20221012150000 +0000" stop="20221012153000 +0000" channel="Dreamworks">
-    <title lang="en">El amanecer de los Croods</title>
-    <desc lang="en">El flechazo: La maldición de el flechazo cae sobre Eep. Sus padres la ayudan a superarlo, pero cuanto más lo reprime, más fuerte se hace el flechazo. Rebelde sin garras: Thunk es rechazado por sus amigos y se junta con los layotes, con...(n)</desc>
-    <date>2016</date>
-    <rating system="MPAA">
-      <value>TV-Y7</value>
-    </rating>
-  </programme>
-  <programme start="20221012153000 +0000" stop="20221012160000 +0000" channel="Dreamworks">
-    <title lang="en">Las aventuras del Gato con Botas</title>
-    <desc lang="en">El Gato con Botas rescata a la bella princesa Dulcinea de la mano de unos ladrones, y al acompañar a la princesa de regreso a su ciudad natal destroza sin querer el conjuro protector, por lo que se verá obligado a proteger a la ciudad de malhechores. En este episodio, el Gato le da vida a la tienda de Artephius, mientras intenta restaurar el conjuro mágico que protege San Lorenzo.(n)</desc>
-    <date>2015</date>
-    <rating system="MPAA">
-      <value>TV-Y7</value>
-    </rating>
-  </programme>
-  <programme start="20221012160000 +0000" stop="20221012163000 +0000" channel="Dreamworks">
-    <title lang="en">Kung Fu Panda: Las patitas del destino</title>
-    <sub-title lang="en">Dragón azul juega con fuego</sub-title>
-    <desc lang="en">Los niños, después de haber ganado un exceso de confianza tras haber comenzado su entrenamiento,.(n)</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20221012163000 +0000" stop="20221012170000 +0000" channel="Dreamworks">
-    <title lang="en">Turbo FAST</title>
-    <desc lang="en">Una ciudad debe ser salvada de un escarabajo peligroso.(n)</desc>
-    <date>2013</date>
-    <rating system="MPAA">
-      <value>TV-Y7</value>
-    </rating>
-  </programme>
-  <programme start="20221012170000 +0000" stop="20221012173000 +0000" channel="Dreamworks">
-    <title lang="en">Trolls: ¡No pierdas el ritmo!</title>
-    <desc lang="en">Hay un intruso en Villa Troll al cual Ramon y Poppy están dispuestos a encontrar. Poppy se da cuenta que el as de los disfraces es parte de un equipo llamado Los rompefiestas.(n)</desc>
-    <date>2018</date>
-    <rating system="MPAA">
-      <value>TV-Y7</value>
-    </rating>
-  </programme>
-  <programme start="20221012173000 +0000" stop="20221012180000 +0000" channel="Dreamworks">
-    <title lang="en">Spirit: Cabalgando libre</title>
-    <desc lang="en">Mientras Kate espera paciente en el altar, las chicas hacen nuevas alianzas y tratan de detener un tren a gran velocidad.(n)</desc>
-    <date>2018</date>
-    <rating system="MPAA">
-      <value>TV-Y7</value>
-    </rating>
-  </programme>
-  <programme start="20221012180000 +0000" stop="20221012183000 +0000" channel="Dreamworks">
-    <title lang="en">Viva el rey Julien</title>
-    <desc lang="en">Los increíbles avances de la tecnología llegan hasta el reino y es hora de encontrarles una aplicación práctica. En esta emisión, Julien le hace un importante pedido a Timo, un tenrec científico: que logre automatizar todo lo que existe dentro de su reino.(n)</desc>
-    <date>2015</date>
-    <rating system="MPAA">
-      <value>TV-Y7</value>
-    </rating>
-  </programme>
-  <programme start="20221012183000 +0000" stop="20221012190000 +0000" channel="Dreamworks">
-    <title lang="en">Un jefe en pañales: De vuelta a los negocios</title>
-    <desc lang="en">Los hermanos se quedan en casa con una niñera mientras sus padres salen a pasear por la noche. Jefe en Pañales no siente mucha empatía con la niñera del día y tiene planes para que se vaya de una vez. Quiere que la niñera se vea mal, pero ella es demasiado buena, lo cual dificulta su malévolo plan.(n)</desc>
-    <date>2018</date>
-    <rating system="MPAA">
-      <value>TV-Y7</value>
-    </rating>
-  </programme>
-  <programme start="20221012190000 +0000" stop="20221012193000 +0000" channel="Dreamworks">
-    <title lang="en">Las épicas aventuras del Capitán Calzoncillos</title>
-    <desc lang="en">Jorge y Berto trabajan en equipo con Erica para crear una nueva heroína...(n)</desc>
-    <date>2018</date>
-    <rating system="MPAA">
-      <value>TV-Y7</value>
-    </rating>
   </programme>
   <programme start="20221012193000 +0000" stop="20221012200000 +0000" channel="Dreamworks">
     <title lang="en">Home: Las aventuras de Tip y Oh</title>
@@ -13770,25 +12823,6 @@
       <value>TV-Y7</value>
     </rating>
   </programme>
-  <programme start="20221012152600 +0000" stop="20221012161200 +0000" channel="Aplauso">
-    <title lang="en">Zona De Cacería</title>
-  </programme>
-  <programme start="20221012161200 +0000" stop="20221012165400 +0000" channel="Aplauso">
-    <title lang="en">La Firma</title>
-    <desc lang="en">Basada en la novela de John Grisham sobre un abogado que descubre que sus jefes son controlados por la mafia.(n)</desc>
-    <date>1993</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221012165400 +0000" stop="20221012183700 +0000" channel="Aplauso">
-    <title lang="en">Hermanas</title>
-    <desc lang="en">El impresionante debut de Julia Solomonoff como directora en esta producción acerca de dos hermanas (Valeria Bertuccelli e Ingrid Rubio) que tras su separación durante la dictadura en Argentina, se reencuentran nueve años más tarde. Sin embargo, su padre dejó un escrito revelador antes de morir, que aunque sin final, puede ser clave para sus preguntas sin respuesta.(n)</desc>
-    <date>2005</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20221012183700 +0000" stop="20221012200300 +0000" channel="Aplauso">
     <title lang="en">Zoe</title>
     <date>2001</date>
@@ -14037,47 +13071,6 @@
   <programme start="20221014235700 +0000" stop="20221015002200 +0000" channel="Aplauso">
     <title lang="en">Edición Limitada</title>
     <date>2022</date>
-  </programme>
-  <programme start="20221012150000 +0000" stop="20221012160000 +0000" channel="Hogar HGTV">
-    <title lang="en">Chopped: Eliminado</title>
-    <desc lang="en">En este programa cuatro chefs transforman ingredientes cotidianos en algo extraordinario, en un concurso de cocina de tres rondas bajo un apretado límite de tiempo. Un panel de expertos culinarios determinara cuál de ellos se lleva el premio de los $10,000 dólares.(n)</desc>
-    <date>2017</date>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20221012160000 +0000" stop="20221012170000 +0000" channel="Hogar HGTV">
-    <title lang="en">100 Day Dream Home</title>
-    <desc lang="en">Brian y Mika Kleinschmidt son un equipo/matrimonio de Tampa, Florida, que hace realidad las casas de sus sueños. Ella es la inmobiliaria, él es el desarrollador y juntos ayudan a los clientes a diseñar y construir la casa perfecta desde cero en 100 días o menos.(n)</desc>
-    <date>2019</date>
-  </programme>
-  <programme start="20221012170000 +0000" stop="20221012173000 +0000" channel="Hogar HGTV">
-    <title lang="en">Casas antiguas y baratas</title>
-    <desc lang="en">Ethan y Elizabeth Finkelstein recorren casas antiguas de bajo precio en todo Estados Unidos.(n)</desc>
-    <date>2021</date>
-  </programme>
-  <programme start="20221012173000 +0000" stop="20221012180000 +0000" channel="Hogar HGTV">
-    <title lang="en">Casas antiguas y baratas</title>
-    <desc lang="en">Ethan y Elizabeth Finkelstein recorren casas antiguas de bajo precio en todo Estados Unidos.(n)</desc>
-    <date>2021</date>
-  </programme>
-  <programme start="20221012180000 +0000" stop="20221012183000 +0000" channel="Hogar HGTV">
-    <title lang="en">Los diseños de Antonio</title>
-    <desc lang="en">Programa sobre moda.(n)</desc>
-    <date>2010</date>
-  </programme>
-  <programme start="20221012183000 +0000" stop="20221012190000 +0000" channel="Hogar HGTV">
-    <title lang="en">Los diseños de Antonio</title>
-    <desc lang="en">Programa sobre moda.(n)</desc>
-    <date>2010</date>
-  </programme>
-  <programme start="20221012190000 +0000" stop="20221012193000 +0000" channel="Hogar HGTV">
-    <title lang="en">Los Caza Minihogares</title>
-    <desc lang="en">Este programa se centra en la búsqueda de un nuevo hogar. Transporta a los espectadores detrás de las parejas y familias que tienen que decidir si su casa está hecha para ellos. Nos enseñan todo el proceso de principio a fin.(n)</desc>
-    <date>2014</date>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
   </programme>
   <programme start="20221012193000 +0000" stop="20221012200000 +0000" channel="Hogar HGTV">
     <title lang="en">Los Caza Minihogares</title>
@@ -14534,36 +13527,6 @@
     <date>2006</date>
     <rating system="MPAA">
       <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20221012150000 +0000" stop="20221012160100 +0000" channel="Animal Planet!">
-    <title lang="es">Guardianes de Texas</title>
-    <sub-title lang="es">Intruso con un arma</sub-title>
-    <desc lang="es">Un seguimiento a los oficiales de protección de la vida silvestre y recursos naturales de Texas, que protegen miles de kilómetros de desiertos, lagos, bosques de pinos, pantanos, llanuras y costas del estado.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/11/13111542_C22171316E594FE7.jpg" />
-    <episode-num system="onscreen">S10 E8</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20221012160100 +0000" stop="20221012170200 +0000" channel="Animal Planet!">
-    <title lang="es">Justicia Salvaje</title>
-    <sub-title lang="es">Todos están armados</sub-title>
-    <desc lang="es">La policía medioambiental de Washington investiga disparos contra los alces; un suicida y un convicto tratan de hacer caza ilegal.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/11/13114305_7EA30963C7878EC2.jpg" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20221012170200 +0000" stop="20221012180300 +0000" channel="Animal Planet!">
-    <title lang="es">Guardianes de Luisiana</title>
-    <sub-title lang="es">Asesino en la ruta</sub-title>
-    <desc lang="es">En Jackson Parish, investigan a un cazador imprudente por disparar en una autopista. Los agentes vigilan a un hombre sospechoso de dos cacerías de ciervo ilegales. Confrontan a unos cazadores de patos por acoso.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/11/13114340_284A534F3C776B73.jpg" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
     </rating>
   </programme>
   <programme start="20221012180300 +0000" stop="20221012195900 +0000" channel="Animal Planet!">
@@ -15165,155 +14128,167 @@
       <value>TE</value>
     </rating>
   </programme>
-  <programme start="20221012000000 +0000" stop="20221012030000 +0000" channel="Fox Sports Premium!">
-    <title lang="es">Wild Card - Juego 1</title>
+  <programme start="20221012000000 +0000" stop="20221012013000 +0000" channel="Fox Sports Premium!">
+    <title lang="es">WWE Smackdown</title>
+    <desc lang="es">WWE - Smackdown es el segundo programa de Lucha Libre profesional,  más popular del mundo despues de RAW.(n)</desc>
+    <category lang="es">Show</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/111536/1471673427/221012175921_30ec9b5891712454d52f26e15a74c7b2e4edb382_2210181922.jpg" />
+  </programme>
+  <programme start="20221012013000 +0000" stop="20221012043000 +0000" channel="Fox Sports Premium!">
+    <title lang="es">San Diego Padres vs. Los Angeles Dodgers</title>
     <desc lang="es">Organización profesional de Baseball y la más antigua de las ligas mayores profesionales en EUA y Canadá. Fox Sports cuenta con 5 juegos semanales, de los cuales 3 son transmitidos por los canales básicos. El juego de estrellas se llevará a cabo el 19 de junio y se transmitirá por Fox Sports.(n)</desc>
     <category lang="es">MLB</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/697879/1471209452/221011161920_6d5369e321f2008434a887cdcddf2e02d6b8c260_2210191419.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/697879/1471673503/221012175921_1fcb1b71a65427dfe932bca6fc5ca4dd84ada332_2210181922.jpg" />
   </programme>
-  <programme start="20221012030000 +0000" stop="20221012040000 +0000" channel="Fox Sports Premium!">
+  <programme start="20221012043000 +0000" stop="20221012053000 +0000" channel="Fox Sports Premium!">
     <title lang="es">804: Miocic vs. Cormier 3</title>
     <desc lang="es">La pelea principal de la noche, en la que se miden los contrincantes más aguerridos y temidos de la UFC, una enorme lucha en la que solo habrá un vencedor.(n)</desc>
     <category lang="es">UFC Main Event</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/331939/1471209311/221011161920_f222242b48821ea8c3641959b00252001f4fbd8b_2210191422.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/331939/1471673666/221012175921_35508dfc33d03c21b26297de17705cacb9e7c881_2210181420.jpg" />
   </programme>
-  <programme start="20221012040000 +0000" stop="20221012060000 +0000" channel="Fox Sports Premium!">
-    <title lang="es">Zürich (Sui) vs. PSV (Hol)</title>
-    <desc lang="es">Vive los partidos de la 51º edición de la segunda competición más importante por equipos de Europa.(n)</desc>
-    <category lang="es">UEFA Europa League</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/724552/1471209472/221011161920_ec8f935865c9faa0e3881c20f8bed73c42f7b159_2210191420.jpg" />
+  <programme start="20221012053000 +0000" stop="20221012060000 +0000" channel="Fox Sports Premium!">
+    <title lang="es">Submissions: Heavyweights</title>
+    <desc lang="es">Transmisión que presenta algunos de los finales más devastadores jamás vistos dentro del octágono de 'Ultimate Fighting Championship'.(n)</desc>
+    <category lang="es">UFC Ultimate Knockouts</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/260028/1471673748/221012175921_ff37dad0335511edd5c3b6c3e377a6e7946cafdc_2210181421.jpg" />
   </programme>
   <programme start="20221012060000 +0000" stop="20221012083000 +0000" channel="Fox Sports Premium!">
     <title lang="es">Gran Premio de Singapur</title>
     <desc lang="es">Será la 73ra temporada del Campeonato Mundial de Fórmula 1 de la historia. Es organizada por la Federación Internacional del Automóvil.(n)</desc>
     <category lang="es">Fórmula 1</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/704727/1471209358/221011161920_0cd3c670520fe38c16d8fecfa0d0a05b07b836b5_2210191424.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/704727/1471209358/221012175921_0cd3c670520fe38c16d8fecfa0d0a05b07b836b5_2210191424.jpg" />
   </programme>
   <programme start="20221012083000 +0000" stop="20221012110000 +0000" channel="Fox Sports Premium!">
     <title lang="es">WWE Raw</title>
     <desc lang="es">WWE - RAW es el programa de Lucha Libre profesional más popular del mundo.(n)</desc>
     <category lang="es">Show</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/127024/1471209322/221011161920_055fb3c2c16920301637ee07b029b5a8e96e3f5a_2210191422.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/127024/1471209322/221012175921_055fb3c2c16920301637ee07b029b5a8e96e3f5a_2210191422.jpg" />
   </programme>
   <programme start="20221012110000 +0000" stop="20221012130000 +0000" channel="Fox Sports Premium!">
     <title lang="es">Roma (Ita) vs. Betis (Esp)</title>
     <desc lang="es">Vive los partidos de la 51º edición de la segunda competición más importante por equipos de Europa.(n)</desc>
     <category lang="es">UEFA Europa League</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/724552/1471209473/221011161920_41c37f0cf781d37dac209ab3501f67b5b797f479_2210191422.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/724552/1471209473/221012175921_41c37f0cf781d37dac209ab3501f67b5b797f479_2210191422.jpg" />
   </programme>
   <programme start="20221012130000 +0000" stop="20221012150000 +0000" channel="Fox Sports Premium!">
-    <title lang="es">Midtjylland (Din) vs. Feyenoord (Hol)</title>
+    <title lang="es">Sheriff (Mol) vs. Real Sociedad (Esp)</title>
     <desc lang="es">Vive los partidos de la 51º edición de la segunda competición más importante por equipos de Europa.(n)</desc>
     <category lang="es">UEFA Europa League</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/724552/1471209474/221011161920_78e5e43475ae5225837f8df533cbef4755a59d98_2210191422.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/724552/1471673825/221012175921_5187e1e06eabd388afc34b2677572a920e98e80b_2210181421.jpg" />
   </programme>
   <programme start="20221012150000 +0000" stop="20221012170000 +0000" channel="Fox Sports Premium!">
     <title lang="es">Gran Premio de Italia</title>
     <desc lang="es">Será la 73ra temporada del Campeonato Mundial de Fórmula 1 de la historia. Es organizada por la Federación Internacional del Automóvil.(n)</desc>
     <category lang="es">Fórmula 1</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/704727/1471209359/221011161920_150b4b0cffc99d7a4f73b4640d5cc3916b43a10f_2210191422.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/704727/1471209359/221012175921_150b4b0cffc99d7a4f73b4640d5cc3916b43a10f_2210191422.jpg" />
   </programme>
   <programme start="20221012170000 +0000" stop="20221012200000 +0000" channel="Fox Sports Premium!">
-    <title lang="es">Wild Card - Juego 2</title>
-    <desc lang="es">Organización profesional de Baseball y la más antigua de las ligas mayores profesionales en EUA y Canadá. Fox Sports cuenta con 5 juegos semanales, de los cuales 3 son transmitidos por los canales básicos. El juego de estrellas se llevará a cabo el 19 de junio y se transmitirá por Fox Sports.(n)</desc>
-    <category lang="es">MLB</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/697879/1471209453/221011161920_406600d4af94b6dad68b144deed72dac3ddfebfe_2210193420.jpg" />
-  </programme>
-  <programme start="20221012200000 +0000" stop="20221012230000 +0000" channel="Fox Sports Premium!">
     <title lang="es">Invicta FC</title>
     <desc lang="es">Una edición que muestra a Invicta Fighting Championships, la empresa de artes marciales mixtas con sede en Estados Unidos compuesta solamente por mujeres. Esta entidad fue fundada en 2012 por Janet Martin y Shannon Knapp.(n)</desc>
     <category lang="es">Invicta FC</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/359081/1471209325/221011161920_6a4e01a5cdeb3bafbb14e66f9e6526d80c53fac1_2210193422.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/359081/1471673828/221012175921_99233a93ed453b565d8b5e56e241e2ff3aa13378_2210181420.jpg" />
   </programme>
-  <programme start="20221012230000 +0000" stop="20221013000000 +0000" channel="Fox Sports Premium!">
-    <title lang="es">El show de la Fórmula 1</title>
-    <desc lang="es">Especial de tres programas. Repaso y análisis de cada Gran Premio y lo que hay alrededor. Este año desde Miami.(n)</desc>
+  <programme start="20221012200000 +0000" stop="20221012203000 +0000" channel="Fox Sports Premium!">
+    <title lang="es">Plays of the Week</title>
+    <desc lang="es">LAS JUGADAS DE CAMPO MÁS EMOCIONANTES Y LOS FUEGOS ARTIFICIALES OFENSIVOS DE LA SEMANA PASADA SE DESTACAN EN ESTE SEGMENTO.(n)</desc>
     <category lang="es">Show</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/13522/1471209319/221011161920_f09e9970bf18b9787050439cef56bb8cbc48882e_2210185919.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/263542/1471674885/221012175921_559eabcc7477e9870b299530acc4ed414cd2465d_2210181421.jpg" />
   </programme>
-  <programme start="20221013000000 +0000" stop="20221013030000 +0000" channel="Fox Sports Premium!">
-    <title lang="es">Wild Card - Juego 2</title>
+  <programme start="20221012203000 +0000" stop="20221012233000 +0000" channel="Fox Sports Premium!">
+    <title lang="es">Philadelphia Phillies vs. Atlanta Braves</title>
     <desc lang="es">Organización profesional de Baseball y la más antigua de las ligas mayores profesionales en EUA y Canadá. Fox Sports cuenta con 5 juegos semanales, de los cuales 3 son transmitidos por los canales básicos. El juego de estrellas se llevará a cabo el 19 de junio y se transmitirá por Fox Sports.(n)</desc>
     <category lang="es">MLB</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/697879/1471209454/221011161920_c96c9a6ef5ed5bdad4dfe67b8e15e0a33c5900be_2210185919.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/697879/1471674890/221012175921_5ce3825a1cbfeb3b2d4826017564b027ddb33c49_2210181423.jpg" />
   </programme>
-  <programme start="20221013030000 +0000" stop="20221013040000 +0000" channel="Fox Sports Premium!">
+  <programme start="20221012233000 +0000" stop="20221013003000 +0000" channel="Fox Sports Premium!">
     <title lang="es">803: Shevchenko vs. Maia</title>
     <desc lang="es">La pelea principal de la noche, en la que se miden los contrincantes más aguerridos y temidos de la UFC, una enorme lucha en la que solo habrá un vencedor.(n)</desc>
     <category lang="es">UFC Main Event</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/331939/1471209312/221011161920_6e4f128a1c4cca5eeebebfd422b4d4a86de88ca2_2210185919.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/331939/1471674893/221012175921_06932de04add20daccf7a565c3c7de468ad79f47_2210181422.jpg" />
+  </programme>
+  <programme start="20221013003000 +0000" stop="20221013033000 +0000" channel="Fox Sports Premium!">
+    <title lang="es">San Diego Padres vs. Los Angeles Dodgers</title>
+    <desc lang="es">Organización profesional de Baseball y la más antigua de las ligas mayores profesionales en EUA y Canadá. Fox Sports cuenta con 5 juegos semanales, de los cuales 3 son transmitidos por los canales básicos. El juego de estrellas se llevará a cabo el 19 de junio y se transmitirá por Fox Sports.(n)</desc>
+    <category lang="es">MLB</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/697879/1471674904/221012175921_35581085f192e4c53378815a7f7ca817613eced7_2210181422.jpg" />
+  </programme>
+  <programme start="20221013033000 +0000" stop="20221013040000 +0000" channel="Fox Sports Premium!">
+    <title lang="es">304: Highlight Reels Ko's</title>
+    <desc lang="es">Transmisión que presenta algunos de los finales más devastadores jamás vistos dentro del octágono de 'Ultimate Fighting Championship'.(n)</desc>
+    <category lang="es">UFC Ultimate Knockouts</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/260028/1471674906/221012175921_f5838d004ae3155ca5bf7e1a7dae22cd98ab5b14_2210181422.jpg" />
   </programme>
   <programme start="20221013040000 +0000" stop="20221013060000 +0000" channel="Fox Sports Premium!">
     <title lang="es">Roma (Ita) vs. Betis (Esp)</title>
     <desc lang="es">Vive los partidos de la 51º edición de la segunda competición más importante por equipos de Europa.(n)</desc>
     <category lang="es">UEFA Europa League</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/724552/1471209475/221011161920_59c37941189fadae56d32406f7b90644950f4017_2210185919.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/724552/1471209475/221012175921_59c37941189fadae56d32406f7b90644950f4017_2210185919.jpg" />
   </programme>
   <programme start="20221013060000 +0000" stop="20221013080000 +0000" channel="Fox Sports Premium!">
     <title lang="es">Gran Premio de Italia</title>
     <desc lang="es">Será la 73ra temporada del Campeonato Mundial de Fórmula 1 de la historia. Es organizada por la Federación Internacional del Automóvil.(n)</desc>
     <category lang="es">Fórmula 1</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/704727/1471209360/221011161920_247f538d3725e2370221d580a3f2f098e6687f99_2210185919.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/704727/1471209360/221012175921_247f538d3725e2370221d580a3f2f098e6687f99_2210185919.jpg" />
   </programme>
   <programme start="20221013080000 +0000" stop="20221013110000 +0000" channel="Fox Sports Premium!">
     <title lang="es">Sebastian Fundora (USA) vs. Carlos Ocampo (Mex)</title>
     <desc lang="es">Premier Boxing Champions exhibe peleas de alta categoría entre muchos de los personajes más conocidos del mundo del boxeo.(n)</desc>
     <category lang="es">Premier Boxing Champions</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/375983/1471209308/221011161920_2783c0011be247348247d9bb761f7f4258578655_2210185921.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/375983/1471209308/221012175921_2783c0011be247348247d9bb761f7f4258578655_2210185921.jpg" />
   </programme>
   <programme start="20221013110000 +0000" stop="20221013130000 +0000" channel="Fox Sports Premium!">
     <title lang="es">Zürich (Sui) vs. PSV (Hol)</title>
     <desc lang="es">Vive los partidos de la 51º edición de la segunda competición más importante por equipos de Europa.(n)</desc>
     <category lang="es">UEFA Europa League</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/724552/1471209476/221011161920_8c59526aa7fe19989166a8eb148b2303eab3e9a7_2210185921.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/724552/1471209476/221012175921_8c59526aa7fe19989166a8eb148b2303eab3e9a7_2210185921.jpg" />
   </programme>
   <programme start="20221013130000 +0000" stop="20221013150000 +0000" channel="Fox Sports Premium!">
-    <title lang="es">Grita México - Liga MX</title>
-    <desc lang="es">Retransmisión de los partidos del torneo clausura Grita México con los mejores equipos del país. Los amantes del deporte podrán disfrutar de los encuentros más emocionantes mientras cada equipo lo da todo por la victoria.(n)</desc>
-    <category lang="es">Show</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/694490/1471209423/221011161920_12d4b6a10011ab7d0ead5857a68b67174322ab08_2210185920.jpg" />
+    <title lang="es">Monterrey vs. Cruz Azul</title>
+    <desc lang="es">Será la centésima octava edición del campeonato de liga de la Primera División del fútbol mexicano; se tratará del 53er torneo corto, luego del cambio en el formato de competencia.(n)</desc>
+    <category lang="es">Liga MX</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/718091/1471674914/221012175921_416f467e6bff3f8787ed70d2293b726baa5c9fdd_2210181422.jpg" />
   </programme>
   <programme start="20221013150000 +0000" stop="20221013160000 +0000" channel="Fox Sports Premium!">
     <title lang="es">El show de la UEFA Europa League</title>
     <desc lang="es">No te puedes perder el resumen más completo de toda la jornada de la UEFA Europa League con las mejores jugadas y goles del certamen continental.(n)</desc>
     <category lang="es">Show</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/457220/1471209327/221011161920_138a9ec79ccdd769c64e427eb5ce3062caf52849_2210185920.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/457220/1471209327/221012175921_138a9ec79ccdd769c64e427eb5ce3062caf52849_2210185920.jpg" />
   </programme>
   <programme start="20221013160000 +0000" stop="20221013164000 +0000" channel="Fox Sports Premium!">
     <title lang="es">Previa - UEFA Europa League</title>
     <desc lang="es">Un programa que anticipa los partidos de la edición cincuenta y uno de la Liga Europa de la UEFA. El evento es una competición continental de clubes, considerada la segunda más prestigiosa de Europa. El público podrá disfrutar de los partidos más emocionantes entre los equipos más destacados del continente.(n)</desc>
     <category lang="es">Show</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/724554/1471209328/221011161920_4e621c589150dd316766f4c6aeff6428046e50a2_2210185920.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/724554/1471209328/221012175921_4e621c589150dd316766f4c6aeff6428046e50a2_2210185920.jpg" />
   </programme>
   <programme start="20221013164000 +0000" stop="20221013184400 +0000" channel="Fox Sports Premium!">
-    <title lang="es">UEFA Europa League</title>
+    <title lang="es">Bodo/Glimt (Nor) vs. Arsenal (Ing)</title>
     <desc lang="es">Vive los partidos de la 51º edición de la segunda competición más importante por equipos de Europa.(n)</desc>
-    <category lang="es">Show</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/724552/1471209477/221011161920_f11b85e936ea383d800b95a7c1bc3fc08084eb02_2210193422.jpg" />
+    <category lang="es">UEFA Europa League</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/724552/1471674915/221012175921_14de3f407726e0d733e530fe781dfd091831067a_2210182423.jpg" />
   </programme>
   <programme start="20221013184400 +0000" stop="20221013210000 +0000" channel="Fox Sports Premium!">
-    <title lang="es">UEFA Europa League</title>
+    <title lang="es">Manchester Utd. (Ing) vs. Omonoia (Cyp)</title>
     <desc lang="es">Vive los partidos de la 51º edición de la segunda competición más importante por equipos de Europa.(n)</desc>
-    <category lang="es">Show</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/724552/1471209478/221011161920_b436b6e3554b88aac77a2d34358e854fe6c35746_2210190419.jpg" />
+    <category lang="es">UEFA Europa League</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/724552/1471674916/221012175921_973579e845ebde3842492b7b6129a4cb4a429a5b_2210180921.jpg" />
   </programme>
   <programme start="20221013210000 +0000" stop="20221013233000 +0000" channel="Fox Sports Premium!">
     <title lang="es">271: Adesanya Whittaker 2</title>
     <desc lang="es">La Ultimate Fighting Championship (UFC) es la mayor empresa de artes marciales mixtas en el mundo, alberga a los mejores peleadores del ranking en el deporte y produce eventos por todo el mundo.(n)</desc>
     <category lang="es">UFC Reloaded</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/260024/1471209324/221011161920_9558c7b2913538828c742fa6e9639a4151cf1c21_2210190419.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/260024/1471209324/221012175921_9558c7b2913538828c742fa6e9639a4151cf1c21_2210190419.jpg" />
   </programme>
   <programme start="20221013233000 +0000" stop="20221014000000 +0000" channel="Fox Sports Premium!">
     <title lang="es">NFL GameDay</title>
     <desc lang="es">Disfruta de este segmento que destaca los mejores partidos de la Liga Nacional de Fútbol Americano, ofreciendo datos de interés, análisis de los equipos, entrevistas a los jugadores, pronósticos de los futuros encuentros y mucho más.(n)</desc>
     <category lang="es">Show</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/72020/1471209329/221011161920_e8b851865c2b35e7f6f1d4521ed865e78504be9f_2210190419.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/72020/1471209329/221012175921_e8b851865c2b35e7f6f1d4521ed865e78504be9f_2210190419.jpg" />
   </programme>
   <programme start="20221014000000 +0000" stop="20221014001400 +0000" channel="Fox Sports Premium!">
     <title lang="es">Impacto N.F.L.</title>
     <desc lang="es">Programa con lo más destacado de la semana en la NFL. Análisis de equipos, jugadores y pronósticos de la siguiente semana.(n)</desc>
     <category lang="es">Show</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/92638/1471209330/221011161920_87f1a9837f72f110e9be815e86296c33b9113765_2210190419.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/92638/1471209330/221012175921_87f1a9837f72f110e9be815e86296c33b9113765_2210190419.jpg" />
   </programme>
   <programme start="20221014001400 +0000" stop="20221014033000 +0000" channel="Fox Sports Premium!">
     <title lang="es">Washington Commanders vs. Chicago Bears</title>
@@ -15324,64 +14299,49 @@
     <title lang="es">202: Heavyweights</title>
     <desc lang="es">Transmisión que presenta algunos de los finales más devastadores jamás vistos dentro del octágono de 'Ultimate Fighting Championship'. Un espacio para que los amantes del deporte disfrurten de toda la adrenalina del evento.(n)</desc>
     <category lang="es">UFC Ultimate Knockouts Submissions</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/680136/1471209335/221011161920_5aa8003b708c244a41daeaec9395ad971117398c_2210190421.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/680136/1471209335/221012175921_5aa8003b708c244a41daeaec9395ad971117398c_2210190421.jpg" />
   </programme>
   <programme start="20221014040000 +0000" stop="20221014060000 +0000" channel="Fox Sports Premium!">
-    <title lang="es">UEFA Europa League</title>
+    <title lang="es">Manchester Utd. (Ing) vs. Omonoia (Cyp)</title>
     <desc lang="es">Vive los partidos de la 51º edición de la segunda competición más importante por equipos de Europa.(n)</desc>
-    <category lang="es">Show</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/724552/1471209479/221011161920_ecd1a806be34e08295a900102334d18af2c9989d_2210190421.jpg" />
+    <category lang="es">UEFA Europa League</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/724552/1471674917/221012175921_e7b33709770808c440868d1006700e8a57fe238c_2210180921.jpg" />
   </programme>
   <programme start="20221014060000 +0000" stop="20221014080000 +0000" channel="Fox Sports Premium!">
     <title lang="es">Gran Premio de los Países Bajos</title>
     <desc lang="es">Será la 73ra temporada del Campeonato Mundial de Fórmula 1 de la historia. Es organizada por la Federación Internacional del Automóvil.(n)</desc>
     <category lang="es">Fórmula 1</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/704727/1471209361/221011161920_e7444cb0d4f0c2ba596dde8777baeb6d23b055cb_2210190422.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/704727/1471209361/221012175921_e7444cb0d4f0c2ba596dde8777baeb6d23b055cb_2210190422.jpg" />
   </programme>
   <programme start="20221014080000 +0000" stop="20221014110000 +0000" channel="Fox Sports Premium!">
     <title lang="es">Invicta FC</title>
     <desc lang="es">Una edición que muestra a Invicta Fighting Championships, la empresa de artes marciales mixtas con sede en Estados Unidos compuesta solamente por mujeres. Esta entidad fue fundada en 2012 por Janet Martin y Shannon Knapp.(n)</desc>
     <category lang="es">Invicta FC</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/359081/1471209326/221011161920_f1d056a14d92793db93f6664e1ccc72cceb57d98_2210190420.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/359081/1471209326/221012175921_f1d056a14d92793db93f6664e1ccc72cceb57d98_2210190420.jpg" />
   </programme>
   <programme start="20221014110000 +0000" stop="20221014130000 +0000" channel="Fox Sports Premium!">
-    <title lang="es">Grita México - Liga MX</title>
-    <desc lang="es">Retransmisión de los partidos del torneo clausura Grita México con los mejores equipos del país. Los amantes del deporte podrán disfrutar de los encuentros más emocionantes mientras cada equipo lo da todo por la victoria.(n)</desc>
-    <category lang="es">Show</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/694490/1471209424/221011161920_f59ce220a1158a005139ab8d1dbb4a2a8a306b56_2210190420.jpg" />
+    <title lang="es">Pachuca vs. Tigres UANL</title>
+    <desc lang="es">Será la centésima octava edición del campeonato de liga de la Primera División del fútbol mexicano; se tratará del 53er torneo corto, luego del cambio en el formato de competencia.(n)</desc>
+    <category lang="es">Liga MX</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/718091/1471674920/221012175921_6889b0132a0948087b8b271033302042c6504510_2210180921.jpg" />
   </programme>
   <programme start="20221014130000 +0000" stop="20221014150000 +0000" channel="Fox Sports Premium!">
-    <title lang="es">UEFA Europa League</title>
+    <title lang="es">Bodo/Glimt (Nor) vs. Arsenal (Ing)</title>
     <desc lang="es">Vive los partidos de la 51º edición de la segunda competición más importante por equipos de Europa.(n)</desc>
-    <category lang="es">Show</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/724552/1471209480/221011161920_b986f79271d0f255e700dda8806b8d39856e6f50_2210193422.jpg" />
+    <category lang="es">UEFA Europa League</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/724552/1471674921/221012175921_a716880a28426a3aae3594578fc2964d6e68f453_2210180921.jpg" />
   </programme>
   <programme start="20221014150000 +0000" stop="20221014170000 +0000" channel="Fox Sports Premium!">
     <title lang="es">Gran Premio de los Países Bajos</title>
     <desc lang="es">Será la 73ra temporada del Campeonato Mundial de Fórmula 1 de la historia. Es organizada por la Federación Internacional del Automóvil.(n)</desc>
     <category lang="es">Fórmula 1</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/704727/1471209362/221011161920_0e5f198877b286b8a09af40918856982121b12bf_2210193423.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/704727/1471209362/221012175921_0e5f198877b286b8a09af40918856982121b12bf_2210193423.jpg" />
   </programme>
   <programme start="20221014170000 +0000" stop="20221014200000 +0000" channel="Fox Sports Premium!">
     <title lang="es">Wild Card - Juego 3</title>
     <desc lang="es">Organización profesional de Baseball y la más antigua de las ligas mayores profesionales en EUA y Canadá. Fox Sports cuenta con 5 juegos semanales, de los cuales 3 son transmitidos por los canales básicos. El juego de estrellas se llevará a cabo el 19 de junio y se transmitirá por Fox Sports.(n)</desc>
     <category lang="es">MLB</category>
     <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/697879/1471209455/221012143621_6f6d0d62d0e8703747b3d698acca8d779a38cca4_2210184919.jpg" />
-  </programme>
-  <programme start="20221012150000 +0000" stop="20221012163000 +0000" channel="A3Cine!">
-    <title lang="en">Las de Caín</title>
-    <desc lang="en">Don Segismundo Caín y su esposa Elvira forman un matrimonio feliz. Aunque no tienen graves preocupaciones, hay algo que no les deja dormir tranquilos: encontrar marido para sus cinco hijas, que ya están en edad de casarse. Sólo la mayor tiene...(n)</desc>
-    <date>1959</date>
-  </programme>
-  <programme start="20221012163000 +0000" stop="20221012181500 +0000" channel="A3Cine!">
-    <title lang="en">Todas las canciones hablan de mí</title>
-    <desc lang="en">Gira en torno al tema del amor, pero bajo la premisa de un chico que trata de olvidar a una chica, en una historia bastante más difícil de sobrellevar; sobre todo cuando la chica de la que se acaba de separar vuelve una y otra vez, en cada uno de los recuerdos de tu vida pasada.(n)</desc>
-    <date>2010</date>
-  </programme>
-  <programme start="20221012181500 +0000" stop="20221012195000 +0000" channel="A3Cine!">
-    <title lang="en">El baile de las ánimas</title>
-    <desc lang="en">A finales de la década de 1940, una chica se escapa del internado donde su padre la tiene recluida. La joven decide reunirse con su madre, y tras un tiempo junto a ella descubre por qué se separaron sus padres.(n)</desc>
-    <date>1994</date>
   </programme>
   <programme start="20221012195000 +0000" stop="20221012213000 +0000" channel="A3Cine!">
     <title lang="en">Una mujer invisible</title>
@@ -16808,30 +15768,6 @@
       <value>+7</value>
     </rating>
   </programme>
-  <programme start="20221012150000 +0000" stop="20221012160000 +0000" channel="UniMás">
-    <title lang="en">La 3ra. en Discordia (new)</title>
-    <sub-title lang="en">10-12-2022</sub-title>
-    <date>2019</date>
-    <premiere />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221012160000 +0000" stop="20221012163000 +0000" channel="UniMás">
-    <title lang="en">Futbol Central (live)</title>
-    <sub-title lang="en">10-12-2022</sub-title>
-    <date>2014</date>
-  </programme>
-  <programme start="20221012163000 +0000" stop="20221012185000 +0000" channel="UniMás">
-    <title lang="en">UEFA Champions League (live)</title>
-    <desc lang="en">Napoli vs. Ajax en un partido del Grupo A. Desde Stadio San Paulo.(n)</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20221012185000 +0000" stop="20221012190000 +0000" channel="UniMás">
-    <title lang="en">UEFA Champions League (live)</title>
-    <desc lang="en">Napoli vs. Ajax en un partido del Grupo A. Desde Stadio San Paulo.(n)</desc>
-    <date>2022</date>
-  </programme>
   <programme start="20221012190000 +0000" stop="20221012210000 +0000" channel="UniMás">
     <title lang="en">Pájaro Soñador (new)</title>
     <sub-title lang="en">10-12-2022</sub-title>
@@ -17260,44 +16196,6 @@
     <date>2022</date>
     <premiere />
   </programme>
-  <programme start="20221012145500 +0000" stop="20221012155000 +0000" channel="Univision 41">
-    <title lang="en">Como dice el dicho</title>
-    <desc lang="en">Tras descubrirse el secreto que Karla ha guardado por trece años: que Erick no es hijo de Marcelo; el chico se da a la tarea de buscar a Julián, su padre biológico. Ve si a pesar de que ha pasado tanto tiempo, Julián aceptará a Erick como su hijo.(n)</desc>
-    <date>2020</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221012155000 +0000" stop="20221012162000 +0000" channel="Univision 41">
-    <title lang="en">Noticiero Univision - Edicion Digital (live)</title>
-    <sub-title lang="en">10-12-2022</sub-title>
-    <date>2022</date>
-  </programme>
-  <programme start="20221012162000 +0000" stop="20221012165000 +0000" channel="Univision 41">
-    <title lang="en">Nosotros Los Guapos</title>
-    <sub-title lang="en">06-28-2021</sub-title>
-    <date>2016</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20221012165000 +0000" stop="20221012175000 +0000" channel="Univision 41">
-    <title lang="en">La Mexicana y el Güero (new)</title>
-    <sub-title lang="en">10-12-2022</sub-title>
-    <date>2022</date>
-    <premiere />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20221012175000 +0000" stop="20221012185000 +0000" channel="Univision 41">
-    <title lang="en">El Gordo y La Flaca (live)</title>
-    <sub-title lang="en">10-12-2022</sub-title>
-    <date>2022</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20221012185000 +0000" stop="20221012210000 +0000" channel="Univision 41">
     <title lang="en">UEFA Champions League (live)</title>
     <desc lang="en">FC Barcelona vs. Inter Milan en un partido del Grupo C. Desde Camp Nou.(n)</desc>
@@ -17660,39 +16558,6 @@
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
-  </programme>
-  <programme start="20221012153000 +0000" stop="20221012160000 +0000" channel="Telemundo 47">
-    <title lang="en">Telemundo 47 acceso total (new)</title>
-    <desc lang="en">Mujeres emprendedoras se toman Acceso Total.(n)</desc>
-    <date>2019</date>
-    <premiere />
-  </programme>
-  <programme start="20221012160000 +0000" stop="20221012163000 +0000" channel="Telemundo 47">
-    <title lang="en">Noticiero Telemundo 47 (new)</title>
-    <desc lang="en">El noticiero local en español más completo en el área tri-estatal de Nueva York. Contamos con el equipo más grande de presentadores de noticias y reporteros enfocados en cubrir noticias de última hora y temas de interés para el consumidor. La estación de televisión con las herramientas más avanzadas para pronosticar las condiciones del tiempo y la única en español con meteorólogos certificados.(n)</desc>
-    <date>2018</date>
-    <premiere />
-  </programme>
-  <programme start="20221012163000 +0000" stop="20221012170000 +0000" channel="Telemundo 47">
-    <title lang="en">Noticias Telemundo - Mediodía (new)</title>
-    <desc lang="en">Un programa con un estilo único de narrar la noticias, de una manera atractiva y perspicaz. Este noticiero cuenta con la presentación de historias locales y nacionales en vivo, haciendo uso extensivo de elementos gráficos. Además, este noticiero...(n)</desc>
-    <date>2018</date>
-    <premiere />
-  </programme>
-  <programme start="20221012170000 +0000" stop="20221012180000 +0000" channel="Telemundo 47">
-    <title lang="en">En casa con Telemundo (new)</title>
-    <desc lang="en">Una oferta ligera, de formato accesible, familiar y cálido que incluye entrevistas con grandes estrellas del espectáculo, invitados especiales, buenas noticias y consejos para una vida sana.(n)</desc>
-    <premiere />
-  </programme>
-  <programme start="20221012180000 +0000" stop="20221012185800 +0000" channel="Telemundo 47">
-    <title lang="en">En casa con Telemundo (new)</title>
-    <desc lang="en">Una oferta ligera, de formato accesible, familiar y cálido que incluye entrevistas con grandes estrellas del espectáculo, invitados especiales, buenas noticias y consejos para una vida sana.(n)</desc>
-    <premiere />
-  </programme>
-  <programme start="20221012185800 +0000" stop="20221012195800 +0000" channel="Telemundo 47">
-    <title lang="en">La mesa caliente (new)</title>
-    <desc lang="en">Un equipo de mujeres audaces y empoderadas, debate sobre los temas más controversiales.(n)</desc>
-    <premiere />
   </programme>
   <programme start="20221012195800 +0000" stop="20221012210000 +0000" channel="Telemundo 47">
     <title lang="en">Al rojo vivo (new)</title>
@@ -18069,24 +16934,6 @@
     <desc lang="en">Una épica y sorprendente versión de la competencia más feroz del planeta que pone a prueba, con innovadores desafíos, las habilidades físicas y mentales de una nueva generación de héroes.(n)</desc>
     <premiere />
   </programme>
-  <programme start="20221012151500 +0000" stop="20221012171500 +0000" channel="Clover Channel">
-    <title lang="es">Escape en tren</title>
-    <desc lang="es">Manny y Buck escapan de una prisión aislada en Alaska y suben a un tren. Una vez dentro del vehículo, se dan cuenta de que el maquinista a muerto y el tren se dirige, a toda velocidad, hacia la catástrofe.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13006714_F1866E4E73688076.jpg" />
-    <country lang="es">USA</country>
-    <rating system="MJColombia">
-      <value>+18</value>
-    </rating>
-  </programme>
-  <programme start="20221012171500 +0000" stop="20221012194500 +0000" channel="Clover Channel">
-    <title lang="es">Todo sucede en Elizabethtown</title>
-    <desc lang="es">Un hombre con muchos problemas viaja a Kentucky para enterrar a su padre. Su vida se transforma gracias a una azafata.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/11/13112370_320B92D50AFEFA6B.jpg" />
-    <country lang="es">USA</country>
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
   <programme start="20221012194500 +0000" stop="20221012213500 +0000" channel="Clover Channel">
     <title lang="es">Starsky y Hutch</title>
     <desc lang="es">Una pareja de detectives investiga a un traficante de cocaína sospechoso de ser el responsable de un asesinato.(n)</desc>
@@ -18362,55 +17209,6 @@
     <desc lang="es">Dos hermanos distanciados se encaminan en un viaje por el país a pedido de su padre, quien espera que puedan encontrar algo en común mientras ofrecen gratitud y perdón a otros.(n)</desc>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13036119_D2265EE64A52384B.jpg" />
     <country lang="es">USA</country>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20221012152500 +0000" stop="20221012161500 +0000" channel="Love Nature!">
-    <title lang="es">Azul salvaje</title>
-    <sub-title lang="es">Save the Giants</sub-title>
-    <desc lang="es">El litoral de Mozambique atrae a algunos de los mayores filtradores del mundo. Dos de los principales investigadores marinos de Mozambique, Andrea Marshall y Nakia Cullain, se propusieron encontrar a uno de los animales más elusivos del océano.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/12/13126109_9EB228CF161F1669.jpg" />
-    <episode-num system="onscreen">S3 E3</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20221012161500 +0000" stop="20221012170500 +0000" channel="Love Nature!">
-    <title lang="es">Mares árabes</title>
-    <sub-title lang="es">Festín en las islas</sub-title>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/12/13126114_253D8C051270B8EE.jpg" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20221012170500 +0000" stop="20221012180000 +0000" channel="Love Nature!">
-    <title lang="es">Azul salvaje</title>
-    <sub-title lang="es">Isla del Coco</sub-title>
-    <desc lang="es">Una exploración de algunos de los paisajes submarinos y la fauna marina más misteriosos y encantadores de todo el mundo.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/08/13088828_E6BB8057EE20239C.jpg" />
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20221012180000 +0000" stop="20221012185000 +0000" channel="Love Nature!">
-    <title lang="es">Azul salvaje</title>
-    <sub-title lang="es">Isla Socorro</sub-title>
-    <desc lang="es">Impresionantes videos submarinos tomados en las expediciones más vibrantes de las mejores tiendas de buceo del mundo ponen de relieve las especies más espectaculares del océano.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/12/13125329_61C778E316667CF7.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20221012185000 +0000" stop="20221012194000 +0000" channel="Love Nature!">
-    <title lang="es">Azul salvaje</title>
-    <sub-title lang="es">Bahamas</sub-title>
-    <desc lang="es">Las Bahamas están rodeadas de arrecifes de coral y cuevas submarinas llenas de tiburones, tortugas y delfines.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/12/13125779_AF69746CF27E3A23.jpg" />
-    <episode-num system="onscreen">S1 E4</episode-num>
     <rating system="MJColombia">
       <value>TE</value>
     </rating>
@@ -19006,34 +17804,6 @@
       <value>TE</value>
     </rating>
   </programme>
-  <programme start="20221012144000 +0000" stop="20221012153500 +0000" channel="Telehit Musica">
-    <title lang="en">Musicoterapia</title>
-    <desc lang="en">Un espacio que aborda diversos proyectos en materia de Medicina y Musica.(n)</desc>
-    <date>2007</date>
-  </programme>
-  <programme start="20221012153500 +0000" stop="20221012163000 +0000" channel="Telehit Musica">
-    <title lang="en">Musicología</title>
-    <date>2022</date>
-  </programme>
-  <programme start="20221012163000 +0000" stop="20221012170000 +0000" channel="Telehit Musica">
-    <title lang="en">Playlist Telehit</title>
-    <desc lang="en">Disfruta de la playlist que propone Telehit para bailar al ritmo de lo mejor del urbano.(n)</desc>
-    <date>2019</date>
-  </programme>
-  <programme start="20221012170000 +0000" stop="20221012175500 +0000" channel="Telehit Musica">
-    <title lang="en">Top 10</title>
-    <desc lang="en">La lista de popularidad con los éxitos del momento de Telehit Urbano.(n)</desc>
-  </programme>
-  <programme start="20221012175500 +0000" stop="20221012185000 +0000" channel="Telehit Musica">
-    <title lang="en">Jangueo</title>
-    <desc lang="en">Revista nocturna sobre las principales tendencias urbanos, eventos,.(n)</desc>
-    <date>2021</date>
-  </programme>
-  <programme start="20221012185000 +0000" stop="20221012194500 +0000" channel="Telehit Musica">
-    <title lang="en">Super Hits</title>
-    <desc lang="en">Traemos para ti una larga de lista con las mejores canciones de todos los tiempos,.(n)</desc>
-    <date>2014</date>
-  </programme>
   <programme start="20221012194500 +0000" stop="20221012204000 +0000" channel="Telehit Musica">
     <title lang="en">Telehitazos</title>
     <desc lang="en">Una selección de los videos musicales más exitosos del 2010 y de otros años.(n)</desc>
@@ -19319,182 +18089,6 @@
     <title lang="en">Jangueo</title>
     <desc lang="en">Revista nocturna sobre las principales tendencias urbanos, eventos,.(n)</desc>
     <date>2021</date>
-  </programme>
-  <programme start="20221012152700 +0000" stop="20221012153800 +0000" channel="Discovery Kids!">
-    <title lang="es">Topo Gigio</title>
-    <sub-title lang="es">La gran carrera</sub-title>
-    <desc lang="es">Zoe es elegida para representar a la escuela en carreras a campo traviesa, pero ella y el deporte no están hechos el uno para el otro. Gigio toma el asunto en sus propias manos y se elige a sí mismo como su entrenador.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/11/13112888_143F839D446288D9.jpg" />
-    <episode-num system="onscreen">S1 E16</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20221012153800 +0000" stop="20221012154800 +0000" channel="Discovery Kids!">
-    <title lang="es">Héroes en la playa</title>
-    <sub-title lang="es">La búsqueda del tesoro</sub-title>
-    <desc lang="es">Mientras bucea sobre el arrecife, Frizzy se aleja nadando de su amigo Big Trev en busca de un tesoro escondido y se pierde bajo el agua.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13012014_A27F29BE73BABAAD.jpg" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20221012154800 +0000" stop="20221012160000 +0000" channel="Discovery Kids!">
-    <title lang="es">Pinocho y sus amigos</title>
-    <sub-title lang="es">Feliz cumpleaños, Freeda</sub-title>
-    <desc lang="es">Es el cumpleaños de Freeda, y la niña está triste porque quería pasarlo con el capitán Barbadulce, su padre.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/20/13202497_4E6BF2D0114C7C3C.jpg" />
-    <episode-num system="onscreen">S1 E13</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20221012160000 +0000" stop="20221012162600 +0000" channel="Discovery Kids!">
-    <title lang="es">Peppa</title>
-    <desc lang="es">Peppa pasa el día junto a un auténtico vaquero. El abuelo le da semillas a Peppa. El Dr. Hámster tiene un día muy ajetreado. Peppa y George conocen a dos amigos muy especiales.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12993237_08830196118B690F.jpg" />
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20221012162600 +0000" stop="20221012163700 +0000" channel="Discovery Kids!">
-    <title lang="es">Kung Fu Wa</title>
-    <sub-title lang="es">El show de Chica Kung-fu</sub-title>
-    <desc lang="es">La historia de Chica Kung-fu se adapta a una obra de teatro. Todas las chicas de la escuela van a la audición para el rol principal, incluida Tee Zeng. Pero su actuación es considerada "demasiado sencilla" y "sin elegancia".(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13002113_CE61BDF94F57AE75.jpg" />
-    <episode-num system="onscreen">S1 E17</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20221012163700 +0000" stop="20221012170400 +0000" channel="Discovery Kids!">
-    <title lang="es">Peppa</title>
-    <desc lang="es">Hay una competencia de mascotas en la guardería; Papá debe deshacerse de una araña; Peppa y su familia se hospedan en casa de la prima Chloe; La abuela llena de gnomos el jardín y al abuelo no le agradan; Llegó la Navidad.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12996131_ADE003E3F7427947.jpg" />
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20221012170400 +0000" stop="20221012171500 +0000" channel="Discovery Kids!">
-    <title lang="es">Underdogs United</title>
-    <sub-title lang="es">La historia de Worst</sub-title>
-    <desc lang="es">Worst intenta destruir el Clubhouse de los Underdogs United con una pelota de fútbol metálica que mide 15 metros, pero sin querer, queda atrapado dentro de ella con Gigi.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13001952_B743942A521AEACC.jpg" />
-    <episode-num system="onscreen">S1 E21</episode-num>
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20221012171500 +0000" stop="20221012173000 +0000" channel="Discovery Kids!">
-    <title lang="es">Underdogs United</title>
-    <sub-title lang="es">Las espinilleras del destino</sub-title>
-    <desc lang="es">Los Underdogs United deberán superar una serie de obstáculos, poniendo a prueba su capacidad de trabajo en equipo para deshacerse de unas misteriosas espinilleras antes de que éstas se apoderen de ellos.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13001952_B743942A521AEACC.jpg" />
-    <episode-num system="onscreen">S1 E22</episode-num>
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20221012173000 +0000" stop="20221012174200 +0000" channel="Discovery Kids!">
-    <title lang="es">GhostForce</title>
-    <sub-title lang="es">Problestretch</sub-title>
-    <desc lang="es">Para luchar contra Problemesticam, Liv comprende ya que sus habilidades no tienen nada que ver con la suerte.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/11/13113280_D65356976B7F4562.jpg" />
-    <episode-num system="onscreen">S1 E28</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20221012174200 +0000" stop="20221012175700 +0000" channel="Discovery Kids!">
-    <title lang="es">Polly Pocket</title>
-    <sub-title lang="es">Fama perruna</sub-title>
-    <desc lang="es">Cuando un video de Peaches se vuelve viral, Polly adora su nueva fama como dueña de Peaches.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/11/13112477_EA99F57FD770345A.jpg" />
-    <episode-num system="onscreen">S3 E4</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20221012175700 +0000" stop="20221012180900 +0000" channel="Discovery Kids!">
-    <title lang="es">Pinocho en la villa encantada</title>
-    <sub-title lang="es">Aventura en el bosque</sub-title>
-    <desc lang="es">Para demostrarles a sus amigos que son valientes, Pinocho y Lucio se embarcan en una aventura por el bosque oscuro y profundo en busca de un búho.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/11/13111272_8FD34BFEE2859BB5.jpg" />
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20221012181900 +0000" stop="20221012183100 +0000" channel="Discovery Kids!">
-    <title lang="es">Los Beachbuds</title>
-    <sub-title lang="es">Elevador al cielo</sub-title>
-    <desc lang="es">Bayo y Alejandro forman un grupo musical, pero el éxito que consiguen crea tensiones y perjudica su amistad.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/11/13114334_82026F862D76DF68.jpg" />
-    <episode-num system="onscreen">S1 E13</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20221012183100 +0000" stop="20221012184600 +0000" channel="Discovery Kids!">
-    <title lang="es">Primaria de héroes</title>
-    <sub-title lang="es">Ranas hambrientas</sub-title>
-    <desc lang="es">El equipo se ocupa de la mascota de otra clase: una súper rana que salta muy alto. Cuando la rana escapa y corre por la ciudad en busca de comida, la pandilla debe averiguar qué come para atraerla.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13000526_87ADA137BE1993B4.jpg" />
-    <episode-num system="onscreen">S1</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20221012184600 +0000" stop="20221012185800 +0000" channel="Discovery Kids!">
-    <title lang="es">Primaria de héroes</title>
-    <sub-title lang="es">Trineo</sub-title>
-    <desc lang="es">AJ accidentalmente destruye el trineo de cartón de un compañero de clase, y la pandilla interviene para ayudar a encontrar y probar el material más adecuado para arreglarlo.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13000524_763ED80530026204.jpg" />
-    <episode-num system="onscreen">S1</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20221012185800 +0000" stop="20221012190900 +0000" channel="Discovery Kids!">
-    <title lang="es">Bada Bean</title>
-    <sub-title lang="es">Mi amigo Benny</sub-title>
-    <desc lang="es">Bean conoce al desorientado Benny, una cáscara de plátano superatlética que salió de los residuos y se pierde en Mesa Grande.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13011951_13946DA8148FA064.jpg" />
-    <episode-num system="onscreen">S1 E41</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20221012190900 +0000" stop="20221012192500 +0000" channel="Discovery Kids!">
-    <title lang="es">The Dog &amp; Pony Show</title>
-    <sub-title lang="es">Buscando un hogar para animales</sub-title>
-    <desc lang="es">Dog, Pony y Ranger Silas tienen que trabajar juntos para llevar a Misty y a los animales a un refugio de animales y ponerlos a salvo.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/03/13038318_8AF27F81AC0EA67C.jpg" />
-    <episode-num system="onscreen">S1</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20221012192500 +0000" stop="20221012193600 +0000" channel="Discovery Kids!">
-    <title lang="es">¡Presto! Escuela de magia</title>
-    <sub-title lang="es">El mejor de Presto</sub-title>
-    <desc lang="es">Dientedragón va a ofrecer un espectáculo, pero uno de sus estudiantes está enfermo. Por ello, le pide a Lorenzo que un niño de Presto lo reemplace. Dylan asegura ser el mejor mago de la escuela y es el elegido, pero le aguarda un duro reto.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/11/13112011_4941BAE07D5C818A.jpg" />
-    <episode-num system="onscreen">S1 E38</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20221012193600 +0000" stop="20221012200100 +0000" channel="Discovery Kids!">
-    <title lang="es">100% Lobo: La leyenda del anillo lunar</title>
-    <sub-title lang="es">Suizo</sub-title>
-    <desc lang="es">Los niños consiguen la ayuda de Scarlet y su abuela para infiltrarse en la guarida de los hombres lobo y recuperar la piedra.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13012148_AEED9E4F189AF5B6.jpg" />
-    <episode-num system="onscreen">S1 E24</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
   </programme>
   <programme start="20221012200100 +0000" stop="20221012201200 +0000" channel="Discovery Kids!">
     <title lang="es">Kung Fu Wa</title>
@@ -21372,88 +19966,6 @@
     <episode-num system="onscreen">S3</episode-num>
     <rating system="MJColombia">
       <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20221012153000 +0000" stop="20221012160000 +0000" channel="Disney Channel!">
-    <title lang="es">MiraculousLas aventuras de Ladybug</title>
-    <desc lang="es">En París, Marinette y Adrien parecen estudiantes normales. Sin embargo, ellos son los elegidos para salvar a los habitantes del mal.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/05/13059349_582C46B357C5EDAD.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20221012160000 +0000" stop="20221012163000 +0000" channel="Disney Channel!">
-    <title lang="es">Jonas</title>
-    <desc lang="es">Super estrellas del rock intentan vivir vidas normales.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13007216_1889C51133FC8BC1.jpg" />
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20221012163000 +0000" stop="20221012170000 +0000" channel="Disney Channel!">
-    <title lang="es">¡Buena suerte Charlie!</title>
-    <sub-title lang="es">Futurodrama</sub-title>
-    <desc lang="es">Diez años en el futuro, Charlie de 14 años ve un diario en vídeo muy especial hecho por Teddy cuando tuvo una pelea con Gabe, ella espera que esto la ayude en su pelea con un chico de 11 años, Toby.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/11/13113832_5B5D86A928D38FF5.jpg" />
-    <episode-num system="onscreen">S4 E9</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20221012170000 +0000" stop="20221012173000 +0000" channel="Disney Channel!">
-    <title lang="es">El mundo de Riley</title>
-    <sub-title lang="es">La madre de Maya</sub-title>
-    <desc lang="es">Las obras de arte de Maya son exhibidas en un evento escolar; Riley ve esto como el momento perfecto para que Maya se reconcilie con su madre; Mientras tanto, un ex compañero de clase, Minkus, hace una visita sorpresa a la residencia de los Matthews.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/11/13112178_315182A7885DAFED.jpg" />
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20221012173000 +0000" stop="20221012180000 +0000" channel="Disney Channel!">
-    <title lang="es">Bizaardvark</title>
-    <desc lang="es">Las mejores amigas Paige y Frankie crean videos musicales cómicos para su popular canal en línea, con diez mil inscritos.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12995923_D3291E2951B435FD.jpg" />
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20221012180000 +0000" stop="20221012183000 +0000" channel="Disney Channel!">
-    <title lang="es">Gravity Falls: Un verano de misterios</title>
-    <sub-title lang="es">El último mabelcornio</sub-title>
-    <desc lang="es">Mabel recibe una nueva amenaza, por lo que se arriesga a aventurarse en el reino encantado de los unicornios; Dipper descubre algo nuevo acerca de Bill Cipher.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/11/13111135_95D61757D6A162DA.jpg" />
-    <episode-num system="onscreen">S2 E15</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20221012183000 +0000" stop="20221012190000 +0000" channel="Disney Channel!">
-    <title lang="es">Star vs. las fuerzas del mal</title>
-    <sub-title lang="es">Star llega a la Tierra; De paseo con un pony</sub-title>
-    <desc lang="es">Star recibe la varita mágica real pero sus padres sienten miedo y la envían a la Tierra; la mejor amiga de Star de su dimensión la visita y se ve amenazada por la nueva amistad de Star con un terrícola llamado Marco.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/11/13113225_58618C2E6F0147F9.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20221012190000 +0000" stop="20221012193000 +0000" channel="Disney Channel!">
-    <title lang="es">La casa de Raven</title>
-    <sub-title lang="es">Smoky Flow</sub-title>
-    <desc lang="es">Los niños forman una banda y graban un video en el apartamento de Tess. Cuando una máquina de humo genera el caos, Raven descubre que los niños estaban solos en la casa.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/11/13111662_21D25B5BC3AA29D8.jpg" />
-    <episode-num system="onscreen">S3 E3</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20221012193000 +0000" stop="20221012200000 +0000" channel="Disney Channel!">
-    <title lang="es">Gabby DuranNiñera de aliens</title>
-    <desc lang="es">Una muchacha encuentra su momento para brillar al conseguir un trabajo en el que debe cuidar a un grupo rebelde de niños extraterrestres que se esconden en la Tierra con sus familias, disfrazados de niños comunes.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12997365_E05F4D065A8EF48E.jpg" />
-    <rating system="MJColombia">
-      <value>TE</value>
     </rating>
   </programme>
   <programme start="20221012200000 +0000" stop="20221012203000 +0000" channel="Disney Channel!">
