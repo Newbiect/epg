@@ -1,5 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Vevo Pop">
+    <display-name lang="en">Vevo Pop.</display-name>
+    <icon src="http://pluto.tv.s3.amazonaws.com/channels/5d93b635b43dd1a399b39eee/logo.png" />
+    <url>http://www.pluto.tv.E</url>
+  </channel>
   <channel id="Vevo 2K">
     <display-name lang="en">Vevo 2K.</display-name>
     <icon src="http://pluto.tv.s3.amazonaws.com/channels/5fd7bca3e0a4ee0007a38e8c/logo.png" />
@@ -223,6 +228,180 @@
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523290_AD350A44EE3C7F22.png" />
     <url>http://www.movistar.com.pe</url>
   </channel>
+  <programme start="20221012030000 +0000" stop="20221012090000 +0000" channel="Vevo Pop">
+    <title lang="en">Vevo Pop</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221012090000 +0000" stop="20221012130000 +0000" channel="Vevo Pop">
+    <title lang="en">Vevo Pop</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221012130000 +0000" stop="20221012140000 +0000" channel="Vevo Pop">
+    <title lang="en">Rocktober: Pop Punk &amp; Alt Rock</title>
+    <desc lang="en">Jam out to these pop punkers and alt rockers all October long.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Pop</category>
+    <icon src="https://images.pluto.tv/episodes/632836a29d9b7c00133a38dd/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221012140000 +0000" stop="20221012150000 +0000" channel="Vevo Pop">
+    <title lang="en">Pop Videos</title>
+    <desc lang="en">Hot new videos.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Pop</category>
+    <icon src="https://images.pluto.tv/episodes/62fade1e9bd9c6001b63ac6e/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221012150000 +0000" stop="20221012160000 +0000" channel="Vevo Pop">
+    <title lang="en">DSCVR Pop</title>
+    <desc lang="en">Videos from artists on the rise.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Pop</category>
+    <icon src="https://images.pluto.tv/episodes/62fade1e9bd9c6001b63ac74/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221012160000 +0000" stop="20221012180000 +0000" channel="Vevo Pop">
+    <title lang="en">Autumnal Vibes</title>
+    <desc lang="en">The leaves are falling and it's time to get ready for sweater weather with these videos.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Pop</category>
+    <icon src="https://images.pluto.tv/episodes/632077d305b8af001380515a/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221012180000 +0000" stop="20221012190000 +0000" channel="Vevo Pop">
+    <title lang="en">Pop Viral Hits</title>
+    <desc lang="en">Videos making noise on social media.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Pop</category>
+    <icon src="https://images.pluto.tv/episodes/62fade1f9bd9c6001b63acae/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221012190000 +0000" stop="20221012200000 +0000" channel="Vevo Pop">
+    <title lang="en">Rocktober: Pop Punk &amp; Alt Rock</title>
+    <desc lang="en">Jam out to these pop punkers and alt rockers all October long.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Pop</category>
+    <icon src="https://images.pluto.tv/episodes/632836a29d9b7c00133a38dd/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221012200000 +0000" stop="20221012210000 +0000" channel="Vevo Pop">
+    <title lang="en">Love it Live: Pop</title>
+    <desc lang="en">All of your faves, straight from the stage!(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Pop</category>
+    <icon src="https://images.pluto.tv/episodes/62fade1e9bd9c6001b63ac89/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221012210000 +0000" stop="20221012220000 +0000" channel="Vevo Pop">
+    <title lang="en">Pop Rewind</title>
+    <desc lang="en">Vevo Pop – The latest hit videos from the biggest artists!(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Pop</category>
+    <icon src="https://images.pluto.tv/episodes/62fade1e9bd9c6001b63ac90/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221012220000 +0000" stop="20221012230000 +0000" channel="Vevo Pop">
+    <title lang="en">Rocktober: Pop Punk &amp; Alt Rock</title>
+    <desc lang="en">Jam out to these pop punkers and alt rockers all October long.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Pop</category>
+    <icon src="https://images.pluto.tv/episodes/632836a29d9b7c00133a38dd/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221012230000 +0000" stop="20221013000000 +0000" channel="Vevo Pop">
+    <title lang="en">Top Pop Videos</title>
+    <desc lang="en">The latest &amp; most viewed pop videos.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Pop</category>
+    <icon src="https://images.pluto.tv/episodes/62fade209bd9c6001b63ad02/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221013000000 +0000" stop="20221013020000 +0000" channel="Vevo Pop">
+    <title lang="en">Dance Pop Hits</title>
+    <desc lang="en">Vevo Pop – The latest hit videos from the biggest artists!(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Pop</category>
+    <icon src="https://images.pluto.tv/episodes/62fade1d9bd9c6001b63ac54/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221013020000 +0000" stop="20221013040000 +0000" channel="Vevo Pop">
+    <title lang="en">Rhythmic Pop</title>
+    <desc lang="en">Vibe out to these rhythmic videos!(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Pop</category>
+    <icon src="https://images.pluto.tv/episodes/62fade1d9bd9c6001b63ac5b/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221013040000 +0000" stop="20221013090000 +0000" channel="Vevo Pop">
+    <title lang="en">Vevo Pop</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221013090000 +0000" stop="20221013150000 +0000" channel="Vevo Pop">
+    <title lang="en">Vevo Pop</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221013150000 +0000" stop="20221013210000 +0000" channel="Vevo Pop">
+    <title lang="en">Vevo Pop</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221013210000 +0000" stop="20221014030000 +0000" channel="Vevo Pop">
+    <title lang="en">Vevo Pop</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221014030000 +0000" stop="20221014090000 +0000" channel="Vevo Pop">
+    <title lang="en">Vevo Pop</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221014090000 +0000" stop="20221014150000 +0000" channel="Vevo Pop">
+    <title lang="en">Vevo Pop</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221014150000 +0000" stop="20221014210000 +0000" channel="Vevo Pop">
+    <title lang="en">Vevo Pop</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221014210000 +0000" stop="20221015030000 +0000" channel="Vevo Pop">
+    <title lang="en">Vevo Pop</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
   <programme start="20221012030000 +0000" stop="20221012090000 +0000" channel="Vevo 2K">
     <title lang="en">Vevo 2K</title>
     <desc lang="en">No information available.(n)</desc>
@@ -1606,12 +1785,6 @@
     <desc lang="en">Hablar de tus problemas es el primer paso para superarlos, por eso Rocío Sánchez Azuara está de regreso con un programa único, en el cual, podrás acercarte, para que con ella, hables de todo lo que te preocupa, y juntas o juntos, puedan encontrar una solución.(n)</desc>
     <date>2021</date>
   </programme>
-  <programme start="20221012144500 +0000" stop="20221012151000 +0000" channel="UNIVERSAL REALITY">
-    <title lang="en">La familia Chrisley</title>
-    <sub-title lang="en">Trabajando por sus lujos</sub-title>
-    <desc lang="en">Después de que Todd, sin saberlo, tenga que pagar por la factura de un almuerzo extravagante,.(n)</desc>
-    <date>2021</date>
-  </programme>
   <programme start="20221012151000 +0000" stop="20221012153000 +0000" channel="UNIVERSAL REALITY">
     <title lang="en">La familia Chrisley</title>
     <sub-title lang="en">El gran aire libre</sub-title>
@@ -2260,12 +2433,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221012142500 +0000" stop="20221012151000 +0000" channel="UNIVERSAL CRIME">
-    <title lang="en">Enterrado en el jardín</title>
-    <sub-title lang="en">Chicas desaparecidas</sub-title>
-    <desc lang="en">Cuando un hombre y su perro hacen un descubrimiento perturbador en una playa detrás de una casa,.(n)</desc>
-    <date>2020</date>
-  </programme>
   <programme start="20221012151000 +0000" stop="20221012155500 +0000" channel="UNIVERSAL CRIME">
     <title lang="en">Enterrado en el jardín</title>
     <sub-title lang="en">Una súplica mortal</sub-title>
@@ -2696,14 +2863,6 @@
     <sub-title lang="en">Obligado a matar</sub-title>
     <desc lang="en">Un asesino en serie provoca a Wichita, Kansas,.(n)</desc>
     <date>2021</date>
-  </programme>
-  <programme start="20221012143500 +0000" stop="20221012152000 +0000" channel="UNIVERSAL COMEDY">
-    <title lang="en">Psíquico</title>
-    <desc lang="en">Juliet recibe la visita de su padre distanciado, un estafador cautivador que quiere enmendar su relación fallida con su hija, pero cuando se le presenta a éste la oportunidad de una estafa que siempre soñó, su decisión de actuar de acuerdo con las leyes se complica.(n)</desc>
-    <date>2006</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
   </programme>
   <programme start="20221012152000 +0000" stop="20221012154500 +0000" channel="UNIVERSAL COMEDY">
     <title lang="en">The Office</title>
@@ -4436,11 +4595,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221012131700 +0000" stop="20221012151700 +0000" channel="HBO MUNDI">
-    <title lang="en">Plano celestial</title>
-    <desc lang="en">La historia de la lucha de una mujer reflexiva, con la creencia, el amor y la confianza que aprende que no importa cuántas veces pierda el equilibrio, siempre tendrá todo lo necesario para alcanzar sus metas.(n)</desc>
-    <date>2011</date>
-  </programme>
   <programme start="20221012151700 +0000" stop="20221012170700 +0000" channel="HBO MUNDI">
     <title lang="en">La Verónica</title>
     <desc lang="en">Verónica, una modelo muy popular en las redes sociales,.(n)</desc>
@@ -5800,14 +5954,6 @@
     <desc lang="en">Newt Scamander, un excéntrico magizoólogo, acaba de ser expulsado del colegio de magia y hechicería Hogwarts, como consecuencia de un incidente relacionado con una de sus criaturas mágicas. Por ello, el joven mago decide emprender un viaje.(n)</desc>
     <date>2016</date>
   </programme>
-  <programme start="20221012131000 +0000" stop="20221012152600 +0000" channel="HBO 2">
-    <title lang="en">La isla</title>
-    <desc lang="en">Ewan McGregor y Scarlett Johansson son un dúo dinámico en esta explosiva producción de ciencia ficción en la que son una pareja clonada que intenta escapar de sus captores cuando descubren que la "isla" está habitada realmente por clones.(n)</desc>
-    <date>2005</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20221012152600 +0000" stop="20221012173500 +0000" channel="HBO 2">
     <title lang="en">Ghostbusters: El legado</title>
     <desc lang="en">Una madre soltera y sus dos hijos se mudan a una nueva ciudad, en la que pronto descubren que tienen una conexión con los Cazafantasmas originales y el legado secreto de su abuelo.(n)</desc>
@@ -6496,15 +6642,6 @@
     <title lang="en">Que pase Laura</title>
     <desc lang="en">Un programa que presenta problemáticas sociales y familiares y se proponen posibles soluciones.(n)</desc>
     <date>2022</date>
-  </programme>
-  <programme start="20221012145000 +0000" stop="20221012152500 +0000" channel="HBO 2!">
-    <title lang="en">Los Espookys</title>
-    <sub-title lang="en">El monstruo marino</sub-title>
-    <desc lang="en">Renaldo crea una atracción turística para una ciudad costera. Tico contempla una nueva asociación para Los Espookys.(n)</desc>
-    <date>2019</date>
-    <rating system="MPAA">
-      <value>13</value>
-    </rating>
   </programme>
   <programme start="20221012152500 +0000" stop="20221012172500 +0000" channel="HBO 2!">
     <title lang="en">Megalodon</title>
@@ -11166,14 +11303,6 @@
     <title lang="en">Mi secreto</title>
     <desc lang="en">Una joven adopta la identidad de su amiga, aparentemente muerta, para evitar ser arrestada.(n)</desc>
   </programme>
-  <programme start="20221012145500 +0000" stop="20221012152000 +0000" channel="Sony Movies">
-    <title lang="en">Community</title>
-    <desc lang="en">Los nuevos compañeros de cuarto, Troy y Abed, hacen una fiesta que toma un giro extraño.(n)</desc>
-    <date>2011</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20221012152000 +0000" stop="20221012154500 +0000" channel="Sony Movies">
     <title lang="en">Community</title>
     <desc lang="en">Britta teme que alguien en el grupo es un psicópata después de que un examen de personalidad revela resultados preocupantes. Con el fin de averiguar quién es, ella y Jeff convencen al grupo para que cuenten historias de terror.(n)</desc>
@@ -13641,10 +13770,6 @@
       <value>TV-Y7</value>
     </rating>
   </programme>
-  <programme start="20221012144200 +0000" stop="20221012152600 +0000" channel="Aplauso">
-    <title lang="en">Los otros</title>
-    <desc lang="en">Programa local.(n)</desc>
-  </programme>
   <programme start="20221012152600 +0000" stop="20221012161200 +0000" channel="Aplauso">
     <title lang="en">Zona De Cacería</title>
   </programme>
@@ -15194,7 +15319,6 @@
     <title lang="es">Washington Commanders vs. Chicago Bears</title>
     <desc lang="es">Retransmisión de los partidos de la 103º edición de la Liga Nacional de Fútbol Americano. El público podrá disfrutar de los encuentros más emocionantes de la mayor liga de fútbol americano profesional de Estados Unidos. Durante 18 semanas, los 32 equipos participantes lo darán todo por la victoria al final de la temporada.(n)</desc>
     <category lang="es">NFL</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/727231/1471209332/221011161920_ecdbe7dac5f14e05c02340af6243c7929a67f51c_2210190419.jpg" />
   </programme>
   <programme start="20221014033000 +0000" stop="20221014040000 +0000" channel="Fox Sports Premium!">
     <title lang="es">202: Heavyweights</title>
@@ -17537,15 +17661,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221012150000 +0000" stop="20221012153000 +0000" channel="Telemundo 47">
-    <title lang="en">Caso Cerrado (new)</title>
-    <desc lang="en">La jueza escucha el caso de un joven futbolista frustrado y debe emitir su opinión. Al hijo de Juan y Carolina le hacen una oferta para jugar en el Milán Fútbol Club, pero está lesionado. Para no perder la oportunidad, sus padres realizan una cuestionable maniobra, que lo único que dejó como resultado fue empeorar el asunto.(n)</desc>
-    <date>2016</date>
-    <premiere />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20221012153000 +0000" stop="20221012160000 +0000" channel="Telemundo 47">
     <title lang="en">Telemundo 47 acceso total (new)</title>
     <desc lang="en">Mujeres emprendedoras se toman Acceso Total.(n)</desc>
@@ -17954,15 +18069,6 @@
     <desc lang="en">Una épica y sorprendente versión de la competencia más feroz del planeta que pone a prueba, con innovadores desafíos, las habilidades físicas y mentales de una nueva generación de héroes.(n)</desc>
     <premiere />
   </programme>
-  <programme start="20221012132500 +0000" stop="20221012151500 +0000" channel="Clover Channel">
-    <title lang="es">Starsky y Hutch</title>
-    <desc lang="es">Una pareja de detectives investiga a un traficante de cocaína sospechoso de ser el responsable de un asesinato.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13011286_AEA5D516F7E2DBB1.jpg" />
-    <country lang="es">USA</country>
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
   <programme start="20221012151500 +0000" stop="20221012171500 +0000" channel="Clover Channel">
     <title lang="es">Escape en tren</title>
     <desc lang="es">Manny y Buck escapan de una prisión aislada en Alaska y suben a un tren. Una vez dentro del vehículo, se dan cuenta de que el maquinista a muerto y el tren se dirige, a toda velocidad, hacia la catástrofe.(n)</desc>
@@ -18260,15 +18366,6 @@
       <value>TE</value>
     </rating>
   </programme>
-  <programme start="20221012143000 +0000" stop="20221012152500 +0000" channel="Love Nature!">
-    <title lang="es">Maravillas submarinas de África</title>
-    <sub-title lang="es">Mafia Island: Uncharted Paradise</sub-title>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/12/13126078_890233C45531F5DF.jpg" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
   <programme start="20221012152500 +0000" stop="20221012161500 +0000" channel="Love Nature!">
     <title lang="es">Azul salvaje</title>
     <sub-title lang="es">Save the Giants</sub-title>
@@ -18325,7 +18422,7 @@
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/12/13125889_4142AE4DF8C2850A.jpg" />
     <episode-num system="onscreen">S1 E3</episode-num>
     <rating system="MJColombia">
-      <value>TE</value>
+      <value>+14</value>
     </rating>
   </programme>
   <programme start="20221012203500 +0000" stop="20221012212500 +0000" channel="Love Nature!">
@@ -18452,7 +18549,7 @@
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/12/13125889_4142AE4DF8C2850A.jpg" />
     <episode-num system="onscreen">S1 E3</episode-num>
     <rating system="MJColombia">
-      <value>TE</value>
+      <value>+14</value>
     </rating>
   </programme>
   <programme start="20221013075500 +0000" stop="20221013082500 +0000" channel="Love Nature!">
@@ -18499,7 +18596,7 @@
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/12/13126069_36B61E739A0485FF.jpg" />
     <episode-num system="onscreen">S2 E7</episode-num>
     <rating system="MJColombia">
-      <value>TE</value>
+      <value>+14</value>
     </rating>
   </programme>
   <programme start="20221013115500 +0000" stop="20221013124500 +0000" channel="Love Nature!">
@@ -18509,7 +18606,7 @@
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/12/13125554_636C93E9EFACA682.jpg" />
     <episode-num system="onscreen">S3 E1</episode-num>
     <rating system="MJColombia">
-      <value>TE</value>
+      <value>+14</value>
     </rating>
   </programme>
   <programme start="20221013124500 +0000" stop="20221013133500 +0000" channel="Love Nature!">
@@ -18519,7 +18616,7 @@
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/12/13125704_4EB2F1B370A2C8FB.jpg" />
     <episode-num system="onscreen">S1 E3</episode-num>
     <rating system="MJColombia">
-      <value>TE</value>
+      <value>+14</value>
     </rating>
   </programme>
   <programme start="20221013133500 +0000" stop="20221013143000 +0000" channel="Love Nature!">
@@ -18529,7 +18626,7 @@
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12998058_778BBE46096798C1.jpg" />
     <episode-num system="onscreen">S59 E13</episode-num>
     <rating system="MJColombia">
-      <value>TE</value>
+      <value>+14</value>
     </rating>
   </programme>
   <programme start="20221013143000 +0000" stop="20221013152500 +0000" channel="Love Nature!">
@@ -18635,7 +18732,7 @@
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/12/13126069_36B61E739A0485FF.jpg" />
     <episode-num system="onscreen">S2 E7</episode-num>
     <rating system="MJColombia">
-      <value>TE</value>
+      <value>+14</value>
     </rating>
   </programme>
   <programme start="20221014000000 +0000" stop="20221014005500 +0000" channel="Love Nature!">
@@ -18645,7 +18742,7 @@
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/12/13125554_636C93E9EFACA682.jpg" />
     <episode-num system="onscreen">S3 E1</episode-num>
     <rating system="MJColombia">
-      <value>TE</value>
+      <value>+14</value>
     </rating>
   </programme>
   <programme start="20221014005500 +0000" stop="20221014014500 +0000" channel="Love Nature!">
@@ -18655,7 +18752,7 @@
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/12/13125704_4EB2F1B370A2C8FB.jpg" />
     <episode-num system="onscreen">S1 E3</episode-num>
     <rating system="MJColombia">
-      <value>TE</value>
+      <value>+14</value>
     </rating>
   </programme>
   <programme start="20221014014500 +0000" stop="20221014024000 +0000" channel="Love Nature!">
@@ -18665,7 +18762,7 @@
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12998058_778BBE46096798C1.jpg" />
     <episode-num system="onscreen">S59 E13</episode-num>
     <rating system="MJColombia">
-      <value>TE</value>
+      <value>+14</value>
     </rating>
   </programme>
   <programme start="20221014024000 +0000" stop="20221014033000 +0000" channel="Love Nature!">
@@ -18800,7 +18897,7 @@
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13001669_3E33FCC83F572161.jpg" />
     <episode-num system="onscreen">S40 E7</episode-num>
     <rating system="MJColombia">
-      <value>TE</value>
+      <value>+14</value>
     </rating>
   </programme>
   <programme start="20221014143000 +0000" stop="20221014152500 +0000" channel="Love Nature!">
@@ -19222,14 +19319,6 @@
     <title lang="en">Jangueo</title>
     <desc lang="en">Revista nocturna sobre las principales tendencias urbanos, eventos,.(n)</desc>
     <date>2021</date>
-  </programme>
-  <programme start="20221012150100 +0000" stop="20221012152700 +0000" channel="Discovery Kids!">
-    <title lang="es">Peppa</title>
-    <desc lang="es">Peppa y su familia van al mercado a comprar manzanas, queso y pescado. Peppa hace un espectáculo navideño para que lo vea su familia. Peppa viaja a París para ver a Delphine. Peppa y George ayudan al abuelo a cavar el lecho de un estanque.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12997718_0C056EF092A71883.jpg" />
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
   </programme>
   <programme start="20221012152700 +0000" stop="20221012153800 +0000" channel="Discovery Kids!">
     <title lang="es">Topo Gigio</title>
@@ -19878,7 +19967,7 @@
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13002113_CE61BDF94F57AE75.jpg" />
     <episode-num system="onscreen">S1 E18</episode-num>
     <rating system="MJColombia">
-      <value>TE</value>
+      <value>+14</value>
     </rating>
   </programme>
   <programme start="20221013100300 +0000" stop="20221013101400 +0000" channel="Discovery Kids!">
@@ -19904,7 +19993,7 @@
     <desc lang="es">Emily va a la guardería; la familia de Peppa se ve atrapada en un atasco de tráfico; George se resfría; Peppa se divierte con patinaje sobre hielo.(n)</desc>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13008900_87155C2C6FF0A8F6.jpg" />
     <rating system="MJColombia">
-      <value>+14</value>
+      <value>TE</value>
     </rating>
   </programme>
   <programme start="20221013110000 +0000" stop="20221013112600 +0000" channel="Discovery Kids!">
@@ -20140,7 +20229,7 @@
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13002113_CE61BDF94F57AE75.jpg" />
     <episode-num system="onscreen">S1 E18</episode-num>
     <rating system="MJColombia">
-      <value>TE</value>
+      <value>+14</value>
     </rating>
   </programme>
   <programme start="20221013163700 +0000" stop="20221013170400 +0000" channel="Discovery Kids!">
@@ -20661,7 +20750,7 @@
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/07/13074849_B075D115CB8D7E3B.jpg" />
     <episode-num system="onscreen">S1</episode-num>
     <rating system="MJColombia">
-      <value>TE</value>
+      <value>+14</value>
     </rating>
   </programme>
   <programme start="20221014061100 +0000" stop="20221014062200 +0000" channel="Discovery Kids!">
@@ -20737,7 +20826,7 @@
     <desc lang="es">Peppa olvida su osito de peluche después de un día de campo; día de campo en la guardería; día especial por el cumpleaños de George; una visita al dentista.(n)</desc>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13008894_E3AF69E5DBE5D572.jpg" />
     <rating system="MJColombia">
-      <value>TE</value>
+      <value>+14</value>
     </rating>
   </programme>
   <programme start="20221014084600 +0000" stop="20221014090800 +0000" channel="Discovery Kids!">
@@ -20849,7 +20938,7 @@
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/07/13074849_B075D115CB8D7E3B.jpg" />
     <episode-num system="onscreen">S1</episode-num>
     <rating system="MJColombia">
-      <value>TE</value>
+      <value>+14</value>
     </rating>
   </programme>
   <programme start="20221014121500 +0000" stop="20221014122900 +0000" channel="Discovery Kids!">
@@ -21242,7 +21331,7 @@
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/07/13074849_B075D115CB8D7E3B.jpg" />
     <episode-num system="onscreen">S1</episode-num>
     <rating system="MJColombia">
-      <value>TE</value>
+      <value>+14</value>
     </rating>
   </programme>
   <programme start="20221014230700 +0000" stop="20221014231800 +0000" channel="Discovery Kids!">
@@ -21262,7 +21351,7 @@
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13000269_99C11A4ACCA55CC3.jpg" />
     <episode-num system="onscreen">S3</episode-num>
     <rating system="MJColombia">
-      <value>+14</value>
+      <value>TE</value>
     </rating>
   </programme>
   <programme start="20221014233300 +0000" stop="20221014234400 +0000" channel="Discovery Kids!">
@@ -21272,7 +21361,7 @@
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13000269_99C11A4ACCA55CC3.jpg" />
     <episode-num system="onscreen">S3</episode-num>
     <rating system="MJColombia">
-      <value>+14</value>
+      <value>TE</value>
     </rating>
   </programme>
   <programme start="20221014234400 +0000" stop="20221014235900 +0000" channel="Discovery Kids!">
@@ -21285,20 +21374,12 @@
       <value>+14</value>
     </rating>
   </programme>
-  <programme start="20221012150000 +0000" stop="20221012153000 +0000" channel="Disney Channel!">
-    <title lang="es">MiraculousLas aventuras de Ladybug</title>
-    <desc lang="es">En París, Marinette y Adrien parecen estudiantes normales. Sin embargo, ellos son los elegidos para salvar a los habitantes del mal.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/05/13059349_582C46B357C5EDAD.jpg" />
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
   <programme start="20221012153000 +0000" stop="20221012160000 +0000" channel="Disney Channel!">
     <title lang="es">MiraculousLas aventuras de Ladybug</title>
     <desc lang="es">En París, Marinette y Adrien parecen estudiantes normales. Sin embargo, ellos son los elegidos para salvar a los habitantes del mal.(n)</desc>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/05/13059349_582C46B357C5EDAD.jpg" />
     <rating system="MJColombia">
-      <value>TE</value>
+      <value>+14</value>
     </rating>
   </programme>
   <programme start="20221012160000 +0000" stop="20221012163000 +0000" channel="Disney Channel!">
@@ -21372,7 +21453,7 @@
     <desc lang="es">Una muchacha encuentra su momento para brillar al conseguir un trabajo en el que debe cuidar a un grupo rebelde de niños extraterrestres que se esconden en la Tierra con sus familias, disfrazados de niños comunes.(n)</desc>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12997365_E05F4D065A8EF48E.jpg" />
     <rating system="MJColombia">
-      <value>+14</value>
+      <value>TE</value>
     </rating>
   </programme>
   <programme start="20221012200000 +0000" stop="20221012203000 +0000" channel="Disney Channel!">
@@ -21408,7 +21489,7 @@
     <desc lang="es">En París, Marinette y Adrien parecen estudiantes normales. Sin embargo, ellos son los elegidos para salvar a los habitantes del mal.(n)</desc>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/05/13059349_582C46B357C5EDAD.jpg" />
     <rating system="MJColombia">
-      <value>TE</value>
+      <value>+14</value>
     </rating>
   </programme>
   <programme start="20221012220000 +0000" stop="20221012223000 +0000" channel="Disney Channel!">
@@ -21539,7 +21620,7 @@
     <desc lang="es">Una muchacha encuentra su momento para brillar al conseguir un trabajo en el que debe cuidar a un grupo rebelde de niños extraterrestres que se esconden en la Tierra con sus familias, disfrazados de niños comunes.(n)</desc>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12997365_E05F4D065A8EF48E.jpg" />
     <rating system="MJColombia">
-      <value>+14</value>
+      <value>TE</value>
     </rating>
   </programme>
   <programme start="20221013053000 +0000" stop="20221013060000 +0000" channel="Disney Channel!">
@@ -21883,7 +21964,7 @@
     <desc lang="es">En París, Marinette y Adrien parecen estudiantes normales. Sin embargo, ellos son los elegidos para salvar a los habitantes del mal.(n)</desc>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/05/13059349_582C46B357C5EDAD.jpg" />
     <rating system="MJColombia">
-      <value>TE</value>
+      <value>+14</value>
     </rating>
   </programme>
   <programme start="20221013220000 +0000" stop="20221013223000 +0000" channel="Disney Channel!">
@@ -22029,7 +22110,7 @@
     <desc lang="es">Una muchacha encuentra su momento para brillar al conseguir un trabajo en el que debe cuidar a un grupo rebelde de niños extraterrestres que se esconden en la Tierra con sus familias, disfrazados de niños comunes.(n)</desc>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12997365_E05F4D065A8EF48E.jpg" />
     <rating system="MJColombia">
-      <value>+14</value>
+      <value>TE</value>
     </rating>
   </programme>
   <programme start="20221014053000 +0000" stop="20221014060000 +0000" channel="Disney Channel!">
@@ -22370,7 +22451,7 @@
     <desc lang="es">En París, Marinette y Adrien parecen estudiantes normales. Sin embargo, ellos son los elegidos para salvar a los habitantes del mal.(n)</desc>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/05/13059349_582C46B357C5EDAD.jpg" />
     <rating system="MJColombia">
-      <value>TE</value>
+      <value>+14</value>
     </rating>
   </programme>
   <programme start="20221014220000 +0000" stop="20221014223000 +0000" channel="Disney Channel!">
