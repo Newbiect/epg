@@ -1,19 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Tastemade Mexico">
-    <display-name lang="en">Tastemade Mexico.</display-name>
-    <icon src="http://pluto.tv.s3.amazonaws.com/channels/5f998c1fc54853000797bacd/logo.png" />
-    <url>http://www.pluto.tv.E</url>
-  </channel>
-  <channel id="Anime All Day">
-    <display-name lang="en">Anime All Day.</display-name>
-    <icon src="http://pluto.tv.s3.amazonaws.com/channels/5dcde17bf6591d0009839e02/logo.png" />
-    <url>http://www.pluto.tv.E</url>
-  </channel>
-  <channel id="Latina TV">
-    <display-name lang="en">Latina TV.</display-name>
-    <url>http://www.tvguide.com</url>
-  </channel>
   <channel id="Vevo Pop">
     <display-name lang="en">Vevo Pop.</display-name>
     <icon src="http://pluto.tv.s3.amazonaws.com/channels/5d93b635b43dd1a399b39eee/logo.png" />
@@ -237,1127 +223,1532 @@
     <display-name lang="es">Disney Channel!</display-name>
     <url>http://www.movistar.com.pe</url>
   </channel>
-  <programme start="20221030030000 +0000" stop="20221030090000 +0000" channel="Tastemade Mexico">
-    <title lang="en">Tastemade</title>
+  <programme start="20221030030000 +0000" stop="20221030090000 +0000" channel="Vevo Pop">
+    <title lang="en">Vevo Pop</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
-    <icon src="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <icon src="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20221030090000 +0000" stop="20221030133000 +0000" channel="Tastemade Mexico">
-    <title lang="en">Tastemade</title>
+  <programme start="20221030090000 +0000" stop="20221030140000 +0000" channel="Vevo Pop">
+    <title lang="en">Vevo Pop</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
-    <icon src="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <icon src="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20221030133000 +0000" stop="20221030140000 +0000" channel="Tastemade Mexico">
-    <title lang="en">Tastemade</title>
-    <desc lang="en">Los amantes de la buena vida tienen su señal: 24 hs del día con los mejores shows de comida, viajes y diseño.(n)</desc>
-    <category lang="en">Other</category>
-    <category lang="en">None</category>
-    <icon src="https://images.pluto.tv/episodes/5fdd3129735b4a0007530f4d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  <programme start="20221030140000 +0000" stop="20221030150000 +0000" channel="Vevo Pop">
+    <title lang="en">Halloween Hits</title>
+    <desc lang="en">From Rihanna, to Rob Zombie, an eclectic playlist to ring in the Halloween season.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Pop</category>
+    <icon src="https://images.pluto.tv/episodes/634a92c00e42030013495b30/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
-  <programme start="20221030140000 +0000" stop="20221030143000 +0000" channel="Tastemade Mexico">
-    <title lang="en">Tastemade</title>
-    <desc lang="en">Los amantes de la buena vida tienen su señal: 24 hs del día con los mejores shows de comida, viajes y diseño.(n)</desc>
-    <category lang="en">Other</category>
-    <category lang="en">None</category>
-    <icon src="https://images.pluto.tv/episodes/5fdd3129735b4a0007530f4d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  <programme start="20221030150000 +0000" stop="20221030160000 +0000" channel="Vevo Pop">
+    <title lang="en">DSCVR Pop</title>
+    <desc lang="en">Videos from artists on the rise.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Pop</category>
+    <icon src="https://images.pluto.tv/episodes/62fade1e9bd9c6001b63ac74/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
-  <programme start="20221030143000 +0000" stop="20221030150000 +0000" channel="Tastemade Mexico">
-    <title lang="en">Tastemade</title>
-    <desc lang="en">Los amantes de la buena vida tienen su señal: 24 hs del día con los mejores shows de comida, viajes y diseño.(n)</desc>
-    <category lang="en">Other</category>
-    <category lang="en">None</category>
-    <icon src="https://images.pluto.tv/episodes/5fdd3129735b4a0007530f4d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  <programme start="20221030160000 +0000" stop="20221030180000 +0000" channel="Vevo Pop">
+    <title lang="en">Autumnal Vibes</title>
+    <desc lang="en">The leaves are falling and it's time to get ready for sweater weather with these videos.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Pop</category>
+    <icon src="https://images.pluto.tv/episodes/632077d305b8af001380515a/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
-  <programme start="20221030150000 +0000" stop="20221030153000 +0000" channel="Tastemade Mexico">
-    <title lang="en">Tastemade</title>
-    <desc lang="en">Los amantes de la buena vida tienen su señal: 24 hs del día con los mejores shows de comida, viajes y diseño.(n)</desc>
-    <category lang="en">Other</category>
-    <category lang="en">None</category>
-    <icon src="https://images.pluto.tv/episodes/5fdd3129735b4a0007530f4d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  <programme start="20221030180000 +0000" stop="20221030190000 +0000" channel="Vevo Pop">
+    <title lang="en">Halloween Hits</title>
+    <desc lang="en">From Rihanna, to Rob Zombie, an eclectic playlist to ring in the Halloween season.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Pop</category>
+    <icon src="https://images.pluto.tv/episodes/634a92c00e42030013495b30/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
-  <programme start="20221030153000 +0000" stop="20221030160000 +0000" channel="Tastemade Mexico">
-    <title lang="en">Tastemade</title>
-    <desc lang="en">Los amantes de la buena vida tienen su señal: 24 hs del día con los mejores shows de comida, viajes y diseño.(n)</desc>
-    <category lang="en">Other</category>
-    <category lang="en">None</category>
-    <icon src="https://images.pluto.tv/episodes/5fdd3129735b4a0007530f4d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  <programme start="20221030190000 +0000" stop="20221030193000 +0000" channel="Vevo Pop">
+    <title lang="en">Fall Out Boy: Live in Chicago</title>
+    <desc lang="en">Rock on during ROCKTOBER with live performances from the band's 2016 Boys of Zummer tour. #VevoROCKTOBER.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Pop</category>
+    <icon src="https://images.pluto.tv/episodes/633d55baf92dc200149679fa/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
-  <programme start="20221030160000 +0000" stop="20221030163000 +0000" channel="Tastemade Mexico">
-    <title lang="en">Tastemade</title>
-    <desc lang="en">Los amantes de la buena vida tienen su señal: 24 hs del día con los mejores shows de comida, viajes y diseño.(n)</desc>
-    <category lang="en">Other</category>
-    <category lang="en">None</category>
-    <icon src="https://images.pluto.tv/episodes/5fdd3129735b4a0007530f4d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  <programme start="20221030193000 +0000" stop="20221030200000 +0000" channel="Vevo Pop">
+    <title lang="en">Pop Viral Hits</title>
+    <desc lang="en">Videos making noise on social media.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Pop</category>
+    <icon src="https://images.pluto.tv/episodes/633d55bbf92dc20014967a03/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
-  <programme start="20221030163000 +0000" stop="20221030170000 +0000" channel="Tastemade Mexico">
-    <title lang="en">Tastemade</title>
-    <desc lang="en">Los amantes de la buena vida tienen su señal: 24 hs del día con los mejores shows de comida, viajes y diseño.(n)</desc>
-    <category lang="en">Other</category>
-    <category lang="en">None</category>
-    <icon src="https://images.pluto.tv/episodes/5fdd3129735b4a0007530f4d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  <programme start="20221030200000 +0000" stop="20221030210000 +0000" channel="Vevo Pop">
+    <title lang="en">Love it Live: Pop</title>
+    <desc lang="en">All of your faves, straight from the stage!(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Pop</category>
+    <icon src="https://images.pluto.tv/episodes/62fade1e9bd9c6001b63ac89/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
-  <programme start="20221030170000 +0000" stop="20221030173000 +0000" channel="Tastemade Mexico">
-    <title lang="en">Tastemade</title>
-    <desc lang="en">Los amantes de la buena vida tienen su señal: 24 hs del día con los mejores shows de comida, viajes y diseño.(n)</desc>
-    <category lang="en">Other</category>
-    <category lang="en">None</category>
-    <icon src="https://images.pluto.tv/episodes/5fdd3129735b4a0007530f4d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  <programme start="20221030210000 +0000" stop="20221030220000 +0000" channel="Vevo Pop">
+    <title lang="en">Best of Rihanna</title>
+    <desc lang="en">RiRi's back and we are playing all of her hits to celebrate.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Pop</category>
+    <icon src="https://images.pluto.tv/episodes/635af170cea640001355b79c/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
-  <programme start="20221030173000 +0000" stop="20221030180000 +0000" channel="Tastemade Mexico">
-    <title lang="en">Tastemade</title>
-    <desc lang="en">Los amantes de la buena vida tienen su señal: 24 hs del día con los mejores shows de comida, viajes y diseño.(n)</desc>
-    <category lang="en">Other</category>
-    <category lang="en">None</category>
-    <icon src="https://images.pluto.tv/episodes/5fdd3129735b4a0007530f4d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  <programme start="20221030220000 +0000" stop="20221030223000 +0000" channel="Vevo Pop">
+    <title lang="en">Fall Out Boy: Live in Chicago</title>
+    <desc lang="en">Rock on during ROCKTOBER with live performances from the band's 2016 Boys of Zummer tour. #VevoROCKTOBER.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Pop</category>
+    <icon src="https://images.pluto.tv/episodes/633d55baf92dc200149679fa/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
-  <programme start="20221030180000 +0000" stop="20221030183000 +0000" channel="Tastemade Mexico">
-    <title lang="en">Tastemade</title>
-    <desc lang="en">Los amantes de la buena vida tienen su señal: 24 hs del día con los mejores shows de comida, viajes y diseño.(n)</desc>
-    <category lang="en">Other</category>
-    <category lang="en">None</category>
-    <icon src="https://images.pluto.tv/episodes/5fdd3129735b4a0007530f4d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  <programme start="20221030223000 +0000" stop="20221030230000 +0000" channel="Vevo Pop">
+    <title lang="en">Pop Videos</title>
+    <desc lang="en">Hot new videos.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Pop</category>
+    <icon src="https://images.pluto.tv/episodes/633d55bbf92dc200149679fe/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
-  <programme start="20221030183000 +0000" stop="20221030190000 +0000" channel="Tastemade Mexico">
-    <title lang="en">Tastemade</title>
-    <desc lang="en">Los amantes de la buena vida tienen su señal: 24 hs del día con los mejores shows de comida, viajes y diseño.(n)</desc>
-    <category lang="en">Other</category>
-    <category lang="en">None</category>
-    <icon src="https://images.pluto.tv/episodes/5fdd3129735b4a0007530f4d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  <programme start="20221030230000 +0000" stop="20221031000000 +0000" channel="Vevo Pop">
+    <title lang="en">Halloween Hits</title>
+    <desc lang="en">From Rihanna, to Rob Zombie, an eclectic playlist to ring in the Halloween season.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Pop</category>
+    <icon src="https://images.pluto.tv/episodes/634a92c00e42030013495b30/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
-  <programme start="20221030190000 +0000" stop="20221030193000 +0000" channel="Tastemade Mexico">
-    <title lang="en">Tastemade</title>
-    <desc lang="en">Los amantes de la buena vida tienen su señal: 24 hs del día con los mejores shows de comida, viajes y diseño.(n)</desc>
-    <category lang="en">Other</category>
-    <category lang="en">None</category>
-    <icon src="https://images.pluto.tv/episodes/5fdd3129735b4a0007530f4d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  <programme start="20221031000000 +0000" stop="20221031010000 +0000" channel="Vevo Pop">
+    <title lang="en">Dance Pop Hits</title>
+    <desc lang="en">Vevo Pop – The latest hit videos from the biggest artists!(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Pop</category>
+    <icon src="https://images.pluto.tv/episodes/62fade249bd9c6001b63ae38/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
-  <programme start="20221030193000 +0000" stop="20221030200000 +0000" channel="Tastemade Mexico">
-    <title lang="en">Tastemade</title>
-    <desc lang="en">Los amantes de la buena vida tienen su señal: 24 hs del día con los mejores shows de comida, viajes y diseño.(n)</desc>
-    <category lang="en">Other</category>
-    <category lang="en">None</category>
-    <icon src="https://images.pluto.tv/episodes/5fdd3129735b4a0007530f4d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  <programme start="20221031010000 +0000" stop="20221031020000 +0000" channel="Vevo Pop">
+    <title lang="en">Best of Rihanna</title>
+    <desc lang="en">RiRi's back and we are playing all of her hits to celebrate.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Pop</category>
+    <icon src="https://images.pluto.tv/episodes/635af170cea640001355b79c/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
-  <programme start="20221030200000 +0000" stop="20221030203000 +0000" channel="Tastemade Mexico">
-    <title lang="en">Tastemade</title>
-    <desc lang="en">Los amantes de la buena vida tienen su señal: 24 hs del día con los mejores shows de comida, viajes y diseño.(n)</desc>
-    <category lang="en">Other</category>
-    <category lang="en">None</category>
-    <icon src="https://images.pluto.tv/episodes/5fdd3129735b4a0007530f4d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  <programme start="20221031020000 +0000" stop="20221031040000 +0000" channel="Vevo Pop">
+    <title lang="en">Rhythmic Pop</title>
+    <desc lang="en">Vibe out to these rhythmic videos!(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Pop</category>
+    <icon src="https://images.pluto.tv/episodes/62fade1d9bd9c6001b63ac5b/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
-  <programme start="20221030203000 +0000" stop="20221030210000 +0000" channel="Tastemade Mexico">
-    <title lang="en">Tastemade</title>
-    <desc lang="en">Los amantes de la buena vida tienen su señal: 24 hs del día con los mejores shows de comida, viajes y diseño.(n)</desc>
-    <category lang="en">Other</category>
-    <category lang="en">None</category>
-    <icon src="https://images.pluto.tv/episodes/5fdd3129735b4a0007530f4d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  <programme start="20221031040000 +0000" stop="20221031060000 +0000" channel="Vevo Pop">
+    <title lang="en">Pop Videos</title>
+    <desc lang="en">Hot new videos.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Pop</category>
+    <icon src="https://images.pluto.tv/episodes/62fade1d9bd9c6001b63ac62/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
-  <programme start="20221030210000 +0000" stop="20221030213000 +0000" channel="Tastemade Mexico">
-    <title lang="en">Tastemade</title>
-    <desc lang="en">Los amantes de la buena vida tienen su señal: 24 hs del día con los mejores shows de comida, viajes y diseño.(n)</desc>
-    <category lang="en">Other</category>
-    <category lang="en">None</category>
-    <icon src="https://images.pluto.tv/episodes/5fdd3129735b4a0007530f4d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-  </programme>
-  <programme start="20221030213000 +0000" stop="20221030220000 +0000" channel="Tastemade Mexico">
-    <title lang="en">Tastemade</title>
-    <desc lang="en">Los amantes de la buena vida tienen su señal: 24 hs del día con los mejores shows de comida, viajes y diseño.(n)</desc>
-    <category lang="en">Other</category>
-    <category lang="en">None</category>
-    <icon src="https://images.pluto.tv/episodes/5fdd3129735b4a0007530f4d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-  </programme>
-  <programme start="20221030220000 +0000" stop="20221030223000 +0000" channel="Tastemade Mexico">
-    <title lang="en">Tastemade</title>
-    <desc lang="en">Los amantes de la buena vida tienen su señal: 24 hs del día con los mejores shows de comida, viajes y diseño.(n)</desc>
-    <category lang="en">Other</category>
-    <category lang="en">None</category>
-    <icon src="https://images.pluto.tv/episodes/5fdd3129735b4a0007530f4d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-  </programme>
-  <programme start="20221030223000 +0000" stop="20221030230000 +0000" channel="Tastemade Mexico">
-    <title lang="en">Tastemade</title>
-    <desc lang="en">Los amantes de la buena vida tienen su señal: 24 hs del día con los mejores shows de comida, viajes y diseño.(n)</desc>
-    <category lang="en">Other</category>
-    <category lang="en">None</category>
-    <icon src="https://images.pluto.tv/episodes/5fdd3129735b4a0007530f4d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-  </programme>
-  <programme start="20221030230000 +0000" stop="20221030233000 +0000" channel="Tastemade Mexico">
-    <title lang="en">Tastemade</title>
-    <desc lang="en">Los amantes de la buena vida tienen su señal: 24 hs del día con los mejores shows de comida, viajes y diseño.(n)</desc>
-    <category lang="en">Other</category>
-    <category lang="en">None</category>
-    <icon src="https://images.pluto.tv/episodes/5fdd3129735b4a0007530f4d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-  </programme>
-  <programme start="20221030233000 +0000" stop="20221031000000 +0000" channel="Tastemade Mexico">
-    <title lang="en">Tastemade</title>
-    <desc lang="en">Los amantes de la buena vida tienen su señal: 24 hs del día con los mejores shows de comida, viajes y diseño.(n)</desc>
-    <category lang="en">Other</category>
-    <category lang="en">None</category>
-    <icon src="https://images.pluto.tv/episodes/5fdd3129735b4a0007530f4d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-  </programme>
-  <programme start="20221031000000 +0000" stop="20221031003000 +0000" channel="Tastemade Mexico">
-    <title lang="en">Tastemade</title>
-    <desc lang="en">Los amantes de la buena vida tienen su señal: 24 hs del día con los mejores shows de comida, viajes y diseño.(n)</desc>
-    <category lang="en">Other</category>
-    <category lang="en">None</category>
-    <icon src="https://images.pluto.tv/episodes/5fdd3129735b4a0007530f4d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-  </programme>
-  <programme start="20221031003000 +0000" stop="20221031010000 +0000" channel="Tastemade Mexico">
-    <title lang="en">Tastemade</title>
-    <desc lang="en">Los amantes de la buena vida tienen su señal: 24 hs del día con los mejores shows de comida, viajes y diseño.(n)</desc>
-    <category lang="en">Other</category>
-    <category lang="en">None</category>
-    <icon src="https://images.pluto.tv/episodes/5fdd3129735b4a0007530f4d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-  </programme>
-  <programme start="20221031010000 +0000" stop="20221031013000 +0000" channel="Tastemade Mexico">
-    <title lang="en">Tastemade</title>
-    <desc lang="en">Los amantes de la buena vida tienen su señal: 24 hs del día con los mejores shows de comida, viajes y diseño.(n)</desc>
-    <category lang="en">Other</category>
-    <category lang="en">None</category>
-    <icon src="https://images.pluto.tv/episodes/5fdd3129735b4a0007530f4d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-  </programme>
-  <programme start="20221031013000 +0000" stop="20221031020000 +0000" channel="Tastemade Mexico">
-    <title lang="en">Tastemade</title>
-    <desc lang="en">Los amantes de la buena vida tienen su señal: 24 hs del día con los mejores shows de comida, viajes y diseño.(n)</desc>
-    <category lang="en">Other</category>
-    <category lang="en">None</category>
-    <icon src="https://images.pluto.tv/episodes/5fdd3129735b4a0007530f4d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-  </programme>
-  <programme start="20221031020000 +0000" stop="20221031023000 +0000" channel="Tastemade Mexico">
-    <title lang="en">Tastemade</title>
-    <desc lang="en">Los amantes de la buena vida tienen su señal: 24 hs del día con los mejores shows de comida, viajes y diseño.(n)</desc>
-    <category lang="en">Other</category>
-    <category lang="en">None</category>
-    <icon src="https://images.pluto.tv/episodes/5fdd3129735b4a0007530f4d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-  </programme>
-  <programme start="20221031023000 +0000" stop="20221031030000 +0000" channel="Tastemade Mexico">
-    <title lang="en">Tastemade</title>
-    <desc lang="en">Los amantes de la buena vida tienen su señal: 24 hs del día con los mejores shows de comida, viajes y diseño.(n)</desc>
-    <category lang="en">Other</category>
-    <category lang="en">None</category>
-    <icon src="https://images.pluto.tv/episodes/5fdd3129735b4a0007530f4d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-  </programme>
-  <programme start="20221031030000 +0000" stop="20221031033000 +0000" channel="Tastemade Mexico">
-    <title lang="en">Tastemade</title>
-    <desc lang="en">Los amantes de la buena vida tienen su señal: 24 hs del día con los mejores shows de comida, viajes y diseño.(n)</desc>
-    <category lang="en">Other</category>
-    <category lang="en">None</category>
-    <icon src="https://images.pluto.tv/episodes/5fdd3129735b4a0007530f4d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-  </programme>
-  <programme start="20221031033000 +0000" stop="20221031090000 +0000" channel="Tastemade Mexico">
-    <title lang="en">Tastemade</title>
+  <programme start="20221031060000 +0000" stop="20221031090000 +0000" channel="Vevo Pop">
+    <title lang="en">Vevo Pop</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
-    <icon src="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <icon src="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20221031090000 +0000" stop="20221031150000 +0000" channel="Tastemade Mexico">
-    <title lang="en">Tastemade</title>
+  <programme start="20221031090000 +0000" stop="20221031150000 +0000" channel="Vevo Pop">
+    <title lang="en">Vevo Pop</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
-    <icon src="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <icon src="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20221031150000 +0000" stop="20221031210000 +0000" channel="Tastemade Mexico">
-    <title lang="en">Tastemade</title>
+  <programme start="20221031150000 +0000" stop="20221031210000 +0000" channel="Vevo Pop">
+    <title lang="en">Vevo Pop</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
-    <icon src="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <icon src="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20221031210000 +0000" stop="20221101030000 +0000" channel="Tastemade Mexico">
-    <title lang="en">Tastemade</title>
+  <programme start="20221031210000 +0000" stop="20221101030000 +0000" channel="Vevo Pop">
+    <title lang="en">Vevo Pop</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
-    <icon src="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <icon src="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20221101030000 +0000" stop="20221101090000 +0000" channel="Tastemade Mexico">
-    <title lang="en">Tastemade</title>
+  <programme start="20221101030000 +0000" stop="20221101090000 +0000" channel="Vevo Pop">
+    <title lang="en">Vevo Pop</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
-    <icon src="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <icon src="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20221101090000 +0000" stop="20221101150000 +0000" channel="Tastemade Mexico">
-    <title lang="en">Tastemade</title>
+  <programme start="20221101090000 +0000" stop="20221101150000 +0000" channel="Vevo Pop">
+    <title lang="en">Vevo Pop</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
-    <icon src="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <icon src="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20221101150000 +0000" stop="20221101210000 +0000" channel="Tastemade Mexico">
-    <title lang="en">Tastemade</title>
+  <programme start="20221101150000 +0000" stop="20221101210000 +0000" channel="Vevo Pop">
+    <title lang="en">Vevo Pop</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
-    <icon src="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <icon src="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20221101210000 +0000" stop="20221102030000 +0000" channel="Tastemade Mexico">
-    <title lang="en">Tastemade</title>
+  <programme start="20221101210000 +0000" stop="20221102030000 +0000" channel="Vevo Pop">
+    <title lang="en">Vevo Pop</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
-    <icon src="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <icon src="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20221102030000 +0000" stop="20221102090000 +0000" channel="Tastemade Mexico">
-    <title lang="en">Tastemade</title>
+  <programme start="20221102030000 +0000" stop="20221102090000 +0000" channel="Vevo Pop">
+    <title lang="en">Vevo Pop</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
-    <icon src="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <icon src="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20221102090000 +0000" stop="20221102150000 +0000" channel="Tastemade Mexico">
-    <title lang="en">Tastemade</title>
+  <programme start="20221102090000 +0000" stop="20221102150000 +0000" channel="Vevo Pop">
+    <title lang="en">Vevo Pop</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
-    <icon src="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <icon src="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20221102150000 +0000" stop="20221102210000 +0000" channel="Tastemade Mexico">
-    <title lang="en">Tastemade</title>
+  <programme start="20221102150000 +0000" stop="20221102210000 +0000" channel="Vevo Pop">
+    <title lang="en">Vevo Pop</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
-    <icon src="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <icon src="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20221102210000 +0000" stop="20221103030000 +0000" channel="Tastemade Mexico">
-    <title lang="en">Tastemade</title>
+  <programme start="20221102210000 +0000" stop="20221103030000 +0000" channel="Vevo Pop">
+    <title lang="en">Vevo Pop</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
-    <icon src="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <icon src="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20221103030000 +0000" stop="20221103090000 +0000" channel="Tastemade Mexico">
-    <title lang="en">Tastemade</title>
+  <programme start="20221103030000 +0000" stop="20221103090000 +0000" channel="Vevo Pop">
+    <title lang="en">Vevo Pop</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
-    <icon src="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <icon src="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20221103090000 +0000" stop="20221103150000 +0000" channel="Tastemade Mexico">
-    <title lang="en">Tastemade</title>
+  <programme start="20221103090000 +0000" stop="20221103150000 +0000" channel="Vevo Pop">
+    <title lang="en">Vevo Pop</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
-    <icon src="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <icon src="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20221103150000 +0000" stop="20221103210000 +0000" channel="Tastemade Mexico">
-    <title lang="en">Tastemade</title>
+  <programme start="20221103150000 +0000" stop="20221103210000 +0000" channel="Vevo Pop">
+    <title lang="en">Vevo Pop</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
-    <icon src="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <icon src="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20221103210000 +0000" stop="20221104030000 +0000" channel="Tastemade Mexico">
-    <title lang="en">Tastemade</title>
+  <programme start="20221103210000 +0000" stop="20221104030000 +0000" channel="Vevo Pop">
+    <title lang="en">Vevo Pop</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
-    <icon src="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <icon src="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20221030030000 +0000" stop="20221030090000 +0000" channel="Anime All Day">
-    <title lang="en">Pluto TV Anime</title>
+  <programme start="20221030030000 +0000" stop="20221030090000 +0000" channel="Vevo 2K">
+    <title lang="en">Vevo 2K</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
-    <icon src="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <icon src="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20221030090000 +0000" stop="20221030134700 +0000" channel="Anime All Day">
-    <title lang="en">Pluto TV Anime</title>
+  <programme start="20221030090000 +0000" stop="20221030140000 +0000" channel="Vevo 2K">
+    <title lang="en">Vevo 2K</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
-    <icon src="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <icon src="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20221030134700 +0000" stop="20221030141600 +0000" channel="Anime All Day">
-    <title lang="en">Inuyasha</title>
-    <desc lang="en">La vida de Inuyasha está amenazada, y él se transforma completamente en un estado de demonio. Enloquecido, rompe rápidamente el capullo y destruye Gatenmaru.(n)</desc>
-    <category lang="en">Anime</category>
-    <category lang="en">Anime Action &amp; Adventure</category>
-    <icon src="https://images.pluto.tv/episodes/5ee0ea5d48332b001ad07216/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  <programme start="20221030140000 +0000" stop="20221030150000 +0000" channel="Vevo 2K">
+    <title lang="en">Vevo 2K Videos</title>
+    <desc lang="en">Videos from all of your favorite 2K artists.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Pop</category>
+    <icon src="https://images.pluto.tv/episodes/62fae54620b977001eecc95c/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221030150000 +0000" stop="20221030160000 +0000" channel="Vevo 2K">
+    <title lang="en">Green Day: Live at Milton Keynes National Bowl, 2005</title>
+    <desc lang="en">Watch the punk band tear through England in this 2005 concert! #VevoROCKTOBER.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Pop</category>
+    <icon src="https://images.pluto.tv/episodes/633615f80eb13d0013a0214f/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221030160000 +0000" stop="20221030180000 +0000" channel="Vevo 2K">
+    <title lang="en">Alt to Rock</title>
+    <desc lang="en">Guitar-driven classics.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Pop</category>
+    <icon src="https://images.pluto.tv/episodes/62fae54620b977001eecc958/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221030180000 +0000" stop="20221030200000 +0000" channel="Vevo 2K">
+    <title lang="en">Vevo 2K Videos</title>
+    <desc lang="en">Videos from all of your favorite 2K artists.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Pop</category>
+    <icon src="https://images.pluto.tv/episodes/62fae54620b977001eecc94a/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221030200000 +0000" stop="20221030210000 +0000" channel="Vevo 2K">
+    <title lang="en">Green Day: Live at Milton Keynes National Bowl, 2005</title>
+    <desc lang="en">Watch the punk band tear through England in this 2005 concert! #VevoROCKTOBER.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Pop</category>
+    <icon src="https://images.pluto.tv/episodes/633615f80eb13d0013a0214f/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221030210000 +0000" stop="20221030220000 +0000" channel="Vevo 2K">
+    <title lang="en">2K Pop Hits</title>
+    <desc lang="en">Boy bands, girl groups and more.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Pop</category>
+    <icon src="https://images.pluto.tv/episodes/6352a604f92dc200149c0cbe/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221030220000 +0000" stop="20221030230000 +0000" channel="Vevo 2K">
+    <title lang="en">Best of Rihanna</title>
+    <desc lang="en">RiRi's back and we are playing all of her hits to celebrate.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Pop</category>
+    <icon src="https://images.pluto.tv/episodes/635aff7e1ac5b40013afb93a/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221030230000 +0000" stop="20221031000000 +0000" channel="Vevo 2K">
+    <title lang="en">Green Day: Live at Milton Keynes National Bowl, 2005</title>
+    <desc lang="en">Watch the punk band tear through England in this 2005 concert! #VevoROCKTOBER.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Pop</category>
+    <icon src="https://images.pluto.tv/episodes/633615f80eb13d0013a0214f/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221031000000 +0000" stop="20221031010000 +0000" channel="Vevo 2K">
+    <title lang="en">Vevo 2K Videos</title>
+    <desc lang="en">Videos from all of your favorite 2K artists.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Pop</category>
+    <icon src="https://images.pluto.tv/episodes/62fae54620b977001eecc95c/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221031010000 +0000" stop="20221031020000 +0000" channel="Vevo 2K">
+    <title lang="en">Best of Rihanna</title>
+    <desc lang="en">RiRi's back and we are playing all of her hits to celebrate.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Pop</category>
+    <icon src="https://images.pluto.tv/episodes/635aff7e1ac5b40013afb93a/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221031020000 +0000" stop="20221031030000 +0000" channel="Vevo 2K">
+    <title lang="en">Top Hits</title>
+    <desc lang="en">The decade's biggest videos.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Pop</category>
+    <icon src="https://images.pluto.tv/episodes/6319cb3f7a42340013eb5b60/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221031030000 +0000" stop="20221031040000 +0000" channel="Vevo 2K">
+    <title lang="en">Hip Hop Heavy</title>
+    <desc lang="en">Get crunk with the decade's hottest videos!(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Pop</category>
+    <icon src="https://images.pluto.tv/episodes/62fae54520b977001eecc943/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221031040000 +0000" stop="20221031060000 +0000" channel="Vevo 2K">
+    <title lang="en">Vevo 2K Videos</title>
+    <desc lang="en">Videos from all of your favorite 2K artists.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Pop</category>
+    <icon src="https://images.pluto.tv/episodes/62fae54620b977001eecc94a/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221031060000 +0000" stop="20221031090000 +0000" channel="Vevo 2K">
+    <title lang="en">Vevo 2K</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221031090000 +0000" stop="20221031150000 +0000" channel="Vevo 2K">
+    <title lang="en">Vevo 2K</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221031150000 +0000" stop="20221031210000 +0000" channel="Vevo 2K">
+    <title lang="en">Vevo 2K</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221031210000 +0000" stop="20221101030000 +0000" channel="Vevo 2K">
+    <title lang="en">Vevo 2K</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221101030000 +0000" stop="20221101090000 +0000" channel="Vevo 2K">
+    <title lang="en">Vevo 2K</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221101090000 +0000" stop="20221101150000 +0000" channel="Vevo 2K">
+    <title lang="en">Vevo 2K</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221101150000 +0000" stop="20221101210000 +0000" channel="Vevo 2K">
+    <title lang="en">Vevo 2K</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221101210000 +0000" stop="20221102030000 +0000" channel="Vevo 2K">
+    <title lang="en">Vevo 2K</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221102030000 +0000" stop="20221102090000 +0000" channel="Vevo 2K">
+    <title lang="en">Vevo 2K</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221102090000 +0000" stop="20221102150000 +0000" channel="Vevo 2K">
+    <title lang="en">Vevo 2K</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221102150000 +0000" stop="20221102210000 +0000" channel="Vevo 2K">
+    <title lang="en">Vevo 2K</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221102210000 +0000" stop="20221103030000 +0000" channel="Vevo 2K">
+    <title lang="en">Vevo 2K</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221103030000 +0000" stop="20221103090000 +0000" channel="Vevo 2K">
+    <title lang="en">Vevo 2K</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221103090000 +0000" stop="20221103150000 +0000" channel="Vevo 2K">
+    <title lang="en">Vevo 2K</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221103150000 +0000" stop="20221103210000 +0000" channel="Vevo 2K">
+    <title lang="en">Vevo 2K</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221103210000 +0000" stop="20221104030000 +0000" channel="Vevo 2K">
+    <title lang="en">Vevo 2K</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221030030000 +0000" stop="20221030090000 +0000" channel="Vevo Reggaetón &amp; Trap">
+    <title lang="en">Vevo Reggaeton &amp; Trap</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5f32f397795b750007706448/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221030090000 +0000" stop="20221030140000 +0000" channel="Vevo Reggaetón &amp; Trap">
+    <title lang="en">Vevo Reggaeton &amp; Trap</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5f32f397795b750007706448/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221030140000 +0000" stop="20221030160000 +0000" channel="Vevo Reggaetón &amp; Trap">
+    <title lang="en">DSCVR Más</title>
+    <desc lang="en">Hot new videos from aritsts on the rise.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Dance &amp; Party</category>
+    <icon src="https://images.pluto.tv/episodes/63593d81f64f1900131dee2e/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221030160000 +0000" stop="20221030180000 +0000" channel="Vevo Reggaetón &amp; Trap">
+    <title lang="en">ReggaeTRAP</title>
+    <desc lang="en">Mix of your favorite classics and newest Reggaeton and Trap Videos.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Dance &amp; Party</category>
+    <icon src="https://images.pluto.tv/episodes/635952898515d3001319cab3/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221030180000 +0000" stop="20221030190000 +0000" channel="Vevo Reggaetón &amp; Trap">
+    <title lang="en">Rebeldes</title>
+    <desc lang="en">Women of the urban movement who aren't afraid to break all of the rules.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Dance &amp; Party</category>
+    <icon src="https://images.pluto.tv/episodes/63596ee66089a700137185f4/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221030190000 +0000" stop="20221030210000 +0000" channel="Vevo Reggaetón &amp; Trap">
+    <title lang="en">Dale ReWIND</title>
+    <desc lang="en">Throwback hits that still go hard today!(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Dance &amp; Party</category>
+    <icon src="https://images.pluto.tv/episodes/635936729debef0013ad400c/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221030210000 +0000" stop="20221030230000 +0000" channel="Vevo Reggaetón &amp; Trap">
+    <title lang="en">DSCVR Más</title>
+    <desc lang="en">Hot new videos from aritsts on the rise.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Dance &amp; Party</category>
+    <icon src="https://images.pluto.tv/episodes/63593d81f64f1900131dee2e/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221030230000 +0000" stop="20221031010000 +0000" channel="Vevo Reggaetón &amp; Trap">
+    <title lang="en">ReggaeTRAP</title>
+    <desc lang="en">Mix of your favorite classics and newest Reggaeton and Trap Videos.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Dance &amp; Party</category>
+    <icon src="https://images.pluto.tv/episodes/635952898515d3001319cab3/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221031010000 +0000" stop="20221031020000 +0000" channel="Vevo Reggaetón &amp; Trap">
+    <title lang="en">CTRL: Reggaeton &amp; Trap Takeover</title>
+    <desc lang="en">Your favorite artists take control of the microphone.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Dance &amp; Party</category>
+    <icon src="https://images.pluto.tv/episodes/635944931ac5b40013aefcb4/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221031020000 +0000" stop="20221031040000 +0000" channel="Vevo Reggaetón &amp; Trap">
+    <title lang="en">iParty</title>
+    <desc lang="en">Sube el volumen and get ready to dance with these R&amp;T anthems.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Dance &amp; Party</category>
+    <icon src="https://images.pluto.tv/episodes/635944931ac5b40013aefcbb/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221031040000 +0000" stop="20221031060000 +0000" channel="Vevo Reggaetón &amp; Trap">
+    <title lang="en">Perreo After Dark</title>
+    <desc lang="en">The ultimate after hours perreo experience.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Dance &amp; Party</category>
+    <icon src="https://images.pluto.tv/episodes/635944931ac5b40013aefcc2/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221031060000 +0000" stop="20221031090000 +0000" channel="Vevo Reggaetón &amp; Trap">
+    <title lang="en">Vevo Reggaeton &amp; Trap</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5f32f397795b750007706448/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221031090000 +0000" stop="20221031150000 +0000" channel="Vevo Reggaetón &amp; Trap">
+    <title lang="en">Vevo Reggaeton &amp; Trap</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5f32f397795b750007706448/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221031150000 +0000" stop="20221031210000 +0000" channel="Vevo Reggaetón &amp; Trap">
+    <title lang="en">Vevo Reggaeton &amp; Trap</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5f32f397795b750007706448/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221031210000 +0000" stop="20221101030000 +0000" channel="Vevo Reggaetón &amp; Trap">
+    <title lang="en">Vevo Reggaeton &amp; Trap</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5f32f397795b750007706448/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221101030000 +0000" stop="20221101090000 +0000" channel="Vevo Reggaetón &amp; Trap">
+    <title lang="en">Vevo Reggaeton &amp; Trap</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5f32f397795b750007706448/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221101090000 +0000" stop="20221101150000 +0000" channel="Vevo Reggaetón &amp; Trap">
+    <title lang="en">Vevo Reggaeton &amp; Trap</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5f32f397795b750007706448/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221101150000 +0000" stop="20221101210000 +0000" channel="Vevo Reggaetón &amp; Trap">
+    <title lang="en">Vevo Reggaeton &amp; Trap</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5f32f397795b750007706448/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221101210000 +0000" stop="20221102030000 +0000" channel="Vevo Reggaetón &amp; Trap">
+    <title lang="en">Vevo Reggaeton &amp; Trap</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5f32f397795b750007706448/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221102030000 +0000" stop="20221102090000 +0000" channel="Vevo Reggaetón &amp; Trap">
+    <title lang="en">Vevo Reggaeton &amp; Trap</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5f32f397795b750007706448/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221102090000 +0000" stop="20221102150000 +0000" channel="Vevo Reggaetón &amp; Trap">
+    <title lang="en">Vevo Reggaeton &amp; Trap</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5f32f397795b750007706448/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221102150000 +0000" stop="20221102210000 +0000" channel="Vevo Reggaetón &amp; Trap">
+    <title lang="en">Vevo Reggaeton &amp; Trap</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5f32f397795b750007706448/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221102210000 +0000" stop="20221103030000 +0000" channel="Vevo Reggaetón &amp; Trap">
+    <title lang="en">Vevo Reggaeton &amp; Trap</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5f32f397795b750007706448/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221103030000 +0000" stop="20221103090000 +0000" channel="Vevo Reggaetón &amp; Trap">
+    <title lang="en">Vevo Reggaeton &amp; Trap</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5f32f397795b750007706448/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221103090000 +0000" stop="20221103150000 +0000" channel="Vevo Reggaetón &amp; Trap">
+    <title lang="en">Vevo Reggaeton &amp; Trap</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5f32f397795b750007706448/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221103150000 +0000" stop="20221103210000 +0000" channel="Vevo Reggaetón &amp; Trap">
+    <title lang="en">Vevo Reggaeton &amp; Trap</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5f32f397795b750007706448/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221103210000 +0000" stop="20221104030000 +0000" channel="Vevo Reggaetón &amp; Trap">
+    <title lang="en">Vevo Reggaeton &amp; Trap</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5f32f397795b750007706448/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221030030000 +0000" stop="20221030090000 +0000" channel="Vevo Latino">
+    <title lang="en">Vevo Latino</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5da0d64d0e8a62000964ebe4/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221030090000 +0000" stop="20221030143000 +0000" channel="Vevo Latino">
+    <title lang="en">Vevo Latino</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5da0d64d0e8a62000964ebe4/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221030143000 +0000" stop="20221030150000 +0000" channel="Vevo Latino">
+    <title lang="en">Latin Videos</title>
+    <desc lang="en">¡Los mejores videos de pop latino!(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Latino</category>
+    <icon src="https://images.pluto.tv/episodes/63254d6f48fe5f0013f722a1/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221030150000 +0000" stop="20221030160000 +0000" channel="Vevo Latino">
+    <title lang="en">En Vivo</title>
+    <desc lang="en">Favorite artists straight from the stage.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Latino</category>
+    <icon src="https://images.pluto.tv/episodes/61f975a1f72e7b001a73ec41/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221030160000 +0000" stop="20221030180000 +0000" channel="Vevo Latino">
+    <title lang="en">Puro Hits</title>
+    <desc lang="en">¡Los mejores videos de pop latino!(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Latino</category>
+    <icon src="https://images.pluto.tv/episodes/61ee6aa879ba2f001aab1b1f/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221030180000 +0000" stop="20221030190000 +0000" channel="Vevo Latino">
+    <title lang="en">¡Viva ROCKTOBER!</title>
+    <desc lang="en">¡Los mejores videos de pop latino!(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Latino</category>
+    <icon src="https://images.pluto.tv/episodes/6329ce76e21252001353d8bd/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221030190000 +0000" stop="20221030193000 +0000" channel="Vevo Latino">
+    <title lang="en">Dia de los Muertos</title>
+    <desc lang="en">A musical celebration of the cultural fiesta celebrated by people of Mexican heritage; performers include Los Lobos, Ozomatli and Flor de Toloache.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Latino</category>
+    <icon src="https://images.pluto.tv/episodes/63529f03f2de430013c29411/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20221030193000 +0000" stop="20221030200000 +0000" channel="Vevo Latino">
+    <title lang="en">Latin Videos</title>
+    <desc lang="en">¡Los mejores videos de pop latino!(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Latino</category>
+    <icon src="https://images.pluto.tv/episodes/63254d6f48fe5f0013f722a1/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221030200000 +0000" stop="20221030210000 +0000" channel="Vevo Latino">
+    <title lang="en">DSCVR Latinx</title>
+    <desc lang="en">Videos from artists on the rise.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Latino</category>
+    <icon src="https://images.pluto.tv/episodes/62347b58d16300001390b83b/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221030210000 +0000" stop="20221030220000 +0000" channel="Vevo Latino">
+    <title lang="en">Latin Flashback Hits</title>
+    <desc lang="en">A mix of all your favorite songs from past decades.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Latino</category>
+    <icon src="https://images.pluto.tv/episodes/6352a5f9f92dc200149c0a1e/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221030220000 +0000" stop="20221030230000 +0000" channel="Vevo Latino">
+    <title lang="en">Latin Videos</title>
+    <desc lang="en">¡Los mejores videos de pop latino!(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Latino</category>
+    <icon src="https://images.pluto.tv/episodes/61ee6ac879ba2f001aab1cf0/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221030230000 +0000" stop="20221030233000 +0000" channel="Vevo Latino">
+    <title lang="en">Dia de los Muertos</title>
+    <desc lang="en">A musical celebration of the cultural fiesta celebrated by people of Mexican heritage; performers include Los Lobos, Ozomatli and Flor de Toloache.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Latino</category>
+    <icon src="https://images.pluto.tv/episodes/63529f03f2de430013c29411/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20221030233000 +0000" stop="20221031000000 +0000" channel="Vevo Latino">
+    <title lang="en">Latin Videos</title>
+    <desc lang="en">¡Los mejores videos de pop latino!(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Latino</category>
+    <icon src="https://images.pluto.tv/episodes/63254d6f48fe5f0013f722a1/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221031000000 +0000" stop="20221031010000 +0000" channel="Vevo Latino">
+    <title lang="en">Puro Hits</title>
+    <desc lang="en">¡Los mejores videos de pop latino!(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Latino</category>
+    <icon src="https://images.pluto.tv/episodes/628b46188fa44b0014d36ed6/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221031010000 +0000" stop="20221031020000 +0000" channel="Vevo Latino">
+    <title lang="en">¡Viva ROCKTOBER!</title>
+    <desc lang="en">¡Los mejores videos de pop latino!(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Latino</category>
+    <icon src="https://images.pluto.tv/episodes/6329ce76e21252001353d8bd/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221031020000 +0000" stop="20221031030000 +0000" channel="Vevo Latino">
+    <title lang="en">Hoy Se Baila!</title>
+    <desc lang="en">Turn up the volume and get ready to dance.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Latino</category>
+    <icon src="https://images.pluto.tv/episodes/6285818c8fa44b0014d21ad1/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221031030000 +0000" stop="20221031040000 +0000" channel="Vevo Latino">
+    <title lang="en">Hoy Se Baila!</title>
+    <desc lang="en">Turn up the volume and get ready to dance.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Latino</category>
+    <icon src="https://images.pluto.tv/episodes/6285818c8fa44b0014d21ad1/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221031040000 +0000" stop="20221031060000 +0000" channel="Vevo Latino">
+    <title lang="en">Latin Videos</title>
+    <desc lang="en">¡Los mejores videos de pop latino!(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Latino</category>
+    <icon src="https://images.pluto.tv/episodes/61f452b50a7fe8001a15864a/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221031060000 +0000" stop="20221031090000 +0000" channel="Vevo Latino">
+    <title lang="en">Vevo Latino</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5da0d64d0e8a62000964ebe4/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221031090000 +0000" stop="20221031150000 +0000" channel="Vevo Latino">
+    <title lang="en">Vevo Latino</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5da0d64d0e8a62000964ebe4/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221031150000 +0000" stop="20221031210000 +0000" channel="Vevo Latino">
+    <title lang="en">Vevo Latino</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5da0d64d0e8a62000964ebe4/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221031210000 +0000" stop="20221101030000 +0000" channel="Vevo Latino">
+    <title lang="en">Vevo Latino</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5da0d64d0e8a62000964ebe4/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221101030000 +0000" stop="20221101090000 +0000" channel="Vevo Latino">
+    <title lang="en">Vevo Latino</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5da0d64d0e8a62000964ebe4/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221101090000 +0000" stop="20221101150000 +0000" channel="Vevo Latino">
+    <title lang="en">Vevo Latino</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5da0d64d0e8a62000964ebe4/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221101150000 +0000" stop="20221101210000 +0000" channel="Vevo Latino">
+    <title lang="en">Vevo Latino</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5da0d64d0e8a62000964ebe4/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221101210000 +0000" stop="20221102030000 +0000" channel="Vevo Latino">
+    <title lang="en">Vevo Latino</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5da0d64d0e8a62000964ebe4/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221102030000 +0000" stop="20221102090000 +0000" channel="Vevo Latino">
+    <title lang="en">Vevo Latino</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5da0d64d0e8a62000964ebe4/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221102090000 +0000" stop="20221102150000 +0000" channel="Vevo Latino">
+    <title lang="en">Vevo Latino</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5da0d64d0e8a62000964ebe4/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221102150000 +0000" stop="20221102210000 +0000" channel="Vevo Latino">
+    <title lang="en">Vevo Latino</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5da0d64d0e8a62000964ebe4/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221102210000 +0000" stop="20221103030000 +0000" channel="Vevo Latino">
+    <title lang="en">Vevo Latino</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5da0d64d0e8a62000964ebe4/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221103030000 +0000" stop="20221103090000 +0000" channel="Vevo Latino">
+    <title lang="en">Vevo Latino</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5da0d64d0e8a62000964ebe4/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221103090000 +0000" stop="20221103150000 +0000" channel="Vevo Latino">
+    <title lang="en">Vevo Latino</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5da0d64d0e8a62000964ebe4/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221103150000 +0000" stop="20221103210000 +0000" channel="Vevo Latino">
+    <title lang="en">Vevo Latino</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5da0d64d0e8a62000964ebe4/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221103210000 +0000" stop="20221104030000 +0000" channel="Vevo Latino">
+    <title lang="en">Vevo Latino</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5da0d64d0e8a62000964ebe4/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221030030000 +0000" stop="20221030090000 +0000" channel="Vevo Country">
+    <title lang="en">Vevo Country</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221030090000 +0000" stop="20221030140000 +0000" channel="Vevo Country">
+    <title lang="en">Vevo Country</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221030140000 +0000" stop="20221030150000 +0000" channel="Vevo Country">
+    <title lang="en">Country Videos</title>
+    <desc lang="en">Nothing but hit videos from the biggest Country artists!(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Country</category>
+    <icon src="https://images.pluto.tv/episodes/62fade279bd9c6001b63aedf/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221030150000 +0000" stop="20221030160000 +0000" channel="Vevo Country">
+    <title lang="en">DSCVR Country</title>
+    <desc lang="en">Country's most buzzing new artists.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Country</category>
+    <icon src="https://images.pluto.tv/episodes/62fade269bd9c6001b63aec6/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221030160000 +0000" stop="20221030180000 +0000" channel="Vevo Country">
+    <title lang="en">Midday Mix</title>
+    <desc lang="en">Take a break with these vids.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Country</category>
+    <icon src="https://images.pluto.tv/episodes/630cc6788762280014a15f2d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221030180000 +0000" stop="20221030200000 +0000" channel="Vevo Country">
+    <title lang="en">Top Country Videos</title>
+    <desc lang="en">The most popular clips of the week!(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Country</category>
+    <icon src="https://images.pluto.tv/episodes/633a9da26cb7a00013ab891e/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221030200000 +0000" stop="20221030210000 +0000" channel="Vevo Country">
+    <title lang="en">Love It Live: Country</title>
+    <desc lang="en">All the faves, straight from the stage.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Country</category>
+    <icon src="https://images.pluto.tv/episodes/62fade269bd9c6001b63aed4/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221030210000 +0000" stop="20221030220000 +0000" channel="Vevo Country">
+    <title lang="en">Country Rewind</title>
+    <desc lang="en">Country's most memorable videos from past decades.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Country</category>
+    <icon src="https://images.pluto.tv/episodes/62fade269bd9c6001b63aedb/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221030220000 +0000" stop="20221031000000 +0000" channel="Vevo Country">
+    <title lang="en">New &amp; Approved</title>
+    <desc lang="en">The latest and hottest country videos.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Country</category>
+    <icon src="https://images.pluto.tv/episodes/633a9da26cb7a00013ab8925/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221031000000 +0000" stop="20221031020000 +0000" channel="Vevo Country">
+    <title lang="en">Midday Mix</title>
+    <desc lang="en">Take a break with these vids.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Country</category>
+    <icon src="https://images.pluto.tv/episodes/630cc6788762280014a15f2d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221031020000 +0000" stop="20221031030000 +0000" channel="Vevo Country">
+    <title lang="en">Top Country Videos</title>
+    <desc lang="en">The most popular clips of the week!(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Country</category>
+    <icon src="https://images.pluto.tv/episodes/633bc4f7cfefb200131911f4/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221031030000 +0000" stop="20221031040000 +0000" channel="Vevo Country">
+    <title lang="en">True Country</title>
+    <desc lang="en">Artists who embrace the genre's traditional sound.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Country</category>
+    <icon src="https://images.pluto.tv/episodes/633c0433f0309500139e0c28/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221031040000 +0000" stop="20221031060000 +0000" channel="Vevo Country">
+    <title lang="en">Country Videos</title>
+    <desc lang="en">Nothing but hit videos from the biggest Country artists!(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Country</category>
+    <icon src="https://images.pluto.tv/episodes/62fade269bd9c6001b63aeb1/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221031060000 +0000" stop="20221031090000 +0000" channel="Vevo Country">
+    <title lang="en">Vevo Country</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221031090000 +0000" stop="20221031150000 +0000" channel="Vevo Country">
+    <title lang="en">Vevo Country</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221031150000 +0000" stop="20221031210000 +0000" channel="Vevo Country">
+    <title lang="en">Vevo Country</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221031210000 +0000" stop="20221101030000 +0000" channel="Vevo Country">
+    <title lang="en">Vevo Country</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221101030000 +0000" stop="20221101090000 +0000" channel="Vevo Country">
+    <title lang="en">Vevo Country</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221101090000 +0000" stop="20221101150000 +0000" channel="Vevo Country">
+    <title lang="en">Vevo Country</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221101150000 +0000" stop="20221101210000 +0000" channel="Vevo Country">
+    <title lang="en">Vevo Country</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221101210000 +0000" stop="20221102030000 +0000" channel="Vevo Country">
+    <title lang="en">Vevo Country</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221102030000 +0000" stop="20221102090000 +0000" channel="Vevo Country">
+    <title lang="en">Vevo Country</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221102090000 +0000" stop="20221102150000 +0000" channel="Vevo Country">
+    <title lang="en">Vevo Country</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221102150000 +0000" stop="20221102210000 +0000" channel="Vevo Country">
+    <title lang="en">Vevo Country</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221102210000 +0000" stop="20221103030000 +0000" channel="Vevo Country">
+    <title lang="en">Vevo Country</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221103030000 +0000" stop="20221103090000 +0000" channel="Vevo Country">
+    <title lang="en">Vevo Country</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221103090000 +0000" stop="20221103150000 +0000" channel="Vevo Country">
+    <title lang="en">Vevo Country</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221103150000 +0000" stop="20221103210000 +0000" channel="Vevo Country">
+    <title lang="en">Vevo Country</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221103210000 +0000" stop="20221104030000 +0000" channel="Vevo Country">
+    <title lang="en">Vevo Country</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221030030000 +0000" stop="20221030090000 +0000" channel="Vevo R&amp;B">
+    <title lang="en">Vevo R&amp;B</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221030090000 +0000" stop="20221030140000 +0000" channel="Vevo R&amp;B">
+    <title lang="en">Vevo R&amp;B</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
+  </programme>
+  <programme start="20221030140000 +0000" stop="20221030150000 +0000" channel="Vevo R&amp;B">
+    <title lang="en">Souled Out</title>
+    <desc lang="en">From groove to smooth, videos to get your vibes right!(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">R&amp;B/Soul</category>
+    <icon src="https://images.pluto.tv/episodes/62fade099bd9c6001b63a690/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221030150000 +0000" stop="20221030160000 +0000" channel="Vevo R&amp;B">
+    <title lang="en">DSCVR R&amp;B</title>
+    <desc lang="en">Emerging artists that one needs to know about.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">R&amp;B/Soul</category>
+    <icon src="https://images.pluto.tv/episodes/62fade099bd9c6001b63a697/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221030160000 +0000" stop="20221030170000 +0000" channel="Vevo R&amp;B">
+    <title lang="en">R&amp;B Feels</title>
+    <desc lang="en">Videos to enjoy.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">R&amp;B/Soul</category>
+    <icon src="https://images.pluto.tv/episodes/62fefcf9a0cb07001acd693f/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221030170000 +0000" stop="20221030180000 +0000" channel="Vevo R&amp;B">
+    <title lang="en">Best of Rihanna</title>
+    <desc lang="en">RiRi's back and we are playing all of her hits to celebrate.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">R&amp;B/Soul</category>
+    <icon src="https://images.pluto.tv/episodes/635af17bcea640001355b9fa/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221030180000 +0000" stop="20221030200000 +0000" channel="Vevo R&amp;B">
+    <title lang="en">Supreme R&amp;B</title>
+    <desc lang="en">Artists who are buzzing right now.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">R&amp;B/Soul</category>
+    <icon src="https://images.pluto.tv/episodes/62fade089bd9c6001b63a674/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221030200000 +0000" stop="20221030210000 +0000" channel="Vevo R&amp;B">
+    <title lang="en">Love It Live: R&amp;B</title>
+    <desc lang="en">Concert clips, performances and more.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">R&amp;B/Soul</category>
+    <icon src="https://images.pluto.tv/episodes/62fade099bd9c6001b63a6a5/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221030210000 +0000" stop="20221030220000 +0000" channel="Vevo R&amp;B">
+    <title lang="en">R&amp;B Replay</title>
+    <desc lang="en">Throwing it back with these videos.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">R&amp;B/Soul</category>
+    <icon src="https://images.pluto.tv/episodes/62fade099bd9c6001b63a6ac/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221030220000 +0000" stop="20221030230000 +0000" channel="Vevo R&amp;B">
+    <title lang="en">Vevo R&amp;B Videos</title>
+    <desc lang="en">Videos from R&amp;B artists.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">R&amp;B/Soul</category>
+    <icon src="https://images.pluto.tv/episodes/62fade0e9bd9c6001b63a7c2/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221030230000 +0000" stop="20221031000000 +0000" channel="Vevo R&amp;B">
+    <title lang="en">Best of Rihanna</title>
+    <desc lang="en">RiRi's back and we are playing all of her hits to celebrate.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">R&amp;B/Soul</category>
+    <icon src="https://images.pluto.tv/episodes/635af17bcea640001355b9fa/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221031000000 +0000" stop="20221031010000 +0000" channel="Vevo R&amp;B">
+    <title lang="en">Grown &amp; Sexy</title>
+    <desc lang="en">Nick Cannon and his friends attend a Halloween masquerade party in the heart of Hollywood.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">R&amp;B/Soul</category>
+    <icon src="https://images.pluto.tv/episodes/62fade089bd9c6001b63a666/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <rating>
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221030141600 +0000" stop="20221030144500 +0000" channel="Anime All Day">
-    <title lang="en">Inuyasha</title>
-    <desc lang="en">Inuyasha visita el lugar de trabajo de Totosai solo. La Tetsusaiga fue rota por Goshinki, y el colmillo de Inuyasha fue usado para repararlo. El colmillo de Inuyasha no es compatible con el de su gran padre demonio.(n)</desc>
-    <category lang="en">Anime</category>
-    <category lang="en">Anime Action &amp; Adventure</category>
-    <icon src="https://images.pluto.tv/episodes/5f1af00baed833001aaa202a/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
+  <programme start="20221031010000 +0000" stop="20221031020000 +0000" channel="Vevo R&amp;B">
+    <title lang="en">Trap Soul</title>
+    <desc lang="en">Videos that mix Soul, Trap and R&amp;B.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">R&amp;B/Soul</category>
+    <icon src="https://images.pluto.tv/episodes/62fade089bd9c6001b63a66d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
-  <programme start="20221030144500 +0000" stop="20221030151300 +0000" channel="Anime All Day">
-    <title lang="en">Inuyasha</title>
-    <desc lang="en">Ryukotsusei derriba a la Tetsusaiga, e Inuyasha se transforma en un demonio. Totosai les dice a todos que se retiren porque están en peligro, pero Kagome decide quedarse atrás.(n)</desc>
-    <category lang="en">Anime</category>
-    <category lang="en">Anime Action &amp; Adventure</category>
-    <icon src="https://images.pluto.tv/episodes/5f1af00aaed833001aaa201c/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
+  <programme start="20221031020000 +0000" stop="20221031030000 +0000" channel="Vevo R&amp;B">
+    <title lang="en">Top R&amp;B Videos Weekly</title>
+    <desc lang="en">The top vids, from smooth to groove.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">R&amp;B/Soul</category>
+    <icon src="https://images.pluto.tv/episodes/62fade0b9bd9c6001b63a72a/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
-  <programme start="20221030151300 +0000" stop="20221030154200 +0000" channel="Anime All Day">
-    <title lang="en">Inuyasha</title>
-    <desc lang="en">En un pueblo determinado, Shippo conoce a una chica llamada Satsuki. Satsuki cree que su hermano, que fue a la guerra, regresará. Ella le muestra a Shippo el tesoro que su hermano le dio, un fragmento de joya sagrada.(n)</desc>
-    <category lang="en">Anime</category>
-    <category lang="en">Anime Action &amp; Adventure</category>
-    <icon src="https://images.pluto.tv/episodes/5f1af00daed833001aaa2049/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
+  <programme start="20221031030000 +0000" stop="20221031040000 +0000" channel="Vevo R&amp;B">
+    <title lang="en">Supreme R&amp;B</title>
+    <desc lang="en">Artists who are buzzing right now.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">R&amp;B/Soul</category>
+    <icon src="https://images.pluto.tv/episodes/62fade0b9bd9c6001b63a72e/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
-  <programme start="20221030154200 +0000" stop="20221030161100 +0000" channel="Anime All Day">
-    <title lang="en">Inuyasha</title>
-    <desc lang="en">Los maridos están siendo atraídos fuera de su pueblo por un hermoso demonio. Sus esposas le piden a Miroku que derrote al demonio. Preocupado por él, Sango lo acompaña.(n)</desc>
-    <category lang="en">Anime</category>
-    <category lang="en">Anime Action &amp; Adventure</category>
-    <icon src="https://images.pluto.tv/episodes/5f1af00aaed833001aaa200c/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
+  <programme start="20221031040000 +0000" stop="20221031060000 +0000" channel="Vevo R&amp;B">
+    <title lang="en">Vevo R&amp;B Videos</title>
+    <desc lang="en">Videos from R&amp;B artists.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">R&amp;B/Soul</category>
+    <icon src="https://images.pluto.tv/episodes/62fade099bd9c6001b63a67b/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
-  <programme start="20221030161100 +0000" stop="20221030164000 +0000" channel="Anime All Day">
-    <title lang="en">Inuyasha</title>
-    <desc lang="en">Sango regresa a la aldea de los asesinos para arreglar su Hiraikotsu, y Kagome regresa al pozo para que pueda regresar al día presente. En el camino, encuentra una Nimenka, una fruta que parece una cara.(n)</desc>
-    <category lang="en">Anime</category>
-    <category lang="en">Anime Action &amp; Adventure</category>
-    <icon src="https://images.pluto.tv/episodes/5f1af00aaed833001aaa2014/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221030164000 +0000" stop="20221030170900 +0000" channel="Anime All Day">
-    <title lang="en">Inuyasha</title>
-    <desc lang="en">Tokajin secuestra a Kagome de su jardín en miniatura. Inuyasha puede escapar del jardín en miniatura con la ayuda de Miroku y los demás y va a salvar a Kagome. Mientras se escapa, encuentra una flor con la cara de un viejo sabio en ella.(n)</desc>
-    <category lang="en">Anime</category>
-    <category lang="en">Anime Action &amp; Adventure</category>
-    <icon src="https://images.pluto.tv/episodes/5f1af00daed833001aaa203f/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221030170900 +0000" stop="20221030173800 +0000" channel="Anime All Day">
-    <title lang="en">Inuyasha</title>
-    <desc lang="en">Sango regresa a la aldea de asesinos de demonios y repara su Hiraikotsu. Ella también deja que descansen las cenizas de su padre y de sus camaradas. Cuando ella está a punto de irse, es atacada.(n)</desc>
-    <category lang="en">Anime</category>
-    <category lang="en">Anime Action &amp; Adventure</category>
-    <icon src="https://images.pluto.tv/episodes/5f1af008aed833001aaa1ff1/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221030173800 +0000" stop="20221030180700 +0000" channel="Anime All Day">
-    <title lang="en">Inuyasha</title>
-    <desc lang="en">Naraku llama a una sacerdotisa llamada Tsubaki. Hace cincuenta años, Tsubaki fue derrotada por Kikyo cuando fue tras la Joya Shikon. Ella vendió su alma a un demonio para mantener su juventud y ahora está detrás de la sangre de Kagome.(n)</desc>
-    <category lang="en">Anime</category>
-    <category lang="en">Anime Action &amp; Adventure</category>
-    <icon src="https://images.pluto.tv/episodes/5f1af004aed833001aaa1f99/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221030180700 +0000" stop="20221030183600 +0000" channel="Anime All Day">
-    <title lang="en">Inuyasha</title>
-    <desc lang="en">Kagome lucha desesperadamente contra la maldición que le impone Tsubaki, una sacerdotisa oscura. Mientras tanto, Kikyo aparece ante Tsubaki. Tsubaki se sorprende y corta su maldición.(n)</desc>
-    <category lang="en">Anime</category>
-    <category lang="en">Anime Action &amp; Adventure</category>
-    <icon src="https://images.pluto.tv/episodes/5f1af001aed833001aaa1f62/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221030183600 +0000" stop="20221030190500 +0000" channel="Anime All Day">
-    <title lang="en">Inuyasha</title>
-    <desc lang="en">La maldición de Tsubaki roba la conciencia de Kagome. Kagome se olvida del Japón feudal en un mundo ilusorio.(n)</desc>
-    <category lang="en">Anime</category>
-    <category lang="en">Anime Action &amp; Adventure</category>
-    <icon src="https://images.pluto.tv/episodes/5f1af002aed833001aaa1f6d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221030190500 +0000" stop="20221030193400 +0000" channel="Anime All Day">
-    <title lang="en">Inuyasha</title>
-    <desc lang="en">Tsubaki visita la mansión onmyoji donde una vez entrenó. Ella planea abrir una puerta prohibida para entrenar a un ogro que estaba sellado en la pagoda con el poder de la Joya Shikon.(n)</desc>
-    <category lang="en">Anime</category>
-    <category lang="en">Anime Action &amp; Adventure</category>
-    <icon src="https://images.pluto.tv/episodes/5f1af002aed833001aaa1f67/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221030193400 +0000" stop="20221030200300 +0000" channel="Anime All Day">
-    <title lang="en">Inuyasha</title>
-    <desc lang="en">Tsubaki es una sacerdotisa que fue considerada a la par con Kikyo. Estaba celosa de que la Shikon Jewel no le fuera confiada, por lo que se convirtió en una sacerdotisa oscura.(n)</desc>
-    <category lang="en">Anime</category>
-    <category lang="en">Anime Action &amp; Adventure</category>
-    <icon src="https://images.pluto.tv/episodes/5f1af002aed833001aaa1f72/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221030200300 +0000" stop="20221030203200 +0000" channel="Anime All Day">
-    <title lang="en">Inuyasha</title>
-    <desc lang="en">Una noche, alguien posee a Sango para atacar a Miroku. El grupo examina al demonio ciempiés que sospechaban que estaba detrás, pero están equivocados. Miroku es poseído a continuación y ataca a Sango. Shippo intenta huir.(n)</desc>
-    <category lang="en">Anime</category>
-    <category lang="en">Anime Action &amp; Adventure</category>
-    <icon src="https://images.pluto.tv/episodes/5f1af000aed833001aaa1f51/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221030203200 +0000" stop="20221030210100 +0000" channel="Anime All Day">
-    <title lang="en">Inuyasha</title>
-    <desc lang="en">Hay una grieta en la barrera de Naraku. Pero es el comienzo del mes, y cuando cae la noche, Inuyasha pierde sus poderes demoníacos, y la búsqueda de Naraku se cancela.(n)</desc>
-    <category lang="en">Anime</category>
-    <category lang="en">Anime Action &amp; Adventure</category>
-    <icon src="https://images.pluto.tv/episodes/5f1af000aed833001aaa1f4c/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221030210100 +0000" stop="20221030213000 +0000" channel="Anime All Day">
-    <title lang="en">Inuyasha</title>
-    <desc lang="en">Kagura se acerca a Sesshomaru y le dice que mate a Naraku, pero Sesshomaru se niega. Mientras Inuyasha y los demás buscan a Kagura, se dan cuenta de que Naraku es un medio demonio.(n)</desc>
-    <category lang="en">Anime</category>
-    <category lang="en">Anime Action &amp; Adventure</category>
-    <icon src="https://images.pluto.tv/episodes/5f1af000aed833001aaa1f41/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221030213000 +0000" stop="20221030215900 +0000" channel="Anime All Day">
-    <title lang="en">Inuyasha</title>
-    <desc lang="en">A Shippo se le envía una carta desafiándolo a una batalla. El remitente de la carta es Soten Raijyu, y aún es solo un niño. Investigó a Inuyasha y los demás y determinó que eran demasiado fuertes, por lo que centra su atención en Shippo.(n)</desc>
-    <category lang="en">Anime</category>
-    <category lang="en">Anime Action &amp; Adventure</category>
-    <icon src="https://images.pluto.tv/episodes/5f1aeff8aed833001aaa1e8d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221030215900 +0000" stop="20221030222800 +0000" channel="Anime All Day">
-    <title lang="en">Inuyasha</title>
-    <desc lang="en">Un demonio nacido de un pedazo de carne que Naraku descartó se transforma en un hombre sin rostro y se roba el bello rostro de Muso, un monje viajero. El demonio se llama a sí mismo Muso y mata y saquea a lo largo de su camino a la aldea de Kaede.(n)</desc>
-    <category lang="en">Anime</category>
-    <category lang="en">Anime Action &amp; Adventure</category>
-    <icon src="https://images.pluto.tv/episodes/5f1aeff8aed833001aaa1eab/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221030222800 +0000" stop="20221030225700 +0000" channel="Anime All Day">
-    <title lang="en">Inuyasha</title>
-    <desc lang="en">Muso ataca a Kagome. Inuyasha lo destruye con su Cicatriz de Viento. Naraku, que estaba viendo el evento, le dice a Kagura que le diga a Inuyasha a dónde fue Muso. Después de que Inuyasha y los otros se van, Muso se regenera.(n)</desc>
-    <category lang="en">Anime</category>
-    <category lang="en">Anime Action &amp; Adventure</category>
-    <icon src="https://images.pluto.tv/episodes/5f1aeff8aed833001aaa1ea6/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221030225700 +0000" stop="20221030232600 +0000" channel="Anime All Day">
-    <title lang="en">Inuyasha</title>
-    <desc lang="en">Muso se regenera incluso cuando fue golpeado con la Cicatriz del Viento. Miroku le dice a Inuyasha que Muso tiene un corazón en el área donde tiene una marca de araña. Pero Kagura interfiere, y las avispas del infierno quitan el fragmento de Muso.(n)</desc>
-    <category lang="en">Anime</category>
-    <category lang="en">Anime Action &amp; Adventure</category>
-    <icon src="https://images.pluto.tv/episodes/5f1aeff8aed833001aaa1ea1/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221030232600 +0000" stop="20221030235500 +0000" channel="Anime All Day">
-    <title lang="en">Inuyasha</title>
-    <desc lang="en">Inuyasha visita Totosai en busca de una técnica que pueda romper la barrera de Naraku. Allí se encuentra con Bunza, un niño demonio salvaje.(n)</desc>
-    <category lang="en">Anime</category>
-    <category lang="en">Anime Action &amp; Adventure</category>
-    <icon src="https://images.pluto.tv/episodes/5f1aeffbaed833001aaa1ecc/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221030235500 +0000" stop="20221031002400 +0000" channel="Anime All Day">
-    <title lang="en">Inuyasha</title>
-    <desc lang="en">Myoga viene a entregar un mensaje de Totosai. Él dice que la Tetsusaiga se volverá más fuerte si corta un Murciélago Hyakki, un demonio que puede crear una barrera poderosa. Inuyasha y la pandilla buscan el nido de los murciélagos Hyakki.(n)</desc>
-    <category lang="en">Anime</category>
-    <category lang="en">Anime Action &amp; Adventure</category>
-    <icon src="https://images.pluto.tv/episodes/5f1aeffaaed833001aaa1ec4/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221031002400 +0000" stop="20221031005300 +0000" channel="Anime All Day">
-    <title lang="en">Inuyasha</title>
-    <desc lang="en">El demonio Hyakki Bat Otakemaru intenta destruir el pueblo y la madre de Shiori. Inuyasha está bloqueado por la barrera de Shiori y no puede derrotar a Otakemaru. Shizu le pide a Otakemaru que respete la voluntad de su difunto esposo y salve la aldea.(n)</desc>
-    <category lang="en">Anime</category>
-    <category lang="en">Anime Action &amp; Adventure</category>
-    <icon src="https://images.pluto.tv/episodes/5f1aeffaaed833001aaa1ebf/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221031005300 +0000" stop="20221031012200 +0000" channel="Anime All Day">
-    <title lang="en">Inuyasha</title>
-    <desc lang="en">La tribu pantera ataca desde el oeste. Su objetivo es conseguir los fragmentos de Shikon Jewel que tiene Kagome y vengarse de Sesshomaru e Inuyasha, los hijos del Perro General. Las Four Panther Divas utilizan técnicas inusuales y secuestran a Kagome.(n)</desc>
-    <category lang="en">Anime</category>
-    <category lang="en">Anime Action &amp; Adventure</category>
-    <icon src="https://images.pluto.tv/episodes/5f1aeff8aed833001aaa1e93/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221031012200 +0000" stop="20221031015100 +0000" channel="Anime All Day">
-    <title lang="en">Inuyasha</title>
-    <desc lang="en">Inuyasha corta la barrera de los Panteras con su Tetsusaiga roja, e Inuyasha y Koga se dirigen hacia la ciudad del castillo. Mientras tanto, Miroku y Sango han caído bajo el hechizo de las Divas, y Kagome está detenida en una prisión.(n)</desc>
-    <category lang="en">Anime</category>
-    <category lang="en">Anime Action &amp; Adventure</category>
-    <icon src="https://images.pluto.tv/episodes/5f1aeff3aed833001aaa1e2e/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221031015100 +0000" stop="20221031022000 +0000" channel="Anime All Day">
-    <title lang="en">Inuyasha</title>
-    <desc lang="en">El Rey Pantera, el general de la Tribu Pantera, comienza a moverse con el poder de la Joya Shikon. Inuyasha y Sesshomaru atacan a la momia. Mientras lo hacen, Koga, Miroku y los demás llevan a Kagome y las otras personas a un lugar seguro.(n)</desc>
-    <category lang="en">Anime</category>
-    <category lang="en">Anime Action &amp; Adventure</category>
-    <icon src="https://images.pluto.tv/episodes/5f1aeff0aed833001aaa1dea/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221031022000 +0000" stop="20221031024900 +0000" channel="Anime All Day">
-    <title lang="en">Inuyasha</title>
-    <desc lang="en">A Sango se le pide que mate a un demonio por un joven señor llamado Kuranosuke, quien se enamoró de ella hace seis años. Kuranosuke tiene apariencia, estatus y riqueza. Sango está confundido en cuanto a cómo rechazará su propuesta de matrimonio.(n)</desc>
-    <category lang="en">Anime</category>
-    <category lang="en">Anime Action &amp; Adventure</category>
-    <icon src="https://images.pluto.tv/episodes/5f1aeff0aed833001aaa1de5/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221031024900 +0000" stop="20221031032100 +0000" channel="Anime All Day">
-    <title lang="en">Inuyasha</title>
-    <desc lang="en">La pelea de Inuyasha con Royakan continúa. Kagome interrumpe su cita con Hojo para regresar al santuario, donde siente la presencia de la joya.(n)</desc>
-    <category lang="en">Anime</category>
-    <category lang="en">Anime Action &amp; Adventure</category>
-    <icon src="https://images.pluto.tv/episodes/5ee0f6be09ecfe001a0e31c3/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221031032100 +0000" stop="20221031090000 +0000" channel="Anime All Day">
-    <title lang="en">Pluto TV Anime</title>
+  <programme start="20221031060000 +0000" stop="20221031090000 +0000" channel="Vevo R&amp;B">
+    <title lang="en">Vevo R&amp;B</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
-    <icon src="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <icon src="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20221031090000 +0000" stop="20221031150000 +0000" channel="Anime All Day">
-    <title lang="en">Pluto TV Anime</title>
+  <programme start="20221031090000 +0000" stop="20221031150000 +0000" channel="Vevo R&amp;B">
+    <title lang="en">Vevo R&amp;B</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
-    <icon src="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <icon src="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20221031150000 +0000" stop="20221031210000 +0000" channel="Anime All Day">
-    <title lang="en">Pluto TV Anime</title>
+  <programme start="20221031150000 +0000" stop="20221031210000 +0000" channel="Vevo R&amp;B">
+    <title lang="en">Vevo R&amp;B</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
-    <icon src="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <icon src="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20221031210000 +0000" stop="20221101030000 +0000" channel="Anime All Day">
-    <title lang="en">Pluto TV Anime</title>
+  <programme start="20221031210000 +0000" stop="20221101030000 +0000" channel="Vevo R&amp;B">
+    <title lang="en">Vevo R&amp;B</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
-    <icon src="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <icon src="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20221101030000 +0000" stop="20221101090000 +0000" channel="Anime All Day">
-    <title lang="en">Pluto TV Anime</title>
+  <programme start="20221101030000 +0000" stop="20221101090000 +0000" channel="Vevo R&amp;B">
+    <title lang="en">Vevo R&amp;B</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
-    <icon src="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <icon src="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20221101090000 +0000" stop="20221101150000 +0000" channel="Anime All Day">
-    <title lang="en">Pluto TV Anime</title>
+  <programme start="20221101090000 +0000" stop="20221101150000 +0000" channel="Vevo R&amp;B">
+    <title lang="en">Vevo R&amp;B</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
-    <icon src="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <icon src="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20221101150000 +0000" stop="20221101210000 +0000" channel="Anime All Day">
-    <title lang="en">Pluto TV Anime</title>
+  <programme start="20221101150000 +0000" stop="20221101210000 +0000" channel="Vevo R&amp;B">
+    <title lang="en">Vevo R&amp;B</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
-    <icon src="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <icon src="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20221101210000 +0000" stop="20221102030000 +0000" channel="Anime All Day">
-    <title lang="en">Pluto TV Anime</title>
+  <programme start="20221101210000 +0000" stop="20221102030000 +0000" channel="Vevo R&amp;B">
+    <title lang="en">Vevo R&amp;B</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
-    <icon src="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <icon src="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20221102030000 +0000" stop="20221102090000 +0000" channel="Anime All Day">
-    <title lang="en">Pluto TV Anime</title>
+  <programme start="20221102030000 +0000" stop="20221102090000 +0000" channel="Vevo R&amp;B">
+    <title lang="en">Vevo R&amp;B</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
-    <icon src="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <icon src="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20221102090000 +0000" stop="20221102150000 +0000" channel="Anime All Day">
-    <title lang="en">Pluto TV Anime</title>
+  <programme start="20221102090000 +0000" stop="20221102150000 +0000" channel="Vevo R&amp;B">
+    <title lang="en">Vevo R&amp;B</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
-    <icon src="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <icon src="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20221102150000 +0000" stop="20221102210000 +0000" channel="Anime All Day">
-    <title lang="en">Pluto TV Anime</title>
+  <programme start="20221102150000 +0000" stop="20221102210000 +0000" channel="Vevo R&amp;B">
+    <title lang="en">Vevo R&amp;B</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
-    <icon src="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <icon src="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20221102210000 +0000" stop="20221103030000 +0000" channel="Anime All Day">
-    <title lang="en">Pluto TV Anime</title>
+  <programme start="20221102210000 +0000" stop="20221103030000 +0000" channel="Vevo R&amp;B">
+    <title lang="en">Vevo R&amp;B</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
-    <icon src="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <icon src="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20221103030000 +0000" stop="20221103090000 +0000" channel="Anime All Day">
-    <title lang="en">Pluto TV Anime</title>
+  <programme start="20221103030000 +0000" stop="20221103090000 +0000" channel="Vevo R&amp;B">
+    <title lang="en">Vevo R&amp;B</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
-    <icon src="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <icon src="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20221103090000 +0000" stop="20221103150000 +0000" channel="Anime All Day">
-    <title lang="en">Pluto TV Anime</title>
+  <programme start="20221103090000 +0000" stop="20221103150000 +0000" channel="Vevo R&amp;B">
+    <title lang="en">Vevo R&amp;B</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
-    <icon src="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <icon src="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20221103150000 +0000" stop="20221103210000 +0000" channel="Anime All Day">
-    <title lang="en">Pluto TV Anime</title>
+  <programme start="20221103150000 +0000" stop="20221103210000 +0000" channel="Vevo R&amp;B">
+    <title lang="en">Vevo R&amp;B</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
-    <icon src="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <icon src="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20221103210000 +0000" stop="20221104030000 +0000" channel="Anime All Day">
-    <title lang="en">Pluto TV Anime</title>
+  <programme start="20221103210000 +0000" stop="20221104030000 +0000" channel="Vevo R&amp;B">
+    <title lang="en">Vevo R&amp;B</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
-    <icon src="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <icon src="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
       <value>No Rating</value>
     </rating>
-  </programme>
-  <programme start="20221030133000 +0000" stop="20221030170000 +0000" channel="Latina TV">
-    <title lang="en">Latina noticias - Reporte semanal</title>
-    <desc lang="en">Segmento de actualidad,.(n)</desc>
-    <date>2017</date>
-  </programme>
-  <programme start="20221030170000 +0000" stop="20221030190000 +0000" channel="Latina TV">
-    <title lang="en">90 Mediodía</title>
-    <desc lang="en">Central informativa, con experiencia de más de una década,.(n)</desc>
-    <date>2021</date>
-  </programme>
-  <programme start="20221030190000 +0000" stop="20221030203000 +0000" channel="Latina TV">
-    <title lang="en">Cine Plus</title>
-    <desc lang="en">A través de este espacio podrás disfrutar de los mejores largometrajes cinematográficos en la industria audiovisual, una programación especial para compartir en familia.(n)</desc>
-    <date>2008</date>
-  </programme>
-  <programme start="20221030203000 +0000" stop="20221030220000 +0000" channel="Latina TV">
-    <title lang="en">Cine explosivo</title>
-    <desc lang="en">Espacio cinematográfico.(n)</desc>
-  </programme>
-  <programme start="20221030220000 +0000" stop="20221031000000 +0000" channel="Latina TV">
-    <title lang="en">Cine Millonario</title>
-    <desc lang="en">Acompáñanos y cambia tu manera de ver películas en este segmento, un espacio exclusivo donde podrás disfrutar de las mejores producciones y estrellas, además de las escenas más impactantes del séptimo arte.(n)</desc>
-  </programme>
-  <programme start="20221031000000 +0000" stop="20221031010000 +0000" channel="Latina TV">
-    <title lang="en">Latina noticias</title>
-    <desc lang="en">Un programa que aborda los hechos más destacados de la agenda de noticias nacional e internacional.(n)</desc>
-  </programme>
-  <programme start="20221031010000 +0000" stop="20221031030000 +0000" channel="Latina TV">
-    <title lang="en">Latina noticias - Punto final</title>
-    <desc lang="en">Se realiza una cobertura especial de los principales sucesos de América Latina,.(n)</desc>
-  </programme>
-  <programme start="20221031030000 +0000" stop="20221031040000 +0000" channel="Latina TV">
-    <title lang="en">Sin medias tintas</title>
-    <desc lang="en">Programa político de la televisión peruana con entrevistas, reportajes e investigaciones.(n)</desc>
-  </programme>
-  <programme start="20221031040000 +0000" stop="20221031050000 +0000" channel="Latina TV">
-    <title lang="en">Latina deportes</title>
-    <desc lang="en">Programa local deportivo.(n)</desc>
-    <date>2018</date>
-  </programme>
-  <programme start="20221031050000 +0000" stop="20221031063000 +0000" channel="Latina TV">
-    <title lang="en">Especial Qatar 2022</title>
-    <date>2022</date>
-  </programme>
-  <programme start="20221031063000 +0000" stop="20221031093000 +0000" channel="Latina TV">
-    <title lang="en">Nutrissa</title>
-    <desc lang="en">Programa local.(n)</desc>
-    <date>2018</date>
-  </programme>
-  <programme start="20221031093000 +0000" stop="20221031100000 +0000" channel="Latina TV">
-    <title lang="en">Amor serrano</title>
-    <desc lang="en">Máximo quien aún conserva la pureza del campo, se enamora de Michaela cuyo corazón ya tiene dueño.(n)</desc>
-    <date>1998</date>
-  </programme>
-  <programme start="20221031100000 +0000" stop="20221031110000 +0000" channel="Latina TV">
-    <title lang="en">Latina noticias - Despierta con matinal</title>
-    <date>2022</date>
-  </programme>
-  <programme start="20221031110000 +0000" stop="20221031120000 +0000" channel="Latina TV">
-    <title lang="en">Latina noticias - Matinal nacional</title>
-    <date>2022</date>
-  </programme>
-  <programme start="20221031120000 +0000" stop="20221031140000 +0000" channel="Latina TV">
-    <title lang="en">Latina noticias matinal</title>
-    <desc lang="en">Segmento informativo, en el cual te pondremos al día con la actualidad.(n)</desc>
-    <date>2021</date>
-  </programme>
-  <programme start="20221031140000 +0000" stop="20221031170000 +0000" channel="Latina TV">
-    <title lang="en">Arriba mi gente</title>
-  </programme>
-  <programme start="20221031170000 +0000" stop="20221031193000 +0000" channel="Latina TV">
-    <title lang="en">Latina noticias - Mediodía</title>
-    <desc lang="en">Central informativa, con experiencia de más de una década,.(n)</desc>
-    <date>2021</date>
-  </programme>
-  <programme start="20221031193000 +0000" stop="20221031213000 +0000" channel="Latina TV">
-    <title lang="en">Fruto prohibido</title>
-    <desc lang="en">Dos hermanas que se quieren mucho pero cuyos sueños son completamente diferentes. La vida de Yildiz cambia cuando conoce a Ender Argun, la reina de la sociedad.(n)</desc>
-  </programme>
-  <programme start="20221031213000 +0000" stop="20221031230000 +0000" channel="Latina TV">
-    <title lang="en">El destino de Melek</title>
-    <desc lang="en">Melek, una mujer que tendrá que luchar ante la adversidad.(n)</desc>
-  </programme>
-  <programme start="20221031230000 +0000" stop="20221101000000 +0000" channel="Latina TV">
-    <title lang="en">Medcezir</title>
-    <desc lang="en">El joven Yaman es preso por culpa de su hermano y rechazado por su familia, pero un exitoso abogado reconoce su potencial y le ofrece ayuda. En cambio, le pide que termine sus estudios y logre progresar en la vida. A pesar de ese empuje inicial, la trayectoria de Yaman no será nada fácil en un mundo hasta entonces desconocido para él.(n)</desc>
-    <date>2013</date>
-  </programme>
-  <programme start="20221101000000 +0000" stop="20221101013000 +0000" channel="Latina TV">
-    <title lang="en">El valor de una madre</title>
-    <desc lang="en">Sancar y Nare están enamorados desde niños, aunque el padre de ella, de alta posición,.(n)</desc>
-  </programme>
-  <programme start="20221101013000 +0000" stop="20221101030000 +0000" channel="Latina TV">
-    <title lang="en">La Voz Kids</title>
-    <desc lang="en">Los coaches buscan jóvenes talentos musicales para coronar a uno como la mejor voz.(n)</desc>
-    <date>2021</date>
-  </programme>
-  <programme start="20221101030000 +0000" stop="20221101040000 +0000" channel="Latina TV">
-    <title lang="en">Latina noticias</title>
-    <desc lang="en">Un programa que aborda los hechos más destacados de la agenda de noticias nacional e internacional.(n)</desc>
-  </programme>
-  <programme start="20221101040000 +0000" stop="20221101044500 +0000" channel="Latina TV">
-    <title lang="en">Narcos</title>
-    <desc lang="en">La verdadera historia de los poderosos y violentos cárteles colombianos.(n)</desc>
-  </programme>
-  <programme start="20221101044500 +0000" stop="20221101050000 +0000" channel="Latina TV">
-    <title lang="en">Destino: Qatar</title>
-    <desc lang="en">Un programa que aborda la información deportiva más destacada de cara al Mundial de 2022 en Qatar.(n)</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20221101050000 +0000" stop="20221101053000 +0000" channel="Latina TV">
-    <title lang="en">Fruto prohibido</title>
-    <desc lang="en">Dos hermanas que se quieren mucho pero cuyos sueños son completamente diferentes. La vida de Yildiz cambia cuando conoce a Ender Argun, la reina de la sociedad.(n)</desc>
-  </programme>
-  <programme start="20221101053000 +0000" stop="20221101060000 +0000" channel="Latina TV">
-    <title lang="en">Problemas y soluciones</title>
-    <date>2021</date>
-  </programme>
-  <programme start="20221101060000 +0000" stop="20221101063000 +0000" channel="Latina TV">
-    <title lang="en">Fruto prohibido</title>
-    <desc lang="en">Dos hermanas que se quieren mucho pero cuyos sueños son completamente diferentes. La vida de Yildiz cambia cuando conoce a Ender Argun, la reina de la sociedad.(n)</desc>
-  </programme>
-  <programme start="20221101063000 +0000" stop="20221101093000 +0000" channel="Latina TV">
-    <title lang="en">Nutrissa</title>
-    <desc lang="en">Programa local.(n)</desc>
-    <date>2018</date>
-  </programme>
-  <programme start="20221101093000 +0000" stop="20221101100000 +0000" channel="Latina TV">
-    <title lang="en">Amor serrano</title>
-    <desc lang="en">Máximo quien aún conserva la pureza del campo, se enamora de Michaela cuyo corazón ya tiene dueño.(n)</desc>
-    <date>1998</date>
-  </programme>
-  <programme start="20221101100000 +0000" stop="20221101110000 +0000" channel="Latina TV">
-    <title lang="en">Latina noticias - Despierta con matinal</title>
-    <date>2022</date>
-  </programme>
-  <programme start="20221101110000 +0000" stop="20221101120000 +0000" channel="Latina TV">
-    <title lang="en">Latina noticias - Matinal nacional</title>
-    <date>2022</date>
-  </programme>
-  <programme start="20221101120000 +0000" stop="20221101140000 +0000" channel="Latina TV">
-    <title lang="en">Latina noticias matinal</title>
-    <desc lang="en">Segmento informativo, en el cual te pondremos al día con la actualidad.(n)</desc>
-    <date>2021</date>
-  </programme>
-  <programme start="20221101140000 +0000" stop="20221101170000 +0000" channel="Latina TV">
-    <title lang="en">Arriba mi gente</title>
-  </programme>
-  <programme start="20221101170000 +0000" stop="20221101193000 +0000" channel="Latina TV">
-    <title lang="en">Latina noticias - Mediodía</title>
-    <desc lang="en">Central informativa, con experiencia de más de una década,.(n)</desc>
-    <date>2021</date>
-  </programme>
-  <programme start="20221101193000 +0000" stop="20221101213000 +0000" channel="Latina TV">
-    <title lang="en">Fruto prohibido</title>
-    <desc lang="en">Dos hermanas que se quieren mucho pero cuyos sueños son completamente diferentes. La vida de Yildiz cambia cuando conoce a Ender Argun, la reina de la sociedad.(n)</desc>
-  </programme>
-  <programme start="20221101213000 +0000" stop="20221101230000 +0000" channel="Latina TV">
-    <title lang="en">El destino de Melek</title>
-    <desc lang="en">Melek, una mujer que tendrá que luchar ante la adversidad.(n)</desc>
-  </programme>
-  <programme start="20221101230000 +0000" stop="20221102000000 +0000" channel="Latina TV">
-    <title lang="en">Medcezir</title>
-    <desc lang="en">El joven Yaman es preso por culpa de su hermano y rechazado por su familia, pero un exitoso abogado reconoce su potencial y le ofrece ayuda. En cambio, le pide que termine sus estudios y logre progresar en la vida. A pesar de ese empuje inicial, la trayectoria de Yaman no será nada fácil en un mundo hasta entonces desconocido para él.(n)</desc>
-    <date>2013</date>
-  </programme>
-  <programme start="20221102000000 +0000" stop="20221102013000 +0000" channel="Latina TV">
-    <title lang="en">El valor de una madre</title>
-    <desc lang="en">Sancar y Nare están enamorados desde niños, aunque el padre de ella, de alta posición,.(n)</desc>
-  </programme>
-  <programme start="20221102013000 +0000" stop="20221102030000 +0000" channel="Latina TV">
-    <title lang="en">La voz senior</title>
-    <desc lang="en">Concurso de canto basado en el formato de The Voice Senior.(n)</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20221102030000 +0000" stop="20221102040000 +0000" channel="Latina TV">
-    <title lang="en">Latina noticias</title>
-    <desc lang="en">Un programa que aborda los hechos más destacados de la agenda de noticias nacional e internacional.(n)</desc>
-  </programme>
-  <programme start="20221102040000 +0000" stop="20221102044500 +0000" channel="Latina TV">
-    <title lang="en">Narcos</title>
-    <desc lang="en">La verdadera historia de los poderosos y violentos cárteles colombianos.(n)</desc>
-  </programme>
-  <programme start="20221102044500 +0000" stop="20221102050000 +0000" channel="Latina TV">
-    <title lang="en">Destino: Qatar</title>
-    <desc lang="en">Un programa que aborda la información deportiva más destacada de cara al Mundial de 2022 en Qatar.(n)</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20221102050000 +0000" stop="20221102053000 +0000" channel="Latina TV">
-    <title lang="en">Fruto prohibido</title>
-    <desc lang="en">Dos hermanas que se quieren mucho pero cuyos sueños son completamente diferentes. La vida de Yildiz cambia cuando conoce a Ender Argun, la reina de la sociedad.(n)</desc>
-  </programme>
-  <programme start="20221102053000 +0000" stop="20221102060000 +0000" channel="Latina TV">
-    <title lang="en">Problemas y soluciones</title>
-    <date>2021</date>
-  </programme>
-  <programme start="20221102060000 +0000" stop="20221102063000 +0000" channel="Latina TV">
-    <title lang="en">Fruto prohibido</title>
-    <desc lang="en">Dos hermanas que se quieren mucho pero cuyos sueños son completamente diferentes. La vida de Yildiz cambia cuando conoce a Ender Argun, la reina de la sociedad.(n)</desc>
-  </programme>
-  <programme start="20221102063000 +0000" stop="20221102093000 +0000" channel="Latina TV">
-    <title lang="en">Nutrissa</title>
-    <desc lang="en">Programa local.(n)</desc>
-    <date>2018</date>
-  </programme>
-  <programme start="20221102093000 +0000" stop="20221102100000 +0000" channel="Latina TV">
-    <title lang="en">Amor serrano</title>
-    <desc lang="en">Máximo quien aún conserva la pureza del campo, se enamora de Michaela cuyo corazón ya tiene dueño.(n)</desc>
-    <date>1998</date>
-  </programme>
-  <programme start="20221102100000 +0000" stop="20221102110000 +0000" channel="Latina TV">
-    <title lang="en">Latina noticias - Despierta con matinal</title>
-    <date>2022</date>
-  </programme>
-  <programme start="20221102110000 +0000" stop="20221102120000 +0000" channel="Latina TV">
-    <title lang="en">Latina noticias - Matinal nacional</title>
-    <date>2022</date>
-  </programme>
-  <programme start="20221102120000 +0000" stop="20221102140000 +0000" channel="Latina TV">
-    <title lang="en">Latina noticias matinal</title>
-    <desc lang="en">Segmento informativo, en el cual te pondremos al día con la actualidad.(n)</desc>
-    <date>2021</date>
-  </programme>
-  <programme start="20221102140000 +0000" stop="20221102170000 +0000" channel="Latina TV">
-    <title lang="en">Arriba mi gente</title>
-  </programme>
-  <programme start="20221102170000 +0000" stop="20221102193000 +0000" channel="Latina TV">
-    <title lang="en">Latina noticias - Mediodía</title>
-    <desc lang="en">Central informativa, con experiencia de más de una década,.(n)</desc>
-    <date>2021</date>
-  </programme>
-  <programme start="20221102193000 +0000" stop="20221102213000 +0000" channel="Latina TV">
-    <title lang="en">Fruto prohibido</title>
-    <desc lang="en">Dos hermanas que se quieren mucho pero cuyos sueños son completamente diferentes. La vida de Yildiz cambia cuando conoce a Ender Argun, la reina de la sociedad.(n)</desc>
-  </programme>
-  <programme start="20221102213000 +0000" stop="20221102230000 +0000" channel="Latina TV">
-    <title lang="en">El destino de Melek</title>
-    <desc lang="en">Melek, una mujer que tendrá que luchar ante la adversidad.(n)</desc>
-  </programme>
-  <programme start="20221102230000 +0000" stop="20221103000000 +0000" channel="Latina TV">
-    <title lang="en">Medcezir</title>
-    <desc lang="en">El joven Yaman es preso por culpa de su hermano y rechazado por su familia, pero un exitoso abogado reconoce su potencial y le ofrece ayuda. En cambio, le pide que termine sus estudios y logre progresar en la vida. A pesar de ese empuje inicial, la trayectoria de Yaman no será nada fácil en un mundo hasta entonces desconocido para él.(n)</desc>
-    <date>2013</date>
-  </programme>
-  <programme start="20221103000000 +0000" stop="20221103013000 +0000" channel="Latina TV">
-    <title lang="en">El valor de una madre</title>
-    <desc lang="en">Sancar y Nare están enamorados desde niños, aunque el padre de ella, de alta posición,.(n)</desc>
-  </programme>
-  <programme start="20221103013000 +0000" stop="20221103030000 +0000" channel="Latina TV">
-    <title lang="en">La voz senior</title>
-    <desc lang="en">Concurso de canto basado en el formato de The Voice Senior.(n)</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20221103030000 +0000" stop="20221103040000 +0000" channel="Latina TV">
-    <title lang="en">Latina noticias</title>
-    <desc lang="en">Un programa que aborda los hechos más destacados de la agenda de noticias nacional e internacional.(n)</desc>
-  </programme>
-  <programme start="20221103040000 +0000" stop="20221103044500 +0000" channel="Latina TV">
-    <title lang="en">Narcos</title>
-    <desc lang="en">La verdadera historia de los poderosos y violentos cárteles colombianos.(n)</desc>
-  </programme>
-  <programme start="20221103044500 +0000" stop="20221103050000 +0000" channel="Latina TV">
-    <title lang="en">Destino: Qatar</title>
-    <desc lang="en">Un programa que aborda la información deportiva más destacada de cara al Mundial de 2022 en Qatar.(n)</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20221103050000 +0000" stop="20221103053000 +0000" channel="Latina TV">
-    <title lang="en">Fruto prohibido</title>
-    <desc lang="en">Dos hermanas que se quieren mucho pero cuyos sueños son completamente diferentes. La vida de Yildiz cambia cuando conoce a Ender Argun, la reina de la sociedad.(n)</desc>
-  </programme>
-  <programme start="20221103053000 +0000" stop="20221103060000 +0000" channel="Latina TV">
-    <title lang="en">Problemas y soluciones</title>
-    <date>2021</date>
-  </programme>
-  <programme start="20221103060000 +0000" stop="20221103063000 +0000" channel="Latina TV">
-    <title lang="en">Fruto prohibido</title>
-    <desc lang="en">Dos hermanas que se quieren mucho pero cuyos sueños son completamente diferentes. La vida de Yildiz cambia cuando conoce a Ender Argun, la reina de la sociedad.(n)</desc>
-  </programme>
-  <programme start="20221103063000 +0000" stop="20221103093000 +0000" channel="Latina TV">
-    <title lang="en">Nutrissa</title>
-    <desc lang="en">Programa local.(n)</desc>
-    <date>2018</date>
-  </programme>
-  <programme start="20221103093000 +0000" stop="20221103100000 +0000" channel="Latina TV">
-    <title lang="en">Amor serrano</title>
-    <desc lang="en">Máximo quien aún conserva la pureza del campo, se enamora de Michaela cuyo corazón ya tiene dueño.(n)</desc>
-    <date>1998</date>
-  </programme>
-  <programme start="20221103100000 +0000" stop="20221103110000 +0000" channel="Latina TV">
-    <title lang="en">Latina noticias - Despierta con matinal</title>
-    <date>2022</date>
-  </programme>
-  <programme start="20221103110000 +0000" stop="20221103120000 +0000" channel="Latina TV">
-    <title lang="en">Latina noticias - Matinal nacional</title>
-    <date>2022</date>
-  </programme>
-  <programme start="20221103120000 +0000" stop="20221103140000 +0000" channel="Latina TV">
-    <title lang="en">Latina noticias matinal</title>
-    <desc lang="en">Segmento informativo, en el cual te pondremos al día con la actualidad.(n)</desc>
-    <date>2021</date>
-  </programme>
-  <programme start="20221103140000 +0000" stop="20221103170000 +0000" channel="Latina TV">
-    <title lang="en">Arriba mi gente</title>
-  </programme>
-  <programme start="20221103170000 +0000" stop="20221103193000 +0000" channel="Latina TV">
-    <title lang="en">Latina noticias - Mediodía</title>
-    <desc lang="en">Central informativa, con experiencia de más de una década,.(n)</desc>
-    <date>2021</date>
-  </programme>
-  <programme start="20221103193000 +0000" stop="20221103213000 +0000" channel="Latina TV">
-    <title lang="en">Fruto prohibido</title>
-    <desc lang="en">Dos hermanas que se quieren mucho pero cuyos sueños son completamente diferentes. La vida de Yildiz cambia cuando conoce a Ender Argun, la reina de la sociedad.(n)</desc>
-  </programme>
-  <programme start="20221103213000 +0000" stop="20221103230000 +0000" channel="Latina TV">
-    <title lang="en">El destino de Melek</title>
-    <desc lang="en">Melek, una mujer que tendrá que luchar ante la adversidad.(n)</desc>
-  </programme>
-  <programme start="20221103230000 +0000" stop="20221104000000 +0000" channel="Latina TV">
-    <title lang="en">Medcezir</title>
-    <desc lang="en">El joven Yaman es preso por culpa de su hermano y rechazado por su familia, pero un exitoso abogado reconoce su potencial y le ofrece ayuda. En cambio, le pide que termine sus estudios y logre progresar en la vida. A pesar de ese empuje inicial, la trayectoria de Yaman no será nada fácil en un mundo hasta entonces desconocido para él.(n)</desc>
-    <date>2013</date>
   </programme>
   <programme start="20221030150000 +0000" stop="20221030170000 +0000" channel="Azteca America">
     <title lang="en">Lo Mejor de 'Ventaneando'</title>
@@ -2384,24 +2775,6 @@
     <title lang="en">Acércate a Rocío</title>
     <desc lang="en">Hablar de tus problemas es el primer paso para superarlos, por eso Rocío Sánchez Azuara está de regreso con un programa único, en el cual, podrás acercarte, para que con ella, hables de todo lo que te preocupa, y juntas o juntos, puedan encontrar una solución.(n)</desc>
     <date>2021</date>
-  </programme>
-  <programme start="20221030152000 +0000" stop="20221030154500 +0000" channel="UNIVERSAL REALITY">
-    <title lang="en">La familia Chrisley</title>
-    <sub-title lang="en">Una obra de teatro en un pesebre</sub-title>
-    <desc lang="en">Todd y Julie dirigen el pesebre viviente de la comunidad,.(n)</desc>
-    <date>2018</date>
-  </programme>
-  <programme start="20221030154500 +0000" stop="20221030160500 +0000" channel="UNIVERSAL REALITY">
-    <title lang="en">La familia Chrisley</title>
-    <sub-title lang="en">Pesadilla antes de Navidad</sub-title>
-    <desc lang="en">Abrumado por la visita de todos los invitados durante el fin de semana,.(n)</desc>
-    <date>2018</date>
-  </programme>
-  <programme start="20221030160500 +0000" stop="20221030163000 +0000" channel="UNIVERSAL REALITY">
-    <title lang="en">La familia Chrisley</title>
-    <sub-title lang="en">Entrenando a Faye</sub-title>
-    <desc lang="en">Julie se frustra cuando la familia usa el cumpleaños de Chloe como motivo para competir entre sí.(n)</desc>
-    <date>2018</date>
   </programme>
   <programme start="20221030163000 +0000" stop="20221030165000 +0000" channel="UNIVERSAL REALITY">
     <title lang="en">La familia Chrisley</title>
@@ -3582,19 +3955,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221030151000 +0000" stop="20221030155500 +0000" channel="UNIVERSAL CRIME">
-    <title lang="en">Matar me hizo famoso</title>
-    <desc lang="en">Asesinato. Violación. Mutilación. Agosto de 1990. Después de 675 sospechosos y miles de pruebas,.(n)</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20221030155500 +0000" stop="20221030164000 +0000" channel="UNIVERSAL CRIME">
-    <title lang="en">Parejas asesinas</title>
-    <desc lang="en">Un viaje de madre e hija al paraíso se ve interrumpido por un crimen impactante.(n)</desc>
-    <date>2021</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
   <programme start="20221030164000 +0000" stop="20221030172500 +0000" channel="UNIVERSAL CRIME">
     <title lang="en">Parejas asesinas</title>
     <desc lang="en">En una carrera mortal contra el tiempo,.(n)</desc>
@@ -4411,33 +4771,6 @@
   <programme start="20221103235500 +0000" stop="20221104004500 +0000" channel="UNIVERSAL CRIME">
     <title lang="en">Matar me hizo famoso</title>
     <desc lang="en">Jim Jones fue el líder de la secta y fundador del People's Temple. Jones,.(n)</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20221030150500 +0000" stop="20221030153000 +0000" channel="UNIVERSAL COMEDY">
-    <title lang="en">Maratón Kevin puede esperar</title>
-    <desc lang="en">Kevin y su compañero asisten a una presentación de arte de un distribuidor fraudulento.(n)</desc>
-    <date>2017</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221030153000 +0000" stop="20221030155500 +0000" channel="UNIVERSAL COMEDY">
-    <title lang="en">Kevin puede esperar</title>
-    <desc lang="en">Cuando Kevin (Kevin James) olvida dónde dejó documentos importantes de migración, pone a Chale (Ryan Cartwright) en peligro de ser deportado.(n)</desc>
-    <date>2017</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20221030155500 +0000" stop="20221030162000 +0000" channel="UNIVERSAL COMEDY">
-    <title lang="en">Señor alcalde</title>
-    <sub-title lang="en">La reforma de las palmeras</sub-title>
-    <desc lang="en">El plan de Neil de ahorrarle a la ciudad el dinero del mantenimiento de las palmeras encuentra resistencia inesperada.(n)</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20221030162000 +0000" stop="20221030164500 +0000" channel="UNIVERSAL COMEDY">
-    <title lang="en">Dr. Ken</title>
-    <desc lang="en">Mientras Ken trata de participar más en la vida de Molly,.(n)</desc>
     <date>2022</date>
   </programme>
   <programme start="20221030164500 +0000" stop="20221030171500 +0000" channel="UNIVERSAL COMEDY">
@@ -5852,11 +6185,6 @@
     <desc lang="en">Cuando Adam y Don tienen un desacuerdo acerca de una nueva casa para cambiar por su negocio de construcción, su discusión revela aún mayores problemas dentro de su relación.(n)</desc>
     <date>2020</date>
   </programme>
-  <programme start="20221030150000 +0000" stop="20221030164500 +0000" channel="UNIVERSAL CINEMA">
-    <title lang="en">El arte de defenderse</title>
-    <desc lang="en">Tras ser atacado, Casey decide tomar clases de karate, donde descubre un mundo siniestro de hermandad, brutalidad e hipermasculinidad, presentando un viaje que lo sitúa directamente en el punto de mira de su nuevo y enigmático mentor.(n)</desc>
-    <date>2019</date>
-  </programme>
   <programme start="20221030164500 +0000" stop="20221030183000 +0000" channel="UNIVERSAL CINEMA">
     <title lang="en">Solicitud de admisión</title>
     <desc lang="en">Una mujer miembro del equipo de admisiones de la Universidad de Princeton, viaja a una escuela bastante particular para conocer a un candidato. Estando allí descubre que el co-fundador de la escuela es un conocido de ella, lo que le trae a la mente el hijo que ella dio en adopción cuando era joven.(n)</desc>
@@ -6290,14 +6618,6 @@
     <title lang="en">Steve Jobs</title>
     <desc lang="en">Con mucha anticipación por parte del público, los cofundadores de Apple Inc. Steve Jobs y Steve ¿Woz¿ Wozniak se preparan para presentar la primera Macintosh en 1984. Jobs también deberá lidiar con temas personales relacionados a su exnovia Chrisann Bren.(n)</desc>
     <date>2015</date>
-  </programme>
-  <programme start="20221030152000 +0000" stop="20221030160500 +0000" channel="UNIVERSAL PREMIERE">
-    <title lang="en">Imposters</title>
-    <desc lang="en">Las cataratas del Niágara son el telón de fondo, mientras los novatos, Maddie, Max, Max,.(n)</desc>
-    <date>2018</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
   </programme>
   <programme start="20221030160500 +0000" stop="20221030165000 +0000" channel="UNIVERSAL PREMIERE">
     <title lang="en">La Brea</title>
@@ -7312,14 +7632,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221030150500 +0000" stop="20221030160700 +0000" channel="HBO MUNDI">
-    <title lang="en">The Vow</title>
-    <desc lang="en">Serie documental sobre el verdadero crimen que gira en torno al culto NXIVM y su líder Keith Raniere.(n)</desc>
-    <date>2020</date>
-    <rating system="MPAA">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
   <programme start="20221030160700 +0000" stop="20221030172200 +0000" channel="HBO MUNDI">
     <title lang="en">Drácula</title>
     <desc lang="en">Basada en el clásico por Bram Stoker sobre un conde transilvano que es vampiro. Drácula: Carlos Villar. Eva: Lupita Tovar. Dr. Van Helsing: Eduardo Arozamena. Renfield: Pablo Álvarez Rubio. Juan Harker: Barry Norton. Lucía: Carmen Guerrero.(n)</desc>
@@ -7705,11 +8017,6 @@
     <desc lang="en">Mason tiene seis años y vive con su madre y su hermana. Con el paso de los años, va descubriendo la vida, con sus sorpresas y sus penas. Seguiremos su día a día, el transcurso de las mudanzas, los intentos de sus padres de rehacer sus vidas, y el paso del tiempo. Mason se descubre y avanza, poco a poco, hacia el mundo de los adultos, atravesando las pequeñas nimiedades de la vida que la convierten en algo único y precioso.(n)</desc>
     <date>2014</date>
   </programme>
-  <programme start="20221030143500 +0000" stop="20221030163700 +0000" channel="HBO XTREME">
-    <title lang="en">Greenland: El último refugio</title>
-    <desc lang="en">Un gran asteroide aniquilará todo rastro de vida y sólo los afortunados sobrevivirán,.(n)</desc>
-    <date>2020</date>
-  </programme>
   <programme start="20221030163700 +0000" stop="20221030185400 +0000" channel="HBO XTREME">
     <title lang="en">Matrix</title>
     <desc lang="en">Un pirata de la informática (Keanu Reeves) es introducido a una realidad alterna por un fugitivo (Laurence Fishburne) en esta obra de ciencia ficción llena de efectos especiales deslumbrantes.(n)</desc>
@@ -7858,12 +8165,6 @@
   <programme start="20221101120000 +0000" stop="20221101180000 +0000" channel="HBO XTREME">
     <title lang="en">Será anunciado</title>
     <date>2018</date>
-  </programme>
-  <programme start="20221030145500 +0000" stop="20221030155500 +0000" channel="HBO SIGNATURE">
-    <title lang="en">The White Lotus</title>
-    <sub-title lang="en">Centrando</sub-title>
-    <desc lang="en">Un grupo de personas decide hospedarse en un resort, donde cada día surge una complejidad.(n)</desc>
-    <date>2021</date>
   </programme>
   <programme start="20221030155500 +0000" stop="20221030165800 +0000" channel="HBO SIGNATURE">
     <title lang="en">The White Lotus</title>
@@ -8492,11 +8793,6 @@
     <desc lang="en">Una dramatización de la realización de la polémica serie de documentales de PBS en 1973 "An American Family", idea de un cineasta que sigue la vida diaria de Pat y Bill Loud y sus hijos mientras el matrimonio de sus padres se desintegra y la familia entera lucha bajo una cruel mira.(n)</desc>
     <date>2011</date>
   </programme>
-  <programme start="20221030150600 +0000" stop="20221030163500 +0000" channel="HBO PLUS">
-    <title lang="en">The Boy: La Maldición De Brahms</title>
-    <desc lang="en">Brahms, el terrorífico niño, está listo para atormentar a una nueva familia en su cuerpo de muñeco. Tan pronto como Sean y Liza se mudan junto a sus hijos a la Mansión Heelshire, el pequeño Judas se hace amigo del muñeco. Sus padres, inocientes de la oscura historia, deberán hacer hasta lo imposible por evitar una tragedia.(n)</desc>
-    <date>2020</date>
-  </programme>
   <programme start="20221030163500 +0000" stop="20221030170500 +0000" channel="HBO PLUS">
     <title lang="en">Los Espookys</title>
     <sub-title lang="en">El eclipse</sub-title>
@@ -8646,30 +8942,6 @@
   <programme start="20221101073500 +0000" stop="20221101180000 +0000" channel="HBO PLUS">
     <title lang="en">Será anunciado</title>
     <date>2018</date>
-  </programme>
-  <programme start="20221030133500 +0000" stop="20221030152500 +0000" channel="HBO POP">
-    <title lang="en">Mi abuelo es un peligro</title>
-    <desc lang="en">A pocos días de contraer matrimonio, un muchacho debe acceder al pedido de su abuelo. Es que este joven es demasiado correcto e intransigente para su veinteañera edad y su escandaloso abuelo sólo tiene un deseo, que lo lleve a Florida para sus vacaciones de primavera.(n)</desc>
-    <date>2016</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221030152500 +0000" stop="20221030155700 +0000" channel="HBO POP">
-    <title lang="en">Sexo en la ciudad</title>
-    <desc lang="en">Samantha piensa en una posible reconciliación con Richard, mientras Miranda trata de acoplarse a sus cambios de vida como madre. Por su parte, Carrie está sola pero determinada a disfrutar del entretenimiento en Nueva York.(n)</desc>
-    <date>1998</date>
-    <rating system="MPAA">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20221030155700 +0000" stop="20221030162900 +0000" channel="HBO POP">
-    <title lang="en">Sex and the City</title>
-    <desc lang="en">Carrie recibe noticias sorpresivas. Entretanto, Miranda y Steve bautizan a Brady, y Samantha lucha contra las intenciones de Richard.(n)</desc>
-    <date>1998</date>
-    <rating system="MPAA">
-      <value>TV-MA</value>
-    </rating>
   </programme>
   <programme start="20221030162900 +0000" stop="20221030170100 +0000" channel="HBO POP">
     <title lang="en">Sex and the City</title>
@@ -9094,11 +9366,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221030135500 +0000" stop="20221030153100 +0000" channel="HBO FAMILY">
-    <title lang="en">¡Scooby!</title>
-    <desc lang="en">Película animada que sigue las aventuras de Scooby-Doo y su pandilla. Se descubre el origen del equipo más grandioso en la historia del misterio, conformado por el perro Gran Danés y sus amigos: Fred, Daphne, Vilma y Shaggy; quienes unen sus fuerzas para luchar contra el caso más desafiante de todos los tiempos.(n)</desc>
-    <date>2020</date>
-  </programme>
   <programme start="20221030153100 +0000" stop="20221030170000 +0000" channel="HBO FAMILY">
     <title lang="en">Los Minions</title>
     <desc lang="en">Kevin emprende un emocionante viaje para conseguir una jefa a quien servir.(n)</desc>
@@ -9498,11 +9765,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20221030143100 +0000" stop="20221030163100 +0000" channel="HBO 2">
-    <title lang="en">Uncharted: fuera del mapa</title>
-    <desc lang="en">Un descendiente del explorador Sir Francis Drake descubre la ubicación de una legendaria ciudad.(n)</desc>
-    <date>2022</date>
-  </programme>
   <programme start="20221030163100 +0000" stop="20221030170600 +0000" channel="HBO 2">
     <title lang="en">Avenue 5</title>
     <desc lang="en">Un capitán de crucero espacial seguro, controlado y agradable trata de llevarse bien con todos.(n)</desc>
@@ -9845,14 +10107,6 @@
     <title lang="en">Halloween Kills - La noche aún no termina</title>
     <desc lang="en">Michael Myers logra escapar de la trampa de Laurie para reiniciar su ritual de baño de sangre.(n)</desc>
     <date>2021</date>
-  </programme>
-  <programme start="20221030135100 +0000" stop="20221030152600 +0000" channel="HBO Latino (West)">
-    <title lang="en">En el tornado</title>
-    <desc lang="en">La ciudad de Silverton es azotada por una serie de tornados sin precedentes en el transcurso de un solo día. La ciudad está a merced de ciclones erráticos y mortales, mientras que los caza-tormentas predicen que lo peor está aún por llegar.(n)</desc>
-    <date>2014</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
   </programme>
   <programme start="20221030152600 +0000" stop="20221030172600 +0000" channel="HBO Latino (West)">
     <title lang="en">Jack el cazagigantes</title>
@@ -10782,22 +11036,6 @@
   <programme start="20221103230000 +0000" stop="20221104000000 +0000" channel="Imagen TV">
     <title lang="en">Asuntos de familia</title>
   </programme>
-  <programme start="20221030133100 +0000" stop="20221030154100 +0000" channel="HBO 2!">
-    <title lang="en">Ghostbusters: El legado</title>
-    <desc lang="en">Una madre soltera y sus dos hijos se mudan a una nueva ciudad, en la que pronto descubren que tienen una conexión con los Cazafantasmas originales y el legado secreto de su abuelo.(n)</desc>
-    <date>2021</date>
-    <rating system="MPAA">
-      <value>13</value>
-    </rating>
-  </programme>
-  <programme start="20221030154100 +0000" stop="20221030161600 +0000" channel="HBO 2!">
-    <title lang="en">Avenue 5</title>
-    <desc lang="en">Un capitán de crucero espacial seguro, controlado y agradable trata de llevarse bien con todos.(n)</desc>
-    <date>2020</date>
-    <rating system="MPAA">
-      <value>13</value>
-    </rating>
-  </programme>
   <programme start="20221030161600 +0000" stop="20221030183600 +0000" channel="HBO 2!">
     <title lang="en">Rápidos y Furiosos 6</title>
     <desc lang="en">Dom y Brian destruyeron el imperio de un mafioso y se hicieron con cien millones de dólares; desde entonces, se encuentran en paradero desconocido y no pueden regresar a casa porque la ley los persigue. Entretanto, Hobbs ha seguido la pista por una docena de países a una banda de letales conductores mercenarios, cuyo cerebro cuenta con la inestimable ayuda de la sexy Letty.(n)</desc>
@@ -11456,10 +11694,6 @@
     <title lang="en">Swiss Nature Labs</title>
     <desc lang="en">Las mejores soluciones de salud, belleza y bienestar de origen natural.(n)</desc>
   </programme>
-  <programme start="20221030130000 +0000" stop="20221030160000 +0000" channel="TVN (CHI)">
-    <title lang="en">24 Horas A La Hora</title>
-    <desc lang="en">Rueda informativa con lo mejor del acontecer nacional e internacional.(n)</desc>
-  </programme>
   <programme start="20221030160000 +0000" stop="20221030180000 +0000" channel="TVN (CHI)">
     <title lang="en">24 Tarde</title>
     <desc lang="en">Conoce los detalles más resaltantes sobre los últimos acontecimientos ocurridos en Chile, América Latina y el mundo, en este segmento especial de la tarde, donde te presentamos un resumen con informaciones completas.(n)</desc>
@@ -11812,19 +12046,6 @@
   <programme start="20221103235500 +0000" stop="20221104014000 +0000" channel="TVN (CHI)">
     <title lang="en">24 Horas Central</title>
     <desc lang="en">Noticiero central, con despachos en directo y corresponsalías en todo el mundo.(n)</desc>
-  </programme>
-  <programme start="20221030143000 +0000" stop="20221030153000 +0000" channel="Canal Uno (COL)">
-    <title lang="en">Él puede hacerlo de nuevo</title>
-    <desc lang="en">Ricardo y María Patricia Rodríguez del Centro Mundial de Avivamiento en Bogotá, Colombia, te invitan a disfrutar del poderoso mover del Espíritu Santo de Dios. Si hoy te encuentras afligido y sin esperanza, debes saber que la Palabra de Dios tiene poder y no volverá vacía, él la cumplirá.(n)</desc>
-    <date>2000</date>
-  </programme>
-  <programme start="20221030153000 +0000" stop="20221030163000 +0000" channel="Canal Uno (COL)">
-    <title lang="en">Sailor Moon</title>
-    <desc lang="en">Usagi conoce a una gata que le habla de su misión como Sailor Senshi y de salvar al mundo.(n)</desc>
-    <date>1992</date>
-    <rating system="MPAA">
-      <value>TV-Y7</value>
-    </rating>
   </programme>
   <programme start="20221030163000 +0000" stop="20221030173000 +0000" channel="Canal Uno (COL)">
     <title lang="en">Naruto Shippuden</title>
@@ -12332,18 +12553,6 @@
     <title lang="en">Guerreros: Cobras vs Leones</title>
     <desc lang="en">Hombres y mujeres se enfrentarán a diario para saber cuál es el sexo más fuerte. Diez participantes, diez personalidades, diez historias darán el marco ideal para disfrutar de un ciclo lleno de diversión, tensión, emoción y también, amor.(n)</desc>
     <date>2017</date>
-  </programme>
-  <programme start="20221030150000 +0000" stop="20221030153000 +0000" channel="RCN Nuestra Tele">
-    <title lang="en">Programación pagada</title>
-    <desc lang="en">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.(n)</desc>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221030153000 +0000" stop="20221030160000 +0000" channel="RCN Nuestra Tele">
-    <title lang="en">Treinta y 2 regionalmente nuestro</title>
-    <desc lang="en">Programa Federación de departamentos.(n)</desc>
-    <date>2022</date>
   </programme>
   <programme start="20221030160000 +0000" stop="20221030173000 +0000" channel="RCN Nuestra Tele">
     <title lang="en">Clásico RCN 2022</title>
@@ -13235,11 +13444,6 @@
     <desc lang="en">Jóvenes adultos hacen frente a los retos de la vida en dramáticos tramas que entablan temas de interés social como el alcoholismo, la sexualidad y otros.(n)</desc>
     <date>1999</date>
   </programme>
-  <programme start="20221030134500 +0000" stop="20221030153000 +0000" channel="Caracol TV (COL)">
-    <title lang="en">Cuentos de los Hermanos Grimm</title>
-    <desc lang="en">Serie animada que recoge cada uno de los cuentos y fábulas clásicas con las que muchos crecimos, entre ellos, "Blancanieves", "Rumpelstiltskin", "Hansel y Gretel" y "Caperucita Roja" y muchos otros.(n)</desc>
-    <date>1987</date>
-  </programme>
   <programme start="20221030153000 +0000" stop="20221030173000 +0000" channel="Caracol TV (COL)">
     <title lang="en">Max</title>
     <desc lang="en">Durante una pasantía en un taller automotor, Maxine trabaja arduamente para que lo contraten.(n)</desc>
@@ -13589,10 +13793,6 @@
     <title lang="en">Noticias 18:58 Caracol</title>
     <desc lang="en">Lo último de la actualidad colombiana y mundial usted podrá conocer en esta edición informativa, con reportajes, notas exclusivas, entrevistas y comentarios de la mano de un equipo de profesionales.(n)</desc>
     <date>2018</date>
-  </programme>
-  <programme start="20221030150000 +0000" stop="20221030153000 +0000" channel="RCN Television">
-    <title lang="en">Chica vampiro</title>
-    <desc lang="en">Daisy sueña con una carrera de cantante pero tiene un impedimento, sus padres son vampiros.(n)</desc>
   </programme>
   <programme start="20221030153000 +0000" stop="20221030173000 +0000" channel="RCN Television">
     <title lang="en">Clásico RCN 2022</title>
@@ -14018,11 +14218,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221030140200 +0000" stop="20221030155700 +0000" channel="Golden Edge">
-    <title lang="en">Desaparecidos sin rostro</title>
-    <desc lang="en">Un grupo de sobrevivientes se queda atrás después de que millones de personas desaparecen.(n)</desc>
-    <date>2014</date>
-  </programme>
   <programme start="20221030155700 +0000" stop="20221030180400 +0000" channel="Golden Edge">
     <title lang="en">Presagio</title>
     <desc lang="en">Nicolas Cage hace un excelente papel en este emocionante filme acerca del fin del mundo. Una lista extraída de una cápsula desenterrada 50 años antes contiene una serie de predicciones certeras y un profesor intenta evitar la próxima calamidad.(n)</desc>
@@ -14390,21 +14585,6 @@
     <title lang="en">Poderes ocultos</title>
     <desc lang="en">Tomas y Margaret estudian fenómenos paranormales fraudulentos en la universidad. Todos los fenómenos que les piden investigar resultan ser falsos, y no presentan dificultades para los expertos. Hasta que conocen a Simon... Tomas cree que deberían investigarle, pero Simon les pone muchas trabas.(n)</desc>
     <date>2012</date>
-  </programme>
-  <programme start="20221030144500 +0000" stop="20221030154000 +0000" channel="UNIVERSAL TV">
-    <title lang="en">House M.D.</title>
-    <desc lang="en">Una niña de 14 años internada por problemas emocionales presenta síntomas físicos cada vez más serios. No obstante, House está obsesionado con el caso de la muerte de un niño de cuatro años y hará lo imposible para resolverlo.(n)</desc>
-    <date>2011</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221030154000 +0000" stop="20221030163500 +0000" channel="UNIVERSAL TV">
-    <title lang="en">Family Law</title>
-    <desc lang="en">Una abogada persistente reestablece su carrera y vida en Los Ángeles después de ser abandonada por su esposo, quien se lleva con él a los abogados y la mayoría de los clientes de la firma. Junto con una socia fiel, ella arma un equipo legal de colegas preparadas para defender la ley. Estrenada el 20 de septiembre de 1999 en CBS.(n)</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
   </programme>
   <programme start="20221030163500 +0000" stop="20221030173000 +0000" channel="UNIVERSAL TV">
     <title lang="en">Blue Bloods</title>
@@ -15336,61 +15516,6 @@
     <date>2017</date>
     <rating system="MPAA">
       <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221030151100 +0000" stop="20221030153000 +0000" channel="Kids Street">
-    <title lang="en">Rocka-bye Island</title>
-    <sub-title lang="en">Mile High</sub-title>
-    <date>2017</date>
-  </programme>
-  <programme start="20221030153000 +0000" stop="20221030154200 +0000" channel="Kids Street">
-    <title lang="en">Helen's Little School</title>
-    <desc lang="en">Pixie-Bot is amazed by the dragon painting that Sir Richard produces.(n)</desc>
-    <date>2017</date>
-    <category lang="en">Educational</category>
-    <category lang="en">Action &amp; Adventure</category>
-    <rating system="MPAA">
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20221030154200 +0000" stop="20221030160000 +0000" channel="Kids Street">
-    <title lang="en">Helen's Little School</title>
-    <desc lang="en">Pixie-Bot is amazed by the dragon painting that Sir Richard produces.(n)</desc>
-    <date>2017</date>
-    <category lang="en">Educational</category>
-    <category lang="en">Action &amp; Adventure</category>
-    <rating system="MPAA">
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20221030160000 +0000" stop="20221030161200 +0000" channel="Kids Street">
-    <title lang="en">Helen's Little School</title>
-    <desc lang="en">Pixie-Bot is amazed by the dragon painting that Sir Richard produces.(n)</desc>
-    <date>2017</date>
-    <category lang="en">Educational</category>
-    <category lang="en">Action &amp; Adventure</category>
-    <rating system="MPAA">
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20221030161200 +0000" stop="20221030163000 +0000" channel="Kids Street">
-    <title lang="en">Helen's Little School</title>
-    <desc lang="en">Pixie-Bot is amazed by the dragon painting that Sir Richard produces.(n)</desc>
-    <date>2017</date>
-    <category lang="en">Educational</category>
-    <category lang="en">Action &amp; Adventure</category>
-    <rating system="MPAA">
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20221030163000 +0000" stop="20221030164200 +0000" channel="Kids Street">
-    <title lang="en">Helen's Little School</title>
-    <desc lang="en">Pixie-Bot is amazed by the dragon painting that Sir Richard produces.(n)</desc>
-    <date>2017</date>
-    <category lang="en">Educational</category>
-    <category lang="en">Action &amp; Adventure</category>
-    <rating system="MPAA">
-      <value>TV-Y</value>
     </rating>
   </programme>
   <programme start="20221030164200 +0000" stop="20221030170000 +0000" channel="Kids Street">
@@ -19374,14 +19499,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20221030141400 +0000" stop="20221030160000 +0000" channel="Sony Movies">
-    <title lang="en">Anaconda 2: En Busca de la Orquídea Sangrienta</title>
-    <desc lang="en">"Thriller" sobre una expedición científica en Borneo, donde serpientes gigantes merodean en la selva.(n)</desc>
-    <date>2004</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20221030160000 +0000" stop="20221030174000 +0000" channel="Sony Movies">
     <title lang="en">Abracadabra</title>
     <desc lang="en">Carmen y Carlos llevan muchos años casados pero él no ha conseguido aún soportar a uno de sus primos. Cuarentón y reponedor en un supermercado, todavía vive con sus padres y se dedica a la hipnosis en su tiempo libre. Para vengarse de Carlos, lo hipnotizará en una boda y hará que lo posea un espíritu. ¿Conseguirá Carlos ser liberado? ¿Recuperará Carmen a su marido?(n)</desc>
@@ -19980,12 +20097,6 @@
     <title lang="en">Chihuahua: The Movie</title>
     <desc lang="en">Una mujer divorciada (Anya Benton) se despierta en el cuerpo de un perro chihuahua que participa en un programa de terapia canina en los hospitales.(n)</desc>
     <date>2010</date>
-  </programme>
-  <programme start="20221030150000 +0000" stop="20221030160000 +0000" channel="NY1 Noticias">
-    <title lang="en">Pura Política: Voces de la Ciudad</title>
-  </programme>
-  <programme start="20221030160000 +0000" stop="20221030163000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
   </programme>
   <programme start="20221030163000 +0000" stop="20221030170000 +0000" channel="NY1 Noticias">
     <title lang="en">NY1 Noticias</title>
@@ -20608,11 +20719,6 @@
   <programme start="20221103233000 +0000" stop="20221104000000 +0000" channel="NY1 Noticias">
     <title lang="en">NY1 Noticias</title>
   </programme>
-  <programme start="20221030142500 +0000" stop="20221030155000 +0000" channel="BitMe">
-    <title lang="en">Space Chimps II: Zartog Strikes Back</title>
-    <desc lang="en">Cometa quiere ser considerado un verdadero astronauta. Por tal motivo,.(n)</desc>
-    <date>2012</date>
-  </programme>
   <programme start="20221030155000 +0000" stop="20221030173500 +0000" channel="BitMe">
     <title lang="en">Deep, el pulpo</title>
     <desc lang="en">Un grupo de excéntricas y curiosas criaturas deben abandonar el hogar que siempre han habitado, que está ubicado en la grieta más profunda del océano. Al tener que dejar el lugar, estos animales se deciden a encontrar una nueva casa. En el camino, vivirán disparatadas y divertidas aventuras.(n)</desc>
@@ -21056,11 +21162,6 @@
     <rating system="MPAA">
       <value>TV-Y7</value>
     </rating>
-  </programme>
-  <programme start="20221030150000 +0000" stop="20221030160000 +0000" channel="Curiosity Stream">
-    <title lang="en">En los rieles</title>
-    <desc lang="en">Si existe un tren esencial en el oeste de los Estados Unidos, es el California Zephyr.(n)</desc>
-    <date>2021</date>
   </programme>
   <programme start="20221030160000 +0000" stop="20221030170000 +0000" channel="Curiosity Stream">
     <title lang="en">En los rieles</title>
@@ -21689,30 +21790,6 @@
   <programme start="20221103230000 +0000" stop="20221104000000 +0000" channel="Curiosity Stream">
     <title lang="en">El caso</title>
     <desc lang="en">Programación local de Vme TV.(n)</desc>
-  </programme>
-  <programme start="20221030150000 +0000" stop="20221030153000 +0000" channel="Dreamworks">
-    <title lang="en">She-Ra y las princesas del poder</title>
-    <desc lang="en">Bow y Glimmer acaban de enterarse, para su sorpresa, que Entrapta no está muerta. Por eso se dirigen, lo más rápido posible, hacia Dryl, para ir tras su rescate. Por su parte, Light Hope envía de inmediato a Adora y Swift Wind a reparar la tecnología de los Primeros.(n)</desc>
-    <date>2019</date>
-    <rating system="MPAA">
-      <value>TV-Y7</value>
-    </rating>
-  </programme>
-  <programme start="20221030153000 +0000" stop="20221030160000 +0000" channel="Dreamworks">
-    <title lang="en">She-Ra y las princesas del poder</title>
-    <desc lang="en">El equipo a pleno se dirige hacia Alwyn, donde empezó a gestarse la multitudinaria rebelión. Sin embargo, deben tener cuidado al llegar, pues el lugar parece estar bajo la nefasta influencia de un poderoso hechizo. Mientras tanto, Entrapta logra infiltrarse en el laboratorio de Hordak.(n)</desc>
-    <date>2019</date>
-    <rating system="MPAA">
-      <value>TV-Y7</value>
-    </rating>
-  </programme>
-  <programme start="20221030160000 +0000" stop="20221030163000 +0000" channel="Dreamworks">
-    <title lang="en">Las aventuras del Gato con Botas</title>
-    <desc lang="en">Un duende lanza un hechizo de la mala suerte a Gato, convirtiéndole en un gato negro. Para no hacer daño en San Lorenzo, Gato se va. En su destierro conoce a "la Comunidad de las tinieblas" formada por tres gatos negros que se dedican al pillaje.(n)</desc>
-    <date>2015</date>
-    <rating system="MPAA">
-      <value>TV-Y7</value>
-    </rating>
   </programme>
   <programme start="20221030163000 +0000" stop="20221030170000 +0000" channel="Dreamworks">
     <title lang="en">Las aventuras del Gato con Botas</title>
@@ -23300,17 +23377,6 @@
       <value>TV-Y7</value>
     </rating>
   </programme>
-  <programme start="20221030151100 +0000" stop="20221030153800 +0000" channel="Aplauso">
-    <title lang="en">Chicos</title>
-    <desc lang="en">Chicos.(n)</desc>
-  </programme>
-  <programme start="20221030153800 +0000" stop="20221030160500 +0000" channel="Aplauso">
-    <title lang="en">Chicos</title>
-    <desc lang="en">Chicos.(n)</desc>
-  </programme>
-  <programme start="20221030160500 +0000" stop="20221030164900 +0000" channel="Aplauso">
-    <title lang="en">Flor de lluvia</title>
-  </programme>
   <programme start="20221030164900 +0000" stop="20221030171400 +0000" channel="Aplauso">
     <title lang="en">Chicos</title>
     <desc lang="en">Chicos.(n)</desc>
@@ -23777,20 +23843,6 @@
   </programme>
   <programme start="20221103234300 +0000" stop="20221104003200 +0000" channel="Aplauso">
     <title lang="en">Punto de Inflamabilidad</title>
-  </programme>
-  <programme start="20221030150000 +0000" stop="20221030160000 +0000" channel="Hogar HGTV">
-    <title lang="en">Campeonato de reposteros: Halloween</title>
-    <desc lang="en">Los panaderos llegan al cementerio para dar vida a postres de calaveras. Luego,.(n)</desc>
-    <date>2019</date>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20221030160000 +0000" stop="20221030163000 +0000" channel="Hogar HGTV">
-    <title lang="en">Nuestro hogar frente al lago</title>
-    <sub-title lang="en">Anclarse en el lago de los Ozarks</sub-title>
-    <desc lang="en">Una familia quiere encontrar una casa frente al lago en Misuri, en las costas del lago de los Ozarks.(n)</desc>
-    <date>2016</date>
   </programme>
   <programme start="20221030163000 +0000" stop="20221030170000 +0000" channel="Hogar HGTV">
     <title lang="en">Nuestro hogar frente al lago</title>
@@ -25040,19 +25092,19 @@
     <title lang="es">Houston Astros vs. Philadelphia Phillies</title>
     <desc lang="es">Organización profesional de Baseball y la más antigua de las ligas mayores profesionales en EUA y Canadá. Fox Sports cuenta con 5 juegos semanales, de los cuales 3 son transmitidos por los canales básicos. El juego de estrellas se llevará a cabo el 19 de junio y se transmitirá por Fox Sports.(n)</desc>
     <category lang="es">MLB</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/697879/1484302369/221030111426_9368827.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/697879/1484302369/221030111426_44127c300dd033e041583ad81b49f954df70e191_2210152927.jpg" />
   </programme>
   <programme start="20221102030000 +0000" stop="20221102050000 +0000" channel="Fox Sports Premium!">
     <title lang="es">Dana White's Contender Series</title>
     <desc lang="es">El presidente de UFC, Dana White, busca talentosos luchadores jóvenes que podrían ser vistos en la UFC.(n)</desc>
     <category lang="es">Show</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/675653/1484302356/221030111426_16060282.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/675653/1484302356/221030111426_6e69b96e3bd9a8ee66bdeec9544980372ea3b488_2210152927.jpg" />
   </programme>
   <programme start="20221102050000 +0000" stop="20221102070000 +0000" channel="Fox Sports Premium!">
     <title lang="es">Monterrey vs. Pachuca</title>
     <desc lang="es">Vive la XI edición del campeonato de liga de la Primera División Femenil de México con el que se inicia la temporada 2022-2023. La Primera División Femenil de México, conocida también como Liga MX Femenil, es la principal liga de fútbol profesional femenil en México la cual está regulada por la Federación Mexicana de Fútbol.(n)</desc>
     <category lang="es">Liga MX Femenil</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/719003/1484302452/221030111426_16469770.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/719003/1484302452/221030111426_31e91f0a22f3bf0d4d3e06ecdeb85a2d3e704166_2210152927.jpg" />
   </programme>
   <programme start="20221102070000 +0000" stop="20221102093000 +0000" channel="Fox Sports Premium!">
     <title lang="es">Gran Premio de los Estados Unidos</title>
@@ -25167,11 +25219,6 @@
     <desc lang="es">Vive los partidos de la 51º edición de la segunda competición más importante por equipos de Europa.(n)</desc>
     <category lang="es">UEFA Europa League</category>
     <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/724552/1486986351/221030111426_a4e6033e6356a6ee951345433afa3e1439580e11_2210120928.jpg" />
-  </programme>
-  <programme start="20221030143500 +0000" stop="20221030164500 +0000" channel="A3Cine!">
-    <title lang="en">Las trece rosas</title>
-    <desc lang="en">En el Madrid de 1939, trece jóvenes republicanas son detenidas injustamente por la traición.(n)</desc>
-    <date>2007</date>
   </programme>
   <programme start="20221030164500 +0000" stop="20221030182000 +0000" channel="A3Cine!">
     <title lang="en">El Calentito</title>
@@ -27926,14 +27973,6 @@
       <value>+12</value>
     </rating>
   </programme>
-  <programme start="20221030153000 +0000" stop="20221030160000 +0000" channel="UniMás">
-    <title lang="en">Programa Pagado</title>
-    <date>2021</date>
-  </programme>
-  <programme start="20221030160000 +0000" stop="20221030163000 +0000" channel="UniMás">
-    <title lang="en">Programa Pagado</title>
-    <date>2021</date>
-  </programme>
   <programme start="20221030163000 +0000" stop="20221030170000 +0000" channel="UniMás">
     <title lang="en">Programa Pagado</title>
     <date>2021</date>
@@ -28724,12 +28763,6 @@
     <date>2022</date>
     <premiere />
   </programme>
-  <programme start="20221030150000 +0000" stop="20221030160000 +0000" channel="Univision 41">
-    <title lang="en">Al Punto con Jorge Ramos (new)</title>
-    <sub-title lang="en">10-30-2022</sub-title>
-    <date>2021</date>
-    <premiere />
-  </programme>
   <programme start="20221030160000 +0000" stop="20221030170000 +0000" channel="Univision 41">
     <title lang="en">Aquí y Ahora</title>
     <date>1998</date>
@@ -29434,16 +29467,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221030133000 +0000" stop="20221030160000 +0000" channel="Telemundo 47">
-    <title lang="en">Fútbol: Premier League (live)</title>
-    <sub-title lang="en">Arsenal vs. Nottingham Forest</sub-title>
-    <desc lang="en">Arsenal vs. Nottingham Forest. Desde Emirates Stadium.(n)</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20221030160000 +0000" stop="20221030163000 +0000" channel="Telemundo 47">
-    <title lang="en">La Liga Premier Extra (live)</title>
-    <desc lang="en">Edición extra con toda la información y las últimas novedades de la Premier League. El fútbol doméstico de Inglaterra no da respiro y los partidos, jornada a jornada, se tornan cada vez más intensos y emocionantes. La pelea por los primeros lugares de la tabla está muy disputada y los equipos saben que no pueden fallar en sus próximos compromisos.(n)</desc>
-  </programme>
   <programme start="20221030163000 +0000" stop="20221030180000 +0000" channel="Telemundo 47">
     <title lang="en">Fútbol: Premier League (live)</title>
     <sub-title lang="en">Manchester United vs. West Ham</sub-title>
@@ -30147,16 +30170,6 @@
     <title lang="en">Exatlon Estados Unidos: Edicion Mundial (new)</title>
     <desc lang="en">Una épica y sorprendente versión de la competencia más feroz del planeta que pone a prueba, con innovadores desafíos, las habilidades físicas y mentales de una nueva generación de héroes.(n)</desc>
     <premiere />
-  </programme>
-  <programme start="20221030145500 +0000" stop="20221030155000 +0000" channel="Telehit Musica">
-    <title lang="en">Musicoterapia</title>
-    <desc lang="en">Un espacio que aborda diversos proyectos en materia de Medicina y Musica.(n)</desc>
-    <date>2007</date>
-  </programme>
-  <programme start="20221030155000 +0000" stop="20221030164500 +0000" channel="Telehit Musica">
-    <title lang="en">Musicoterapia</title>
-    <desc lang="en">Un espacio que aborda diversos proyectos en materia de Medicina y Musica.(n)</desc>
-    <date>2007</date>
   </programme>
   <programme start="20221030164500 +0000" stop="20221030174000 +0000" channel="Telehit Musica">
     <title lang="en">Musicología</title>
