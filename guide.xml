@@ -1,5 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="TNT EAST">
+    <display-name lang="en">TNT EAST.</display-name>
+    <url>http://www.tvguide.com</url>
+  </channel>
   <channel id="Televisión Dominicana">
     <display-name lang="en">Televisión Dominicana.</display-name>
     <url>http://www.tvguide.com</url>
@@ -228,7 +232,7 @@
   <channel id="A3Series HD!">
     <display-name lang="es">A3Series HD.</display-name>
     <icon src="https://cdn.sincroguia.tv/uploads/images/v/5/n/xatresseries.jpg.pagespeed.ic.9ZIdKUT2Zo.jpg" />
-    <url>http://www.sincroguia-tv.expansion.com</url>
+    <url>http://www.sincroguia-tv.com.E</url>
   </channel>
   <channel id="UniMás">
     <display-name lang="en">UniMás.</display-name>
@@ -266,9 +270,988 @@
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523290_AD350A44EE3C7F22.png" />
     <url>http://www.movistar.com.pe</url>
   </channel>
-  <programme start="20221116210000 +0000" stop="20221116220000 +0000" channel="Televisión Dominicana">
-    <title lang="en">El show de Raymond y Miguel</title>
+  <programme start="20221116220000 +0000" stop="20221116230000 +0000" channel="TNT EAST">
+    <title lang="en">Lucifer</title>
+    <sub-title lang="en">Quintessential Deckerstar</sub-title>
+    <desc lang="en">When Lucifer and Chloe investigate the death of a woman, they discover that they may be pursuing the wrong suspect. Then, Charlotte risks her safety when she decides to take matters into her own hands, and just as Lucifer makes a huge confession, he gets a tragic phone call that changes everything. (repeat).(n)</desc>
+    <credits>
+      <director>Nathan Hope</director>
+      <director>Louis Shaw Milito</director>
+      <actor role="Lucifer Morningstar">Tom Ellis</actor>
+      <actor role="Mazikeen/Maze">Lesley-Ann Brandt</actor>
+      <actor role="Chloe Decker">Lauren German</actor>
+      <actor role="Amenadiel">DB Woodside</actor>
+      <actor role="Dan">Kevin Alejandro</actor>
+      <actor role="Trixie">Scarlett Estevez</actor>
+      <actor role="Linda Martin">Rachael Harris</actor>
+      <writer>Ildy Modrovich</writer>
+      <producer>Jerry Bruckheimer</producer>
+      <composer>Ben Decter</composer>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Fantasy</category>
+    <icon src="https://content.internetvideoarchive.com/content/photos/12913/542387_320x240_637284515273582860.jpg" />
+    <episode-num system="onscreen">S3</episode-num>
+    <episode-num system="onscreen">3 E23</episode-num>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20221116230000 +0000" stop="20221117000000 +0000" channel="TNT EAST">
+    <title lang="en">Lucifer</title>
+    <sub-title lang="en">A Devil of My Word</sub-title>
+    <desc lang="en">The Season 3 finale: Shocked by someone's death, Chloe, Lucifer and the rest of the team work together to investigate and take down the killer. Then, Lucifer has an epiphany, Maze decides to mend a broken friendship and Chloe finally sees the truth. (repeat).(n)</desc>
+    <credits>
+      <director>Nathan Hope</director>
+      <director>Louis Shaw Milito</director>
+      <actor role="Lucifer Morningstar">Tom Ellis</actor>
+      <actor role="Mazikeen/Maze">Lesley-Ann Brandt</actor>
+      <actor role="Chloe Decker">Lauren German</actor>
+      <actor role="Amenadiel">DB Woodside</actor>
+      <actor role="Dan">Kevin Alejandro</actor>
+      <actor role="Trixie">Scarlett Estevez</actor>
+      <actor role="Linda Martin">Rachael Harris</actor>
+      <writer>Ildy Modrovich</writer>
+      <producer>Jerry Bruckheimer</producer>
+      <composer>Ben Decter</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Fantasy</category>
+    <icon src="https://content.internetvideoarchive.com/content/photos/12913/542387_320x240_637284515273582860.jpg" />
+    <episode-num system="onscreen">S3</episode-num>
+    <episode-num system="onscreen">3 E24</episode-num>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20221117000000 +0000" stop="20221117003000 +0000" channel="TNT EAST">
+    <title lang="en">NHL Pregame (live)</title>
+    <desc lang="en">A preview of NHL action.(n)</desc>
+  </programme>
+  <programme start="20221117003000 +0000" stop="20221117030000 +0000" channel="TNT EAST">
+    <title lang="en">NHL Hockey (live)</title>
+    <sub-title lang="en">St. Louis Blues at Chicago Blackhawks</sub-title>
+    <desc lang="en">St. Louis Blues at Chicago Blackhawks. From United Center. (live).(n)</desc>
+    <date>2022</date>
+    <category lang="en">Pro Sports</category>
+  </programme>
+  <programme start="20221117030000 +0000" stop="20221117053000 +0000" channel="TNT EAST">
+    <title lang="en">NHL Hockey (live)</title>
+    <sub-title lang="en">Los Angeles Kings at Edmonton Oilers</sub-title>
+    <desc lang="en">Los Angeles Kings at Edmonton Oilers. From Rogers Place. (live).(n)</desc>
+    <date>2022</date>
+    <category lang="en">Pro Sports</category>
+  </programme>
+  <programme start="20221117053000 +0000" stop="20221117060000 +0000" channel="TNT EAST">
+    <title lang="en">NHL on TNT Postgame (live)</title>
+    <desc lang="en">Liam McHugh recaps National Hockey League action, with interviews, highlights and analysis from Wayne Gretzky, Anson Carter, Rick Tocchet and Paul Bissonnette. (live).(n)</desc>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20221117060000 +0000" stop="20221117070000 +0000" channel="TNT EAST">
+    <title lang="en">Cold Case</title>
+    <sub-title lang="en">Churchgoing People</sub-title>
+    <desc lang="en">Lilly reopens a 1990 homicide, in which a church organist was found stabbed to death in his van surrounded by pornography and drugs in a seedy part of town, after the man's Alzheimer's-afflicted widow begins to have flashbacks about the night of the crime. Mitchell: John Walcutt. Caroline: Isabella Hofmann. Brian: Jimmi Simpson. Tina: Daisy McCrackin. Judy: Kerrie Keane. Jeff: Danny Oberbeck. Gil: Kevin McCorkle. (repeat).(n)</desc>
+    <credits>
+      <director>Mark Pellington</director>
+      <director>Alex Zakrzewski</director>
+      <actor role="Lilly Rush">Kathryn Morris</actor>
+      <actor role="John Stillman">John Finn</actor>
+      <actor role="Will Jeffries">Thom Barry</actor>
+      <actor role="Nick Vera">Jeremy Ratchford</actor>
+      <actor role="Chris Lassing">Justin Chambers</actor>
+      <actor role="Det. Scott Valens">Danny Pino</actor>
+      <writer>Liz W. Garcia</writer>
+      <producer>Jerry Bruckheimer</producer>
+      <composer>Michael A. Levine</composer>
+    </credits>
+    <date>2005</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Science</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/2799/002799/002799_367x275_82715_045.jpg" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20221117070000 +0000" stop="20221117080000 +0000" channel="TNT EAST">
+    <title lang="en">Cold Case</title>
+    <sub-title lang="en">The Runner</sub-title>
+    <desc lang="en">Lilly reopens a 1973 murder case, in which a 21-year-old rookie cop was shot three times in the chest, after a drug addict brings in an audio tape she found on which the fatal shooting is heard. Also on the tape are the victim's final words "Runner! Runner! Runner!" Washington: Cory C. Hardrict. Butch: Matt Bushell. Sammy: Dee Freeman. Diane: Barbara Eve Harris. Runner: Rif Hutton. Gloria: Ophelia Turner. Jessica: Cheselka Leigh. (repeat).(n)</desc>
+    <credits>
+      <director>Mark Pellington</director>
+      <director>Alex Zakrzewski</director>
+      <actor role="Lilly Rush">Kathryn Morris</actor>
+      <actor role="John Stillman">John Finn</actor>
+      <actor role="Will Jeffries">Thom Barry</actor>
+      <actor role="Nick Vera">Jeremy Ratchford</actor>
+      <actor role="Chris Lassing">Justin Chambers</actor>
+      <actor role="Det. Scott Valens">Danny Pino</actor>
+      <writer>Liz W. Garcia</writer>
+      <producer>Jerry Bruckheimer</producer>
+      <composer>Michael A. Levine</composer>
+    </credits>
+    <date>2005</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Science</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/2799/002799/002799_367x275_82715_045.jpg" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20221117080000 +0000" stop="20221117090000 +0000" channel="TNT EAST">
+    <title lang="en">Cold Case</title>
+    <sub-title lang="en">Love Conquers Al</sub-title>
+    <desc lang="en">Lilly gets a cocky new partner, Scotty Valens (Danny Pino), just as she reopens a 1981 homicide involving a 16-year-old female track star who was fatally shot. The investigation is renewed after a felon, who is trying to get a reduced sentence, tells officers he saw a student washing blood out of a car the night of the murder. Paige: Summer Glau. Al: Doug Kruse. Will: James DuMont. Bennett: Vincent Ventresca. Jane: Saxon Trainer. Ricky: Tim deZarn. Heidi: Isabelle Dahlin. (repeat).(n)</desc>
+    <credits>
+      <director>Mark Pellington</director>
+      <director>Alex Zakrzewski</director>
+      <actor role="Lilly Rush">Kathryn Morris</actor>
+      <actor role="John Stillman">John Finn</actor>
+      <actor role="Will Jeffries">Thom Barry</actor>
+      <actor role="Nick Vera">Jeremy Ratchford</actor>
+      <actor role="Chris Lassing">Justin Chambers</actor>
+      <actor role="Det. Scott Valens">Danny Pino</actor>
+      <writer>Liz W. Garcia</writer>
+      <producer>Jerry Bruckheimer</producer>
+      <composer>Michael A. Levine</composer>
+    </credits>
+    <date>2005</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Science</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/2799/002799/002799_367x275_82715_045.jpg" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20221117090000 +0000" stop="20221117100000 +0000" channel="TNT EAST">
+    <title lang="en">Cold Case</title>
+    <sub-title lang="en">A Time to Hate</sub-title>
+    <desc lang="en">Lilly reopens a 1964 homicide case in which a college baseball player who was homosexual was beaten to death outside of a gay club. The dead man's now elderly and ill mother, who seeks closure before she dies, is the reason the investigation is renewed. Lilly's probe soon turns up some disturbing evidence that indicates cops routinely raided gay bars in the 1960s and beat the patrons. Steve: Patrick MacManus. Helen: Barbara Tarbuck. Polk: Bill Henderson. Deborah: Kathleen Lloyd. Tinkerbell: Mark Nordike. (repeat).(n)</desc>
+    <credits>
+      <director>Mark Pellington</director>
+      <director>Alex Zakrzewski</director>
+      <actor role="Lilly Rush">Kathryn Morris</actor>
+      <actor role="John Stillman">John Finn</actor>
+      <actor role="Will Jeffries">Thom Barry</actor>
+      <actor role="Nick Vera">Jeremy Ratchford</actor>
+      <actor role="Chris Lassing">Justin Chambers</actor>
+      <actor role="Det. Scott Valens">Danny Pino</actor>
+      <writer>Liz W. Garcia</writer>
+      <producer>Jerry Bruckheimer</producer>
+      <composer>Michael A. Levine</composer>
+    </credits>
+    <date>2005</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Science</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/2799/002799/002799_367x275_82715_045.jpg" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20221117100000 +0000" stop="20221117110000 +0000" channel="TNT EAST">
+    <title lang="en">Cold Case</title>
+    <sub-title lang="en">Fly Away</sub-title>
+    <desc lang="en">Lilly tries to solve a 2001 case in which a woman and her 6-year-old daughter mysteriously fell from an apartment window. The girl died, and the mother survived but lapsed into a coma. When the woman suddenly wakes up, she remembers little of that night except that someone was out to hurt them. Rosie: Laura Regan. Toya: Aynsley Lemon. Anita: Meera Simhan. Freely: Don McManus. Irene: Kathleen Gati. Angel: Christian J. Meoli. (repeat).(n)</desc>
+    <credits>
+      <director>Mark Pellington</director>
+      <director>Alex Zakrzewski</director>
+      <actor role="Lilly Rush">Kathryn Morris</actor>
+      <actor role="John Stillman">John Finn</actor>
+      <actor role="Will Jeffries">Thom Barry</actor>
+      <actor role="Nick Vera">Jeremy Ratchford</actor>
+      <actor role="Chris Lassing">Justin Chambers</actor>
+      <actor role="Det. Scott Valens">Danny Pino</actor>
+      <writer>Liz W. Garcia</writer>
+      <producer>Jerry Bruckheimer</producer>
+      <composer>Michael A. Levine</composer>
+    </credits>
+    <date>2005</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Science</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/2799/002799/002799_367x275_82715_045.jpg" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20221117110000 +0000" stop="20221117120000 +0000" channel="TNT EAST">
+    <title lang="en">Charmed</title>
+    <sub-title lang="en">Wendigo</sub-title>
+    <desc lang="en">After a man (Billy Jayne) saves Piper from the same beast that killed his fiancée, Andy teams up with an FBI agent (Jocelyn Seagrave) to investigate the creature, which takes a human form during the day. Meanwhile, Phoebe tries to prove a mother's kidnapped daughter is alive. (repeat).(n)</desc>
+    <credits>
+      <director>John T. Kretchmer</director>
+      <director>James L. Conway</director>
+      <actor role="Piper Halliwell">Holly Marie Combs</actor>
+      <actor role="Phoebe Halliwell">Alyssa Milano</actor>
+      <actor role="Darryl">Dorian Gregory</actor>
+      <actor role="Prue Halliwell">Shannen Doherty</actor>
+      <writer>Constance M. Burge</writer>
+      <producer>Jon Paré</producer>
+      <composer>J. Peter Robinson</composer>
+    </credits>
+    <date>1998</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Fantasy</category>
+    <icon src="https://content.internetvideoarchive.com/content/photos/816/034292_2.jpg" />
+    <episode-num system="onscreen">S1</episode-num>
+    <episode-num system="onscreen">1 E12</episode-num>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20221117120000 +0000" stop="20221117130000 +0000" channel="TNT EAST">
+    <title lang="en">Charmed</title>
+    <sub-title lang="en">From Fear to Eternity</sub-title>
+    <desc lang="en">The Halliwells' mom warns them about a demon (Billy Drago) who arrives every 1300 years on Friday the 13th to literally scare witches to death and feed on their fear. Also: Phoebe has misgivings about a job; Piper lets superstitions dictate her interest in a potential suitor. (repeat).(n)</desc>
+    <credits>
+      <director>John T. Kretchmer</director>
+      <director>James L. Conway</director>
+      <actor role="Piper Halliwell">Holly Marie Combs</actor>
+      <actor role="Phoebe Halliwell">Alyssa Milano</actor>
+      <actor role="Darryl">Dorian Gregory</actor>
+      <actor role="Prue Halliwell">Shannen Doherty</actor>
+      <writer>Constance M. Burge</writer>
+      <producer>Jon Paré</producer>
+      <composer>J. Peter Robinson</composer>
+    </credits>
+    <date>1999</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Fantasy</category>
+    <icon src="https://content.internetvideoarchive.com/content/photos/816/034292_2.jpg" />
+    <episode-num system="onscreen">S1</episode-num>
+    <episode-num system="onscreen">1 E13</episode-num>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20221117130000 +0000" stop="20221117140000 +0000" channel="TNT EAST">
+    <title lang="en">Charmed</title>
+    <sub-title lang="en">Secrets and Guys</sub-title>
+    <desc lang="en">When a boy (David Netter) with powers is kidnapped by two thugs who plan to use him in a robbery, the sisters get a message that he needs help. But they don't know who or where he is. Meanwhile, Leo returns for a visit and accidentally reveals his true identity to Phoebe. (repeat).(n)</desc>
+    <credits>
+      <director>John T. Kretchmer</director>
+      <director>James L. Conway</director>
+      <actor role="Piper Halliwell">Holly Marie Combs</actor>
+      <actor role="Phoebe Halliwell">Alyssa Milano</actor>
+      <actor role="Darryl">Dorian Gregory</actor>
+      <actor role="Prue Halliwell">Shannen Doherty</actor>
+      <writer>Constance M. Burge</writer>
+      <producer>Jon Paré</producer>
+      <composer>J. Peter Robinson</composer>
+    </credits>
+    <date>1999</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Fantasy</category>
+    <icon src="https://content.internetvideoarchive.com/content/photos/816/034292_2.jpg" />
+    <episode-num system="onscreen">S1</episode-num>
+    <episode-num system="onscreen">1 E14</episode-num>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20221117140000 +0000" stop="20221117150000 +0000" channel="TNT EAST">
+    <title lang="en">Charmed</title>
+    <sub-title lang="en">Is There a Woogy in the House?</sub-title>
+    <desc lang="en">When Phoebe (Alyssa Milano) is forced to conquer her fear of the "woogyman" and help a handyman in the basement, she meets an evil force that makes her turn on her sisters. Josh: Shawn Christian. Prof. Whittlesey: Nancy Moonves. Gas Man: Richard McGonagle. (repeat).(n)</desc>
+    <credits>
+      <director>John T. Kretchmer</director>
+      <director>James L. Conway</director>
+      <actor role="Piper Halliwell">Holly Marie Combs</actor>
+      <actor role="Phoebe Halliwell">Alyssa Milano</actor>
+      <actor role="Darryl">Dorian Gregory</actor>
+      <actor role="Prue Halliwell">Shannen Doherty</actor>
+      <writer>Constance M. Burge</writer>
+      <producer>Jon Paré</producer>
+      <composer>J. Peter Robinson</composer>
+    </credits>
+    <date>1998</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Fantasy</category>
+    <icon src="https://content.internetvideoarchive.com/content/photos/816/034292_2.jpg" />
+    <episode-num system="onscreen">S1</episode-num>
+    <episode-num system="onscreen">1 E15</episode-num>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20221117150000 +0000" stop="20221117160000 +0000" channel="TNT EAST">
+    <title lang="en">NCIS: New Orleans</title>
+    <sub-title lang="en">Convicted</sub-title>
+    <desc lang="en">Eddie Barrett provides an alibi witness. Now, Pride and the team are more determined than ever to find a break in the case and avenge Lasalle's murder. (repeat).(n)</desc>
+    <credits>
+      <director>Gary Glasberg</director>
+      <director>James Hayman</director>
+      <actor role="Dwayne Pride">Scott Bakula</actor>
+      <actor role="Christopher LaSalle">Lucas Black</actor>
+      <actor role="Dr. Loretta Wade">CCH Pounder</actor>
+      <actor role="NCIS Special Agent Hannah Khoury">Necar Zadegan</actor>
+      <actor role="Sebastian Lund">Rob Kerkovich</actor>
+      <actor role="Patton Plame">Daryl 'Chill' Mitchell</actor>
+      <writer>Greta Heinemann</writer>
+      <producer>Jeffrey Lieber</producer>
+      <composer>Tree Adams</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Action &amp; Adventure</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/9768/009768/009768_1280x720_899914_024.jpg" />
+    <episode-num system="onscreen">S6 E9</episode-num>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20221117160000 +0000" stop="20221117170000 +0000" channel="TNT EAST">
+    <title lang="en">NCIS: New Orleans</title>
+    <sub-title lang="en">Requital</sub-title>
+    <desc lang="en">Pride is cut off from the team and backed into a corner after the investigation into Eddie Barrett uncovers a malicious plot. (repeat).(n)</desc>
+    <credits>
+      <director>Gary Glasberg</director>
+      <director>James Hayman</director>
+      <actor role="Dwayne Pride">Scott Bakula</actor>
+      <actor role="Christopher LaSalle">Lucas Black</actor>
+      <actor role="Dr. Loretta Wade">CCH Pounder</actor>
+      <actor role="NCIS Special Agent Hannah Khoury">Necar Zadegan</actor>
+      <actor role="Sebastian Lund">Rob Kerkovich</actor>
+      <actor role="Patton Plame">Daryl 'Chill' Mitchell</actor>
+      <writer>Greta Heinemann</writer>
+      <producer>Jeffrey Lieber</producer>
+      <composer>Tree Adams</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Action &amp; Adventure</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/9768/009768/009768_1280x720_899914_024.jpg" />
+    <episode-num system="onscreen">S6 E10</episode-num>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20221117170000 +0000" stop="20221117180000 +0000" channel="TNT EAST">
+    <title lang="en">NCIS: New Orleans</title>
+    <sub-title lang="en">Bad Moon Rising</sub-title>
+    <desc lang="en">The team is concerned when Sebastian becomes unreachable while undercover as a new recruit. (repeat).(n)</desc>
+    <credits>
+      <director>Gary Glasberg</director>
+      <director>James Hayman</director>
+      <actor role="Dwayne Pride">Scott Bakula</actor>
+      <actor role="Christopher LaSalle">Lucas Black</actor>
+      <actor role="Dr. Loretta Wade">CCH Pounder</actor>
+      <actor role="NCIS Special Agent Hannah Khoury">Necar Zadegan</actor>
+      <actor role="Sebastian Lund">Rob Kerkovich</actor>
+      <actor role="Patton Plame">Daryl 'Chill' Mitchell</actor>
+      <writer>Greta Heinemann</writer>
+      <producer>Jeffrey Lieber</producer>
+      <composer>Tree Adams</composer>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Action &amp; Adventure</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/9768/009768/009768_1280x720_899914_024.jpg" />
+    <episode-num system="onscreen">S6 E11</episode-num>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20221117180000 +0000" stop="20221117190000 +0000" channel="TNT EAST">
+    <title lang="en">NCIS: New Orleans</title>
+    <sub-title lang="en">Waiting for Monroe</sub-title>
+    <desc lang="en">The team must track down a mysterious female assassin responsible for murders in Athens, Rome and London. Also, Wade's son begs her to allow him to go on a police ride-along for an article he's writing on a youth outreach program at the NOPD. (repeat).(n)</desc>
+    <credits>
+      <director>Gary Glasberg</director>
+      <director>James Hayman</director>
+      <actor role="Dwayne Pride">Scott Bakula</actor>
+      <actor role="Christopher LaSalle">Lucas Black</actor>
+      <actor role="Dr. Loretta Wade">CCH Pounder</actor>
+      <actor role="NCIS Special Agent Hannah Khoury">Necar Zadegan</actor>
+      <actor role="Sebastian Lund">Rob Kerkovich</actor>
+      <actor role="Patton Plame">Daryl 'Chill' Mitchell</actor>
+      <writer>Greta Heinemann</writer>
+      <producer>Jeffrey Lieber</producer>
+      <composer>Tree Adams</composer>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Action &amp; Adventure</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/9768/009768/009768_1280x720_899914_024.jpg" />
+    <episode-num system="onscreen">S6 E12</episode-num>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20221117190000 +0000" stop="20221117210000 +0000" channel="TNT EAST">
+    <title lang="en">Life of the Party</title>
+    <desc lang="en">Fresh off a divorce from a 23-year marriage, a mom in her 40s decides to finally get her degree and joins her daughter at college. There, she enjoys life on campus, crazy parties, and library hookups while coming to terms with her new situation. (repeat).(n)</desc>
+    <credits>
+      <director>Ben Falcone</director>
+      <actor role="Deanna">Melissa McCarthy</actor>
+      <actor role="Helen">Gillian Jacobs</actor>
+      <actor role="Christine">Maya Rudolph</actor>
+      <actor role="Marcie">Julie Bowen</actor>
+      <actor role="Maddie">Molly Gordon</actor>
+      <actor role="Jennifer">Debby Ryan</actor>
+      <actor role="Sandy">Jacki Weaver</actor>
+      <actor role="Dan">Matt Walsh</actor>
+      <producer>Chris Henchy</producer>
+      <composer>Fil Eisler</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/11848/011848/011848_709x532_429211_064.jpg" />
+  </programme>
+  <programme start="20221117210000 +0000" stop="20221117233000 +0000" channel="TNT EAST">
+    <title lang="en">Identity Thief</title>
+    <desc lang="en">A Denver businessman chases an Orlando thief who stole his identity and ruined his credit rating with a huge spending spree. When the local authorities refuse to arrest her, he heads to Orlando to personally capture her in this hysterical comedy. (repeat).(n)</desc>
+    <credits>
+      <director>Seth Gordon</director>
+      <director>Jason Bateman</director>
+      <actor role="Sandy Patterson">Jason Bateman</actor>
+      <actor role="Diana">Melissa McCarthy</actor>
+      <actor role="Harold Cornish">Jon Favreau</actor>
+      <actor role="Jessie Patterson">Maggie Elizabeth Jones</actor>
+      <actor role="Trish Patterson">Amanda Peet</actor>
+      <actor role="Julian">Tip "T.I." Harris</actor>
+      <actor role="Marisol">Genesis Rodriguez</actor>
+      <actor role="Detective Reilly">Morris Chestnut</actor>
+      <writer>Craig Mazin</writer>
+      <producer>Scott Stuber</producer>
+      <composer>Christopher Lennertz</composer>
+    </credits>
     <date>2013</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Action &amp; Adventure</category>
+    <icon src="https://content.internetvideoarchive.com/content/photos/8285/929937_025.jpg" />
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20221117233000 +0000" stop="20221118013000 +0000" channel="TNT EAST">
+    <title lang="en">Game Night</title>
+    <desc lang="en">When a fictional murder-mystery game turns into a real kidnapping, hypercompetitive couple Max and Annie must lead their wacky and wildly unqualified group of game-night friends to rescue Max's brother in this terrific action comedy. (repeat).(n)</desc>
+    <credits>
+      <director>John Francis Daley</director>
+      <director>Jonathan M. Goldstein</director>
+      <actor role="Max">Jason Bateman</actor>
+      <actor role="Annie">Rachel McAdams</actor>
+      <actor role="Ryan">Billy Magnussen</actor>
+      <actor role="Sarah">Sharon Horgan</actor>
+      <actor role="Brooks">Kyle Chandler</actor>
+      <writer>Mark Perez</writer>
+      <producer>John Davis</producer>
+      <composer>Cliff Martinez</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Action &amp; Adventure</category>
+    <icon src="https://content.internetvideoarchive.com/content/photos/11704/266812_008.jpg" />
+  </programme>
+  <programme start="20221118013000 +0000" stop="20221118033000 +0000" channel="TNT EAST">
+    <title lang="en">Elf</title>
+    <desc lang="en">Will Ferrell is utterly charming in this amiable holiday fantasy. He plays Buddy, an overgrown and inept human who was raised by Santa's helpers. He decides to search for his birth father, a publisher in New York City. (repeat).(n)</desc>
+    <credits>
+      <director>Jon Favreau</director>
+      <actor role="Buddy">Will Ferrell</actor>
+      <actor role="Walter">James Caan</actor>
+      <actor role="Papa Elf">Bob Newhart</actor>
+      <actor role="Santa">Edward Asner</actor>
+      <actor role="Emily">Mary Steenburgen</actor>
+      <actor role="Jovie">Zooey Deschanel</actor>
+      <actor role="Michael">Daniel Tay</actor>
+      <actor role="Gimbel's Manager">Faizon Love</actor>
+      <writer>Jon Favreau</writer>
+      <producer>Shauna Weinberg</producer>
+      <composer>John Debney</composer>
+    </credits>
+    <date>2003</date>
+    <category lang="en">Family</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/11582/011582/011582_960x720_779053_092.jpg" />
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20221118033000 +0000" stop="20221118053000 +0000" channel="TNT EAST">
+    <title lang="en">Bad Moms</title>
+    <desc lang="en">Three overstressed, overworked mothers decide to blow off their responsibilities and have some fun in this hysterical comedy, but their wild ways cause them to clash with a rival mommy who's dedicated to preserving the facade of her perfect life. (repeat).(n)</desc>
+    <credits>
+      <director>Jon Lucas</director>
+      <director>Scott Moore</director>
+      <actor role="Amy">Mila Kunis</actor>
+      <actor role="Carla">Kathryn Hahn</actor>
+      <actor role="Kiki">Kristen Bell</actor>
+      <actor role="Gwendolyn">Christina Applegate</actor>
+      <actor role="Stacy">Jada Pinkett Smith</actor>
+      <actor role="Vicky">Annie Mumolo</actor>
+      <actor role="Jane">Oona Laurence</actor>
+      <actor role="Dylan">Emjay Anthony</actor>
+      <writer>Jon Lucas</writer>
+      <producer>Donald Tang</producer>
+      <composer>Christopher Lennertz</composer>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Family</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/11709/011709/011709_960x720_452492_090.jpg" />
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20221118053000 +0000" stop="20221118070000 +0000" channel="TNT EAST">
+    <title lang="en">The Wedding Date</title>
+    <desc lang="en">Debra Messing is absolutely engaging in this smart and witty romantic comedy as a neurotic, single New Yorker who hires a polished male escort (Dermot Mulroney) for her sister's nuptials in England after she learns that the best man is her ex-fiancé. Holland Taylor, Jeremy Sheffield, Amy Adams, Jack Davenport, Peter Egan, Sarah Parish, Jolyon James.(n)</desc>
+    <credits>
+      <director>Clare Kilner</director>
+      <actor role="Kat Ellis">Debra Messing</actor>
+      <actor role="Nick Mercer">Dermot Mulroney</actor>
+      <actor role="Amy">Amy Adams</actor>
+      <actor role="Edward Fletcher-Wooten">Jack Davenport</actor>
+      <actor role="TJ">Sarah Parish</actor>
+      <actor role="Jeffrey">Jeremy Sheffield</actor>
+      <actor role="Victor Ellis">Peter Egan</actor>
+      <actor role="Bunny">Holland Taylor</actor>
+      <writer>Dana Fox</writer>
+      <producer>Scott Niemeyer</producer>
+      <composer>Blake Neely</composer>
+    </credits>
+    <date>2005</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/758/000758/000758_440x330_579205_008.jpg" />
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20221118070000 +0000" stop="20221118080000 +0000" channel="TNT EAST">
+    <title lang="en">NCIS: New Orleans</title>
+    <sub-title lang="en">The Root of All Evil</sub-title>
+    <desc lang="en">The team investigates the murder of a JAG captain who was discovered at home by his daughter, the only heir to his large estate. Also, Sebastian is intimidated when he is put in charge of a team on his first day of Regional Enforcement Action Capabilities Team (REACT) training. (repeat).(n)</desc>
+    <credits>
+      <director>Gary Glasberg</director>
+      <director>James Hayman</director>
+      <actor role="Dwayne Pride">Scott Bakula</actor>
+      <actor role="Christopher LaSalle">Lucas Black</actor>
+      <actor role="Dr. Loretta Wade">CCH Pounder</actor>
+      <actor role="NCIS Special Agent Hannah Khoury">Necar Zadegan</actor>
+      <actor role="Sebastian Lund">Rob Kerkovich</actor>
+      <actor role="Patton Plame">Daryl 'Chill' Mitchell</actor>
+      <writer>Greta Heinemann</writer>
+      <producer>Jeffrey Lieber</producer>
+      <composer>Tree Adams</composer>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Action &amp; Adventure</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/9768/009768/009768_1280x720_899914_024.jpg" />
+    <episode-num system="onscreen">S6 E13</episode-num>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20221118080000 +0000" stop="20221118090000 +0000" channel="TNT EAST">
+    <title lang="en">NCIS: New Orleans</title>
+    <sub-title lang="en">The Man In The Red Suit</sub-title>
+    <desc lang="en">Pride is unable to sleep due to continuing nightmares about the mysterious man in the red suit. He undergoes a specialized treatment to help him figure out the man's identity. Also, an arrogant new officer, Special Agent Quentin Carter, joins the team. (repeat).(n)</desc>
+    <credits>
+      <director>Gary Glasberg</director>
+      <director>James Hayman</director>
+      <actor role="Dwayne Pride">Scott Bakula</actor>
+      <actor role="Christopher LaSalle">Lucas Black</actor>
+      <actor role="Dr. Loretta Wade">CCH Pounder</actor>
+      <actor role="NCIS Special Agent Hannah Khoury">Necar Zadegan</actor>
+      <actor role="Sebastian Lund">Rob Kerkovich</actor>
+      <actor role="Patton Plame">Daryl 'Chill' Mitchell</actor>
+      <writer>Greta Heinemann</writer>
+      <producer>Jeffrey Lieber</producer>
+      <composer>Tree Adams</composer>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Action &amp; Adventure</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/9768/009768/009768_1280x720_899914_024.jpg" />
+    <episode-num system="onscreen">S6 E14</episode-num>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20221118090000 +0000" stop="20221118100000 +0000" channel="TNT EAST">
+    <title lang="en">NCIS: New Orleans</title>
+    <sub-title lang="en">Relentless</sub-title>
+    <desc lang="en">Tammy must protect Rachel, a research-obsessed teenage girl, after her father is shot in their home, while the rest of the team searches for a motive. (repeat).(n)</desc>
+    <credits>
+      <director>Gary Glasberg</director>
+      <director>James Hayman</director>
+      <actor role="Dwayne Pride">Scott Bakula</actor>
+      <actor role="Christopher LaSalle">Lucas Black</actor>
+      <actor role="Dr. Loretta Wade">CCH Pounder</actor>
+      <actor role="NCIS Special Agent Hannah Khoury">Necar Zadegan</actor>
+      <actor role="Sebastian Lund">Rob Kerkovich</actor>
+      <actor role="Patton Plame">Daryl 'Chill' Mitchell</actor>
+      <writer>Greta Heinemann</writer>
+      <producer>Jeffrey Lieber</producer>
+      <composer>Tree Adams</composer>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Action &amp; Adventure</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/9768/009768/009768_1280x720_899914_024.jpg" />
+    <episode-num system="onscreen">S6 E15</episode-num>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20221118100000 +0000" stop="20221118110000 +0000" channel="TNT EAST">
+    <title lang="en">NCIS: New Orleans</title>
+    <sub-title lang="en">Pride and Prejudice</sub-title>
+    <desc lang="en">A man impersonating Lasalle attempts to free a young woman from jail. The team investigates both the imposter and the prisoner. Also, Pride's daughter pays him a surprise visit. (repeat).(n)</desc>
+    <credits>
+      <director>Gary Glasberg</director>
+      <director>James Hayman</director>
+      <actor role="Dwayne Pride">Scott Bakula</actor>
+      <actor role="Christopher LaSalle">Lucas Black</actor>
+      <actor role="Dr. Loretta Wade">CCH Pounder</actor>
+      <actor role="NCIS Special Agent Hannah Khoury">Necar Zadegan</actor>
+      <actor role="Sebastian Lund">Rob Kerkovich</actor>
+      <actor role="Patton Plame">Daryl 'Chill' Mitchell</actor>
+      <writer>Greta Heinemann</writer>
+      <producer>Jeffrey Lieber</producer>
+      <composer>Tree Adams</composer>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Action &amp; Adventure</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/9768/009768/009768_1280x720_899914_024.jpg" />
+    <episode-num system="onscreen">S6 E16</episode-num>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20221118110000 +0000" stop="20221118120000 +0000" channel="TNT EAST">
+    <title lang="en">Charmed</title>
+    <sub-title lang="en">Which Prue Is It, Anyway?</sub-title>
+    <desc lang="en">Prue is hunted by a magical warrior (Alex McArthur) who needs the powers of a witch in order to regain his own, so she casts a spell to triple her strength---but it results in two Prue clones, not increased power. Helena: Shannon Sturges. Earl: Bernie Kopell. (repeat).(n)</desc>
+    <credits>
+      <director>John T. Kretchmer</director>
+      <director>James L. Conway</director>
+      <actor role="Piper Halliwell">Holly Marie Combs</actor>
+      <actor role="Phoebe Halliwell">Alyssa Milano</actor>
+      <actor role="Darryl">Dorian Gregory</actor>
+      <actor role="Prue Halliwell">Shannen Doherty</actor>
+      <writer>Constance M. Burge</writer>
+      <producer>Jon Paré</producer>
+      <composer>J. Peter Robinson</composer>
+    </credits>
+    <date>1998</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Fantasy</category>
+    <icon src="https://content.internetvideoarchive.com/content/photos/816/034292_2.jpg" />
+    <episode-num system="onscreen">S1</episode-num>
+    <episode-num system="onscreen">1 E16</episode-num>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20221118120000 +0000" stop="20221118130000 +0000" channel="TNT EAST">
+    <title lang="en">Charmed</title>
+    <sub-title lang="en">That 70's Episode</sub-title>
+    <desc lang="en">The sisters travel back to the 1970s to prevent their mom (Finola Hughes) from making a pact with a warlock (Andrew Jackson) that makes him immune to their powers. Unfortunately, their mom---who's pregnant with Phoebe---and grandmother think the ladies are warlocks. (repeat).(n)</desc>
+    <credits>
+      <director>John T. Kretchmer</director>
+      <director>James L. Conway</director>
+      <actor role="Piper Halliwell">Holly Marie Combs</actor>
+      <actor role="Phoebe Halliwell">Alyssa Milano</actor>
+      <actor role="Darryl">Dorian Gregory</actor>
+      <actor role="Prue Halliwell">Shannen Doherty</actor>
+      <writer>Constance M. Burge</writer>
+      <producer>Jon Paré</producer>
+      <composer>J. Peter Robinson</composer>
+    </credits>
+    <date>1998</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Fantasy</category>
+    <icon src="https://content.internetvideoarchive.com/content/photos/816/034292_2.jpg" />
+    <episode-num system="onscreen">S1</episode-num>
+    <episode-num system="onscreen">1 E17</episode-num>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20221118130000 +0000" stop="20221118140000 +0000" channel="TNT EAST">
+    <title lang="en">Charmed</title>
+    <sub-title lang="en">When Bad Warlocks Go Good</sub-title>
+    <desc lang="en">Prue (Shannen Doherty) must help a man escape from his evil, sorcerous family, as well as his own dark nature. Phoebe: Alyssa Milano. Piper: Holly Marie Combs. (repeat).(n)</desc>
+    <credits>
+      <director>John T. Kretchmer</director>
+      <director>James L. Conway</director>
+      <actor role="Piper Halliwell">Holly Marie Combs</actor>
+      <actor role="Phoebe Halliwell">Alyssa Milano</actor>
+      <actor role="Darryl">Dorian Gregory</actor>
+      <actor role="Prue Halliwell">Shannen Doherty</actor>
+      <writer>Constance M. Burge</writer>
+      <producer>Jon Paré</producer>
+      <composer>J. Peter Robinson</composer>
+    </credits>
+    <date>1999</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Fantasy</category>
+    <icon src="https://content.internetvideoarchive.com/content/photos/816/034292_2.jpg" />
+    <episode-num system="onscreen">S1</episode-num>
+    <episode-num system="onscreen">1 E18</episode-num>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20221118140000 +0000" stop="20221118150000 +0000" channel="TNT EAST">
+    <title lang="en">Charmed</title>
+    <sub-title lang="en">Blind Sided</sub-title>
+    <desc lang="en">Prue (Shannen Doherty), Piper, and Phoebe must save two boys who have been kidnapped by sight-stealing demons. Piper: Holly Marie Combs. Phoebe: Alyssa Milano. (repeat).(n)</desc>
+    <credits>
+      <director>John T. Kretchmer</director>
+      <director>James L. Conway</director>
+      <actor role="Piper Halliwell">Holly Marie Combs</actor>
+      <actor role="Phoebe Halliwell">Alyssa Milano</actor>
+      <actor role="Darryl">Dorian Gregory</actor>
+      <actor role="Prue Halliwell">Shannen Doherty</actor>
+      <writer>Constance M. Burge</writer>
+      <producer>Jon Paré</producer>
+      <composer>J. Peter Robinson</composer>
+    </credits>
+    <date>1998</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Fantasy</category>
+    <icon src="https://content.internetvideoarchive.com/content/photos/816/034292_2.jpg" />
+    <episode-num system="onscreen">S1</episode-num>
+    <episode-num system="onscreen">1 E19</episode-num>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20221118150000 +0000" stop="20221118160000 +0000" channel="TNT EAST">
+    <title lang="en">Charmed</title>
+    <sub-title lang="en">Power of Two</sub-title>
+    <desc lang="en">Prue (Shannen Doherty) and Phoebe must contend with an evil ghost looking for revenge against the people who executed him. Phoebe: Alyssa Milano. Piper: Holly Marie Combs. (repeat).(n)</desc>
+    <credits>
+      <director>John T. Kretchmer</director>
+      <director>James L. Conway</director>
+      <actor role="Piper Halliwell">Holly Marie Combs</actor>
+      <actor role="Phoebe Halliwell">Alyssa Milano</actor>
+      <actor role="Darryl">Dorian Gregory</actor>
+      <actor role="Prue Halliwell">Shannen Doherty</actor>
+      <writer>Constance M. Burge</writer>
+      <producer>Jon Paré</producer>
+      <composer>J. Peter Robinson</composer>
+    </credits>
+    <date>1998</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Fantasy</category>
+    <icon src="https://content.internetvideoarchive.com/content/photos/816/034292_2.jpg" />
+    <episode-num system="onscreen">S1</episode-num>
+    <episode-num system="onscreen">1 E20</episode-num>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20221118160000 +0000" stop="20221118170000 +0000" channel="TNT EAST">
+    <title lang="en">Charmed</title>
+    <sub-title lang="en">Love Hurts</sub-title>
+    <desc lang="en">Piper's old flame Leo (Brian Krause) returns to San Francisco with a plea for Piper's help in protecting an innocent woman from a demonic being that has been chasing them. Daisy: Lisa Robin Kelly. Piper: Holly Marie Combs. (repeat).(n)</desc>
+    <credits>
+      <director>John T. Kretchmer</director>
+      <director>James L. Conway</director>
+      <actor role="Piper Halliwell">Holly Marie Combs</actor>
+      <actor role="Phoebe Halliwell">Alyssa Milano</actor>
+      <actor role="Darryl">Dorian Gregory</actor>
+      <actor role="Prue Halliwell">Shannen Doherty</actor>
+      <writer>Constance M. Burge</writer>
+      <producer>Jon Paré</producer>
+      <composer>J. Peter Robinson</composer>
+    </credits>
+    <date>1999</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Fantasy</category>
+    <icon src="https://content.internetvideoarchive.com/content/photos/816/034292_2.jpg" />
+    <episode-num system="onscreen">S1</episode-num>
+    <episode-num system="onscreen">1 E21</episode-num>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20221118170000 +0000" stop="20221118180000 +0000" channel="TNT EAST">
+    <title lang="en">Charmed</title>
+    <sub-title lang="en">Deja Vu All Over Again</sub-title>
+    <desc lang="en">The sisters are forced to relive the same day over and over again by a demon known as Tempus, the Devil's Sorcerer (David Carradine). Only their death will end the dangerous time loop. Trudeau: T.W. King. Phoebe: Alyssa Milano. Piper: Holly Marie Combs. Prue: Shannen Doherty. (repeat).(n)</desc>
+    <credits>
+      <director>John T. Kretchmer</director>
+      <director>James L. Conway</director>
+      <actor role="Piper Halliwell">Holly Marie Combs</actor>
+      <actor role="Phoebe Halliwell">Alyssa Milano</actor>
+      <actor role="Darryl">Dorian Gregory</actor>
+      <actor role="Prue Halliwell">Shannen Doherty</actor>
+      <writer>Constance M. Burge</writer>
+      <producer>Jon Paré</producer>
+      <composer>J. Peter Robinson</composer>
+    </credits>
+    <date>1999</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Fantasy</category>
+    <icon src="https://content.internetvideoarchive.com/content/photos/816/034292_2.jpg" />
+    <episode-num system="onscreen">S1</episode-num>
+    <episode-num system="onscreen">1 E22</episode-num>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20221118180000 +0000" stop="20221118190000 +0000" channel="TNT EAST">
+    <title lang="en">Charmed</title>
+    <sub-title lang="en">Witch Trial</sub-title>
+    <desc lang="en">A powerful demon named Abraxas steals the Book of Shadows and resurrects some of the trio's old foes. He also begins to erase spells in the book in an attempt to rob the sisters of their abilities and leave them vulnerable to attack. Dan: Greg Vaughan. Jenny: Karis Paige Bryant. Prue: Shannen Doherty. Phoebe: Alyssa Milano. (repeat).(n)</desc>
+    <credits>
+      <director>John T. Kretchmer</director>
+      <director>James L. Conway</director>
+      <actor role="Piper Halliwell">Holly Marie Combs</actor>
+      <actor role="Phoebe Halliwell">Alyssa Milano</actor>
+      <actor role="Darryl">Dorian Gregory</actor>
+      <actor role="Prue Halliwell">Shannen Doherty</actor>
+      <writer>Constance M. Burge</writer>
+      <producer>Jon Paré</producer>
+      <composer>J. Peter Robinson</composer>
+    </credits>
+    <date>1999</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Fantasy</category>
+    <icon src="https://content.internetvideoarchive.com/content/photos/816/034292_2.jpg" />
+    <episode-num system="onscreen">S2</episode-num>
+    <episode-num system="onscreen">2 E1</episode-num>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20221118190000 +0000" stop="20221118200000 +0000" channel="TNT EAST">
+    <title lang="en">Charmed</title>
+    <sub-title lang="en">Morality Bites</sub-title>
+    <desc lang="en">Phoebe has a vivid premonition foretelling her own death---burned at the stake for killing a man with her powers---in the year 2009. To prevent her execution, the sisters travel to the future, where they discover their powers have evolved. Leo: Brian Krause. Phoebe: Alyssa Milano. Piper: Holly Marie Combs. Prue: Shannen Doherty. (repeat).(n)</desc>
+    <credits>
+      <director>John T. Kretchmer</director>
+      <director>James L. Conway</director>
+      <actor role="Piper Halliwell">Holly Marie Combs</actor>
+      <actor role="Phoebe Halliwell">Alyssa Milano</actor>
+      <actor role="Darryl">Dorian Gregory</actor>
+      <actor role="Prue Halliwell">Shannen Doherty</actor>
+      <writer>Constance M. Burge</writer>
+      <producer>Jon Paré</producer>
+      <composer>J. Peter Robinson</composer>
+    </credits>
+    <date>1999</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Fantasy</category>
+    <icon src="https://content.internetvideoarchive.com/content/photos/816/034292_2.jpg" />
+    <episode-num system="onscreen">S2</episode-num>
+    <episode-num system="onscreen">2 E2</episode-num>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20221118200000 +0000" stop="20221118210000 +0000" channel="TNT EAST">
+    <title lang="en">Charmed</title>
+    <sub-title lang="en">The Painted World</sub-title>
+    <desc lang="en">Prue discovers that the world of art can be dangerous when she's trapped inside an enchanted painting, along with a warlock who's been imprisoned for 70 years. Meanwhile, Phoebe casts a spell that makes her super intelligent in order to land a job as a research coordinator. Jenny: Karis Paige Bryant. Dan: Greg Vaughan. Prue: Shannen Doherty. (repeat).(n)</desc>
+    <credits>
+      <director>John T. Kretchmer</director>
+      <director>James L. Conway</director>
+      <actor role="Piper Halliwell">Holly Marie Combs</actor>
+      <actor role="Phoebe Halliwell">Alyssa Milano</actor>
+      <actor role="Darryl">Dorian Gregory</actor>
+      <actor role="Prue Halliwell">Shannen Doherty</actor>
+      <writer>Constance M. Burge</writer>
+      <producer>Jon Paré</producer>
+      <composer>J. Peter Robinson</composer>
+    </credits>
+    <date>1999</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Fantasy</category>
+    <icon src="https://content.internetvideoarchive.com/content/photos/816/034292_2.jpg" />
+    <episode-num system="onscreen">S2</episode-num>
+    <episode-num system="onscreen">2 E4</episode-num>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20221118210000 +0000" stop="20221118230000 +0000" channel="TNT EAST">
+    <title lang="en">Bad Moms</title>
+    <desc lang="en">Three overstressed, overworked mothers decide to blow off their responsibilities and have some fun in this hysterical comedy, but their wild ways cause them to clash with a rival mommy who's dedicated to preserving the facade of her perfect life. (repeat).(n)</desc>
+    <credits>
+      <director>Jon Lucas</director>
+      <director>Scott Moore</director>
+      <actor role="Amy">Mila Kunis</actor>
+      <actor role="Carla">Kathryn Hahn</actor>
+      <actor role="Kiki">Kristen Bell</actor>
+      <actor role="Gwendolyn">Christina Applegate</actor>
+      <actor role="Stacy">Jada Pinkett Smith</actor>
+      <actor role="Vicky">Annie Mumolo</actor>
+      <actor role="Jane">Oona Laurence</actor>
+      <actor role="Dylan">Emjay Anthony</actor>
+      <writer>Jon Lucas</writer>
+      <producer>Donald Tang</producer>
+      <composer>Christopher Lennertz</composer>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Family</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/11709/011709/011709_960x720_452492_090.jpg" />
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20221118230000 +0000" stop="20221119010000 +0000" channel="TNT EAST">
+    <title lang="en">Four Christmases</title>
+    <desc lang="en">When their annual vacation getaway falls through, a happily unmarried couple are forced to spend Christmas with the families of their four divorced parents on the same day. Reese Witherspoon and Vince Vaughn star in this warm and hilarious holiday tale. Robert Duvall, Jon Favreau, Mary Steenburgen, Dwight Yoakam. Directed by Seth Gordon. (repeat).(n)</desc>
+    <credits>
+      <director>Seth Gordon</director>
+      <actor role="Brad">Vince Vaughn</actor>
+      <actor role="Kate">Reese Witherspoon</actor>
+      <actor role="Howard">Robert Duvall</actor>
+      <actor role="Paula">Sissy Spacek</actor>
+      <actor role="Creighton">Jon Voight</actor>
+      <actor role="Denver">Jon Favreau</actor>
+      <actor role="Marilyn">Mary Steenburgen</actor>
+      <actor role="Pastor Phil">Dwight Yoakam</actor>
+      <writer>Matt Allen</writer>
+      <producer>Vince Vaughn</producer>
+      <composer>Alex Wurman</composer>
+    </credits>
+    <date>2008</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://content.internetvideoarchive.com/content/photos/11624/820852_095.jpg" />
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
   </programme>
   <programme start="20221116220000 +0000" stop="20221116230000 +0000" channel="Televisión Dominicana">
     <title lang="en">A Través Del Tiempo</title>
@@ -482,13 +1465,6 @@
     <title lang="en">LIDOM (live)</title>
     <desc lang="en">Gigantes del Cibao vs. Estrellas Orientales.(n)</desc>
     <date>2015</date>
-  </programme>
-  <programme start="20221116210000 +0000" stop="20221116220000 +0000" channel="Univisión tlnovelas">
-    <title lang="en">Volver a empezar</title>
-    <desc lang="en">Se centra en los personajes Reni y Chayanne--- ella enamorada de él, él prometido a otra--- en el mundo de la empresa musical.(n)</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
   </programme>
   <programme start="20221116220000 +0000" stop="20221116230000 +0000" channel="Univisión tlnovelas">
     <title lang="en">Así Son Ellas</title>
@@ -768,7 +1744,7 @@
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20221116150000 +0000" stop="20221116190000 +0000" channel="Vevo Pop">
+  <programme start="20221116150000 +0000" stop="20221116200000 +0000" channel="Vevo Pop">
     <title lang="en">Vevo Pop</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
@@ -776,13 +1752,6 @@
     <rating>
       <value>No Rating</value>
     </rating>
-  </programme>
-  <programme start="20221116190000 +0000" stop="20221116200000 +0000" channel="Vevo Pop">
-    <title lang="en">Battle of the Best</title>
-    <desc lang="en">Whether they're friends or foes there's one thing that's for sure, these divas collaborations are iconic.(n)</desc>
-    <category lang="en">Music</category>
-    <category lang="en">Pop</category>
-    <icon src="https://images.pluto.tv/episodes/63742110259abd0013f3ab2f/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
   <programme start="20221116200000 +0000" stop="20221116210000 +0000" channel="Vevo Pop">
     <title lang="en">Best of Selena Gomez</title>
@@ -1095,7 +2064,7 @@
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20221116150000 +0000" stop="20221116190000 +0000" channel="Vevo Reggaetón &amp; Trap">
+  <programme start="20221116150000 +0000" stop="20221116200000 +0000" channel="Vevo Reggaetón &amp; Trap">
     <title lang="en">Vevo Reggaeton &amp; Trap</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
@@ -1103,13 +2072,6 @@
     <rating>
       <value>No Rating</value>
     </rating>
-  </programme>
-  <programme start="20221116190000 +0000" stop="20221116200000 +0000" channel="Vevo Reggaetón &amp; Trap">
-    <title lang="en">Rebeldes</title>
-    <desc lang="en">Women of the urban movement who aren't afraid to break all of the rules.(n)</desc>
-    <category lang="en">Music</category>
-    <category lang="en">Dance &amp; Party</category>
-    <icon src="https://images.pluto.tv/episodes/63596ee66089a700137185f4/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
   <programme start="20221116200000 +0000" stop="20221116220000 +0000" channel="Vevo Reggaetón &amp; Trap">
     <title lang="en">Dale ReWIND</title>
@@ -1248,7 +2210,7 @@
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20221116150000 +0000" stop="20221116190000 +0000" channel="Vevo Latino">
+  <programme start="20221116150000 +0000" stop="20221116200000 +0000" channel="Vevo Latino">
     <title lang="en">Vevo Latino</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
@@ -1256,13 +2218,6 @@
     <rating>
       <value>No Rating</value>
     </rating>
-  </programme>
-  <programme start="20221116190000 +0000" stop="20221116200000 +0000" channel="Vevo Latino">
-    <title lang="en">Live Hits</title>
-    <desc lang="en">Your favorite artists, straight from the stage.(n)</desc>
-    <category lang="en">Music</category>
-    <category lang="en">Latino</category>
-    <icon src="https://images.pluto.tv/episodes/6362cc5236d64a0014544a25/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
   <programme start="20221116200000 +0000" stop="20221116210000 +0000" channel="Vevo Latino">
     <title lang="en">My Latin Videos</title>
@@ -1727,11 +2682,6 @@
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20221116210000 +0000" stop="20221116220000 +0000" channel="Azteca America">
-    <title lang="en">Mujeres rompiendo el silencio</title>
-    <desc lang="en">Serie televisiva que suple a "Lo que callamos las mujeres" y que se enfoca a mujeres que trabajan de una manera distinta y que están totalmente compenetradas tanto en el liderazgo como en las redes sociales.(n)</desc>
-    <date>2017</date>
-  </programme>
   <programme start="20221116220000 +0000" stop="20221116230000 +0000" channel="Azteca America">
     <title lang="en">El Palenque</title>
     <desc lang="en">Un programa de entrevistas ágil, entretenido y con sorpresas.(n)</desc>
@@ -1980,11 +2930,6 @@
     <date>1995</date>
     <premiere />
   </programme>
-  <programme start="20221116210000 +0000" stop="20221116220000 +0000" channel="Azteca Uno">
-    <title lang="en">Escape perfecto</title>
-    <desc lang="en">Programa de concursos.(n)</desc>
-    <date>2015</date>
-  </programme>
   <programme start="20221116220000 +0000" stop="20221116233000 +0000" channel="Azteca Uno">
     <title lang="en">Al Extremo</title>
     <desc lang="en">Un magazine con las imágenes más impactantes e historias que otros no se atreven a contar.(n)</desc>
@@ -2210,20 +3155,6 @@
   <programme start="20221118233000 +0000" stop="20221119013000 +0000" channel="Azteca Uno">
     <title lang="en">Acércate a Rocío</title>
     <desc lang="en">Hablar de los problemas es el primer paso para superarlos, por eso, Rocío trae un programa único para hablar de todo lo que preocupa y, en conjunto, encontrar una solución.(n)</desc>
-  </programme>
-  <programme start="20221116210000 +0000" stop="20221116214500 +0000" channel="UNIVERSAL REALITY">
-    <title lang="en">Top Chef</title>
-    <desc lang="en">Y luego hubo cuatro: los concursantes restantes se dirigen al valle de Napa para competir en el penúltimo desafío que determinará quién llega a la ronda final y quién se llevará a casa el título de Top Chef.(n)</desc>
-    <date>2022</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221116214500 +0000" stop="20221116221000 +0000" channel="UNIVERSAL REALITY">
-    <title lang="en">La familia Chrisley</title>
-    <sub-title lang="en">Amor de cachorros</sub-title>
-    <desc lang="en">Chase lucha por disculparse con Emmy,.(n)</desc>
-    <date>2022</date>
   </programme>
   <programme start="20221116221000 +0000" stop="20221116223000 +0000" channel="UNIVERSAL REALITY">
     <title lang="en">La familia Chrisley</title>
@@ -3193,22 +4124,6 @@
     <desc lang="en">Aileen Wuornos, una trabajadora sexual callejera,.(n)</desc>
     <date>2022</date>
   </programme>
-  <programme start="20221116212500 +0000" stop="20221116215000 +0000" channel="UNIVERSAL COMEDY">
-    <title lang="en">30 Rock</title>
-    <desc lang="en">El actor que interpreta a Jack en su película para television se sumerge en su personaje,.(n)</desc>
-    <date>2016</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221116215000 +0000" stop="20221116221500 +0000" channel="UNIVERSAL COMEDY">
-    <title lang="en">30 Rock</title>
-    <desc lang="en">Jack lucha para obtener la inspiración para expandir el imperio de Kabletown. Por su parte,.(n)</desc>
-    <date>2015</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20221116221500 +0000" stop="20221116224000 +0000" channel="UNIVERSAL COMEDY">
     <title lang="en">AP Bio</title>
     <sub-title lang="en">Empapando a Dallas</sub-title>
@@ -3911,14 +4826,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20221116195000 +0000" stop="20221116215000 +0000" channel="UNIVERSAL CINEMA">
-    <title lang="en">El libro de los secretos</title>
-    <desc lang="en">En un futuro no muy lejano, unos 30 años después de la guerra final, un hombre solitario camina sobre la desolada tierra que una vez fue los Estados Unidos. Todo a su alrededor denota la catástrofe de la destrucción total. No existe civilización ni ley. Las carreteras están en manos de pandillas que matarían por un par de zapatos o una pizca de agua, o sin razón alguna...(n)</desc>
-    <date>2009</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20221116215000 +0000" stop="20221117000500 +0000" channel="UNIVERSAL CINEMA">
     <title lang="en">El ataque</title>
     <desc lang="en">Cale es rechazado para ser parte del Servicio Secreto de protección del presidente James Sawyer. Antes de decepcionar a su hija con la noticia, Cale la lleva a un recorrido por la Casa Blanca, mientras esto sucede el edificio es objetivo de un ataque por parte de paramilitares fuertemente armado. El gobierno está en caos. No hay mucho tiempo, y depende de Cale salvar al presidente, a su hija y al país.(n)</desc>
@@ -4159,14 +5066,6 @@
     <title lang="en">La Guerra de los Mundos</title>
     <desc lang="en">En esta versión moderna del clásico de ciencia ficción de H.G. Wells, la humanidad es puesta en ruinas cuando una raza de súper extraterrestres invade a la Tierra.(n)</desc>
     <date>2005</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221116211500 +0000" stop="20221116220000 +0000" channel="UNIVERSAL PREMIERE">
-    <title lang="en">Suits: La clave del éxito</title>
-    <desc lang="en">A medida que el tiempo se agota antes del juicio, Mike quiere representarse a sí mismo, mientras que Harvey prefiere comandar la defensa. Para decidir la cuestión, Harvey desafía a Mike a un enfrentamiento a todo o nada.(n)</desc>
-    <date>2016</date>
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
@@ -4685,11 +5584,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221116202200 +0000" stop="20221116220700 +0000" channel="HBO MUNDI">
-    <title lang="en">La Verónica</title>
-    <desc lang="en">Verónica, una modelo muy popular en las redes sociales,.(n)</desc>
-    <date>2015</date>
-  </programme>
   <programme start="20221116220700 +0000" stop="20221116235700 +0000" channel="HBO MUNDI">
     <title lang="en">Mala Educación</title>
     <desc lang="en">Hugh Jackman interpreta a Frank Tassone, el superintendente de una escuela envuelto en un escándalo por fraude, en este filme que recrea el caso de lavado de dinero que revolucionó a la ciudad de Long Island a principios del milenio.(n)</desc>
@@ -5047,14 +5941,6 @@
     <date>2011</date>
     <rating system="MPAA">
       <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221116211500 +0000" stop="20221116221500 +0000" channel="HBO SIGNATURE">
-    <title lang="en">True Detective</title>
-    <desc lang="en">El drama criminal continúa con los policías dañados Velcoro, Bezzerides y Woodrugh que luchan para mantener el caso directamente a la cara de la corrupción y los políticos corruptos.(n)</desc>
-    <date>2015</date>
-    <rating system="MPAA">
-      <value>TV-MA</value>
     </rating>
   </programme>
   <programme start="20221116221500 +0000" stop="20221116231900 +0000" channel="HBO SIGNATURE">
@@ -6121,11 +7007,6 @@
     <desc lang="en">Arturo es un joven que vive sin reglas y lidera una pandilla, que se mueve por las calles de Londonium, la actual Londres. Pero un día, saca de la piedra la espada Excálibur y su vida cambia radicalmente. Y quiera o no, tendrá que aceptar su legado.(n)</desc>
     <date>2017</date>
   </programme>
-  <programme start="20221116211100 +0000" stop="20221116220100 +0000" channel="HBO Latino (West)">
-    <title lang="en">Vale dos Esquecidos</title>
-    <desc lang="en">Bento y Bruna buscan a Alma. Iasmim es expulsada de la casa grande.(n)</desc>
-    <date>2022</date>
-  </programme>
   <programme start="20221116220100 +0000" stop="20221116235000 +0000" channel="HBO Latino (West)">
     <title lang="en">Maligno</title>
     <desc lang="en">Madison descubre que sus sueños son, en verdad, realidades aterradoras.(n)</desc>
@@ -6585,14 +7466,6 @@
   </programme>
   <programme start="20221118230000 +0000" stop="20221119000000 +0000" channel="Imagen TV">
     <title lang="en">Asuntos de familia</title>
-  </programme>
-  <programme start="20221116193600 +0000" stop="20221116221500 +0000" channel="HBO 2!">
-    <title lang="en">Batman vs. Superman: El origen de la justicia</title>
-    <desc lang="en">Batman y Superman nunca se han llevado bien, es difícil compartir liderazgo. El primero está convencido de que Superman constituye hoy en día una amenaza para la sociedad y está decidido a enfrentarse a él. Pero todo se complica cuando un nuevo villano de inigualables poderes entra en escena.(n)</desc>
-    <date>2016</date>
-    <rating system="MPAA">
-      <value>13</value>
-    </rating>
   </programme>
   <programme start="20221116221500 +0000" stop="20221117001100 +0000" channel="HBO 2!">
     <title lang="en">Geo Tormenta</title>
@@ -7129,11 +8002,6 @@
     <title lang="en">24 Horas Central</title>
     <desc lang="en">Noticiero central, con despachos en directo y corresponsalías en todo el mundo.(n)</desc>
   </programme>
-  <programme start="20221116210000 +0000" stop="20221116220000 +0000" channel="Canal Uno (COL)">
-    <title lang="en">Historias de la Virgen Morena</title>
-    <desc lang="en">Los personajes atraviesan grandes dificultades y acuden a Nuestra Señora de Guadalupe.(n)</desc>
-    <date>2012</date>
-  </programme>
   <programme start="20221116220000 +0000" stop="20221116230000 +0000" channel="Canal Uno (COL)">
     <title lang="en">Caso Cerrado: Edición Estelar</title>
     <desc lang="en">Los hechos más contradictorios y las disputas más increíbles, en horario estelar. La Doctora Ana María Polo estrena su sala de debate con una serie de casos intensos, contradictorios, violentos, curiosos y hasta graciosos. Ella deberá conservar su calma para no salirse de las casillas con cada una de las personas que ingresan al estrado.(n)</desc>
@@ -7367,10 +8235,6 @@
     <title lang="en">Guerreros - Especial</title>
     <desc lang="en">Hombres y mujeres se enfrentarán a diario para saber cuál es el sexo más fuerte.(n)</desc>
   </programme>
-  <programme start="20221116213000 +0000" stop="20221116220000 +0000" channel="RCN Nuestra Tele">
-    <title lang="en">¡Tenemos que hablar!</title>
-    <desc lang="en">Las novedades, polémicas y últimas noticias del mundo del espectáculo.(n)</desc>
-  </programme>
   <programme start="20221116220000 +0000" stop="20221116230000 +0000" channel="RCN Nuestra Tele">
     <title lang="en">El despecho</title>
     <desc lang="en">Programa de televisión orientado al entretenimiento de la comunidad, en el cual se presentan los mejores videos de música popular de artistas regionales y nacionales como Darío Gómez, Charrito Negro, Luis Alberto Posada, Chico Jaramillo, Dora...(n)</desc>
@@ -7601,11 +8465,6 @@
     <title lang="en">Trendiando</title>
     <desc lang="en">Un magazine que brinda lo mejor del entretenimiento, las últimas noticias y las nuevas tendencias que prometen cambiarán por completo la forma de pasar las tardes. Además, este ciclo, cuenta con presentadores que, con profesionalismo, carisma y...(n)</desc>
     <date>2015</date>
-  </programme>
-  <programme start="20221116210000 +0000" stop="20221116220000 +0000" channel="RCN Novelas">
-    <title lang="en">Dr. Mata</title>
-    <desc lang="en">El prestigioso y rico abogado Buenaventura Matallana va a la cárcel, pero al salir jura venganza.(n)</desc>
-    <date>2014</date>
   </programme>
   <programme start="20221116220000 +0000" stop="20221116230000 +0000" channel="RCN Novelas">
     <title lang="en">Expedientes</title>
@@ -7875,10 +8734,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221116203000 +0000" stop="20221116220000 +0000" channel="Caracol TV (COL)">
-    <title lang="en">Yusuf</title>
-    <desc lang="en">Un hombre de negocios y una mujer sencilla descubren que están por un niño al que ambos cuidan.(n)</desc>
-  </programme>
   <programme start="20221116220000 +0000" stop="20221116230000 +0000" channel="Caracol TV (COL)">
     <title lang="en">Fábrica de sueños: Los ricos también lloran</title>
     <desc lang="en">Una mujer humilde se muda a una mansión tras salvarle la vida a un rico patriarca.(n)</desc>
@@ -8056,14 +8911,6 @@
   <programme start="20221118230000 +0000" stop="20221119000000 +0000" channel="Caracol TV (COL)">
     <title lang="en">Oye Bonita</title>
     <desc lang="en">Dos cantantes de vallenato se meten en un triángulo amoroso con una mujer bonita en esta telenovela inspirada en la música de Diomedes Díaz.(n)</desc>
-  </programme>
-  <programme start="20221116212000 +0000" stop="20221116220000 +0000" channel="RCN Television">
-    <title lang="en">Mañana es para siempre</title>
-    <desc lang="en">Historia de amor entre personas de clases sociales bastante distintas.(n)</desc>
-    <date>2008</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
   </programme>
   <programme start="20221116220000 +0000" stop="20221117000000 +0000" channel="RCN Television">
     <title lang="en">La Rosa de Guadalupe</title>
@@ -8463,14 +9310,6 @@
     <title lang="en">Chiquito pero peligroso</title>
     <desc lang="en">Se explota el argumento de Educando a Arizona con resultados hilarantes. Los hermanos Wayans cuentan la historia de un hombre que está tan ansioso por ser papá que creerá cualquier cosa, incluyendo la noción de que un ladrón prófugo con cara de bebé es realmente un niño pequeño abandonado. Trayendo al niño a su casa, el orgulloso papá involuntariamente se convierte en cómplice de los crímenes de su nuevo hijo.(n)</desc>
     <date>2006</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221116211000 +0000" stop="20221116220500 +0000" channel="UNIVERSAL TV">
-    <title lang="en">Chicago Fire</title>
-    <desc lang="en">Un problema de control de plagas obliga al equipo del destacamento a alojarse temporariamente en el destacamento 20. Estando todos bajo el mismo techo, Casey y el capitán Delaney no se ponen de acuerdo, mientras Foster, Kidd y Brett temen que la capitana.(n)</desc>
-    <date>2012</date>
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
@@ -8940,28 +9779,6 @@
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
-  </programme>
-  <programme start="20221116213000 +0000" stop="20221116220000 +0000" channel="Kids Street">
-    <title lang="en">Rainbow Ruby</title>
-    <sub-title lang="en">Singing in the Rain; Mail Carrier Mayhem</sub-title>
-    <desc lang="en">Rainbow Ruby becomes a singer and puts on a concert; Thunderbell forgets to mail invitations to his party, so Rainbow Ruby devises a plan to deliver them.(n)</desc>
-    <credits>
-      <director>Taesik Shin</director>
-      <director>Tae-Sik Shin</director>
-      <writer>Carter Crocker</writer>
-      <producer>CJ E&amp;M Corporation</producer>
-      <composer>Jim Latham</composer>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Family</category>
-    <rating system="MPAA">
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20221116220000 +0000" stop="20221116221200 +0000" channel="Kids Street">
-    <title lang="en">The Fox-Badger Family</title>
-    <date>2018</date>
   </programme>
   <programme start="20221116221200 +0000" stop="20221116223000 +0000" channel="Kids Street">
     <title lang="en">The Fox-Badger Family</title>
@@ -11086,9 +11903,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221116213000 +0000" stop="20221116220000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
   <programme start="20221116220000 +0000" stop="20221116223000 +0000" channel="NY1 Noticias">
     <title lang="en">NY1 Noticias</title>
   </programme>
@@ -11386,14 +12200,6 @@
   <programme start="20221118230000 +0000" stop="20221119000000 +0000" channel="NY1 Noticias">
     <title lang="en">Pura Política: Voces de la Ciudad</title>
   </programme>
-  <programme start="20221116210500 +0000" stop="20221116220000 +0000" channel="BitMe">
-    <title lang="en">El Chavo animado</title>
-    <desc lang="en">El profesor Jirafales llega a la vecindad y cae en un hoyo el Chavo le explica que los están cavando para plantar árboles y tener animalitos. El Sr. Barriga les explica a todos los inquilinos que ha decidido vender la vecindad a su amigo Rufino Malacara. Todos se asustan y se preocupan, pero Rufino les asegura que él hará que sus vidas cambien. Le entrega un cheque al Sr. Barriga, y toma posesión de la vecindad.(n)</desc>
-    <date>2006</date>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
   <programme start="20221116220000 +0000" stop="20221116233000 +0000" channel="BitMe">
     <title lang="en">The Dragon Spell</title>
     <desc lang="en">El pequeño Nicky ha decidido que puede conquistar al dragón como lo hizo hace mucho su padre, Tanner, un hombre fuerte famoso. Contra la prohibición de su padre, Nicky ha conseguido meterse en problemas y ahora sólo depende de su coraje, si derrota al dragón resurgente y vuelve a casa del mundo mágico.(n)</desc>
@@ -11669,11 +12475,6 @@
     <title lang="en">Universo Marcial</title>
     <desc lang="en">Lin Dong es un niño de un pequeño pueblo que no es favorecido por su familia. Por casualidad, obtiene un misterioso artefacto que es codiciado por muchos clanes en el mundo marcial. Debido a tal artefacto, Lin Dong es abordado por muchas personas...(n)</desc>
     <date>2018</date>
-  </programme>
-  <programme start="20221116213100 +0000" stop="20221116220100 +0000" channel="Curiosity Stream">
-    <title lang="en">Estas aves están hechas para caminar</title>
-    <desc lang="en">Pocas cosas son más maravillosas que el don de volar. Sin embargo, algunas aves renunciaron a ello.(n)</desc>
-    <date>2021</date>
   </programme>
   <programme start="20221116220100 +0000" stop="20221116230000 +0000" channel="Curiosity Stream">
     <title lang="en">Tsunamis: Frente a una amenaza global</title>
@@ -12055,14 +12856,6 @@
     <title lang="en">Un presente brillante</title>
     <desc lang="en">Descubre una familia de chuchungos, la nutria más pequeña y misteriosa del mundo.(n)</desc>
     <date>2021</date>
-  </programme>
-  <programme start="20221116213000 +0000" stop="20221116220000 +0000" channel="Dreamworks">
-    <title lang="en">Turbo FAST</title>
-    <desc lang="en">Turbo tiene un incidente con un aficionado. El némesis de Turbo, Guy Gagne, está en busca de venganza.(n)</desc>
-    <date>2014</date>
-    <rating system="MPAA">
-      <value>TV-Y7</value>
-    </rating>
   </programme>
   <programme start="20221116220000 +0000" stop="20221116223000 +0000" channel="Dreamworks">
     <title lang="en">Trolls: ¡No pierdas el ritmo!</title>
@@ -12691,9 +13484,7 @@
     </rating>
   </programme>
   <programme start="20221118133000 +0000" stop="20221118140000 +0000" channel="Dreamworks">
-    <title lang="en">Un jefe en pañales: De vuelta a los negocios</title>
-    <desc lang="en">Los Templeton tienen su fin de semana masculino, de modo que Staci y Jimbo deben unirse para salvar la situación y retornarle una frazada a su verdadero propietario.(n)</desc>
-    <date>2018</date>
+    <title lang="en">Un jefe en pañales: De vuelta a los negocios (?)</title>
     <rating system="MPAA">
       <value>TV-Y7</value>
     </rating>
@@ -12853,9 +13644,6 @@
     <rating system="MPAA">
       <value>TV-Y7</value>
     </rating>
-  </programme>
-  <programme start="20221116213000 +0000" stop="20221116221300 +0000" channel="Aplauso">
-    <title lang="en">La Firma</title>
   </programme>
   <programme start="20221116221300 +0000" stop="20221116232600 +0000" channel="Aplauso">
     <title lang="en">Asesinos Del Zodíaco</title>
@@ -13135,12 +13923,6 @@
   </programme>
   <programme start="20221118235600 +0000" stop="20221119003900 +0000" channel="Aplauso">
     <title lang="en">La Firma</title>
-  </programme>
-  <programme start="20221116210000 +0000" stop="20221116220000 +0000" channel="Hogar HGTV">
-    <title lang="en">Desafío de chefs (new)</title>
-    <desc lang="en">Guy Fieri lleva el torneo al siguiente nivel cuando empieza una intensa segunda ronda.(n)</desc>
-    <date>2020</date>
-    <premiere />
   </programme>
   <programme start="20221116220000 +0000" stop="20221116223000 +0000" channel="Hogar HGTV">
     <title lang="en">Derrota a Bobby Flay</title>
@@ -13799,17 +14581,6 @@
     <title lang="en">Guy Fieri entre amigos</title>
     <desc lang="en">Después de disfrutar de una rica comida en el camino,.(n)</desc>
     <date>2018</date>
-  </programme>
-  <programme start="20221116210100 +0000" stop="20221116215900 +0000" channel="Animal Planet!">
-    <title lang="es">Invasores</title>
-    <sub-title lang="es">Vinieron de abajo</sub-title>
-    <desc lang="es">Un sucio vecino convierte un apartamento de ensueño en una pesadilla. Un oso aterroriza a una joven en su vivienda. Una madre soltera lucha contra una plaga de serpientes venenosas.(n)</desc>
-    <date>2017</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/51/13518138_623D5D47E2A495F3.jpg" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
   </programme>
   <programme start="20221116215900 +0000" stop="20221116230000 +0000" channel="Animal Planet!">
     <title lang="es">Solo y en peligro</title>
@@ -16028,15 +16799,6 @@
       <value>+7</value>
     </rating>
   </programme>
-  <programme start="20221116200000 +0000" stop="20221116220000 +0000" channel="UniMás">
-    <title lang="en">Papá A Toda Madre (new)</title>
-    <sub-title lang="en">11-16-2022</sub-title>
-    <date>2017</date>
-    <premiere />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20221116220000 +0000" stop="20221116230000 +0000" channel="UniMás">
     <title lang="en">La Fea Más Bella (new)</title>
     <date>2006</date>
@@ -16434,13 +17196,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221116213000 +0000" stop="20221116220000 +0000" channel="Univision 41">
-    <title lang="en">Una Familia de Diez</title>
-    <date>2007</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
   <programme start="20221116220000 +0000" stop="20221116230000 +0000" channel="Univision 41">
     <title lang="en">Primer Impacto (live)</title>
     <sub-title lang="en">11-16-2022</sub-title>
@@ -16747,11 +17502,6 @@
     <title lang="en">Noticiero Univision (live)</title>
     <sub-title lang="en">11-18-2022</sub-title>
     <date>1979</date>
-  </programme>
-  <programme start="20221116205800 +0000" stop="20221116220000 +0000" channel="Telemundo 47">
-    <title lang="en">Al rojo vivo (new)</title>
-    <desc lang="en">La revista noticiosa que define la agenda de la televisión en español en los Estados Unidos. Se caracteriza por ofrecer, antes que nadie, historias que cautivan al público hispano y por presentarlas en un formato innovador, que resalta el aspecto humano de cada noticia.(n)</desc>
-    <premiere />
   </programme>
   <programme start="20221116220000 +0000" stop="20221116223000 +0000" channel="Telemundo 47">
     <title lang="en">Noticiero Telemundo 47 (new)</title>
@@ -17379,17 +18129,6 @@
     <date>2013</date>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/52/13524777_DFB53EEDA1AA8C03.jpg" />
     <country lang="es">NZL</country>
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20221116212500 +0000" stop="20221116221500 +0000" channel="Love Nature!">
-    <title lang="es">Tierra de primates</title>
-    <sub-title lang="es">Zanzibar's Poison Monkey</sub-title>
-    <desc lang="es">Los primates, como los lémures y los babuinos, demuestran adaptabilidad y resiliencia en su vida cotidiana en la búsqueda de alimento y refugio.(n)</desc>
-    <date>2017</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/82/13821241_6A1CF4CB1EA7F841.jpg" />
-    <episode-num system="onscreen">S1 E8</episode-num>
     <rating system="MJColombia">
       <value>+14</value>
     </rating>
@@ -18255,27 +18994,6 @@
     <title lang="en">Playlist Telehit</title>
     <desc lang="en">Disfruta de la playlist que propone Telehit para bailar al ritmo de lo mejor del urbano.(n)</desc>
     <date>2019</date>
-  </programme>
-  <programme start="20221116214700 +0000" stop="20221116215500 +0000" channel="Discovery Kids!">
-    <title lang="es">Mini Beat Power Rockers</title>
-    <sub-title lang="es">Armonía musical</sub-title>
-    <desc lang="es">Los bebés del coro llegan a la Guardería Arcoíris con una gran sorpresa, una lonchera musical. Los Power Rockers están muy emocionados por comer lo que hay dentro, pero para lograr abrirla deben aprender a armonizar sus voces.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/29/13299607_12B6E3F4188CF845.jpg" />
-    <episode-num system="onscreen">S3 E51</episode-num>
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20221116220000 +0000" stop="20221116221600 +0000" channel="Discovery Kids!">
-    <title lang="es">¡Agente Binky al rescate!</title>
-    <sub-title lang="es">Refugio incógnito</sub-title>
-    <desc lang="es">Binky y sus compañeros tienen la misión de proteger su familia humana de cualquier enemigo alienígena, ya sea un ave, un avión de papel, una silla: todos pueden ser amenazas.(n)</desc>
-    <date>2022</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/51/13517920_3D8E15BA917002CA.jpg" />
-    <episode-num system="onscreen">S3</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
   </programme>
   <programme start="20221116221600 +0000" stop="20221116222800 +0000" channel="Discovery Kids!">
     <title lang="es">Pinocho en la villa encantada</title>
@@ -20255,17 +20973,6 @@
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13005344_526C6DDA4BD429F7.jpg" />
     <rating system="MJColombia">
       <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20221116213000 +0000" stop="20221116220000 +0000" channel="Disney Channel!">
-    <title lang="es">Miraculous: Las aventuras de Ladybug</title>
-    <sub-title lang="es">Horrificadora</sub-title>
-    <desc lang="es">Mylene se niega a seguir como protagonista de la grabación que están haciendo en clase, por lo que Marinette trata de conseguir que vuelva.(n)</desc>
-    <date>2015</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/11/13114158_2DB8CB31E4658D31.jpg" />
-    <episode-num system="onscreen">S1 E11</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
     </rating>
   </programme>
   <programme start="20221116220000 +0000" stop="20221116223000 +0000" channel="Disney Channel!">
