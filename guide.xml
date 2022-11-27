@@ -198,14 +198,6 @@
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523290_AD350A44EE3C7F22.png" />
     <url>http://www.movistar.com.pe</url>
   </channel>
-  <programme start="20221127140000 +0000" stop="20221127150000 +0000" channel="Azteca America">
-    <title lang="en">Historias Engarzadas: Fin de Semana</title>
-    <desc lang="en">Edición del fin de semana de la serie que cuenta la historia de un personaje por entrevistas con sus amigos, conocidos y con la persona misma, por recreaciones de acontecimientos de la vida y por imágenes de archivo.(n)</desc>
-  </programme>
-  <programme start="20221127150000 +0000" stop="20221127160000 +0000" channel="Azteca America">
-    <title lang="en">Historia Detrás del Mito: Fin de Semana</title>
-    <desc lang="en">Dramatizaciones de casos reales y misteriosos aún por resolver.(n)</desc>
-  </programme>
   <programme start="20221127160000 +0000" stop="20221127180000 +0000" channel="Azteca America">
     <title lang="en">Lo Mejor de 'Ventaneando'</title>
     <desc lang="en">Resumen con lo mejor de 'Ventaneando'.(n)</desc>
@@ -380,11 +372,6 @@
     <date>1995</date>
     <premiere />
   </programme>
-  <programme start="20221127140000 +0000" stop="20221127150000 +0000" channel="Azteca Uno">
-    <title lang="en">Hechos domingo</title>
-    <desc lang="en">Un programa periodístico con la información más relevante de la agenda nacional e internacional.(n)</desc>
-    <date>2020</date>
-  </programme>
   <programme start="20221127150000 +0000" stop="20221127170000 +0000" channel="Azteca Uno">
     <title lang="en">Venga la alegria fin de semana</title>
     <desc lang="en">El mejor entretenimiento para el público, con temas de interés personal como cocina,.(n)</desc>
@@ -540,30 +527,6 @@
     <title lang="en">Acércate a Rocío</title>
     <desc lang="en">Hablar de tus problemas es el primer paso para superarlos, por eso Rocío Sánchez Azuara está de regreso con un programa único, en el cual, podrás acercarte, para que con ella, hables de todo lo que te preocupa, y juntas o juntos, puedan encontrar una solución.(n)</desc>
     <date>2021</date>
-  </programme>
-  <programme start="20221127141500 +0000" stop="20221127144000 +0000" channel="UNIVERSAL REALITY">
-    <title lang="en">La familia Chrisley</title>
-    <sub-title lang="en">Día deportivo</sub-title>
-    <desc lang="en">Cada verano,.(n)</desc>
-    <date>2018</date>
-  </programme>
-  <programme start="20221127144000 +0000" stop="20221127150000 +0000" channel="UNIVERSAL REALITY">
-    <title lang="en">La familia Chrisley</title>
-    <sub-title lang="en">Héroe local</sub-title>
-    <desc lang="en">Los Chrisley se dirigen a su casa del lago en Carolina del Sur,.(n)</desc>
-    <date>2018</date>
-  </programme>
-  <programme start="20221127150000 +0000" stop="20221127152500 +0000" channel="UNIVERSAL REALITY">
-    <title lang="en">La familia Chrisley</title>
-    <sub-title lang="en">Los graduados</sub-title>
-    <desc lang="en">Chase y Savannah se acaban de graduar de la escuela secundaria y ya se está preparando la celebración.(n)</desc>
-    <date>2018</date>
-  </programme>
-  <programme start="20221127152500 +0000" stop="20221127155000 +0000" channel="UNIVERSAL REALITY">
-    <title lang="en">La familia Chrisley</title>
-    <sub-title lang="en">Una Navidad muy Chrisley 2</sub-title>
-    <desc lang="en">Una Navidad muy Chrisley,.(n)</desc>
-    <date>2018</date>
   </programme>
   <programme start="20221127155000 +0000" stop="20221127161500 +0000" channel="UNIVERSAL REALITY">
     <title lang="en">La familia Chrisley</title>
@@ -915,18 +878,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221127142000 +0000" stop="20221127150500 +0000" channel="UNIVERSAL CRIME">
-    <title lang="en">Matar me hizo famoso</title>
-    <sub-title lang="en">El destripador de Gainsville</sub-title>
-    <desc lang="en">Asesinato. Violación. Mutilación. Agosto de 1990. Después de 675 sospechosos y miles de pruebas,.(n)</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20221127150500 +0000" stop="20221127155000 +0000" channel="UNIVERSAL CRIME">
-    <title lang="en">Matar me hizo famoso</title>
-    <sub-title lang="en">Scott Peterson</sub-title>
-    <desc lang="en">La desaparición en 2002 de Laci Peterson, de 27 años y embarazada,.(n)</desc>
-    <date>2021</date>
-  </programme>
   <programme start="20221127155000 +0000" stop="20221127163500 +0000" channel="UNIVERSAL CRIME">
     <title lang="en">Parejas asesinas</title>
     <desc lang="en">Mientras investigan la desaparición de dos lugareños de la ciudad,.(n)</desc>
@@ -1209,38 +1160,6 @@
     <sub-title lang="en">Jean Harris</sub-title>
     <desc lang="en">En 1980 el asesinato del médico dietista de Scarsdale, Herman Tarnower, conmociona a la nación.(n)</desc>
     <date>2021</date>
-  </programme>
-  <programme start="20221127141000 +0000" stop="20221127143500 +0000" channel="UNIVERSAL COMEDY">
-    <title lang="en">Maratón Kevin puede esperar</title>
-    <desc lang="en">Vanessa ya está cansada de cocinar para Kevin todos los días; su vecino ya no lo hace.(n)</desc>
-    <date>2018</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221127143500 +0000" stop="20221127150000 +0000" channel="UNIVERSAL COMEDY">
-    <title lang="en">Maratón Kevin puede esperar</title>
-    <desc lang="en">Kevin recurre a su heroica historia, para obtener algo de publicidad para Monkey Fist.(n)</desc>
-    <date>2018</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221127150000 +0000" stop="20221127152500 +0000" channel="UNIVERSAL COMEDY">
-    <title lang="en">Maratón Kevin puede esperar</title>
-    <desc lang="en">Vanessa piensa que no tiene amigos cuando ninguno de sus conocidos viene a cenar en su cumpleaños.(n)</desc>
-    <date>2018</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221127152500 +0000" stop="20221127155000 +0000" channel="UNIVERSAL COMEDY">
-    <title lang="en">Maratón Kevin puede esperar</title>
-    <desc lang="en">Kevin apela a la ciudad para evitar que el lugar de Enzo sea derruido por su nuevo dueño.(n)</desc>
-    <date>2018</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
   </programme>
   <programme start="20221127155000 +0000" stop="20221127161500 +0000" channel="UNIVERSAL COMEDY">
     <title lang="en">Rutherford Falls: Un pueblo sin dueños</title>
@@ -1716,11 +1635,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20221127132500 +0000" stop="20221127150500 +0000" channel="UNIVERSAL CINEMA">
-    <title lang="en">La mentira original</title>
-    <desc lang="en">Divertida comedia de humor negro acerca de un que hombre vive en un mundo alternativo donde nadie miente. Él se convierte en la primera persona en la historia en darse cuenta de que puede ser engañoso, y se hace rico y famoso por poder manipular a todos a su alrededor. Sin embargo, luego de soltar este nuevo fenómeno en el mundo, la sociedad rápidamente se desintegra.(n)</desc>
-    <date>2009</date>
-  </programme>
   <programme start="20221127150500 +0000" stop="20221127164500 +0000" channel="UNIVERSAL CINEMA">
     <title lang="en">Perdidos en Tokio</title>
     <desc lang="en">Bob Harris y Charlotte son dos estadounidenses en Tokio, en momentos cruciales de sus respectivas vidas. Bob es una estrella de cine que ha acudido a rodar un anuncio de whisky y Charlotte ha ido a acompañar a su marido John, un fotógrafo adicto al trabajo.(n)</desc>
@@ -1860,19 +1774,6 @@
     <title lang="en">Born to be blue: La historia de Chet Baker</title>
     <desc lang="en">El músico Chet Baker debe volver a aprender su oficio, después de que sus dientes delanteros son eliminados durante un atraco. A medida que se esfuerza por continuar con su carrera y superar su adicción a la heroína, el recibe el apoyo de su nueva novia, una actriz que fue elegida para interpretar el papel de su amante en una película sobre su vida.(n)</desc>
     <date>2015</date>
-  </programme>
-  <programme start="20221127142000 +0000" stop="20221127150500 +0000" channel="UNIVERSAL PREMIERE">
-    <title lang="en">La Brea</title>
-    <sub-title lang="en">La tormenta</sub-title>
-    <desc lang="en">Cuando una caótica y fuerte tormenta azota el claro,.(n)</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20221127150500 +0000" stop="20221127155500 +0000" channel="UNIVERSAL PREMIERE">
-    <title lang="en">Quantum Leap</title>
-    <date>2022</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
   </programme>
   <programme start="20221127155500 +0000" stop="20221127164500 +0000" channel="UNIVERSAL PREMIERE">
     <title lang="en">Evil</title>
@@ -2161,11 +2062,6 @@
     <desc lang="en">El Cuerpo Especial de Fugitivos busca incansablemente a criminales notorios de la lista de los más buscados del FBI.(n)</desc>
     <date>2022</date>
   </programme>
-  <programme start="20221127141200 +0000" stop="20221127160700 +0000" channel="HBO MUNDI">
-    <title lang="en">Corro da te</title>
-    <desc lang="en">Gianni es un seductor en serie, pero su vida está destinada a cambiar cuando conoce a Chiara,.(n)</desc>
-    <date>2022</date>
-  </programme>
   <programme start="20221127160700 +0000" stop="20221127180000 +0000" channel="HBO MUNDI">
     <title lang="en">Proyecto Florida</title>
     <desc lang="en">Una niña de apenas seis años y sus amigos pasan un verano maravilloso, disfrutando de los días estivales viviendo muchas aventuras alrededor de un pequeño motel. Su inocencia, por el bien de ellos, les impide darse cuenta que sus padres y el resto de adultos que los rodean atraviesan momentos muy difíciles.(n)</desc>
@@ -2266,14 +2162,6 @@
     <title lang="en">Beetlejuice, El superfantasma</title>
     <desc lang="en">Después de fallecer, un matrimonio que ahora existe como una pareja de fantasmas, tiene problemas con los nuevos propietarios de su casa, entonces contratan al infame fantasma Beetlejuice para espantarlos.(n)</desc>
     <date>1988</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221127120200 +0000" stop="20221127145000 +0000" channel="HBO XTREME">
-    <title lang="en">Django sin cadenas</title>
-    <desc lang="en">Escrita y dirigida por Quentin Tarantino y con un reparto galardonado, Jamie Foxx es Django, un esclavo que, bajo la promesa de ganarse su libertad, se une al Dr. King Schultz (Christoph Waltz), un cazarrecompensas, para capturar a los criminales más buscados del Sur.(n)</desc>
-    <date>2012</date>
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
@@ -2392,11 +2280,6 @@
     <title lang="en">Stillwater</title>
     <desc lang="en">Un hombre viaja a Marsella para demostrar la inocencia de su hija en un crimen que no cometió.(n)</desc>
     <date>2021</date>
-  </programme>
-  <programme start="20221127133400 +0000" stop="20221127151000 +0000" channel="HBO SIGNATURE">
-    <title lang="en">Cinema Verite</title>
-    <desc lang="en">Una dramatización de la realización de la polémica serie de documentales de PBS en 1973 "An American Family", idea de un cineasta que sigue la vida diaria de Pat y Bill Loud y sus hijos mientras el matrimonio de sus padres se desintegra y la familia entera lucha bajo una cruel mira.(n)</desc>
-    <date>2011</date>
   </programme>
   <programme start="20221127151000 +0000" stop="20221127161400 +0000" channel="HBO SIGNATURE">
     <title lang="en">Las Troyanas</title>
@@ -2611,14 +2494,6 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20221127134100 +0000" stop="20221127152100 +0000" channel="HBO PLUS">
-    <title lang="en">Hermanastros</title>
-    <desc lang="en">Dos adultos holgazanes se convierten en hermanastros gracias a la unión de la madre de uno y el padre del otro. La relación desafiante entre estos dos "jóvenes" malcriados pone en peligro el matrimonio de sus padres.(n)</desc>
-    <date>2008</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20221127152100 +0000" stop="20221127170600 +0000" channel="HBO PLUS">
     <title lang="en">Venom: Carnage liberado</title>
     <desc lang="en">Eddie Brock intenta relanzar su carrera entrevistando al asesino en serie Cletus Kasady, que se convierte en el huésped del simbionte Carnage y escapa de la cárcel tras una ejecución fallida.(n)</desc>
@@ -2746,22 +2621,6 @@
     <title lang="en">El valle olvidado</title>
     <desc lang="en">Los forasteros asisten a una cena en la casa del Patrón y descubren por qué han sido elegidos.(n)</desc>
     <date>2022</date>
-  </programme>
-  <programme start="20221127140500 +0000" stop="20221127151200 +0000" channel="HBO POP">
-    <title lang="en">We're Here</title>
-    <desc lang="en">Bob, Eureka y Shangela viajan para ayudar a los residentes de Farmington y Shiprock en Nuevo México.(n)</desc>
-    <date>2020</date>
-    <rating system="MPAA">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20221127151200 +0000" stop="20221127154200 +0000" channel="HBO POP">
-    <title lang="en">Sex and the City</title>
-    <desc lang="en">Luego de terminar su relación con Mr. Big, Carrie se pregunta: ¿cuáles son las reglas de la ruptura?(n)</desc>
-    <date>1998</date>
-    <rating system="MPAA">
-      <value>TV-MA</value>
-    </rating>
   </programme>
   <programme start="20221127154200 +0000" stop="20221127161200 +0000" channel="HBO POP">
     <title lang="en">Sex and the City</title>
@@ -2899,11 +2758,6 @@
   <programme start="20221128234000 +0000" stop="20221129011000 +0000" channel="HBO POP">
     <title lang="en">7 Days</title>
     <desc lang="en">Por si su cita programada por sus padres tradicionales no fuera suficiente,.(n)</desc>
-    <date>2016</date>
-  </programme>
-  <programme start="20221127140600 +0000" stop="20221127155300 +0000" channel="HBO FAMILY">
-    <title lang="en">Tu nombre</title>
-    <desc lang="en">Durante una noche de lluvia de estrellas, dos extraños -un adolescente de Tokio y una joven aburrida del Japón rural- descubren que sus cuerpos han sido intercambiados mientras dormían y compartían el mismo sueño. Ahora deben encontrarse antes de que se acabe el tiempo, a la vez que van aprendiendo de las lecciones que les deja vivir la vida de otra persona.(n)</desc>
     <date>2016</date>
   </programme>
   <programme start="20221127155300 +0000" stop="20221127174100 +0000" channel="HBO FAMILY">
@@ -3147,11 +3001,6 @@
     <desc lang="en">Un gran asteroide aniquilará todo rastro de vida y sólo los afortunados sobrevivirán,.(n)</desc>
     <date>2020</date>
   </programme>
-  <programme start="20221127142100 +0000" stop="20221127160600 +0000" channel="HBO Latino (West)">
-    <title lang="en">Voyagers</title>
-    <desc lang="en">Treinta hombres y mujeres son enviados al espacio remoto para buscar un nuevo hogar.(n)</desc>
-    <date>2021</date>
-  </programme>
   <programme start="20221127160600 +0000" stop="20221127175100 +0000" channel="HBO Latino (West)">
     <title lang="en">En guerra con mi abuelo</title>
     <desc lang="en">El joven Peter se ve obligado a abandonar su habitación cuando su abuelo Ed, recientemente enviudado, se muda a su casa. Con la ayuda de sus amigos, Peter declara la guerra a su abuelo para hacerle abandonar la habitación.(n)</desc>
@@ -3264,30 +3113,6 @@
     <title lang="en">DC Liga de súpermascotas</title>
     <desc lang="en">Krypto y Superman son mejores amigos inseparables,.(n)</desc>
     <date>2022</date>
-  </programme>
-  <programme start="20221127140000 +0000" stop="20221127143000 +0000" channel="Imagen TV">
-    <title lang="en">Pokémon</title>
-    <desc lang="en">Unos adorables héroes luchan contra las fuerzas del mal en esta serie de dibujos animados.(n)</desc>
-    <date>1998</date>
-    <rating system="MPAA">
-      <value>TV-Y7</value>
-    </rating>
-  </programme>
-  <programme start="20221127143000 +0000" stop="20221127150000 +0000" channel="Imagen TV">
-    <title lang="en">Pokémon</title>
-    <desc lang="en">Unos adorables héroes luchan contra las fuerzas del mal en esta serie de dibujos animados.(n)</desc>
-    <date>1998</date>
-    <rating system="MPAA">
-      <value>TV-Y7</value>
-    </rating>
-  </programme>
-  <programme start="20221127150000 +0000" stop="20221127153000 +0000" channel="Imagen TV">
-    <title lang="en">Pokémon</title>
-    <desc lang="en">Unos adorables héroes luchan contra las fuerzas del mal en esta serie de dibujos animados.(n)</desc>
-    <date>1998</date>
-    <rating system="MPAA">
-      <value>TV-Y7</value>
-    </rating>
   </programme>
   <programme start="20221127153000 +0000" stop="20221127183000 +0000" channel="Imagen TV">
     <title lang="en">Sale el sol para todos</title>
@@ -3415,22 +3240,6 @@
   </programme>
   <programme start="20221128230000 +0000" stop="20221129000000 +0000" channel="Imagen TV">
     <title lang="en">Asuntos de familia</title>
-  </programme>
-  <programme start="20221127124000 +0000" stop="20221127150000 +0000" channel="HBO 2!">
-    <title lang="en">Nace una estrella</title>
-    <desc lang="en">Jackson, un cantante country en lento declive, descubre el talento de Ally e inicia un romance con ella. El éxito de Ally es cada vez mayor, una situación que se hace incómoda para Jackson. Nueva versión de esta historia clásica sobre el éxito y el fracaso en el mundo del show. Se trata de la cuarta vez que es llevada a la pantalla, tras los films de 1937, 1954 y 1976.(n)</desc>
-    <date>2018</date>
-    <rating system="MPAA">
-      <value>13</value>
-    </rating>
-  </programme>
-  <programme start="20221127150000 +0000" stop="20221127153600 +0000" channel="HBO 2!">
-    <title lang="en">Avenue 5</title>
-    <desc lang="en">Cinco meses después de fracasar en redirigir el rumbo de la nave,.(n)</desc>
-    <date>2022</date>
-    <rating system="MPAA">
-      <value>13</value>
-    </rating>
   </programme>
   <programme start="20221127153600 +0000" stop="20221127175600 +0000" channel="HBO 2!">
     <title lang="en">Ambulance</title>
@@ -3629,11 +3438,6 @@
     <desc lang="en">Barra de infomerciales que ofrece información sobre diferentes productos.(n)</desc>
     <date>2017</date>
   </programme>
-  <programme start="20221127140000 +0000" stop="20221127160000 +0000" channel="TVN (CHI)">
-    <title lang="en">Estado nacional</title>
-    <desc lang="en">Programa informativo.(n)</desc>
-    <date>2020</date>
-  </programme>
   <programme start="20221127160000 +0000" stop="20221127180000 +0000" channel="TVN (CHI)">
     <title lang="en">24 Tarde</title>
     <desc lang="en">Conoce los detalles más resaltantes sobre los últimos acontecimientos ocurridos en Chile, América Latina y el mundo, en este segmento especial de la tarde, donde te presentamos un resumen con informaciones completas.(n)</desc>
@@ -3734,16 +3538,6 @@
   <programme start="20221128235500 +0000" stop="20221129014000 +0000" channel="TVN (CHI)">
     <title lang="en">24 Horas Central</title>
     <desc lang="en">Noticiero central, con despachos en directo y corresponsalías en todo el mundo.(n)</desc>
-  </programme>
-  <programme start="20221127130000 +0000" stop="20221127143000 +0000" channel="Canal Uno (COL)">
-    <title lang="en">El lugar de su prescencia</title>
-    <desc lang="en">Predicaciones que edifican el alma.(n)</desc>
-    <date>2020</date>
-  </programme>
-  <programme start="20221127143000 +0000" stop="20221127153000 +0000" channel="Canal Uno (COL)">
-    <title lang="en">Él puede hacerlo de nuevo</title>
-    <desc lang="en">Ricardo y María Patricia Rodríguez del Centro Mundial de Avivamiento en Bogotá, Colombia, te invitan a disfrutar del poderoso mover del Espíritu Santo de Dios. Si hoy te encuentras afligido y sin esperanza, debes saber que la Palabra de Dios tiene poder y no volverá vacía, él la cumplirá.(n)</desc>
-    <date>2000</date>
   </programme>
   <programme start="20221127153000 +0000" stop="20221127163000 +0000" channel="Canal Uno (COL)">
     <title lang="en">Sailor Moon</title>
@@ -3907,18 +3701,6 @@
   <programme start="20221128230000 +0000" stop="20221129010000 +0000" channel="Canal Uno (COL)">
     <title lang="en">Guerreros - Especial</title>
     <desc lang="en">Hombres y mujeres se enfrentarán a diario para saber cuál es el sexo más fuerte.(n)</desc>
-  </programme>
-  <programme start="20221127140000 +0000" stop="20221127150000 +0000" channel="RCN Nuestra Tele">
-    <title lang="en">Programación pagada</title>
-    <desc lang="en">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.(n)</desc>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221127150000 +0000" stop="20221127160000 +0000" channel="RCN Nuestra Tele">
-    <title lang="en">La Santa misa</title>
-    <desc lang="en">Debido a la pandemia COVID-19 (coronavirus), la Arquidiócesis de Los Ángeles transmitira las Misas celebradas en privado por el Arzobispo José H. Gomez y los sacerdotes en la Catedral de Nuestra Señora de los Ángeles, y en otras parroquias de la Arquidiócesis, se ofrecen a través de la transmisión en vivo para los fieles.(n)</desc>
-    <date>2020</date>
   </programme>
   <programme start="20221127160000 +0000" stop="20221127163000 +0000" channel="RCN Nuestra Tele">
     <title lang="en">Programación pagada</title>
@@ -4163,17 +3945,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221127130000 +0000" stop="20221127150000 +0000" channel="Caracol TV (COL)">
-    <title lang="en">Copa Mundial de la FIFA Catar 2022 (live)</title>
-    <sub-title lang="en">Bélgica vs. Marruecos</sub-title>
-    <desc lang="en">Bélgica vs. Marruecos en un partido de Grupo F. Desde Estadio Al Thumama en Doha, Qatar.(n)</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20221127150000 +0000" stop="20221127153000 +0000" channel="Caracol TV (COL)">
-    <title lang="en">Cuentos de los Hermanos Grimm</title>
-    <desc lang="en">Serie animada que recoge cada uno de los cuentos y fábulas clásicas con las que muchos crecimos, entre ellos, "Blancanieves", "Rumpelstiltskin", "Hansel y Gretel" y "Caperucita Roja" y muchos otros.(n)</desc>
-    <date>1987</date>
-  </programme>
   <programme start="20221127153000 +0000" stop="20221127173000 +0000" channel="Caracol TV (COL)">
     <title lang="en">Mr. Magorium's Wonder Emporium</title>
     <desc lang="en">El propietario (Dustin Hoffman) de una tienda de juguetes mágicos prepara a su asistente (Natalie Portman) para ser la nueva dueña del negocio.(n)</desc>
@@ -4284,16 +4055,6 @@
   <programme start="20221128230000 +0000" stop="20221129000000 +0000" channel="Caracol TV (COL)">
     <title lang="en">Oye Bonita</title>
     <desc lang="en">Dos cantantes de vallenato se meten en un triángulo amoroso con una mujer bonita en esta telenovela inspirada en la música de Diomedes Díaz.(n)</desc>
-  </programme>
-  <programme start="20221127120000 +0000" stop="20221127150000 +0000" channel="RCN Television">
-    <title lang="en">Copa Mundial de la FIFA Catar 2022 (live)</title>
-    <sub-title lang="en">Bélgica vs. Marruecos</sub-title>
-    <desc lang="en">Bélgica vs. Marruecos en un partido de Grupo F. Desde Estadio Al Thumama en Doha, Qatar.(n)</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20221127150000 +0000" stop="20221127155000 +0000" channel="RCN Television">
-    <title lang="en">Nuestra Santa Misa</title>
-    <desc lang="en">Celebración de la ceremonia religiosa.(n)</desc>
   </programme>
   <programme start="20221127155000 +0000" stop="20221127173000 +0000" channel="RCN Television">
     <title lang="en">Bella Y Sebastián 3</title>
@@ -4411,11 +4172,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221127133100 +0000" stop="20221127150200 +0000" channel="Golden Edge">
-    <title lang="en">Ya veremos</title>
-    <desc lang="en">Después de la separación de sus padres, Santi ha tenido que aprender a sobrellevar la tristeza que le causó esa situación y se acostumbró, de a poco, a pasar su tiempo dividido entre ambos. Pero una operación a la que debe someterse los juntará. Al menos, por un tiempo antes de la cirugía, ya que él ha elaborado una lista de deseos que quiere cumplir con los dos unidos, como antes del divorcio que tanto sufrió.(n)</desc>
-    <date>2018</date>
-  </programme>
   <programme start="20221127150200 +0000" stop="20221127170600 +0000" channel="Golden Edge">
     <title lang="en">Dos son familia</title>
     <desc lang="en">Samuel, un joven que vive despreocupado bajo el sol del sur de Francia, se convierte en padre cuando una de sus antiguas conquistas le deja en sus brazos a un bebé: su hija, Gloria. Ocho años más tarde, padre e hija son inseparables y viven felices en Londres, hasta que la madre de Gloria vuelve a aparecer, esta vez para recuperar a su hija.(n)</desc>
@@ -4528,22 +4284,6 @@
     <title lang="en">Kickboxer: Contacto sangriento 2</title>
     <desc lang="en">Un luchador se venga del hombre que dejó lisiado a su hermano. Jean-Claude Van Damme, Tong Po, Dennis Alexio, Dennis Chan.(n)</desc>
     <date>1989</date>
-  </programme>
-  <programme start="20221127135000 +0000" stop="20221127144500 +0000" channel="UNIVERSAL TV">
-    <title lang="en">House M.D</title>
-    <desc lang="en">House atiende a Andie, una niña pequeña afectada de cáncer que sin embargo presenta síntomas no relacionados con su enfermedad, como alucinaciones o un sangrado del ojo, por lo que comienzan a hacerle pruebas. Deciden realizarle una difícil intervención quirúrgica en el cerebro.(n)</desc>
-    <date>2005</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221127144500 +0000" stop="20221127154000 +0000" channel="UNIVERSAL TV">
-    <title lang="en">House M.D</title>
-    <desc lang="en">Un paciente de House sufre un brote psicótico y le clava un bisturí en el corazón a Chase. El médico y su equipo serán investigados y cuestionados por el doctor Walter Cofield. Cuestionan la manera poco ortodoxa de trabajar de House.(n)</desc>
-    <date>2004</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
   </programme>
   <programme start="20221127154000 +0000" stop="20221127163500 +0000" channel="UNIVERSAL TV">
     <title lang="en">Family Law</title>
@@ -4835,89 +4575,6 @@
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
-  </programme>
-  <programme start="20221127142400 +0000" stop="20221127143000 +0000" channel="Kids Street">
-    <title lang="en">The Day Henry Met...?</title>
-    <sub-title lang="en">A Skateboard</sub-title>
-    <desc lang="en">Henry meets a skateboard.(n)</desc>
-    <credits>
-      <director>Gary Gill</director>
-      <director>Matt Engstrom</director>
-      <writer>Gary Gill</writer>
-      <producer>Susan Broe</producer>
-      <composer>Gary Gill</composer>
-    </credits>
-    <date>2017</date>
-    <category lang="en">Educational</category>
-    <episode-num system="onscreen">S2 E9</episode-num>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20221127143000 +0000" stop="20221127144200 +0000" channel="Kids Street">
-    <title lang="en">P. King Duckling</title>
-    <sub-title lang="en">Pirates Vs. Pickles</sub-title>
-    <desc lang="en">Adventures of an intrepid duck and his pals.(n)</desc>
-    <credits>
-      <director>Eddy Bo Fan</director>
-    </credits>
-    <date>2021</date>
-    <icon src="https://content.internetvideoarchive.com/content/photos/11379/713476_020.jpg" />
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <rating system="MPAA">
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20221127144200 +0000" stop="20221127150000 +0000" channel="Kids Street">
-    <title lang="en">P. King Duckling</title>
-    <sub-title lang="en">Antfarm Job</sub-title>
-    <desc lang="en">Adventures of an intrepid duck and his pals.(n)</desc>
-    <credits>
-      <director>Eddy Bo Fan</director>
-    </credits>
-    <date>2021</date>
-    <icon src="https://content.internetvideoarchive.com/content/photos/11379/713476_020.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="MPAA">
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20221127150000 +0000" stop="20221127151200 +0000" channel="Kids Street">
-    <title lang="en">P. King Duckling</title>
-    <sub-title lang="en">Gunk Mosnter</sub-title>
-    <desc lang="en">Adventures of an intrepid duck and his pals.(n)</desc>
-    <credits>
-      <director>Eddy Bo Fan</director>
-    </credits>
-    <date>2021</date>
-    <icon src="https://content.internetvideoarchive.com/content/photos/11379/713476_020.jpg" />
-    <rating system="MPAA">
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20221127151200 +0000" stop="20221127153000 +0000" channel="Kids Street">
-    <title lang="en">P. King Duckling</title>
-    <sub-title lang="en">The Pickle Planet Predicament</sub-title>
-    <desc lang="en">Adventures of an intrepid duck and his pals.(n)</desc>
-    <credits>
-      <director>Eddy Bo Fan</director>
-    </credits>
-    <date>2021</date>
-    <icon src="https://content.internetvideoarchive.com/content/photos/11379/713476_020.jpg" />
-    <episode-num system="onscreen">S1 E14</episode-num>
-    <rating system="MPAA">
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20221127153000 +0000" stop="20221127154100 +0000" channel="Kids Street">
-    <title lang="en">Rocka-bye Island</title>
-    <sub-title lang="en">The Sweet Smell of Success</sub-title>
-    <date>2017</date>
-  </programme>
-  <programme start="20221127154100 +0000" stop="20221127160000 +0000" channel="Kids Street">
-    <title lang="en">Rocka-bye Island</title>
-    <sub-title lang="en">Planting A Seed</sub-title>
-    <date>2017</date>
   </programme>
   <programme start="20221127160000 +0000" stop="20221127161100 +0000" channel="Kids Street">
     <title lang="en">Rocka-bye Island</title>
@@ -5654,11 +5311,6 @@
     <date>2021</date>
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
-  <programme start="20221127134500 +0000" stop="20221127154500 +0000" channel="Las Estrellas">
-    <title lang="en">La Sangre de Nuestra Raza</title>
-    <desc lang="en">Se sigue la historia de dos hermanos mexicanos, que intenta cruzar ilegalmente a los EE.UU.; sin embargo, acaban sumergidos en una gran tragedia. "La Sangre de Nuestra Raza" da una mirada a las tragedias que experimentan centenares de familias mexicanas, cuando intentan ingresar desesperadamente al país vecino, cruzando la frontera.(n)</desc>
-    <date>1987</date>
-  </programme>
   <programme start="20221127154500 +0000" stop="20221127180000 +0000" channel="Las Estrellas">
     <title lang="en">Delincuente</title>
     <desc lang="en">Los amigos de un vagabundo malhablado tratan de transformarlo en caballero para que pueda impresionar a la rica mujer a quien adora. Pedrito Fernández, Lucerito, José Elías Moreno, Carlos Riquelme.(n)</desc>
@@ -5818,11 +5470,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221127140000 +0000" stop="20221127154500 +0000" channel="Las Estrellas -2HR">
-    <title lang="en">Santo vs. Los Jinetes del Terror</title>
-    <desc lang="en">Santo tiene que encontrar unos leprosos para que no contagien a los demás, pero un hombre malvado se aprovecha de la situación para cometer fechorías.(n)</desc>
-    <date>1970</date>
-  </programme>
   <programme start="20221127154500 +0000" stop="20221127174500 +0000" channel="Las Estrellas -2HR">
     <title lang="en">La Sangre de Nuestra Raza</title>
     <desc lang="en">Se sigue la historia de dos hermanos mexicanos, que intenta cruzar ilegalmente a los EE.UU.; sin embargo, acaban sumergidos en una gran tragedia. "La Sangre de Nuestra Raza" da una mirada a las tragedias que experimentan centenares de familias mexicanas, cuando intentan ingresar desesperadamente al país vecino, cruzando la frontera.(n)</desc>
@@ -5974,11 +5621,6 @@
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
-  </programme>
-  <programme start="20221127134500 +0000" stop="20221127151500 +0000" channel="Sony Movies">
-    <title lang="en">Una receta mortal</title>
-    <desc lang="en">El sheriff de la ciudad es asesinado durante las elecciones y Hannah, la dueña de la panadería de la ciudad, se involucrará en la investigación del crimen para limpiar el nombre de su cuñado, quien fue incriminado injustamente.(n)</desc>
-    <date>2016</date>
   </programme>
   <programme start="20221127151500 +0000" stop="20221127173500 +0000" channel="Sony Movies">
     <title lang="en">Siete años en el Tibet</title>
@@ -6136,18 +5778,6 @@
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
-  </programme>
-  <programme start="20221127140000 +0000" stop="20221127143000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221127143000 +0000" stop="20221127150000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221127150000 +0000" stop="20221127153000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221127153000 +0000" stop="20221127160000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
   </programme>
   <programme start="20221127160000 +0000" stop="20221127170000 +0000" channel="NY1 Noticias">
     <title lang="en">Pura Política: Voces de la Ciudad</title>
@@ -6338,11 +5968,6 @@
   <programme start="20221128233000 +0000" stop="20221129000000 +0000" channel="NY1 Noticias">
     <title lang="en">NY1 Noticias</title>
   </programme>
-  <programme start="20221127141000 +0000" stop="20221127154500 +0000" channel="BitMe">
-    <title lang="en">El ángel en el reloj</title>
-    <desc lang="en">El ángel en el reloj cuanta la historia de Amelia, una niña que quiere detener el tiempo. Al tratar de hacerlo conoce a Malachi, un ángel que vive dentro de su reloj cucú.(n)</desc>
-    <date>2017</date>
-  </programme>
   <programme start="20221127154500 +0000" stop="20221127172000 +0000" channel="BitMe">
     <title lang="en">La leyenda del charro negro</title>
     <desc lang="en">Volviendo de liberar al Chupacabras, Leo vuelve a casa y es interceptado por el Charro Negro, que logra confundirlo y termina enviando a una niña hasta el inframundo. Leo busca reparar el daño y sus amigos lo ayudarán, pero... ¿por qué fue Leo el elegido para involucrarse en este asunto?(n)</desc>
@@ -6493,20 +6118,6 @@
     <title lang="en">Universo Marcial</title>
     <desc lang="en">Lin Dong es un niño de un pequeño pueblo que no es favorecido por su familia. Por casualidad, obtiene un misterioso artefacto que es codiciado por muchos clanes en el mundo marcial. Debido a tal artefacto, Lin Dong es abordado por muchas personas...(n)</desc>
     <date>2018</date>
-  </programme>
-  <programme start="20221127140100 +0000" stop="20221127150100 +0000" channel="Curiosity Stream">
-    <title lang="en">Carreteras ardientes - Las rutas más peligrosas del mundo</title>
-    <sub-title lang="en">Las rutas ardientes de Mali</sub-title>
-    <desc lang="en">El Harmatán, el viento del desierto del Sahara, sopla sin cesar.(n)</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20221127150100 +0000" stop="20221127160000 +0000" channel="Curiosity Stream">
-    <title lang="en">El ferrocarril de Mumbai</title>
-    <desc lang="en">Esta vez, Dan, Anita,.(n)</desc>
-    <date>2021</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
   </programme>
   <programme start="20221127160000 +0000" stop="20221127170000 +0000" channel="Curiosity Stream">
     <title lang="en">El ferrocarril de Mumbai</title>
@@ -6722,38 +6333,6 @@
     <title lang="en">Hallazgos novedosos</title>
     <desc lang="en">Mientras el número de personas que padecen Alzheimer continúa en aumento a pasos agigantados,.(n)</desc>
     <date>2021</date>
-  </programme>
-  <programme start="20221127140000 +0000" stop="20221127143000 +0000" channel="Dreamworks">
-    <title lang="en">Voltron: Legendary defender</title>
-    <desc lang="en">Keith y Shiro emprenden un arriesgado viaje hasta una base remota, con el objetivo de alinearse con la Espada de Marmora; un grupo de oponentes al gobierno de Zarkon sobre el universo. Más tarde, Keith debe esforzarse para descubrir la verdad sobre su pasado.(n)</desc>
-    <date>2017</date>
-    <rating system="MPAA">
-      <value>TV-Y7</value>
-    </rating>
-  </programme>
-  <programme start="20221127143000 +0000" stop="20221127150000 +0000" channel="Dreamworks">
-    <title lang="en">Voltron: Legendary defender</title>
-    <desc lang="en">Los paladines deciden separarse y reunir recursos, para un posible enfrentamiento contra Zarkon. Mientras tanto, Hunk y Keith emprenden un arriesgado viaje con el León Amarillo. El objetivo de los pilotos es encontrar a una misteriosa criatura devoradora de planetas, conocida como Weblum.(n)</desc>
-    <date>2017</date>
-    <rating system="MPAA">
-      <value>TV-Y7</value>
-    </rating>
-  </programme>
-  <programme start="20221127150000 +0000" stop="20221127153000 +0000" channel="Dreamworks">
-    <title lang="en">She-Ra y las princesas del poder</title>
-    <desc lang="en">Catra, Entrapta y Scorpia viajan al Extremo Norte en busca de tecnología de los Primeros.(n)</desc>
-    <date>2022</date>
-    <rating system="MPAA">
-      <value>TV-Y7</value>
-    </rating>
-  </programme>
-  <programme start="20221127153000 +0000" stop="20221127160000 +0000" channel="Dreamworks">
-    <title lang="en">She-Ra y las princesas del poder</title>
-    <desc lang="en">Mientras está encerrada como prisionera, Shadow Weaver recuerda su pasado como Light Spinner. Todavía tiene remembranzas de su época como poderosa hechicera y mentora, además, de el padre de Glimmer. Por otra parte, Hordak le da un ultimátum a una débil Catra.(n)</desc>
-    <date>2019</date>
-    <rating system="MPAA">
-      <value>TV-Y7</value>
-    </rating>
   </programme>
   <programme start="20221127160000 +0000" stop="20221127163000 +0000" channel="Dreamworks">
     <title lang="en">Las aventuras del Gato con Botas</title>
@@ -7225,12 +6804,6 @@
       <value>TV-Y7</value>
     </rating>
   </programme>
-  <programme start="20221127135400 +0000" stop="20221127144300 +0000" channel="Aplauso">
-    <title lang="en">Punto de Inflamabilidad</title>
-  </programme>
-  <programme start="20221127144300 +0000" stop="20221127153200 +0000" channel="Aplauso">
-    <title lang="en">Punto de Inflamabilidad</title>
-  </programme>
   <programme start="20221127153200 +0000" stop="20221127162100 +0000" channel="Aplauso">
     <title lang="en">Punto de Inflamabilidad</title>
   </programme>
@@ -7360,38 +6933,6 @@
   </programme>
   <programme start="20221128233900 +0000" stop="20221129002500 +0000" channel="Aplauso">
     <title lang="en">Zona De Cacería</title>
-  </programme>
-  <programme start="20221127140000 +0000" stop="20221127143000 +0000" channel="Hogar HGTV">
-    <title lang="en">Derrota a Bobby Flay</title>
-    <desc lang="en">La actriz Emilie de Ravin y Katie Lee no están bromeando,.(n)</desc>
-    <date>2018</date>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20221127143000 +0000" stop="20221127150000 +0000" channel="Hogar HGTV">
-    <title lang="en">Derrota a Bobby Flay</title>
-    <desc lang="en">La chef Nicole Brisson se arriesga contra el chef Adam Greenberg por la oportunidad de vencer a los locales. Anne Burrell y la presentadora de televisión Jaymee Sire deben jugar sus cartas y elegir un contendiente para enfrentarse a Bobby Flay.(n)</desc>
-    <date>2018</date>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20221127150000 +0000" stop="20221127153000 +0000" channel="Hogar HGTV">
-    <title lang="en">Los caza minihogares</title>
-    <desc lang="en">Jessica, quien es oriunda de Portland, sabe que comprar una casa es fundamental para ella. Porque le permitiría un crecimiento personal y podría independizarse. Pero es consciente de que su presupuesto no es muy alto, por lo que se dispone a buscar una pequeña vivienda.(n)</desc>
-    <date>2015</date>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20221127153000 +0000" stop="20221127160000 +0000" channel="Hogar HGTV">
-    <title lang="en">Los caza minihogares</title>
-    <desc lang="en">Bethany y Matthew debieron vender su casa de doscientos metros cuadrados. Y junto con sus tres hijos se mudaron al hogar de los padres de ella, hasta que puedan reunir el dinero para adquirir otra propiedad, que sea ideal para los cinco, quienes anhelas estar más cómodos.(n)</desc>
-    <date>2015</date>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
   </programme>
   <programme start="20221127160000 +0000" stop="20221127163000 +0000" channel="Hogar HGTV">
     <title lang="en">Nuestro hogar frente al lago</title>
@@ -7796,46 +7337,6 @@
     <title lang="en">Los diseños de Antonio</title>
     <desc lang="en">Programa sobre moda.(n)</desc>
     <date>2010</date>
-  </programme>
-  <programme start="20221127140000 +0000" stop="20221127143000 +0000" channel="Animal Planet!">
-    <title lang="es">Programa pagado</title>
-    <desc lang="es">Programa que muestra diversos productos para la venta.(n)</desc>
-    <date>2009</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13009738_E6AA8352044BC855.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20221127143000 +0000" stop="20221127150000 +0000" channel="Animal Planet!">
-    <title lang="es">Programa pagado</title>
-    <desc lang="es">Programa que muestra diversos productos para la venta.(n)</desc>
-    <date>2009</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13009738_E6AA8352044BC855.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20221127150000 +0000" stop="20221127152800 +0000" channel="Animal Planet!">
-    <title lang="es">Los reyes de las piscinas</title>
-    <sub-title lang="es">Un oasis en el patio trasero</sub-title>
-    <desc lang="es">Una familia de Houston, Texas, está lista para hacer realidad la piscina de sus sueños. Por eso, los integrantes de Pool Kings llevarán la diversión a otro nivel con una piscina dinámica digna de un hotel lujoso.(n)</desc>
-    <date>2017</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13015528_DC04B06D4CC1D209.jpg" />
-    <episode-num system="onscreen">S3 E4</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20221127152800 +0000" stop="20221127155600 +0000" channel="Animal Planet!">
-    <title lang="es">Los reyes de las piscinas</title>
-    <sub-title lang="es">Ideal para una familia divertida</sub-title>
-    <desc lang="es">Después de mudarse a la casa de sus sueños, una joven familia está lista para construir su piscina soñada. Los Reyes de las piscinas aceptan el desafío y crean un paraíso tropical con una cascada, un bar acuático y una cocina grande al aire libre.(n)</desc>
-    <date>2017</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12994436_9084616BF32B4D4F.jpg" />
-    <episode-num system="onscreen">S3 E5</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
   </programme>
   <programme start="20221127155600 +0000" stop="20221127162600 +0000" channel="Animal Planet!">
     <title lang="es">Noche</title>
@@ -8415,11 +7916,6 @@
     <desc lang="es">Una edición que muestra a Invicta Fighting Championships, la empresa de artes marciales mixtas con sede en Estados Unidos compuesta solamente por mujeres. Esta entidad fue fundada en 2012 por Janet Martin y Shannon Knapp.(n)</desc>
     <category lang="es">Invicta FC</category>
     <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/359081/1506693661/221127034937_a6e8e59670113849288322b71498121f0f1c1a78_2211060936.jpg" />
-  </programme>
-  <programme start="20221127140500 +0000" stop="20221127154000 +0000" channel="A3Cine!">
-    <title lang="en">¡Cómo está el servicio!</title>
-    <desc lang="en">Una mujer prueba suerte en la ciudad trabajando como criada cambiando de casa hasta encontrar un hogar cómodo en donde además encuentra el amor. Gracita Morales, José Luis López Vázquez, Irene Gutiérrez Caba, Antonio Ferrandis. Dirigida por Mariano Ozores.(n)</desc>
-    <date>1968</date>
   </programme>
   <programme start="20221127154000 +0000" stop="20221127173000 +0000" channel="A3Cine!">
     <title lang="en">Historia de un beso</title>
@@ -9429,39 +8925,6 @@
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20221127140000 +0000" stop="20221127143000 +0000" channel="UniMás">
-    <title lang="en">Animal FanPedia</title>
-    <sub-title lang="en">06-27-2021</sub-title>
-    <desc lang="en">En este emplumado episodio, conoceremos a algunas de las aves más increíbles del mundo, y en AnimalFanPedia también nos encantan los monos así que, este episodio ¡Es sobre ellos!(n)</desc>
-    <date>2019</date>
-    <rating system="MPAA">
-      <value>TV-Y7</value>
-    </rating>
-  </programme>
-  <programme start="20221127143000 +0000" stop="20221127150000 +0000" channel="UniMás">
-    <title lang="en">Animal Fanpedia</title>
-    <sub-title lang="en">08-15-2021</sub-title>
-    <date>2020</date>
-    <rating system="MPAA">
-      <value>TV-Y7</value>
-    </rating>
-  </programme>
-  <programme start="20221127150000 +0000" stop="20221127153000 +0000" channel="UniMás">
-    <title lang="en">El Mundo Es Tuyo</title>
-    <date>2018</date>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20221127153000 +0000" stop="20221127160000 +0000" channel="UniMás">
-    <title lang="en">Ranger Rob (new)</title>
-    <desc lang="en">Ranger Rob es un héroe aventurero y entusiasta que sólo quiere salir a jugar, explorar y descubrir en el parque más divertido, el Big Sky Park.(n)</desc>
-    <date>2017</date>
-    <premiere />
-    <rating system="MPAA">
-      <value>TV-Y</value>
-    </rating>
-  </programme>
   <programme start="20221127160000 +0000" stop="20221127163000 +0000" channel="UniMás">
     <title lang="en">Programa Pagado</title>
     <date>2021</date>
@@ -9663,11 +9126,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221127140000 +0000" stop="20221127160000 +0000" channel="Univision 41">
-    <title lang="en">Despierta América en Domingo (live)</title>
-    <sub-title lang="en">11-27-2022</sub-title>
-    <date>2021</date>
-  </programme>
   <programme start="20221127160000 +0000" stop="20221127170000 +0000" channel="Univision 41">
     <title lang="en">Al Punto con Jorge Ramos (new)</title>
     <sub-title lang="en">11-27-2022</sub-title>
@@ -9863,17 +9321,6 @@
   <programme start="20221128233000 +0000" stop="20221129000000 +0000" channel="Univision 41">
     <title lang="en">Noticiero Univision - Edicion Digital (live)</title>
     <sub-title lang="en">11-28-2022</sub-title>
-    <date>2022</date>
-  </programme>
-  <programme start="20221127123000 +0000" stop="20221127150000 +0000" channel="Telemundo 47">
-    <title lang="en">Copa Mundial de la FIFA Catar 2022 (live)</title>
-    <sub-title lang="en">Bélgica vs. Marruecos</sub-title>
-    <desc lang="en">Bélgica vs. Marruecos en un partido de Grupo F. Desde Estadio Al Thumama en Doha, Qatar.(n)</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20221127150000 +0000" stop="20221127153000 +0000" channel="Telemundo 47">
-    <title lang="en">Hoy en la Copa Mundial (live)</title>
-    <desc lang="en">Las principales historias del día contadas desde los estadios y campos de entrenamiento con un enfoque entretenido. Noticias, reportajes, entrevistas y el análisis previo al juego en vivo.(n)</desc>
     <date>2022</date>
   </programme>
   <programme start="20221127153000 +0000" stop="20221127180000 +0000" channel="Telemundo 47">
@@ -10240,28 +9687,6 @@
     <country lang="es">USA</country>
     <rating system="MJColombia">
       <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20221127133500 +0000" stop="20221127143000 +0000" channel="Love Nature!">
-    <title lang="es">Guardianes de la naturaleza</title>
-    <sub-title lang="es">Operation Rhino</sub-title>
-    <desc lang="es">Un equipo de dedicados conservacionistas hace esfuerzos extraordinarios para mantener al raro rinoceronte negro a salvo de los cazadores furtivos.(n)</desc>
-    <date>2017</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/13/13136267_7129DEC750C0DD2F.jpg" />
-    <episode-num system="onscreen">S2 E4</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20221127143000 +0000" stop="20221127152500 +0000" channel="Love Nature!">
-    <title lang="es">Guardianes de la naturaleza</title>
-    <sub-title lang="es">Mission Black Rhino</sub-title>
-    <desc lang="es">Dos rinocerontes negros en Zambia son el centro de una misión de reubicación que forma parte de un gran plan para salvar la especie.(n)</desc>
-    <date>2018</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/22/13224213_F566298AF6FAB3C4.jpg" />
-    <episode-num system="onscreen">S3 E1</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
     </rating>
   </programme>
   <programme start="20221127152500 +0000" stop="20221127161500 +0000" channel="Love Nature!">
@@ -10657,15 +10082,6 @@
       <value>+14</value>
     </rating>
   </programme>
-  <programme start="20221127140000 +0000" stop="20221127145500 +0000" channel="Telehit Musica">
-    <title lang="en">Ranking</title>
-    <desc lang="en">Un programa que presenta un ranking con los mejores temas musicales del momento.(n)</desc>
-  </programme>
-  <programme start="20221127145500 +0000" stop="20221127155000 +0000" channel="Telehit Musica">
-    <title lang="en">Musicoterapia</title>
-    <desc lang="en">Un espacio que aborda diversos proyectos en materia de Medicina y Musica.(n)</desc>
-    <date>2007</date>
-  </programme>
   <programme start="20221127155000 +0000" stop="20221127164500 +0000" channel="Telehit Musica">
     <title lang="en">Musicoterapia</title>
     <desc lang="en">Un espacio que aborda diversos proyectos en materia de Medicina y Musica.(n)</desc>
@@ -10844,66 +10260,6 @@
     <title lang="en">Playlist Telehit</title>
     <desc lang="en">Disfruta de la playlist que propone Telehit para bailar al ritmo de lo mejor del urbano.(n)</desc>
     <date>2019</date>
-  </programme>
-  <programme start="20221127141800 +0000" stop="20221127144200 +0000" channel="Discovery Kids!">
-    <title lang="es">Mi perro Pat</title>
-    <sub-title lang="es">Limpio y rápido; La mafia de las palomas; A jugar golf</sub-title>
-    <desc lang="es">Lola decide publicar un video de Pat y suela en un sitio; en un enfrentamiento con su enemigo Pat, los guanos deciden deshacerse de él; Lola descubre que su madre ya fue campeona de minigolf.(n)</desc>
-    <date>2017</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/04/14047568_4EF24712986F0F8F.jpg" />
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20221127144200 +0000" stop="20221127150300 +0000" channel="Discovery Kids!">
-    <title lang="es">Mi perro Pat</title>
-    <sub-title lang="es">El maratonista; Un día en el museo; Un poco de suerte</sub-title>
-    <desc lang="es">Luego de ver cómo Pat y Tank subieron de peso, Lola y Victor deciden hacerles un programa de entrenamiento. Lola recibe una invitación del museo y se siente ansiosa.(n)</desc>
-    <date>2018</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/99/12997251_95F448B758EC252A.jpg" />
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20221127151700 +0000" stop="20221127152500 +0000" channel="Discovery Kids!">
-    <title lang="es">Mini Beat Power Rockers</title>
-    <sub-title lang="es">Melodía inolvidable</sub-title>
-    <desc lang="es">Después de un error de cálculo en la guardería, Jay pierde la memoria. Los bebés y Dolores intentan ayudarlo a recuperar sus recuerdos con canciones y sonidos de su vida.(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13007441_A08C6191A5CF9775.jpg" />
-    <episode-num system="onscreen">S3 E19</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20221127153000 +0000" stop="20221127154000 +0000" channel="Discovery Kids!">
-    <title lang="es">My Little Pony: Pony Life</title>
-    <sub-title lang="es">El desestrés; Utilería loca</sub-title>
-    <desc lang="es">Applejack sufre de un grave caso de pánico escénico. Los accesorios de Pinkie Pie quedan encantados con la magia.(n)</desc>
-    <date>2021</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/04/14047254_06885A63C58D3E9D.jpg" />
-    <episode-num system="onscreen">S2 E12</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20221127154000 +0000" stop="20221127155400 +0000" channel="Discovery Kids!">
-    <title lang="es">Kung Fu Wa</title>
-    <sub-title lang="es">El show de Chica Kung-fu</sub-title>
-    <desc lang="es">La historia de Chica Kung-fu se adapta a una obra de teatro. Todas las chicas de la escuela van a la audición para el rol principal, incluida Tee Zeng. Pero su actuación es considerada "demasiado sencilla" y "sin elegancia".(n)</desc>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/00/13002113_CE61BDF94F57AE75.jpg" />
-    <episode-num system="onscreen">S1 E17</episode-num>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20221127155400 +0000" stop="20221127160600 +0000" channel="Discovery Kids!">
-    <title lang="es">Primaria de héroes</title>
-    <desc lang="es">Lucita Sky, AJ Gadgets, Sara Snap y Benny Bubbles trabajan con su maestra, la señorita Sparks, para ayudar a las personas y resolver problemas.(n)</desc>
-    <date>2020</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/17/13170497_B71612E8ECAAFA07.jpg" />
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
   </programme>
   <programme start="20221127160600 +0000" stop="20221127162200 +0000" channel="Discovery Kids!">
     <title lang="es">Primaria de héroes</title>
@@ -12122,14 +11478,6 @@
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/01/13015815_8F4999F0279ABF9F.jpg" />
     <rating system="MJColombia">
       <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20221127140000 +0000" stop="20221127150000 +0000" channel="Disney Channel!">
-    <title lang="es">Un mágico verano en Epcot</title>
-    <date>2022</date>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/52/13524678_61EE7FEB0235ED2B.jpg" />
-    <rating system="MJColombia">
-      <value>TE</value>
     </rating>
   </programme>
   <programme start="20221127150000 +0000" stop="20221127164500 +0000" channel="Disney Channel!">
