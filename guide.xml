@@ -1,7 +1,17 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Univision 41">
+    <display-name lang="en">Univision 41.</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/v2/s11118_h15_ab.png" />
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="Telemundo 47">
+    <display-name lang="en">Telemundo 47.</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/v2/s10239_h15_ab.png" />
+    <url>http://www.tvpassport.com</url>
+  </channel>
   <channel id="DAZN LA LIGA">
-    <display-name lang="es">DAZN LA LIGA</display-name>
+    <display-name lang="es">DAZN LaLiga</display-name>
     <icon src="http://www.movistarplus.es/recorte/m-NEOCOL/ficha/DAZNLI.png" />
     <url>http://www.movistarplus.es</url>
   </channel>
@@ -196,10 +206,6 @@
     <display-name lang="en">Sony Movies.</display-name>
     <url>http://www.tvguide.com</url>
   </channel>
-  <channel id="NY1 Noticias">
-    <display-name lang="en">NY1 Noticias.</display-name>
-    <url>http://www.tvguide.com</url>
-  </channel>
   <channel id="BitMe">
     <display-name lang="en">BitMe.</display-name>
     <url>http://www.tvguide.com</url>
@@ -231,24 +237,778 @@
   <channel id="A3Series HD!">
     <display-name lang="es">A3Series HD.</display-name>
     <icon src="https://cdn.sincroguia.tv/uploads/images/v/5/n/xatresseries.jpg.pagespeed.ic.9ZIdKUT2Zo.jpg" />
-    <url>http://www.sincroguia-tv.com.E</url>
-  </channel>
-  <channel id="UniMás">
-    <display-name lang="en">UniMás.</display-name>
-    <url>http://www.tvguide.com</url>
-  </channel>
-  <channel id="Univision 41">
-    <display-name lang="en">Univision 41.</display-name>
-    <url>http://www.tvguide.com</url>
-  </channel>
-  <channel id="Telemundo 47">
-    <display-name lang="en">Telemundo 47.</display-name>
-    <url>http://www.tvguide.com</url>
+    <url>http://www.sincroguia-tv.expansion.com</url>
   </channel>
   <channel id="Telehit Musica">
     <display-name lang="en">Telehit Musica.</display-name>
     <url>http://www.tvguide.com</url>
   </channel>
+  <programme start="20221211060000 -0500" stop="20221211063000 -0500" channel="Univision 41">
+    <title lang="en">Mi Biotina</title>
+    <desc lang="en">Mi Biotina. Fórmula para cabello, piel &amp; uñas, respaldada por investigaciones clínicas. Vive la experiencia de un cabello más grueso en tan solo 3 semanas.(n)</desc>
+    <category lang="en">Paid Program</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p21034305_st_v8_aa.jpg" />
+  </programme>
+  <programme start="20221211063000 -0500" stop="20221211070000 -0500" channel="Univision 41">
+    <title lang="en">Programa pagado</title>
+    <desc lang="en">Programa que muestra diversos productos para la venta.(n)</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p459763_b_v12_bc.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20221211070000 -0500" stop="20221211073000 -0500" channel="Univision 41">
+    <title lang="en">Programa pagado</title>
+    <desc lang="en">Programa que muestra diversos productos para la venta.(n)</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p459763_b_v12_bc.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20221211073000 -0500" stop="20221211080000 -0500" channel="Univision 41">
+    <title lang="en">Programa pagado</title>
+    <desc lang="en">Programa que muestra diversos productos para la venta.(n)</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p459763_b_v12_bc.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20221211080000 -0500" stop="20221211083000 -0500" channel="Univision 41">
+    <title lang="en">Planeta de niños</title>
+    <desc lang="en">Las curiosidades del mundo, la amabilidad, la magia de la amistad. Un espacio para compartir con amigos.(n)</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Instructional</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p15798033_b_s4_ad.jpg" />
+    <rating system="US">
+      <value>TVY</value>
+    </rating>
+  </programme>
+  <programme start="20221211083000 -0500" stop="20221211090000 -0500" channel="Univision 41">
+    <title lang="en">Planeta de niños</title>
+    <desc lang="en">Las curiosidades del mundo, la amabilidad, la magia de la amistad. Un espacio para compartir con amigos.(n)</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Instructional</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p15798033_b_s4_ad.jpg" />
+    <rating system="US">
+      <value>TVY</value>
+    </rating>
+  </programme>
+  <programme start="20221211090000 -0500" stop="20221211110000 -0500" channel="Univision 41">
+    <title lang="en">Despierta América en domingo</title>
+    <desc lang="en">Una nueva manera de comenzar los domingos con lo mejor del espectáculo matutino número uno de América Latina por más de 20 años. Más noticias, más deportes, más historia que se quedaran en los corazones y muchas sorpresas para toda la familia.(n)</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">Variety</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p20772637_i_s4_aa.jpg" />
+  </programme>
+  <programme start="20221211110000 -0500" stop="20221211120000 -0500" channel="Univision 41">
+    <title lang="en">Al punto con Jorge Ramos</title>
+    <desc lang="en">La revista informativa presenta los sucesos más actualizados en los diferentes ámbitos del mundo latino, incluyendo la política, los temas de inmigración, el mundo del entretenimiento, entre otros.(n)</desc>
+    <category lang="en">Regular</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p204194_b_h8_ae.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20221211120000 -0500" stop="20221211130000 -0500" channel="Univision 41">
+    <title lang="en">Aquí y ahora</title>
+    <desc lang="en">Reportajes de investigaciones periodísticas de temas de actualidad, de vanguardia, de opinión pública y de problemáticas sociales, este además tiene su faceta ligera y algunas veces incluye episodios con entrevistas exclusivas de los famosos.(n)</desc>
+    <category lang="en">News Magazine</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p206956_i_s4_ad.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20221211130000 -0500" stop="20221211150000 -0500" channel="Univision 41">
+    <title lang="en">Nuestra Señora de Guadalupe</title>
+    <desc lang="en">Un joven reportero, escéptico hacia el cristianismo moderno, se propone investigar la leyenda de Juan Diego y la Virgen de Guadalupe.(n)</desc>
+    <credits>
+      <actor>Guillermo Iván</actor>
+      <actor>Kimberley Aria Peterson</actor>
+      <actor>Christopher Phipps</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19188287_b_h10_aa.jpg" />
+  </programme>
+  <programme start="20221211150000 -0500" stop="20221211160000 -0500" channel="Univision 41">
+    <title lang="en">República de la Copa</title>
+    <desc lang="en">Un espacio dedicado a debatir y analizar los acontecimientos destacados de la Copa Mundial de la FIFA.(n)</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p23286219_i_h10_aa.jpg" />
+  </programme>
+  <programme start="20221211160000 -0500" stop="20221211170000 -0500" channel="Univision 41">
+    <title lang="en">Contacto deportivo</title>
+    <desc lang="en">El destino obligado de los amantes del deporte para estar actualizados sobre las noticias más importantes y los partidos más destacados de todos los deportes masivos.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11530834_b_v12_ae.jpg" />
+  </programme>
+  <programme start="20221211170000 -0500" stop="20221211180000 -0500" channel="Univision 41">
+    <title lang="en">Amor en Navidad</title>
+    <sub-title lang="en">Una Navidad para recordar</sub-title>
+    <desc lang="en">Máximo, un prestigioso chef colombiano, hereda el restaurante típico que su padre le ha dejado y decide emprender un viaje de reconciliación con su pasado, sus raíces y sus heridas.(n)</desc>
+    <credits>
+      <actor>Gaby Spanic</actor>
+      <actor>Juan Soler</actor>
+      <actor>Paty Manterola</actor>
+    </credits>
+    <category lang="en">Christmas</category>
+    <category lang="en">Soaps</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p23384582_e_h8_aa.jpg" />
+  </programme>
+  <programme start="20221211180000 -0500" stop="20221211183000 -0500" channel="Univision 41">
+    <title lang="en">Noticias 41 Univision fin de semana</title>
+    <desc lang="en">Las últimas y mejores noticias en español de Estados Unidos con un análisis y opinión, inmigración, clima, negocios, política y mucho más.(n)</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p832885_b_h8_aa.jpg" />
+  </programme>
+  <programme start="20221211183000 -0500" stop="20221211190000 -0500" channel="Univision 41">
+    <title lang="en">Noticiero Univisión: Fin de semana</title>
+    <desc lang="en">La información más importante y actualizada de lo que ha sucedido en el mundo durante el fin de semana, realizado por un equipo de periodistas apasionados por su trabajo, objetivos y veraces que dan las últimas noticias y el resumen de la semana.(n)</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p270755_b_h8_ah.jpg" />
+  </programme>
+  <programme start="20221211190000 -0500" stop="20221211200000 -0500" channel="Univision 41">
+    <title lang="en">Aquí y ahora</title>
+    <desc lang="en">Reportajes de investigaciones periodísticas de temas de actualidad, de vanguardia, de opinión pública y de problemáticas sociales, este además tiene su faceta ligera y algunas veces incluye episodios con entrevistas exclusivas de los famosos.(n)</desc>
+    <category lang="en">News Magazine</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p206956_i_s4_ad.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20221211200000 -0500" stop="20221211220000 -0500" channel="Univision 41">
+    <title lang="en">Kung Fu Yoga</title>
+    <desc lang="en">Un profesor de arqueología llamado Jack se une a una profesora india y a su ayudante para intentar localizar un tesoro perdido. Durante su aventura serán perseguidos por un peligroso descendiente de un líder del ejército rebelde.(n)</desc>
+    <credits>
+      <actor>Jackie Chan</actor>
+      <actor>Disha Patani</actor>
+      <actor>Sonu Sood</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13703472_i_h10_aa.jpg" />
+    <star-rating system="US">
+      <value>2</value>
+    </star-rating>
+  </programme>
+  <programme start="20221211220000 -0500" stop="20221211230000 -0500" channel="Univision 41">
+    <title lang="en">De noche pero sin sueño</title>
+    <desc lang="en">Un espacio que reúne a los grandes talentos de la música, la TV y el cine, y los creadores de contenido. Comedia, música e innovadores segmentos de entretenimiento brindan un ritmo dinámico sorprendiendo al público constantemente.(n)</desc>
+    <category lang="en">Performing Arts</category>
+    <category lang="en">Talk Shows</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p23070579_b_v12_aa.jpg" />
+  </programme>
+  <programme start="20221211230000 -0500" stop="20221211233500 -0500" channel="Univision 41">
+    <title lang="en">Noticias 41 Univision fin de semana</title>
+    <desc lang="en">Las últimas y mejores noticias en español de Estados Unidos con un análisis y opinión, inmigración, clima, negocios, política y mucho más.(n)</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p832885_b_h8_aa.jpg" />
+  </programme>
+  <programme start="20221211233500 -0500" stop="20221211235500 -0500" channel="Univision 41">
+    <title lang="en">Noticiero Univisión: Fin de semana</title>
+    <desc lang="en">La información más importante y actualizada de lo que ha sucedido en el mundo durante el fin de semana, realizado por un equipo de periodistas apasionados por su trabajo, objetivos y veraces que dan las últimas noticias y el resumen de la semana.(n)</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p270755_b_h8_ah.jpg" />
+  </programme>
+  <programme start="20221211235500 -0500" stop="20221212020000 -0500" channel="Univision 41">
+    <title lang="en">Mañanitas a Santa María Guadalupe 2022</title>
+    <category lang="en">Specials</category>
+    <category lang="en">Religious</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p23444005_b_v12_aa.jpg" />
+  </programme>
+  <programme start="20221212020000 -0500" stop="20221212030000 -0500" channel="Univision 41">
+    <title lang="en">La rosa de Guadalupe</title>
+    <sub-title lang="en">Un Mensaje de Guadalupe</sub-title>
+    <desc lang="en">Un muchacho le pide a su mamá que le compre un automóvil deportivo porque su mejor amigo tiene uno, pero ella le dice que es muy joven. El amigo del joven le propone secuestrar a su mamá para poder comprarse un carro con el dinero del rescate.(n)</desc>
+    <credits>
+      <actor>Susana Lozano</actor>
+      <actor>Lorena Álvarez</actor>
+      <actor>Marco Antonio Valdez</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p255240_b_v12_ag.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20221212030000 -0500" stop="20221212040000 -0500" channel="Univision 41">
+    <title lang="en">Al punto con Jorge Ramos</title>
+    <desc lang="en">La revista informativa presenta los sucesos más actualizados en los diferentes ámbitos del mundo latino, incluyendo la política, los temas de inmigración, el mundo del entretenimiento, entre otros.(n)</desc>
+    <category lang="en">Regular</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p204194_b_h8_ae.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20221212040000 -0500" stop="20221212050000 -0500" channel="Univision 41">
+    <title lang="en">Como dice el dicho</title>
+    <sub-title lang="en">A pan duro, diente agudo</sub-title>
+    <desc lang="en">Rogelio moderniza la empresa que fue de su abuelo y para esto contrata a Lucía como su asistente, y piensa seriamente en despedir a Mechita, por ser una secretaria anticuada.(n)</desc>
+    <credits>
+      <actor>Michael Ronda</actor>
+      <actor>Wendy González</actor>
+      <actor>Sergio Corona</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8513964_b_h10_ac.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20221212050000 -0500" stop="20221212055700 -0500" channel="Univision 41">
+    <title lang="en">Noticias 41 Al Despertar</title>
+    <desc lang="en">Las últimas y mejores noticias en español, con un análisis profundo y la opinión de expertos, inmigración, clima, negocios, política y mucho más.(n)</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p832878_i_s4_aa.jpg" />
+  </programme>
+  <programme start="20221212055700 -0500" stop="20221212070000 -0500" channel="Univision 41">
+    <title lang="en">Noticias 41 Al Despertar</title>
+    <desc lang="en">Las últimas y mejores noticias en español, con un análisis profundo y la opinión de expertos, inmigración, clima, negocios, política y mucho más.(n)</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p832878_i_s4_aa.jpg" />
+  </programme>
+  <programme start="20221212070000 -0500" stop="20221212110000 -0500" channel="Univision 41">
+    <title lang="en">¡Despierta América!</title>
+    <desc lang="en">Revista matutina con noticias, temas de actualidad, reportajes de farándula, música e información práctica.(n)</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">Variety</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p226569_b_s4_ae.jpg" />
+  </programme>
+  <programme start="20221212110000 -0500" stop="20221212115900 -0500" channel="Univision 41">
+    <title lang="en">Como dice el dicho</title>
+    <sub-title lang="en">Ocasión que se va, quién sabe si volverá</sub-title>
+    <desc lang="en">Julia y Andrés acaban de tener a su bebé, pero ella lo rechaza y su familia no se explica porqué.(n)</desc>
+    <credits>
+      <actor>Michael Ronda</actor>
+      <actor>Wendy González</actor>
+      <actor>Sergio Corona</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8513964_b_h10_ac.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20221212115900 -0500" stop="20221212123000 -0500" channel="Univision 41">
+    <title lang="en">Noticiero Univision: Edición digital</title>
+    <desc lang="en">Noticiero que transmite los hechos mundiales relevantes para la comunidad hispana. Presentado por jóvenes periodistas en un ambiente informal.(n)</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13995473_b_s4_aa.jpg" />
+  </programme>
+  <programme start="20221212123000 -0500" stop="20221212130000 -0500" channel="Univision 41">
+    <title lang="en">Edición digital Nueva York</title>
+    <desc lang="en">Noticiero local con la información más actualizada de la ciudad.(n)</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13967765_b_h8_ab.jpg" />
+  </programme>
+  <programme start="20221212130000 -0500" stop="20221212140000 -0500" channel="Univision 41">
+    <title lang="en">Como dice el dicho</title>
+    <sub-title lang="en">Poderoso caballero es con dinero</sub-title>
+    <desc lang="en">Un par de hermanos extorsionan a un joven, al hacerle creer que atropellaron a uno de ellos. El joven se mete al barrio de los hermanos y ahí conoce a una chica, que le hará cambiar la manera de ver la vida.(n)</desc>
+    <credits>
+      <actor>Michael Ronda</actor>
+      <actor>Wendy González</actor>
+      <actor>Sergio Corona</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8513964_b_h10_ac.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20221212140000 -0500" stop="20221212150000 -0500" channel="Univision 41">
+    <title lang="en">Amor dividido</title>
+    <sub-title lang="en">Danilo está confundido</sub-title>
+    <desc lang="en">Danilo recibe la visita de Fabiola y le comenta que tuvo un hijo con él. Después de todos los problemas que tiene, Gabriel intentará quitarse la vida.(n)</desc>
+    <credits>
+      <actor>Eva Cedeño</actor>
+      <actor>Gabriel Soto</actor>
+    </credits>
+    <category lang="en">Soaps</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p21953376_e_s2_aa.jpg" />
+  </programme>
+  <programme start="20221212150000 -0500" stop="20221212155900 -0500" channel="Univision 41">
+    <title lang="en">Corazón guerrero</title>
+    <sub-title lang="en">Samuel corre peligro</sub-title>
+    <desc lang="en">Tata intenta llevarse a Samuel de vuelta a su casa. Carlota descubre que Mariluz y Jesús sienten cosas, y piensa un plan para separarlos.(n)</desc>
+    <credits>
+      <actor>Gonzalo García Vivanco</actor>
+      <actor>Alejandra Espinoza</actor>
+      <actor>Christian De-la Campa</actor>
+    </credits>
+    <category lang="en">Soaps</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p21759477_b_v12_ab.jpg" />
+  </programme>
+  <programme start="20221212155900 -0500" stop="20221212165800 -0500" channel="Univision 41">
+    <title lang="en">El gordo y la flaca</title>
+    <desc lang="en">Chismes de celebridades y las últimas noticias de la industria del entretenimiento, en un programa que combina entrevistas con actores, músicos y celebridades.(n)</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">Performing Arts</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p374378_b_h8_ac.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20221212165800 -0500" stop="20221212175800 -0500" channel="Univision 41">
+    <title lang="en">Primer impacto</title>
+    <desc lang="en">Una revista que cubre las noticias de última hora y las más impactantes. Un gran equipo de periodistas ofrece completos informes del país y del mundo. El programa también cuenta con dos segmentos de salud semanales.(n)</desc>
+    <category lang="en">News Magazine</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p468944_b_v8_ai.jpg" />
+  </programme>
+  <programme start="20221212175800 -0500" stop="20221212183000 -0500" channel="Univision 41">
+    <title lang="en">Noticias Univision 41</title>
+    <desc lang="en">Las últimas y mejores noticias en español de Estados Unidos con un análisis y opinión, inmigración, clima, negocios, política y mucho más.(n)</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p832993_i_s4_aa.jpg" />
+  </programme>
+  <programme start="20221212183000 -0500" stop="20221212190000 -0500" channel="Univision 41">
+    <title lang="en">Noticiero Univisión</title>
+    <desc lang="en">El noticiero transmite los acontecimientos mundiales que son de interés público para la comunidad hispana desde su sede en Florida e incluye reportajes de la política, el clima, los deportes, la educación, la inmigración, entre otros.(n)</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p270752_i_s4_aa.jpg" />
+  </programme>
+  <programme start="20221212190000 -0500" stop="20221212200000 -0500" channel="Univision 41">
+    <title lang="en">La rosa de Guadalupe</title>
+    <sub-title lang="en">Lo que odio de ti</sub-title>
+    <desc lang="en">Christian es un hombre atractivo y ambicioso que quiere mejorar su vida. Para lograrlo, decide salir con una mujer que lo llena de lujos, pero lo trata como un trofeo. Sus malas decisiones lo llevan a un callejón sin salida del que no podrá salir.(n)</desc>
+    <credits>
+      <actor>Milia Nader</actor>
+      <actor>Diego Lara</actor>
+      <actor>Sandra Itzel</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p255240_b_v12_ag.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20221212200000 -0500" stop="20221212220000 -0500" channel="Univision 41">
+    <title lang="en">Fútbol</title>
+    <sub-title lang="en">Copa por México: Cruz Azul vs. Necaxa</sub-title>
+    <desc lang="en">Fase de Grupos de la Copa por México 2022. Necaxa enfrenta a México.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p7900709_i_h8_bs.jpg" />
+  </programme>
+  <programme start="20221212220000 -0500" stop="20221213000000 -0500" channel="Univision 41">
+    <title lang="en">Fútbol</title>
+    <sub-title lang="en">Copa por México: Atlas vs. Santos Laguna</sub-title>
+    <desc lang="en">Fase de Grupos de la Copa por México 2022. Atlas enfrenta a Santos Laguna.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p7900709_i_h8_bs.jpg" />
+  </programme>
+  <programme start="20221211060000 -0500" stop="20221211090000 -0500" channel="Telemundo 47">
+    <title lang="en">Será anunciado</title>
+    <desc lang="en">Programación que se anunciará.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Political</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p514472_b_s4_dv.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20221211090000 -0500" stop="20221211100000 -0500" channel="Telemundo 47">
+    <title lang="en">Mi Biotina</title>
+    <desc lang="en">Mi Biotina. Fórmula para cabello, piel &amp; uñas, respaldada por investigaciones clínicas. Vive la experiencia de un cabello más grueso en tan solo 3 semanas.(n)</desc>
+    <category lang="en">Paid Program</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p21034305_st_v8_aa.jpg" />
+  </programme>
+  <programme start="20221211100000 -0500" stop="20221211103000 -0500" channel="Telemundo 47">
+    <title lang="en">Programa pagado</title>
+    <desc lang="en">Programa que muestra diversos productos para la venta.(n)</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p459763_b_v12_bc.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20221211103000 -0500" stop="20221211110000 -0500" channel="Telemundo 47">
+    <title lang="en">Mi Biotina</title>
+    <desc lang="en">Mi Biotina. Fórmula para cabello, piel &amp; uñas, respaldada por investigaciones clínicas. Vive la experiencia de un cabello más grueso en tan solo 3 semanas.(n)</desc>
+    <category lang="en">Paid Program</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p21034305_st_v8_aa.jpg" />
+  </programme>
+  <programme start="20221211110000 -0500" stop="20221211113000 -0500" channel="Telemundo 47">
+    <title lang="en">Un equipo: El poder del deporte</title>
+    <sub-title lang="en">Grandes ligas</sub-title>
+    <desc lang="en">El gran cambio de la estrella del sóftbol, Monica Abbott; las mejores atletas femeninas en la historia del equipo de EE.UU. y el viaje en montaña rusa hacia el éxito de la gimnasta Morgan Hurd.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p20327049_e_h10_aa.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20221211113000 -0500" stop="20221211120000 -0500" channel="Telemundo 47">
+    <title lang="en">Exploración planeta Tierra con Dylan Dreyer</title>
+    <sub-title lang="en">Amazon River Islands</sub-title>
+    <desc lang="en">Dylan Dreyer explora las islas del río Amazonas, en el corazón de América del Sur. Los ríos Amazonas y Orinoco brindan un medio ambiente rico para muchas especies fascinantes.(n)</desc>
+    <category lang="en">Instructional</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p16357440_b_s4_ad.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20221211120000 -0500" stop="20221211123000 -0500" channel="Telemundo 47">
+    <title lang="en">Exploración planeta Tierra con Dylan Dreyer</title>
+    <sub-title lang="en">Biggest Beasts</sub-title>
+    <desc lang="en">Dylan Dreyer viaja por todo el mundo para encontrar las especies más grandes del reino animal, desde elefantes hasta nutrias de río gigantes.(n)</desc>
+    <category lang="en">Instructional</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p16357440_b_s4_ad.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20221211123000 -0500" stop="20221211130000 -0500" channel="Telemundo 47">
+    <title lang="en">El viajero con Josh Garcia</title>
+    <sub-title lang="en">Alaska impactante</sub-title>
+    <desc lang="en">En un santuario de animales en Anchorage, Josh tiene la oportunidad de ver el águila calva estadounidense, el buey almizclero salvaje y, además, conoce la técnica para depurar el oro.(n)</desc>
+    <category lang="en">Travel</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13161226_i_h10_ac.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20221211130000 -0500" stop="20221211133000 -0500" channel="Telemundo 47">
+    <title lang="en">El viajero con Josh Garcia</title>
+    <sub-title lang="en">La ciudad de Rotterdam</sub-title>
+    <desc lang="en">Una caminata por Róterdam, en los Países Bajos, para visitar un almacén de queso en Gouda y los molinos de Kinderdijk. Se descubre la relación entre un barco y una ciudad con el mismo nombre.(n)</desc>
+    <category lang="en">Travel</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p16070838_e_s3_aa.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20221211133000 -0500" stop="20221211140000 -0500" channel="Telemundo 47">
+    <title lang="en">Pequeños en la naturaleza</title>
+    <sub-title lang="en">Otoño adorable</sub-title>
+    <desc lang="en">Sheinelle Jones investiga a los animales que disfrutan del otoño. A pesar de que las hojas están cambiando, los bebés gorilas hasta juguetones gatitos salvajes siempre serán los mismos.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19191402_i_s4_ac.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20221211140000 -0500" stop="20221211160000 -0500" channel="Telemundo 47">
+    <title lang="en">Abominable</title>
+    <desc lang="en">Tres adolescentes buscan ayudar a un joven yeti a reunirse con su familia en el Himalaya. Para ello, deben evitar que un hombre inescrupuloso lo capture y lo lleve a un zoológico.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Animated</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p16624487_k_s4_aa.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="US">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20221211160000 -0500" stop="20221211180000 -0500" channel="Telemundo 47">
+    <title lang="en">The Proposal</title>
+    <desc lang="en">Margaret, una famosa e influyente editora de Nueva York, está a punto de ser deportada a Canadá. Para evitarlo, declara que está comprometida con su ayudante Andrew. Él está dispuesto a participar en la farsa, pero imponiendo ciertas condiciones.(n)</desc>
+    <credits>
+      <actor>Sandra Bullock</actor>
+      <actor>Ryan Reynolds</actor>
+      <actor>Mary Steenburgen</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Romance</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p192250_k_h10_aa.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="US">
+      <value>2</value>
+    </star-rating>
+  </programme>
+  <programme start="20221211180000 -0500" stop="20221211183000 -0500" channel="Telemundo 47">
+    <title lang="en">Noticiero 47 Telemundo fin de semana</title>
+    <desc lang="en">El mejor equipo de presentadores y reporteros traen las noticias más importantes y de última hora. Además, las herramientas más avanzadas para el pronostico del tiempo y un equipo de meteorólogos certificados.(n)</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p16522010_b_v12_ad.jpg" />
+  </programme>
+  <programme start="20221211183000 -0500" stop="20221211190000 -0500" channel="Telemundo 47">
+    <title lang="en">Noticias Telemundo fin de semana</title>
+    <desc lang="en">Los reportajes y el análisis de las noticias más importantes de Estados Unidos, América Latina y el mundo.(n)</desc>
+    <credits>
+      <actor>Julio Vaqueiro</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11056269_b_v8_ar.jpg" />
+  </programme>
+  <programme start="20221211190000 -0500" stop="20221211200000 -0500" channel="Telemundo 47">
+    <title lang="en">¿Qué dicen los famosos?</title>
+    <sub-title lang="en">Mauricio Garza vs. Litzy Domínguez</sub-title>
+    <desc lang="en">En una competencia entre familias,.(n)</desc>
+    <category lang="en">Game Shows</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p22961346_i_s4_aa.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20221211200000 -0500" stop="20221211230000 -0500" channel="Telemundo 47">
+    <title lang="en">Exatlón Estados Unidos: All-Stars</title>
+    <sub-title lang="en">Sentencia definitiva</sub-title>
+    <desc lang="en">Una mujer tiene que dejar el.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Extreme</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p23375221_b_v12_ab.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20221211230000 -0500" stop="20221211233000 -0500" channel="Telemundo 47">
+    <title lang="en">Noticiero 47 Telemundo fin de semana</title>
+    <desc lang="en">El mejor equipo de presentadores y reporteros traen las noticias más importantes y de última hora. Además, las herramientas más avanzadas para el pronostico del tiempo y un equipo de meteorólogos certificados.(n)</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p16522010_b_v12_ad.jpg" />
+  </programme>
+  <programme start="20221211233000 -0500" stop="20221211235000 -0500" channel="Telemundo 47">
+    <title lang="en">Noticias Telemundo fin de semana</title>
+    <desc lang="en">Los reportajes y el análisis de las noticias más importantes de Estados Unidos, América Latina y el mundo.(n)</desc>
+    <credits>
+      <actor>Julio Vaqueiro</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11056269_b_v8_ar.jpg" />
+  </programme>
+  <programme start="20221211235000 -0500" stop="20221212010000 -0500" channel="Telemundo 47">
+    <title lang="en">Celebrando a la Virgen de Guadalupe</title>
+    <desc lang="en">Homenaje a la Patrona de las Américas, con la tradicional serenata de medianoche, el testimonio de sus fieles y la misa desde la Basílica de la Virgen de Guadalupe en Ciudad de México.(n)</desc>
+    <category lang="en">Specials</category>
+    <category lang="en">Religious</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p23318538_b_h8_aa.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20221212010000 -0500" stop="20221212020000 -0500" channel="Telemundo 47">
+    <title lang="en">Celebrando a la Virgen de Guadalupe</title>
+    <desc lang="en">Homenaje a la Patrona de las Américas, con la tradicional serenata de medianoche, el testimonio de sus fieles y la misa desde la Basílica de la Virgen de Guadalupe en Ciudad de México.(n)</desc>
+    <category lang="en">Specials</category>
+    <category lang="en">Religious</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p23318538_b_h8_aa.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20221212020000 -0500" stop="20221212030000 -0500" channel="Telemundo 47">
+    <title lang="en">Zona mixta: Edición mundial</title>
+    <desc lang="en">Toda la información de la jornada mundialista presentada de la manera más divertida e irreverente.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p22596809_b_s4_af.jpg" />
+  </programme>
+  <programme start="20221212030000 -0500" stop="20221212040000 -0500" channel="Telemundo 47">
+    <title lang="en">Mi Biotina</title>
+    <desc lang="en">Mi Biotina. Fórmula para cabello, piel &amp; uñas, respaldada por investigaciones clínicas. Vive la experiencia de un cabello más grueso en tan solo 3 semanas.(n)</desc>
+    <category lang="en">Paid Program</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p21034305_st_v8_aa.jpg" />
+  </programme>
+  <programme start="20221212040000 -0500" stop="20221212043000 -0500" channel="Telemundo 47">
+    <title lang="en">Programa pagado</title>
+    <desc lang="en">Programa que muestra diversos productos para la venta.(n)</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p459763_b_v12_bc.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20221212043000 -0500" stop="20221212050000 -0500" channel="Telemundo 47">
+    <title lang="en">Noticiero Telemundo fin de semana</title>
+    <desc lang="en">Los reportajes y el análisis de las noticias más importantes de Estados Unidos, América Latina y el mundo.(n)</desc>
+    <credits>
+      <actor>Julio Vaqueiro</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11056269_b_s4_ap.jpg" />
+  </programme>
+  <programme start="20221212050000 -0500" stop="20221212070000 -0500" channel="Telemundo 47">
+    <title lang="en">Noticiero 47 Telemundo: Primera edición</title>
+    <desc lang="en">El mejor equipo de presentadores y reporteros se centra en las noticias más importantes de última hora en el área tri-estatal de Nueva York. Además, las herramientas más avanzadas para predecir el tiempo y meteorólogos certificados.(n)</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p14357151_i_h8_ab.jpg" />
+  </programme>
+  <programme start="20221212070000 -0500" stop="20221212100000 -0500" channel="Telemundo 47">
+    <title lang="en">Hoy día</title>
+    <desc lang="en">El show de las mañanas que ofrece más entretenimiento y diversión, con contenido positivo, útil e inspirador, pero sin dejar de lado los titulares y noticias que la comunidad hispana en Estados Unidos necesita para comenzar el día bien informada.(n)</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">Variety</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19473387_b_v8_aj.jpg" />
+  </programme>
+  <programme start="20221212100000 -0500" stop="20221212110000 -0500" channel="Telemundo 47">
+    <title lang="en">Caso cerrado</title>
+    <sub-title lang="en">Nos quitó la vida; Venganza de la ex</sub-title>
+    <desc lang="en">Una mujer quiere ser la guardiana del amigo de su hijo, pues siente que llena el espacio que él dejó al morir. Un hombre se lesionó al huir en una infidelidad y ahora no puede practicar su pasión, el paracaidismo.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <category lang="en">Legal</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19338847_e_s2_aa.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20221212110000 -0500" stop="20221212113000 -0500" channel="Telemundo 47">
+    <title lang="en">Caso cerrado</title>
+    <sub-title lang="en">Vestido milagroso</sub-title>
+    <desc lang="en">Ely dice que se curó del cáncer gracias a la Virgen de Guadalupe y a un vestido de vello púbico.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <category lang="en">Legal</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p217714_b_h8_ak.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20221212113000 -0500" stop="20221212120000 -0500" channel="Telemundo 47">
+    <title lang="en">Acceso total</title>
+    <desc lang="en">Las novedades de los artistas locales e internacionales y la diversidad presente en el área triestatal de Nueva York.(n)</desc>
+    <category lang="en">News Magazine</category>
+    <category lang="en">Variety</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13752842_b_v12_af.jpg" />
+  </programme>
+  <programme start="20221212120000 -0500" stop="20221212123000 -0500" channel="Telemundo 47">
+    <title lang="en">Noticiero 47 Telemundo al mediodía</title>
+    <desc lang="en">El mejor equipo de presentadores y reporteros traen las noticias más importantes y de última hora. Además, las herramientas más avanzadas para el pronóstico del tiempo y un equipo de meteorólogos certificados.(n)</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p15061792_b_h8_ad.jpg" />
+  </programme>
+  <programme start="20221212123000 -0500" stop="20221212130000 -0500" channel="Telemundo 47">
+    <title lang="en">Noticias Telemundo mediodía</title>
+    <desc lang="en">Un programa único que narra las noticias de una manera atractiva y perspicaz. Se presentan historias locales y nacionales en vivo.(n)</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p14971948_b_v8_ak.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20221212130000 -0500" stop="20221212140000 -0500" channel="Telemundo 47">
+    <title lang="en">En casa con Telemundo</title>
+    <desc lang="en">Una oferta ligera, de formato accesible, familiar y cálido que incluye entrevistas con grandes estrellas del espectáculo, invitados especiales, buenas noticias y consejos para una vida sana.(n)</desc>
+    <category lang="en">Talk Shows</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p18150635_b_v12_ad.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20221212140000 -0500" stop="20221212145800 -0500" channel="Telemundo 47">
+    <title lang="en">En casa con Telemundo</title>
+    <desc lang="en">Una oferta ligera, de formato accesible, familiar y cálido que incluye entrevistas con grandes estrellas del espectáculo, invitados especiales, buenas noticias y consejos para una vida sana.(n)</desc>
+    <category lang="en">Talk Shows</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p18150635_b_v12_ad.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20221212145800 -0500" stop="20221212155800 -0500" channel="Telemundo 47">
+    <title lang="en">La mesa caliente</title>
+    <desc lang="en">Un equipo de mujeres audaces y empoderadas debate desde diversas perspectivas sobre el entretenimiento y los temas más candentes y controversiales que afectan a la comunidad latina en Estados Unidos.(n)</desc>
+    <category lang="en">News Magazine</category>
+    <category lang="en">Variety</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p21604468_i_s4_ad.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20221212155800 -0500" stop="20221212170000 -0500" channel="Telemundo 47">
+    <title lang="en">Al rojo vivo: Edición mundial</title>
+    <desc lang="en">Una edición especial con la más amplia cobertura de la Copa Mundial de la FIFA Catar 2022, desde el país anfitrión y con todas sus repercusiones en los Estados Unidos y Latinoamérica.(n)</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">News Magazine</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p23264625_b_h8_ab.jpg" />
+  </programme>
+  <programme start="20221212170000 -0500" stop="20221212173000 -0500" channel="Telemundo 47">
+    <title lang="en">Noticiero 47 Telemundo a las 5</title>
+    <desc lang="en">El mejor equipo de presentadores y reporteros se centra en las noticias más importantes de última hora. Además, las herramientas más avanzadas para predecir el tiempo y meteorólogos certificados.(n)</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p16521606_i_s4_ab.jpg" />
+  </programme>
+  <programme start="20221212173000 -0500" stop="20221212180000 -0500" channel="Telemundo 47">
+    <title lang="en">Noticiero 47 Telemundo a las 5:30</title>
+    <desc lang="en">El mejor equipo de presentadores y reporteros se centra en las noticias más importantes de última hora. Además, las herramientas más avanzadas para predecir el tiempo y meteorólogos certificados.(n)</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p16521625_i_h8_ab.jpg" />
+  </programme>
+  <programme start="20221212180000 -0500" stop="20221212183000 -0500" channel="Telemundo 47">
+    <title lang="en">Noticiero 47 Telemundo a las 6</title>
+    <desc lang="en">El mejor equipo de presentadores y reporteros se centra en las noticias más importantes de última hora. Además, las herramientas más avanzadas para predecir el tiempo y meteorólogos certificados.(n)</desc>
+    <credits>
+      <actor>David Rodriguez</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p16521631_i_h8_ab.jpg" />
+  </programme>
+  <programme start="20221212183000 -0500" stop="20221212190000 -0500" channel="Telemundo 47">
+    <title lang="en">Noticias Telemundo</title>
+    <desc lang="en">Los reportajes y el análisis de las noticias más importantes de Estados Unidos, América Latina y el mundo.(n)</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11350796_b_v8_al.jpg" />
+  </programme>
+  <programme start="20221212190000 -0500" stop="20221212210000 -0500" channel="Telemundo 47">
+    <title lang="en">Exatlón Estados Unidos: All-Stars</title>
+    <sub-title lang="en">Enfrentados</sub-title>
+    <desc lang="en">Los Azules se aferran a la.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Extreme</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p23375221_b_v12_ab.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20221212210000 -0500" stop="20221212220000 -0500" channel="Telemundo 47">
+    <title lang="en">La reina del sur</title>
+    <sub-title lang="en">Zombi</sub-title>
+    <desc lang="en">Landero tiene una cita con Julieta: quiere que.(n)</desc>
+    <credits>
+      <actor>Kate del Castillo</actor>
+      <actor>Humberto Zurita</actor>
+      <actor>Pêpê Rapazote</actor>
+    </credits>
+    <category lang="en">Soaps</category>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8549426_i_h10_ag.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20221212220000 -0500" stop="20221212230000 -0500" channel="Telemundo 47">
+    <title lang="en">Amor y traición</title>
+    <sub-title lang="en">Un miedo constante</sub-title>
+    <desc lang="en">El pánico se apodera de Asiye cuando ve las fotografías de Ugur publicadas en la revista, pero ya no está sola. Una discrepancia en asuntos de negocios aumenta la tensión entre Mahir y Cemal.(n)</desc>
+    <credits>
+      <actor>Akin Akinozu</actor>
+      <actor>Öykü Karayel</actor>
+      <actor>Sarp Apak</actor>
+    </credits>
+    <category lang="en">Soaps</category>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p23338162_i_h8_ab.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20221212230000 -0500" stop="20221212233500 -0500" channel="Telemundo 47">
+    <title lang="en">Noticiero 47 Telemundo a las 11</title>
+    <desc lang="en">El mejor equipo de presentadores y reporteros se centra en las noticias más importantes de última hora. Además, las herramientas más avanzadas para predecir el tiempo y meteorólogos certificados.(n)</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p16521659_b_v12_ad.jpg" />
+  </programme>
+  <programme start="20221212233500 -0500" stop="20221213000000 -0500" channel="Telemundo 47">
+    <title lang="en">Noticias Telemundo en la noche</title>
+    <desc lang="en">Un espacio de noticias con todo lo que es necesario saber antes de que acabe el día. La información más relevante de Estados Unidos y el mundo, en 20 minutos.(n)</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p18471293_b_v8_ai.jpg" />
+  </programme>
   <programme start="20221211060000 +0100" stop="20221211120000 +0100" channel="DAZN LA LIGA">
     <title lang="es">DAZN LaLiga</title>
   </programme>
@@ -1228,31 +1988,6 @@
     <category lang="it">Musica</category>
     <icon src="https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png" />
   </programme>
-  <programme start="20221211170000 +0000" stop="20221211192500 +0000" channel="VH1 US">
-    <title lang="en">Just Wright</title>
-    <desc lang="en">In this crowd-pleasing romantic comedy, a tough-talking physical therapist named Leslie Wright (Queen Latifah) is hired to rehab an injured NBA star, whose fiancée leaves him when it looks like his career is over. Eventually, Leslie finds herself falling for the athlete and she discovers the feeling may be mutual. But after his rehab is complete, his fiancée returns to reclaim her man. Directed by Sanaa Hamri. (repeat).(n)</desc>
-    <credits>
-      <director>Sanaa Hamri</director>
-      <actor role="Leslie Wright">Queen Latifah</actor>
-      <actor role="Scott McKnight">Common</actor>
-      <actor role="Morgan Alexander">Paula Patton</actor>
-      <actor role="Ella McKnight">Phylicia Rashad</actor>
-      <actor role="Angelo Bembrey">Mehcad Brooks</actor>
-      <actor role="Janice Wright">Pam Grier</actor>
-      <actor role="Lloyd Wright">James Pickens Jr.</actor>
-      <actor role="Mark Matthews">Laz Alonso</actor>
-      <writer>Michael  Elliott</writer>
-      <producer>Debra Martin Chase</producer>
-      <composer>Wendy Melvoin</composer>
-    </credits>
-    <date>2010</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Comedy</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/7352/007352/007352_763x429_42894.jpg" />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
   <programme start="20221211192500 +0000" stop="20221211220000 +0000" channel="VH1 US">
     <title lang="en">Tyler Perry's Madea's Witness Protection</title>
     <desc lang="en">A crooked investor is forced to flee from the mob by entering the Witness Protection Program in this hilarious comedy. He and his family are assigned to live with no-nonsense grandmother Madea, who helps the dysfunctional clan reconnect with each other. (repeat).(n)</desc>
@@ -1593,7 +2328,8 @@
   </programme>
   <programme start="20221212110000 +0000" stop="20221212113000 +0000" channel="VH1 US">
     <title lang="en">Martin</title>
-    <desc lang="en">Sassy humor about a hip though decidedly chauvinistic talk-show personality; his girlfriend, with whom he has a very adversarial relationship; and his two best friends, who spend most of their time hanging out at his apartment. (repeat).(n)</desc>
+    <sub-title lang="en">Martin's on the Move</sub-title>
+    <desc lang="en">After losing his job at WZUP, Martin is broke, searching for work and being evicted from his apartment. Martin Lawrence. Process Server: Tommy Hicks. Sean: Jonathan Gries. Tommy: Thomas Mikal Ford. Gina: Tisha Campbell. Cole: Carl Anthony Payne II. (repeat).(n)</desc>
     <credits>
       <director>Tony Singletary</director>
       <director>Chuck Vinson</director>
@@ -1606,15 +2342,17 @@
       <actor role="Pizza/Flower/Tire Man">Tracy Morgan</actor>
       <producer>Topper Carew</producer>
     </credits>
-    <date>1992</date>
+    <date>1994</date>
     <category lang="en">Comedy</category>
+    <episode-num system="onscreen">S2 E27</episode-num>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20221212113000 +0000" stop="20221212120000 +0000" channel="VH1 US">
     <title lang="en">Martin</title>
-    <desc lang="en">Sassy humor about a hip though decidedly chauvinistic talk-show personality; his girlfriend, with whom he has a very adversarial relationship; and his two best friends, who spend most of their time hanging out at his apartment. (repeat).(n)</desc>
+    <sub-title lang="en">In Search of...Martin</sub-title>
+    <desc lang="en">Gina searches for the missing Martin, who's joined a cult. Mama Jama: Armelia McQueen. Madame Anaconda: Shirley Prestia. Brethren No. 1: William Callaway. Gina: Tisha Campbell. (repeat).(n)</desc>
     <credits>
       <director>Tony Singletary</director>
       <director>Chuck Vinson</director>
@@ -1627,15 +2365,17 @@
       <actor role="Pizza/Flower/Tire Man">Tracy Morgan</actor>
       <producer>Topper Carew</producer>
     </credits>
-    <date>1992</date>
+    <date>1994</date>
     <category lang="en">Comedy</category>
+    <episode-num system="onscreen">S3 E1</episode-num>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20221212120000 +0000" stop="20221212123000 +0000" channel="VH1 US">
     <title lang="en">Martin</title>
-    <desc lang="en">Sassy humor about a hip though decidedly chauvinistic talk-show personality; his girlfriend, with whom he has a very adversarial relationship; and his two best friends, who spend most of their time hanging out at his apartment. (repeat).(n)</desc>
+    <sub-title lang="en">Martin Returns</sub-title>
+    <desc lang="en">Martin returns to find his apartment redecorated, and the redecorator---Gina---with plans for their relationship. Gina: Tisha Campbell. Pam: Tichina Arnold. Cole: Carl Anthony Payne II. Tommy: Thomas Mikal Ford. (repeat).(n)</desc>
     <credits>
       <director>Tony Singletary</director>
       <director>Chuck Vinson</director>
@@ -1648,15 +2388,17 @@
       <actor role="Pizza/Flower/Tire Man">Tracy Morgan</actor>
       <producer>Topper Carew</producer>
     </credits>
-    <date>1992</date>
+    <date>1994</date>
     <category lang="en">Comedy</category>
+    <episode-num system="onscreen">S3 E2</episode-num>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20221212123000 +0000" stop="20221212130000 +0000" channel="VH1 US">
     <title lang="en">Martin</title>
-    <desc lang="en">Sassy humor about a hip though decidedly chauvinistic talk-show personality; his girlfriend, with whom he has a very adversarial relationship; and his two best friends, who spend most of their time hanging out at his apartment. (repeat).(n)</desc>
+    <sub-title lang="en">I've Got Work to Do</sub-title>
+    <desc lang="en">Martin goes looking for a good job, but lands a series of part-time positions. Martin Lawrence. Myra: Bebe Drake. Gina: Tisha Campbell. Pam: Tichina Arnold. Cole: Carl Anthony Payne II. (repeat).(n)</desc>
     <credits>
       <director>Tony Singletary</director>
       <director>Chuck Vinson</director>
@@ -1669,15 +2411,17 @@
       <actor role="Pizza/Flower/Tire Man">Tracy Morgan</actor>
       <producer>Topper Carew</producer>
     </credits>
-    <date>1992</date>
+    <date>1994</date>
     <category lang="en">Comedy</category>
+    <episode-num system="onscreen">S3 E3</episode-num>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20221212130000 +0000" stop="20221212133000 +0000" channel="VH1 US">
     <title lang="en">The Fresh Prince of Bel-Air</title>
-    <desc lang="en">Between early success as a rapper and later on the big screen, Will Smith headlined this hit sitcom about a streetwise Philadelphia youth living with wealthy relatives in L.A. The cultural clashes that inevitably arose resulted in life lessons for all. (repeat).(n)</desc>
+    <sub-title lang="en">Reality Bites</sub-title>
+    <desc lang="en">Will loses points as a role model for Nicky (Ross Bagley) while visiting an ever-positive kiddie hero who brings joy to youngsters---but not to Will. Dougie: Monty Hoffman. Santa: Dick O'Neill. Leeza Gibbons: Herself. Will: Will Smith. (repeat).(n)</desc>
     <credits>
       <director>Shelley Jensen</director>
       <director>Ellen Gittelsohn</director>
@@ -1692,17 +2436,20 @@
       <producer>Werner Walian</producer>
       <composer>Quincy Jones III</composer>
     </credits>
-    <date>1990</date>
+    <date>1994</date>
     <category lang="en">Family</category>
     <category lang="en">Comedy</category>
     <icon src="https://content.internetvideoarchive.com/content/photos/6767/28424333_.jpg" />
+    <episode-num system="onscreen">S5</episode-num>
+    <episode-num system="onscreen">5 E4</episode-num>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20221212133000 +0000" stop="20221212140000 +0000" channel="VH1 US">
     <title lang="en">The Fresh Prince of Bel-Air</title>
-    <desc lang="en">Between early success as a rapper and later on the big screen, Will Smith headlined this hit sitcom about a streetwise Philadelphia youth living with wealthy relatives in L.A. The cultural clashes that inevitably arose resulted in life lessons for all. (repeat).(n)</desc>
+    <sub-title lang="en">Grumpy Young Men</sub-title>
+    <desc lang="en">Will blasts Carlton for stealing his woman while on a double date, and their fight lasts for days. Valerie: Tembi Locke. Karen: JoNell Kennedy. Carlton: Alfonso Ribeiro. Will: Will Smith. (repeat).(n)</desc>
     <credits>
       <director>Shelley Jensen</director>
       <director>Ellen Gittelsohn</director>
@@ -1717,17 +2464,20 @@
       <producer>Werner Walian</producer>
       <composer>Quincy Jones III</composer>
     </credits>
-    <date>1990</date>
+    <date>1994</date>
     <category lang="en">Family</category>
     <category lang="en">Comedy</category>
     <icon src="https://content.internetvideoarchive.com/content/photos/6767/28424333_.jpg" />
+    <episode-num system="onscreen">S5</episode-num>
+    <episode-num system="onscreen">5 E5</episode-num>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20221212140000 +0000" stop="20221212143000 +0000" channel="VH1 US">
     <title lang="en">The Fresh Prince of Bel-Air</title>
-    <desc lang="en">Between early success as a rapper and later on the big screen, Will Smith headlined this hit sitcom about a streetwise Philadelphia youth living with wealthy relatives in L.A. The cultural clashes that inevitably arose resulted in life lessons for all. (repeat).(n)</desc>
+    <sub-title lang="en">Fresh Prince: The Movie</sub-title>
+    <desc lang="en">Will tells a tall tale about seeing a mob killing, then being placed in a witness-protection program in the backwoods of Alabama. McCoy: Dennis Burkley. Big Bertha: Rusty Schwimmer. O'Neill: Brad Garrett. Rufus: John Voldstad. (repeat).(n)</desc>
     <credits>
       <director>Shelley Jensen</director>
       <director>Ellen Gittelsohn</director>
@@ -1742,17 +2492,20 @@
       <producer>Werner Walian</producer>
       <composer>Quincy Jones III</composer>
     </credits>
-    <date>1990</date>
+    <date>1994</date>
     <category lang="en">Family</category>
     <category lang="en">Comedy</category>
     <icon src="https://content.internetvideoarchive.com/content/photos/6767/28424333_.jpg" />
+    <episode-num system="onscreen">S5</episode-num>
+    <episode-num system="onscreen">5 E6</episode-num>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20221212143000 +0000" stop="20221212150000 +0000" channel="VH1 US">
     <title lang="en">The Fresh Prince of Bel-Air</title>
-    <desc lang="en">Between early success as a rapper and later on the big screen, Will Smith headlined this hit sitcom about a streetwise Philadelphia youth living with wealthy relatives in L.A. The cultural clashes that inevitably arose resulted in life lessons for all. (repeat).(n)</desc>
+    <sub-title lang="en">Will's Misery</sub-title>
+    <desc lang="en">Will may soon regret throwing out phony lines to reel in sorority pledges. Kareem Abdul Jabbar has a cameo. Lisa: Nia Long. Stephanie: Narcissa Marte. Big Ethel: Donayeis. Will: Will Smith. Hilary: Karyn Parsons. (repeat).(n)</desc>
     <credits>
       <director>Shelley Jensen</director>
       <director>Ellen Gittelsohn</director>
@@ -1767,17 +2520,20 @@
       <producer>Werner Walian</producer>
       <composer>Quincy Jones III</composer>
     </credits>
-    <date>1990</date>
+    <date>1994</date>
     <category lang="en">Family</category>
     <category lang="en">Comedy</category>
     <icon src="https://content.internetvideoarchive.com/content/photos/6767/28424333_.jpg" />
+    <episode-num system="onscreen">S5</episode-num>
+    <episode-num system="onscreen">5 E7</episode-num>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20221212150000 +0000" stop="20221212153000 +0000" channel="VH1 US">
     <title lang="en">The Fresh Prince of Bel-Air</title>
-    <desc lang="en">Between early success as a rapper and later on the big screen, Will Smith headlined this hit sitcom about a streetwise Philadelphia youth living with wealthy relatives in L.A. The cultural clashes that inevitably arose resulted in life lessons for all. (repeat).(n)</desc>
+    <sub-title lang="en">Father Knows Best</sub-title>
+    <desc lang="en">Ashley abandons her private-school education for the "real world" of public education, thanks to inspiration from Will. Ms. Sharpe: Renee Jones. Ashley: Tatyana M. Ali. Hilary: Karyn Parsons. Will: Will Smith. (repeat).(n)</desc>
     <credits>
       <director>Shelley Jensen</director>
       <director>Ellen Gittelsohn</director>
@@ -1792,17 +2548,20 @@
       <producer>Werner Walian</producer>
       <composer>Quincy Jones III</composer>
     </credits>
-    <date>1990</date>
+    <date>1994</date>
     <category lang="en">Family</category>
     <category lang="en">Comedy</category>
     <icon src="https://content.internetvideoarchive.com/content/photos/6767/28424333_.jpg" />
+    <episode-num system="onscreen">S5</episode-num>
+    <episode-num system="onscreen">5 E8</episode-num>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20221212153000 +0000" stop="20221212160000 +0000" channel="VH1 US">
     <title lang="en">The Fresh Prince of Bel-Air</title>
-    <desc lang="en">Between early success as a rapper and later on the big screen, Will Smith headlined this hit sitcom about a streetwise Philadelphia youth living with wealthy relatives in L.A. The cultural clashes that inevitably arose resulted in life lessons for all. (repeat).(n)</desc>
+    <sub-title lang="en">Soul Train</sub-title>
+    <desc lang="en">A "Soul Train" reunion has Vivian recalling Philip's marriage proposal on the show years earlier. Don Cornelius appears as himself. Vivian: Daphne Maxwell Reid. Philip: James Avery. Lamont: Antonio Fargas. Will: Will Smith. (repeat).(n)</desc>
     <credits>
       <director>Shelley Jensen</director>
       <director>Ellen Gittelsohn</director>
@@ -1817,17 +2576,20 @@
       <producer>Werner Walian</producer>
       <composer>Quincy Jones III</composer>
     </credits>
-    <date>1990</date>
+    <date>1994</date>
     <category lang="en">Family</category>
     <category lang="en">Comedy</category>
     <icon src="https://content.internetvideoarchive.com/content/photos/6767/28424333_.jpg" />
+    <episode-num system="onscreen">S5</episode-num>
+    <episode-num system="onscreen">5 E9</episode-num>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20221212160000 +0000" stop="20221212163000 +0000" channel="VH1 US">
     <title lang="en">The Wayans Bros.</title>
-    <desc lang="en">The misadventures of fast-talking siblings and their moneymaking schemes. (repeat).(n)</desc>
+    <sub-title lang="en">Unbrotherly Love</sub-title>
+    <desc lang="en">Dumbfounded when his girl dumps him for Marlon, Shawn convinces himself she's trying to make him jealous. Monica Calhoun, Tracey Costello, John Witherspoon, Anna Maria Horsford, Shawn Wayans, Marlon Wayans. (repeat).(n)</desc>
     <credits>
       <director>John Bowab</director>
       <director>Glynn Turman</director>
@@ -1836,15 +2598,17 @@
       <actor role="John `Pops' Williams">John Witherspoon</actor>
       <actor role="Dee">Anna Maria Horsford</actor>
     </credits>
-    <date>1995</date>
+    <date>1996</date>
     <category lang="en">Comedy</category>
+    <episode-num system="onscreen">S3 E2</episode-num>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20221212163000 +0000" stop="20221212170000 +0000" channel="VH1 US">
     <title lang="en">The Wayans Bros.</title>
-    <desc lang="en">The misadventures of fast-talking siblings and their moneymaking schemes. (repeat).(n)</desc>
+    <sub-title lang="en">Movin' on Up</sub-title>
+    <desc lang="en">Shawn spurns his pals for a yuppie crowd and masquerades as an executive, so Marlon sets out to downsize his ego. Parker: Phil Morris. Dupree: Jermaine Hopkins. Shawn: Shawn Wayans. Marlon: Marlon Wayans. (repeat).(n)</desc>
     <credits>
       <director>John Bowab</director>
       <director>Glynn Turman</director>
@@ -1853,15 +2617,17 @@
       <actor role="John `Pops' Williams">John Witherspoon</actor>
       <actor role="Dee">Anna Maria Horsford</actor>
     </credits>
-    <date>1995</date>
+    <date>1996</date>
     <category lang="en">Comedy</category>
+    <episode-num system="onscreen">S3 E3</episode-num>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20221212170000 +0000" stop="20221212173000 +0000" channel="VH1 US">
     <title lang="en">The Wayans Bros.</title>
-    <desc lang="en">The misadventures of fast-talking siblings and their moneymaking schemes. (repeat).(n)</desc>
+    <sub-title lang="en">Gots to Have a J-O-B</sub-title>
+    <desc lang="en">Marlon becomes famous in malt-liquor commercials, but there's trouble brewing when he portrays a ghetto stereotype. Marlon: Marlon Wayans. Shawn: Shawn Wayans. Simone: Kimberly Moss. Tom: John Webber. (repeat).(n)</desc>
     <credits>
       <director>John Bowab</director>
       <director>Glynn Turman</director>
@@ -1870,15 +2636,17 @@
       <actor role="John `Pops' Williams">John Witherspoon</actor>
       <actor role="Dee">Anna Maria Horsford</actor>
     </credits>
-    <date>1995</date>
+    <date>1996</date>
     <category lang="en">Comedy</category>
+    <episode-num system="onscreen">S3 E4</episode-num>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20221212173000 +0000" stop="20221212180000 +0000" channel="VH1 US">
     <title lang="en">The Wayans Bros.</title>
-    <desc lang="en">The misadventures of fast-talking siblings and their moneymaking schemes. (repeat).(n)</desc>
+    <sub-title lang="en">Trippin'</sub-title>
+    <desc lang="en">Marlon wins a vacation for two, but it's no day at the beach when Shawn, Pops and Grandma battle over the second ticket. Marlon: Marlon Wayans. Shawn: Shawn Wayans. Pops: John Witherspoon. Grandma: Ja'Net Du Bois. (repeat).(n)</desc>
     <credits>
       <director>John Bowab</director>
       <director>Glynn Turman</director>
@@ -1887,15 +2655,17 @@
       <actor role="John `Pops' Williams">John Witherspoon</actor>
       <actor role="Dee">Anna Maria Horsford</actor>
     </credits>
-    <date>1995</date>
+    <date>1996</date>
     <category lang="en">Comedy</category>
+    <episode-num system="onscreen">S3 E5</episode-num>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20221212180000 +0000" stop="20221212183000 +0000" channel="VH1 US">
     <title lang="en">Living Single</title>
-    <desc lang="en">The lives and loves of a magazine editor and her roommates living in a Brooklyn brownstone, with plotlines revolving around their ever-changing relationships with neighbors, coworkers and boyfriends. Winner of two NAACP Image Awards. (repeat).(n)</desc>
+    <sub-title lang="en">Moonlight Savings Time</sub-title>
+    <desc lang="en">Overton the handyman nearly gets Max evicted; an industrious housekeeper (Joseph Marcell) tidies up for the women roommates. Mr. Leon: Thomas Jefferson Byrd. Overton: John Henton. Max: Erika Alexander. (repeat).(n)</desc>
     <credits>
       <director>Ellen Gittelsohn</director>
       <director>Henry Chan</director>
@@ -1908,15 +2678,17 @@
       <actor role="Regine Hunter">Kim Fields Freeman</actor>
       <actor role="Ivan">Bumper Robinson</actor>
     </credits>
-    <date>1993</date>
+    <date>1997</date>
     <category lang="en">Comedy</category>
+    <episode-num system="onscreen">S4 E19</episode-num>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20221212183000 +0000" stop="20221212190000 +0000" channel="VH1 US">
     <title lang="en">Living Single</title>
-    <desc lang="en">The lives and loves of a magazine editor and her roommates living in a Brooklyn brownstone, with plotlines revolving around their ever-changing relationships with neighbors, coworkers and boyfriends. Winner of two NAACP Image Awards. (repeat).(n)</desc>
+    <sub-title lang="en">Living Single Undercover</sub-title>
+    <desc lang="en">Khadijah clashes with a hot new reporter (Duane Martin), who has his own methods of getting a story. Jim Brown appears as himself. Ivan: Bumper Robinson. The Eclipse: Shashawnee Hall. Off. Coleman: Lamont Johnson. (repeat).(n)</desc>
     <credits>
       <director>Ellen Gittelsohn</director>
       <director>Henry Chan</director>
@@ -1929,15 +2701,17 @@
       <actor role="Regine Hunter">Kim Fields Freeman</actor>
       <actor role="Ivan">Bumper Robinson</actor>
     </credits>
-    <date>1993</date>
+    <date>1997</date>
     <category lang="en">Comedy</category>
+    <episode-num system="onscreen">S4 E20</episode-num>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20221212190000 +0000" stop="20221212193000 +0000" channel="VH1 US">
     <title lang="en">Living Single</title>
-    <desc lang="en">The lives and loves of a magazine editor and her roommates living in a Brooklyn brownstone, with plotlines revolving around their ever-changing relationships with neighbors, coworkers and boyfriends. Winner of two NAACP Image Awards. (repeat).(n)</desc>
+    <sub-title lang="en">One Degree of Separation</sub-title>
+    <desc lang="en">Synclaire's parents (Denise Nicholas, Ron O'Neal) drop a bomb at her engagement party. Gladys Knight and Antonio Fargas play Overton's parents. Teddy: Kevin Richardson. Lisa: Kenya Moore. Synclaire: Kim Coles. (repeat).(n)</desc>
     <credits>
       <director>Ellen Gittelsohn</director>
       <director>Henry Chan</director>
@@ -1950,15 +2724,17 @@
       <actor role="Regine Hunter">Kim Fields Freeman</actor>
       <actor role="Ivan">Bumper Robinson</actor>
     </credits>
-    <date>1993</date>
+    <date>1997</date>
     <category lang="en">Comedy</category>
+    <episode-num system="onscreen">S4 E21</episode-num>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20221212193000 +0000" stop="20221212200000 +0000" channel="VH1 US">
     <title lang="en">Living Single</title>
-    <desc lang="en">The lives and loves of a magazine editor and her roommates living in a Brooklyn brownstone, with plotlines revolving around their ever-changing relationships with neighbors, coworkers and boyfriends. Winner of two NAACP Image Awards. (repeat).(n)</desc>
+    <sub-title lang="en">Too Good to Screw</sub-title>
+    <desc lang="en">Overton and Synclaire's plans to celebrate their impending nuptials conflict with parties under consideration by their self-indulgent friends. Ava: Tracy Vilar. Damon: Kenny Blank. Uncle Tibby: J. Anthony Brown. Mr. Nacogdoches: Don Perry. Overton: John Henton. (repeat).(n)</desc>
     <credits>
       <director>Ellen Gittelsohn</director>
       <director>Henry Chan</director>
@@ -1971,15 +2747,17 @@
       <actor role="Regine Hunter">Kim Fields Freeman</actor>
       <actor role="Ivan">Bumper Robinson</actor>
     </credits>
-    <date>1993</date>
+    <date>1997</date>
     <category lang="en">Comedy</category>
+    <episode-num system="onscreen">S4 E22</episode-num>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20221212200000 +0000" stop="20221212203000 +0000" channel="VH1 US">
     <title lang="en">Living Single</title>
-    <desc lang="en">The lives and loves of a magazine editor and her roommates living in a Brooklyn brownstone, with plotlines revolving around their ever-changing relationships with neighbors, coworkers and boyfriends. Winner of two NAACP Image Awards. (repeat).(n)</desc>
+    <sub-title lang="en">Papa Was a Rolling Stone</sub-title>
+    <desc lang="en">Khadijah tries to accept her absentee dad (Michael Warren) for the person he is when he arrives for Synclaire's wedding. Khadijah: Queen Latifah. Overton: John Henton. Synclaire: Kim Coles. Max: Erika Alexander. (repeat).(n)</desc>
     <credits>
       <director>Ellen Gittelsohn</director>
       <director>Henry Chan</director>
@@ -1992,15 +2770,17 @@
       <actor role="Regine Hunter">Kim Fields Freeman</actor>
       <actor role="Ivan">Bumper Robinson</actor>
     </credits>
-    <date>1993</date>
+    <date>1997</date>
     <category lang="en">Comedy</category>
+    <episode-num system="onscreen">S4 E23</episode-num>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20221212203000 +0000" stop="20221212210000 +0000" channel="VH1 US">
     <title lang="en">Living Single</title>
-    <desc lang="en">The lives and loves of a magazine editor and her roommates living in a Brooklyn brownstone, with plotlines revolving around their ever-changing relationships with neighbors, coworkers and boyfriends. Winner of two NAACP Image Awards. (repeat).(n)</desc>
+    <sub-title lang="en">Never Can Say Goodbye</sub-title>
+    <desc lang="en">As Overton and Synclaire prepare to tie the knot, Kyle wrestles with a knotty decision concerning a job offer in London. NFL star Desmond Howard has a cameo. Clinton: Ron O'Neal. Uncle Tibby: J. Anthony Brown. Odelle: Gladys Knight. (repeat).(n)</desc>
     <credits>
       <director>Ellen Gittelsohn</director>
       <director>Henry Chan</director>
@@ -2013,8 +2793,9 @@
       <actor role="Regine Hunter">Kim Fields Freeman</actor>
       <actor role="Ivan">Bumper Robinson</actor>
     </credits>
-    <date>1993</date>
+    <date>1997</date>
     <category lang="en">Comedy</category>
+    <episode-num system="onscreen">S4 E24</episode-num>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -2059,21 +2840,6 @@
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
-  </programme>
-  <programme start="20221211190000 +0000" stop="20221211193000 +0000" channel="RT (Russia Today)">
-    <title lang="en">Juventud de Donbass: Hoy como ayer-I</title>
-    <desc lang="en">Hoy como ayer, la muerte es a veces el precio a pagar por la defensa de la patria.(n)</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20221211193000 +0000" stop="20221211200000 +0000" channel="RT (Russia Today)">
-    <title lang="en">Juventud de Donbass: Hoy como ayer-II</title>
-    <desc lang="en">Hoy como ayer, la muerte es a veces el precio a pagar por la defensa de la patria.(n)</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20221211200000 +0000" stop="20221211203000 +0000" channel="RT (Russia Today)">
-    <title lang="en">La catedral de San Basilio, un símbolo de Rusia</title>
-    <desc lang="en">Conoce la Catedral de San Basilio, símbolo de Rusia y una reconocida obra arquitectónica.(n)</desc>
-    <date>2021</date>
   </programme>
   <programme start="20221211203000 +0000" stop="20221211210000 +0000" channel="RT (Russia Today)">
     <title lang="en">Contrapunto</title>
@@ -2327,32 +3093,6 @@
     <title lang="en">Los cazadores de auroras</title>
     <desc lang="en">El firmamento ofrece pocos espectáculos más hermosos que las auroras polares,.(n)</desc>
   </programme>
-  <programme start="20221211190000 +0000" stop="20221211200000 +0000" channel="USA Network">
-    <title lang="en">Law &amp; Order: Special Victims Unit</title>
-    <sub-title lang="en">Nightmares in Drill City</sub-title>
-    <desc lang="en">Carisi asks the SVU for help with a murder investigation when one of the witnesses shows signs of abuse. (repeat).(n)</desc>
-    <credits>
-      <director>Dick Wolf</director>
-      <director>Arthur W. Forney</director>
-      <actor role="Det. Olivia Benson">Mariska Hargitay</actor>
-      <actor role="Det. Odafin `Fin' Tutuola">Ice-T</actor>
-      <actor role="Dominick Carisi">Peter Scanavino</actor>
-      <actor role="Kathy Stabler">Isabel Gillies</actor>
-      <writer>Warren Leight</writer>
-      <producer>Dick Wolf</producer>
-      <composer>Mike Post</composer>
-    </credits>
-    <date>2021</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Suspense</category>
-    <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12645/012645/012645_960x720_580205_020.jpg" />
-    <episode-num system="onscreen">S23</episode-num>
-    <episode-num system="onscreen">23 E8</episode-num>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20221211200000 +0000" stop="20221211210000 +0000" channel="USA Network">
     <title lang="en">Law &amp; Order: Special Victims Unit</title>
     <sub-title lang="en">People vs. Richard Wheatley</sub-title>
@@ -2372,7 +3112,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Suspense</category>
     <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12645/012645/012645_960x720_580205_020.jpg" />
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12625/012625/012625_960x720_198571_029.jpg" />
     <episode-num system="onscreen">S23</episode-num>
     <episode-num system="onscreen">23 E9</episode-num>
     <rating system="MPAA">
@@ -2398,7 +3138,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Suspense</category>
     <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12645/012645/012645_960x720_580205_020.jpg" />
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12625/012625/012625_960x720_198571_029.jpg" />
     <episode-num system="onscreen">S23</episode-num>
     <episode-num system="onscreen">23 E10</episode-num>
     <rating system="MPAA">
@@ -2424,7 +3164,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Suspense</category>
     <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12645/012645/012645_960x720_580205_020.jpg" />
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12625/012625/012625_960x720_198571_029.jpg" />
     <episode-num system="onscreen">S23</episode-num>
     <episode-num system="onscreen">23 E11</episode-num>
     <rating system="MPAA">
@@ -2450,7 +3190,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Suspense</category>
     <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12645/012645/012645_960x720_580205_020.jpg" />
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12625/012625/012625_960x720_198571_029.jpg" />
     <episode-num system="onscreen">S23</episode-num>
     <episode-num system="onscreen">23 E12</episode-num>
     <rating system="MPAA">
@@ -2476,7 +3216,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Suspense</category>
     <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12645/012645/012645_960x720_580205_020.jpg" />
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12625/012625/012625_960x720_198571_029.jpg" />
     <episode-num system="onscreen">S23</episode-num>
     <episode-num system="onscreen">23 E13</episode-num>
     <rating system="MPAA">
@@ -2502,7 +3242,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Suspense</category>
     <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12645/012645/012645_960x720_580205_020.jpg" />
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12625/012625/012625_960x720_198571_029.jpg" />
     <episode-num system="onscreen">S23</episode-num>
     <episode-num system="onscreen">23 E14</episode-num>
     <rating system="MPAA">
@@ -2528,7 +3268,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Suspense</category>
     <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12645/012645/012645_960x720_580205_020.jpg" />
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12625/012625/012625_960x720_198571_029.jpg" />
     <episode-num system="onscreen">S23</episode-num>
     <episode-num system="onscreen">23 E15</episode-num>
     <rating system="MPAA">
@@ -2554,7 +3294,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Suspense</category>
     <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12645/012645/012645_960x720_580205_020.jpg" />
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12625/012625/012625_960x720_198571_029.jpg" />
     <episode-num system="onscreen">S23</episode-num>
     <episode-num system="onscreen">23 E16</episode-num>
     <rating system="MPAA">
@@ -2580,7 +3320,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Suspense</category>
     <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12645/012645/012645_960x720_580205_020.jpg" />
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12625/012625/012625_960x720_198571_029.jpg" />
     <episode-num system="onscreen">S23</episode-num>
     <episode-num system="onscreen">23 E18</episode-num>
     <rating system="MPAA">
@@ -2606,7 +3346,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Suspense</category>
     <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12645/012645/012645_960x720_580205_020.jpg" />
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12625/012625/012625_960x720_198571_029.jpg" />
     <episode-num system="onscreen">S23 E19</episode-num>
     <rating system="MPAA">
       <value>TV-14</value>
@@ -2631,7 +3371,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Suspense</category>
     <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12645/012645/012645_960x720_580205_020.jpg" />
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12625/012625/012625_960x720_198571_029.jpg" />
     <episode-num system="onscreen">S23</episode-num>
     <episode-num system="onscreen">23 E20</episode-num>
     <rating system="MPAA">
@@ -2657,7 +3397,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Suspense</category>
     <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12645/012645/012645_960x720_580205_020.jpg" />
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12625/012625/012625_960x720_198571_029.jpg" />
     <episode-num system="onscreen">S22</episode-num>
     <episode-num system="onscreen">22 E15</episode-num>
     <rating system="MPAA">
@@ -2683,7 +3423,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Suspense</category>
     <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12645/012645/012645_960x720_580205_020.jpg" />
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12625/012625/012625_960x720_198571_029.jpg" />
     <episode-num system="onscreen">S23</episode-num>
     <episode-num system="onscreen">23 E1</episode-num>
     <rating system="MPAA">
@@ -2709,7 +3449,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Suspense</category>
     <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12645/012645/012645_960x720_580205_020.jpg" />
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12625/012625/012625_960x720_198571_029.jpg" />
     <episode-num system="onscreen">S23</episode-num>
     <episode-num system="onscreen">23 E2</episode-num>
     <rating system="MPAA">
@@ -2735,7 +3475,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Suspense</category>
     <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12645/012645/012645_960x720_580205_020.jpg" />
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12625/012625/012625_960x720_198571_029.jpg" />
     <episode-num system="onscreen">S23</episode-num>
     <episode-num system="onscreen">23 E3</episode-num>
     <rating system="MPAA">
@@ -3318,7 +4058,7 @@
     <category lang="en">Family</category>
     <category lang="en">Comedy</category>
     <category lang="en">Kids</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/8334/008334/008334_939x704_4932_051.jpg" />
+    <icon src="https://content.internetvideoarchive.com/content/photos/14221/597314_320x240_638029133476858056.jpg" />
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -4061,10 +4801,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20221211170000 +0000" stop="20221211200000 +0000" channel="Televisión Dominicana">
-    <title lang="en">Más Roberto</title>
-    <desc lang="en">Maria Teresa Balmaceda nos lleva a conocer a las familias que han levantado empresas familiares. En un recorrido por su lugar de trabajo, conoceremos su origen, historia y vinculo familiar.(n)</desc>
-  </programme>
   <programme start="20221211200000 +0000" stop="20221211233000 +0000" channel="Televisión Dominicana">
     <title lang="en">Béisbol dominicano: Lidom (live)</title>
     <desc lang="en">Tigres del Licey vs. Leones del Escogido.(n)</desc>
@@ -4197,14 +4933,6 @@
   </programme>
   <programme start="20221212233000 +0000" stop="20221213000000 +0000" channel="Televisión Dominicana">
     <title lang="en">A confirmar</title>
-  </programme>
-  <programme start="20221211170000 +0000" stop="20221211193000 +0000" channel="TNT US">
-    <title lang="en">The Mummy</title>
-    <desc lang="en">In 1925, a band of adventurers seeking fame and fortune find an unknown burial site in Egypt. They start to investigate hoping to find lost treasures, but instead, they disturb the tomb of Imhotep.(n)</desc>
-    <date>1999</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
   </programme>
   <programme start="20221211193000 +0000" stop="20221211220000 +0000" channel="TNT US">
     <title lang="en">The Mummy Returns</title>
@@ -4782,7 +5510,7 @@
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20221211150000 +0000" stop="20221211170000 +0000" channel="Vevo 2K">
+  <programme start="20221211150000 +0000" stop="20221211180000 +0000" channel="Vevo 2K">
     <title lang="en">Vevo 2K</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
@@ -4790,13 +5518,6 @@
     <rating>
       <value>No Rating</value>
     </rating>
-  </programme>
-  <programme start="20221211170000 +0000" stop="20221211180000 +0000" channel="Vevo 2K">
-    <title lang="en">Alt to Rock</title>
-    <desc lang="en">Guitar-driven classics.(n)</desc>
-    <category lang="en">Music</category>
-    <category lang="en">Pop</category>
-    <icon src="https://images.pluto.tv/episodes/6334cb00db40670013667f26/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
   <programme start="20221211180000 +0000" stop="20221211190000 +0000" channel="Vevo 2K">
     <title lang="en">Weird Al's Weird Takeover</title>
@@ -5175,7 +5896,7 @@
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20221211150000 +0000" stop="20221211170000 +0000" channel="Vevo Latino">
+  <programme start="20221211150000 +0000" stop="20221211180000 +0000" channel="Vevo Latino">
     <title lang="en">Vevo Latino</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
@@ -5183,13 +5904,6 @@
     <rating>
       <value>No Rating</value>
     </rating>
-  </programme>
-  <programme start="20221211170000 +0000" stop="20221211180000 +0000" channel="Vevo Latino">
-    <title lang="en">Top Latin Videos of 2022</title>
-    <desc lang="en">¡Los mejores videos de pop latino!(n)</desc>
-    <category lang="en">Music</category>
-    <category lang="en">Latino</category>
-    <icon src="https://images.pluto.tv/episodes/63803dd29112e10013058503/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
   <programme start="20221211180000 +0000" stop="20221211190000 +0000" channel="Vevo Latino">
     <title lang="en">Latin Bangers</title>
@@ -5458,7 +6172,7 @@
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20221211150000 +0000" stop="20221211170000 +0000" channel="Vevo R&amp;B">
+  <programme start="20221211150000 +0000" stop="20221211180000 +0000" channel="Vevo R&amp;B">
     <title lang="en">Vevo R&amp;B</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
@@ -5466,13 +6180,6 @@
     <rating>
       <value>No Rating</value>
     </rating>
-  </programme>
-  <programme start="20221211170000 +0000" stop="20221211180000 +0000" channel="Vevo R&amp;B">
-    <title lang="en">Top R&amp;B Videos of 2022</title>
-    <desc lang="en">From groove to smooth, videos to get your vibes right!(n)</desc>
-    <category lang="en">Music</category>
-    <category lang="en">R&amp;B/Soul</category>
-    <icon src="https://images.pluto.tv/episodes/638036de07ac2f001450a9f8/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
   <programme start="20221211180000 +0000" stop="20221211190000 +0000" channel="Vevo R&amp;B">
     <title lang="en">R&amp;B Feels</title>
@@ -5580,10 +6287,6 @@
     <rating>
       <value>No Rating</value>
     </rating>
-  </programme>
-  <programme start="20221211191000 +0000" stop="20221211200000 +0000" channel="E!">
-    <title lang="en">AMO: Angie, Mel, Oli</title>
-    <date>2022</date>
   </programme>
   <programme start="20221211200000 +0000" stop="20221211205000 +0000" channel="E!">
     <title lang="en">Las Kardashian</title>
@@ -5837,11 +6540,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221211182600 +0000" stop="20221211195600 +0000" channel="De Película Plus">
-    <title lang="en">Lástima de ropa</title>
-    <desc lang="en">Arturo es una muchacho millonario que lo tiene todo. La fábrica que le pertenece anda de manera perfecta y le da las ganancias necesarias para tener una buena calidad de vida. Sin embargo, tras sufrir un importante asalto mientras salía en su...(n)</desc>
-    <date>1962</date>
-  </programme>
   <programme start="20221211195600 +0000" stop="20221211213200 +0000" channel="De Película Plus">
     <title lang="en">Dos Hijos Desobedientes</title>
     <desc lang="en">Dos rivales luchan por el amor de la misma mujer.(n)</desc>
@@ -5936,11 +6634,6 @@
     <title lang="en">Marcelino pan y vino</title>
     <desc lang="en">Este cuento infantil sigue la historia de un niño llamado Marcelino, el cual es criado por los frailes de un monasterio franciscano durante la Revolución Mexicana.(n)</desc>
     <date>2010</date>
-  </programme>
-  <programme start="20221211182500 +0000" stop="20221211200600 +0000" channel="De Película">
-    <title lang="en">Dios los cría</title>
-    <desc lang="en">Lorenzo le salva la vida a Vicente en la carretera y se hacen amigos. Buscando devolverle el favor a su nuevo amigo, Vicente accede al pedido de su amigo de hacerse pasar por el hermano de Lorenzo para engañar a doña Lupe, todo con el objetivo de llegar a acceder a cobrar una gran herencia.(n)</desc>
-    <date>1975</date>
   </programme>
   <programme start="20221211200600 +0000" stop="20221211215900 +0000" channel="De Película">
     <title lang="en">Seguiré Tus Pasos</title>
@@ -6078,9 +6771,9 @@
     </rating>
   </programme>
   <programme start="20221212073000 +0000" stop="20221212080000 +0000" channel="Azteca America">
-    <title lang="en">Mi Biotina</title>
-    <desc lang="en">Mi Biotina. Fórmula para cabello, piel &amp; uñas, respaldada por investigaciones clínicas. Vive la experiencia de un cabello más grueso en tan solo 3 semanas.(n)</desc>
-    <date>2021</date>
+    <title lang="en">Stop Brain Fog SPAN</title>
+    <desc lang="en">"Algo casi milagroso" Se ha demostrado que NeuroQ Memory apoya a la salud funcional cerebral, aclara los pensamientos y mejora la memoria.(n)</desc>
+    <date>2022</date>
   </programme>
   <programme start="20221212080000 +0000" stop="20221212083000 +0000" channel="Azteca America">
     <title lang="en">Programación pagada</title>
@@ -6186,10 +6879,6 @@
     <desc lang="en">Un resumen de las ultimas noticias acontecidas en el día, videos y reportajes exclusivos con temas de México, Latinoamérica y el mundo, a cargo del excelente equipo periodístico de Azteca Noticias. De la mano con los periodistas Christian Lara y Alejandro Villalvazo quienes destacan su estilo concreto y veraz.(n)</desc>
     <date>1995</date>
     <premiere />
-  </programme>
-  <programme start="20221211190000 +0000" stop="20221211200000 +0000" channel="Azteca Uno">
-    <title lang="en">Venga la alegria fin de semana</title>
-    <desc lang="en">El mejor entretenimiento para el público, con temas de interés personal como cocina,.(n)</desc>
   </programme>
   <programme start="20221211200000 +0000" stop="20221211213000 +0000" channel="Azteca Uno">
     <title lang="en">Vicente Fernández: Primera fila</title>
@@ -6331,14 +7020,6 @@
     <title lang="en">Acércate a Rocío</title>
     <desc lang="en">Hablar de tus problemas es el primer paso para superarlos, por eso Rocío Sánchez Azuara está de regreso con un programa único, en el cual, podrás acercarte, para que con ella, hables de todo lo que te preocupa, y juntas o juntos, puedan encontrar una solución.(n)</desc>
     <date>2021</date>
-  </programme>
-  <programme start="20221211191000 +0000" stop="20221211195500 +0000" channel="UNIVERSAL REALITY">
-    <title lang="en">Million Dollar Listing New York</title>
-    <desc lang="en">Steve demuestra que se puede volver a casa. Fredrik tiene una estrategia para su nuevo edificio,.(n)</desc>
-    <date>2017</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
   </programme>
   <programme start="20221211195500 +0000" stop="20221211205000 +0000" channel="UNIVERSAL REALITY">
     <title lang="en">Million Dollar Listing New York</title>
@@ -6606,9 +7287,8 @@
   </programme>
   <programme start="20221212222000 +0000" stop="20221212224500 +0000" channel="UNIVERSAL REALITY">
     <title lang="en">La familia Chrisley</title>
-    <sub-title lang="en">Involucrado emocionalmente</sub-title>
-    <desc lang="en">Cuando la abuela se preocupa por dejar a Miley atrás para salir de la ciudad,.(n)</desc>
-    <date>2021</date>
+    <sub-title lang="en">Casa animal</sub-title>
+    <date>2017</date>
   </programme>
   <programme start="20221212224500 +0000" stop="20221212230500 +0000" channel="UNIVERSAL REALITY">
     <title lang="en">La familia Chrisley</title>
@@ -6635,14 +7315,6 @@
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
-  </programme>
-  <programme start="20221211185500 +0000" stop="20221211194500 +0000" channel="UNIVERSAL CRIME">
-    <title lang="en">Votos fatales</title>
-    <date>2014</date>
-  </programme>
-  <programme start="20221211194500 +0000" stop="20221211203500 +0000" channel="UNIVERSAL CRIME">
-    <title lang="en">Votos fatales</title>
-    <date>2012</date>
   </programme>
   <programme start="20221211203500 +0000" stop="20221211210000 +0000" channel="UNIVERSAL CRIME">
     <title lang="en">It Takes a Killer</title>
@@ -6920,30 +7592,6 @@
     <episode-num system="onscreen">S5 E4</episode-num>
     <rating system="MPAA">
       <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221211191000 +0000" stop="20221211193500 +0000" channel="UNIVERSAL COMEDY">
-    <title lang="en">The Mindy Project</title>
-    <desc lang="en">Mindy planea una fiesta de Navidad para todo el edificio para poder pasar más tiempo con Cliff. Maria Menounos se roba la atención cuando hace una danza seductora de Santa Baby para los invitados.(n)</desc>
-    <date>2013</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221211193500 +0000" stop="20221211200000 +0000" channel="UNIVERSAL COMEDY">
-    <title lang="en">Un hombre, un plan</title>
-    <desc lang="en">Adam y Andi se sorprenden cuando llegan a conocer finalmente a la esposa de Lowell.(n)</desc>
-    <date>2017</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20221211200000 +0000" stop="20221211202500 +0000" channel="UNIVERSAL COMEDY">
-    <title lang="en">Un hombre, un plan</title>
-    <desc lang="en">El padre de Adam visita al doctor, y Adam descubre algunas cosas sobre su padre que preferiría no saber.(n)</desc>
-    <date>2017</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20221211202500 +0000" stop="20221211205000 +0000" channel="UNIVERSAL COMEDY">
@@ -7353,14 +8001,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20221211173000 +0000" stop="20221211194500 +0000" channel="UNIVERSAL CINEMA">
-    <title lang="en">Hulk</title>
-    <desc lang="en">Ang Lee dirige este film fantástico basado en el famoso personaje del cómic de Marvel, creado por Stan Lee e ilustrado por Jack Kirby. El científico experto en genética Bruce Banner (Eric Bana) trabaja para el gobierno en un proyecto llamado "Gamma".(n)</desc>
-    <date>2003</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
   <programme start="20221211194500 +0000" stop="20221211215000 +0000" channel="UNIVERSAL CINEMA">
     <title lang="en">Hombre de Familia</title>
     <desc lang="en">Nicolas Cage es el protagonista de esta fantasía cómica acerca de un frío hombre de negocios rico cuya vida da un giro inesperado cuando un ángel guardián le muestra la vida que pudo haber tenido transformándolo en un hombre trabajador, casado con su novia de la universidad a la cual abandonó.(n)</desc>
@@ -7479,22 +8119,6 @@
     <title lang="en">Gordo mentiroso</title>
     <desc lang="en">Frankie Muniz es Jason Shepherd, un chico de Michigan aficionado a los cuentos chinos. Cuando un cineasta astuto (Paul Giamatti) le roba su historia para convertirla en una película, Jason y su amiguita (Amanda Bynes) van a Hollywood para desquitarse.(n)</desc>
     <date>2002</date>
-  </programme>
-  <programme start="20221211184000 +0000" stop="20221211192500 +0000" channel="UNIVERSAL PREMIERE">
-    <title lang="en">Chicago Med</title>
-    <desc lang="en">El Dr. Choi y April descubren que la familia de un paciente podría ser abusiva, por lo que contemplan la posibilidad de llamar a servicios sociales. La Dra. Manning y el Dr. Halstead se esfuerzan por ponerse de acuerdo en cómo guiar a una familia.(n)</desc>
-    <date>2015</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221211192500 +0000" stop="20221211201000 +0000" channel="UNIVERSAL PREMIERE">
-    <title lang="en">Chicago Med</title>
-    <desc lang="en">Tras presenciar un tiroteo y golpearse la cabeza, la Dra. Manning lucha con las consecuencias de su lesión. Para complicar más las cosas, ella y el doctor Halstead lidian con una paciente adolescente y su autoritario esposo.(n)</desc>
-    <date>2015</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
   </programme>
   <programme start="20221211201000 +0000" stop="20221211205500 +0000" channel="UNIVERSAL PREMIERE">
     <title lang="en">Chicago Med</title>
@@ -7927,11 +8551,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221211183900 +0000" stop="20221211200000 +0000" channel="HBO SIGNATURE">
-    <title lang="en">El Alma de América</title>
-    <desc lang="en">El biográfo presidencial Jon Meacham examina el pasado de los Estados Unidos para ofrecer una visión de su situación política e histórica actual.(n)</desc>
-    <date>2020</date>
-  </programme>
   <programme start="20221211200000 +0000" stop="20221211210000 +0000" channel="HBO SIGNATURE">
     <title lang="en">The White Lotus</title>
     <sub-title lang="en">Llegadas</sub-title>
@@ -8192,14 +8811,6 @@
   <programme start="20221212230200 +0000" stop="20221213000200 +0000" channel="HBO PLUS">
     <title lang="en">HBO Movies</title>
   </programme>
-  <programme start="20221211190000 +0000" stop="20221211204000 +0000" channel="HBO POP">
-    <title lang="en">La Mejor de Mis Bodas</title>
-    <desc lang="en">En esta comedia romántica, un joven cantautor con el corazón destrozado intenta restaurar su vida después de que su novia no llega a la boda, y recibe consuelo de una mesera cariñosa en 1985.(n)</desc>
-    <date>1998</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20221211204000 +0000" stop="20221211223000 +0000" channel="HBO POP">
     <title lang="en">Si te casas... te mato</title>
     <desc lang="en">Charlotte y Kevin son una pareja de enamorados. Charlotte cree haber encontrado finalmente al hombre de sus sueños; sin embargo, la vida le demuestra que nada puede ser perfecto, cuando conoce a Viola, su suegra, quien está convencida de que no existe una mujer suficientemente buena para Kevin.(n)</desc>
@@ -8320,11 +8931,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221211181600 +0000" stop="20221211201200 +0000" channel="HBO FAMILY">
-    <title lang="en">Last Train to Christmas</title>
-    <desc lang="en">El dueño de un club nocturno descubre que puede ir y venir en el tiempo.(n)</desc>
-    <date>2022</date>
-  </programme>
   <programme start="20221211201200 +0000" stop="20221211215300 +0000" channel="HBO FAMILY">
     <title lang="en">Tom y Jerry</title>
     <desc lang="en">Tom y Jerry se conocen y pronto nace la rivalidad entre el gato y el ratón.(n)</desc>
@@ -8430,11 +9036,6 @@
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
-  </programme>
-  <programme start="20221211181500 +0000" stop="20221211201000 +0000" channel="HBO 2">
-    <title lang="en">Geo Tormenta</title>
-    <desc lang="en">Un diseñador de satélites debe acudir a una emergencia, cuando tras un fallo la mayor parte de los artefactos que brindan servicios meteorológicos y que orbitan alrededor de la Tierra se empiezan a precipitar hacia la superficie de nuestro planeta. Así, debe conformar un equipo de emergencia con su hermano, con el que hace años no se habla. Juntos, viajan al espacio para salvar al mundo de una tormenta artificial de proporciones épicas.(n)</desc>
-    <date>2017</date>
   </programme>
   <programme start="20221211201000 +0000" stop="20221211221000 +0000" channel="HBO 2">
     <title lang="en">Cóctel explosivo</title>
@@ -8749,15 +9350,7 @@
   <programme start="20221212230000 +0000" stop="20221213000000 +0000" channel="Imagen TV">
     <title lang="en">Asuntos de familia</title>
   </programme>
-  <programme start="20221211172600 +0000" stop="20221211203000 +0000" channel="HBO 2!">
-    <title lang="en">Batman</title>
-    <desc lang="en">Un vigilante enmascarado debe enfrentar a un asesino que ataca a la élite de la ciudad.(n)</desc>
-    <date>2022</date>
-    <rating system="MPAA">
-      <value>13</value>
-    </rating>
-  </programme>
-  <programme start="20221211203000 +0000" stop="20221211231100 +0000" channel="HBO 2!">
+  <programme start="20221211203000 +0000" stop="20221211231000 +0000" channel="HBO 2!">
     <title lang="en">Mujer Maravilla 1984</title>
     <desc lang="en">En los años 80 durante Guerra Fría, Diana Prince se ve involucrada en una disputa con la Unión Soviética. El conflicto la llevará a enfrentarse a Cheeta, un nuevo y espectacular enemigo que pondrá a prueba el poder de la Mujer Maravilla.(n)</desc>
     <date>2020</date>
@@ -8765,7 +9358,7 @@
       <value>13</value>
     </rating>
   </programme>
-  <programme start="20221211231100 +0000" stop="20221212010100 +0000" channel="HBO 2!">
+  <programme start="20221211231000 +0000" stop="20221212010000 +0000" channel="HBO 2!">
     <title lang="en">Morbius</title>
     <desc lang="en">Dangerously ill with a rare blood disorder, and determined to save others suffering his same fate, Dr. Michael Morbius attempts a desperate gamble. What at first appears to be a radical success soon reveals itself to be a remedy potentially worse than the disease.(n)</desc>
     <date>2022</date>
@@ -8773,7 +9366,7 @@
       <value>13</value>
     </rating>
   </programme>
-  <programme start="20221212010100 +0000" stop="20221212032600 +0000" channel="HBO 2!">
+  <programme start="20221212010000 +0000" stop="20221212032500 +0000" channel="HBO 2!">
     <title lang="en">El hombre del norte</title>
     <desc lang="en">Amleth, un príncipe nórdico, busca vengar a toda costa la muerte de su padre y salvar a su madre.(n)</desc>
     <date>2022</date>
@@ -8781,7 +9374,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20221212032600 +0000" stop="20221212055000 +0000" channel="HBO 2!">
+  <programme start="20221212032500 +0000" stop="20221212055100 +0000" channel="HBO 2!">
     <title lang="en">Ambulance</title>
     <desc lang="en">Dos ladrones roban una ambulancia después de que su atraco sale mal.(n)</desc>
     <date>2022</date>
@@ -8789,13 +9382,10 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20221212055000 +0000" stop="20221212072500 +0000" channel="HBO 2!">
-    <title lang="en">Salvaje</title>
-    <desc lang="en">Tras una serie de trágicas experiencias personales, Cheryl Strayed decide recorrer en solitario, y careciendo de experiencia, más de 1600 kilómetros por el Sendero de las Cimas del Pacífico, en un intento de encontrarse a sí misma.(n)</desc>
-    <date>2014</date>
-    <rating system="MPAA">
-      <value>16</value>
-    </rating>
+  <programme start="20221212055100 +0000" stop="20221212072500 +0000" channel="HBO 2!">
+    <title lang="en">Fuera de Control</title>
+    <desc lang="en">De Control, Russell Crowe protagoniza este thriller como un hombre que lleva al límite algo que todos hemos experimentado: la cólera al volante. Tras un desacuerdo con un desconocido en un semáforo, la joven madre Rachel (Caren Pistorius) se encuentra a sí misma, y a todos sus seres queridos, en el punto de mira de un psicópata (Crowe) que quiere enseñarle una serie de lecciones mortales.(n)</desc>
+    <date>2020</date>
   </programme>
   <programme start="20221212072500 +0000" stop="20221212090000 +0000" channel="HBO 2!">
     <title lang="en">En el tornado</title>
@@ -8805,15 +9395,15 @@
       <value>13</value>
     </rating>
   </programme>
-  <programme start="20221212090000 +0000" stop="20221212111000 +0000" channel="HBO 2!">
-    <title lang="en">Gold</title>
-    <desc lang="en">Un hombre llama la atención de todo el FBI y del ejército indonesio cuando encuentra una enorme cantidad de oro en las selvas de Indonesia, en 1993. La cantidad del preciado material que está en manos de esta persona moviliza todo un operativo conjunto entre los agentes norteamericanos y los militares asiáticos.(n)</desc>
-    <date>2016</date>
+  <programme start="20221212090000 +0000" stop="20221212104500 +0000" channel="HBO 2!">
+    <title lang="en">Tormenta mortal</title>
+    <desc lang="en">Dos alpinistas quedan atrapados en una tormenta de nieve y deben ayudarse mutuamente.(n)</desc>
+    <date>2022</date>
     <rating system="MPAA">
-      <value>13</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20221212111000 +0000" stop="20221212132000 +0000" channel="HBO 2!">
+  <programme start="20221212104500 +0000" stop="20221212125600 +0000" channel="HBO 2!">
     <title lang="en">Un sueño posible</title>
     <desc lang="en">Michael Oher es un joven afroamericano sin hogar que encuentra ayuda y cobijo en una familia dispuesta a prestarle el apoyo necesario para que pueda desarrollar todo su potencial.(n)</desc>
     <date>2009</date>
@@ -8821,7 +9411,7 @@
       <value>13</value>
     </rating>
   </programme>
-  <programme start="20221212132000 +0000" stop="20221212142500 +0000" channel="HBO 2!">
+  <programme start="20221212125600 +0000" stop="20221212140100 +0000" channel="HBO 2!">
     <title lang="en">Unveiled: Surviving La Luz del Mundo</title>
     <sub-title lang="en">Darkness in the Light of The World</sub-title>
     <desc lang="en">Explora la horrible historia de la iglesia cristiana La Luz del Mundo.(n)</desc>
@@ -8830,36 +9420,40 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20221212142500 +0000" stop="20221212165500 +0000" channel="HBO 2!">
-    <title lang="en">Fantastic Beasts: The Secrets of Dumbledore</title>
-    <desc lang="en">Newt Scamander y un equipo de magos, brujas y un Muggle deberá detener a Grindelwald.(n)</desc>
+  <programme start="20221212140100 +0000" stop="20221212163000 +0000" channel="HBO 2!">
+    <title lang="en">Animales fantásticos: los secretos de Dumbledore</title>
     <date>2022</date>
-    <rating system="MPAA">
-      <value>13</value>
-    </rating>
   </programme>
-  <programme start="20221212165500 +0000" stop="20221212184500 +0000" channel="HBO 2!">
-    <title lang="en">DC League Of Super-Pets</title>
-    <desc lang="en">Spanish language version. DC League Of Super-Pets. Krypto, el superperro, debe convencer a los perros de un refugio para que dominen sus nuevos poderes y lo ayuden a rescatar a la Liga de la Justicia. Dwayne Johnson, Kevin Hart.(n)</desc>
+  <programme start="20221212163000 +0000" stop="20221212182000 +0000" channel="HBO 2!">
+    <title lang="en">DC Liga de súpermascotas</title>
+    <desc lang="en">Krypto y Superman son mejores amigos inseparables,.(n)</desc>
     <date>2022</date>
     <rating system="MPAA">
       <value>ATP</value>
     </rating>
   </programme>
-  <programme start="20221212184500 +0000" stop="20221212212000 +0000" channel="HBO 2!">
-    <title lang="en">Bastidores - The Matrix Resurrections</title>
-    <desc lang="en">Neo deberá decidir si sigue al conejo blanco una vez más.(n)</desc>
+  <programme start="20221212182000 +0000" stop="20221212205500 +0000" channel="HBO 2!">
+    <title lang="en">Matrix: Resurrecciones</title>
+    <desc lang="en">La cuarta entrega de la revolucionaria franquicia, reúne a Keanu Reeves y Carrie-Anne Moss en los roles que hicieron famosos.(n)</desc>
     <date>2021</date>
     <rating system="MPAA">
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20221212212000 +0000" stop="20221213000000 +0000" channel="HBO 2!">
+  <programme start="20221212205500 +0000" stop="20221212233500 +0000" channel="HBO 2!">
     <title lang="en">Dune</title>
     <desc lang="en">Un joven debe viajar a un peligroso planeta para asegurar el futuro de su pueblo.(n)</desc>
     <date>2021</date>
     <rating system="MPAA">
       <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20221212233500 +0000" stop="20221213010000 +0000" channel="HBO 2!">
+    <title lang="en">The White Lotus</title>
+    <sub-title lang="en">Arrivederci</sub-title>
+    <date>2022</date>
+    <rating system="MPAA">
+      <value>18</value>
     </rating>
   </programme>
   <programme start="20221211183000 +0000" stop="20221211233000 +0000" channel="La Red (CHI)">
@@ -8870,29 +9464,22 @@
     <title lang="en">Concierto de una noche de verano 2022</title>
     <date>2022</date>
   </programme>
-  <programme start="20221212013000 +0000" stop="20221212030000 +0000" channel="La Red (CHI)">
+  <programme start="20221212013000 +0000" stop="20221212050000 +0000" channel="La Red (CHI)">
     <title lang="en">Monitor Music Awards</title>
     <date>2022</date>
-  </programme>
-  <programme start="20221212030000 +0000" stop="20221212050000 +0000" channel="La Red (CHI)">
-    <title lang="en">Swiss Nature Labs</title>
-    <desc lang="en">Las mejores soluciones de salud, belleza y bienestar de origen natural.(n)</desc>
   </programme>
   <programme start="20221212050000 +0000" stop="20221212060000 +0000" channel="La Red (CHI)">
     <title lang="en">Águila roja</title>
     <desc lang="en">Historia de época en la que un hombre lleva una doble vida en nombre de la justicia.(n)</desc>
     <date>2009</date>
   </programme>
-  <programme start="20221212060000 +0000" stop="20221212070000 +0000" channel="La Red (CHI)">
-    <title lang="en">Sex and the City</title>
-    <desc lang="en">Una escritora explora las relaciones de sus amigas y utiliza esa información para su columna sobre el sexo. Basada en el libro de Candace Bushnell. La serie trata acerca de las vidas y amoríos de cuatro mujeres que son muy buenas amigas, tres de las cuales están en el final de sus treinta años Carrie, Charlotte y Miranda y otra Samantha que está en los cuarenta.(n)</desc>
-    <date>1998</date>
+  <programme start="20221212060000 +0000" stop="20221212080000 +0000" channel="La Red (CHI)">
+    <title lang="en">Sexo y la Ciudad</title>
+    <desc lang="en">Un tipo nuevo se enamora de Miranda en la primera cita, pero no en la forma que ella hubiera querido; Charlotte y Samantha defienden sus filosofías sexuales; Carrie enseña en un seminario cómo conocer hombres. Miranda: Cynthia Nixon. Charlotte: Kristin Davis. Samantha: Kim Cattrall.(n)</desc>
+    <date>2000</date>
     <rating system="MPAA">
       <value>TV-MA</value>
     </rating>
-  </programme>
-  <programme start="20221212070000 +0000" stop="20221212080000 +0000" channel="La Red (CHI)">
-    <title lang="en">Fin de transmisión</title>
   </programme>
   <programme start="20221212080000 +0000" stop="20221212130000 +0000" channel="La Red (CHI)">
     <title lang="en">Swiss Nature Labs</title>
@@ -8917,15 +9504,8 @@
     <desc lang="en">Barra de infomerciales que ofrece información sobre diferentes productos.(n)</desc>
     <date>2017</date>
   </programme>
-  <programme start="20221211180000 +0000" stop="20221211194500 +0000" channel="TVN (CHI)">
-    <title lang="en">Zona de encuentro</title>
-    <sub-title lang="en">Un lugar en el tiempo</sub-title>
-    <date>2022</date>
-  </programme>
   <programme start="20221211194500 +0000" stop="20221211214500 +0000" channel="TVN (CHI)">
-    <title lang="en">Obsesión perfecta</title>
-    <desc lang="en">El doctor Martin Blake lleva toda su vida buscando ser respetado, conoce a una joven llamada Diane, que sufre de una infección de hígado. La joven mejora y extrañamente los sentimientos del doctor por la paciente aumentan y él siente miedo de perderla, por lo que decide mantenerla enferma.(n)</desc>
-    <date>2011</date>
+    <title lang="en">Obsesión perfecta (?)</title>
   </programme>
   <programme start="20221211214500 +0000" stop="20221212000000 +0000" channel="TVN (CHI)">
     <title lang="en">Sí señor</title>
@@ -9013,11 +9593,6 @@
   <programme start="20221212235500 +0000" stop="20221213014000 +0000" channel="TVN (CHI)">
     <title lang="en">24 Horas Central</title>
     <desc lang="en">Noticiero central, con despachos en directo y corresponsalías en todo el mundo.(n)</desc>
-  </programme>
-  <programme start="20221211190000 +0000" stop="20221211200000 +0000" channel="Canal Uno (COL)">
-    <title lang="en">Historias de la Virgen Morena</title>
-    <desc lang="en">Los personajes atraviesan grandes dificultades y acuden a Nuestra Señora de Guadalupe.(n)</desc>
-    <date>2012</date>
   </programme>
   <programme start="20221211200000 +0000" stop="20221211210000 +0000" channel="Canal Uno (COL)">
     <title lang="en">Chicago Fire</title>
@@ -9152,16 +9727,6 @@
   <programme start="20221212230000 +0000" stop="20221213010000 +0000" channel="Canal Uno (COL)">
     <title lang="en">Guerreros - Especial</title>
     <desc lang="en">Hombres y mujeres se enfrentarán a diario para saber cuál es el sexo más fuerte.(n)</desc>
-  </programme>
-  <programme start="20221211173000 +0000" stop="20221211200000 +0000" channel="RCN Nuestra Tele">
-    <title lang="en">Noticias RCN</title>
-    <desc lang="en">Emisiones en directo con el mayor cubrimiento en los sucesos nacionales e internacionales.(n)</desc>
-    <date>1995</date>
-  </programme>
-  <programme start="20221211200000 +0000" stop="20221211203000 +0000" channel="RCN Nuestra Tele">
-    <title lang="en">Vivendo TV</title>
-    <desc lang="en">Un espacio dedicado a recorrer los principales proyectos de vivienda en Colombia, dirigido a inversionistas radicados en el país o en el exterior. Además, se presentarán las más calificadas constructoras junto con sus planes de desarrollo en...(n)</desc>
-    <date>2016</date>
   </programme>
   <programme start="20221211203000 +0000" stop="20221211213000 +0000" channel="RCN Nuestra Tele">
     <title lang="en">Colombia a la carta</title>
@@ -9421,11 +9986,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221211173000 +0000" stop="20221211200000 +0000" channel="Caracol TV Internacional">
-    <title lang="en">Noticias 12:30 PM Caracol</title>
-    <desc lang="en">De la mano de Mábel Lara, Mónica Jaramillo y Vanessa De La Torre, haga un recorrido por el país y entérese qué es noticia al mediodía en Colombia y el mundo.(n)</desc>
-    <date>2017</date>
-  </programme>
   <programme start="20221211200000 +0000" stop="20221211220000 +0000" channel="Caracol TV Internacional">
     <title lang="en">La red</title>
     <desc lang="en">Un espacio que brinda información sobre los acontecimientos y los detalles más importantes en el mundo del entretenimiento. Los presentadores hablan sin tapujos sobre los protagonistas de la farándula y todo el ambiente del espectáculo.(n)</desc>
@@ -9554,11 +10114,6 @@
     <desc lang="en">Programa de investigación en el cual se presentan reportajes y entrevistas, con la finalidad de ampliar el panorama de los televidentes en cuestiones sociales, políticas y en general del país.(n)</desc>
     <date>1996</date>
   </programme>
-  <programme start="20221211173000 +0000" stop="20221211200000 +0000" channel="RCN Television">
-    <title lang="en">Noticias RCN</title>
-    <desc lang="en">Emisiones en directo con el mayor cubrimiento en los sucesos nacionales e internacionales.(n)</desc>
-    <date>1995</date>
-  </programme>
   <programme start="20221211200000 +0000" stop="20221211220000 +0000" channel="RCN Television">
     <title lang="en">Francisco el Matemático</title>
     <desc lang="en">Jóvenes adultos hacen frente a los retos de la vida en dramáticos tramas que entablan temas de interés social como el alcoholismo, la sexualidad y otros.(n)</desc>
@@ -9648,11 +10203,6 @@
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
-  </programme>
-  <programme start="20221211180300 +0000" stop="20221211200300 +0000" channel="Golden Edge">
-    <title lang="en">Plan de escape</title>
-    <desc lang="en">Ray Breslin, un experto en seguridad carcelaria, se enfrenta a su mayor reto: luego de ser incriminado y encarcelado, debe escapar de una prisión que él mismo ha diseñado. En la cárcel conoce al enigmático Church.(n)</desc>
-    <date>2013</date>
   </programme>
   <programme start="20221211200300 +0000" stop="20221211214400 +0000" channel="Golden Edge">
     <title lang="en">Chicuarotes</title>
@@ -9754,12 +10304,6 @@
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
-  </programme>
-  <programme start="20221211192000 +0000" stop="20221211201500 +0000" channel="UNIVERSAL TV">
-    <title lang="en">FBI: International</title>
-    <sub-title lang="en">De capa caída</sub-title>
-    <desc lang="en">El Buró Federal de Investigaciones (FBI, por sus siglas en inglés),.(n)</desc>
-    <date>2022</date>
   </programme>
   <programme start="20221211201500 +0000" stop="20221211211000 +0000" channel="UNIVERSAL TV">
     <title lang="en">El novato</title>
@@ -10000,9 +10544,12 @@
     </rating>
   </programme>
   <programme start="20221212211000 +0000" stop="20221212220000 +0000" channel="UNIVERSAL TV">
-    <title lang="en">Maratón Chicago P.D.</title>
-    <desc lang="en">Una familia perfecta es asesinada a tiros en su casa y el equipo va en busca de un narcotraficante con una posible conexión. Cuando McGrady aparece muerto durante la investigación, el caso toma un giro improbable.(n)</desc>
-    <date>2013</date>
+    <title lang="en">Chicago P.D.</title>
+    <desc lang="en">Una familia de aspecto impecable es acribillada a balazos en su casa y el equipo va en busca de un narcotraficante con una posible conexión. Voight le pide ayuda al sargento Sean McGrady de la brigada antidroga, que tiene un viejo problema con Upton. Cuando McGrady aparece muerto durante la investigación, el caso da un giro inesperado.(n)</desc>
+    <date>2017</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
   </programme>
   <programme start="20221212220000 +0000" stop="20221212225000 +0000" channel="UNIVERSAL TV">
     <title lang="en">Chicago P.D.</title>
@@ -10027,52 +10574,6 @@
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
-  </programme>
-  <programme start="20221211192400 +0000" stop="20221211193000 +0000" channel="Kids Street">
-    <title lang="en">Strawberry Shortcake: Berry in the Big City</title>
-    <sub-title lang="en">Lemon's Name in Lights</sub-title>
-    <desc lang="en">Lemon Meringue decorates the Berryworks for a holiday celebration that the berries will not forget.(n)</desc>
-    <date>2021</date>
-    <rating system="MPAA">
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20221211193000 +0000" stop="20221211193700 +0000" channel="Kids Street">
-    <title lang="en">CHOCOLIX</title>
-    <sub-title lang="en">Melody of the Heart</sub-title>
-    <date>2022</date>
-  </programme>
-  <programme start="20221211193700 +0000" stop="20221211194500 +0000" channel="Kids Street">
-    <title lang="en">CHOCOLIX</title>
-    <sub-title lang="en">The Adventure in the Book Kingdom</sub-title>
-    <date>2022</date>
-  </programme>
-  <programme start="20221211194500 +0000" stop="20221211195200 +0000" channel="Kids Street">
-    <title lang="en">CHOCOLIX</title>
-    <date>2018</date>
-  </programme>
-  <programme start="20221211195200 +0000" stop="20221211200000 +0000" channel="Kids Street">
-    <title lang="en">CHOCOLIX</title>
-    <sub-title lang="en">Who is this Dragon?</sub-title>
-    <date>2022</date>
-  </programme>
-  <programme start="20221211200000 +0000" stop="20221211200800 +0000" channel="Kids Street">
-    <title lang="en">CHOCOLIX</title>
-    <sub-title lang="en">The Colored Beings</sub-title>
-    <date>2022</date>
-  </programme>
-  <programme start="20221211200800 +0000" stop="20221211201500 +0000" channel="Kids Street">
-    <title lang="en">Chocolix</title>
-    <date>2022</date>
-  </programme>
-  <programme start="20221211201500 +0000" stop="20221211203000 +0000" channel="Kids Street">
-    <title lang="en">CHOCOLIX</title>
-    <sub-title lang="en">The Marshmallow Snow</sub-title>
-  </programme>
-  <programme start="20221211203000 +0000" stop="20221211204100 +0000" channel="Kids Street">
-    <title lang="en">Atchoo</title>
-    <sub-title lang="en">The Stage Animal</sub-title>
-    <date>2021</date>
   </programme>
   <programme start="20221211204100 +0000" stop="20221211210000 +0000" channel="Kids Street">
     <title lang="en">Atchoo</title>
@@ -10690,11 +11191,6 @@
     <desc lang="en">The adventures of a young Sioux Native American who has the unique ability to talk with animals.(n)</desc>
     <date>2005</date>
   </programme>
-  <programme start="20221211180000 +0000" stop="20221211200000 +0000" channel="Las Estrellas">
-    <title lang="en">El Sinvergüenza</title>
-    <desc lang="en">El dueño de un prostíbulo se enamora y cierra su negocio, pero se desilusiona de las mujeres cuando se entera que su esposa lo engaña.(n)</desc>
-    <date>1971</date>
-  </programme>
   <programme start="20221211200000 +0000" stop="20221211210000 +0000" channel="Las Estrellas">
     <title lang="en">Accion mundialista (live)</title>
     <desc lang="en">Los compromisos de lanzamiento para el programa de acción mundial son planes de actividades concretas en apoyo de uno o varios ámbitos de acción prioritarios.(n)</desc>
@@ -10992,185 +11488,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20221211190000 +0000" stop="20221211193000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221211193000 +0000" stop="20221211200000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221211200000 +0000" stop="20221211203000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221211203000 +0000" stop="20221211210000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221211210000 +0000" stop="20221211213000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221211213000 +0000" stop="20221211220000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221211220000 +0000" stop="20221211223000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221211223000 +0000" stop="20221211230000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221211230000 +0000" stop="20221211233000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221211233000 +0000" stop="20221212000000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221212000000 +0000" stop="20221212003000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221212003000 +0000" stop="20221212010000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221212010000 +0000" stop="20221212013000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221212013000 +0000" stop="20221212020000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221212020000 +0000" stop="20221212023000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221212023000 +0000" stop="20221212030000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221212030000 +0000" stop="20221212033000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221212033000 +0000" stop="20221212040000 +0000" channel="NY1 Noticias">
-    <title lang="en">Noticiero de República Dominicana</title>
-  </programme>
-  <programme start="20221212040000 +0000" stop="20221212043000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221212043000 +0000" stop="20221212050000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221212050000 +0000" stop="20221212053000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221212053000 +0000" stop="20221212060000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221212060000 +0000" stop="20221212063000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221212063000 +0000" stop="20221212070000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221212070000 +0000" stop="20221212073000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221212073000 +0000" stop="20221212080000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221212080000 +0000" stop="20221212083000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221212083000 +0000" stop="20221212090000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221212090000 +0000" stop="20221212093000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221212093000 +0000" stop="20221212100000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221212100000 +0000" stop="20221212103000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221212103000 +0000" stop="20221212110000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221212110000 +0000" stop="20221212113000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221212113000 +0000" stop="20221212120000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221212120000 +0000" stop="20221212123000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221212123000 +0000" stop="20221212130000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221212130000 +0000" stop="20221212133000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221212133000 +0000" stop="20221212140000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221212140000 +0000" stop="20221212143000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221212143000 +0000" stop="20221212150000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221212150000 +0000" stop="20221212153000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221212153000 +0000" stop="20221212160000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221212160000 +0000" stop="20221212163000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221212163000 +0000" stop="20221212170000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221212170000 +0000" stop="20221212173000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221212173000 +0000" stop="20221212180000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221212180000 +0000" stop="20221212183000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221212183000 +0000" stop="20221212190000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221212190000 +0000" stop="20221212193000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221212193000 +0000" stop="20221212200000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221212200000 +0000" stop="20221212203000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221212203000 +0000" stop="20221212210000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221212210000 +0000" stop="20221212213000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221212213000 +0000" stop="20221212220000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221212220000 +0000" stop="20221212223000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221212223000 +0000" stop="20221212230000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221212230000 +0000" stop="20221212233000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221212233000 +0000" stop="20221213000000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221211190000 +0000" stop="20221211204000 +0000" channel="BitMe">
-    <title lang="en">La liga de los 5</title>
-    <desc lang="en">Chema les pide a la Liga de los 5 que le ayuden a rescatar a su hermana, secuestrada por un villano. ¿Qué es la Liga de los 5? ¡El mejor equipo de superhéroes que jamás haya existido en México!(n)</desc>
-    <date>2020</date>
-  </programme>
   <programme start="20221211204000 +0000" stop="20221211222000 +0000" channel="BitMe">
     <title lang="en">Buza Caperuza 2</title>
     <desc lang="en">Caperucita Roja investiga la misteriosa desaparición de un par de niños que parecen haber sido secuestrados por una bruja, Hansel y Gretel. Lo increíble es que Caperucita Roja y el Lobo deben investigar juntos el misterioso caso. Esta es una aventura animada inspirada en historias infantiles clásicas.(n)</desc>
@@ -11306,11 +11623,6 @@
     <title lang="en">Universo Marcial</title>
     <desc lang="en">Lin Dong es un niño de un pequeño pueblo que no es favorecido por su familia. Por casualidad, obtiene un misterioso artefacto que es codiciado por muchos clanes en el mundo marcial. Debido a tal artefacto, Lin Dong es abordado por muchas personas...(n)</desc>
     <date>2018</date>
-  </programme>
-  <programme start="20221211190000 +0000" stop="20221211200100 +0000" channel="Curiosity Stream">
-    <title lang="en">La verdadera guerra de tronos: la historia real de Europa</title>
-    <desc lang="en">En Francia, la perfidia y la traición hunden al reino francés en el caos.(n)</desc>
-    <date>2021</date>
   </programme>
   <programme start="20221211200100 +0000" stop="20221211210000 +0000" channel="Curiosity Stream">
     <title lang="en">La real guerra de tronos: las guerras religiosas</title>
@@ -11921,14 +12233,6 @@
       <value>TV-Y7</value>
     </rating>
   </programme>
-  <programme start="20221211184000 +0000" stop="20221211193000 +0000" channel="Aplauso">
-    <title lang="en">La ruta blanca</title>
-    <desc lang="en">LA RUTA BLANCA Las vidas de cuatro desconocidos: un campesino, una congresista, un capo de la droga y un actor, se cruzan trágicamente en el duro camino del tráfico de cocaína.(n)</desc>
-  </programme>
-  <programme start="20221211193000 +0000" stop="20221211202000 +0000" channel="Aplauso">
-    <title lang="en">La ruta blanca</title>
-    <desc lang="en">LA RUTA BLANCA Las vidas de cuatro desconocidos: un campesino, una congresista, un capo de la droga y un actor, se cruzan trágicamente en el duro camino del tráfico de cocaína.(n)</desc>
-  </programme>
   <programme start="20221211202000 +0000" stop="20221211211000 +0000" channel="Aplauso">
     <title lang="en">La ruta blanca</title>
     <desc lang="en">LA RUTA BLANCA Las vidas de cuatro desconocidos: un campesino, una congresista, un capo de la droga y un actor, se cruzan trágicamente en el duro camino del tráfico de cocaína.(n)</desc>
@@ -12055,30 +12359,6 @@
   </programme>
   <programme start="20221212234900 +0000" stop="20221213003200 +0000" channel="Aplauso">
     <title lang="en">Mary Asesina</title>
-  </programme>
-  <programme start="20221211190000 +0000" stop="20221211193000 +0000" channel="Hogar HGTV">
-    <title lang="en">Rodando por América</title>
-    <desc lang="en">En este viaje, Guy Fieri prueba todo, desde diferentes brunches hasta hamburguesas.(n)</desc>
-    <date>2016</date>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20221211193000 +0000" stop="20221211200000 +0000" channel="Hogar HGTV">
-    <title lang="en">Rodando por América</title>
-    <desc lang="en">En este viaje, Guy Fieri se dirige de Portsmouth, Nuevo Hampshire hacia Portland, Oregón, para conocer los sabores que recorren toda la costa.(n)</desc>
-    <date>2016</date>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20221211200000 +0000" stop="20221211203000 +0000" channel="Hogar HGTV">
-    <title lang="en">Los cazahogares</title>
-    <desc lang="en">Dos nativos de la ciudad de Nueva York se mudan por razones de trabajo a Washington, D.C., junto a sus hijos. Sin embargo, deben encontrar un hogar para la familia. Ambos son músicos, así que les gustaría vivir en una casa en el moderno suburbio de Takoma Park, en Maryland; con mucho espacio para ensayar y grabar.(n)</desc>
-    <date>2019</date>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
   </programme>
   <programme start="20221211203000 +0000" stop="20221211210000 +0000" channel="Hogar HGTV">
     <title lang="en">Los cazahogares</title>
@@ -12540,10 +12820,6 @@
     <category lang="es">Show</category>
     <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/667473/1518472183/221210221443_f5a5b338c20dbf645d515c9655ca9ec421fb80e3_2212221944.jpg" />
   </programme>
-  <programme start="20221211190000 +0000" stop="20221211202000 +0000" channel="A3Cine!">
-    <title lang="en">El Último caballo</title>
-    <date>1950</date>
-  </programme>
   <programme start="20221211202000 +0000" stop="20221211220500 +0000" channel="A3Cine!">
     <title lang="en">¡Ay, Carmela!</title>
     <desc lang="en">Unos artistas se encuentran atrapados en el lado del enemigo durante la Guerra Civil en España. Carmen Maura, Andres Pajares, Gabino Diego, Maurizio di Razza, Miguel A. Rellan. Director: Carlos Saura.(n)</desc>
@@ -12797,7 +13073,7 @@
     </credits>
     <date>2022</date>
     <category lang="es">Series policiacas extranjeras</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/c/r/i/crimen-en-el-paraiso-1106704_SPA-77.jpg" />
+    <icon src="https://cdn.sincroguia.tv/uploads/programs/c/r/i/xcrimen-en-el-paraiso-1106704_SPA-77.jpg.pagespeed.ic.72pSnn-jqA.jpg" />
     <country lang="es">Reino Unido</country>
     <country lang="es">Francia</country>
     <episode-num system="onscreen">S12 E1</episode-num>
@@ -13496,523 +13772,6 @@
     <star-rating system="ICAA">
       <value>1.0</value>
     </star-rating>
-  </programme>
-  <programme start="20221211180000 +0000" stop="20221211193000 +0000" channel="UniMás">
-    <title lang="en">Arctic Apocalypse</title>
-    <desc lang="en">Una nueva era de hielo toma lugar en el hemisferio norte. En medio de esta situación, una familia lucha por sobrevivir, y se traslada a través de un ambiente lleno de hielo. Sin embargo, esta no parece ser una tarea fácil, y todos corren peligro de morir congelados.(n)</desc>
-    <date>2019</date>
-  </programme>
-  <programme start="20221211193000 +0000" stop="20221211213000 +0000" channel="UniMás">
-    <title lang="en">Drive Angry</title>
-    <desc lang="en">Un convicto vengativo se escapa del infierno para salvar a su nieta de ser sacrificada en un ritual, y recibe ayuda de una camarera simpática mientras son perseguidos por el despiadado líder de la secta y uno de los secuaces más crueles de Satanás.(n)</desc>
-    <date>2011</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221211213000 +0000" stop="20221212000000 +0000" channel="UniMás">
-    <title lang="en">S.W.A.T.</title>
-    <desc lang="en">Película de acción basada en la serie televisiva de los años 70 sobre un escuadrón policíaco de élite en la ciudad de Los Ángeles que tiene que trasladar a un traficante de armas europeo.(n)</desc>
-    <date>2003</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221212000000 +0000" stop="20221212020000 +0000" channel="UniMás">
-    <title lang="en">The Taking of Pelham 1 2 3</title>
-    <desc lang="en">Denzel Washington protagoniza como un despachador del metro de la Ciudad de Nueva York que recurre a su conocimiento vasto del sistema de transportación para frustrar los planes de una mente criminal, cuya banda armada ha secuestrado un vagón y ha tomado a los pasajeros como rehenes.(n)</desc>
-    <date>2009</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221212020000 +0000" stop="20221212040000 +0000" channel="UniMás">
-    <title lang="en">The Debt Collector (new)</title>
-    <desc lang="en">Un luchador de artes marciales empieza a trabajar para la mafia como recaudador de deudas para poder sobrevivir. Aunque el trabajo en principio parece sencillo, aparecerán personajes que lo harán cuestionarse sobre si debe hacer lo que es correcto.(n)</desc>
-    <date>2018</date>
-    <premiere />
-  </programme>
-  <programme start="20221212040000 +0000" stop="20221212060000 +0000" channel="UniMás">
-    <title lang="en">Drive Angry</title>
-    <desc lang="en">Un convicto vengativo se escapa del infierno para salvar a su nieta de ser sacrificada en un ritual, y recibe ayuda de una camarera simpática mientras son perseguidos por el despiadado líder de la secta y uno de los secuaces más crueles de Satanás.(n)</desc>
-    <date>2011</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221212060000 +0000" stop="20221212063000 +0000" channel="UniMás">
-    <title lang="en">Una Familia de Diez</title>
-    <date>2007</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20221212063000 +0000" stop="20221212070000 +0000" channel="UniMás">
-    <title lang="en">Una Familia de Diez</title>
-    <date>2007</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20221212070000 +0000" stop="20221212090000 +0000" channel="UniMás">
-    <title lang="en">The Debt Collector</title>
-    <desc lang="en">Un luchador de artes marciales empieza a trabajar para la mafia como recaudador de deudas para poder sobrevivir. Aunque el trabajo en principio parece sencillo, aparecerán personajes que lo harán cuestionarse sobre si debe hacer lo que es correcto.(n)</desc>
-    <date>2018</date>
-  </programme>
-  <programme start="20221212090000 +0000" stop="20221212093000 +0000" channel="UniMás">
-    <title lang="en">Programa Pagado</title>
-    <date>2021</date>
-  </programme>
-  <programme start="20221212093000 +0000" stop="20221212100000 +0000" channel="UniMás">
-    <title lang="en">Programa Pagado</title>
-    <date>2021</date>
-  </programme>
-  <programme start="20221212100000 +0000" stop="20221212103000 +0000" channel="UniMás">
-    <title lang="en">Programación pagada</title>
-    <desc lang="en">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.(n)</desc>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221212103000 +0000" stop="20221212110000 +0000" channel="UniMás">
-    <title lang="en">Programación pagada</title>
-    <desc lang="en">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.(n)</desc>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221212110000 +0000" stop="20221212120000 +0000" channel="UniMás">
-    <title lang="en">Esta Historia Me Suena (new)</title>
-    <sub-title lang="en">12-12-2022</sub-title>
-    <date>2019</date>
-    <premiere />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221212120000 +0000" stop="20221212123000 +0000" channel="UniMás">
-    <title lang="en">Programación pagada</title>
-    <desc lang="en">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.(n)</desc>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221212123000 +0000" stop="20221212130000 +0000" channel="UniMás">
-    <title lang="en">Mi Biotina</title>
-    <desc lang="en">Mi Biotina. Fórmula para cabello, piel &amp; uñas, respaldada por investigaciones clínicas. Vive la experiencia de un cabello más grueso en tan solo 3 semanas.(n)</desc>
-    <date>2021</date>
-  </programme>
-  <programme start="20221212130000 +0000" stop="20221212140000 +0000" channel="UniMás">
-    <title lang="en">La 3ra. en Discordia (new)</title>
-    <sub-title lang="en">12-12-2022</sub-title>
-    <date>2019</date>
-    <premiere />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221212140000 +0000" stop="20221212150000 +0000" channel="UniMás">
-    <title lang="en">Rebelde (new)</title>
-    <date>2004</date>
-    <premiere />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221212150000 +0000" stop="20221212170000 +0000" channel="UniMás">
-    <title lang="en">Triunfo del Amor (new)</title>
-    <sub-title lang="en">12-12-2022</sub-title>
-    <date>2010</date>
-    <premiere />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221212170000 +0000" stop="20221212190000 +0000" channel="UniMás">
-    <title lang="en">Mañana Es Para Siempre</title>
-    <sub-title lang="en">12-12-2022</sub-title>
-    <date>2008</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221212190000 +0000" stop="20221212200000 +0000" channel="UniMás">
-    <title lang="en">Como dice el dicho (new)</title>
-    <date>2011</date>
-    <premiere />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221212200000 +0000" stop="20221212220000 +0000" channel="UniMás">
-    <title lang="en">Papá A Toda Madre (new)</title>
-    <sub-title lang="en">12-12-2022</sub-title>
-    <date>2017</date>
-    <premiere />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221212220000 +0000" stop="20221212230000 +0000" channel="UniMás">
-    <title lang="en">La Fea Más Bella (new)</title>
-    <date>2006</date>
-    <premiere />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20221212230000 +0000" stop="20221213000000 +0000" channel="UniMás">
-    <title lang="en">Tres Veces Ana (new)</title>
-    <sub-title lang="en">12-12-2022</sub-title>
-    <date>2016</date>
-    <premiere />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221211180000 +0000" stop="20221211200000 +0000" channel="Univision 41">
-    <title lang="en">Nuestra señora de Guadalupe</title>
-    <desc lang="en">John es un periodista joven y ambicioso que está lejos de creer en la religión. Para su mala suerte, su editor le asignará la cobertura de una historia sobre la fe, y se internará en un grupo de creyentes.(n)</desc>
-    <date>2020</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20221211200000 +0000" stop="20221211210000 +0000" channel="Univision 41">
-    <title lang="en">República de la Copa (live)</title>
-    <date>2018</date>
-  </programme>
-  <programme start="20221211210000 +0000" stop="20221211220000 +0000" channel="Univision 41">
-    <title lang="en">Contacto Deportivo (live)</title>
-    <desc lang="en">El noticiero de TUDN es el destino obligado de todos los amantes del deporte, noticias completamente actualizadas sobre los eventos más importantes y los partidos más destacados alrededor del mundo.(n)</desc>
-  </programme>
-  <programme start="20221211220000 +0000" stop="20221211230000 +0000" channel="Univision 41">
-    <title lang="en">Amor en Navidad (new)</title>
-    <sub-title lang="en">Una Navidad para recordar</sub-title>
-    <desc lang="en">Cuando Máximo, un prestigioso chef colombiano,.(n)</desc>
-    <date>2022</date>
-    <premiere />
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20221211230000 +0000" stop="20221211233000 +0000" channel="Univision 41">
-    <title lang="en">Noticias Univisión 41---Fin de Semana (new)</title>
-    <desc lang="en">Noticias locales, deportes y tiempo.(n)</desc>
-    <premiere />
-  </programme>
-  <programme start="20221211233000 +0000" stop="20221212000000 +0000" channel="Univision 41">
-    <title lang="en">Noticiero Univision - Fin De Semana (live)</title>
-    <sub-title lang="en">12-11-2022</sub-title>
-    <date>1990</date>
-  </programme>
-  <programme start="20221212000000 +0000" stop="20221212010000 +0000" channel="Univision 41">
-    <title lang="en">Aquí y Ahora (new)</title>
-    <date>2022</date>
-    <premiere />
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20221212010000 +0000" stop="20221212030000 +0000" channel="Univision 41">
-    <title lang="en">Kung Fu Yoga</title>
-    <desc lang="en">Un arqueólogo chino es un entusiasta, desde joven, por la investigación alrededor del mundo, por el que ha viajado tras los pasos de grandes misterios. Ahora se une a dos profesores indios, que lo ayudarán en su última aventura: el hallazgo del mítico tesoro de Magadha.(n)</desc>
-    <date>2017</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20221212030000 +0000" stop="20221212040000 +0000" channel="Univision 41">
-    <title lang="en">De Noche Pero Sin Sueño con Adrián Uribe (new)</title>
-    <sub-title lang="en">12-11-2022</sub-title>
-    <date>2022</date>
-    <premiere />
-  </programme>
-  <programme start="20221212040000 +0000" stop="20221212043000 +0000" channel="Univision 41">
-    <title lang="en">Noticias Univisión 41---Fin de Semana (new)</title>
-    <desc lang="en">Noticias locales, deportes y tiempo.(n)</desc>
-    <premiere />
-  </programme>
-  <programme start="20221212043500 +0000" stop="20221212045500 +0000" channel="Univision 41">
-    <title lang="en">Noticiero Univision - Fin De Semana (live)</title>
-    <sub-title lang="en">12-11-2022</sub-title>
-    <date>1990</date>
-  </programme>
-  <programme start="20221212045500 +0000" stop="20221212070000 +0000" channel="Univision 41">
-    <title lang="en">Mañanitas a Santa Maria de Guadalupe y Santa Misa 2022 (new)</title>
-    <date>2022</date>
-    <premiere />
-  </programme>
-  <programme start="20221212070000 +0000" stop="20221212080000 +0000" channel="Univision 41">
-    <title lang="en">La rosa de Guadalupe</title>
-    <desc lang="en">Un joven desea tener un automóvil y está dispuesto a traicionar a su propia madre para obtenerlo.(n)</desc>
-    <date>2013</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221212080000 +0000" stop="20221212090000 +0000" channel="Univision 41">
-    <title lang="en">Al Punto con Jorge Ramos</title>
-    <sub-title lang="en">12-11-2022</sub-title>
-    <date>2022</date>
-  </programme>
-  <programme start="20221212090000 +0000" stop="20221212100000 +0000" channel="Univision 41">
-    <title lang="en">Como Dice el Dicho</title>
-    <desc lang="en">Una joven entra a trabajar a una empresa como asistente del nuevo jefe, quien amenaza con despedir a la antigua secretaria por considerarla anticuada. Por casualidad, la joven conoce al sobrino de la secretaria, quien se dedica a robar.(n)</desc>
-    <date>2020</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221212100000 +0000" stop="20221212110000 +0000" channel="Univision 41">
-    <title lang="en">Noticias Univisión 41---Al Despertar (new)</title>
-    <desc lang="en">Noticias locales, deportes y tiempo.(n)</desc>
-    <premiere />
-  </programme>
-  <programme start="20221212110000 +0000" stop="20221212120000 +0000" channel="Univision 41">
-    <title lang="en">Noticias Univisión 41---Al Despertar (new)</title>
-    <desc lang="en">Noticias locales, deportes y tiempo.(n)</desc>
-    <premiere />
-  </programme>
-  <programme start="20221212120000 +0000" stop="20221212160000 +0000" channel="Univision 41">
-    <title lang="en">Despierta América (live)</title>
-    <sub-title lang="en">Despierta America</sub-title>
-    <date>2022</date>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20221212160000 +0000" stop="20221212170000 +0000" channel="Univision 41">
-    <title lang="en">Como Dice el Dicho (new)</title>
-    <sub-title lang="en">Ocasión Que Se Va, Quién Sabe Si Volverá</sub-title>
-    <date>2011</date>
-    <premiere />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221212170000 +0000" stop="20221212173000 +0000" channel="Univision 41">
-    <title lang="en">Noticiero Univision - Edicion Digital (live)</title>
-    <sub-title lang="en">12-12-2022</sub-title>
-    <date>2022</date>
-  </programme>
-  <programme start="20221212173000 +0000" stop="20221212180000 +0000" channel="Univision 41">
-    <title lang="en">Edición Digital Nueva York</title>
-    <desc lang="en">Mantente informado con los últimos acontecimientos, fotos, videos y noticias de Nueva York. Entrevistas, información del clima y todo lo relacionado con el mundo de la tecnología.(n)</desc>
-  </programme>
-  <programme start="20221212180000 +0000" stop="20221212190000 +0000" channel="Univision 41">
-    <title lang="en">Como Dice el Dicho</title>
-    <sub-title lang="en">Poderoso Caballero Es Don Dinero?</sub-title>
-    <date>2011</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221212190000 +0000" stop="20221212200000 +0000" channel="Univision 41">
-    <title lang="en">Amor Dividido (new)</title>
-    <sub-title lang="en">12-12-2022</sub-title>
-    <date>2022</date>
-    <premiere />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20221212200000 +0000" stop="20221212210000 +0000" channel="Univision 41">
-    <title lang="en">Corazón Guerrero (new)</title>
-    <sub-title lang="en">12-12-2022</sub-title>
-    <date>2022</date>
-    <premiere />
-  </programme>
-  <programme start="20221212210000 +0000" stop="20221212220000 +0000" channel="Univision 41">
-    <title lang="en">El Gordo y La Flaca (live)</title>
-    <sub-title lang="en">12-12-2022</sub-title>
-    <date>2022</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221212220000 +0000" stop="20221212230000 +0000" channel="Univision 41">
-    <title lang="en">Primer Impacto (live)</title>
-    <sub-title lang="en">12-12-2022</sub-title>
-    <date>2022</date>
-  </programme>
-  <programme start="20221212230000 +0000" stop="20221212233000 +0000" channel="Univision 41">
-    <title lang="en">Noticias Univisión 41---A las Seis (new)</title>
-    <desc lang="en">Noticias locales, deportes y tiempo.(n)</desc>
-    <premiere />
-  </programme>
-  <programme start="20221212233000 +0000" stop="20221213000000 +0000" channel="Univision 41">
-    <title lang="en">Noticiero Univision (live)</title>
-    <sub-title lang="en">12-12-2022</sub-title>
-    <date>2022</date>
-  </programme>
-  <programme start="20221211190000 +0000" stop="20221211210000 +0000" channel="Telemundo 47">
-    <title lang="en">Abominable (new)</title>
-    <desc lang="en">Un Yeti mágico huye del laboratorio en el que había sido encerrado, para regresar con su familia. Más tarde, él se topa con tres adolescentes que están dispuestos en acompañarle a través de un largo viaje lleno de aventuras, para así ayudarlo a reunirse con sus seres queridos. En el camino, los cuatro se enfrentarán a diferentes impedimentos; como una malvada zoóloga, y un ricachón que desea capturar al Yeti.(n)</desc>
-    <date>2019</date>
-    <premiere />
-  </programme>
-  <programme start="20221211210000 +0000" stop="20221211230000 +0000" channel="Telemundo 47">
-    <title lang="en">The Proposal</title>
-    <desc lang="en">Divertida comedia romántica acerca de una fuerte y exigente mujer de negocios (Sandra Bullock) que descubre que está a punto de ser deportada a Canadá, lo que la obliga a arreglar un matrimonio por conveniencia con su asistente (Ryan Reynolds) para poder permanecer en Estados Unidos. La artimaña se complica cuando los dos visitan a la familia de él en Alaska haciéndose pasar por una feliz pareja.(n)</desc>
-    <date>2009</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221211230000 +0000" stop="20221211233000 +0000" channel="Telemundo 47">
-    <title lang="en">Noticiero Telemundo 47: Fin de Semana (new)</title>
-    <desc lang="en">El noticiero local en español más completo en el área tri-estatal de Nueva York. Contamos con el equipo más grande de presentadores de noticias y reporteros enfocados en cubrir noticias de última hora y temas de interés para el consumidor. La estación de televisión con las herramientas más avanzadas para pronosticar las condiciones del tiempo y la única en español con meteorólogos certificados.(n)</desc>
-    <premiere />
-  </programme>
-  <programme start="20221211233000 +0000" stop="20221212000000 +0000" channel="Telemundo 47">
-    <title lang="en">Noticias Telemundo fin de semana (new)</title>
-    <desc lang="en">Reportajes y análisis de las noticias más importantes de Estados Unidos, América Latina y el mundo.(n)</desc>
-    <premiere />
-  </programme>
-  <programme start="20221212000000 +0000" stop="20221212010000 +0000" channel="Telemundo 47">
-    <title lang="en">¿Qué dicen los famosos? (new)</title>
-    <sub-title lang="en">Mauricio Garza vs. Litzy Domínguez</sub-title>
-    <desc lang="en">Los Baldom con Litzy Domínguez, le dan pelea a los Ga Ferri y Mauricio Garza, el reloj los acorrala.(n)</desc>
-    <date>2022</date>
-    <premiere />
-  </programme>
-  <programme start="20221212010000 +0000" stop="20221212040000 +0000" channel="Telemundo 47">
-    <title lang="en">Exatlon Estados Unidos: All-Stars (new)</title>
-    <sub-title lang="en">Sentencia definitiva</sub-title>
-    <desc lang="en">Una mujer tiene que dejar el 'All-Stars', Alondra González y Azul Grantón están en peligro.(n)</desc>
-    <date>2022</date>
-    <premiere />
-  </programme>
-  <programme start="20221212040000 +0000" stop="20221212042000 +0000" channel="Telemundo 47">
-    <title lang="en">Noticias Telemundo fin de semana (new)</title>
-    <desc lang="en">Reportajes y análisis de las noticias más importantes de Estados Unidos, América Latina y el mundo.(n)</desc>
-    <premiere />
-  </programme>
-  <programme start="20221212042000 +0000" stop="20221212045000 +0000" channel="Telemundo 47">
-    <title lang="en">Historias de la Virgen Morena</title>
-    <desc lang="en">Los personajes atraviesan grandes dificultades y acuden a Nuestra Señora de Guadalupe.(n)</desc>
-    <date>2012</date>
-  </programme>
-  <programme start="20221212045000 +0000" stop="20221212060000 +0000" channel="Telemundo 47">
-    <title lang="en">Celebrando a la Virgen de Guadalupe (new)</title>
-    <desc lang="en">Homenaje a la Patrona de las Américas con la tradicional serenata y misa desde México.(n)</desc>
-    <premiere />
-  </programme>
-  <programme start="20221212060000 +0000" stop="20221212070000 +0000" channel="Telemundo 47">
-    <title lang="en">Celebrando a la Virgen de Guadalupe (new)</title>
-    <desc lang="en">Homenaje a la Patrona de las Américas con la tradicional serenata y misa desde México.(n)</desc>
-    <premiere />
-  </programme>
-  <programme start="20221212070000 +0000" stop="20221212080000 +0000" channel="Telemundo 47">
-    <title lang="en">Zona Mixta: Edición Mundial (new)</title>
-    <desc lang="en">Toda la información de la jornada mundialista presentada de la manera más divertida e irreverente.(n)</desc>
-    <date>2022</date>
-    <premiere />
-  </programme>
-  <programme start="20221212080000 +0000" stop="20221212100000 +0000" channel="Telemundo 47">
-    <title lang="en">Breaking In</title>
-    <desc lang="en">Luego de perder a su padre, Shaun va con sus hijos a su casa para venderla. Cuando llegan, encuentran un lugar de alta seguridad donde cuatro criminales en busca de dinero, toman a los niños de rehenes dentro de la casa, dejando a Shaun afuera.(n)</desc>
-    <date>2018</date>
-  </programme>
-  <programme start="20221212100000 +0000" stop="20221212120000 +0000" channel="Telemundo 47">
-    <title lang="en">Telemundo Noticiero 47 Primera Edición 5AM (new)</title>
-    <desc lang="en">El noticiero local en español más completo en el área tri-estatal de Nueva York. Contamos con el equipo más grande de presentadores de noticias y reporteros enfocados en cubrir noticias de última hora y temas de interés para el consumidor. La estación de televisión con las herramientas más avanzadas para pronosticar las condiciones del tiempo y la única en español con meteorólogos certificados.(n)</desc>
-    <premiere />
-  </programme>
-  <programme start="20221212120000 +0000" stop="20221212150000 +0000" channel="Telemundo 47">
-    <title lang="en">Hoy día (new)</title>
-    <sub-title lang="en">12-12-2022</sub-title>
-    <desc lang="en">El show de las mañanas que ofrece más entretenimiento y diversión, sin dejar de lado los titulares y noticias que la comunidad hispana en EE.UU. necesita para comenzar el día bien informada.(n)</desc>
-    <date>2022</date>
-    <premiere />
-  </programme>
-  <programme start="20221212150000 +0000" stop="20221212160000 +0000" channel="Telemundo 47">
-    <title lang="en">Caso cerrado (new)</title>
-    <sub-title lang="en">Nos quito la vida / Venganza de la ex</sub-title>
-    <desc lang="en">Quiere llenar el espacio que dejó su hijo. Por escapar se lesiona, ahora debe abandonar su pasión.(n)</desc>
-    <date>2002</date>
-    <premiere />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221212160000 +0000" stop="20221212163000 +0000" channel="Telemundo 47">
-    <title lang="en">Caso Cerrado (new)</title>
-    <desc lang="en">La jueza no está muy convencida de la explicación que brinda Ely en el estrado. Ella jura y asegura que logró curarse de una grave enfermedad gracias a dos cosas: a los rezos que le hizo a la Virgen de Guadalupe y por haber utilizado un milagroso vestido confeccionado con vello púbico.(n)</desc>
-    <date>2016</date>
-    <premiere />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221212163000 +0000" stop="20221212170000 +0000" channel="Telemundo 47">
-    <title lang="en">Telemundo 47 acceso total (new)</title>
-    <desc lang="en">Mujeres emprendedoras se toman Acceso Total.(n)</desc>
-    <date>2019</date>
-    <premiere />
-  </programme>
-  <programme start="20221212170000 +0000" stop="20221212173000 +0000" channel="Telemundo 47">
-    <title lang="en">Noticiero Telemundo 47 (new)</title>
-    <desc lang="en">El noticiero local en español más completo en el área tri-estatal de Nueva York. Contamos con el equipo más grande de presentadores de noticias y reporteros enfocados en cubrir noticias de última hora y temas de interés para el consumidor. La estación de televisión con las herramientas más avanzadas para pronosticar las condiciones del tiempo y la única en español con meteorólogos certificados.(n)</desc>
-    <date>2018</date>
-    <premiere />
-  </programme>
-  <programme start="20221212173000 +0000" stop="20221212180000 +0000" channel="Telemundo 47">
-    <title lang="en">Noticias Telemundo - Mediodía (new)</title>
-    <desc lang="en">Un programa con un estilo único de narrar la noticias, de una manera atractiva y perspicaz. Este noticiero cuenta con la presentación de historias locales y nacionales en vivo, haciendo uso extensivo de elementos gráficos. Además, este noticiero...(n)</desc>
-    <date>2018</date>
-    <premiere />
-  </programme>
-  <programme start="20221212180000 +0000" stop="20221212190000 +0000" channel="Telemundo 47">
-    <title lang="en">En casa con Telemundo (new)</title>
-    <desc lang="en">Una oferta ligera, de formato accesible, familiar y cálido que incluye entrevistas con grandes estrellas del espectáculo, invitados especiales, buenas noticias y consejos para una vida sana.(n)</desc>
-    <premiere />
-  </programme>
-  <programme start="20221212190000 +0000" stop="20221212195800 +0000" channel="Telemundo 47">
-    <title lang="en">En casa con Telemundo (new)</title>
-    <desc lang="en">Una oferta ligera, de formato accesible, familiar y cálido que incluye entrevistas con grandes estrellas del espectáculo, invitados especiales, buenas noticias y consejos para una vida sana.(n)</desc>
-    <premiere />
-  </programme>
-  <programme start="20221212195800 +0000" stop="20221212205800 +0000" channel="Telemundo 47">
-    <title lang="en">La mesa caliente (new)</title>
-    <desc lang="en">Un equipo de mujeres audaces y empoderadas, debate sobre los temas más controversiales.(n)</desc>
-    <premiere />
-  </programme>
-  <programme start="20221212205800 +0000" stop="20221212220000 +0000" channel="Telemundo 47">
-    <title lang="en">Al Rojo Vivo: Edicion Mundial (new)</title>
-    <desc lang="en">La más amplia cobertura de la Copa Mundial de la FIFA Catar 2022, desde el país anfitrión.(n)</desc>
-    <date>2022</date>
-    <premiere />
-  </programme>
-  <programme start="20221212220000 +0000" stop="20221212230000 +0000" channel="Telemundo 47">
-    <title lang="en">En casa con Telemundo</title>
-    <desc lang="en">Una oferta ligera, de formato accesible, familiar y cálido que incluye entrevistas con grandes estrellas del espectáculo, invitados especiales, buenas noticias y consejos para una vida sana.(n)</desc>
-  </programme>
-  <programme start="20221212230000 +0000" stop="20221212233000 +0000" channel="Telemundo 47">
-    <title lang="en">Noticiero Telemundo 47 (new)</title>
-    <desc lang="en">El noticiero local en español más completo en el área tri-estatal de Nueva York. Contamos con el equipo más grande de presentadores de noticias y reporteros enfocados en cubrir noticias de última hora y temas de interés para el consumidor. La estación de televisión con las herramientas más avanzadas para pronosticar las condiciones del tiempo y la única en español con meteorólogos certificados.(n)</desc>
-    <premiere />
-  </programme>
-  <programme start="20221212233000 +0000" stop="20221213000000 +0000" channel="Telemundo 47">
-    <title lang="en">Noticias Telemundo (new)</title>
-    <sub-title lang="en">12-12-2022</sub-title>
-    <desc lang="en">Un análisis de las noticias más importantes e impactantes de Estados Unidos, Latinoamérica y el mundo.(n)</desc>
-    <date>2022</date>
-    <premiere />
-    <rating system="MPAA">
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20221211183500 +0000" stop="20221211193000 +0000" channel="Telehit Musica">
-    <title lang="en">Exitops</title>
-    <desc lang="en">Un programa que presenta la mejor música así como los lanzamientos y temas más populares.(n)</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20221211193000 +0000" stop="20221211200000 +0000" channel="Telehit Musica">
-    <title lang="en">Playlist Telehit</title>
-    <desc lang="en">Disfruta de la playlist que propone Telehit para bailar al ritmo de lo mejor del urbano.(n)</desc>
-    <date>2019</date>
   </programme>
   <programme start="20221211200000 +0000" stop="20221211205500 +0000" channel="Telehit Musica">
     <title lang="en">Ranking</title>
