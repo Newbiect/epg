@@ -1,5 +1,20 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="The Weather Channel US">
+    <display-name lang="en">The Weather Channel US</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/v2/s11187_h15_aa.png" />
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="Paramount Network US">
+    <display-name lang="en">Paramount Network US</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/v2/s11163_h15_ac.png" />
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="AMC US">
+    <display-name lang="en">AMC US</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/v2/s10021_h15_ab.png" />
+    <url>http://www.tvpassport.com</url>
+  </channel>
   <channel id="A&amp;E US">
     <display-name lang="en">A&amp;E US</display-name>
     <icon src="http://cdn.tvpassport.com/image/station/240x135/v2/s10035_h15_ab.png" />
@@ -256,12 +271,1429 @@
   <channel id="A3Series HD!">
     <display-name lang="es">A3Series HD.</display-name>
     <icon src="https://cdn.sincroguia.tv/uploads/images/v/5/n/xatresseries.jpg.pagespeed.ic.9ZIdKUT2Zo.jpg" />
-    <url>http://www.sincroguia-tv.expansion.com</url>
+    <url>http://www.sincroguia-tv.com.E</url>
   </channel>
   <channel id="Telehit Musica">
     <display-name lang="en">Telehit Musica.</display-name>
     <url>http://www.tvguide.com</url>
   </channel>
+  <programme start="20221212060000 -0500" stop="20221212070000 -0500" channel="The Weather Channel US">
+    <title lang="en">America's Morning Headquarters</title>
+    <desc lang="en">Starting the day by opening a window into weather, looking out at the stories and science behind the forecast.(n)</desc>
+    <category lang="en">Local</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p20046184_i_h10_aa.jpg" />
+  </programme>
+  <programme start="20221212070000 -0500" stop="20221212080000 -0500" channel="The Weather Channel US">
+    <title lang="en">America's Morning Headquarters</title>
+    <desc lang="en">Starting the day by opening a window into weather, looking out at the stories and science behind the forecast.(n)</desc>
+    <category lang="en">Local</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p20046184_i_h10_aa.jpg" />
+  </programme>
+  <programme start="20221212080000 -0500" stop="20221212090000 -0500" channel="The Weather Channel US">
+    <title lang="en">America's Morning Headquarters</title>
+    <desc lang="en">Starting the day by opening a window into weather, looking out at the stories and science behind the forecast.(n)</desc>
+    <category lang="en">Local</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p20046184_i_h10_aa.jpg" />
+  </programme>
+  <programme start="20221212090000 -0500" stop="20221212100000 -0500" channel="The Weather Channel US">
+    <title lang="en">America's Morning Headquarters</title>
+    <desc lang="en">Starting the day by opening a window into weather, looking out at the stories and science behind the forecast.(n)</desc>
+    <category lang="en">Local</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p20046184_i_h10_aa.jpg" />
+  </programme>
+  <programme start="20221212100000 -0500" stop="20221212110000 -0500" channel="The Weather Channel US">
+    <title lang="en">America's Morning Headquarters</title>
+    <desc lang="en">Starting the day by opening a window into weather, looking out at the stories and science behind the forecast.(n)</desc>
+    <category lang="en">Local</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p20046184_i_h10_aa.jpg" />
+  </programme>
+  <programme start="20221212110000 -0500" stop="20221212120000 -0500" channel="The Weather Channel US">
+    <title lang="en">America's Morning Headquarters</title>
+    <desc lang="en">Starting the day by opening a window into weather, looking out at the stories and science behind the forecast.(n)</desc>
+    <category lang="en">Local</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p20046184_i_h10_aa.jpg" />
+  </programme>
+  <programme start="20221212120000 -0500" stop="20221212130000 -0500" channel="The Weather Channel US">
+    <title lang="en">Pattrn</title>
+    <desc lang="en">Elevating the conversation about climate, extreme weather, sustainability and green living.(n)</desc>
+    <category lang="en">Environmental</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p21886602_b_h10_aa.jpg" />
+  </programme>
+  <programme start="20221212130000 -0500" stop="20221212140000 -0500" channel="The Weather Channel US">
+    <title lang="en">Weather Underground</title>
+    <desc lang="en">A breakdown of the science behind today's weather, with fan interaction and frequent visits from guest meteorologists.(n)</desc>
+    <category lang="en">Environmental</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p12008769_b_h10_ac.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20221212140000 -0500" stop="20221212150000 -0500" channel="The Weather Channel US">
+    <title lang="en">Weather Underground</title>
+    <desc lang="en">A breakdown of the science behind today's weather, with fan interaction and frequent visits from guest meteorologists.(n)</desc>
+    <category lang="en">Environmental</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p12008769_b_h10_ac.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20221212150000 -0500" stop="20221212160000 -0500" channel="The Weather Channel US">
+    <title lang="en">Weather Underground</title>
+    <desc lang="en">A breakdown of the science behind today's weather, with fan interaction and frequent visits from guest meteorologists.(n)</desc>
+    <category lang="en">Environmental</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p12008769_b_h10_ac.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20221212160000 -0500" stop="20221212170000 -0500" channel="The Weather Channel US">
+    <title lang="en">Weather Underground</title>
+    <desc lang="en">A breakdown of the science behind today's weather, with fan interaction and frequent visits from guest meteorologists.(n)</desc>
+    <category lang="en">Environmental</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p12008769_b_h10_ac.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20221212170000 -0500" stop="20221212180000 -0500" channel="The Weather Channel US">
+    <title lang="en">Storm Center</title>
+    <desc lang="en">An inside look at the most powerful storms on Earth and the breaking weather news of the day using augmented reality.(n)</desc>
+    <category lang="en">Environmental</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p21010653_i_s3_ab.jpg" />
+  </programme>
+  <programme start="20221212180000 -0500" stop="20221212190000 -0500" channel="The Weather Channel US">
+    <title lang="en">Storm Center</title>
+    <desc lang="en">An inside look at the most powerful storms on Earth and the breaking weather news of the day using augmented reality.(n)</desc>
+    <category lang="en">Environmental</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p21010653_i_s3_ab.jpg" />
+  </programme>
+  <programme start="20221212190000 -0500" stop="20221212200000 -0500" channel="The Weather Channel US">
+    <title lang="en">Storm Center</title>
+    <desc lang="en">An inside look at the most powerful storms on Earth and the breaking weather news of the day using augmented reality.(n)</desc>
+    <category lang="en">Environmental</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p21010653_i_s3_ab.jpg" />
+  </programme>
+  <programme start="20221212200000 -0500" stop="20221212210000 -0500" channel="The Weather Channel US">
+    <title lang="en">Highway Thru Hell</title>
+    <sub-title lang="en">Burning Treasure</sub-title>
+    <desc lang="en">A raging truck fire tests Dylan and Team Reliable; a valuable surprise in the ashes; Jamie's rookie operator and veteran mechanic pair up to rescue a broken down semi.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p18784809_e_s2_ab.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20221212210000 -0500" stop="20221212220000 -0500" channel="The Weather Channel US">
+    <title lang="en">Highway Thru Hell</title>
+    <sub-title lang="en">Frozen Stiff</sub-title>
+    <desc lang="en">An extreme arctic blast descends on Hope, BC delivering brutal cold and a bone-chilling battle for Jamie and his brother Jason; Al's son Cary is unexpectedly called in to cover for his father on the Coq Summit for the first time.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p18817895_e_h10_aa.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20221212220000 -0500" stop="20221212230000 -0500" channel="The Weather Channel US">
+    <title lang="en">Highway Thru Hell</title>
+    <sub-title lang="en">Tanked</sub-title>
+    <desc lang="en">A tanker crash in Fraser Canyon lands rookie operator Greg Mulligan in the middle of an epic recovery; faced with 47-thousand litres of diesel and a mass of twisted metal, Greg's luck turns when Merv and Aggressive Towing's 50-ton rotator arrive.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p18994524_e_s2_aa.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20221212230000 -0500" stop="20221213000000 -0500" channel="The Weather Channel US">
+    <title lang="en">Weather Gone Viral</title>
+    <sub-title lang="en">Shock and Awe</sub-title>
+    <desc lang="en">Preparing for the world's most shocking and awe-inspiring weather, from the planet's most violent atmospheric conditions to the ever-changing clouds above.(n)</desc>
+    <category lang="en">Environmental</category>
+    <category lang="en">Documentary</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11934501_i_h10_ad.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20221213000000 -0500" stop="20221213010000 -0500" channel="The Weather Channel US">
+    <title lang="en">Deep Water Salvage</title>
+    <sub-title lang="en">Plane Down!</sub-title>
+    <desc lang="en">Chris Ward sets out with Josh Moreira and Ward's younger brother to salvage a light aircraft that's sitting on the seabed; Jeremy Birch braves the arctic conditions to salvage two vessels that have fallen prey to the crushing ice conditions.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <category lang="en">Environmental</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19781853_b_v11_ad.jpg" />
+  </programme>
+  <programme start="20221213010000 -0500" stop="20221213020000 -0500" channel="The Weather Channel US">
+    <title lang="en">Deep Water Salvage</title>
+    <sub-title lang="en">Sinkers and Swimmers</sub-title>
+    <desc lang="en">Bundles of cedar wood tree trunks are smashed apart, releasing thousands of logs on the shoreline; Jeremy and his crew must work fast to recover the cargo.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <category lang="en">Environmental</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19781853_b_v11_ad.jpg" />
+  </programme>
+  <programme start="20221213020000 -0500" stop="20221213030000 -0500" channel="The Weather Channel US">
+    <title lang="en">So You Think You'd Survive?</title>
+    <sub-title lang="en">Frostbite and Bears</sub-title>
+    <desc lang="en">Testing you instincts against wildfires, frostbite, extreme fog, and treacherous underwater currents.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <category lang="en">Environmental</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10984605_e_h11_aa.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20221213030000 -0500" stop="20221213040000 -0500" channel="The Weather Channel US">
+    <title lang="en">So You Think You'd Survive?</title>
+    <sub-title lang="en">Avalanches and Jellyfish</sub-title>
+    <desc lang="en">Thrilling video pits you against deadly desert heat, pounding white water rapids, dangerous thin ice, and lightning on a golf course.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <category lang="en">Environmental</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10931415_e_h11_aa.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20221213040000 -0500" stop="20221213050000 -0500" channel="The Weather Channel US">
+    <title lang="en">So You Think You'd Survive?</title>
+    <sub-title lang="en">Avalanches and Volcanoes</sub-title>
+    <desc lang="en">Real-life video tests knowledge of exploding glaciers, venomous snakes and ground-crumbling earthquakes.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <category lang="en">Environmental</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10929268_b_h11_ab.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20221213050000 -0500" stop="20221213060000 -0500" channel="The Weather Channel US">
+    <title lang="en">So You Think You'd Survive?</title>
+    <sub-title lang="en">Surviving Tornadoes</sub-title>
+    <desc lang="en">Testing your skills against tornadoes tearing through an airport, a gas station and a trailer park; what to do when a tornado towers beside your car; how to survive a brutal twister that rips through a city.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <category lang="en">Environmental</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p12219795_e_h8_aa.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20221213060000 -0500" stop="20221213070000 -0500" channel="The Weather Channel US">
+    <title lang="en">America's Morning Headquarters</title>
+    <desc lang="en">Starting the day by opening a window into weather, looking out at the stories and science behind the forecast.(n)</desc>
+    <category lang="en">Local</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p20046184_i_h10_aa.jpg" />
+  </programme>
+  <programme start="20221213070000 -0500" stop="20221213080000 -0500" channel="The Weather Channel US">
+    <title lang="en">America's Morning Headquarters</title>
+    <desc lang="en">Starting the day by opening a window into weather, looking out at the stories and science behind the forecast.(n)</desc>
+    <category lang="en">Local</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p20046184_i_h10_aa.jpg" />
+  </programme>
+  <programme start="20221213080000 -0500" stop="20221213090000 -0500" channel="The Weather Channel US">
+    <title lang="en">America's Morning Headquarters</title>
+    <desc lang="en">Starting the day by opening a window into weather, looking out at the stories and science behind the forecast.(n)</desc>
+    <category lang="en">Local</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p20046184_i_h10_aa.jpg" />
+  </programme>
+  <programme start="20221213090000 -0500" stop="20221213100000 -0500" channel="The Weather Channel US">
+    <title lang="en">America's Morning Headquarters</title>
+    <desc lang="en">Starting the day by opening a window into weather, looking out at the stories and science behind the forecast.(n)</desc>
+    <category lang="en">Local</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p20046184_i_h10_aa.jpg" />
+  </programme>
+  <programme start="20221213100000 -0500" stop="20221213110000 -0500" channel="The Weather Channel US">
+    <title lang="en">America's Morning Headquarters</title>
+    <desc lang="en">Starting the day by opening a window into weather, looking out at the stories and science behind the forecast.(n)</desc>
+    <category lang="en">Local</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p20046184_i_h10_aa.jpg" />
+  </programme>
+  <programme start="20221213110000 -0500" stop="20221213120000 -0500" channel="The Weather Channel US">
+    <title lang="en">America's Morning Headquarters</title>
+    <desc lang="en">Starting the day by opening a window into weather, looking out at the stories and science behind the forecast.(n)</desc>
+    <category lang="en">Local</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p20046184_i_h10_aa.jpg" />
+  </programme>
+  <programme start="20221213120000 -0500" stop="20221213130000 -0500" channel="The Weather Channel US">
+    <title lang="en">Pattrn</title>
+    <desc lang="en">Elevating the conversation about climate, extreme weather, sustainability and green living.(n)</desc>
+    <category lang="en">Environmental</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p21886602_b_h10_aa.jpg" />
+  </programme>
+  <programme start="20221213130000 -0500" stop="20221213140000 -0500" channel="The Weather Channel US">
+    <title lang="en">Weather Underground</title>
+    <desc lang="en">A breakdown of the science behind today's weather, with fan interaction and frequent visits from guest meteorologists.(n)</desc>
+    <category lang="en">Environmental</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p12008769_b_h10_ac.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20221213140000 -0500" stop="20221213150000 -0500" channel="The Weather Channel US">
+    <title lang="en">Weather Underground</title>
+    <desc lang="en">A breakdown of the science behind today's weather, with fan interaction and frequent visits from guest meteorologists.(n)</desc>
+    <category lang="en">Environmental</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p12008769_b_h10_ac.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20221213150000 -0500" stop="20221213160000 -0500" channel="The Weather Channel US">
+    <title lang="en">Weather Underground</title>
+    <desc lang="en">A breakdown of the science behind today's weather, with fan interaction and frequent visits from guest meteorologists.(n)</desc>
+    <category lang="en">Environmental</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p12008769_b_h10_ac.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20221213160000 -0500" stop="20221213170000 -0500" channel="The Weather Channel US">
+    <title lang="en">Weather Underground</title>
+    <desc lang="en">A breakdown of the science behind today's weather, with fan interaction and frequent visits from guest meteorologists.(n)</desc>
+    <category lang="en">Environmental</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p12008769_b_h10_ac.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20221213170000 -0500" stop="20221213180000 -0500" channel="The Weather Channel US">
+    <title lang="en">Storm Center</title>
+    <desc lang="en">An inside look at the most powerful storms on Earth and the breaking weather news of the day using augmented reality.(n)</desc>
+    <category lang="en">Environmental</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p21010653_i_s3_ab.jpg" />
+  </programme>
+  <programme start="20221213180000 -0500" stop="20221213190000 -0500" channel="The Weather Channel US">
+    <title lang="en">Storm Center</title>
+    <desc lang="en">An inside look at the most powerful storms on Earth and the breaking weather news of the day using augmented reality.(n)</desc>
+    <category lang="en">Environmental</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p21010653_i_s3_ab.jpg" />
+  </programme>
+  <programme start="20221213190000 -0500" stop="20221213200000 -0500" channel="The Weather Channel US">
+    <title lang="en">Storm Center</title>
+    <desc lang="en">An inside look at the most powerful storms on Earth and the breaking weather news of the day using augmented reality.(n)</desc>
+    <category lang="en">Environmental</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p21010653_i_s3_ab.jpg" />
+  </programme>
+  <programme start="20221213200000 -0500" stop="20221213210000 -0500" channel="The Weather Channel US">
+    <title lang="en">Storm of Suspicion</title>
+    <sub-title lang="en">Black Magic Murder</sub-title>
+    <desc lang="en">The mutilated body of an unknown woman washes to the surface of a creek in Spring Valley, N.Y.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <category lang="en">Environmental</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p15927817_b_h10_aa.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20221213210000 -0500" stop="20221213220000 -0500" channel="The Weather Channel US">
+    <title lang="en">Storm of Suspicion</title>
+    <sub-title lang="en">Deadly Downpour</sub-title>
+    <desc lang="en">Afters a storm rolls through a small town in Maine, a beloved teenager is found brutally murdered.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <category lang="en">Environmental</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p15927817_b_h10_aa.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20221213220000 -0500" stop="20221213230000 -0500" channel="The Weather Channel US">
+    <title lang="en">Storm of Suspicion</title>
+    <sub-title lang="en">Shadow of a Drought</sub-title>
+    <desc lang="en">When a young woman vanishes during one of the worst droughts in California history, detectives embark on a decadeslong investigation to find a serial killer.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <category lang="en">Environmental</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p15927817_b_h10_aa.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20221213230000 -0500" stop="20221214000000 -0500" channel="The Weather Channel US">
+    <title lang="en">Weather Gone Viral</title>
+    <sub-title lang="en">Weather Wipeouts</sub-title>
+    <desc lang="en">People's lives can change in an instant when weather turns violent; excessive rain, wind, snow, violent storms and earthquakes can trigger weather wipeouts.(n)</desc>
+    <category lang="en">Environmental</category>
+    <category lang="en">Documentary</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11934501_i_h10_ad.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20221212053000 -0500" stop="20221212063000 -0500" channel="Paramount Network US">
+    <title lang="en">True Crime: Identity Theft</title>
+    <desc lang="en">Every 3 seconds an American's identity is stolen. Just how safe is your 401k? Your bank account? Your home? Your credit? Crime Reporter Tom Morris Jr. investigates the identity theft epidemic. Find out how you can help protect yourself with LifeLock.(n)</desc>
+    <category lang="en">Paid Program</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p21309872_b_v12_aa.jpg" />
+  </programme>
+  <programme start="20221212063000 -0500" stop="20221212070000 -0500" channel="Paramount Network US">
+    <title lang="en">Emeril's Air Fryer Secret + FREE PANS</title>
+    <desc lang="en">Enjoy chef-quality meals right at home with Emeril Lagasse's Power AirFryer 360. 2 FREE pans included!(n)</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Food</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p21796504_i_h10_aa.jpg" />
+  </programme>
+  <programme start="20221212070000 -0500" stop="20221212073000 -0500" channel="Paramount Network US">
+    <title lang="en">ByeBye Cakey Foundation! Look Younger Instantly with LUMINESS BREEZE Airbrush!</title>
+    <desc lang="en">Visit GetBreeze.com and Try LUMINESS Airbrush now! Use 10X less makeup while getting 3X better coverage &amp; Instantly look younger everyday. Traditional makeup can make you look older while BREEZE covers age spots, redness, and blemishes instantly!(n)</desc>
+    <category lang="en">Paid Program</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p20812438_st_v8_ac.jpg" />
+  </programme>
+  <programme start="20221212073000 -0500" stop="20221212080000 -0500" channel="Paramount Network US">
+    <title lang="en">The PiYo Craze from Beachbody!</title>
+    <desc lang="en">Define your body with PiYo. Chalene Johnson's new lower-impact workout series combining the muscle-sculpting benefits of Pilates, Yoga, and fluid motion all-in-one!(n)</desc>
+    <category lang="en">Paid Program</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p18535600_i_h11_aa.jpg" />
+  </programme>
+  <programme start="20221212080000 -0500" stop="20221212090000 -0500" channel="Paramount Network US">
+    <title lang="en">Bar Rescue</title>
+    <sub-title lang="en">The Blue Frog Sings the Blues</sub-title>
+    <desc lang="en">The Blue Frog 22 is a failing bar in Chicago.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8692405_b_v12_bg.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20221212090000 -0500" stop="20221212100000 -0500" channel="Paramount Network US">
+    <title lang="en">Bar Rescue</title>
+    <sub-title lang="en">Corking the Hole</sub-title>
+    <desc lang="en">Jon puts a bar's owners through a personal bar boot camp to attract the local military personnel.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10069527_e_s2_aa.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20221212100000 -0500" stop="20221212110000 -0500" channel="Paramount Network US">
+    <title lang="en">Bar Rescue</title>
+    <sub-title lang="en">Grandpa Got Run Over by His Grandkids</sub-title>
+    <desc lang="en">A bar owner's adult grandchildren use it as their own personal playground.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10205459_e_s2_aa.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20221212110000 -0500" stop="20221212120000 -0500" channel="Paramount Network US">
+    <title lang="en">Bar Rescue</title>
+    <sub-title lang="en">Hole in None</sub-title>
+    <desc lang="en">A bar with a golf theme needs major help to fix its horrendous sanitary conditions.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10298543_e_s2_aa.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20221212120000 -0500" stop="20221212130000 -0500" channel="Paramount Network US">
+    <title lang="en">Bar Rescue</title>
+    <sub-title lang="en">Things That Go Pahrump in the Night</sub-title>
+    <desc lang="en">It's a race against the clock when Jon Taffer heads to Pahrump, where he must save the failing bar owned by a man who might lose his sight forever.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8692405_b_v12_bg.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20221212130000 -0500" stop="20221212140000 -0500" channel="Paramount Network US">
+    <title lang="en">Bar Rescue</title>
+    <sub-title lang="en">Shutting Down the Confetti Party</sub-title>
+    <desc lang="en">Jon helps an owner who battled childhood illness and the loss of his father learn how to run a bar and manage a business.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p21821295_e_h10_aa.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20221212140000 -0500" stop="20221212143000 -0500" channel="Paramount Network US">
+    <title lang="en">Mom</title>
+    <sub-title lang="en">Horny-Goggles and a Catered Intervention</sub-title>
+    <desc lang="en">Regina doesn't think she is an alcoholic; Wendy encourages the ladies to attend a sober holiday dance.(n)</desc>
+    <credits>
+      <actor>Anna Faris</actor>
+      <actor>Allison Janney</actor>
+      <actor>Jaime Pressly</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <category lang="en">Christmas</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9978206_b_s4_as.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20221212143000 -0500" stop="20221212150000 -0500" channel="Paramount Network US">
+    <title lang="en">Mom</title>
+    <sub-title lang="en">An Epi-Pen and a Security Cat</sub-title>
+    <desc lang="en">After their home is robbed at Christmastime, Christy and Bonnie's search for the thief leads to an unlikely door.(n)</desc>
+    <credits>
+      <actor>Anna Faris</actor>
+      <actor>Allison Janney</actor>
+      <actor>Mimi Kennedy</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9978206_b_s4_as.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20221212150000 -0500" stop="20221212153000 -0500" channel="Paramount Network US">
+    <title lang="en">Mom</title>
+    <sub-title lang="en">Foot Powder and the Barrelworks Pirates</sub-title>
+    <desc lang="en">Christy's search for the perfect secret Santa gift leads her to discover Adam has been hiding something from Bonnie; Tammy looks for a job in order to avoid being sent back to prison.(n)</desc>
+    <credits>
+      <actor>Anna Faris</actor>
+      <actor>Allison Janney</actor>
+      <actor>Mimi Kennedy</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9978206_b_s4_as.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20221212153000 -0500" stop="20221212160000 -0500" channel="Paramount Network US">
+    <title lang="en">Mom</title>
+    <sub-title lang="en">Higgledy-Piggledy and a Cat Show</sub-title>
+    <desc lang="en">Bonnie is forced to relive painful Christmas memories when Christy recounts tales from her childhood to Bonnie's sponsee.(n)</desc>
+    <credits>
+      <actor>Anna Faris</actor>
+      <actor>Allison Janney</actor>
+      <actor>Mimi Kennedy</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <category lang="en">Christmas</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9978206_b_s4_as.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20221212160000 -0500" stop="20221212163000 -0500" channel="Paramount Network US">
+    <title lang="en">Two and a Half Men</title>
+    <sub-title lang="en">Fart Jokes, Pie and Celeste</sub-title>
+    <desc lang="en">Jake writes love songs to woo his ex-girlfriend; Herb and Alan hide their secret friendship from Judith.(n)</desc>
+    <credits>
+      <actor>Charlie Sheen</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Angus T. Jones</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184925_b_v8_ao.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20221212163000 -0500" stop="20221212170000 -0500" channel="Paramount Network US">
+    <title lang="en">Two and a Half Men</title>
+    <sub-title lang="en">One False Move, Zimbabwe!</sub-title>
+    <desc lang="en">Alan develops a crush on Walden's visiting mother; a secret comes out about Walden's past.(n)</desc>
+    <credits>
+      <actor>Ashton Kutcher</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Angus T. Jones</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184925_b_v8_ao.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20221212170000 -0500" stop="20221212173000 -0500" channel="Paramount Network US">
+    <title lang="en">Two and a Half Men</title>
+    <sub-title lang="en">Give Santa a Tail-Hole</sub-title>
+    <desc lang="en">Walden juggles his two identities; Alan ends up alone on Christmas.(n)</desc>
+    <credits>
+      <actor>Ashton Kutcher</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Angus T. Jones</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <category lang="en">Christmas</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184925_b_v8_ao.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20221212173000 -0500" stop="20221212180000 -0500" channel="Paramount Network US">
+    <title lang="en">Two and a Half Men</title>
+    <sub-title lang="en">On Vodka, on Soda, on Blender, on Mixer!</sub-title>
+    <desc lang="en">Jake sends Alan a Japanese delicacy; the house comes alive with questionable Christmas lyrics.(n)</desc>
+    <credits>
+      <actor>Ashton Kutcher</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Conchata Ferrell</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184925_b_v8_ao.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20221212180000 -0500" stop="20221212183000 -0500" channel="Paramount Network US">
+    <title lang="en">Two and a Half Men</title>
+    <sub-title lang="en">Family, Bublé, Deep-Fried Turkey</sub-title>
+    <desc lang="en">Alan and Walden are determined to convince Louis that Santa Claus is real.(n)</desc>
+    <credits>
+      <actor>Jon Cryer</actor>
+      <actor>Ashton Kutcher</actor>
+      <actor>Conchata Ferrell</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <category lang="en">Christmas</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184925_b_v8_ao.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20221212183000 -0500" stop="20221212190000 -0500" channel="Paramount Network US">
+    <title lang="en">Two and a Half Men</title>
+    <sub-title lang="en">Santa's Village of the Damned</sub-title>
+    <desc lang="en">Alan dates a controlling woman who takes over the house during the Christmas holidays.(n)</desc>
+    <credits>
+      <actor>Charlie Sheen</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Angus T. Jones</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184925_b_v8_ao.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20221212190000 -0500" stop="20221212193000 -0500" channel="Paramount Network US">
+    <title lang="en">Two and a Half Men</title>
+    <sub-title lang="en">Walnuts and Demerol</sub-title>
+    <desc lang="en">Charlie finds himself throwing an unwanted, unplanned holiday party; Evelyn tries to keep Charlie from sleeping with his party date.(n)</desc>
+    <credits>
+      <actor>Charlie Sheen</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Angus T. Jones</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184925_b_v8_ao.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20221212193000 -0500" stop="20221212200000 -0500" channel="Paramount Network US">
+    <title lang="en">Two and a Half Men</title>
+    <sub-title lang="en">Warning, It's Dirty</sub-title>
+    <desc lang="en">Charlie coaches Jake on the art of infidelity while his girlfriend is away for Christmas.(n)</desc>
+    <credits>
+      <actor>Charlie Sheen</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Angus T. Jones</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184925_b_v8_ao.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20221212200000 -0500" stop="20221212220000 -0500" channel="Paramount Network US">
+    <title lang="en">A Nashville Country Christmas</title>
+    <desc lang="en">A country music star escapes her hectic Hollywood life to spend the holidays at her family home. Instead of rest, she finds romance, a return to her musical roots and an unexpected family when she finds three foster kids.(n)</desc>
+    <credits>
+      <actor>Tanya Tucker</actor>
+      <actor>Kimberly Williams-Paisley</actor>
+      <actor>Keith Carradine</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p23584225_st_h10_aa.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20221212220000 -0500" stop="20221213003000 -0500" channel="Paramount Network US">
+    <title lang="en">The Wedding Singer</title>
+    <desc lang="en">A spirited entertainer (Adam Sandler) and a waitress (Drew Barrymore) with a boorish fiance work at the same weddings.(n)</desc>
+    <credits>
+      <actor>Adam Sandler</actor>
+      <actor>Drew Barrymore</actor>
+      <actor>Christine Taylor</actor>
+    </credits>
+    <date>1998</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Romance</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p20515_p_v8_af.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="US">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20221213003000 -0500" stop="20221213023000 -0500" channel="Paramount Network US">
+    <title lang="en">A Nashville Country Christmas</title>
+    <desc lang="en">A country music star escapes her hectic Hollywood life to spend the holidays at her family home. Instead of rest, she finds romance, a return to her musical roots and an unexpected family when she finds three foster kids.(n)</desc>
+    <credits>
+      <actor>Tanya Tucker</actor>
+      <actor>Kimberly Williams-Paisley</actor>
+      <actor>Keith Carradine</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p23584225_st_h10_aa.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20221213023000 -0500" stop="20221213030000 -0500" channel="Paramount Network US">
+    <title lang="en">The Office</title>
+    <sub-title lang="en">Business Ethics</sub-title>
+    <desc lang="en">A business ethics seminar gets out of control when Michael lets everyone talk about their unethical behavior at work; Jim makes Dwight observe the company's.(n)</desc>
+    <credits>
+      <actor>Steve Carell</actor>
+      <actor>Rainn Wilson</actor>
+      <actor>John Krasinski</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p185008_b_h10_ai.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20221213030000 -0500" stop="20221213033000 -0500" channel="Paramount Network US">
+    <title lang="en">The Office</title>
+    <sub-title lang="en">Baby Shower</sub-title>
+    <desc lang="en">Michael has Dwight go over possible birthing scenarios to prepare for the birth of Jan's baby; Michael tells Holly he will pretend not to like her for Jan's benefit.(n)</desc>
+    <credits>
+      <actor>Steve Carell</actor>
+      <actor>Rainn Wilson</actor>
+      <actor>John Krasinski</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p185008_b_h10_ai.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20221213033000 -0500" stop="20221213040000 -0500" channel="Paramount Network US">
+    <title lang="en">The Office</title>
+    <sub-title lang="en">Crime Aid</sub-title>
+    <desc lang="en">Michael helps Pam get a part-time job so she can afford art school; Michael and Holly get an early start on their date night; after the office is robbed, Michael decides to raise money for all of the lost items.(n)</desc>
+    <credits>
+      <actor>Steve Carell</actor>
+      <actor>Rainn Wilson</actor>
+      <actor>John Krasinski</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p185008_b_h10_ai.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20221213040000 -0500" stop="20221213043000 -0500" channel="Paramount Network US">
+    <title lang="en">Try Total Gym Risk Free</title>
+    <desc lang="en">Total Gym Fit is the only piece of equipment you need get into the best shape of your life! 30 Day Risk-Free Trial. Call today!(n)</desc>
+    <category lang="en">Paid Program</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17279057_st_v8_aa.jpg" />
+  </programme>
+  <programme start="20221213043000 -0500" stop="20221213050000 -0500" channel="Paramount Network US">
+    <title lang="en">HairClub. Regrow, Replace, Restore your Hair</title>
+    <desc lang="en">HairClub is the leader in hair loss and hair health solutions for men &amp; women. Guiding clients through their hair loss journey for over 40 years! It starts with a complementary, personalized hair health analysis and consultation. Let's Talk.(n)</desc>
+    <category lang="en">Paid Program</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p22482824_st_v8_aa.jpg" />
+  </programme>
+  <programme start="20221213050000 -0500" stop="20221213060000 -0500" channel="Paramount Network US">
+    <title lang="en">True Crime: Identity Theft</title>
+    <desc lang="en">Every 3 seconds an American's identity is stolen. Just how safe is your 401k? Your bank account? Your home? Your credit? Crime Reporter Tom Morris Jr. investigates the identity theft epidemic. Find out how you can help protect yourself with LifeLock.(n)</desc>
+    <category lang="en">Paid Program</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p21309872_b_v12_aa.jpg" />
+  </programme>
+  <programme start="20221213060000 -0500" stop="20221213063000 -0500" channel="Paramount Network US">
+    <title lang="en">True Crime: Identity Theft</title>
+    <desc lang="en">Every 3 seconds an American's identity is stolen. Just how safe is your 401k? Your bank account? Your home? Your credit? Crime Reporter Tom Morris Jr. investigates the identity theft epidemic. Find out how you can help protect yourself with LifeLock.(n)</desc>
+    <category lang="en">Paid Program</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p21309872_b_v12_aa.jpg" />
+  </programme>
+  <programme start="20221213063000 -0500" stop="20221213070000 -0500" channel="Paramount Network US">
+    <title lang="en">Clean with Steam!</title>
+    <desc lang="en">Clean, Deodorize, &amp; Kill Germs and Viruses Without Harmful Chemicals with a 5 in 1 Cleaning System!(n)</desc>
+    <category lang="en">Paid Program</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p22189754_b_h11_aa.jpg" />
+  </programme>
+  <programme start="20221213070000 -0500" stop="20221213073000 -0500" channel="Paramount Network US">
+    <title lang="en">Overcome Pain with Blair Underwood</title>
+    <desc lang="en">Award winning actor, producer Blair Underwood interviews Dr. Sharon McQuillan on pain and effects of inflammation in the US today.(n)</desc>
+    <category lang="en">Paid Program</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19748190_b_h10_ab.jpg" />
+  </programme>
+  <programme start="20221213073000 -0500" stop="20221213080000 -0500" channel="Paramount Network US">
+    <title lang="en">Car Repair Secrets!</title>
+    <desc lang="en">Thinking of Investing? Find out how investing in your car could save you thousands!(n)</desc>
+    <category lang="en">Paid Program</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17463183_b_s2_aa.jpg" />
+  </programme>
+  <programme start="20221213080000 -0500" stop="20221213090000 -0500" channel="Paramount Network US">
+    <title lang="en">Bar Rescue</title>
+    <sub-title lang="en">Bottomless Pit</sub-title>
+    <desc lang="en">Jon pins his hopes for a failing dive bar in Orange, Calif., on the owner's daughter.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8692405_b_v12_bg.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20221213090000 -0500" stop="20221213100000 -0500" channel="Paramount Network US">
+    <title lang="en">Bar Rescue</title>
+    <sub-title lang="en">Murphy's Mess</sub-title>
+    <desc lang="en">Jon must fix a rat-infested bar owned by two fraternity brothers in Fells Point, Md., that is about to collapse.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8692405_b_v12_bg.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20221213100000 -0500" stop="20221213110000 -0500" channel="Paramount Network US">
+    <title lang="en">Bar Rescue</title>
+    <sub-title lang="en">Empty Pockets</sub-title>
+    <desc lang="en">Jon tries to help an owner of a Denver pool hall fulfill his American Dream.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8692405_b_v12_bg.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20221213110000 -0500" stop="20221213120000 -0500" channel="Paramount Network US">
+    <title lang="en">Bar Rescue</title>
+    <sub-title lang="en">Beer and Loathing in Las Vegas</sub-title>
+    <desc lang="en">Two classically trained chefs have a blue collar bar that seems beyond repair.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10102725_e_s2_aa.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20221213120000 -0500" stop="20221213130000 -0500" channel="Paramount Network US">
+    <title lang="en">Bar Rescue</title>
+    <sub-title lang="en">I Smell a Rat</sub-title>
+    <desc lang="en">Overwhelming odors and frat house behavior at this hookah bar are causing profits to go up in smoke.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10527701_e_s3_aa.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20221213130000 -0500" stop="20221213140000 -0500" channel="Paramount Network US">
+    <title lang="en">Bar Rescue</title>
+    <sub-title lang="en">Rescue on the River</sub-title>
+    <desc lang="en">A riverside bar in Florida is struggling to stay afloat due to a manager with no experience, a staff co-mingling and a wildly out-of-line menu for their community.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8692405_b_v12_bg.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20221213140000 -0500" stop="20221213143000 -0500" channel="Paramount Network US">
+    <title lang="en">Mom</title>
+    <sub-title lang="en">Dirty Money and a Woman Named Mike</sub-title>
+    <desc lang="en">Bonnie and Christy are shocked when they learn how much prison has changed their friend Regina (Octavia Spencer).(n)</desc>
+    <credits>
+      <actor>Anna Faris</actor>
+      <actor>Allison Janney</actor>
+      <actor>Matt Jones</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9978206_b_s4_as.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20221213143000 -0500" stop="20221213150000 -0500" channel="Paramount Network US">
+    <title lang="en">Mom</title>
+    <sub-title lang="en">Patient Zero and the Chocolate Fountain</sub-title>
+    <desc lang="en">Due to their contentious relationship, Bonnie and Christy become unwelcome guests everywhere they go.(n)</desc>
+    <credits>
+      <actor>Anna Faris</actor>
+      <actor>Allison Janney</actor>
+      <actor>Matt Jones</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9978206_b_s4_as.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20221213150000 -0500" stop="20221213153000 -0500" channel="Paramount Network US">
+    <title lang="en">Mom</title>
+    <sub-title lang="en">Fun Girl Stuff and Eternal Salvation</sub-title>
+    <desc lang="en">When Roscoe announces that he has decided to go live with his father, Christy places the blame on Bonnie.(n)</desc>
+    <credits>
+      <actor>Anna Faris</actor>
+      <actor>Allison Janney</actor>
+      <actor>Sadie Calvano</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9978206_b_s4_as.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20221213153000 -0500" stop="20221213160000 -0500" channel="Paramount Network US">
+    <title lang="en">Mom</title>
+    <sub-title lang="en">Terrorists and Gingerbread</sub-title>
+    <desc lang="en">Bonnie's mother, Shirley (Ellen Burstyn) -- who abandoned Bonnie when she was young -- suddenly wants to be a part of Christy and Bonnie's lives.(n)</desc>
+    <credits>
+      <actor>Anna Faris</actor>
+      <actor>Allison Janney</actor>
+      <actor>Jaime Pressly</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9978206_b_s4_as.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20221213160000 -0500" stop="20221213163000 -0500" channel="Paramount Network US">
+    <title lang="en">Two and a Half Men</title>
+    <sub-title lang="en">Baseball. Boobs. Boobs. Baseball</sub-title>
+    <desc lang="en">Lyndsey's boyfriend sets Alan up on a date; Walden wants to help Nicole with her project so she will have time to date him.(n)</desc>
+    <credits>
+      <actor>Ashton Kutcher</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Conchata Ferrell</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184925_b_v8_ao.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20221213163000 -0500" stop="20221213170000 -0500" channel="Paramount Network US">
+    <title lang="en">Two and a Half Men</title>
+    <sub-title lang="en">Bite Me, Supreme Court</sub-title>
+    <desc lang="en">Marty Pepper (Carl Reiner) proposes to Evelyn; Alan and Walden plan a bachelor party for Marty.(n)</desc>
+    <credits>
+      <actor>Ashton Kutcher</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Conchata Ferrell</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184925_b_v8_ao.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20221213170000 -0500" stop="20221213173000 -0500" channel="Paramount Network US">
+    <title lang="en">Two and a Half Men</title>
+    <sub-title lang="en">Three Fingers of Creme de Menthe</sub-title>
+    <desc lang="en">Alan finds out that Lyndsey broke up with Larry without telling him; Walden tries to prove he is a man's man.(n)</desc>
+    <credits>
+      <actor>Ashton Kutcher</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Conchata Ferrell</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184925_b_v8_ao.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20221213173000 -0500" stop="20221213180000 -0500" channel="Paramount Network US">
+    <title lang="en">Two and a Half Men</title>
+    <sub-title lang="en">That Darn Priest</sub-title>
+    <desc lang="en">Rose discovers Alan's Ponzi scheme; Alan meets Rose's.(n)</desc>
+    <credits>
+      <actor>Charlie Sheen</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Angus T. Jones</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184925_b_v8_ao.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20221213180000 -0500" stop="20221213183000 -0500" channel="Paramount Network US">
+    <title lang="en">Two and a Half Men</title>
+    <sub-title lang="en">Pilot</sub-title>
+    <desc lang="en">Charlie's life turns upside down when his brother and nephew move in; at the supermarket, Charlie discovers he can use 10-year-old Jake to attract women.(n)</desc>
+    <credits>
+      <actor>Charlie Sheen</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Holland Taylor</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184925_b_v8_ao.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20221213183000 -0500" stop="20221213190000 -0500" channel="Paramount Network US">
+    <title lang="en">Two and a Half Men</title>
+    <sub-title lang="en">Big Flappy Bastards</sub-title>
+    <desc lang="en">Charlie doesn't know how to discipline Jake for luring a flock of sea gulls into his room; Judith surprises Alan when he goes home to fix her sprinklers.(n)</desc>
+    <credits>
+      <actor>Charlie Sheen</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Angus T. Jones</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184925_b_v8_ao.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20221213190000 -0500" stop="20221213193000 -0500" channel="Paramount Network US">
+    <title lang="en">Two and a Half Men</title>
+    <sub-title lang="en">Go East on Sunset Until You Reach the Gates of Hell</sub-title>
+    <desc lang="en">One drink too many emboldens the brothers to stand up to their controlling mother.(n)</desc>
+    <credits>
+      <actor>Charlie Sheen</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Angus T. Jones</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184925_b_v8_ao.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20221213193000 -0500" stop="20221213200000 -0500" channel="Paramount Network US">
+    <title lang="en">Two and a Half Men</title>
+    <sub-title lang="en">If I Can't Write My Chocolate Song, I'm Going to Take a Nap</sub-title>
+    <desc lang="en">Alan offers to help get Charlie's cleaning lady back if Charlie can get Jake ready to go out to dinner with his mother.(n)</desc>
+    <credits>
+      <actor>Charlie Sheen</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Angus T. Jones</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184925_b_v8_ao.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20221213200000 -0500" stop="20221213223000 -0500" channel="Paramount Network US">
+    <title lang="en">The Wedding Singer</title>
+    <desc lang="en">A spirited entertainer (Adam Sandler) and a waitress (Drew Barrymore) with a boorish fiance work at the same weddings.(n)</desc>
+    <credits>
+      <actor>Adam Sandler</actor>
+      <actor>Drew Barrymore</actor>
+      <actor>Christine Taylor</actor>
+    </credits>
+    <date>1998</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Romance</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p20515_p_v8_af.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="US">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20221213223000 -0500" stop="20221214010000 -0500" channel="Paramount Network US">
+    <title lang="en">Grown Ups 2</title>
+    <desc lang="en">Lenny Feder (Adam Sandler) moves his family back to his hometown to be with his old friends and finds out that he didn't leave the crazy life behind in Los Angeles.(n)</desc>
+    <credits>
+      <actor>Adam Sandler</actor>
+      <actor>Kevin James</actor>
+      <actor>Chris Rock</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9670463_i_h10_ae.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="US">
+      <value>1</value>
+    </star-rating>
+  </programme>
+  <programme start="20221212060000 -0500" stop="20221212063000 -0500" channel="AMC US">
+    <title lang="en">Peter Popoff Ministries</title>
+    <desc lang="en">For over 30 years Reverend Peter Popoff has provided spiritual direction and powerful testimonies to receive God's blessings in your life.(n)</desc>
+    <category lang="en">Paid Program</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p12072954_b_v8_aa.jpg" />
+  </programme>
+  <programme start="20221212063000 -0500" stop="20221212070000 -0500" channel="AMC US">
+    <title lang="en">H2O X5 - Super Powerful 5-In-1 Multi-Use Steam Cleaner</title>
+    <desc lang="en">Kills 99% of Bacteria, Viruses, and Germs with Steam! The 5-in-1 Lightweight, Fast, Powerful, And Completely Chemical Free Steam Cleaner! Lift and remove dirt and stains all around the home!(n)</desc>
+    <category lang="en">Paid Program</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p18861032_st_h10_aa.jpg" />
+  </programme>
+  <programme start="20221212070000 -0500" stop="20221212073000 -0500" channel="AMC US">
+    <title lang="en">House Call TV: New Hope For Aging Joints</title>
+    <desc lang="en">Frustrated by aching joints and stiffness holding you back? Learn how to regain joint comfort and flexibility at any age. Results in just 5 days!(n)</desc>
+    <category lang="en">Paid Program</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p22951071_b_s4_aa.jpg" />
+  </programme>
+  <programme start="20221212073000 -0500" stop="20221212080000 -0500" channel="AMC US">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p459763_b_s4_ax.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20221212080000 -0500" stop="20221212083000 -0500" channel="AMC US">
+    <title lang="en">True Crime: Identity Theft</title>
+    <desc lang="en">Every 3 seconds an American's identity is stolen. Just how safe is your 401k? Your bank account? Your home? Your credit? Crime Reporter Tom Morris Jr. investigates the identity theft epidemic. Find out how you can help protect yourself with LifeLock.(n)</desc>
+    <category lang="en">Paid Program</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p21309872_b_v12_aa.jpg" />
+  </programme>
+  <programme start="20221212083000 -0500" stop="20221212090000 -0500" channel="AMC US">
+    <title lang="en">U-Box by U-Haul Containers for Moving &amp; Storage</title>
+    <desc lang="en">U-Box by U-Haul moving and storage containers provide a convenient, flexible and secure way to move and store your belongings. Move or store at your pace. Get a quote today at ubox.com!(n)</desc>
+    <category lang="en">Paid Program</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p16190011_b_v8_aa.jpg" />
+  </programme>
+  <programme start="20221212090000 -0500" stop="20221212111500 -0500" channel="AMC US">
+    <title lang="en">The Christmas Shoes</title>
+    <desc lang="en">A workaholic attorney rediscovers the true meaning of love and the holiday season after he crosses paths with a boy.(n)</desc>
+    <credits>
+      <actor>Rob Lowe</actor>
+      <actor>Kimberly Williams-Paisley</actor>
+      <actor>Max Morrow</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p30646_i_h10_aa.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+    <star-rating system="US">
+      <value>2</value>
+    </star-rating>
+  </programme>
+  <programme start="20221212111500 -0500" stop="20221212123000 -0500" channel="AMC US">
+    <title lang="en">Jack Frost</title>
+    <desc lang="en">The icy little fellow falls in love and seeks Father Winter's advice; voices of Buddy Hackett, Robert Morse; animated.(n)</desc>
+    <credits>
+      <actor>Dave Garroway</actor>
+      <actor>Debra Clinger</actor>
+    </credits>
+    <category lang="en">Specials</category>
+    <category lang="en">Animated</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p410608_b_s2_aa.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20221212123000 -0500" stop="20221212150000 -0500" channel="AMC US">
+    <title lang="en">Edward Scissorhands</title>
+    <desc lang="en">A deceased inventor's unfinished creation (Johnny Depp) becomes an instant celebrity when a cheery suburbanite (Dianne Wiest) brings him home.(n)</desc>
+    <credits>
+      <actor>Johnny Depp</actor>
+      <actor>Winona Ryder</actor>
+      <actor>Dianne Wiest</actor>
+    </credits>
+    <date>1990</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Fantasy</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p12902_p_v8_ax.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="US">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20221212150000 -0500" stop="20221212173000 -0500" channel="AMC US">
+    <title lang="en">Rudolph and Frosty's Christmas in July</title>
+    <desc lang="en">Santa must save the day when Rudolph the Red-Nosed Reindeer and Frosty the Snowman encounter an evil wizard.(n)</desc>
+    <credits>
+      <actor>Darlene Conley</actor>
+    </credits>
+    <date>1980</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Animated</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p4322_b_h11_aa.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="US">
+      <value>2</value>
+    </star-rating>
+  </programme>
+  <programme start="20221212173000 -0500" stop="20221212200000 -0500" channel="AMC US">
+    <title lang="en">Willy Wonka and the Chocolate Factory</title>
+    <desc lang="en">A poor boy (Peter Ostrum) and his grandfather (Jack Albertson) win a tour through the marvelous factory of a wily confectioner (Gene Wilder).(n)</desc>
+    <credits>
+      <actor>Gene Wilder</actor>
+      <actor>Jack Albertson</actor>
+      <actor>Peter Ostrum</actor>
+    </credits>
+    <date>1971</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Children</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1798_i_h10_ab.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="US">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20221212200000 -0500" stop="20221212221500 -0500" channel="AMC US">
+    <title lang="en">National Lampoon's Christmas Vacation</title>
+    <desc lang="en">The Griswolds (Chevy Chase, Beverly D'Angelo) spend the holiday in a garish way, especially when a country cousin (Randy Quaid) pulls up in an RV.(n)</desc>
+    <credits>
+      <actor>Chevy Chase</actor>
+      <actor>Beverly D'Angelo</actor>
+      <actor>Randy Quaid</actor>
+    </credits>
+    <date>1989</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p12007_i_h10_ad.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="US">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20221212221500 -0500" stop="20221213001500 -0500" channel="AMC US">
+    <title lang="en">Elf</title>
+    <desc lang="en">Adopted as a baby by one of Santa's elves (Bob Newhart), a man (Will Ferrell) leaves the workshop to search for his family in New York.(n)</desc>
+    <credits>
+      <actor>Will Ferrell</actor>
+      <actor>James Caan</actor>
+      <actor>Bob Newhart</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Children</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p32828_i_s2_af.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="US">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20221213001500 -0500" stop="20221213021500 -0500" channel="AMC US">
+    <title lang="en">The Addams Family</title>
+    <desc lang="en">Gomez (Raul Julia), Morticia (Anjelica Huston) and their ghoulish household are prey to a scam involving long-lost Uncle Fester (Christopher Lloyd).(n)</desc>
+    <credits>
+      <actor>Anjelica Huston</actor>
+      <actor>Raul Julia</actor>
+      <actor>Christopher Lloyd</actor>
+    </credits>
+    <date>1991</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13571_i_s2_ai.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="US">
+      <value>2</value>
+    </star-rating>
+  </programme>
+  <programme start="20221213021500 -0500" stop="20221213044500 -0500" channel="AMC US">
+    <title lang="en">Willy Wonka and the Chocolate Factory</title>
+    <desc lang="en">A poor boy (Peter Ostrum) and his grandfather (Jack Albertson) win a tour through the marvelous factory of a wily confectioner (Gene Wilder).(n)</desc>
+    <credits>
+      <actor>Gene Wilder</actor>
+      <actor>Jack Albertson</actor>
+      <actor>Peter Ostrum</actor>
+    </credits>
+    <date>1971</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Children</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1798_i_h10_ab.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="US">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20221213044500 -0500" stop="20221213060000 -0500" channel="AMC US">
+    <title lang="en">Jack Frost</title>
+    <desc lang="en">The icy little fellow falls in love and seeks Father Winter's advice; voices of Buddy Hackett, Robert Morse; animated.(n)</desc>
+    <credits>
+      <actor>Dave Garroway</actor>
+      <actor>Debra Clinger</actor>
+    </credits>
+    <category lang="en">Specials</category>
+    <category lang="en">Animated</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p410608_b_s2_aa.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20221213060000 -0500" stop="20221213063000 -0500" channel="AMC US">
+    <title lang="en">Age Spots? Rosacea? Try This Secret!</title>
+    <desc lang="en">Looking flawless has never been easier. Get smoother, fuller, and more natural-looking skin with Luminess.(n)</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Lifestyle</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p23022710_b_v12_aa.jpg" />
+  </programme>
+  <programme start="20221213063000 -0500" stop="20221213070000 -0500" channel="AMC US">
+    <title lang="en">H2O X5 - Super Powerful 5-In-1 Multi-Use Steam Cleaner</title>
+    <desc lang="en">Kills 99% of Bacteria, Viruses, and Germs with Steam! The 5-in-1 Lightweight, Fast, Powerful, And Completely Chemical Free Steam Cleaner! Lift and remove dirt and stains all around the home!(n)</desc>
+    <category lang="en">Paid Program</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p18861032_st_h10_aa.jpg" />
+  </programme>
+  <programme start="20221213070000 -0500" stop="20221213073000 -0500" channel="AMC US">
+    <title lang="en">True Crime: Identity Theft</title>
+    <desc lang="en">Every 3 seconds an American's identity is stolen. Just how safe is your 401k? Your bank account? Your home? Your credit? Crime Reporter Tom Morris Jr. investigates the identity theft epidemic. Find out how you can help protect yourself with LifeLock.(n)</desc>
+    <category lang="en">Paid Program</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p21309872_b_v12_aa.jpg" />
+  </programme>
+  <programme start="20221213073000 -0500" stop="20221213080000 -0500" channel="AMC US">
+    <title lang="en">Forgotten Jews in Ukraine!</title>
+    <desc lang="en">The International Fellowship of Christians and Jews is in Ukraine, providing critical aid to the elderly. These.(n)</desc>
+    <category lang="en">Paid Program</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p23421482_i_h8_aa.jpg" />
+  </programme>
+  <programme start="20221213080000 -0500" stop="20221213090000 -0500" channel="AMC US">
+    <title lang="en">True Crime: Identity Theft</title>
+    <desc lang="en">Every 3 seconds an American's identity is stolen. Just how safe is your 401k? Your bank account? Your home? Your credit? Crime Reporter Tom Morris Jr. investigates the identity theft epidemic. Find out how you can help protect yourself with LifeLock.(n)</desc>
+    <category lang="en">Paid Program</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p21309872_b_v12_aa.jpg" />
+  </programme>
+  <programme start="20221213090000 -0500" stop="20221213091500 -0500" channel="AMC US">
+    <title lang="en">The Three Stooges</title>
+    <sub-title lang="en">Back to the Woods</sub-title>
+    <desc lang="en">Lawbreakers in England, the Stooges are sent by the government to the new colonies to help fight the.(n)</desc>
+    <credits>
+      <actor>Moe Howard</actor>
+      <actor>Larry Fine</actor>
+      <actor>Curly Howard</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184232_b_s2_aa.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20221213091500 -0500" stop="20221213114500 -0500" channel="AMC US">
+    <title lang="en">Rudolph and Frosty's Christmas in July</title>
+    <desc lang="en">Santa must save the day when Rudolph the Red-Nosed Reindeer and Frosty the Snowman encounter an evil wizard.(n)</desc>
+    <credits>
+      <actor>Darlene Conley</actor>
+    </credits>
+    <date>1980</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Animated</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p4322_b_h11_aa.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="US">
+      <value>2</value>
+    </star-rating>
+  </programme>
+  <programme start="20221213114500 -0500" stop="20221213140000 -0500" channel="AMC US">
+    <title lang="en">Weekend at Bernie's</title>
+    <desc lang="en">Two guys (Andrew McCarthy, Jonathan Silverman) party with their bumped-off boss (Terry Kiser) at his Long Island beach house, and no one notices.(n)</desc>
+    <credits>
+      <actor>Andrew McCarthy</actor>
+      <actor>Jonathan Silverman</actor>
+      <actor>Terry Kiser</actor>
+    </credits>
+    <date>1989</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11733_k_h8_aa.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="US">
+      <value>2</value>
+    </star-rating>
+  </programme>
+  <programme start="20221213140000 -0500" stop="20221213160000 -0500" channel="AMC US">
+    <title lang="en">Addams Family Values</title>
+    <desc lang="en">Upon arrival of their mustachioed baby, Morticia (Anjelica Huston) and Gomez (Raul Julia) hire a greedy nanny who targets Uncle Fester (Christopher Lloyd).(n)</desc>
+    <credits>
+      <actor>Anjelica Huston</actor>
+      <actor>Raul Julia</actor>
+      <actor>Christopher Lloyd</actor>
+    </credits>
+    <date>1993</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p15211_i_s3_bb.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="US">
+      <value>2</value>
+    </star-rating>
+  </programme>
+  <programme start="20221213160000 -0500" stop="20221213180000 -0500" channel="AMC US">
+    <title lang="en">The Addams Family</title>
+    <desc lang="en">Gomez (Raul Julia), Morticia (Anjelica Huston) and their ghoulish household are prey to a scam involving long-lost Uncle Fester (Christopher Lloyd).(n)</desc>
+    <credits>
+      <actor>Anjelica Huston</actor>
+      <actor>Raul Julia</actor>
+      <actor>Christopher Lloyd</actor>
+    </credits>
+    <date>1991</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13571_i_s2_ai.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="US">
+      <value>2</value>
+    </star-rating>
+  </programme>
+  <programme start="20221213180000 -0500" stop="20221213201500 -0500" channel="AMC US">
+    <title lang="en">National Lampoon's Christmas Vacation</title>
+    <desc lang="en">The Griswolds (Chevy Chase, Beverly D'Angelo) spend the holiday in a garish way, especially when a country cousin (Randy Quaid) pulls up in an RV.(n)</desc>
+    <credits>
+      <actor>Chevy Chase</actor>
+      <actor>Beverly D'Angelo</actor>
+      <actor>Randy Quaid</actor>
+    </credits>
+    <date>1989</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p12007_i_h10_ad.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="US">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20221213201500 -0500" stop="20221213221500 -0500" channel="AMC US">
+    <title lang="en">Elf</title>
+    <desc lang="en">Adopted as a baby by one of Santa's elves (Bob Newhart), a man (Will Ferrell) leaves the workshop to search for his family in New York.(n)</desc>
+    <credits>
+      <actor>Will Ferrell</actor>
+      <actor>James Caan</actor>
+      <actor>Bob Newhart</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Children</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p32828_i_s2_af.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="US">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20221213221500 -0500" stop="20221214001500 -0500" channel="AMC US">
+    <title lang="en">Four Christmases</title>
+    <desc lang="en">When their plans for a holiday getaway fall apart, a couple (Vince Vaughn, Reese Witherspoon) must spend Christmas Day trudging to a quartet of family get-togethers.(n)</desc>
+    <credits>
+      <actor>Vince Vaughn</actor>
+      <actor>Reese Witherspoon</actor>
+      <actor>Robert Duvall</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Romance</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p173732_i_h8_ad.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="US">
+      <value>2</value>
+    </star-rating>
+  </programme>
   <programme start="20221212060000 -0500" stop="20221212063000 -0500" channel="A&amp;E US">
     <title lang="en">David Jeremiah</title>
     <desc lang="en">Dr. David Jeremiah's goal is to deliver the unchanging Word of God to an ever-changing world.(n)</desc>
@@ -2569,212 +4001,6 @@
     <category lang="en">News</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p18471293_b_v8_ai.jpg" />
   </programme>
-  <programme start="20221212060000 +0100" stop="20221212120000 +0100" channel="DAZN LaLiga">
-    <title lang="es">DAZN LaLiga</title>
-  </programme>
-  <programme start="20221212120000 +0100" stop="20221212130000 +0100" channel="DAZN LaLiga">
-    <title lang="es">Especiales LaLiga: Top Goles 2022</title>
-    <title lang="en">Especiales LaLiga/23</title>
-    <desc lang="es">Reportajes sobre la actualidad de LaLiga Santander del fútbol español.(n)</desc>
-    <date>2022</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Programa</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3972044" />
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-  </programme>
-  <programme start="20221212130000 +0100" stop="20221212150000 +0100" channel="DAZN LaLiga">
-    <title lang="es">LaLiga Santander: Getafe-Athletic</title>
-    <title lang="en">LaLiga Santander/23</title>
-    <desc lang="es">Disfruta en DAZN del encuentro entre Getafe CF y Athletic Club. El conjunto de Ernesto Valverde, que ha cosechado su mejor arranque liguero en 66 años, quiere seguir demostrando que puede mantenerse en la zona noble de la clasificación. Enfrente tendrá a un Getafe necesitado de puntos que solo ha sumado una victoria en el Coliseum pero que no pierde en casa ante los leones desde 2016.(n)</desc>
-    <category lang="es">Deportes</category>
-    <category lang="es">Fútbol español</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4045914" />
-    <star-rating system="ES">
-      <value>8.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20221212150000 +0100" stop="20221212153000 +0100" channel="DAZN LaLiga">
-    <title lang="es">LaLiga Nations: Países Bajos</title>
-    <title lang="en">LaLiga Nations</title>
-    <desc lang="es">Desde hace años, la globalización en el fútbol es un fenómeno natural y aceptado, algo que no ocurría pocas décadas atrás. LaLiga es un buen ejemplo: entre las plantillas de los clubes de Primera militan jugadores de más de 40 nacionalidades diferentes.(n)</desc>
-    <date>2022</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Programa</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3825330" />
-    <country lang="es">España</country>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-  </programme>
-  <programme start="20221212153000 +0100" stop="20221212160000 +0100" channel="DAZN LaLiga">
-    <title lang="es">Soy Leyenda: Samuel Eto`o</title>
-    <title lang="en">Soy Leyenda</title>
-    <desc lang="es">Seguimos los pasos de un delantero único, goleador en dos finales de Champions. Amigos y excompañeros recuerdan algunos de los momentos vividos junto a Samuel Eto'o en sus distintos equipos en el fútbol español.(n)</desc>
-    <date>2021</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Programa</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3915194" />
-    <country lang="es">España</country>
-    <episode-num system="onscreen">S1</episode-num>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>8.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20221212160000 +0100" stop="20221212180000 +0100" channel="DAZN LaLiga">
-    <title lang="es">LaLiga Santander: Osasuna-Valladolid</title>
-    <title lang="en">LaLiga Santander/23</title>
-    <desc lang="es">Osasuna y Valladolid miden sus fuerzas en la duodécima jornada. Los navarros se han recompuesto al sumar cuatro puntos de los últimos seis. El conjunto pucelano también atraviesa un buen momento: encadena dos triunfos consecutivos.(n)</desc>
-    <category lang="es">Deportes</category>
-    <category lang="es">Fútbol español</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4046648" />
-    <star-rating system="ES">
-      <value>10.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20221212180000 +0100" stop="20221212181500 +0100" channel="DAZN LaLiga">
-    <title lang="es">LaLiga Genuine: Gimnàstic</title>
-    <title lang="en">LaLiga Genuine/23</title>
-    <desc lang="es">LaLiga Genuine es una iniciativa integradora auspiciada por la máxima competición del fútbol español. Se trata de un torneo en el que participan equipos del colectivo DI (personas con discapacidad intelectual). La competición se juega en la modalidad de Fútbol 8.(n)</desc>
-    <category lang="es">Deportes</category>
-    <category lang="es">Fútbol español</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1632856V2147142" />
-  </programme>
-  <programme start="20221212181500 +0100" stop="20221212183000 +0100" channel="DAZN LaLiga">
-    <title lang="es">Especiales LaLiga fin de temporada: Equipos ascendidos: Girona</title>
-    <title lang="en">Especiales LaLiga fin de temporada/22</title>
-    <desc lang="es">Reportajes sobre la actualidad de LaLiga Santander del fútbol español.(n)</desc>
-    <date>2022</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Programa</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4033484" />
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-  </programme>
-  <programme start="20221212183000 +0100" stop="20221212190000 +0100" channel="DAZN LaLiga">
-    <title lang="es">Como 1907: El Americano</title>
-    <desc lang="es">Como 1907 es un club histórico del norte de Italia que vive unos tiempos convulsos desde el apartado deportivo. Vivimos la llegada de su nuevo mandatario americano.(n)</desc>
-    <date>2021</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Programa</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3927076" />
-    <country lang="es">EE.UU</country>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>6.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20221212190000 +0100" stop="20221212210000 +0100" channel="DAZN LaLiga">
-    <title lang="es">LaLiga Santander: Sevilla-Valencia</title>
-    <title lang="en">LaLiga Santander/23</title>
-    <desc lang="es">En uno de sus peores arranques ligueros de la historia, el Sevilla recibe al Valencia en el Ramón Sánchez Pizjuán con la emergencia de ganar. Una victoria, dos empates y cuatro derrotas para un Sevilla en horas bajas que disputa ante el conjunto ché un partido clave para salir de la zona baja de la tabla. Por su parte, el cuadro valencianista tratará de revertir la mala racha a domicilio, buscando un triunfo que le lance a Europa en en un campo donde ha perdido en sus tres últimas visitas.(n)</desc>
-    <category lang="es">Deportes</category>
-    <category lang="es">Fútbol español</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4045912" />
-    <star-rating system="ES">
-      <value>6.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20221212210000 +0100" stop="20221212214500 +0100" channel="DAZN LaLiga">
-    <title lang="es">Club Ibiza: Las sesiones: La vida vuelve a Can Misses</title>
-    <title lang="en">Club Ibiza: Las sesiones</title>
-    <desc lang="es">Ibiza es sinónimo de sol, playa, música y diversión. Futbolistas, entrenadores y directivos pasan sus vacaciones en la isla, pero para que la felicidad fuese total hacía falta un club de fútbol profesional.(n)</desc>
-    <date>2022</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Programa</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4027527" />
-    <country lang="es">R.U</country>
-    <episode-num system="onscreen">S2</episode-num>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-  </programme>
-  <programme start="20221212214500 +0100" stop="20221212220000 +0100" channel="DAZN LaLiga">
-    <title lang="es">Ronaldo, memorias de sus Clásicos</title>
-    <desc lang="es">Solo algunos futbolistas pueden decir que han jugado ElClásico, pocos pueden afirmar que lo han hecho defendiendo ambas camisetas. Entre ellos, Ronaldo Nazario, el Fenómeno, leyenda del fútbol y de LaLiga, quien habla sobre sus recuerdos en los Clásicos.(n)</desc>
-    <date>2022</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Programa</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4045640" />
-    <country lang="es">España</country>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-    <star-rating system="ES">
-      <value>8.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20221212220000 +0100" stop="20221212223000 +0100" channel="DAZN LaLiga">
-    <title lang="es">Especiales LaLiga: Las mejores paradas 2022</title>
-    <title lang="en">Especiales LaLiga/23</title>
-    <desc lang="es">Reportajes sobre la actualidad de LaLiga Santander del fútbol español.(n)</desc>
-    <date>2022</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Programa</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3972044" />
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-  </programme>
-  <programme start="20221212223000 +0100" stop="20221212224500 +0100" channel="DAZN LaLiga">
-    <title lang="es">Dorsal 12</title>
-    <title lang="en">Dorsal 12/23</title>
-    <desc lang="es">''Dorsal Doce'' es una excusa para contar la vida a través del fútbol. Un programa que no se centra en el balón, sino en lo que le rodea. Rafael Escrig viaja por los estadios de LaLiga para contar las historias humanas más impactantes del fútbol español.(n)</desc>
-    <date>2022</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Programa</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4031660" />
-    <country lang="es">España</country>
-    <episode-num system="onscreen">E3</episode-num>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-  </programme>
-  <programme start="20221212224500 +0100" stop="20221212230000 +0100" channel="DAZN LaLiga">
-    <title lang="es">Club Ibiza: Las Sesiones: Sesión Cinco: Más que un partido</title>
-    <title lang="en">Club Ibiza: Las Sesiones</title>
-    <desc lang="es">La UD Ibiza acaba de conseguir el ascenso a Segunda División. Hace unos meses vivimos su día a día.(n)</desc>
-    <date>2021</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Programa</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3899809" />
-    <country lang="es">R.U</country>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
-  </programme>
-  <programme start="20221212230000 +0100" stop="20221213010000 +0100" channel="DAZN LaLiga">
-    <title lang="es">LaLiga Santander: Osasuna-Valencia</title>
-    <title lang="en">LaLiga Santander/23</title>
-    <desc lang="es">Osasuna y Valencia abren el fuego en la octava jornada del campeonato. Los navarros están de dulce y llegan muy reforzados al choque tras su empate en el Bernabéu. Los de Gennaro Gattuso, por su parte, buscan el primer triunfo a domicilio de la temporada.(n)</desc>
-    <category lang="es">Deportes</category>
-    <category lang="es">Fútbol español</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4039058" />
-    <star-rating system="ES">
-      <value>8.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20221213010000 +0100" stop="20221213060000 +0100" channel="DAZN LaLiga">
-    <title lang="es">DAZN LaLiga</title>
-  </programme>
   <programme start="20221213060000 +0100" stop="20221213120000 +0100" channel="DAZN LaLiga">
     <title lang="es">DAZN LaLiga</title>
   </programme>
@@ -2972,6 +4198,183 @@
     </rating>
   </programme>
   <programme start="20221214010000 +0100" stop="20221214060000 +0100" channel="DAZN LaLiga">
+    <title lang="es">DAZN LaLiga</title>
+  </programme>
+  <programme start="20221214060000 +0100" stop="20221214120000 +0100" channel="DAZN LaLiga">
+    <title lang="es">DAZN LaLiga</title>
+  </programme>
+  <programme start="20221214120000 +0100" stop="20221214123000 +0100" channel="DAZN LaLiga">
+    <title lang="es">The Making of Mourinho: La Familia</title>
+    <title lang="en">The Making of Mourinho</title>
+    <desc lang="es">Vivimos el segundo episodio del Making Off de José Mourinho, recientemente destituido como técnico del Tottenham.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3911534" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20221214123000 +0100" stop="20221214130000 +0100" channel="DAZN LaLiga">
+    <title lang="es">Massimo Moratti: El Romántico</title>
+    <desc lang="es">Segundo capítulo de la serie sobre el Inter de Moratti y cómo fue la llegada de Roberto Mancini.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3947131" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20221214130000 +0100" stop="20221214150000 +0100" channel="DAZN LaLiga">
+    <title lang="es">LaLiga Santander: Villarreal-Osasuna</title>
+    <title lang="en">LaLiga Santander/23</title>
+    <desc lang="es">La novena jornada del campeonato se cierra en el Ciutat de València. El Villarreal, 12 puntos, recibe a Osasuna, con 13 puntos. El encuentro determinará cuál de estos dos equipos sigue más cerca de la zona alta de la clasificación.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4043401" />
+    <star-rating system="ES">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20221214150000 +0100" stop="20221214153000 +0100" channel="DAZN LaLiga">
+    <title lang="es">LaLiga Nations: Colombia</title>
+    <title lang="en">LaLiga Nations</title>
+    <desc lang="es">Desde hace años, la globalización en el fútbol es un fenómeno natural y aceptado, algo que no ocurría pocas décadas atrás. LaLiga es un buen ejemplo: entre las plantillas de los clubes de Primera militan jugadores de más de 40 nacionalidades diferentes.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3825330" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20221214153000 +0100" stop="20221214160000 +0100" channel="DAZN LaLiga">
+    <title lang="es">LaLiga es Mundial</title>
+    <desc lang="es">Un programa diario con Danae Boronat y Alberto Edjogo que desmenuza la previa y el post de cada jornada mundialista. El espacio va acompañando de entrevistas y contenido exclusivo de LaLiga, de sus jugadores, clubes y patrocinadores.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4027527" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">E21</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20221214160000 +0100" stop="20221214180000 +0100" channel="DAZN LaLiga">
+    <title lang="es">LaLiga Santander: Betis-Almería</title>
+    <title lang="en">LaLiga Santander/23</title>
+    <desc lang="es">Duelo andaluz en la novena jornada del campeonato. El Betis sigue en la zona alta de la tabla, aunque solo ha sumado uno de los últimos seis puntos. El Almería, por su parte, rompió la semana pasada una larga racha de derrotas al vencer al Rayo 3-1.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4043403" />
+    <star-rating system="ES">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20221214180000 +0100" stop="20221214183000 +0100" channel="DAZN LaLiga">
+    <title lang="es">LaLiga Nations: Estados Unidos</title>
+    <title lang="en">LaLiga Nations</title>
+    <desc lang="es">Desde hace años, la globalización en el fútbol es un fenómeno natural y aceptado, algo que no ocurría pocas décadas atrás. LaLiga es un buen ejemplo: entre las plantillas de los clubes de Primera militan jugadores de más de 40 nacionalidades diferentes.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3825330" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20221214183000 +0100" stop="20221214190000 +0100" channel="DAZN LaLiga">
+    <title lang="es">LaLiga Fans</title>
+    <title lang="en">LaLiga Fans/23</title>
+    <desc lang="es">Programa sobre los seguidores del fútbol español.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3993019" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20221214190000 +0100" stop="20221214210000 +0100" channel="DAZN LaLiga">
+    <title lang="es">LaLiga Santander: Barcelona-Elche</title>
+    <title lang="en">LaLiga Santander/23</title>
+    <desc lang="es">El Barcelona recibe a un rival a priori propicio. El Elche nunca ha ganado en el Camp Nou, donde suma 47 años sin puntuar, aunque en muchas de esas temporadas los franjiverdes estuvieron en divisiones inferiores. De hecho, la última ocasión en la que los ilicitanos lograron puntuar en Barcelona fue en el curso 1974-75 (0-0).(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4034593" />
+    <star-rating system="ES">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20221214210000 +0100" stop="20221214220000 +0100" channel="DAZN LaLiga">
+    <title lang="es">LaLiga Talking Football: Pires</title>
+    <title lang="en">LaLiga Talking Football/23</title>
+    <desc lang="es">Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol. El campeonato español cuenta con una nómina de estrellas que son referencia de este deporte. Es por eso, sin duda, que es uno de los más seguidos de todo el planeta.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1606111V2133332" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20221214220000 +0100" stop="20221214221500 +0100" channel="DAZN LaLiga">
+    <title lang="es">Super 8: Jornada 3</title>
+    <title lang="en">Super 8/23</title>
+    <desc lang="es">La sala de proyecciones de DAZN abre sus puertas para LaLiga. En este espacio verás las imágenes más curiosas de la jornada, vivirás como si fueras uno de nosotros la experiencia de cubrir LaLiga y conocerás las historias que sucedan en cada estadio.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4027527" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20221214221500 +0100" stop="20221214230000 +0100" channel="DAZN LaLiga">
+    <title lang="es">Neymar, dinastía de reyes</title>
+    <desc lang="es">La unión del pueblo brasileño con el fútbol es de las conexiones más fuertes de la historia del deporte. En cada generación han disfrutado de una estrella sobre el césped, como una dinastía en la que los grandes futbolistas del país se van pasando la corona.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Documentales</category>
+    <category lang="es">Deporte</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4034513" />
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20221214230000 +0100" stop="20221215010000 +0100" channel="DAZN LaLiga">
+    <title lang="es">LaLiga Santander: Mallorca-Sevilla</title>
+    <title lang="en">LaLiga Santander/23</title>
+    <desc lang="es">El Sevilla mejoró su imagen en Dortmund y ahora tiene que empezar su remontada liguera. Los de Jorge Sampaoli visitan Palma, donde les espera un Mallorca que tiene tres puntos más que los hispalenses en el casillero.(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4043395" />
+    <star-rating system="ES">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20221215010000 +0100" stop="20221215060000 +0100" channel="DAZN LaLiga">
     <title lang="es">DAZN LaLiga</title>
   </programme>
   <programme start="20221212050000 +0000" stop="20221212080000 +0000" channel="VH1 IT">
@@ -3591,20 +4994,6 @@
     <category lang="it">Ragazzi e Musica</category>
     <category lang="it">Musica</category>
     <icon src="https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png" />
-  </programme>
-  <programme start="20221212220000 +0000" stop="20221212230000 +0000" channel="VH1 US">
-    <title lang="en">Love &amp; Hip Hop Atlanta</title>
-    <sub-title lang="en">Where Are They Now</sub-title>
-    <desc lang="en">Atlanta's hip-hop elite are followed as they juggle both their professional and personal lives. (repeat).(n)</desc>
-    <credits>
-      <producer>Mona Scott-Young</producer>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Reality</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12261/012261/012261_1280x720_696103_042.jpg" />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
   </programme>
   <programme start="20221212230000 +0000" stop="20221213000000 +0000" channel="VH1 US">
     <title lang="en">VH1 Family Reunion: Love &amp; Hip Hop Edition</title>
@@ -4448,11 +5837,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221212223000 +0000" stop="20221212230000 +0000" channel="RT (Russia Today)">
-    <title lang="en">Entrevista</title>
-    <sub-title lang="en">Nicolás Maduro Guerra</sub-title>
-    <date>2022</date>
-  </programme>
   <programme start="20221212230000 +0000" stop="20221212233000 +0000" channel="RT (Russia Today)">
     <title lang="en">Noticias</title>
   </programme>
@@ -4690,35 +6074,6 @@
     <sub-title lang="en">Guacamaya Leaks: México al descubierto</sub-title>
     <date>2022</date>
   </programme>
-  <programme start="20221212220000 +0000" stop="20221212230000 +0000" channel="USA Network">
-    <title lang="en">Chicago Fire</title>
-    <sub-title lang="en">Hiding Not Seeking</sub-title>
-    <desc lang="en">While working to track down a bombing suspect, Voight and Antonio meet with Chief Boden, who unwillingly agrees to let Dawson and Brett go undercover. As the investigation continues, Boden, Casey and Severide lend their skilled expertise. Elsewhere, Kidd and Zach's relationship hits a bump and Cruz has a hard time expressing his true feelings for Brett. Meanwhile, Herrmann and Connie have to fix things when two birthday parties are booked on the same day at the firehouse. (repeat).(n)</desc>
-    <credits>
-      <director>Arthur W. Forney</director>
-      <director>Dick Wolf</director>
-      <actor role="Lt. Matthew Casey">Jesse Spencer</actor>
-      <actor role="Lt. Kelly Severide">Taylor Kinney</actor>
-      <actor role="Chief Wallace Boden">Eamonn Walker</actor>
-      <actor role="Christopher Herrmann">David Eigenberg</actor>
-      <actor role="Joe Cruz">Joe Minoso</actor>
-      <actor role="Brian &quot;Otis&quot; Zvonecek">Yuri Sardarov</actor>
-      <actor role="Randy &quot;Mouch&quot; McHolland">Christian Stolte</actor>
-      <actor role="Sylvie Brett">Kara Killmer</actor>
-      <writer>Michael Gilvary</writer>
-      <producer>Derek Haas</producer>
-      <composer>Atli Örvarsson</composer>
-    </credits>
-    <date>2012</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/14250/014250/014250_1152x864_638041524481497238.jpg" />
-    <episode-num system="onscreen">S6</episode-num>
-    <episode-num system="onscreen">6 E13</episode-num>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20221212230000 +0000" stop="20221213000000 +0000" channel="USA Network">
     <title lang="en">Chicago Fire</title>
     <sub-title lang="en">Counting Your Breaths</sub-title>
@@ -4896,7 +6251,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Suspense</category>
     <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13202/013202/013202_1152x864_637463445429714168.jpg" />
+    <icon src="https://content.internetvideoarchive.com/content/photos/7208/155458_021.jpg" />
     <episode-num system="onscreen">S23</episode-num>
     <episode-num system="onscreen">23 E4</episode-num>
     <rating system="MPAA">
@@ -5056,7 +6411,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Suspense</category>
     <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13202/013202/013202_1152x864_637463445429714168.jpg" />
+    <icon src="https://content.internetvideoarchive.com/content/photos/7208/155458_021.jpg" />
     <episode-num system="onscreen">S4 E25</episode-num>
     <rating system="MPAA">
       <value>TV-14</value>
@@ -5081,7 +6436,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Suspense</category>
     <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13202/013202/013202_1152x864_637463445429714168.jpg" />
+    <icon src="https://content.internetvideoarchive.com/content/photos/7208/155458_021.jpg" />
     <episode-num system="onscreen">S5</episode-num>
     <episode-num system="onscreen">5 E2</episode-num>
     <rating system="MPAA">
@@ -5107,7 +6462,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Suspense</category>
     <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13202/013202/013202_1152x864_637463445429714168.jpg" />
+    <icon src="https://content.internetvideoarchive.com/content/photos/7208/155458_021.jpg" />
     <episode-num system="onscreen">S5</episode-num>
     <episode-num system="onscreen">5 E5</episode-num>
     <rating system="MPAA">
@@ -5133,7 +6488,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Suspense</category>
     <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13202/013202/013202_1152x864_637463445429714168.jpg" />
+    <icon src="https://content.internetvideoarchive.com/content/photos/7208/155458_021.jpg" />
     <episode-num system="onscreen">S5</episode-num>
     <episode-num system="onscreen">5 E7</episode-num>
     <rating system="MPAA">
@@ -5159,7 +6514,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Suspense</category>
     <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13202/013202/013202_1152x864_637463445429714168.jpg" />
+    <icon src="https://content.internetvideoarchive.com/content/photos/7208/155458_021.jpg" />
     <episode-num system="onscreen">S5</episode-num>
     <episode-num system="onscreen">5 E8</episode-num>
     <rating system="MPAA">
@@ -5185,7 +6540,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Suspense</category>
     <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13202/013202/013202_1152x864_637463445429714168.jpg" />
+    <icon src="https://content.internetvideoarchive.com/content/photos/7208/155458_021.jpg" />
     <episode-num system="onscreen">S5</episode-num>
     <episode-num system="onscreen">5 E9</episode-num>
     <rating system="MPAA">
@@ -5211,7 +6566,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Suspense</category>
     <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13202/013202/013202_1152x864_637463445429714168.jpg" />
+    <icon src="https://content.internetvideoarchive.com/content/photos/7208/155458_021.jpg" />
     <episode-num system="onscreen">S5</episode-num>
     <episode-num system="onscreen">5 E10</episode-num>
     <rating system="MPAA">
@@ -5237,7 +6592,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Suspense</category>
     <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13202/013202/013202_1152x864_637463445429714168.jpg" />
+    <icon src="https://content.internetvideoarchive.com/content/photos/7208/155458_021.jpg" />
     <episode-num system="onscreen">S5</episode-num>
     <episode-num system="onscreen">5 E13</episode-num>
     <rating system="MPAA">
@@ -5263,38 +6618,11 @@
     <category lang="en">Drama</category>
     <category lang="en">Suspense</category>
     <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13202/013202/013202_1152x864_637463445429714168.jpg" />
+    <icon src="https://content.internetvideoarchive.com/content/photos/7208/155458_021.jpg" />
     <episode-num system="onscreen">S5</episode-num>
     <episode-num system="onscreen">5 E15</episode-num>
     <rating system="MPAA">
       <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221212223000 +0000" stop="20221212230000 +0000" channel="TBS US">
-    <title lang="en">Young Sheldon</title>
-    <sub-title lang="en">Jiu-Jitsu, Bubble Wrap, and Yoo-Hoo</sub-title>
-    <desc lang="en">Sheldon is bullied by an unlikely character, and Mary and George disagree on how to handle the situation. (repeat).(n)</desc>
-    <credits>
-      <director>Mark Cendrowski</director>
-      <director>Jaffar Mahmood</director>
-      <actor role="Young Sheldon Cooper">Iain Armitage</actor>
-      <actor role="Mary">Zoe Perry</actor>
-      <actor role="George Sr.">Lance Barber</actor>
-      <actor role="Meemaw">Annie Potts</actor>
-      <actor role="Georgie">Montana Jordan</actor>
-      <actor role="Missy">Raegan Revord</actor>
-      <actor role="Pastor Hodgkins">Matt Hobby</actor>
-      <writer>Jeremy Howe</writer>
-      <producer>Chuck Lorre</producer>
-      <composer>Jeff Cardoni</composer>
-    </credits>
-    <date>2018</date>
-    <category lang="en">Science</category>
-    <category lang="en">Comedy</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13798/013798/013798_1152x864_637795220207183271.jpg" />
-    <episode-num system="onscreen">S1 E17</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20221212230000 +0000" stop="20221212233000 +0000" channel="TBS US">
@@ -6502,11 +7830,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20221212220000 +0000" stop="20221212230000 +0000" channel="Televisión Dominicana">
-    <title lang="en">A Través Del Tiempo</title>
-    <desc lang="en">Teleserie brasileña ambientada en el siglo XIX, sobre una pareja que vive un amor trágico y se reencuentra 150 años después con una nueva oportunidad de ser felices. Con Alinne Moraes y Rafael Cardoso.(n)</desc>
-    <date>2015</date>
-  </programme>
   <programme start="20221212230000 +0000" stop="20221212233000 +0000" channel="Televisión Dominicana">
     <title lang="en">Noticiero SIN - 1ra Edición</title>
     <desc lang="en">Un espacio informativo que ofrece la información más relevante a nivel nacional e internacional.(n)</desc>
@@ -7023,10 +8346,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221212220000 +0000" stop="20221212230000 +0000" channel="Univisión tlnovelas">
-    <title lang="en">Así Son Ellas</title>
-    <desc lang="en">Un grupo de amigas de la juventud se reencuentra 20 años después, en el funeral de una de ellas y comienzan a compartir sus experiencias de nuevo.(n)</desc>
-  </programme>
   <programme start="20221212230000 +0000" stop="20221213000000 +0000" channel="Univisión tlnovelas">
     <title lang="en">Corona de lágrimas</title>
     <desc lang="en">Una mujer sola inicia una nueva vida junto a sus tres hijos.(n)</desc>
@@ -7173,7 +8492,7 @@
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20221212150000 +0000" stop="20221212190000 +0000" channel="Vevo 2K">
+  <programme start="20221212150000 +0000" stop="20221212210000 +0000" channel="Vevo 2K">
     <title lang="en">Vevo 2K</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
@@ -7181,13 +8500,6 @@
     <rating>
       <value>No Rating</value>
     </rating>
-  </programme>
-  <programme start="20221212190000 +0000" stop="20221212210000 +0000" channel="Vevo 2K">
-    <title lang="en">Vevo 2K Videos</title>
-    <desc lang="en">Videos from all of your favorite 2K artists.(n)</desc>
-    <category lang="en">Music</category>
-    <category lang="en">Pop</category>
-    <icon src="https://images.pluto.tv/episodes/62fae54620b977001eecc94a/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
   <programme start="20221212210000 +0000" stop="20221212220000 +0000" channel="Vevo 2K">
     <title lang="en">2K Boy Bands</title>
@@ -7245,7 +8557,14 @@
     <category lang="en">Pop</category>
     <icon src="https://images.pluto.tv/episodes/62fae54620b977001eecc94a/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
-  <programme start="20221213110000 +0000" stop="20221213150000 +0000" channel="Vevo 2K">
+  <programme start="20221213110000 +0000" stop="20221213130000 +0000" channel="Vevo 2K">
+    <title lang="en">R&amp;B Slow Jams</title>
+    <desc lang="en">Wake up on the chiller side of the decade.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Pop</category>
+    <icon src="https://images.pluto.tv/episodes/62fae54620b977001eecc951/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221213130000 +0000" stop="20221213150000 +0000" channel="Vevo 2K">
     <title lang="en">Vevo 2K</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
@@ -7355,7 +8674,14 @@
     <category lang="en">Dance &amp; Party</category>
     <icon src="https://images.pluto.tv/episodes/635952898515d3001319cab3/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
-  <programme start="20221213110000 +0000" stop="20221213150000 +0000" channel="Vevo Reggaetón &amp; Trap">
+  <programme start="20221213110000 +0000" stop="20221213130000 +0000" channel="Vevo Reggaetón &amp; Trap">
+    <title lang="en">ReggaeTRAP</title>
+    <desc lang="en">Mix of your favorite classics and newest Reggaeton and Trap Videos.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Dance &amp; Party</category>
+    <icon src="https://images.pluto.tv/episodes/635952898515d3001319cab3/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221213130000 +0000" stop="20221213150000 +0000" channel="Vevo Reggaetón &amp; Trap">
     <title lang="en">Vevo Reggaeton &amp; Trap</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
@@ -7400,7 +8726,7 @@
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20221212150000 +0000" stop="20221212200000 +0000" channel="Vevo Pop">
+  <programme start="20221212150000 +0000" stop="20221212210000 +0000" channel="Vevo Pop">
     <title lang="en">Vevo Pop</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
@@ -7408,13 +8734,6 @@
     <rating>
       <value>No Rating</value>
     </rating>
-  </programme>
-  <programme start="20221212200000 +0000" stop="20221212210000 +0000" channel="Vevo Pop">
-    <title lang="en">Top Pop Videos of 2022</title>
-    <desc lang="en">Vevo Pop – The latest hit videos from the biggest artists!(n)</desc>
-    <category lang="en">Music</category>
-    <category lang="en">Pop</category>
-    <icon src="https://images.pluto.tv/episodes/638036de07ac2f001450aa29/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
   <programme start="20221212210000 +0000" stop="20221212220000 +0000" channel="Vevo Pop">
     <title lang="en">Love it Live: Pop</title>
@@ -7486,7 +8805,14 @@
     <category lang="en">Pop</category>
     <icon src="https://images.pluto.tv/episodes/62fade1e9bd9c6001b63ac69/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
-  <programme start="20221213110000 +0000" stop="20221213150000 +0000" channel="Vevo Pop">
+  <programme start="20221213110000 +0000" stop="20221213130000 +0000" channel="Vevo Pop">
+    <title lang="en">Pop Coffee &amp; Chill</title>
+    <desc lang="en">Videos to help to get the day started.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Pop</category>
+    <icon src="https://images.pluto.tv/episodes/62fade1e9bd9c6001b63ac69/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221213130000 +0000" stop="20221213150000 +0000" channel="Vevo Pop">
     <title lang="en">Vevo Pop</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
@@ -7531,7 +8857,7 @@
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20221212150000 +0000" stop="20221212200000 +0000" channel="Vevo Latino">
+  <programme start="20221212150000 +0000" stop="20221212210000 +0000" channel="Vevo Latino">
     <title lang="en">Vevo Latino</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
@@ -7539,13 +8865,6 @@
     <rating>
       <value>No Rating</value>
     </rating>
-  </programme>
-  <programme start="20221212200000 +0000" stop="20221212210000 +0000" channel="Vevo Latino">
-    <title lang="en">My Latin Videos</title>
-    <desc lang="en">Your one stop shop for all things latin.(n)</desc>
-    <category lang="en">Music</category>
-    <category lang="en">Latino</category>
-    <icon src="https://images.pluto.tv/episodes/6362e87892944d00147b6295/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
   <programme start="20221212210000 +0000" stop="20221212220000 +0000" channel="Vevo Latino">
     <title lang="en">Top Latin Videos of 2022</title>
@@ -7617,7 +8936,14 @@
     <category lang="en">Latino</category>
     <icon src="https://images.pluto.tv/episodes/6362cc5136d64a0014544a0c/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
-  <programme start="20221213110000 +0000" stop="20221213150000 +0000" channel="Vevo Latino">
+  <programme start="20221213110000 +0000" stop="20221213130000 +0000" channel="Vevo Latino">
+    <title lang="en">My Latin Videos</title>
+    <desc lang="en">Your one stop shop for all things latin.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Latino</category>
+    <icon src="https://images.pluto.tv/episodes/6362cc5136d64a0014544a0c/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221213130000 +0000" stop="20221213150000 +0000" channel="Vevo Latino">
     <title lang="en">Vevo Latino</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
@@ -7662,7 +8988,7 @@
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20221212150000 +0000" stop="20221212200000 +0000" channel="Vevo Country">
+  <programme start="20221212150000 +0000" stop="20221212210000 +0000" channel="Vevo Country">
     <title lang="en">Vevo Country</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
@@ -7670,13 +8996,6 @@
     <rating>
       <value>No Rating</value>
     </rating>
-  </programme>
-  <programme start="20221212200000 +0000" stop="20221212210000 +0000" channel="Vevo Country">
-    <title lang="en">Top Country Videos</title>
-    <desc lang="en">The most popular clips of the week!(n)</desc>
-    <category lang="en">Music</category>
-    <category lang="en">Country</category>
-    <icon src="https://images.pluto.tv/episodes/633bc4f7cfefb200131911f4/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
   <programme start="20221212210000 +0000" stop="20221212220000 +0000" channel="Vevo Country">
     <title lang="en">Love It Live: Country</title>
@@ -7748,7 +9067,14 @@
     <category lang="en">Country</category>
     <icon src="https://images.pluto.tv/episodes/62fade269bd9c6001b63aeb8/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
-  <programme start="20221213110000 +0000" stop="20221213150000 +0000" channel="Vevo Country">
+  <programme start="20221213110000 +0000" stop="20221213130000 +0000" channel="Vevo Country">
+    <title lang="en">Rise 'N Shine</title>
+    <desc lang="en">Videos from country stars to start the day right; featuring Luke Combs and Miranda Lambert.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Country</category>
+    <icon src="https://images.pluto.tv/episodes/62fade269bd9c6001b63aeb8/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221213130000 +0000" stop="20221213150000 +0000" channel="Vevo Country">
     <title lang="en">Vevo Country</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
@@ -7793,7 +9119,7 @@
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20221212150000 +0000" stop="20221212190000 +0000" channel="Vevo R&amp;B">
+  <programme start="20221212150000 +0000" stop="20221212210000 +0000" channel="Vevo R&amp;B">
     <title lang="en">Vevo R&amp;B</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
@@ -7802,19 +9128,14 @@
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20221212190000 +0000" stop="20221212210000 +0000" channel="Vevo R&amp;B">
-    <title lang="en">Supreme R&amp;B</title>
-    <desc lang="en">Artists who are buzzing right now.(n)</desc>
-    <category lang="en">Music</category>
-    <category lang="en">R&amp;B/Soul</category>
-    <icon src="https://images.pluto.tv/episodes/62fade089bd9c6001b63a674/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-  </programme>
   <programme start="20221212210000 +0000" stop="20221212213000 +0000" channel="Vevo R&amp;B">
-    <title lang="en">DSCVR: Artists To Watch 2023</title>
-    <desc lang="en">Presenting Vevo's Artists To Watch for 2023.(n)</desc>
-    <category lang="en">Music</category>
-    <category lang="en">R&amp;B/Soul</category>
-    <icon src="https://images.pluto.tv/episodes/6385d13dc15bbe00136c3fe8/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <title lang="en">Vevo R&amp;B</title>
+    <desc lang="en">No information available.(n)</desc>
+    <category lang="en">No information available</category>
+    <icon src="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>No Rating</value>
+    </rating>
   </programme>
   <programme start="20221212213000 +0000" stop="20221212220000 +0000" channel="Vevo R&amp;B">
     <title lang="en">Love It Live: R&amp;B</title>
@@ -7889,7 +9210,14 @@
     <category lang="en">R&amp;B/Soul</category>
     <icon src="https://images.pluto.tv/episodes/62fade099bd9c6001b63a682/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
-  <programme start="20221213110000 +0000" stop="20221213150000 +0000" channel="Vevo R&amp;B">
+  <programme start="20221213110000 +0000" stop="20221213130000 +0000" channel="Vevo R&amp;B">
+    <title lang="en">R&amp;B Morning Vibes</title>
+    <desc lang="en">Videos to get the day going.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">R&amp;B/Soul</category>
+    <icon src="https://images.pluto.tv/episodes/62fade099bd9c6001b63a682/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221213130000 +0000" stop="20221213150000 +0000" channel="Vevo R&amp;B">
     <title lang="en">Vevo R&amp;B</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
@@ -7915,11 +9243,6 @@
     <rating>
       <value>No Rating</value>
     </rating>
-  </programme>
-  <programme start="20221212215000 +0000" stop="20221212224000 +0000" channel="E!">
-    <title lang="en">Project Runway</title>
-    <desc lang="en">Llega el desafío de ropa para dormir de Heidi Klum y los diseñadores se sienten, literalmente,.(n)</desc>
-    <date>2022</date>
   </programme>
   <programme start="20221212224000 +0000" stop="20221212233000 +0000" channel="E!">
     <title lang="en">Project Runway</title>
@@ -8159,7 +9482,9 @@
     <date>1951</date>
   </programme>
   <programme start="20221213022200 +0000" stop="20221213041500 +0000" channel="De Película Plus">
-    <title lang="en">El mártir del calvario (?)</title>
+    <title lang="en">El mártir del calvario</title>
+    <desc lang="en">La vida de Jesús desde el inicio de su ministerio, sus milagros, el sermón del monte y su muerte en la cruz. Esta representación reverente de la vida de Jesucristo comienza con el milagro de los peces y termina con la Ascensión de Jesús al cielo junto a su padre.(n)</desc>
+    <date>1952</date>
   </programme>
   <programme start="20221213041500 +0000" stop="20221213054700 +0000" channel="De Película Plus">
     <title lang="en">Pueblo sin Dios</title>
@@ -8308,10 +9633,6 @@
     <title lang="en">Puños de Roca</title>
     <desc lang="en">Una tribu de indios trata de mantener su existencia pacífica, pero la ambición desmedida de una banda de malhechores provocó la última y más sangrienta batalla de indios contra blancos. Sus puños eran la mejor arma para defenderse en una tierra sin ley.(n)</desc>
     <date>1960</date>
-  </programme>
-  <programme start="20221212220000 +0000" stop="20221212230000 +0000" channel="Azteca America">
-    <title lang="en">El Palenque</title>
-    <desc lang="en">Un programa de entrevistas ágil, entretenido y con sorpresas.(n)</desc>
   </programme>
   <programme start="20221212230000 +0000" stop="20221212233000 +0000" channel="Azteca America">
     <title lang="en">Hechos Meridiano (new)</title>
@@ -8554,16 +9875,6 @@
   <programme start="20221213233000 +0000" stop="20221214013000 +0000" channel="Azteca Uno">
     <title lang="en">Acércate a Rocío</title>
     <desc lang="en">Hablar de los problemas es el primer paso para superarlos, por eso, Rocío trae un programa único para hablar de todo lo que preocupa y, en conjunto, encontrar una solución.(n)</desc>
-  </programme>
-  <programme start="20221212222000 +0000" stop="20221212224500 +0000" channel="UNIVERSAL REALITY">
-    <title lang="en">La familia Chrisley</title>
-    <sub-title lang="en">Casa animal</sub-title>
-    <date>2017</date>
-  </programme>
-  <programme start="20221212224500 +0000" stop="20221212230500 +0000" channel="UNIVERSAL REALITY">
-    <title lang="en">La familia Chrisley</title>
-    <sub-title lang="en">Deja de lanzar</sub-title>
-    <date>2017</date>
   </programme>
   <programme start="20221212230500 +0000" stop="20221212233000 +0000" channel="UNIVERSAL REALITY">
     <title lang="en">La familia Chrisley</title>
@@ -8817,14 +10128,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221212222000 +0000" stop="20221212230500 +0000" channel="UNIVERSAL CRIME">
-    <title lang="en">Parejas asesinas</title>
-    <desc lang="en">Una joven pareja se convierte en el objetivo de una persecución en todo el país después de que la policía conecta a los amantes mortales con dos asesinatos espeluznantes en diferentes estados.(n)</desc>
-    <date>2021</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
   <programme start="20221212230500 +0000" stop="20221212235500 +0000" channel="UNIVERSAL CRIME">
     <title lang="en">Matar me hizo famoso</title>
     <sub-title lang="en">Whitey Bulger</sub-title>
@@ -9071,22 +10374,6 @@
     <sub-title lang="en">Prom Mom</sub-title>
     <desc lang="en">Melissa Drexler, de 18 años, asistió a la escuela secundaria en Nueva Jersey,.(n)</desc>
     <date>2022</date>
-  </programme>
-  <programme start="20221212221500 +0000" stop="20221212224000 +0000" channel="UNIVERSAL COMEDY">
-    <title lang="en">La extraña pareja</title>
-    <desc lang="en">Pensando en algo original para el cumpleaños de su amigo, Oscar reúne a varios conocidos y familiares para una fiesta sorpresa de último momento. Su idea tiene una doble intención: agasajar a Félix, que no se espera una celebración así, e impresionar a Casey al mismo tiempo.(n)</desc>
-    <date>2015</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20221212224000 +0000" stop="20221212230500 +0000" channel="UNIVERSAL COMEDY">
-    <title lang="en">Maratón The Odd Couple</title>
-    <desc lang="en">Cuando Dani revela que está deprimida y que será la única soltera en la fiesta de egresados de la secundaria, Oscar y Félix le ofrecen estrategias para ayudarla a conseguir novio.(n)</desc>
-    <date>2021</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
   </programme>
   <programme start="20221212230500 +0000" stop="20221212233000 +0000" channel="UNIVERSAL COMEDY">
     <title lang="en">Maratón The Odd Couple</title>
@@ -9629,11 +10916,6 @@
     <desc lang="en">El músico Chet Baker debe volver a aprender su oficio, después de que sus dientes delanteros son eliminados durante un atraco. A medida que se esfuerza por continuar con su carrera y superar su adicción a la heroína, el recibe el apoyo de su nueva novia, una actriz que fue elegida para interpretar el papel de su amante en una película sobre su vida.(n)</desc>
     <date>2015</date>
   </programme>
-  <programme start="20221212220500 +0000" stop="20221212225000 +0000" channel="UNIVERSAL PREMIERE">
-    <title lang="en">FBI</title>
-    <desc lang="en">Mientras el equipo busca a una estudiante universitaria secuestrada,.(n)</desc>
-    <date>2022</date>
-  </programme>
   <programme start="20221212225000 +0000" stop="20221212233500 +0000" channel="UNIVERSAL PREMIERE">
     <title lang="en">FBI</title>
     <desc lang="en">Maggie comienza a trabajar de incógnito en un bar para investigar a un grupo antigubernamental que normalmente se reúne allí y sospecha de varios miembros en relación a una serie de explosiones de bombas.(n)</desc>
@@ -10071,14 +11353,6 @@
     <desc lang="en">Luego de que una maldición ha caído sobre su familia, un par de hermanos deciden tomar medidas. Para romper con la maldición, los hermanos están determinados a llevar a cabo un temerario atraco justo en medio de una carrera de NASCAR celebrada en Carolina del Norte.(n)</desc>
     <date>2017</date>
   </programme>
-  <programme start="20221212223200 +0000" stop="20221212230200 +0000" channel="HBO SIGNATURE">
-    <title lang="en">Avenue 5</title>
-    <desc lang="en">Cinco meses después de fracasar en redirigir el rumbo de la nave,.(n)</desc>
-    <date>2022</date>
-    <rating system="MPAA">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
   <programme start="20221212230200 +0000" stop="20221212233200 +0000" channel="HBO SIGNATURE">
     <title lang="en">Avenue 5</title>
     <desc lang="en">Cinco meses después de fracasar en redirigir el rumbo de la nave,.(n)</desc>
@@ -10239,14 +11513,6 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20221212220300 +0000" stop="20221212230200 +0000" channel="HBO PLUS">
-    <title lang="en">His Dark Materials</title>
-    <desc lang="en">En un mundo similar al nuestro pero habitado por brujas, osos guerreros y daimonions, una valiente joven llamada Lyra (Dafne Keen) descubre un siniestro plan luego de que su mejor amigo sea secuestrado por una organizacion secreta.(n)</desc>
-    <date>2019</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20221212230200 +0000" stop="20221213000300 +0000" channel="HBO PLUS">
     <title lang="en">His Dark Materials - La materia oscura</title>
     <sub-title lang="en">The Break</sub-title>
@@ -10335,12 +11601,6 @@
     <title lang="en">El misterio de Soho</title>
     <desc lang="en">Una joven amante de la moda viaja en el tiempo y termina en Londres en la década de 1960. Allí conoce a su gran ídolo, una cantante. Sin embargo, tiene que descubrir que la vida en ese momento en el Soho es diferente de lo que ella esperaba.(n)</desc>
     <date>2021</date>
-  </programme>
-  <programme start="20221212215400 +0000" stop="20221212230000 +0000" channel="HBO POP">
-    <title lang="en">Nikki Glaser - Impecablemente obscena</title>
-    <sub-title lang="en">Episode 1</sub-title>
-    <desc lang="en">En su primer especial de stand-up para HBO,.(n)</desc>
-    <date>2022</date>
   </programme>
   <programme start="20221212230000 +0000" stop="20221213005400 +0000" channel="HBO POP">
     <title lang="en">Quiero matar a mi jefe 2</title>
@@ -10645,12 +11905,6 @@
     <desc lang="en">El joven Peter se ve obligado a abandonar su habitación cuando su abuelo Ed, recientemente enviudado, se muda a su casa. Con la ayuda de sus amigos, Peter declara la guerra a su abuelo para hacerle abandonar la habitación.(n)</desc>
     <date>2020</date>
   </programme>
-  <programme start="20221212220500 +0000" stop="20221212230500 +0000" channel="HBO Latino (West)">
-    <title lang="en">SHAQ</title>
-    <sub-title lang="en">El Ascenso</sub-title>
-    <desc lang="en">Una nueva dinastía comienza a tomar forma en Los Ángeles a medida que Shaq alcanza la cúspide de su carrera con Los Ángeles Lakers.(n)</desc>
-    <date>2022</date>
-  </programme>
   <programme start="20221212230500 +0000" stop="20221213004000 +0000" channel="HBO Latino (West)">
     <title lang="en">Salvaje</title>
     <desc lang="en">Tras una serie de trágicas experiencias personales, Cheryl Strayed decide recorrer en solitario, y careciendo de experiencia, más de 1600 kilómetros por el Sendero de las Cimas del Pacífico, en un intento de encontrarse a sí misma.(n)</desc>
@@ -10758,10 +12012,6 @@
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
-  </programme>
-  <programme start="20221212210000 +0000" stop="20221212230000 +0000" channel="Imagen TV">
-    <title lang="en">De primera mano</title>
-    <desc lang="en">De Primera mano es un programa se caracteriza por dar información puntual y veraz de lo último de los shows, del cual la crítica y opinión de los conductores serán más objetivos y directos hacia lo más polémico e impactante de los artistas en general.(n)</desc>
   </programme>
   <programme start="20221212230000 +0000" stop="20221213000000 +0000" channel="Imagen TV">
     <title lang="en">Asuntos de familia</title>
@@ -11056,11 +12306,6 @@
   <programme start="20221213233000 +0000" stop="20221214000000 +0000" channel="La Red (CHI)">
     <title lang="en">Swiss Nature Labs</title>
   </programme>
-  <programme start="20221212212500 +0000" stop="20221212225000 +0000" channel="TVN (CHI)">
-    <title lang="en">Carmen Gloria a tu servicio</title>
-    <desc lang="en">Carmen Gloria Arroyo llega con un talk show de historias de la vida real, al servicio de la familia chilena y que busca ayudar, orientar y educar dando un cierre definitivo a los problemas que aquejan a muchos chilenos.(n)</desc>
-    <date>2018</date>
-  </programme>
   <programme start="20221212225000 +0000" stop="20221212235500 +0000" channel="TVN (CHI)">
     <title lang="en">Amor sin recetas</title>
     <desc lang="en">La historia cuenta la relación entre Ferit, un rico hombre de negocios, y Nazli, su chef privada.(n)</desc>
@@ -11148,10 +12393,6 @@
   <programme start="20221213235500 +0000" stop="20221214014000 +0000" channel="TVN (CHI)">
     <title lang="en">24 Horas Central</title>
     <desc lang="en">Noticiero central, con despachos en directo y corresponsalías en todo el mundo.(n)</desc>
-  </programme>
-  <programme start="20221212220000 +0000" stop="20221212230000 +0000" channel="Canal Uno (COL)">
-    <title lang="en">Caso Cerrado: Edición Estelar</title>
-    <desc lang="en">Los hechos más contradictorios y las disputas más increíbles, en horario estelar. La Doctora Ana María Polo estrena su sala de debate con una serie de casos intensos, contradictorios, violentos, curiosos y hasta graciosos. Ella deberá conservar su calma para no salirse de las casillas con cada una de las personas que ingresan al estrado.(n)</desc>
   </programme>
   <programme start="20221212230000 +0000" stop="20221213010000 +0000" channel="Canal Uno (COL)">
     <title lang="en">Guerreros - Especial</title>
@@ -11269,10 +12510,6 @@
   <programme start="20221213230000 +0000" stop="20221214010000 +0000" channel="Canal Uno (COL)">
     <title lang="en">Guerreros - Especial</title>
     <desc lang="en">Hombres y mujeres se enfrentarán a diario para saber cuál es el sexo más fuerte.(n)</desc>
-  </programme>
-  <programme start="20221212220000 +0000" stop="20221212230000 +0000" channel="RCN Nuestra Tele">
-    <title lang="en">Las Detectivas y el Víctor</title>
-    <desc lang="en">Un detective desempleado inicia una agencia de investigación de infidelidades junto a su esposa.(n)</desc>
   </programme>
   <programme start="20221212230000 +0000" stop="20221213000000 +0000" channel="RCN Nuestra Tele">
     <title lang="en">Trendiando</title>
@@ -11399,10 +12636,6 @@
     <title lang="en">Trendiando</title>
     <desc lang="en">Un magazine que brinda lo mejor del entretenimiento, las últimas noticias y las nuevas tendencias que prometen cambiarán por completo la forma de pasar las tardes. Además, este ciclo, cuenta con presentadores que, con profesionalismo, carisma y...(n)</desc>
     <date>2015</date>
-  </programme>
-  <programme start="20221212220000 +0000" stop="20221212230000 +0000" channel="RCN Novelas">
-    <title lang="en">Expedientes</title>
-    <desc lang="en">Programa televisivo transmitido por TeleSUR, donde se analizan a fondo los resultados de un complicado trabajo de investigación, relacionado con el impacto y la gran polémica que han generado las obras, y el camino laboral, de diversos personajes latinoamericanos.(n)</desc>
   </programme>
   <programme start="20221212230000 +0000" stop="20221213000000 +0000" channel="RCN Novelas">
     <title lang="en">Chepe Fortuna</title>
@@ -11539,10 +12772,6 @@
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
-  </programme>
-  <programme start="20221212223000 +0000" stop="20221212230000 +0000" channel="Caracol TV Internacional">
-    <title lang="en">Testigo directo</title>
-    <desc lang="en">Testigo Directo es un programa independient que muestra la crónica periodística. Casos insólitos, temas actuales y crónica de la calle.(n)</desc>
   </programme>
   <programme start="20221212230000 +0000" stop="20221213000000 +0000" channel="Caracol TV Internacional">
     <title lang="en">Séptimo Día</title>
@@ -11872,14 +13101,6 @@
     <desc lang="en">Luego del repentino y brutal asesinato de sus padres, un joven descubre que se está convirtiendo en un hombre lobo. En busca de respuestas, llega a un singular pueblo que oculta diversos aspectos paranormales que le ayudarán a desentrañar el misterio.Allí averigua que el pueblo está dividido entre dos clanes de lobos que se encuentran en guerra, y las cosas empeoran cuando él se enamore de la prometida del líder del bando más radical.(n)</desc>
     <date>2014</date>
   </programme>
-  <programme start="20221212220000 +0000" stop="20221212225000 +0000" channel="UNIVERSAL TV">
-    <title lang="en">Chicago P.D.</title>
-    <desc lang="en">La unidad de inteligencia debe correr contrarreloj para encontrar a un niño secuestrado, tras varios secuestros de niños relacionados con pandillas.(n)</desc>
-    <date>2013</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20221212225000 +0000" stop="20221212234000 +0000" channel="UNIVERSAL TV">
     <title lang="en">Chicago P.D.</title>
     <desc lang="en">La unidad de inteligencia investiga un retorcido caso relacionado con un congresista que fue atrapado con una chica muerta.(n)</desc>
@@ -12123,14 +13344,6 @@
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
-  </programme>
-  <programme start="20221212223000 +0000" stop="20221212224200 +0000" channel="Kids Street">
-    <title lang="en">The Fox-Badger Family</title>
-    <date>2018</date>
-  </programme>
-  <programme start="20221212224200 +0000" stop="20221212230000 +0000" channel="Kids Street">
-    <title lang="en">The Fox-Badger Family</title>
-    <date>2018</date>
   </programme>
   <programme start="20221212230000 +0000" stop="20221212231800 +0000" channel="Kids Street">
     <title lang="en">Yakari</title>
@@ -13108,9 +14321,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20221212223000 +0000" stop="20221212230000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
   <programme start="20221212230000 +0000" stop="20221212233000 +0000" channel="NY1 Noticias">
     <title lang="en">NY1 Noticias</title>
   </programme>
@@ -13402,11 +14612,6 @@
     <desc lang="en">Lin Dong es un niño de un pequeño pueblo que no es favorecido por su familia. Por casualidad, obtiene un misterioso artefacto que es codiciado por muchos clanes en el mundo marcial. Debido a tal artefacto, Lin Dong es abordado por muchas personas...(n)</desc>
     <date>2018</date>
   </programme>
-  <programme start="20221212223000 +0000" stop="20221212230000 +0000" channel="Curiosity Stream">
-    <title lang="en">Hallazgos novedosos</title>
-    <desc lang="en">Este año nos despedimos de uno de nuestros exploradores planetarios más intrépidos,.(n)</desc>
-    <date>2021</date>
-  </programme>
   <programme start="20221212230000 +0000" stop="20221212233000 +0000" channel="Curiosity Stream">
     <title lang="en">Hallazgos novedosos</title>
     <desc lang="en">Uno de los homínidos más antiguos cononcidos en el sur de África.(n)</desc>
@@ -13640,14 +14845,6 @@
     <sub-title lang="en">Internet</sub-title>
     <desc lang="en">¿Y si los códigos fuente de la internet permanecían secretos dentro del ejército estadounidense en vez de ser públicos para todo el mundo? ¿Cómo se hizo realidad esta vida de acceso ilimitado a internet?(n)</desc>
     <date>2022</date>
-  </programme>
-  <programme start="20221212223000 +0000" stop="20221212230000 +0000" channel="Dreamworks">
-    <title lang="en">Spirit: Cabalgando libre</title>
-    <desc lang="en">Rastros en la nieve conducen a las chicas a un viajero herido. Más tarde, se enteran de que no estaba solo. ¿Podrán encontrar a su hija antes de que sea tarde?(n)</desc>
-    <date>2018</date>
-    <rating system="MPAA">
-      <value>TV-Y7</value>
-    </rating>
   </programme>
   <programme start="20221212230000 +0000" stop="20221212233000 +0000" channel="Dreamworks">
     <title lang="en">Viva el rey Julien</title>
@@ -14063,9 +15260,6 @@
       <value>TV-Y7</value>
     </rating>
   </programme>
-  <programme start="20221212222500 +0000" stop="20221212230500 +0000" channel="Aplauso">
-    <title lang="en">Citas</title>
-  </programme>
   <programme start="20221212230500 +0000" stop="20221212234900 +0000" channel="Aplauso">
     <title lang="en">Los otros</title>
     <desc lang="en">Programa local.(n)</desc>
@@ -14194,14 +15388,6 @@
   </programme>
   <programme start="20221213235400 +0000" stop="20221214003600 +0000" channel="Aplauso">
     <title lang="en">Mary Asesina</title>
-  </programme>
-  <programme start="20221212223000 +0000" stop="20221212230000 +0000" channel="Hogar HGTV">
-    <title lang="en">Único en su clase</title>
-    <desc lang="en">Una pareja le pide a Grace que renueve su Colonial y cree una suite principal.(n)</desc>
-    <date>2019</date>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
   </programme>
   <programme start="20221212230000 +0000" stop="20221213000000 +0000" channel="Hogar HGTV">
     <title lang="en">Los diseños de Antonio</title>
