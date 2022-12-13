@@ -1,5 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Afizzionados">
+    <display-name lang="en">Afizzionados</display-name>
+    <url>http://www.tvguide.com</url>
+  </channel>
   <channel id="Disney Junior US">
     <display-name lang="en">Disney Junior US</display-name>
     <icon src="http://cdn.tvpassport.com/image/station/240x135/v2/s74796_h15_ac.png" />
@@ -323,6 +327,156 @@
     <display-name lang="en">Telehit Musica.</display-name>
     <url>http://www.tvguide.com</url>
   </channel>
+  <programme start="20221213000000 +0000" stop="20221213020000 +0000" channel="Afizzionados">
+    <title lang="en">Fútbol: Liga MX</title>
+    <sub-title lang="en">Guadalajara vs. Tigres UANL</sub-title>
+    <desc lang="en">Guadalajara vs. Tigres UANL. Desde Estadio Akron.(n)</desc>
+    <date>2022</date>
+  </programme>
+  <programme start="20221213020000 +0000" stop="20221213030000 +0000" channel="Afizzionados">
+    <title lang="en">Pasión Futbolera (live)</title>
+    <desc lang="en">Programa de análisis futbolístico mexicano con comentaristas especializados en este deporte.El programa cuenta con una mesa de análisis específica para las acciones de los equipos Monterrey y Tigres\, con entrevistas a reconocidos deportistas del mundo del futbol.(n)</desc>
+  </programme>
+  <programme start="20221213030000 +0000" stop="20221213050000 +0000" channel="Afizzionados">
+    <title lang="en">Super Estadio Mundialista</title>
+    <desc lang="en">El talk show matutino con la información,.(n)</desc>
+  </programme>
+  <programme start="20221213050000 +0000" stop="20221213060000 +0000" channel="Afizzionados">
+    <title lang="en">Nunca se olvida, clásico del fútbol</title>
+    <desc lang="en">Ediciones de una y dos horas de los partidos clásicos del fútbol mexicano.(n)</desc>
+    <date>2019</date>
+  </programme>
+  <programme start="20221213060000 +0000" stop="20221213070000 +0000" channel="Afizzionados">
+    <title lang="en">A Nivel de Cancha</title>
+    <desc lang="en">Análisis y entrevistas del mundo del fútbol.(n)</desc>
+  </programme>
+  <programme start="20221213070000 +0000" stop="20221213090000 +0000" channel="Afizzionados">
+    <title lang="en">Fútbol: Liga MX</title>
+    <sub-title lang="en">Guadalajara vs. Tigres UANL</sub-title>
+    <desc lang="en">Guadalajara vs. Tigres UANL. Desde Estadio Akron.(n)</desc>
+    <date>2022</date>
+  </programme>
+  <programme start="20221213090000 +0000" stop="20221213110000 +0000" channel="Afizzionados">
+    <title lang="en">Fútbol: Liga MX</title>
+    <sub-title lang="en">Tigres UANL vs. Pachuca</sub-title>
+    <desc lang="en">Apertura Cuartos de final Partido 1 Tigres UANL vs. Pachuca.(n)</desc>
+    <date>2022</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20221213110000 +0000" stop="20221213130000 +0000" channel="Afizzionados">
+    <title lang="en">Fútbol: Liga MX</title>
+    <sub-title lang="en">Atlas vs. Atlético San Luis</sub-title>
+    <desc lang="en">Atlas vs. Atlético San Luis. Desde Estadio Jalisco.(n)</desc>
+    <date>2022</date>
+  </programme>
+  <programme start="20221213130000 +0000" stop="20221213150000 +0000" channel="Afizzionados">
+    <title lang="en">Fútbol: Liga MX Femenil</title>
+    <sub-title lang="en">Tigres UANL vs. Tijuana</sub-title>
+    <desc lang="en">Apertura Jornada 17 Tigres UANL vs. Tijuana.(n)</desc>
+    <date>2022</date>
+  </programme>
+  <programme start="20221213150000 +0000" stop="20221213170000 +0000" channel="Afizzionados">
+    <title lang="en">Nunca se olvida</title>
+    <sub-title lang="en">Tigres vs. Monarcas, Clausura 2015</sub-title>
+    <desc lang="en">Ediciones de una y dos horas de los partidos clásicos del fútbol mexicano.(n)</desc>
+    <date>2020</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20221213170000 +0000" stop="20221213190000 +0000" channel="Afizzionados">
+    <title lang="en">Fútbol: Liga MX</title>
+    <sub-title lang="en">Tigres UANL vs. Querétaro</sub-title>
+    <desc lang="en">Tigres UANL vs. Querétaro. Desde Estadio Universitario.(n)</desc>
+    <date>2022</date>
+  </programme>
+  <programme start="20221213190000 +0000" stop="20221213210000 +0000" channel="Afizzionados">
+    <title lang="en">Fútbol: Liga MX</title>
+    <sub-title lang="en">Atlas vs. Puebla</sub-title>
+    <desc lang="en">Atlas vs. Puebla. Desde Estadio Jalisco.(n)</desc>
+    <date>2022</date>
+  </programme>
+  <programme start="20221213210000 +0000" stop="20221213220000 +0000" channel="Afizzionados">
+    <title lang="en">A Nivel de Cancha</title>
+    <desc lang="en">Análisis y entrevistas del mundo del fútbol.(n)</desc>
+  </programme>
+  <programme start="20221213220000 +0000" stop="20221214000000 +0000" channel="Afizzionados">
+    <title lang="en">Super Estadio Mundialista (live)</title>
+    <desc lang="en">El talk show matutino con la información,.(n)</desc>
+  </programme>
+  <programme start="20221214000000 +0000" stop="20221214020000 +0000" channel="Afizzionados">
+    <title lang="en">Fútbol: Liga MX</title>
+    <sub-title lang="en">Guadalajara vs. Puebla</sub-title>
+    <desc lang="en">Guadalajara vs. Puebla. Desde Estadio Akron.(n)</desc>
+    <date>2022</date>
+  </programme>
+  <programme start="20221214020000 +0000" stop="20221214030000 +0000" channel="Afizzionados">
+    <title lang="en">Pasión Futbolera (live)</title>
+    <desc lang="en">Programa de análisis futbolístico mexicano con comentaristas especializados en este deporte.El programa cuenta con una mesa de análisis específica para las acciones de los equipos Monterrey y Tigres\, con entrevistas a reconocidos deportistas del mundo del futbol.(n)</desc>
+  </programme>
+  <programme start="20221214030000 +0000" stop="20221214050000 +0000" channel="Afizzionados">
+    <title lang="en">Super Estadio Mundialista</title>
+    <desc lang="en">El talk show matutino con la información,.(n)</desc>
+  </programme>
+  <programme start="20221214050000 +0000" stop="20221214060000 +0000" channel="Afizzionados">
+    <title lang="en">Nunca se olvida</title>
+    <date>2020</date>
+  </programme>
+  <programme start="20221214060000 +0000" stop="20221214070000 +0000" channel="Afizzionados">
+    <title lang="en">A Nivel de Cancha</title>
+    <desc lang="en">Análisis y entrevistas del mundo del fútbol.(n)</desc>
+  </programme>
+  <programme start="20221214070000 +0000" stop="20221214090000 +0000" channel="Afizzionados">
+    <title lang="en">Fútbol: Liga MX</title>
+    <sub-title lang="en">Guadalajara vs. Puebla</sub-title>
+    <desc lang="en">Guadalajara vs. Puebla. Desde Estadio Akron.(n)</desc>
+    <date>2022</date>
+  </programme>
+  <programme start="20221214090000 +0000" stop="20221214110000 +0000" channel="Afizzionados">
+    <title lang="en">Fútbol: Liga MX</title>
+    <sub-title lang="en">Tigres UANL vs. Querétaro</sub-title>
+    <desc lang="en">Tigres UANL vs. Querétaro. Desde Estadio Universitario.(n)</desc>
+    <date>2022</date>
+  </programme>
+  <programme start="20221214110000 +0000" stop="20221214130000 +0000" channel="Afizzionados">
+    <title lang="en">Fútbol: Liga MX</title>
+    <sub-title lang="en">Atlas vs. Puebla</sub-title>
+    <desc lang="en">Atlas vs. Puebla. Desde Estadio Jalisco.(n)</desc>
+    <date>2022</date>
+  </programme>
+  <programme start="20221214130000 +0000" stop="20221214150000 +0000" channel="Afizzionados">
+    <title lang="en">Fútbol: Liga MX Femenil</title>
+    <sub-title lang="en">Tigres UANL vs. Monterrey</sub-title>
+    <desc lang="en">Apertura Jornada 15 Tigres UANL vs. Monterrey.(n)</desc>
+    <date>2022</date>
+  </programme>
+  <programme start="20221214150000 +0000" stop="20221214170000 +0000" channel="Afizzionados">
+    <title lang="en">Nunca se olvida</title>
+    <desc lang="en">Ediciones de una y dos horas de los partidos clásicos del fútbol mexicano.(n)</desc>
+    <date>2020</date>
+  </programme>
+  <programme start="20221214170000 +0000" stop="20221214190000 +0000" channel="Afizzionados">
+    <title lang="en">Fútbol: Liga MX</title>
+    <sub-title lang="en">Tigres UANL vs. Necaxa</sub-title>
+    <desc lang="en">Tigres UANL vs. Necaxa. Desde Estadio Universitario.(n)</desc>
+    <date>2022</date>
+  </programme>
+  <programme start="20221214190000 +0000" stop="20221214210000 +0000" channel="Afizzionados">
+    <title lang="en">Fútbol: Liga MX</title>
+    <sub-title lang="en">Atlas vs. Pumas UNAM</sub-title>
+    <desc lang="en">Atlas vs. Pumas UNAM. Desde Estadio Jalisco.(n)</desc>
+    <date>2022</date>
+  </programme>
+  <programme start="20221214210000 +0000" stop="20221214220000 +0000" channel="Afizzionados">
+    <title lang="en">A Nivel de Cancha</title>
+    <desc lang="en">Análisis y entrevistas del mundo del fútbol.(n)</desc>
+  </programme>
+  <programme start="20221214220000 +0000" stop="20221215000000 +0000" channel="Afizzionados">
+    <title lang="en">Super Estadio Mundialista (live)</title>
+    <desc lang="en">El talk show matutino con la información,.(n)</desc>
+  </programme>
   <programme start="20221212060000 -0500" stop="20221212062500 -0500" channel="Disney Junior US">
     <title lang="en">Bluey</title>
     <sub-title lang="en">Teasing; Shaun; Daddy Robot</sub-title>
@@ -11583,17 +11737,6 @@
     <category lang="it">Musica</category>
     <icon src="https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png" />
   </programme>
-  <programme start="20221213000000 +0000" stop="20221213003000 +0000" channel="RT (Russia Today)">
-    <title lang="en">Noticias</title>
-  </programme>
-  <programme start="20221213003000 +0000" stop="20221213010000 +0000" channel="RT (Russia Today)">
-    <title lang="en">Dark Net': Narcotráfico en las sombras</title>
-    <desc lang="en">La deep web, una red sombría donde funciona el narcotráfico.(n)</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20221213010000 +0000" stop="20221213013000 +0000" channel="RT (Russia Today)">
-    <title lang="en">Noticias</title>
-  </programme>
   <programme start="20221213013000 +0000" stop="20221213020000 +0000" channel="RT (Russia Today)">
     <title lang="en">Entrevista</title>
     <sub-title lang="en">Nicolás Maduro Guerra</sub-title>
@@ -12028,35 +12171,6 @@
     <title lang="en">Érase una vez... La sanidad italiana - Parte I</title>
     <date>2022</date>
   </programme>
-  <programme start="20221213000000 +0000" stop="20221213010000 +0000" channel="USA Network">
-    <title lang="en">Chicago Fire</title>
-    <sub-title lang="en">The Right Thing</sub-title>
-    <desc lang="en">Kidd spreads her wings as a lieutenant. Chief Hawkins rides with Ambulance 61 to learn more about Brett. Casey takes a trip out of town. A Ritter date night turns into an emergency situation. (repeat).(n)</desc>
-    <credits>
-      <director>Arthur W. Forney</director>
-      <director>Dick Wolf</director>
-      <actor role="Lt. Matthew Casey">Jesse Spencer</actor>
-      <actor role="Lt. Kelly Severide">Taylor Kinney</actor>
-      <actor role="Chief Wallace Boden">Eamonn Walker</actor>
-      <actor role="Christopher Herrmann">David Eigenberg</actor>
-      <actor role="Joe Cruz">Joe Minoso</actor>
-      <actor role="Brian &quot;Otis&quot; Zvonecek">Yuri Sardarov</actor>
-      <actor role="Randy &quot;Mouch&quot; McHolland">Christian Stolte</actor>
-      <actor role="Sylvie Brett">Kara Killmer</actor>
-      <writer>Michael Gilvary</writer>
-      <producer>Derek Haas</producer>
-      <composer>Atli Örvarsson</composer>
-    </credits>
-    <date>2021</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/14250/014250/014250_1152x864_638041524481497238.jpg" />
-    <episode-num system="onscreen">S10</episode-num>
-    <episode-num system="onscreen">10 E4</episode-num>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20221213010000 +0000" stop="20221213040000 +0000" channel="USA Network">
     <title lang="en">WWE Monday Night Raw (live)</title>
     <sub-title lang="en">12-12-2022</sub-title>
@@ -12176,7 +12290,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Suspense</category>
     <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13202/013202/013202_1152x864_637463445429714168.jpg" />
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12645/012645/012645_960x720_580205_020.jpg" />
     <episode-num system="onscreen">S23</episode-num>
     <episode-num system="onscreen">23 E4</episode-num>
     <rating system="MPAA">
@@ -12336,7 +12450,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Suspense</category>
     <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13202/013202/013202_1152x864_637463445429714168.jpg" />
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12645/012645/012645_960x720_580205_020.jpg" />
     <episode-num system="onscreen">S4 E25</episode-num>
     <rating system="MPAA">
       <value>TV-14</value>
@@ -12361,7 +12475,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Suspense</category>
     <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13202/013202/013202_1152x864_637463445429714168.jpg" />
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12645/012645/012645_960x720_580205_020.jpg" />
     <episode-num system="onscreen">S5</episode-num>
     <episode-num system="onscreen">5 E2</episode-num>
     <rating system="MPAA">
@@ -12387,7 +12501,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Suspense</category>
     <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13202/013202/013202_1152x864_637463445429714168.jpg" />
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12645/012645/012645_960x720_580205_020.jpg" />
     <episode-num system="onscreen">S5</episode-num>
     <episode-num system="onscreen">5 E5</episode-num>
     <rating system="MPAA">
@@ -12413,7 +12527,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Suspense</category>
     <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13202/013202/013202_1152x864_637463445429714168.jpg" />
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12645/012645/012645_960x720_580205_020.jpg" />
     <episode-num system="onscreen">S5</episode-num>
     <episode-num system="onscreen">5 E7</episode-num>
     <rating system="MPAA">
@@ -12439,7 +12553,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Suspense</category>
     <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13202/013202/013202_1152x864_637463445429714168.jpg" />
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12645/012645/012645_960x720_580205_020.jpg" />
     <episode-num system="onscreen">S5</episode-num>
     <episode-num system="onscreen">5 E8</episode-num>
     <rating system="MPAA">
@@ -12465,7 +12579,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Suspense</category>
     <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13202/013202/013202_1152x864_637463445429714168.jpg" />
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12645/012645/012645_960x720_580205_020.jpg" />
     <episode-num system="onscreen">S5</episode-num>
     <episode-num system="onscreen">5 E9</episode-num>
     <rating system="MPAA">
@@ -12491,7 +12605,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Suspense</category>
     <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13202/013202/013202_1152x864_637463445429714168.jpg" />
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12645/012645/012645_960x720_580205_020.jpg" />
     <episode-num system="onscreen">S5</episode-num>
     <episode-num system="onscreen">5 E10</episode-num>
     <rating system="MPAA">
@@ -12517,7 +12631,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Suspense</category>
     <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13202/013202/013202_1152x864_637463445429714168.jpg" />
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12645/012645/012645_960x720_580205_020.jpg" />
     <episode-num system="onscreen">S5</episode-num>
     <episode-num system="onscreen">5 E13</episode-num>
     <rating system="MPAA">
@@ -12543,7 +12657,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Suspense</category>
     <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13202/013202/013202_1152x864_637463445429714168.jpg" />
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12645/012645/012645_960x720_580205_020.jpg" />
     <episode-num system="onscreen">S5</episode-num>
     <episode-num system="onscreen">5 E15</episode-num>
     <rating system="MPAA">
@@ -12569,7 +12683,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Suspense</category>
     <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13202/013202/013202_1152x864_637463445429714168.jpg" />
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12645/012645/012645_960x720_580205_020.jpg" />
     <episode-num system="onscreen">S5</episode-num>
     <episode-num system="onscreen">5 E18</episode-num>
     <rating system="MPAA">
@@ -12636,7 +12750,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Suspense</category>
     <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13202/013202/013202_1152x864_637463445429714168.jpg" />
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12645/012645/012645_960x720_580205_020.jpg" />
     <episode-num system="onscreen">S5</episode-num>
     <episode-num system="onscreen">5 E19</episode-num>
     <rating system="MPAA">
@@ -12662,7 +12776,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Suspense</category>
     <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13202/013202/013202_1152x864_637463445429714168.jpg" />
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12645/012645/012645_960x720_580205_020.jpg" />
     <episode-num system="onscreen">S5</episode-num>
     <episode-num system="onscreen">5 E20</episode-num>
     <rating system="MPAA">
@@ -12688,7 +12802,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Suspense</category>
     <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13202/013202/013202_1152x864_637463445429714168.jpg" />
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12645/012645/012645_960x720_580205_020.jpg" />
     <episode-num system="onscreen">S4 E25</episode-num>
     <rating system="MPAA">
       <value>TV-14</value>
@@ -12713,7 +12827,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Suspense</category>
     <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13202/013202/013202_1152x864_637463445429714168.jpg" />
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12645/012645/012645_960x720_580205_020.jpg" />
     <episode-num system="onscreen">S5</episode-num>
     <episode-num system="onscreen">5 E2</episode-num>
     <rating system="MPAA">
@@ -12739,7 +12853,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Suspense</category>
     <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13202/013202/013202_1152x864_637463445429714168.jpg" />
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12645/012645/012645_960x720_580205_020.jpg" />
     <episode-num system="onscreen">S5</episode-num>
     <episode-num system="onscreen">5 E5</episode-num>
     <rating system="MPAA">
@@ -12765,7 +12879,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Suspense</category>
     <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13202/013202/013202_1152x864_637463445429714168.jpg" />
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12645/012645/012645_960x720_580205_020.jpg" />
     <episode-num system="onscreen">S5</episode-num>
     <episode-num system="onscreen">5 E7</episode-num>
     <rating system="MPAA">
@@ -12839,7 +12953,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Suspense</category>
     <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13202/013202/013202_1152x864_637463445429714168.jpg" />
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12645/012645/012645_960x720_580205_020.jpg" />
     <episode-num system="onscreen">S5</episode-num>
     <episode-num system="onscreen">5 E19</episode-num>
     <rating system="MPAA">
@@ -12865,7 +12979,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Suspense</category>
     <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13202/013202/013202_1152x864_637463445429714168.jpg" />
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12645/012645/012645_960x720_580205_020.jpg" />
     <episode-num system="onscreen">S5</episode-num>
     <episode-num system="onscreen">5 E20</episode-num>
     <rating system="MPAA">
@@ -12891,7 +13005,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Suspense</category>
     <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13202/013202/013202_1152x864_637463445429714168.jpg" />
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12645/012645/012645_960x720_580205_020.jpg" />
     <episode-num system="onscreen">S5</episode-num>
     <episode-num system="onscreen">5 E22</episode-num>
     <rating system="MPAA">
@@ -12917,7 +13031,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Suspense</category>
     <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13202/013202/013202_1152x864_637463445429714168.jpg" />
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12645/012645/012645_960x720_580205_020.jpg" />
     <episode-num system="onscreen">S5</episode-num>
     <episode-num system="onscreen">5 E24</episode-num>
     <rating system="MPAA">
@@ -12943,7 +13057,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Suspense</category>
     <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13202/013202/013202_1152x864_637463445429714168.jpg" />
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12645/012645/012645_960x720_580205_020.jpg" />
     <episode-num system="onscreen">S6 E2</episode-num>
     <rating system="MPAA">
       <value>TV-14</value>
@@ -12968,7 +13082,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Suspense</category>
     <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13202/013202/013202_1152x864_637463445429714168.jpg" />
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12645/012645/012645_960x720_580205_020.jpg" />
     <episode-num system="onscreen">S6 E3</episode-num>
     <rating system="MPAA">
       <value>TV-14</value>
@@ -12993,7 +13107,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Suspense</category>
     <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13202/013202/013202_1152x864_637463445429714168.jpg" />
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12645/012645/012645_960x720_580205_020.jpg" />
     <episode-num system="onscreen">S6 E4</episode-num>
     <rating system="MPAA">
       <value>TV-14</value>
@@ -13018,7 +13132,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Suspense</category>
     <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13202/013202/013202_1152x864_637463445429714168.jpg" />
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12645/012645/012645_960x720_580205_020.jpg" />
     <episode-num system="onscreen">S6 E6</episode-num>
     <rating system="MPAA">
       <value>TV-14</value>
@@ -13043,7 +13157,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Suspense</category>
     <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13202/013202/013202_1152x864_637463445429714168.jpg" />
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12645/012645/012645_960x720_580205_020.jpg" />
     <episode-num system="onscreen">S19</episode-num>
     <episode-num system="onscreen">19 E2</episode-num>
     <rating system="MPAA">
@@ -13069,7 +13183,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Suspense</category>
     <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13202/013202/013202_1152x864_637463445429714168.jpg" />
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12645/012645/012645_960x720_580205_020.jpg" />
     <episode-num system="onscreen">S19</episode-num>
     <episode-num system="onscreen">19 E5</episode-num>
     <rating system="MPAA">
@@ -13095,87 +13209,9 @@
     <category lang="en">Drama</category>
     <category lang="en">Suspense</category>
     <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13202/013202/013202_1152x864_637463445429714168.jpg" />
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12645/012645/012645_960x720_580205_020.jpg" />
     <episode-num system="onscreen">S19</episode-num>
     <episode-num system="onscreen">19 E9</episode-num>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221213000000 +0000" stop="20221213003000 +0000" channel="TBS US">
-    <title lang="en">The Big Bang Theory</title>
-    <sub-title lang="en">The Tangerine Factor</sub-title>
-    <desc lang="en">In the first-season finale, Leonard asks Penny out on a date after she breaks up with her boyfriend. To prepare for the big night, Leonard practices the date the day before with the guys. (repeat).(n)</desc>
-    <credits>
-      <director>Mark Cendrowski</director>
-      <director>Chuck Lorre</director>
-      <actor role="Penny">Kaley Cuoco</actor>
-      <actor role="Leonard">Johnny Galecki</actor>
-      <actor role="Sheldon">Jim Parsons</actor>
-      <actor role="Howard Wolowitz">Simon Helberg</actor>
-      <actor role="Rajesh Koothrappali">Kunal Nayyar</actor>
-      <actor role="Leslie Winkle">Sara Gilbert</actor>
-      <actor role="Alex">Margo Harshman</actor>
-      <writer>Tara Hernandez</writer>
-      <producer>Chuck Lorre</producer>
-    </credits>
-    <date>2007</date>
-    <category lang="en">Comedy</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/10303/010303/010303_960x720_172827_164.jpg" />
-    <episode-num system="onscreen">S1</episode-num>
-    <episode-num system="onscreen">1 E17</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20221213003000 +0000" stop="20221213010000 +0000" channel="TBS US">
-    <title lang="en">The Big Bang Theory</title>
-    <sub-title lang="en">The Bad Fish Paradigm</sub-title>
-    <desc lang="en">In the second-season opener, Penny surprisingly turns to Sheldon as a confidant after her disastrous first date with Leonard. Mrs. Wolowitz: Carol Ann Susi. (repeat).(n)</desc>
-    <credits>
-      <director>Mark Cendrowski</director>
-      <director>Chuck Lorre</director>
-      <actor role="Penny">Kaley Cuoco</actor>
-      <actor role="Leonard">Johnny Galecki</actor>
-      <actor role="Sheldon">Jim Parsons</actor>
-      <actor role="Howard Wolowitz">Simon Helberg</actor>
-      <actor role="Rajesh Koothrappali">Kunal Nayyar</actor>
-      <actor role="Leslie Winkle">Sara Gilbert</actor>
-      <actor role="Alex">Margo Harshman</actor>
-      <writer>Tara Hernandez</writer>
-      <producer>Chuck Lorre</producer>
-    </credits>
-    <date>2008</date>
-    <category lang="en">Comedy</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/10303/010303/010303_960x720_172827_164.jpg" />
-    <episode-num system="onscreen">S2</episode-num>
-    <episode-num system="onscreen">2 E1</episode-num>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221213010000 +0000" stop="20221213013000 +0000" channel="TBS US">
-    <title lang="en">The Big Bang Theory</title>
-    <sub-title lang="en">The Codpiece Topology</sub-title>
-    <desc lang="en">A jealous Leonard reacts to Penny's new guy by rebounding with Leslie (Sara Gilbert). Eric: Travis Schuldt. (repeat).(n)</desc>
-    <credits>
-      <director>Mark Cendrowski</director>
-      <director>Chuck Lorre</director>
-      <actor role="Penny">Kaley Cuoco</actor>
-      <actor role="Leonard">Johnny Galecki</actor>
-      <actor role="Sheldon">Jim Parsons</actor>
-      <actor role="Howard Wolowitz">Simon Helberg</actor>
-      <actor role="Rajesh Koothrappali">Kunal Nayyar</actor>
-      <actor role="Leslie Winkle">Sara Gilbert</actor>
-      <actor role="Alex">Margo Harshman</actor>
-      <writer>Tara Hernandez</writer>
-      <producer>Chuck Lorre</producer>
-    </credits>
-    <date>2007</date>
-    <category lang="en">Comedy</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/10303/010303/010303_960x720_172827_164.jpg" />
-    <episode-num system="onscreen">S2</episode-num>
-    <episode-num system="onscreen">2 E2</episode-num>
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
@@ -15465,9 +15501,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221213000000 +0000" stop="20221213010000 +0000" channel="Televisión Dominicana">
-    <title lang="en">A confirmar</title>
-  </programme>
   <programme start="20221213010000 +0000" stop="20221213020000 +0000" channel="Televisión Dominicana">
     <title lang="en">El Informe (live)</title>
     <desc lang="en">Programa periodístico.(n)</desc>
@@ -16474,10 +16507,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221213000000 +0000" stop="20221213010000 +0000" channel="Univisión tlnovelas">
-    <title lang="en">Código Postal</title>
-    <desc lang="en">Una telenovela juvenil que narra los amores y sueños de un grupo de amigos que viven en un lujoso fraccionamiento en Acapulco.(n)</desc>
-  </programme>
   <programme start="20221213010000 +0000" stop="20221213020000 +0000" channel="Univisión tlnovelas">
     <title lang="en">Amorcito corazón</title>
     <desc lang="en">Este melodrama narra la historia de Isabel, una arquitecta, Zoe y Lucía, novicia de corazón.(n)</desc>
@@ -16757,13 +16786,11 @@
     <icon src="https://images.pluto.tv/episodes/62fae54620b977001eecc951/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
   <programme start="20221213130000 +0000" stop="20221213150000 +0000" channel="Vevo 2K">
-    <title lang="en">Vevo 2K</title>
-    <desc lang="en">No information available.(n)</desc>
-    <category lang="en">No information available</category>
-    <icon src="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-    <rating>
-      <value>No Rating</value>
-    </rating>
+    <title lang="en">Top Hits</title>
+    <desc lang="en">The most viewed videos this week on Vevo.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Pop</category>
+    <icon src="https://images.pluto.tv/episodes/637d155ff416df0013642548/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
   <programme start="20221213150000 +0000" stop="20221213210000 +0000" channel="Vevo 2K">
     <title lang="en">Vevo 2K</title>
@@ -16855,13 +16882,11 @@
     <icon src="https://images.pluto.tv/episodes/635952898515d3001319cab3/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
   <programme start="20221213130000 +0000" stop="20221213150000 +0000" channel="Vevo Reggaetón &amp; Trap">
-    <title lang="en">Vevo Reggaeton &amp; Trap</title>
-    <desc lang="en">No information available.(n)</desc>
-    <category lang="en">No information available</category>
-    <icon src="https://images.pluto.tv/channels/5f32f397795b750007706448/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-    <rating>
-      <value>No Rating</value>
-    </rating>
+    <title lang="en">Vibes</title>
+    <desc lang="en">Relaxing feel good videos to start your morning.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Dance &amp; Party</category>
+    <icon src="https://images.pluto.tv/episodes/635952898515d3001319caba/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
   <programme start="20221213150000 +0000" stop="20221213210000 +0000" channel="Vevo Reggaetón &amp; Trap">
     <title lang="en">Vevo Reggaeton &amp; Trap</title>
@@ -16959,7 +16984,14 @@
     <category lang="en">Pop</category>
     <icon src="https://images.pluto.tv/episodes/62fade1e9bd9c6001b63ac69/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
-  <programme start="20221213130000 +0000" stop="20221213150000 +0000" channel="Vevo Pop">
+  <programme start="20221213130000 +0000" stop="20221213140000 +0000" channel="Vevo Pop">
+    <title lang="en">Pop Videos</title>
+    <desc lang="en">Hot new videos.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Pop</category>
+    <icon src="https://images.pluto.tv/episodes/62fade1e9bd9c6001b63ac6e/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221213140000 +0000" stop="20221213150000 +0000" channel="Vevo Pop">
     <title lang="en">Vevo Pop</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
@@ -17064,7 +17096,14 @@
     <category lang="en">Latino</category>
     <icon src="https://images.pluto.tv/episodes/6362cc5136d64a0014544a0c/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
-  <programme start="20221213130000 +0000" stop="20221213150000 +0000" channel="Vevo Latino">
+  <programme start="20221213130000 +0000" stop="20221213140000 +0000" channel="Vevo Latino">
+    <title lang="en">Fiesta Navideña</title>
+    <desc lang="en">All of your favorite artists singing the classics and new holiday originals!(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Latino</category>
+    <icon src="https://images.pluto.tv/episodes/637f55dd259abd0013f7e6fb/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221213140000 +0000" stop="20221213150000 +0000" channel="Vevo Latino">
     <title lang="en">Vevo Latino</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
@@ -17170,13 +17209,11 @@
     <icon src="https://images.pluto.tv/episodes/62fade269bd9c6001b63aeb8/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
   <programme start="20221213130000 +0000" stop="20221213150000 +0000" channel="Vevo Country">
-    <title lang="en">Vevo Country</title>
-    <desc lang="en">No information available.(n)</desc>
-    <category lang="en">No information available</category>
-    <icon src="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-    <rating>
-      <value>No Rating</value>
-    </rating>
+    <title lang="en">Country Videos</title>
+    <desc lang="en">Nothing but hit videos from the biggest Country artists!(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Country</category>
+    <icon src="https://images.pluto.tv/episodes/62fade269bd9c6001b63aeb1/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
   <programme start="20221213150000 +0000" stop="20221213210000 +0000" channel="Vevo Country">
     <title lang="en">Vevo Country</title>
@@ -17274,7 +17311,14 @@
     <category lang="en">R&amp;B/Soul</category>
     <icon src="https://images.pluto.tv/episodes/62fade099bd9c6001b63a682/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
-  <programme start="20221213130000 +0000" stop="20221213150000 +0000" channel="Vevo R&amp;B">
+  <programme start="20221213130000 +0000" stop="20221213140000 +0000" channel="Vevo R&amp;B">
+    <title lang="en">ALT R&amp;B</title>
+    <desc lang="en">Videos that go left of center from funk, soul, rhythm, and blues.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">R&amp;B/Soul</category>
+    <icon src="https://images.pluto.tv/episodes/62fade099bd9c6001b63a689/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221213140000 +0000" stop="20221213150000 +0000" channel="Vevo R&amp;B">
     <title lang="en">Vevo R&amp;B</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
@@ -17335,14 +17379,6 @@
     <icon src="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
       <value>No Rating</value>
-    </rating>
-  </programme>
-  <programme start="20221213002000 +0000" stop="20221213011000 +0000" channel="E!">
-    <title lang="en">Vanderpump Rules</title>
-    <desc lang="en">Jax se tatúa el nombre de Stassi para demostrar su amor,.(n)</desc>
-    <date>2022</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
     </rating>
   </programme>
   <programme start="20221213011000 +0000" stop="20221213020000 +0000" channel="E!">
@@ -18024,10 +18060,6 @@
     <desc lang="en">Una joven universitaria reniega de su origen humilde y trata de fingir ante sus amigos que sus padres son ricos, pero la fatalidad la hará recapacitar. Teresa: Maricruz Olivier. Profesor Héctor: Fernando Rey. Luisa: Beatriz Aguirre. José Antonio: Luis Beristáin. Aurora: Manola Saavedra. Mario: Héctor Godoy. Director: Alfredo B. Crevenna.(n)</desc>
     <date>1961</date>
   </programme>
-  <programme start="20221213000000 +0000" stop="20221213005800 +0000" channel="Azteca America">
-    <title lang="en">Acércate a Rocío</title>
-    <desc lang="en">Hablar de los problemas es el primer paso para superarlos, por eso, Rocío trae un programa único para hablar de todo lo que preocupa y, en conjunto, encontrar una solución.(n)</desc>
-  </programme>
   <programme start="20221213010100 +0000" stop="20221213015800 +0000" channel="Azteca America">
     <title lang="en">Al extremo: Edición especial</title>
     <desc lang="en">Una edición especial del programa que se atreve a decir lo que otros callan bajo la conducción de Verónica del Castillo y Gaby Crassus para Azteca en Estados Unidos.(n)</desc>
@@ -18471,14 +18503,6 @@
   <programme start="20221214233000 +0000" stop="20221215013000 +0000" channel="Azteca Uno">
     <title lang="en">Acércate a Rocío</title>
     <desc lang="en">Hablar de los problemas es el primer paso para superarlos, por eso, Rocío trae un programa único para hablar de todo lo que preocupa y, en conjunto, encontrar una solución.(n)</desc>
-  </programme>
-  <programme start="20221213003500 +0000" stop="20221213012000 +0000" channel="UNIVERSAL REALITY">
-    <title lang="en">Million Dollar Listing New York</title>
-    <desc lang="en">El mundo de Steve se voltea cuando su agencia de corredores cierra sin previo aviso,.(n)</desc>
-    <date>2018</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
   </programme>
   <programme start="20221213012000 +0000" stop="20221213023000 +0000" channel="UNIVERSAL REALITY">
     <title lang="en">Million Dollar Listing Los Angeles</title>
@@ -18954,12 +18978,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221213004500 +0000" stop="20221213013000 +0000" channel="UNIVERSAL CRIME">
-    <title lang="en">Asesinatos en Navidad</title>
-    <sub-title lang="en">Terror navideño</sub-title>
-    <desc lang="en">Cuando comienzan las fiestas,.(n)</desc>
-    <date>2021</date>
-  </programme>
   <programme start="20221213013000 +0000" stop="20221213021500 +0000" channel="UNIVERSAL CRIME">
     <title lang="en">Enterrado en el jardín</title>
     <sub-title lang="en">El más letal de los amigos</sub-title>
@@ -19382,30 +19400,6 @@
     <sub-title lang="en">Jeffrey Dahmer</sub-title>
     <desc lang="en">Responsable de matar y desmembrar a 17 jóvenes entre 1978 y 1991,.(n)</desc>
     <date>2022</date>
-  </programme>
-  <programme start="20221213002000 +0000" stop="20221213004500 +0000" channel="UNIVERSAL COMEDY">
-    <title lang="en">The Odd Couple</title>
-    <desc lang="en">Cuando Oscar se siente amenazado por la sorprendente actuación de Félix en la cancha de softbol y en la de béisbol, acuerdan hacer un decatlón para ver cuál de los dos es mejor atleta.(n)</desc>
-    <date>2021</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20221213004500 +0000" stop="20221213011000 +0000" channel="UNIVERSAL COMEDY">
-    <title lang="en">The Odd Couple</title>
-    <desc lang="en">Cuando Oscar y Félix van a lo de Ashely para buscar la almohada especial de Félix,.(n)</desc>
-    <date>2021</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20221213011000 +0000" stop="20221213013500 +0000" channel="UNIVERSAL COMEDY">
-    <title lang="en">The Odd Couple</title>
-    <desc lang="en">Cuando Félix reemplaza a un profesor en una clase de yoga,.(n)</desc>
-    <date>2021</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
   </programme>
   <programme start="20221213013500 +0000" stop="20221213020000 +0000" channel="UNIVERSAL COMEDY">
     <title lang="en">Maratón The Odd Couple</title>
@@ -20442,22 +20436,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221213002000 +0000" stop="20221213010000 +0000" channel="UNIVERSAL PREMIERE">
-    <title lang="en">Blue Bloods</title>
-    <desc lang="en">Los miembros de la familia Reagan tienen una vocación común: velar por el cumplimiento de las leyes en las conflictivas calles de Nueva York. Pero todo cambia cuando el hijo menor forme parte de una investigación clandestina.(n)</desc>
-    <date>2010</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221213010000 +0000" stop="20221213014500 +0000" channel="UNIVERSAL PREMIERE">
-    <title lang="en">Blue Bloods</title>
-    <desc lang="en">Los miembros de la familia Reagan tienen una vocación común: velar por el cumplimiento de las leyes en las conflictivas calles de Nueva York. Pero todo cambia cuando el hijo menor forme parte de una investigación clandestina.(n)</desc>
-    <date>2010</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20221213014500 +0000" stop="20221213023000 +0000" channel="UNIVERSAL PREMIERE">
     <title lang="en">Blue Bloods</title>
     <desc lang="en">Los miembros de la familia Reagan tienen una vocación común: velar por el cumplimiento de las leyes en las conflictivas calles de Nueva York. Pero todo cambia cuando el hijo menor forme parte de una investigación clandestina.(n)</desc>
@@ -21234,26 +21212,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221213000200 +0000" stop="20221213003400 +0000" channel="HBO SIGNATURE">
-    <title lang="en">The Baby</title>
-    <desc lang="en">Natasha se enfrenta a lo que buscaba escapar: un bebé.(n)</desc>
-    <date>2022</date>
-    <rating system="MPAA">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20221213003400 +0000" stop="20221213010200 +0000" channel="HBO SIGNATURE">
-    <title lang="en">The Baby</title>
-    <sub-title lang="en">Ep. 2</sub-title>
-    <desc lang="en">Natasha se apresura a localizar a su madre y descubre un patrón alarmante.(n)</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20221213010200 +0000" stop="20221213013000 +0000" channel="HBO SIGNATURE">
-    <title lang="en">The Baby</title>
-    <sub-title lang="en">Episode 3</sub-title>
-    <desc lang="en">Natasha se apresura a localizar a su madre y descubre un patrón alarmante.(n)</desc>
-    <date>2022</date>
-  </programme>
   <programme start="20221213013000 +0000" stop="20221213020000 +0000" channel="HBO SIGNATURE">
     <title lang="en">El bebé</title>
     <desc lang="en">Con el bebé ahora en manos de Bobbi, Natasha debe reunirse con su madre Barbara,.(n)</desc>
@@ -21503,14 +21461,6 @@
     <sub-title lang="en">el envenenador</sub-title>
     <desc lang="en">Mira corteja las ofertas del financiero de la producción y de su agente mientras se sumerge en su papel. René experimenta una visión y una crisis.(n)</desc>
     <date>2022</date>
-  </programme>
-  <programme start="20221213000300 +0000" stop="20221213013800 +0000" channel="HBO PLUS">
-    <title lang="en">Los huéspedes</title>
-    <desc lang="en">Unos hermanos pasan una semana en la granja de sus abuelos, en Pennsylvania. De manera extraña, los abuelos ordenan a los chicos que no salgan de su habitación a partir de las 21:30. Cada noche, los niños oyen espantosos ruidos tras la puerta.(n)</desc>
-    <date>2015</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
   </programme>
   <programme start="20221213013800 +0000" stop="20221213040000 +0000" channel="HBO PLUS">
     <title lang="en">Ready player one: Comienza el juego</title>
@@ -22383,11 +22333,6 @@
     <title lang="en">Jerrod Carmichael: Rothaniel</title>
     <desc lang="en">Presenta a Jerrod Carmichael en un espectáculo de comedia stand-up en el Blue Note Jazz Club.(n)</desc>
   </programme>
-  <programme start="20221213000000 +0000" stop="20221213013000 +0000" channel="Imagen TV">
-    <title lang="en">Que pase Laura</title>
-    <desc lang="en">Un programa que presenta problemáticas sociales y familiares y se proponen posibles soluciones.(n)</desc>
-    <date>2022</date>
-  </programme>
   <programme start="20221213013000 +0000" stop="20221213023000 +0000" channel="Imagen TV">
     <title lang="en">Genesis</title>
     <desc lang="en">Una brigada especial de la policía se crea para combatir un tipo de crímenes sin móvil aparente y que difícilmente se pueden resolver mediante los métodos de investigación tradicionales.(n)</desc>
@@ -22827,14 +22772,6 @@
     <date>2022</date>
     <rating system="MPAA">
       <value>13</value>
-    </rating>
-  </programme>
-  <programme start="20221213000000 +0000" stop="20221213010000 +0000" channel="La Red (CHI)">
-    <title lang="en">La Rosa de Guadalupe</title>
-    <desc lang="en">La Virgen de Guadalupe se ha convertido en estandarte de millones de mexicanos. Cada uno de sus milagros se traducen en historias, de amor, desamor, esperanza, lucha e intriga. Este espacio abordará temas como la prostitución, violencia intrafamiliar, drogadicción, entre otros.(n)</desc>
-    <date>2008</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
     </rating>
   </programme>
   <programme start="20221213010000 +0000" stop="20221213030000 +0000" channel="La Red (CHI)">
@@ -23318,11 +23255,6 @@
     <title lang="en">Guerreros - Especial</title>
     <desc lang="en">Hombres y mujeres se enfrentarán a diario para saber cuál es el sexo más fuerte.(n)</desc>
   </programme>
-  <programme start="20221213000000 +0000" stop="20221213010000 +0000" channel="RCN Nuestra Tele">
-    <title lang="en">Noticias RCN</title>
-    <desc lang="en">Emisiones en directo con el mayor cubrimiento en los sucesos nacionales e internacionales.(n)</desc>
-    <date>1995</date>
-  </programme>
   <programme start="20221213010000 +0000" stop="20221213020000 +0000" channel="RCN Nuestra Tele">
     <title lang="en">Las Detectivas y el Víctor</title>
     <desc lang="en">Un detective desempleado inicia una agencia de investigación de infidelidades junto a su esposa.(n)</desc>
@@ -23550,11 +23482,6 @@
     <title lang="en">Trendiando</title>
     <desc lang="en">Un magazine que brinda lo mejor del entretenimiento, las últimas noticias y las nuevas tendencias que prometen cambiarán por completo la forma de pasar las tardes. Además, este ciclo, cuenta con presentadores que, con profesionalismo, carisma y...(n)</desc>
     <date>2015</date>
-  </programme>
-  <programme start="20221213000000 +0000" stop="20221213010000 +0000" channel="RCN Novelas">
-    <title lang="en">El Último Matrimonio Feliz</title>
-    <desc lang="en">Seis parejas viven dificultades en sus matriminios.(n)</desc>
-    <date>2009</date>
   </programme>
   <programme start="20221213010000 +0000" stop="20221213020000 +0000" channel="RCN Novelas">
     <title lang="en">Novia para Dos</title>
@@ -23807,11 +23734,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221213000000 +0000" stop="20221213010000 +0000" channel="Caracol TV Internacional">
-    <title lang="en">Noticias 19:00 Caracol</title>
-    <desc lang="en">Servicio informativo con los acontecimientos más relevantes de Colombia y el mundo.(n)</desc>
-    <date>2009</date>
-  </programme>
   <programme start="20221213010000 +0000" stop="20221213020000 +0000" channel="Caracol TV Internacional">
     <title lang="en">Loquito por ti (new)</title>
     <desc lang="en">Camilo y Juancho, mejores amigos que trabajan juntos en la orquesta del maestro Guzmá que comparten el sueño de convertirse en los músicos más reconocidos de la música tropical. En el camino al éxito conocen a Daniela, una mujer de clase alta con el sueño de convertirse en una estrella. Daniela tendrá que esconderle a su familia que forma parte de una orquesta y a sus colegas músicos les tendrá que ocultar de donde viene. Camilo y Juancho se enamoren de Daniela, su amistad llegará a su fin.(n)</desc>
@@ -24057,11 +23979,6 @@
   <programme start="20221214230000 +0000" stop="20221215000000 +0000" channel="Caracol TV Internacional">
     <title lang="en">Se dice de mi</title>
     <desc lang="en">Cada semana los televidentes conocerán la verdadera historia de las celebridades. Un programa que abordará la vida y trayectoria de los personajes más representativos del país. Cantantes, deportistas, presentadores y actores contarán su verdad sobre los aspectos positivos y negativos de su vida. Por primera vez los personajes revelarán sus secretos más íntimos y se verán enfrentados a los comentarios buenos y malos que existen sobre su vida.(n)</desc>
-  </programme>
-  <programme start="20221213000000 +0000" stop="20221213010000 +0000" channel="RCN Television">
-    <title lang="en">Noticias RCN</title>
-    <desc lang="en">Emisiones en directo con el mayor cubrimiento en los sucesos nacionales e internacionales.(n)</desc>
-    <date>1995</date>
   </programme>
   <programme start="20221213010000 +0000" stop="20221213023000 +0000" channel="RCN Television">
     <title lang="en">Café con aroma de mujer</title>
@@ -24401,14 +24318,6 @@
     <title lang="en">Plan sin escape</title>
     <desc lang="en">Ray Breslin es un experto en seguridad carcelaria. Ahora, debe enfrentarse al mayor de los retos: escaparse de una prisión que él mismo diseñó y encontrar a la persona que lo llevó a la cárcel.(n)</desc>
     <date>2013</date>
-  </programme>
-  <programme start="20221213003000 +0000" stop="20221213012000 +0000" channel="UNIVERSAL TV">
-    <title lang="en">Chicago P.D.</title>
-    <desc lang="en">Halstead pone su credibilidad y su carrera en juego para ayudar a resolver un caso que está vinculado con su nueva novia.(n)</desc>
-    <date>2013</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
   </programme>
   <programme start="20221213012000 +0000" stop="20221213021000 +0000" channel="UNIVERSAL TV">
     <title lang="en">Chicago P.D.</title>
@@ -24856,11 +24765,6 @@
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
-  </programme>
-  <programme start="20221213000000 +0000" stop="20221213010000 +0000" channel="Kids Street">
-    <title lang="en">Sea Power</title>
-    <sub-title lang="en">The History of Warships -Part 1</sub-title>
-    <date>2022</date>
   </programme>
   <programme start="20221213010000 +0000" stop="20221213020000 +0000" channel="Kids Street">
     <title lang="en">Mystic India</title>
@@ -25963,14 +25867,6 @@
     <desc lang="en">The adventures of a young Sioux Native American who has the unique ability to talk with animals.(n)</desc>
     <date>2005</date>
   </programme>
-  <programme start="20221213003000 +0000" stop="20221213013000 +0000" channel="Las Estrellas">
-    <title lang="en">Corona de lágrimas</title>
-    <desc lang="en">Una mujer sola inicia una nueva vida junto a sus tres hijos.(n)</desc>
-    <date>2012</date>
-    <rating system="MPAA">
-      <value>TV-Y7</value>
-    </rating>
-  </programme>
   <programme start="20221213013000 +0000" stop="20221213023000 +0000" channel="Las Estrellas">
     <title lang="en">La Rosa de Guadalupe</title>
     <desc lang="en">La Virgen de Guadalupe se ha convertido en estandarte de millones de mexicanos. Cada uno de sus milagros se traducen en historias, de amor, desamor, esperanza, lucha e intriga. Este espacio abordará temas como la prostitución, violencia intrafamiliar, drogadicción, entre otros.(n)</desc>
@@ -26247,14 +26143,6 @@
     <title lang="en">Como dice el dicho</title>
     <desc lang="en">Sergio Corona en compañía de Mario Bautista, Brisa Carrillo y Benny Emmanuel te traen historias llenas de emociones con las que te podrás identificar, ellos tienen un café, donde los clientes escriben en sus paredes los refranes que se acomodan a sus historias, las cuales luego son dramatizadas conmovedoramente.(n)</desc>
     <date>2011</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221213001500 +0000" stop="20221213014500 +0000" channel="Sony Movies">
-    <title lang="en">Bachelorette</title>
-    <desc lang="en">De adolescentes, Regan, Gena y Katie se dedicaban a martirizar a Becky, una compañera de clase a la que hicieron vivir un infierno. Algunos años más tarde, Becky se casa y le pide a sus tres antiguas compañeras ser sus damas de honor.(n)</desc>
-    <date>2012</date>
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
@@ -26593,15 +26481,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20221213000000 +0000" stop="20221213003000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221213003000 +0000" stop="20221213010000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
-  <programme start="20221213010000 +0000" stop="20221213013000 +0000" channel="NY1 Noticias">
-    <title lang="en">NY1 Noticias</title>
-  </programme>
   <programme start="20221213013000 +0000" stop="20221213020000 +0000" channel="NY1 Noticias">
     <title lang="en">NY1 Noticias</title>
   </programme>
@@ -26881,11 +26760,6 @@
   <programme start="20221214233000 +0000" stop="20221215000000 +0000" channel="NY1 Noticias">
     <title lang="en">NY1 Noticias</title>
   </programme>
-  <programme start="20221213002000 +0000" stop="20221213013000 +0000" channel="BitMe">
-    <title lang="en">Yu Gi Oh!</title>
-    <desc lang="en">La más divertida serie de monstruos gigantes, magia poderosa y antiguas leyendas egipcias, que muestra las aventuras de Yugi y sus mejores amigos Joey, Tristan y Téa.(n)</desc>
-    <date>1998</date>
-  </programme>
   <programme start="20221213013000 +0000" stop="20221213022000 +0000" channel="BitMe">
     <title lang="en">My Hero Academia</title>
     <desc lang="en">Un niño amante de los superhéroes está decidido a entrar en la prestigiosa academia para héroes.A.(n)</desc>
@@ -27142,23 +27016,6 @@
     <title lang="en">Universo Marcial</title>
     <desc lang="en">Lin Dong es un niño de un pequeño pueblo que no es favorecido por su familia. Por casualidad, obtiene un misterioso artefacto que es codiciado por muchos clanes en el mundo marcial. Debido a tal artefacto, Lin Dong es abordado por muchas personas...(n)</desc>
     <date>2018</date>
-  </programme>
-  <programme start="20221213000000 +0000" stop="20221213003000 +0000" channel="Curiosity Stream">
-    <title lang="en">Misión imparable con Miranda Cosgrove</title>
-    <sub-title lang="en">Lo mejor de... tiburones, canciones, deportes y arena</sub-title>
-    <date>2021</date>
-  </programme>
-  <programme start="20221213003000 +0000" stop="20221213010000 +0000" channel="Curiosity Stream">
-    <title lang="en">Misión imparable con Miranda Cosgrove</title>
-    <sub-title lang="en">Un biochip, un robot, y un biobús</sub-title>
-    <desc lang="en">Un Biochip, un Robot, y un Biobús.(n)</desc>
-    <date>2021</date>
-  </programme>
-  <programme start="20221213010000 +0000" stop="20221213013000 +0000" channel="Curiosity Stream">
-    <title lang="en">Misión imparable con Miranda Cosgrove</title>
-    <sub-title lang="en">Un murciélago, la NASA y algo innovador</sub-title>
-    <desc lang="en">Veremos a una experta en zoología que dedica su vida los murciélagos,.(n)</desc>
-    <date>2021</date>
   </programme>
   <programme start="20221213013000 +0000" stop="20221213020000 +0000" channel="Curiosity Stream">
     <title lang="en">¿Cuánto vale mi auto?</title>
@@ -27553,30 +27410,6 @@
     <title lang="en">León de montaña: el gato fantasma</title>
     <desc lang="en">El gato fantasma es uno de los animales más escurridizos de la naturaleza.(n)</desc>
     <date>2021</date>
-  </programme>
-  <programme start="20221213000000 +0000" stop="20221213003000 +0000" channel="Dreamworks">
-    <title lang="en">Las épicas aventuras del Capitán Calzoncillos</title>
-    <desc lang="en">Durante un examen final, Jorge y Berto acaban en la Cúpula Mortal,.(n)</desc>
-    <date>2018</date>
-    <rating system="MPAA">
-      <value>TV-Y7</value>
-    </rating>
-  </programme>
-  <programme start="20221213003000 +0000" stop="20221213010000 +0000" channel="Dreamworks">
-    <title lang="en">Home: Adventures With Tip &amp; Oh</title>
-    <desc lang="en">En la noche de micrófono abierto, Oh descubre que tiene un talento oculto. La batalla de rap muestra lo mejor de sus habilidades. Además, Oh intenta aventurar su imaginación para descubrir cómo habría resultado su vida en el caso de que nunca hubiera conocido a Tip.(n)</desc>
-    <date>2018</date>
-    <rating system="MPAA">
-      <value>TV-Y7</value>
-    </rating>
-  </programme>
-  <programme start="20221213010000 +0000" stop="20221213013000 +0000" channel="Dreamworks">
-    <title lang="en">El amanecer de los Croods</title>
-    <desc lang="en">En el Crudázico, los cavernícolas más fuertes tenían las mejores casas, los mejores juguetes y los mejores amigos. Pero no todo el mundo nace fuerte, así que, para enseñar a los niños a sobrevivir, el Valle de Ahhh! inventó el colegio y...(n)</desc>
-    <date>2016</date>
-    <rating system="MPAA">
-      <value>TV-Y7</value>
-    </rating>
   </programme>
   <programme start="20221213013000 +0000" stop="20221213020000 +0000" channel="Dreamworks">
     <title lang="en">Las aventuras del Gato con Botas</title>
@@ -28350,13 +28183,6 @@
       <value>TV-Y7</value>
     </rating>
   </programme>
-  <programme start="20221213003200 +0000" stop="20221213005500 +0000" channel="Aplauso">
-    <title lang="en">La Agencia</title>
-    <desc lang="en">Emisión de un programa documental.(n)</desc>
-  </programme>
-  <programme start="20221213005500 +0000" stop="20221213013500 +0000" channel="Aplauso">
-    <title lang="en">Citas</title>
-  </programme>
   <programme start="20221213013500 +0000" stop="20221213021400 +0000" channel="Aplauso">
     <title lang="en">Citas</title>
   </programme>
@@ -28580,24 +28406,6 @@
   </programme>
   <programme start="20221214232500 +0000" stop="20221215000800 +0000" channel="Aplauso">
     <title lang="en">Mary Asesina</title>
-  </programme>
-  <programme start="20221213000000 +0000" stop="20221213003000 +0000" channel="Hogar HGTV">
-    <title lang="en">La mejor fachada del vecindario</title>
-    <desc lang="en">Una casa anticuada con estilo hacienda recibe una renovación completa con un porche incluido.(n)</desc>
-    <date>2020</date>
-  </programme>
-  <programme start="20221213003000 +0000" stop="20221213010000 +0000" channel="Hogar HGTV">
-    <title lang="en">La mejor fachada del vecindario</title>
-    <desc lang="en">Unos padre recientes quieren renovar su casa para que se adapte a sus necesidades actuales.(n)</desc>
-    <date>2020</date>
-  </programme>
-  <programme start="20221213010000 +0000" stop="20221213013000 +0000" channel="Hogar HGTV">
-    <title lang="en">Único en su clase</title>
-    <desc lang="en">Grace transforma una cabaña histórica con una nueva suite principal y cocina.(n)</desc>
-    <date>2020</date>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
   </programme>
   <programme start="20221213013000 +0000" stop="20221213020000 +0000" channel="Hogar HGTV">
     <title lang="en">Único en su clase</title>
@@ -30464,15 +30272,6 @@
     <rating system="ICAA">
       <value>+12</value>
     </rating>
-  </programme>
-  <programme start="20221213000000 +0000" stop="20221213005500 +0000" channel="Telehit Musica">
-    <title lang="en">Top 10</title>
-    <desc lang="en">La lista de popularidad con los éxitos del momento de Telehit Urbano.(n)</desc>
-  </programme>
-  <programme start="20221213005500 +0000" stop="20221213015000 +0000" channel="Telehit Musica">
-    <title lang="en">Jangueo</title>
-    <desc lang="en">Revista nocturna sobre las principales tendencias urbanos, eventos,.(n)</desc>
-    <date>2021</date>
   </programme>
   <programme start="20221213015000 +0000" stop="20221213024500 +0000" channel="Telehit Musica">
     <title lang="en">Super Hits</title>
