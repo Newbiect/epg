@@ -25457,9 +25457,6 @@
     <category lang="it">Musica</category>
     <icon src="https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png" />
   </programme>
-  <programme start="20221220010000 +0000" stop="20221220013000 +0000" channel="RT (Russia Today)">
-    <title lang="en">Noticias</title>
-  </programme>
   <programme start="20221220013000 +0000" stop="20221220020000 +0000" channel="RT (Russia Today)">
     <title lang="en">Entrevista</title>
     <desc lang="en">"La gastronomía es cultura en general,.(n)</desc>
@@ -27569,25 +27566,6 @@
     <date>2002</date>
     <rating system="MPAA">
       <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20221220010000 +0000" stop="20221220013000 +0000" channel="TBS US">
-    <title lang="en">American Dad!</title>
-    <sub-title lang="en">Dreaming of a White Porsche Christmas</sub-title>
-    <desc lang="en">A spoof of "It's a Wonderful Life" has Stan dreaming of trading places with carefree, single Principal Lewis, and when his wish comes true, Lewis winds up as the head of Stan's clan. (repeat).(n)</desc>
-    <credits>
-      <director>Ron Hughart</director>
-      <director>Brent Woods</director>
-      <writer>Wendy Schaal</writer>
-      <producer>Kenny Schwartz</producer>
-      <composer>Walter Murphy</composer>
-    </credits>
-    <date>2014</date>
-    <category lang="en">Comedy</category>
-    <icon src="https://content.internetvideoarchive.com/content/photos/12831/538912_320x240_637220628105923005.jpg" />
-    <episode-num system="onscreen">S10 E9</episode-num>
-    <rating system="MPAA">
-      <value>TV-14</value>
     </rating>
   </programme>
   <programme start="20221220013000 +0000" stop="20221220020000 +0000" channel="TBS US">
@@ -36847,14 +36825,6 @@
     <sub-title lang="en">Asesinato de los granjeros de árboles de Navidad</sub-title>
     <desc lang="en">Cuando los amados granjeros de árboles de navidad son ejecutados en el asiento delantero de su automóvil, se inicia la búsqueda por su asesino.(n)</desc>
     <date>2022</date>
-  </programme>
-  <programme start="20221220011000 +0000" stop="20221220013500 +0000" channel="UNIVERSAL COMEDY">
-    <title lang="en">Maratón The Office</title>
-    <desc lang="en">Michael se entera de que uno de los nuevos empleados tiene antecedentes penales.(n)</desc>
-    <date>2014</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
   </programme>
   <programme start="20221220013500 +0000" stop="20221220020000 +0000" channel="UNIVERSAL COMEDY">
     <title lang="en">Maratón The Office</title>
@@ -53078,11 +53048,6 @@
     <rating system="ICAA">
       <value>+12</value>
     </rating>
-  </programme>
-  <programme start="20221220005500 +0000" stop="20221220015000 +0000" channel="Telehit Musica">
-    <title lang="en">Jangueo</title>
-    <desc lang="en">Revista nocturna sobre las principales tendencias urbanos, eventos,.(n)</desc>
-    <date>2021</date>
   </programme>
   <programme start="20221220015000 +0000" stop="20221220024500 +0000" channel="Telehit Musica">
     <title lang="en">Super Hits</title>
