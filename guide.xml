@@ -363,7 +363,7 @@
   <channel id="A3Series HD!">
     <display-name lang="es">A3Series HD.</display-name>
     <icon src="https://cdn.sincroguia.tv/uploads/images/v/5/n/xatresseries.jpg.pagespeed.ic.9ZIdKUT2Zo.jpg" />
-    <url>http://www.sincroguia-tv.expansion.com</url>
+    <url>http://www.sincroguia-tv.com.E</url>
   </channel>
   <channel id="Telehit Musica">
     <display-name lang="en">Telehit Musica.</display-name>
@@ -727,22 +727,6 @@
   </programme>
   <programme start="20230102204500 +0000" stop="20230102212900 +0000" channel="Aplauso">
     <title lang="en">Citas (?)</title>
-  </programme>
-  <programme start="20221231000000 +0000" stop="20221231002500 +0000" channel="Comedy Central">
-    <title lang="en">Stand up</title>
-    <desc lang="en">En esta ocasión con Roberto Flores como el presentador y con los artistas: Cojo Feliz, D. Zanassi y A. Salazar.(n)</desc>
-    <date>2016</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221231002500 +0000" stop="20221231010000 +0000" channel="Comedy Central">
-    <title lang="en">Se rentan cuartos</title>
-    <sub-title lang="en">Rehenes</sub-title>
-    <date>2019</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
   </programme>
   <programme start="20221231010000 +0000" stop="20221231020000 +0000" channel="Comedy Central">
     <title lang="en">La clínica (new)</title>
@@ -2071,34 +2055,6 @@
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p18485511_i_h8_aa.jpg" />
-  </programme>
-  <programme start="20221231000000 +0000" stop="20221231003000 +0000" channel="All Arts US">
-    <title lang="en">Bare Feet With Mickela Mallozzi</title>
-    <sub-title lang="en">The Lumbee Dance of the Spring Moon (Robeson County, North Carolina - USA)</sub-title>
-    <desc lang="en">A Native American pow wow is experienced with the Lumbee Tribe in North Carolina. Included: the obstacles that non-federally recognized tribes face.(n)</desc>
-    <credits>
-      <presenter>Mickela Mallozzi</presenter>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Travel</category>
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20221231003000 +0000" stop="20221231010000 +0000" channel="All Arts US">
-    <title lang="en">Bare Feet With Mickela Mallozzi</title>
-    <sub-title lang="en">Hogmanay in Scotland (Edinburgh, Scotland)</sub-title>
-    <desc lang="en">A visit to Edinburgh, Scotland, spotlights Hogmanay, which is the world's largest New Year's Eve celebration. Also: traditional Scottish dances.(n)</desc>
-    <credits>
-      <presenter>Mickela Mallozzi</presenter>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Travel</category>
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
   </programme>
   <programme start="20221231010000 +0000" stop="20221231020000 +0000" channel="All Arts US">
     <title lang="en">Inside High Noon</title>
@@ -26209,17 +26165,6 @@
     <category lang="it">Musica</category>
     <icon src="https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png" />
   </programme>
-  <programme start="20221231000000 +0000" stop="20221231003000 +0000" channel="RT (Russia Today)">
-    <title lang="en">Noticias</title>
-  </programme>
-  <programme start="20221231003000 +0000" stop="20221231010000 +0000" channel="RT (Russia Today)">
-    <title lang="en">Brujería contra el acoso</title>
-    <desc lang="en">En el Congo no hay instituciones especializadas que brinden protección a las víctimas de abuso.(n)</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20221231010000 +0000" stop="20221231013000 +0000" channel="RT (Russia Today)">
-    <title lang="en">Noticias</title>
-  </programme>
   <programme start="20221231013000 +0000" stop="20221231020000 +0000" channel="RT (Russia Today)">
     <title lang="en">Locos por el catamarán - Parte I</title>
     <desc lang="en">Cinco experimentados marineros siberianos, en su mayoría cincuentones, deciden embarcarse en un proyecto cuando menos intrépido y que para muchos sería totalmente disparatado: dar la vuelta al mundo en un catamarán plegable e inflable de reducidas dimensiones. Pese a las discusiones, los piratas, los tiburones, las tormentas tropicales y todo tipo de calamidades, será la experiencia más enriquecedora de su vida. Y les mostrará los mejores paisajes que verán nunca.(n)</desc>
@@ -29969,10 +29914,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221231000000 +0000" stop="20221231010000 +0000" channel="Univisión tlnovelas">
-    <title lang="en">Código Postal</title>
-    <desc lang="en">Una telenovela juvenil que narra los amores y sueños de un grupo de amigos que viven en un lujoso fraccionamiento en Acapulco.(n)</desc>
-  </programme>
   <programme start="20221231010000 +0000" stop="20221231020000 +0000" channel="Univisión tlnovelas">
     <title lang="en">Amorcito corazón</title>
     <desc lang="en">Este melodrama narra la historia de Isabel, una arquitecta, Zoe y Lucía, novicia de corazón.(n)</desc>
@@ -30120,13 +30061,11 @@
     <icon src="https://images.pluto.tv/episodes/62fae54620b977001eecc951/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
   <programme start="20221231130000 +0000" stop="20221231150000 +0000" channel="Vevo 2K">
-    <title lang="en">Vevo 2K</title>
-    <desc lang="en">No information available.(n)</desc>
-    <category lang="en">No information available</category>
-    <icon src="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-    <rating>
-      <value>No Rating</value>
-    </rating>
+    <title lang="en">Top Hits</title>
+    <desc lang="en">The most viewed videos this week on Vevo.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Pop</category>
+    <icon src="https://images.pluto.tv/episodes/637d155ff416df0013642548/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
   <programme start="20221231150000 +0000" stop="20221231210000 +0000" channel="Vevo 2K">
     <title lang="en">Vevo 2K</title>
@@ -30261,13 +30200,11 @@
     <icon src="https://images.pluto.tv/episodes/635952898515d3001319cab3/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
   <programme start="20221231130000 +0000" stop="20221231150000 +0000" channel="Vevo Reggaetón &amp; Trap">
-    <title lang="en">Vevo Reggaeton &amp; Trap</title>
-    <desc lang="en">No information available.(n)</desc>
-    <category lang="en">No information available</category>
-    <icon src="https://images.pluto.tv/channels/5f32f397795b750007706448/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-    <rating>
-      <value>No Rating</value>
-    </rating>
+    <title lang="en">Vibes</title>
+    <desc lang="en">Relaxing feel good videos to start your morning.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Dance &amp; Party</category>
+    <icon src="https://images.pluto.tv/episodes/635952898515d3001319caba/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
   <programme start="20221231150000 +0000" stop="20221231210000 +0000" channel="Vevo Reggaetón &amp; Trap">
     <title lang="en">Vevo Reggaeton &amp; Trap</title>
@@ -30409,13 +30346,11 @@
     <icon src="https://images.pluto.tv/episodes/639acd284da5ab001302c14d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
   <programme start="20221231130000 +0000" stop="20221231150000 +0000" channel="Vevo Pop">
-    <title lang="en">Vevo Pop</title>
-    <desc lang="en">No information available.(n)</desc>
-    <category lang="en">No information available</category>
-    <icon src="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-    <rating>
-      <value>No Rating</value>
-    </rating>
+    <title lang="en">Pop Videos</title>
+    <desc lang="en">Hot new videos.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Pop</category>
+    <icon src="https://images.pluto.tv/episodes/63a04b536d7934001349290b/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
   <programme start="20221231150000 +0000" stop="20221231210000 +0000" channel="Vevo Pop">
     <title lang="en">Vevo Pop</title>
@@ -30549,7 +30484,14 @@
     <category lang="en">Latino</category>
     <icon src="https://images.pluto.tv/episodes/63a4a93f86acfd001361aac9/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
-  <programme start="20221231130000 +0000" stop="20221231150000 +0000" channel="Vevo Latino">
+  <programme start="20221231130000 +0000" stop="20221231140000 +0000" channel="Vevo Latino">
+    <title lang="en">Fiesta Navideña</title>
+    <desc lang="en">All of your favorite artists singing the classics and new holiday originals!(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Latino</category>
+    <icon src="https://images.pluto.tv/episodes/63a4a93f86acfd001361aacd/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221231140000 +0000" stop="20221231150000 +0000" channel="Vevo Latino">
     <title lang="en">Vevo Latino</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
@@ -30691,13 +30633,11 @@
     <icon src="https://images.pluto.tv/episodes/63a2ee5988bc20001349e714/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
   <programme start="20221231130000 +0000" stop="20221231150000 +0000" channel="Vevo Country">
-    <title lang="en">Vevo Country</title>
-    <desc lang="en">No information available.(n)</desc>
-    <category lang="en">No information available</category>
-    <icon src="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-    <rating>
-      <value>No Rating</value>
-    </rating>
+    <title lang="en">Country Videos</title>
+    <desc lang="en">Nothing but hit videos from the biggest Country artists!(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Country</category>
+    <icon src="https://images.pluto.tv/episodes/63a2ee5988bc20001349e718/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
   <programme start="20221231150000 +0000" stop="20221231210000 +0000" channel="Vevo Country">
     <title lang="en">Vevo Country</title>
@@ -30838,7 +30778,14 @@
     <category lang="en">R&amp;B/Soul</category>
     <icon src="https://images.pluto.tv/episodes/63a4b755377c6f00134fe682/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
-  <programme start="20221231130000 +0000" stop="20221231150000 +0000" channel="Vevo R&amp;B">
+  <programme start="20221231130000 +0000" stop="20221231140000 +0000" channel="Vevo R&amp;B">
+    <title lang="en">ALT R&amp;B</title>
+    <desc lang="en">Videos that go left of center from funk, soul, rhythm, and blues.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">R&amp;B/Soul</category>
+    <icon src="https://images.pluto.tv/episodes/63a4b757377c6f00134fe6c3/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20221231140000 +0000" stop="20221231150000 +0000" channel="Vevo R&amp;B">
     <title lang="en">Vevo R&amp;B</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
@@ -30936,18 +30883,6 @@
     <rating>
       <value>No Rating</value>
     </rating>
-  </programme>
-  <programme start="20221231003000 +0000" stop="20221231010500 +0000" channel="E!">
-    <title lang="en">Guerra de covers</title>
-    <sub-title lang="en">Guerra de las divas del pop</sub-title>
-    <desc lang="en">Interpretando la música de las divas del pop JLo y Britney Spears,.(n)</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20221231010500 +0000" stop="20221231014000 +0000" channel="E!">
-    <title lang="en">Guerra de covers</title>
-    <sub-title lang="en">Guerra de los rockeros de los 90</sub-title>
-    <desc lang="en">Interpretando la música de Foo Fighters y Blink-182,.(n)</desc>
-    <date>2022</date>
   </programme>
   <programme start="20221231014000 +0000" stop="20221231021500 +0000" channel="E!">
     <title lang="en">Guerra de covers</title>
@@ -31871,10 +31806,6 @@
     <desc lang="en">Un pueblo entero oculta el secreto de un asesino que anda suelto a quien se dice el tigre. Antonio Aguilar entra al pueblo cantando sobre su caballo bailoteando para entremeterse en el asunto, y se ve envuelto en una lucha a muerte, donde habrá venganzas y canciones de sobra.(n)</desc>
     <date>1981</date>
   </programme>
-  <programme start="20221231000000 +0000" stop="20221231005800 +0000" channel="Azteca America">
-    <title lang="en">Acércate a Rocío</title>
-    <desc lang="en">Hablar de los problemas es el primer paso para superarlos, por eso, Rocío trae un programa único para hablar de todo lo que preocupa y, en conjunto, encontrar una solución.(n)</desc>
-  </programme>
   <programme start="20221231010100 +0000" stop="20221231015800 +0000" channel="Azteca America">
     <title lang="en">Al extremo: Edición especial</title>
     <desc lang="en">Una edición especial del programa que se atreve a decir lo que otros callan bajo la conducción de Verónica del Castillo y Gaby Crassus para Azteca en Estados Unidos.(n)</desc>
@@ -32340,11 +32271,6 @@
     <title lang="en">Acércate a Rocío</title>
     <desc lang="en">Hablar de tus problemas es el primer paso para superarlos, por eso Rocío Sánchez Azuara está de regreso con un programa único, en el cual, podrás acercarte, para que con ella, hables de todo lo que te preocupa, y juntas o juntos, puedan encontrar una solución.(n)</desc>
     <date>2021</date>
-  </programme>
-  <programme start="20221231003500 +0000" stop="20221231012000 +0000" channel="UNIVERSAL REALITY">
-    <title lang="en">Listing Impossible</title>
-    <desc lang="en">El agente líder en inmuebles de lujo, Aaron Kirman,.(n)</desc>
-    <date>2022</date>
   </programme>
   <programme start="20221231012000 +0000" stop="20221231020500 +0000" channel="UNIVERSAL REALITY">
     <title lang="en">Listing Impossible</title>
@@ -32993,12 +32919,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221231004000 +0000" stop="20221231013000 +0000" channel="UNIVERSAL CRIME">
-    <title lang="en">Matar me hizo famoso</title>
-    <sub-title lang="en">Jeffrey Dahmer</sub-title>
-    <desc lang="en">Responsable de matar y desmembrar a 17 jóvenes entre 1978 y 1991,.(n)</desc>
-    <date>2022</date>
-  </programme>
   <programme start="20221231013000 +0000" stop="20221231021500 +0000" channel="UNIVERSAL CRIME">
     <title lang="en">Matar me hizo famoso</title>
     <sub-title lang="en">John Wayne Gacy</sub-title>
@@ -33608,21 +33528,6 @@
     <sub-title lang="en">El destripador de Gainsville</sub-title>
     <desc lang="en">Asesinato. Violación. Mutilación. Agosto de 1990. Después de 675 sospechosos y miles de pruebas,.(n)</desc>
     <date>2022</date>
-  </programme>
-  <programme start="20221231000000 +0000" stop="20221231003000 +0000" channel="UNIVERSAL COMEDY">
-    <title lang="en">Upright</title>
-    <desc lang="en">Lucky considera darse por vencido cuando Meg se escapa con la camioneta y el piano,.(n)</desc>
-    <date>2021</date>
-  </programme>
-  <programme start="20221231003000 +0000" stop="20221231010000 +0000" channel="UNIVERSAL COMEDY">
-    <title lang="en">Upright</title>
-    <desc lang="en">Lucky decide cambiar su actitud y su aspecto,.(n)</desc>
-    <date>2021</date>
-  </programme>
-  <programme start="20221231010000 +0000" stop="20221231013000 +0000" channel="UNIVERSAL COMEDY">
-    <title lang="en">Upright</title>
-    <desc lang="en">Después de dejar a Meg en la casa de su madre en Kalgoorlie,.(n)</desc>
-    <date>2021</date>
   </programme>
   <programme start="20221231013000 +0000" stop="20221231020000 +0000" channel="UNIVERSAL COMEDY">
     <title lang="en">Upright</title>
@@ -34884,11 +34789,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221231001000 +0000" stop="20221231010500 +0000" channel="UNIVERSAL PREMIERE">
-    <title lang="en">From</title>
-    <desc lang="en">El padre Khatri le cuenta a Boyd por qué cree que Sara podría ser útil.(n)</desc>
-    <date>2022</date>
-  </programme>
   <programme start="20221231010500 +0000" stop="20221231020500 +0000" channel="UNIVERSAL PREMIERE">
     <title lang="en">From</title>
     <desc lang="en">Luego de otra muerte, Boyd se cuestiona su decisión de marcharse.(n)</desc>
@@ -35875,12 +35775,6 @@
     <title lang="en">El robo perfecto</title>
     <desc lang="en">Un astuto ladrón se enfrenta al robo más audaz de su vida cuando planea irrumpir en el banco de la Reserva Federal de Los Ángeles, pero queda atrapado entre dos bandas criminales y una unidad de élite del Departamento del Sheriff que va tras sus pasos.(n)</desc>
     <date>2018</date>
-  </programme>
-  <programme start="20221231003200 +0000" stop="20221231011600 +0000" channel="HBO SIGNATURE">
-    <title lang="en">María Marta, el crimen del Country</title>
-    <sub-title lang="en">Lazos de sangre</sub-title>
-    <desc lang="en">Basada en la historia verídica de uno de los crímenes más emblemáticos de la Argentina.(n)</desc>
-    <date>2022</date>
   </programme>
   <programme start="20221231011600 +0000" stop="20221231015800 +0000" channel="HBO SIGNATURE">
     <title lang="en">María Marta, el crimen del Country</title>
@@ -37088,12 +36982,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20221231002000 +0000" stop="20221231013900 +0000" channel="HBO 2">
-    <title lang="en">Unveiled: Surviving La Luz del Mundo</title>
-    <sub-title lang="en">A Fight for Justice</sub-title>
-    <desc lang="en">Explora la horrible historia de la iglesia cristiana La Luz del Mundo.(n)</desc>
-    <date>2022</date>
-  </programme>
   <programme start="20221231013900 +0000" stop="20221231040300 +0000" channel="HBO 2">
     <title lang="en">Aquaman</title>
     <desc lang="en">El universo de DC Comics continúa expandiéndose con la historia de Aquaman. Cuando el reino submarino de Atlantis se ve amenazado por los habitantes de la superficie, los súbditos de Aquaman se preparan para la lucha. Ahora Aquaman se verá atrapado entre dos mundos, en un enfrentamiento por la justicia.(n)</desc>
@@ -37501,11 +37389,6 @@
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
-  </programme>
-  <programme start="20221231000000 +0000" stop="20221231013000 +0000" channel="Imagen TV">
-    <title lang="en">Que pase Laura</title>
-    <desc lang="en">Un programa que presenta problemáticas sociales y familiares y se proponen posibles soluciones.(n)</desc>
-    <date>2022</date>
   </programme>
   <programme start="20221231013000 +0000" stop="20221231023000 +0000" channel="Imagen TV">
     <title lang="en">Sansón y Dalila</title>
@@ -38167,14 +38050,6 @@
       <value>13</value>
     </rating>
   </programme>
-  <programme start="20221231000000 +0000" stop="20221231010000 +0000" channel="La Red (CHI)">
-    <title lang="en">La rosa de Guadalupe</title>
-    <desc lang="en">Después de un parto complicado, la hija de una mujer vivirá un gran peligro.(n)</desc>
-    <date>2016</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20221231010000 +0000" stop="20221231030000 +0000" channel="La Red (CHI)">
     <title lang="en">El paso Donner</title>
     <desc lang="en">En 1846, un grupo de personas queda atrapado en la nieve y deben recurrir al canibalismo.(n)</desc>
@@ -38532,19 +38407,6 @@
   <programme start="20230102235500 +0000" stop="20230103014000 +0000" channel="TVN (CHI)">
     <title lang="en">24 Horas Central</title>
     <desc lang="en">Noticiero central, con despachos en directo y corresponsalías en todo el mundo.(n)</desc>
-  </programme>
-  <programme start="20221231000000 +0000" stop="20221231003000 +0000" channel="Canal Uno (COL)">
-    <title lang="en">Caso cerrado</title>
-    <desc lang="en">La Dra. Polo busca resolver de la manera más justa los casos que se le presentan.(n)</desc>
-    <date>2001</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221231003000 +0000" stop="20221231010000 +0000" channel="Canal Uno (COL)">
-    <title lang="en">Noticiero del Senado</title>
-    <desc lang="en">Periodistas que indagan y conocen las actividades de los congresistas en cada una de las Comisiones Constitucionales y en las Plenarias del Senado de Colombia.(n)</desc>
-    <date>2000</date>
   </programme>
   <programme start="20221231010000 +0000" stop="20221231030000 +0000" channel="Canal Uno (COL)">
     <title lang="en">Noticentro 1 CM &amp; Emisión central</title>
@@ -39440,11 +39302,6 @@
     <category lang="en">Local</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13155405_b_h10_ab.jpg" />
   </programme>
-  <programme start="20221231000000 +0000" stop="20221231010000 +0000" channel="RCN Novelas">
-    <title lang="en">El Último Matrimonio Feliz</title>
-    <desc lang="en">Seis parejas viven dificultades en sus matriminios.(n)</desc>
-    <date>2009</date>
-  </programme>
   <programme start="20221231010000 +0000" stop="20221231020000 +0000" channel="RCN Novelas">
     <title lang="en">Novia para Dos</title>
     <desc lang="en">Hermanos gemelos separados se reencuentran y sienten atracción por la misma mujer.(n)</desc>
@@ -40168,11 +40025,6 @@
     <category lang="en">Performing Arts</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8696311_i_h10_aa.jpg" />
   </programme>
-  <programme start="20221231000000 +0000" stop="20221231010000 +0000" channel="RCN Television">
-    <title lang="en">Noticias RCN</title>
-    <desc lang="en">Emisiones en directo con el mayor cubrimiento en los sucesos nacionales e internacionales.(n)</desc>
-    <date>1995</date>
-  </programme>
   <programme start="20221231010000 +0000" stop="20221231023000 +0000" channel="RCN Television">
     <title lang="en">Ecomoda</title>
     <desc lang="en">Los romances, las tragedias, los reencuentros y el poder, se afianzan en la empresa Ecomoda.(n)</desc>
@@ -40532,14 +40384,6 @@
   <programme start="20230101192300 +0000" stop="20230102060000 +0000" channel="Golden Edge">
     <title lang="en">Será anunciado</title>
     <date>2018</date>
-  </programme>
-  <programme start="20221231003000 +0000" stop="20221231012000 +0000" channel="UNIVERSAL TV">
-    <title lang="en">La ley y el orden: U.V.E.</title>
-    <desc lang="en">Los extraños detalles de la violación de una mujer ponen en desacuerdo a la SVU cuando Rollins y Carisi creen que su historia es inventada. Mientras tanto, Benson pasa a la ofensiva cuando se analiza su vida personal.(n)</desc>
-    <date>2017</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
   </programme>
   <programme start="20221231012000 +0000" stop="20221231021000 +0000" channel="UNIVERSAL TV">
     <title lang="en">La ley y el orden: U.V.E.</title>
@@ -41223,21 +41067,6 @@
     <date>2018</date>
     <rating system="MPAA">
       <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20221231000000 +0000" stop="20221231010000 +0000" channel="Kids Street">
-    <title lang="en">Age of Tanks</title>
-    <sub-title lang="en">Blitzkrieg</sub-title>
-    <desc lang="en">Documentary series about tanks featuring comments from those who have actually used them.(n)</desc>
-    <credits>
-      <director>Florian Dedio</director>
-      <director>Anna Kwak</director>
-    </credits>
-    <date>2017</date>
-    <category lang="en">Documentary</category>
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20221231010000 +0000" stop="20221231020000 +0000" channel="Kids Street">
@@ -42824,14 +42653,6 @@
     <title lang="en">Yakari</title>
     <sub-title lang="en">Dance of the Lynx</sub-title>
   </programme>
-  <programme start="20221231003000 +0000" stop="20221231013000 +0000" channel="Las Estrellas">
-    <title lang="en">Corona de lágrimas</title>
-    <desc lang="en">Una mujer sola inicia una nueva vida junto a sus tres hijos.(n)</desc>
-    <date>2012</date>
-    <rating system="MPAA">
-      <value>TV-Y7</value>
-    </rating>
-  </programme>
   <programme start="20221231013000 +0000" stop="20221231023000 +0000" channel="Las Estrellas">
     <title lang="en">La Rosa de Guadalupe</title>
     <desc lang="en">La Virgen de Guadalupe se ha convertido en estandarte de millones de mexicanos. Cada uno de sus milagros se traducen en historias, de amor, desamor, esperanza, lucha e intriga. Este espacio abordará temas como la prostitución, violencia intrafamiliar, drogadicción, entre otros.(n)</desc>
@@ -43546,11 +43367,6 @@
     <desc lang="en">Una mujer divorciada (Anya Benton) se despierta en el cuerpo de un perro chihuahua que participa en un programa de terapia canina en los hospitales.(n)</desc>
     <date>2010</date>
   </programme>
-  <programme start="20221231002000 +0000" stop="20221231013000 +0000" channel="BitMe">
-    <title lang="en">Yu Gi Oh!</title>
-    <desc lang="en">La más divertida serie de monstruos gigantes, magia poderosa y antiguas leyendas egipcias, que muestra las aventuras de Yugi y sus mejores amigos Joey, Tristan y Téa.(n)</desc>
-    <date>1998</date>
-  </programme>
   <programme start="20221231013000 +0000" stop="20221231022000 +0000" channel="BitMe">
     <title lang="en">My Hero Academia</title>
     <desc lang="en">Un niño amante de los superhéroes está decidido a entrar en la prestigiosa academia para héroes.A.(n)</desc>
@@ -43835,17 +43651,6 @@
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
-  </programme>
-  <programme start="20221231002800 +0000" stop="20221231005800 +0000" channel="Curiosity Stream">
-    <title lang="en">¿Cuánto vale mi auto?</title>
-    <sub-title lang="en">La energía de Detroit</sub-title>
-    <desc lang="en">Echemos una mirada a las centrales eléctricas de Detroit en su apogeo.(n)</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20221231005800 +0000" stop="20221231012800 +0000" channel="Curiosity Stream">
-    <title lang="en">¿Cuánto vale mi auto?</title>
-    <sub-title lang="en">Pace Car</sub-title>
-    <date>2022</date>
   </programme>
   <programme start="20221231012800 +0000" stop="20221231015800 +0000" channel="Curiosity Stream">
     <title lang="en">¿Cuánto vale mi auto?</title>
@@ -44405,30 +44210,6 @@
     <title lang="en">Hallazgos novedosos</title>
     <desc lang="en">Las ondas gravitacionales que están a tres mil millones de años luz han llegado a la Tierra - el último descubrimiento de una nueva rama de la astronomía nos podría dar un asiento en primera fila en el Big Bang.(n)</desc>
     <date>2021</date>
-  </programme>
-  <programme start="20221231000000 +0000" stop="20221231003000 +0000" channel="Dreamworks">
-    <title lang="en">Las épicas aventuras del Capitán Calzoncillos</title>
-    <desc lang="en">Los nanobots de Gustavo van a parar al Capitán Calzoncillos,.(n)</desc>
-    <date>2018</date>
-    <rating system="MPAA">
-      <value>TV-Y7</value>
-    </rating>
-  </programme>
-  <programme start="20221231003000 +0000" stop="20221231010000 +0000" channel="Dreamworks">
-    <title lang="en">Home: Adventures With Tip &amp; Oh</title>
-    <desc lang="en">Tip y Oh tienen ganas de hacerse de nuevos amigos y conocen a dos simpáticos buvianos. A pesar de sus prejuicios, terminan manteniendo una gran relación con ellos. Ahora, los cuatro juntos ingresan en una secreta cueva para jugar y divertirse como si se conociesen de toda la vida.(n)</desc>
-    <date>2018</date>
-    <rating system="MPAA">
-      <value>TV-Y7</value>
-    </rating>
-  </programme>
-  <programme start="20221231010000 +0000" stop="20221231013000 +0000" channel="Dreamworks">
-    <title lang="en">El amanecer de los Croods</title>
-    <desc lang="en">Eep no está de acuerdo con el castigo que le ha impuesto su padre, y es que Grug cree que los adolescentes no hacen más que protestar y ser imprudentes. Para Eep sin embargo, es una edad muy difícil, así que reta a su padre a que...(n)</desc>
-    <date>2016</date>
-    <rating system="MPAA">
-      <value>TV-Y7</value>
-    </rating>
   </programme>
   <programme start="20221231013000 +0000" stop="20221231020000 +0000" channel="Dreamworks">
     <title lang="en">Las aventuras del Gato con Botas</title>
@@ -45529,24 +45310,6 @@
       <value>TV-Y7</value>
     </rating>
   </programme>
-  <programme start="20221231000000 +0000" stop="20221231003000 +0000" channel="Hogar HGTV">
-    <title lang="en">Lo mejor que he comido</title>
-    <sub-title lang="en">Filetes de lujo</sub-title>
-    <desc lang="en">Jonathon Sawyer, Jernard Wells, Duff Goldman y más rinden homenaje a los mejores estilos,.(n)</desc>
-    <date>2019</date>
-  </programme>
-  <programme start="20221231003000 +0000" stop="20221231010000 +0000" channel="Hogar HGTV">
-    <title lang="en">Lo mejor que he comido</title>
-    <sub-title lang="en">El mejor postre</sub-title>
-    <desc lang="en">Martha Stewart, Simon Majumdar,.(n)</desc>
-    <date>2019</date>
-  </programme>
-  <programme start="20221231010000 +0000" stop="20221231013000 +0000" channel="Hogar HGTV">
-    <title lang="en">Cocinando con fuego</title>
-    <sub-title lang="en">Sabor ahumado</sub-title>
-    <desc lang="en">Roger Mooking comprueba las increíbles operaciones que producen algunas de las carnes más sabrosas del mercado. Visita un famoso sitio en Tennessee y un legendario sitio de mariscos en Chicago.(n)</desc>
-    <date>2022</date>
-  </programme>
   <programme start="20221231013000 +0000" stop="20221231020000 +0000" channel="Hogar HGTV">
     <title lang="en">Cocinando con fuego</title>
     <sub-title lang="en">Inventos increíbles</sub-title>
@@ -46620,14 +46383,6 @@
     <category lang="es">Show</category>
     <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/697879/1532587174/221230113950_1747bdbd78976abc627f13584a38ed6a357f7fa8_2212060450.jpg" />
   </programme>
-  <programme start="20221231000000 +0000" stop="20221231014000 +0000" channel="A3Cine!">
-    <title lang="en">El Club de los Suicidas</title>
-    <desc lang="en">Unas personas suicidas que se conocen en una terapia deciden formar un club secreto, en el que se ayudan a llevar a cabo sus planes.(n)</desc>
-    <date>2007</date>
-    <rating system="MPAA">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
   <programme start="20221231014000 +0000" stop="20221231032500 +0000" channel="A3Cine!">
     <title lang="en">El Rey del Río (new)</title>
     <desc lang="en">El relato de un joven hombre criado desde la infancia por sus tíos que engaña a sus familiares y a su hermano en particular. Antón: Alfredo Landa. Carmen: Carmen Maura. Ana: Ana Álvarez. César: Gustavo Salmerón. Fernando: Achero Mañas. Elena: Miriam Ubri. Elisa: Silvia Munt. Juan: Héctor Alterio. Corcones: Cesáreo Estébanez. Francis Lorenzo, Paco Casares. Manuel Gutiérrez Aragón dirigió.(n)</desc>
@@ -47049,7 +46804,7 @@
       <value>+12</value>
     </rating>
   </programme>
-  <programme start="20221231213000 +0000" stop="20230101021500 +0000" channel="A3Series HD!">
+  <programme start="20221231213000 +0000" stop="20221231221700 +0000" channel="A3Series HD!">
     <title lang="es">Chicago P.D</title>
     <desc lang="es">En el Distrito 21 del Departamento de Policía de Chicago conviven dos tipos de profesionales: los agentes uniformados y la Unidad de Inteligencia. Todos ellos deben enfrentarse a diario a crimen organizado, tráfico de drogas o asesinos en serie.'Spin-off' de la serie de bomberos 'Chicago Fire', una producción que narraba el complicado día a día de estos profesionales combatiendo incendios y otros peligros en Chicago. La serie derivada, anunciada en 2013 tras el éxito de la primera temporada de 'Chicago Fire', se centra en un cuerpo policial y traslada personajes de la serie primigenia a la nueva ficción. El elenco está encabezado por el veterano Jason Beghe ('La teniente O'Neil), Jon Seda ('Doce monos') y Sophia Bush ('One Tree Hill'), que dan vida a tres agentes miembros de la Unidad de Inteligencia.La serie, creada por Dick Wolf, un experto en series policiacas como 'Ley y orden: Unidad de víctimas especiales' o 'Los Ángeles: Distrito criminal' no es el único spin-off' de 'Chicago Fire'. De hecho, ya se ha anunciado 'Chicago Med', centrada en los retos que asumen médicos y enfermeros en un hospital.(n)</desc>
     <credits>
@@ -47068,21 +46823,166 @@
       <value>+16</value>
     </rating>
   </programme>
-  <programme start="20230101021500 +0000" stop="20230101033000 +0000" channel="A3Series HD!">
-    <title lang="es">Los hombres de Paco</title>
-    <desc lang="es">Paco Miranda es un inspector jefe de policía, de carácter bonachón e incapaz de enfrentarse a las situaciones de crisis, que trabaja junto a sus dos hombres de confianza: los agentes Mariano y Lucas. Los tres forman un equipo cuyo rasgo principal es la incompetencia y que debe enfrentarse cada día a los caprichos de Don Lorenzo, el comisario, que también es suegro de Paco.Producida por Globomedia para Antena 3, 'Los hombres de Paco' es una telecomedia que combina tramas policíacas y familiares, todo en un tono de comedia desenfadada y con buenas dosis de humor negro. La producción reúne a un plantel de habituales de la pequeña pantalla, como Pepón Nieto ('Periodistas'), Adriana Ozores ('Manolito Gafotas'), Neus Asensi ('Torrente') o Paco Tous ('Solas'), éste último en el papel protagonista.(n)</desc>
+  <programme start="20221231221700 +0000" stop="20221231230500 +0000" channel="A3Series HD!">
+    <title lang="es">Chicago P.D</title>
+    <sub-title lang="es">El Silo</sub-title>
+    <desc lang="es">Burgess conoce a su nueva compañera, Julie Tay, que acaba de regresar de trabajar en un caso muy complicado. Entre tanto, Crowley interroga a Lindsay para saber por qué Voight y ella estaban en la zona cuando los agentes perseguían al asesino de Justin.(n)</desc>
     <credits>
-      <actor>Paco Tous</actor>
+      <director>Derek Haas</director>
+      <director>Matt Olmstead</director>
+      <actor>Jason Beghe</actor>
+      <actor>Jon Seda</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Jesse Lee Soffer</actor>
+      <actor>Patrick John Flueger</actor>
+      <actor>Marina Squerciati</actor>
+      <actor>Elias Koteas</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Series policiacas extranjeras</category>
+    <icon src="https://cdn.sincroguia.tv/uploads/programs/c/h/i/chicago-pd-472439_SPA-94.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <episode-num system="onscreen">S4 E1</episode-num>
+    <rating system="ICAA">
+      <value>+16</value>
+    </rating>
+  </programme>
+  <programme start="20221231230500 +0000" stop="20221231235200 +0000" channel="A3Series HD!">
+    <title lang="es">Chicago P.D</title>
+    <sub-title lang="es">90% de humedad igual a 100% probabilidad de asesinato</sub-title>
+    <desc lang="es">La agencia de inteligencia investiga a un joven que fue golpeado y a su novia, que aparentemente fue secuestrada; Fogel encarga a Platt conseguir que Tay firme con el Distrito 21.(n)</desc>
+    <credits>
+      <director>Derek Haas</director>
+      <director>Matt Olmstead</director>
+      <actor>Jason Beghe</actor>
+      <actor>Jon Seda</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Jesse Lee Soffer</actor>
+      <actor>Patrick John Flueger</actor>
+      <actor>Marina Squerciati</actor>
+      <actor>Elias Koteas</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Series policiacas extranjeras</category>
+    <icon src="https://cdn.sincroguia.tv/uploads/programs/c/h/i/xchicago-pd-472439_SPA-94.jpg.pagespeed.ic.LvbAwpQNE2.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <episode-num system="onscreen">S4 E2</episode-num>
+    <rating system="ICAA">
+      <value>+16</value>
+    </rating>
+  </programme>
+  <programme start="20221231235200 +0000" stop="20230101004000 +0000" channel="A3Series HD!">
+    <title lang="es">Chicago P.D</title>
+    <sub-title lang="es">Viento en popa</sub-title>
+    <desc lang="es">Agreden físicamente a Platt mientras entraba en su auto, por lo que acude al hospital de Chicago, donde Mouch está teniendo problemas de autoridad. Mientras tanto, Antonio y el equipo investigan quién la agredió.(n)</desc>
+    <credits>
+      <director>Derek Haas</director>
+      <director>Matt Olmstead</director>
+      <actor>Jason Beghe</actor>
+      <actor>Jon Seda</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Jesse Lee Soffer</actor>
+      <actor>Patrick John Flueger</actor>
+      <actor>Marina Squerciati</actor>
+      <actor>Elias Koteas</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Series policiacas extranjeras</category>
+    <icon src="https://cdn.sincroguia.tv/uploads/programs/c/h/i/xchicago-pd-472439_SPA-94.jpg.pagespeed.ic.LvbAwpQNE2.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <episode-num system="onscreen">S4 E3</episode-num>
+    <rating system="ICAA">
+      <value>+16</value>
+    </rating>
+  </programme>
+  <programme start="20230101004000 +0000" stop="20230101012700 +0000" channel="A3Series HD!">
+    <title lang="es">Chicago P.D</title>
+    <sub-title lang="es">Grandes amigos, grandes enemigos</sub-title>
+    <desc lang="es">Lindsay y Ruzek se encuentran en un concierto cuando un coche arrolla a la multitud y se produce un tiroteo. Ante la sospecha de que pueda tratarse de un ataque terrorista, Voight solicita ayuda al FBI y a otras agencias de seguridad nacional.(n)</desc>
+    <credits>
+      <director>Derek Haas</director>
+      <director>Matt Olmstead</director>
+      <actor>Jason Beghe</actor>
+      <actor>Jon Seda</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Jesse Lee Soffer</actor>
+      <actor>Patrick John Flueger</actor>
+      <actor>Marina Squerciati</actor>
+      <actor>Elias Koteas</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Series policiacas extranjeras</category>
+    <icon src="https://cdn.sincroguia.tv/uploads/programs/c/h/i/xchicago-pd-472439_SPA-94.jpg.pagespeed.ic.LvbAwpQNE2.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <episode-num system="onscreen">S4 E4</episode-num>
+    <rating system="ICAA">
+      <value>+16</value>
+    </rating>
+  </programme>
+  <programme start="20230101012700 +0000" stop="20230101021500 +0000" channel="A3Series HD!">
+    <title lang="es">Chicago P.D</title>
+    <sub-title lang="es">Zona de guerra</sub-title>
+    <desc lang="es">Los responsables de Inteligencia reciben el encargo de detener a unos traficantes de fentanyl, una droga que ha provocado varias sobredosis en la ciudad. Mientras tanto, Tay y Burgess investigan el caso de un niño ensangrentado, que les confiesa un extraño secreto sobre la vida con sus padres.(n)</desc>
+    <credits>
+      <director>Derek Haas</director>
+      <director>Matt Olmstead</director>
+      <actor>Jason Beghe</actor>
+      <actor>Jon Seda</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Jesse Lee Soffer</actor>
+      <actor>Patrick John Flueger</actor>
+      <actor>Marina Squerciati</actor>
+      <actor>Elias Koteas</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Series policiacas extranjeras</category>
+    <icon src="https://cdn.sincroguia.tv/uploads/programs/c/h/i/xchicago-pd-472439_SPA-94.jpg.pagespeed.ic.LvbAwpQNE2.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <episode-num system="onscreen">S4 E5</episode-num>
+    <rating system="ICAA">
+      <value>+16</value>
+    </rating>
+  </programme>
+  <programme start="20230101021500 +0000" stop="20230101023500 +0000" channel="A3Series HD!">
+    <title lang="es">Los hombres de Paco</title>
+    <sub-title lang="es">El brillo del oropel</sub-title>
+    <desc lang="es">Paco salva la vida por casualidad a Polaina, un importante mafioso. La policía lleva siguiendo la pista del delincuente desde hace varios meses y Montoya cree que Paco ha estropeado el operativo. Sin embargo, un inspector especialista en el caso ve en Paco un topo ideal para acercarse a Polaina sin levantar sospechas, ya que el delincuente se siente en deuda con el policía.Lucas y Mariano encuentran una carpeta con el expediente de Polaino dónde hay incluidas fotografías del mafioso con Paco. Los dos agentes malinterpretan las imágenes y empiezan a sospechar de su amigo, creyendo que tiene una doble vida y que está inmiscuido en algún asunto oscuro, al lado de la delincuencia.Polaina intenta compensar a Paco por salvarle la vida y le regala un reloj muy bueno. Lola, Concha y Sara hacen cábalas y, como saben que Paco no se puede comprar un reloj de estas características, empiezan a creer que al policía le ha tocado la lotería, pero no ha dicho nada en casa para no tener que repartir el premio.(n)</desc>
+    <credits>
+      <actor>Pepón Nieto</actor>
       <actor>Juan Diego</actor>
       <actor>Adriana Ozores</actor>
-      <actor>Pepón Nieto</actor>
-      <actor>Hugo Silva</actor>
       <actor>Neus Asensi</actor>
+      <actor>Hugo Silva</actor>
+      <actor>Paco Tous</actor>
     </credits>
     <date>2005</date>
     <category lang="es">Series de comedia españolas</category>
     <icon src="https://cdn.sincroguia.tv/uploads/programs/l/o/s/xlos-hombres-de-paco-79995_SPA-63.jpg.pagespeed.ic.vZf15GOaVd.jpg" />
     <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="ICAA">
+      <value>+16</value>
+    </rating>
+  </programme>
+  <programme start="20230101023500 +0000" stop="20230101033000 +0000" channel="A3Series HD!">
+    <title lang="es">Los hombres de Paco</title>
+    <sub-title lang="es">Pleno al quince</sub-title>
+    <desc lang="es">Paco y sus hombres se encargan de escoltar a un árbitro de fútbol amenazado de muerte. Tras escuchar una conversación de su protegido, deducen que está planeando amañar el próximo partido. Al intentar desbaratar los sucios planes del colegiado, Paco, Lucas y Mariano acaban arbitrando el encuentro suplantando al árbitro y los jueces de línea reales. Javier Ares y Ruiz Taboada, cronistas deportivos del fin de semana en Onda Cero, entrevistarán a Paco, que se convertirá en protagonista de la jornada futbolística.Mientras tanto, Lola y Bernarda dicen a Montoya que, si quiere conquistar a Silvia, tiene que dejar esa imagen de hombre perfecto y que abandone esa actitud servil hacia Don Lorenzo. Convencido, el jefe de policía da un cambio radical a su imagen, se enfrenta con el comisario, y adopta una actitud de tipo duro que acaba por atraer a Silvia.Por otro lado, Rita está preocupada porque su padre viene a conocer a su novio y éste acaba de sufrir un implante de pechos en acto de servicio. Povedilla necesita bastante dinero para volver a operarse, por lo que será Curtis el que se haga pasar por él mientras en la comisaría se hace una colecta.(n)</desc>
+    <credits>
+      <actor>Pepón Nieto</actor>
+      <actor>Juan Diego</actor>
+      <actor>Adriana Ozores</actor>
+      <actor>Neus Asensi</actor>
+      <actor>Anna Maria Barbany</actor>
+      <actor>Nadia de Santiago</actor>
+      <actor>Hugo Silva</actor>
+      <actor>Paco Tous</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="es">Series de comedia españolas</category>
+    <icon src="https://cdn.sincroguia.tv/uploads/programs/l/o/s/xlos-hombres-de-paco-79995_SPA-63.jpg.pagespeed.ic.vZf15GOaVd.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2 E9</episode-num>
     <rating system="ICAA">
       <value>+16</value>
     </rating>
@@ -47121,7 +47021,7 @@
       <value>+7</value>
     </rating>
   </programme>
-  <programme start="20230101050000 +0000" stop="20230101053000 +0000" channel="A3Series HD!">
+  <programme start="20230101050000 +0000" stop="20230101054500 +0000" channel="A3Series HD!">
     <title lang="es">Más de series</title>
     <desc lang="es">Programa de producción propia que muestra curiosidades sobre las series de Atresmedia.(n)</desc>
     <date>2022</date>
@@ -47132,9 +47032,10 @@
       <value>+7</value>
     </rating>
   </programme>
-  <programme start="20230101053000 +0000" stop="20230101064600 +0000" channel="A3Series HD!">
+  <programme start="20230101054500 +0000" stop="20230101070500 +0000" channel="A3Series HD!">
     <title lang="es">Allí abajo</title>
-    <desc lang="es">Segunda temporada de la serie en la que Carmen e Iñaki, una andaluza y un vasco, se enamoran en unas circumstancias algo complicadas. Tras superar bastantes obstáculos, la joven viaja al norte para conocer las costumbres y las amistades de su chico. Lo mejor llegará cuando las vecinas y el padre de Carmen desembarquen en Euskadi para protegerla.La gran incorporación para los nuevos episodios es la del actor Pepe Oliva ('Los lunes al sol'), quien dará vida al padre de la andaluza, que no aceptará de ninguna manera la relación de su hija con Iñaki.Comedia producida por Plano a Plano ('El Príncipe') que cuenta una historia de amor entre una sevillana y un bilbaíno en clave de humor. María León ('Carmina o revienta') y Jon Plazaola, que interpreta su primer papel como actor, dan vida a los protagonistas de esta producción basada en las diferentes maneras de ver la vida de los españoles según su procedencia.(n)</desc>
+    <sub-title lang="es">Dos vascos y un biberón</sub-title>
+    <desc lang="es">Iñaki y Carmen siguen sin hablarse tras el desliz del cocinero con Gotzone. Por su parte, Horacio no tira la toalla, y los problemas del matrimonio de Carmen hacen que gane terreno a pasos agigantados, la pareja parece no encontrar la manera de acercar posturas.Gotzone también sufre en silencio, lo que parecía una locura de una noche ha dejado huella en la joven, y este enamoramiento tendrá repercusiones para todos. Además, la cuadrilla trata de animar a Iñaki con un torneo de pelota vasca, pero él no está por la labor y deben buscar otro jugador a última hora. Mientras, en el sur, la boda de Trini y Cristóbal se convierte en todo un acontecimiento en la clínica, y el enlace afecta a todos los trabajadores de la Híspalis.(n)</desc>
     <credits>
       <director>Ignacio Mercero</director>
       <actor>María León</actor>
@@ -47146,17 +47047,19 @@
       <actor>José María del Castillo</actor>
       <actor>Alazne Etxeberria</actor>
     </credits>
-    <date>2016</date>
+    <date>2017</date>
     <category lang="es">Series de comedia españolas</category>
     <icon src="https://cdn.sincroguia.tv/uploads/programs/a/l/l/xalli-abajo-475630_SPA-26.jpg.pagespeed.ic.Y0e3PL4XbJ.jpg" />
     <country lang="es">España</country>
+    <episode-num system="onscreen">S3 E14</episode-num>
     <rating system="ICAA">
       <value>+7</value>
     </rating>
   </programme>
-  <programme start="20230101064600 +0000" stop="20230101080300 +0000" channel="A3Series HD!">
+  <programme start="20230101070500 +0000" stop="20230101082500 +0000" channel="A3Series HD!">
     <title lang="es">Allí abajo</title>
-    <desc lang="es">Segunda temporada de la serie en la que Carmen e Iñaki, una andaluza y un vasco, se enamoran en unas circumstancias algo complicadas. Tras superar bastantes obstáculos, la joven viaja al norte para conocer las costumbres y las amistades de su chico. Lo mejor llegará cuando las vecinas y el padre de Carmen desembarquen en Euskadi para protegerla.La gran incorporación para los nuevos episodios es la del actor Pepe Oliva ('Los lunes al sol'), quien dará vida al padre de la andaluza, que no aceptará de ninguna manera la relación de su hija con Iñaki.Comedia producida por Plano a Plano ('El Príncipe') que cuenta una historia de amor entre una sevillana y un bilbaíno en clave de humor. María León ('Carmina o revienta') y Jon Plazaola, que interpreta su primer papel como actor, dan vida a los protagonistas de esta producción basada en las diferentes maneras de ver la vida de los españoles según su procedencia.(n)</desc>
+    <sub-title lang="es">Dos hombres y un embarazo</sub-title>
+    <desc lang="es">Iñaki y Horacio hacen lo posible por conquistar a Carmen, y ella se acaba dando cuenta, por lo que les pide que la dejen en paz. Cuando recibe la llamada avisando de que su padre está hospitalizado, la sevillana tiene que bajar a toda prisa al sur.La cuadrilla prepara a Jozé un día típicamente vasco como despedida, y es el primero que el enfermero disfruta de verdad en Euskadi. Después de la sorpresa, incluso se plantea quedarse una temporada más allí. Por su parte, las vecinas ingresan en la clínica por una intoxicación alimentaria y descubren lo bien que se vive allí. Además, las enfermeras celebran la despedida de soltera de Trini y descubren que el estríper que han contratado es Juan, que intenta ganar un dinero extra.(n)</desc>
     <credits>
       <director>Ignacio Mercero</director>
       <actor>María León</actor>
@@ -47168,17 +47071,19 @@
       <actor>José María del Castillo</actor>
       <actor>Alazne Etxeberria</actor>
     </credits>
-    <date>2016</date>
+    <date>2017</date>
     <category lang="es">Series de comedia españolas</category>
     <icon src="https://cdn.sincroguia.tv/uploads/programs/a/l/l/xalli-abajo-475630_SPA-26.jpg.pagespeed.ic.Y0e3PL4XbJ.jpg" />
     <country lang="es">España</country>
+    <episode-num system="onscreen">S3 E15</episode-num>
     <rating system="ICAA">
       <value>+7</value>
     </rating>
   </programme>
-  <programme start="20230101080300 +0000" stop="20230101092000 +0000" channel="A3Series HD!">
+  <programme start="20230101082500 +0000" stop="20230101094500 +0000" channel="A3Series HD!">
     <title lang="es">Allí abajo</title>
-    <desc lang="es">Segunda temporada de la serie en la que Carmen e Iñaki, una andaluza y un vasco, se enamoran en unas circumstancias algo complicadas. Tras superar bastantes obstáculos, la joven viaja al norte para conocer las costumbres y las amistades de su chico. Lo mejor llegará cuando las vecinas y el padre de Carmen desembarquen en Euskadi para protegerla.La gran incorporación para los nuevos episodios es la del actor Pepe Oliva ('Los lunes al sol'), quien dará vida al padre de la andaluza, que no aceptará de ninguna manera la relación de su hija con Iñaki.Comedia producida por Plano a Plano ('El Príncipe') que cuenta una historia de amor entre una sevillana y un bilbaíno en clave de humor. María León ('Carmina o revienta') y Jon Plazaola, que interpreta su primer papel como actor, dan vida a los protagonistas de esta producción basada en las diferentes maneras de ver la vida de los españoles según su procedencia.(n)</desc>
+    <sub-title lang="es">Dos viajeros, un parto y ninguna boda</sub-title>
+    <desc lang="es">Carmen llega a Sevilla para ver a su padre en el último episodio de la temporada, pero ha roto aguas de forma inesperada. Iñaki y Horacio salen corriendo hacia el sur al enterarse del inminente alumbramiento, pero la rivalidad entre ellos convierte el viaje en avión en una odisea.Por su parte, la cuadrilla viaja a Sevilla junto a Bego con motivo del nacimiento. Aunque, una vez en el hospital, a causa de una confusión se llevan al bebé de otra madre, con el peligro de ser acusados de secuestro.Además, Cristóbal y Trini van a casarse por fin en la catedral, pero el enlace no estará libre de sorpresas: Trini huye del altar. Cristóbal, con el corazón roto, intenta recuperarse del impacto.(n)</desc>
     <credits>
       <director>Ignacio Mercero</director>
       <actor>María León</actor>
@@ -47190,57 +47095,18 @@
       <actor>José María del Castillo</actor>
       <actor>Alazne Etxeberria</actor>
     </credits>
-    <date>2016</date>
+    <date>2017</date>
     <category lang="es">Series de comedia españolas</category>
     <icon src="https://cdn.sincroguia.tv/uploads/programs/a/l/l/xalli-abajo-475630_SPA-26.jpg.pagespeed.ic.Y0e3PL4XbJ.jpg" />
     <country lang="es">España</country>
+    <episode-num system="onscreen">S3 E16</episode-num>
     <rating system="ICAA">
       <value>+7</value>
     </rating>
   </programme>
-  <programme start="20230101092000 +0000" stop="20230101102700 +0000" channel="A3Series HD!">
+  <programme start="20230101094500 +0000" stop="20230101105000 +0000" channel="A3Series HD!">
     <title lang="es">Crimen en el paraíso</title>
-    <desc lang="es">El Inspector Humphrey Goodman es un detective británico algo patoso pero muy astuto que resuelve misterios gracias a su especial intuición. En el entorno paradisíaco de la isla caribeña de Saint Marie, donde trabaja, Goodman deberá resolver los casos más sorprendentes junto a su equipo. En esta cuarta temporada, Goodman se planteará declararse a su colega de trabajo Camille Bordey. Y es que a pesar de estar enamorado de su compañera, el inspector mantiene en secreto sus sentimientos, aunque todo el mundo es consciente de los mismos excepto la propia Camile. Por su parte el oficial Dwayne Myers intentará mantener al equipo unido tras la marcha del Sargento Fidel Best, que ha encontrado trabajo en una isla cercana.Rodada en el archipiélago de Guadalupe, un auténtico paraje caribeño, 'Crimen en el paraíso' mantiene la fórmula que combina la sobriedad inglesa del inspector Goodman con unos impactantes paisajes de playa, sol y palmeras.(n)</desc>
-    <credits>
-      <director>Robert Thorogood</director>
-      <actor>Kris Marshall</actor>
-      <actor>Sara Martins</actor>
-      <actor>Danny John-Jules</actor>
-      <actor>Joséphine Jobert</actor>
-      <actor>Elizabeth Bourgine</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="es">Series policiacas extranjeras</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/c/r/i/xcrimen-en-el-paraiso-339528_SPA-57.jpg.pagespeed.ic.dQKbsPCuse.jpg" />
-    <country lang="es">Reino Unido</country>
-    <country lang="es">Francia</country>
-    <rating system="ICAA">
-      <value>+7</value>
-    </rating>
-  </programme>
-  <programme start="20230101102700 +0000" stop="20230101113500 +0000" channel="A3Series HD!">
-    <title lang="es">Crimen en el paraíso</title>
-    <desc lang="es">El Inspector Humphrey Goodman es un detective británico algo patoso pero muy astuto que resuelve misterios gracias a su especial intuición. En el entorno paradisíaco de la isla caribeña de Saint Marie, donde trabaja, Goodman deberá resolver los casos más sorprendentes junto a su equipo. En esta cuarta temporada, Goodman se planteará declararse a su colega de trabajo Camille Bordey. Y es que a pesar de estar enamorado de su compañera, el inspector mantiene en secreto sus sentimientos, aunque todo el mundo es consciente de los mismos excepto la propia Camile. Por su parte el oficial Dwayne Myers intentará mantener al equipo unido tras la marcha del Sargento Fidel Best, que ha encontrado trabajo en una isla cercana.Rodada en el archipiélago de Guadalupe, un auténtico paraje caribeño, 'Crimen en el paraíso' mantiene la fórmula que combina la sobriedad inglesa del inspector Goodman con unos impactantes paisajes de playa, sol y palmeras.(n)</desc>
-    <credits>
-      <director>Robert Thorogood</director>
-      <actor>Kris Marshall</actor>
-      <actor>Sara Martins</actor>
-      <actor>Danny John-Jules</actor>
-      <actor>Joséphine Jobert</actor>
-      <actor>Elizabeth Bourgine</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="es">Series policiacas extranjeras</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/c/r/i/xcrimen-en-el-paraiso-339528_SPA-57.jpg.pagespeed.ic.dQKbsPCuse.jpg" />
-    <country lang="es">Reino Unido</country>
-    <country lang="es">Francia</country>
-    <rating system="ICAA">
-      <value>+7</value>
-    </rating>
-  </programme>
-  <programme start="20230101113500 +0000" stop="20230101124300 +0000" channel="A3Series HD!">
-    <title lang="es">Crimen en el paraíso</title>
-    <desc lang="es">Richard Poole, un policía británico huraño y con poca predisposición hacia su sentido del humor, es enviado a la isla caribeña de Saint-Marie para investigar el asesinato de su predecesor. Una vez resuelto el caso, se topa con una inesperada y no deseada sorpresa: es el nuevo inspector jefe de la policía local.En su primer trabajo mostrado al gran público, Robert Thorogood, creador de la serie, ha depositado su confianza para el papel protagonista en Ben Miller ('Johnny English', 'El príncipe y yo'). El mundo de la televisión no es nuevo para este actor londinense que en los últimos años ha sido un habitual en seriales británicos como 'Invasión Jurásica' o 'Moving Wallpaper'. Junto a él, destaca el papel de su nueva brillante compañera Camile Bordey, a quien da vida Sara Martins ('Pequeñas mentiras sin importancia').Rodada en la caribeña isla de Guadalupe, 'Crimen en el paraíso' combina la sobriedad inglesa del inspector Poole con unos impactantes paisajes de playa, sol y palmeras que invitan a llevar a cabo su visionado en pleno verano.(n)</desc>
+    <desc lang="es">El equipo tiene mucho trabajo por delante en esta dramática segunda parte. Neville debe resolver un misterio del pasado que desvela la verdad sobre quién asesinó al concertista y por qué. Sin embargo, la ayuda está a la vuelta de la esquina.(n)</desc>
     <credits>
       <director>Robert Thorogood</director>
       <actor>Ben Miller</actor>
@@ -47251,16 +47117,17 @@
     </credits>
     <date>2021</date>
     <category lang="es">Series policiacas extranjeras</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/c/r/i/xcrimen-en-el-paraiso-1047798_SPA-48.jpg.pagespeed.ic.q7Go1dhxpr.jpg" />
+    <icon src="https://cdn.sincroguia.tv/uploads/programs/c/r/i/xcrimen-en-el-paraiso-902251_SPA-42.jpg.pagespeed.ic.bpjgnXWSDa.jpg" />
     <country lang="es">Reino Unido</country>
     <country lang="es">Francia</country>
+    <episode-num system="onscreen">S10 E6</episode-num>
     <rating system="ICAA">
       <value>+7</value>
     </rating>
   </programme>
-  <programme start="20230101124300 +0000" stop="20230101135100 +0000" channel="A3Series HD!">
+  <programme start="20230101105000 +0000" stop="20230101115600 +0000" channel="A3Series HD!">
     <title lang="es">Crimen en el paraíso</title>
-    <desc lang="es">Richard Poole, un policía británico huraño y con poca predisposición hacia su sentido del humor, es enviado a la isla caribeña de Saint-Marie para investigar el asesinato de su predecesor. Una vez resuelto el caso, se topa con una inesperada y no deseada sorpresa: es el nuevo inspector jefe de la policía local.En su primer trabajo mostrado al gran público, Robert Thorogood, creador de la serie, ha depositado su confianza para el papel protagonista en Ben Miller ('Johnny English', 'El príncipe y yo'). El mundo de la televisión no es nuevo para este actor londinense que en los últimos años ha sido un habitual en seriales británicos como 'Invasión Jurásica' o 'Moving Wallpaper'. Junto a él, destaca el papel de su nueva brillante compañera Camile Bordey, a quien da vida Sara Martins ('Pequeñas mentiras sin importancia').Rodada en la caribeña isla de Guadalupe, 'Crimen en el paraíso' combina la sobriedad inglesa del inspector Poole con unos impactantes paisajes de playa, sol y palmeras que invitan a llevar a cabo su visionado en pleno verano.(n)</desc>
+    <desc lang="es">Una despedida de soltero se tuerce cuando el anfitrión aparece arponeado en la playa a la mañana siguiente. Pero si su barco nunca se movió, ¿cómo pudo hacerlo alguno de los amigos?(n)</desc>
     <credits>
       <director>Robert Thorogood</director>
       <actor>Ben Miller</actor>
@@ -47271,147 +47138,200 @@
     </credits>
     <date>2021</date>
     <category lang="es">Series policiacas extranjeras</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/c/r/i/xcrimen-en-el-paraiso-1047798_SPA-48.jpg.pagespeed.ic.q7Go1dhxpr.jpg" />
+    <icon src="https://cdn.sincroguia.tv/uploads/programs/c/r/i/xcrimen-en-el-paraiso-902251_SPA-42.jpg.pagespeed.ic.bpjgnXWSDa.jpg" />
     <country lang="es">Reino Unido</country>
     <country lang="es">Francia</country>
+    <episode-num system="onscreen">S10 E7</episode-num>
     <rating system="ICAA">
       <value>+7</value>
     </rating>
   </programme>
-  <programme start="20230101135100 +0000" stop="20230101145900 +0000" channel="A3Series HD!">
+  <programme start="20230101115600 +0000" stop="20230101130200 +0000" channel="A3Series HD!">
     <title lang="es">Crimen en el paraíso</title>
-    <desc lang="es">El Inspector Humphrey Goodman es un detective británico algo patoso pero muy astuto que resuelve misterios gracias a su especial intuición. En el entorno paradisíaco de la isla caribeña de Saint Marie, donde trabaja, Goodman deberá resolver los casos más sorprendentes junto a su equipo. En esta cuarta temporada, Goodman se planteará declararse a su colega de trabajo Camille Bordey. Y es que a pesar de estar enamorado de su compañera, el inspector mantiene en secreto sus sentimientos, aunque todo el mundo es consciente de los mismos excepto la propia Camile. Por su parte el oficial Dwayne Myers intentará mantener al equipo unido tras la marcha del Sargento Fidel Best, que ha encontrado trabajo en una isla cercana.Rodada en el archipiélago de Guadalupe, un auténtico paraje caribeño, 'Crimen en el paraíso' mantiene la fórmula que combina la sobriedad inglesa del inspector Goodman con unos impactantes paisajes de playa, sol y palmeras.(n)</desc>
+    <desc lang="es">El equipo se introduce en el mundo de los torneos de póquer internacionales cuando Bobby Rodrigues, el favorito para ganar la competición, es envenenado a mitad de un partido.Todos los jugadores ocupan sus asientos durante la competición y a ningún otro individuo se le permite el acceso al escenario durante el torneo, por lo tanto, la sospecha cae sobre cada uno de los jugadores. Sin embargo, ¿cómo pudieron cometer el asesinato ante la mirada de los espectadores?Novato en el póker, Jack pide ayuda a Dwayne, que está más que feliz de entrar en el juego,cuando Florence se enferma. Con cada sospechoso manejando hábilmente el arte de engaño, ¿cómo puede Jack obligarles a revelar su juego? Mientras tanto, Florence lucha por obtener la baja del médico para ayudar en el caso y Dwayne descubre algo interesante revisando las pertenencias de un sospechoso.(n)</desc>
     <credits>
       <director>Robert Thorogood</director>
-      <actor>Kris Marshall</actor>
-      <actor>Sara Martins</actor>
-      <actor>Danny John-Jules</actor>
-      <actor>Joséphine Jobert</actor>
       <actor>Elizabeth Bourgine</actor>
+      <actor>Ardal O'Hanlon</actor>
+      <actor>Danny John-Jules</actor>
+      <actor>Joséphine Jobert</actor>
+      <actor>Tobi Bakare</actor>
     </credits>
-    <date>2015</date>
+    <date>2018</date>
     <category lang="es">Series policiacas extranjeras</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/c/r/i/xcrimen-en-el-paraiso-339528_SPA-57.jpg.pagespeed.ic.dQKbsPCuse.jpg" />
+    <icon src="https://cdn.sincroguia.tv/uploads/programs/c/r/i/xcrimen-en-el-paraiso-602544_SPA-91.jpg.pagespeed.ic._ZDtBx9Ieq.jpg" />
     <country lang="es">Reino Unido</country>
     <country lang="es">Francia</country>
+    <episode-num system="onscreen">S7 E2</episode-num>
     <rating system="ICAA">
       <value>+7</value>
     </rating>
   </programme>
-  <programme start="20230101145900 +0000" stop="20230101160700 +0000" channel="A3Series HD!">
+  <programme start="20230101130200 +0000" stop="20230101140700 +0000" channel="A3Series HD!">
     <title lang="es">Crimen en el paraíso</title>
-    <desc lang="es">Quinta temporada de esta serie protagonizada por el Inspector Humphrey Goodman, un detective británico algo patoso pero muy astuto que resuelve misterios en la isla de Saint Marie gracias a su especial intuición.En esta temporada, el inspector Humphrey Goodman está finalmente asentado en la isla de Saint Marie, pero no puede evitar pensar que le falta algo en la vida. Cuando decide comprar un bote como respuesta a sus problemas, su compañero Dwayne acierta con el diagnóstico de su crisis de mediana edad: la raíz de su problema es la falta de amor en su vida.Seguro de que hay una fórmula para encontrar el amor, Humphrey solicita la ayuda de Florence únicamente para descubrir las complejidades de las citas, más difíciles que cualquier misterio que haya tratado de resolver.En los nuevos capítulos la atención se centra en resolver los casos más complicados ahora que el equipo de investigadores se ha renovado con la incorporación de Florence y JP Hooper. La serie se vuelve un poco más oscura e incluye más elementos del género, aunque por descontado la diversión y el muy particular carácter del detective protagonista serán aspectos muy importantes en el desarrollo de las tramas.(n)</desc>
+    <desc lang="es">Cuando el famoso autor de thriller Frank O'Toole es encontrado muerto apuñalado en pleno corazón en medio del océano, Jack y su equipo descubren un plan de asesinato digno de una de sus novelas.(n)</desc>
     <credits>
       <director>Robert Thorogood</director>
+      <actor>Elizabeth Bourgine</actor>
+      <actor>Ardal O'Hanlon</actor>
       <actor>Danny John-Jules</actor>
       <actor>Joséphine Jobert</actor>
-      <actor>Kris Marshall</actor>
+      <actor>Tobi Bakare</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Series policiacas extranjeras</category>
+    <icon src="https://cdn.sincroguia.tv/uploads/programs/c/r/i/xcrimen-en-el-paraiso-602544_SPA-91.jpg.pagespeed.ic._ZDtBx9Ieq.jpg" />
+    <country lang="es">Reino Unido</country>
+    <country lang="es">Francia</country>
+    <episode-num system="onscreen">S7 E3</episode-num>
+    <rating system="ICAA">
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20230101140700 +0000" stop="20230101151300 +0000" channel="A3Series HD!">
+    <title lang="es">Crimen en el paraíso</title>
+    <desc lang="es">Cuando el guitarrista de una popular banda de reggae es asesinado, Jack y su equipo deben resolver un caso muy duro que ha perseguido al Comisionado durante años.(n)</desc>
+    <credits>
+      <director>Robert Thorogood</director>
+      <actor>Ardal O'Hanlon</actor>
+      <actor>Danny John-Jules</actor>
+      <actor>Joséphine Jobert</actor>
       <actor>Tobi Bakare</actor>
       <actor>Elizabeth Bourgine</actor>
     </credits>
-    <date>2016</date>
+    <date>2018</date>
     <category lang="es">Series policiacas extranjeras</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/c/r/i/xcrimen-en-el-paraiso-408906_SPA-92.jpg.pagespeed.ic.5VnKB1gD3r.jpg" />
+    <icon src="https://cdn.sincroguia.tv/uploads/programs/c/r/i/xcrimen-en-el-paraiso-602544_SPA-91.jpg.pagespeed.ic._ZDtBx9Ieq.jpg" />
     <country lang="es">Reino Unido</country>
     <country lang="es">Francia</country>
+    <episode-num system="onscreen">S7 E8</episode-num>
     <rating system="ICAA">
       <value>+7</value>
     </rating>
   </programme>
-  <programme start="20230101160700 +0000" stop="20230101171500 +0000" channel="A3Series HD!">
+  <programme start="20230101151300 +0000" stop="20230101161900 +0000" channel="A3Series HD!">
     <title lang="es">Crimen en el paraíso</title>
-    <desc lang="es">Quinta temporada de esta serie protagonizada por el Inspector Humphrey Goodman, un detective británico algo patoso pero muy astuto que resuelve misterios en la isla de Saint Marie gracias a su especial intuición.En esta temporada, el inspector Humphrey Goodman está finalmente asentado en la isla de Saint Marie, pero no puede evitar pensar que le falta algo en la vida. Cuando decide comprar un bote como respuesta a sus problemas, su compañero Dwayne acierta con el diagnóstico de su crisis de mediana edad: la raíz de su problema es la falta de amor en su vida.Seguro de que hay una fórmula para encontrar el amor, Humphrey solicita la ayuda de Florence únicamente para descubrir las complejidades de las citas, más difíciles que cualquier misterio que haya tratado de resolver.En los nuevos capítulos la atención se centra en resolver los casos más complicados ahora que el equipo de investigadores se ha renovado con la incorporación de Florence y JP Hooper. La serie se vuelve un poco más oscura e incluye más elementos del género, aunque por descontado la diversión y el muy particular carácter del detective protagonista serán aspectos muy importantes en el desarrollo de las tramas.(n)</desc>
+    <desc lang="es">Cuando un pasajero es apuñalado en el bus a Honore, Jack y su equipo que quedan perplejos. Nadie se ha levantado de su sitio, así que ¿cómo ha podido ser posible el asesinato?(n)</desc>
     <credits>
       <director>Robert Thorogood</director>
-      <actor>Danny John-Jules</actor>
+      <actor>Ardal O'Hanlon</actor>
       <actor>Joséphine Jobert</actor>
-      <actor>Kris Marshall</actor>
       <actor>Tobi Bakare</actor>
       <actor>Elizabeth Bourgine</actor>
     </credits>
-    <date>2016</date>
+    <date>2019</date>
     <category lang="es">Series policiacas extranjeras</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/c/r/i/xcrimen-en-el-paraiso-408906_SPA-92.jpg.pagespeed.ic.5VnKB1gD3r.jpg" />
+    <icon src="https://cdn.sincroguia.tv/uploads/programs/c/r/i/crimen-en-el-paraiso-710117_SPA-82.jpg" />
     <country lang="es">Reino Unido</country>
     <country lang="es">Francia</country>
+    <episode-num system="onscreen">S8 E1</episode-num>
     <rating system="ICAA">
       <value>+7</value>
     </rating>
   </programme>
-  <programme start="20230101171500 +0000" stop="20230101181800 +0000" channel="A3Series HD!">
+  <programme start="20230101161900 +0000" stop="20230101172500 +0000" channel="A3Series HD!">
+    <title lang="es">Crimen en el paraíso</title>
+    <desc lang="es">El detective Jack Mooney y su equipo entran en un nido de avispas cuando el dueño del zoo, Xander Sherphers, es envenenado con un dardo tranquilizante en mitad del recinto.(n)</desc>
+    <credits>
+      <director>Robert Thorogood</director>
+      <actor>Ardal O'Hanlon</actor>
+      <actor>Joséphine Jobert</actor>
+      <actor>Tobi Bakare</actor>
+      <actor>Elizabeth Bourgine</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Series policiacas extranjeras</category>
+    <icon src="https://cdn.sincroguia.tv/uploads/programs/c/r/i/xcrimen-en-el-paraiso-710117_SPA-82.jpg.pagespeed.ic.xaknCdtWbX.jpg" />
+    <country lang="es">Reino Unido</country>
+    <country lang="es">Francia</country>
+    <episode-num system="onscreen">S8 E2</episode-num>
+    <rating system="ICAA">
+      <value>+7</value>
+    </rating>
+  </programme>
+  <programme start="20230101172500 +0000" stop="20230101182600 +0000" channel="A3Series HD!">
     <title lang="es">Tandem</title>
-    <desc lang="es">La comandante Léa Soler asume el cargo de jefa de la división de investigaciones de Montpellier, lo que significa trabajar con Paul Marchal, que es brillante pero totalmente incontrolable. Se conocen demasiado, están divorciados y son padres de dos adolescentes.Quinta temporada de esta serie de televisión policíaca con toques de humor de producción francesa. Unas semanas después de que Léa se cruzara con Inés en bata en casa de Paul, cuando estaba a punto de proponerle ir a Grecia con su familia, Léa vuelve de unas vacaciones llena de buenos propósitos: alegrarse por Paul que, gracias a Inés, va a seguir por fin con su vida, y alegrarse por ella misma que va a retomar también su vida. Pero Léa se dará cuenta de que entre los buenos propósitos y su aplicación hay un trecho. El rodaje de 'Tandem' se realizó en la soleada región de Occitania y la trama transcurre en los alrededores de Montpellier con sus increíbles paisajes mediterráneos.(n)</desc>
+    <sub-title lang="es">Vuelta a la pista</sub-title>
+    <desc lang="es">Un director de circo, que pasa por un pequeño pueblo, es encontrado muerto en el centro histórico. Las sospechas se dirigen primero a la familia con la que él podría estar en conflicto. Pero los policías descubrirán que el más joven de esta familia circasiana había muerto en el mismo pueblo 10 años antes. La brigada intentará vincular a los muertos del pasado con el asesinato de hoy.(n)</desc>
     <credits>
       <director>Jérémie Marcus</director>
       <actor>Astrid Veillon</actor>
       <actor>Stéphane Blancafort</actor>
       <actor>Piérick Tournier</actor>
-      <actor>Titouan Laporte</actor>
+      <actor>Nelly Lawson</actor>
     </credits>
-    <date>2021</date>
+    <date>2016</date>
     <category lang="es">Series policiacas extranjeras</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/t/a/n/xtandem-884044_SPA-64.jpg.pagespeed.ic.00WVBoN-cN.jpg" />
+    <icon src="https://cdn.sincroguia.tv/uploads/programs/t/a/n/xtandem-574382_SPA-27.jpg.pagespeed.ic.E9lesjIajm.jpg" />
     <country lang="es">Francia</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
     <rating system="ICAA">
       <value>+12</value>
     </rating>
   </programme>
-  <programme start="20230101181800 +0000" stop="20230101192200 +0000" channel="A3Series HD!">
+  <programme start="20230101182600 +0000" stop="20230101192700 +0000" channel="A3Series HD!">
     <title lang="es">Tandem</title>
-    <desc lang="es">La comandante Léa Soler asume el cargo de jefa de la división de investigaciones de Montpellier, lo que significa trabajar con Paul Marchal, que es brillante pero totalmente incontrolable. Se conocen demasiado, están divorciados y son padres de dos adolescentes.Quinta temporada de esta serie de televisión policíaca con toques de humor de producción francesa. Unas semanas después de que Léa se cruzara con Inés en bata en casa de Paul, cuando estaba a punto de proponerle ir a Grecia con su familia, Léa vuelve de unas vacaciones llena de buenos propósitos: alegrarse por Paul que, gracias a Inés, va a seguir por fin con su vida, y alegrarse por ella misma que va a retomar también su vida. Pero Léa se dará cuenta de que entre los buenos propósitos y su aplicación hay un trecho. El rodaje de 'Tandem' se realizó en la soleada región de Occitania y la trama transcurre en los alrededores de Montpellier con sus increíbles paisajes mediterráneos.(n)</desc>
+    <sub-title lang="es">La estrella inaccesible</sub-title>
+    <desc lang="es">Un hombre, astrónomo aficionado, resulta asesinado en su lugar de trabajo. Este hombre no tiene historia, nuestros investigadores siguen el rastro de dos jóvenes delincuentes que estuvieron en la escena del crimen esa mañana. Pero una inmersión en el universo de la astronomía mostrará que la realidad es mucho más oscura.(n)</desc>
     <credits>
       <director>Jérémie Marcus</director>
       <actor>Astrid Veillon</actor>
       <actor>Stéphane Blancafort</actor>
       <actor>Piérick Tournier</actor>
-      <actor>Titouan Laporte</actor>
+      <actor>Nelly Lawson</actor>
     </credits>
-    <date>2021</date>
+    <date>2016</date>
     <category lang="es">Series policiacas extranjeras</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/t/a/n/xtandem-884044_SPA-64.jpg.pagespeed.ic.00WVBoN-cN.jpg" />
+    <icon src="https://cdn.sincroguia.tv/uploads/programs/t/a/n/xtandem-574382_SPA-27.jpg.pagespeed.ic.E9lesjIajm.jpg" />
     <country lang="es">Francia</country>
+    <episode-num system="onscreen">S1 E7</episode-num>
     <rating system="ICAA">
       <value>+12</value>
     </rating>
   </programme>
-  <programme start="20230101192200 +0000" stop="20230101202600 +0000" channel="A3Series HD!">
+  <programme start="20230101192700 +0000" stop="20230101202800 +0000" channel="A3Series HD!">
     <title lang="es">Tandem</title>
-    <desc lang="es">La comandante Léa Soler asume el cargo de jefa de la división de investigaciones de Montpellier, lo que significa trabajar con Paul Marchal, que es brillante pero totalmente incontrolable. Se conocen demasiado, están divorciados y son padres de dos adolescentes.Quinta temporada de esta serie de televisión policíaca con toques de humor de producción francesa. Unas semanas después de que Léa se cruzara con Inés en bata en casa de Paul, cuando estaba a punto de proponerle ir a Grecia con su familia, Léa vuelve de unas vacaciones llena de buenos propósitos: alegrarse por Paul que, gracias a Inés, va a seguir por fin con su vida, y alegrarse por ella misma que va a retomar también su vida. Pero Léa se dará cuenta de que entre los buenos propósitos y su aplicación hay un trecho. El rodaje de 'Tandem' se realizó en la soleada región de Occitania y la trama transcurre en los alrededores de Montpellier con sus increíbles paisajes mediterráneos.(n)</desc>
+    <sub-title lang="es">Convicciones</sub-title>
+    <desc lang="es">Un hombre es encontrado muerto en una fábrica. La escena del crimen no es la adecuada, y el cuerpo fue depositado allí. El caso requiere una inmersión en el mundo de los criadores de ostras para nuestros investigadores.(n)</desc>
     <credits>
       <director>Jérémie Marcus</director>
       <actor>Astrid Veillon</actor>
       <actor>Stéphane Blancafort</actor>
       <actor>Piérick Tournier</actor>
-      <actor>Titouan Laporte</actor>
+      <actor>Nelly Lawson</actor>
     </credits>
-    <date>2021</date>
+    <date>2016</date>
     <category lang="es">Series policiacas extranjeras</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/t/a/n/xtandem-884044_SPA-64.jpg.pagespeed.ic.00WVBoN-cN.jpg" />
+    <icon src="https://cdn.sincroguia.tv/uploads/programs/t/a/n/xtandem-574382_SPA-27.jpg.pagespeed.ic.E9lesjIajm.jpg" />
     <country lang="es">Francia</country>
+    <episode-num system="onscreen">S1 E8</episode-num>
     <rating system="ICAA">
       <value>+12</value>
     </rating>
   </programme>
-  <programme start="20230101202600 +0000" stop="20230101213000 +0000" channel="A3Series HD!">
+  <programme start="20230101202800 +0000" stop="20230101213000 +0000" channel="A3Series HD!">
     <title lang="es">Tandem</title>
-    <desc lang="es">La comandante Léa Soler asume el cargo de jefa de la división de investigaciones de Montpellier, lo que significa trabajar con Paul Marchal, que es brillante pero totalmente incontrolable. Se conocen demasiado, están divorciados y son padres de dos adolescentes.Quinta temporada de esta serie de televisión policíaca con toques de humor de producción francesa. Unas semanas después de que Léa se cruzara con Inés en bata en casa de Paul, cuando estaba a punto de proponerle ir a Grecia con su familia, Léa vuelve de unas vacaciones llena de buenos propósitos: alegrarse por Paul que, gracias a Inés, va a seguir por fin con su vida, y alegrarse por ella misma que va a retomar también su vida. Pero Léa se dará cuenta de que entre los buenos propósitos y su aplicación hay un trecho. El rodaje de 'Tandem' se realizó en la soleada región de Occitania y la trama transcurre en los alrededores de Montpellier con sus increíbles paisajes mediterráneos.(n)</desc>
+    <sub-title lang="es">Camino a la redención</sub-title>
+    <desc lang="es">Un hombre es encontrado muerto en su olivar. Aunque el hombre parece estar bien en todos los aspectos, nuestros investigadores notan un cambio en su comportamiento durante varios meses. Se darán cuenta de que ha golpeado a una chica en un lado de la carretera.(n)</desc>
     <credits>
       <director>Jérémie Marcus</director>
       <actor>Astrid Veillon</actor>
       <actor>Stéphane Blancafort</actor>
       <actor>Piérick Tournier</actor>
-      <actor>Titouan Laporte</actor>
+      <actor>Nelly Lawson</actor>
     </credits>
-    <date>2021</date>
+    <date>2016</date>
     <category lang="es">Series policiacas extranjeras</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/t/a/n/xtandem-884044_SPA-64.jpg.pagespeed.ic.00WVBoN-cN.jpg" />
+    <icon src="https://cdn.sincroguia.tv/uploads/programs/t/a/n/xtandem-574382_SPA-27.jpg.pagespeed.ic.E9lesjIajm.jpg" />
     <country lang="es">Francia</country>
+    <episode-num system="onscreen">S1 E9</episode-num>
     <rating system="ICAA">
       <value>+12</value>
     </rating>
   </programme>
-  <programme start="20230101213000 +0000" stop="20230101223200 +0000" channel="A3Series HD!">
+  <programme start="20230101213000 +0000" stop="20230101222800 +0000" channel="A3Series HD!">
     <title lang="es">Crimen en el Pacífico</title>
+    <sub-title lang="es">Excursion mortal (Parte 1)</sub-title>
     <desc lang="es">La comandante francesa Clarissa Hoarau y el teniente Jackson Bellerose se unen para resolver casos y luchar contra el crimen. El capitán Gaspar Watson y la policía Kelly Kwaté son claves para cerrar los casos y mantener la unión del equipo.(n)</desc>
     <credits>
       <actor>Yaëlle Trules</actor>
@@ -47422,13 +47342,15 @@
     </credits>
     <date>2021</date>
     <category lang="es">Series policiacas extranjeras</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/c/r/i/xcrimen-en-el-pacifico-1118309_SPA-60.jpg.pagespeed.ic.8e0siAv9Xe.jpg" />
+    <icon src="https://cdn.sincroguia.tv/uploads/programs/c/r/i/xcrimen-en-el-pacifico-1118322_SPA-16.jpg.pagespeed.ic.8e0siAv9Xe.jpg" />
+    <episode-num system="onscreen">S2 E17</episode-num>
     <rating system="ICAA">
       <value>+12</value>
     </rating>
   </programme>
-  <programme start="20230101223200 +0000" stop="20230101233500 +0000" channel="A3Series HD!">
+  <programme start="20230101222800 +0000" stop="20230101232700 +0000" channel="A3Series HD!">
     <title lang="es">Crimen en el Pacífico</title>
+    <sub-title lang="es">Excursion total (Parte 2)</sub-title>
     <desc lang="es">La comandante francesa Clarissa Hoarau y el teniente Jackson Bellerose se unen para resolver casos y luchar contra el crimen. El capitán Gaspar Watson y la policía Kelly Kwaté son claves para cerrar los casos y mantener la unión del equipo.(n)</desc>
     <credits>
       <actor>Yaëlle Trules</actor>
@@ -47439,12 +47361,13 @@
     </credits>
     <date>2021</date>
     <category lang="es">Series policiacas extranjeras</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/c/r/i/xcrimen-en-el-pacifico-1118309_SPA-60.jpg.pagespeed.ic.8e0siAv9Xe.jpg" />
+    <icon src="https://cdn.sincroguia.tv/uploads/programs/c/r/i/crimen-en-el-pacifico-1118323_SPA-78.jpg" />
+    <episode-num system="onscreen">S2 E18</episode-num>
     <rating system="ICAA">
       <value>+12</value>
     </rating>
   </programme>
-  <programme start="20230101233500 +0000" stop="20230102003700 +0000" channel="A3Series HD!">
+  <programme start="20230101232700 +0000" stop="20230102002600 +0000" channel="A3Series HD!">
     <title lang="es">Crimen en el Pacífico</title>
     <desc lang="es">La comandante francesa Clarissa Hoarau y el teniente Jackson Bellerose se unen para resolver casos y luchar contra el crimen. El capitán Gaspar Watson y la policía Kelly Kwaté son claves para cerrar los casos y mantener la unión del equipo.(n)</desc>
     <credits>
@@ -47454,14 +47377,15 @@
       <actor>Marielle Karabeu</actor>
       <actor>Clémentine Julienne</actor>
     </credits>
-    <date>2021</date>
+    <date>2019</date>
     <category lang="es">Series policiacas extranjeras</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/c/r/i/xcrimen-en-el-pacifico-1118309_SPA-60.jpg.pagespeed.ic.8e0siAv9Xe.jpg" />
+    <icon src="https://cdn.sincroguia.tv/uploads/programs/c/r/i/crimen-en-el-pacifico-1104705_SPA-32.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="ICAA">
       <value>+12</value>
     </rating>
   </programme>
-  <programme start="20230102003700 +0000" stop="20230102014000 +0000" channel="A3Series HD!">
+  <programme start="20230102002600 +0000" stop="20230102012500 +0000" channel="A3Series HD!">
     <title lang="es">Crimen en el Pacífico</title>
     <desc lang="es">La comandante francesa Clarissa Hoarau y el teniente Jackson Bellerose se unen para resolver casos y luchar contra el crimen. El capitán Gaspar Watson y la policía Kelly Kwaté son claves para cerrar los casos y mantener la unión del equipo.(n)</desc>
     <credits>
@@ -47471,15 +47395,17 @@
       <actor>Marielle Karabeu</actor>
       <actor>Clémentine Julienne</actor>
     </credits>
-    <date>2021</date>
+    <date>2019</date>
     <category lang="es">Series policiacas extranjeras</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/c/r/i/xcrimen-en-el-pacifico-1118309_SPA-60.jpg.pagespeed.ic.8e0siAv9Xe.jpg" />
+    <icon src="https://cdn.sincroguia.tv/uploads/programs/c/r/i/xcrimen-en-el-pacifico-1104705_SPA-32.jpg.pagespeed.ic.NmyDiJd0j8.jpg" />
+    <episode-num system="onscreen">S1 E2</episode-num>
     <rating system="ICAA">
       <value>+12</value>
     </rating>
   </programme>
-  <programme start="20230102014000 +0000" stop="20230102023000 +0000" channel="A3Series HD!">
+  <programme start="20230102012500 +0000" stop="20230102021500 +0000" channel="A3Series HD!">
     <title lang="es">Crimen en el trópico</title>
+    <sub-title lang="es">Caballero</sub-title>
     <desc lang="es">La comandante Melissa Saint-Rose llega a Martinica desde París y allí se encuentra con la capitana Gaelle Crivelli. Ambas deben convivir para resolver los crímenes que allí se cometen.(n)</desc>
     <credits>
       <director>Éric Eider</director>
@@ -47488,33 +47414,55 @@
       <actor>Béatrice de La Boulaye</actor>
       <actor>Julien Béramis</actor>
     </credits>
-    <date>2019</date>
+    <date>2021</date>
     <category lang="es">Series dramáticas extranjeras</category>
     <icon src="https://cdn.sincroguia.tv/uploads/programs/c/r/i/xcrimen-en-el-tropico-869566_SPA-15.jpg.pagespeed.ic.OqztM9-WdG.jpg" />
     <country lang="es">Francia</country>
+    <episode-num system="onscreen">S2 E4</episode-num>
     <rating system="ICAA">
       <value>+12</value>
     </rating>
   </programme>
-  <programme start="20230102023000 +0000" stop="20230102034000 +0000" channel="A3Series HD!">
+  <programme start="20230102021500 +0000" stop="20230102023500 +0000" channel="A3Series HD!">
     <title lang="es">Los hombres de Paco</title>
-    <desc lang="es">Paco Miranda es un inspector jefe de policía, de carácter bonachón e incapaz de enfrentarse a las situaciones de crisis, que trabaja junto a sus dos hombres de confianza: los agentes Lucas y Mariano. Los tres forman un equipo cuyo rasgo principal es la incompetencia y que debe enfrentarse cada día a los caprichos de Don Lorenzo, el comisario, que también es suegro de Paco.En esta nueva etapa de la serie, Paco y sus hombres se enfrentan a todo tipo de situaciones absurdas. Atrás queda la tensión creciente de los thrillers que han marcado las dos últimas temporadas: 'Los hombres de Paco' recupera esta temporada su esencia más cómica y disparatada. Entre las novedades, destaca la llegada a la comisaría de San Antonio de un nuevo agente, Nelson, personaje interpretado por el joven actor Jimmy Castro ('Club Disney'). Es un policía negro que se integrará en 'los Povedilla'. Por su parte, las nuevas circunstancias personales de Paco le llevarán a convivir con su suegro Don Lorenzo y con Mariano, en una casa que parecerá más un piso de estudiantes que el confortable hogar de tres 'maderos' maduros.(n)</desc>
+    <sub-title lang="es">Un lugar en el mundo</sub-title>
+    <desc lang="es">Mariano está deprimido y se plantea dejar la policía para marcharse al campo y hacerse pastor. Intentando animarle, Paco y Lucas provocan que uno de los delincuentes arrestados se escape, previendo que Mariano, que se encuentra en una situación privilegiada en la comisaría, le detenga. Sin embargo, Mariano no se percata de la situación y el delincuente consigue encerrarse en los calabozos junto a varios rehenes.Mientras tanto, Sara sigue empeñada en conquistar a Lucas. Después de varios intentos, se declara al policía en casa de éste. Lucas se niega tajantemente a mantener una relación con la hija de su compañero, pero Sara no cesará en intentar que él se fije en ella.Por otro lado, Silvia está ilusionada con los preparativos de su boda, pero no termina de gustarle el vestido de novia que ha elegido. Lola y Bernarda intentan convencerla de que está guapísima y como no lo consiguen se ofrecen a arreglarle el vestido. Bernarda, a quien le encantan las bodas, se prueba el vestido y un desafortunado accidente provoca un gran desperfecto en el traje de Silvia. Éste incidente hará recapacitar a Silvia si sigue adelante con la boda.(n)</desc>
     <credits>
-      <director>Alex Pina</director>
-      <director>Daniel Écija</director>
-      <actor>Paco Tous</actor>
-      <actor>Hugo Silva</actor>
       <actor>Pepón Nieto</actor>
-      <actor>Michelle Jenner</actor>
-      <actor>Adriana Ozores</actor>
       <actor>Juan Diego</actor>
-      <actor>Marián Aguilera</actor>
-      <actor>Carlos Santos</actor>
+      <actor>Adriana Ozores</actor>
+      <actor>Neus Asensi</actor>
+      <actor>Hugo Silva</actor>
+      <actor>Paco Tous</actor>
     </credits>
-    <date>2009</date>
+    <date>2005</date>
     <category lang="es">Series de comedia españolas</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/l/o/s/xlos-hombres-de-paco-120138_SPA-87.jpg.pagespeed.ic.ZIkWInccOT.jpg" />
+    <icon src="https://cdn.sincroguia.tv/uploads/programs/l/o/s/xlos-hombres-de-paco-79995_SPA-63.jpg.pagespeed.ic.vZf15GOaVd.jpg" />
     <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="ICAA">
+      <value>+16</value>
+    </rating>
+  </programme>
+  <programme start="20230102023500 +0000" stop="20230102034000 +0000" channel="A3Series HD!">
+    <title lang="es">Los hombres de Paco</title>
+    <sub-title lang="es">Los hombres de Osama</sub-title>
+    <desc lang="es">Kike y Curtis gastan una broma pesada a los hombres de Paco colocando pruebas falsas en un kebab de Lavapiés que ellos tienen que registrar al día siguiente. Entre los objetos que incautan hay mapas, cartas, fotos y cintas grabadas que conducen a la guarida de Bin Ladem en Faluya. Aunque no cuentan con el apoyo de Don Lorenzo, los tres policías viajan a Irak con la intención de dar con el paradero del terrorista más buscado.Mientras, Povedilla queda encerrado con Ruth, Silvia y Sara en el montacargas de la comisaría. Mientras esperan a que les recaten, el policía se entera de todas las rencillas entre las tres mujeres por causa de Lucas. Povedilla termina agobiándose entre el calor, las discusiones y tanta mujer atractiva.Paralelamente, Lola decide llevarse a Sara al pueblo unos días para alejarla de Lucas. La joven se pasa los días y las noches intercambiando mensajes de amor con Lucas a través del móvil. El último mensaje que recibe del policía es una emotiva despedida en la que le cuenta que se marcha lejos y puede que no regrese de la difícil misión en la que se ha implicado. Sara, asustada, se escapa y regresa a la ciudad en busca de Lucas.(n)</desc>
+    <credits>
+      <actor>Pepón Nieto</actor>
+      <actor>Juan Diego</actor>
+      <actor>Adriana Ozores</actor>
+      <actor>Neus Asensi</actor>
+      <actor>Anna Maria Barbany</actor>
+      <actor>Nadia de Santiago</actor>
+      <actor>Hugo Silva</actor>
+      <actor>Paco Tous</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="es">Series de comedia españolas</category>
+    <icon src="https://cdn.sincroguia.tv/uploads/programs/l/o/s/xlos-hombres-de-paco-79995_SPA-63.jpg.pagespeed.ic.vZf15GOaVd.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2 E10</episode-num>
     <rating system="ICAA">
       <value>+16</value>
     </rating>
@@ -47542,7 +47490,7 @@
       <value>+16</value>
     </rating>
   </programme>
-  <programme start="20230102045000 +0000" stop="20230102050000 +0000" channel="A3Series HD!">
+  <programme start="20230102045000 +0000" stop="20230102053500 +0000" channel="A3Series HD!">
     <title lang="es">Más de series</title>
     <desc lang="es">Programa de producción propia que muestra curiosidades sobre las series de Atresmedia.(n)</desc>
     <date>2022</date>
@@ -47553,18 +47501,7 @@
       <value>+7</value>
     </rating>
   </programme>
-  <programme start="20230102050000 +0000" stop="20230102054000 +0000" channel="A3Series HD!">
-    <title lang="es">Más de series</title>
-    <desc lang="es">Programa de producción propia que muestra curiosidades sobre las series de Atresmedia.(n)</desc>
-    <date>2022</date>
-    <category lang="es">Otros programas de entretenimiento</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/m/a/s/xmas-de-series-706385_SPA-63.jpg.pagespeed.ic.ZXpgZmllZn.jpg" />
-    <country lang="es">España</country>
-    <rating system="ICAA">
-      <value>+7</value>
-    </rating>
-  </programme>
-  <programme start="20230102054000 +0000" stop="20230102064500 +0000" channel="A3Series HD!">
+  <programme start="20230102053500 +0000" stop="20230102070000 +0000" channel="A3Series HD!">
     <title lang="es">Con el culo al aire</title>
     <desc lang="es">Tercera temporada de la serie en la que un grupo de personas que sufre la crisis deja su piso en la ciudad para trasladarse a un campin. Este lugar ha dejado de ser para veraneantes y se ha llenado de personas ahogadas por las dificultades económicas.Los nuevos episodios llegan con el final del verano y el abandono del campin por parte de los últimos turistas. Ahora que la temporada alta ha terminado, los habitantes que quedan deben buscar nuevas formas de ingresar dinero. Esta nueva etapa cuenta con 'cameos' de presentadores como Carlos Sobera o Berto Romero, y actores entre los que destacan Álex O'Dogherty ('Camera café') y Úrsula Corberó ('Física o química'). Además, se incorporan cuatro nuevos personajes de forma permanente: Rubén, un joven sin techo al que rescata Tino, interpretado por Julián López ('Los Quién'); Begoña, la exmujer de Ángel, interpretada por Ana Morgade ('Bicho malo'); una veinteañera poligonera llamada Rebe interpretada por la joven actriz Almudena Puyo; y Chus, la hermana de Lola, a la que da vida Llum Barrera ('Pulseras rojas').(n)</desc>
     <credits>
@@ -47583,7 +47520,7 @@
       <value>+12</value>
     </rating>
   </programme>
-  <programme start="20230102064500 +0000" stop="20230102081500 +0000" channel="A3Series HD!">
+  <programme start="20230102070000 +0000" stop="20230102091000 +0000" channel="A3Series HD!">
     <title lang="es">Allí abajo</title>
     <desc lang="es">La vida de Iñaki da un giro cuando se ve obligado a ir a un viaje del Inserso con su madre a Sevilla. El joven, que no ha salido de Euskadi, regenta el bar que heredó de su padre. Allí trabaja Nekane, que como buena vasca nunca le ha declarado su amor. De esta manera, la vida de Iñaki pasa sin pena ni gloria hasta que se queda atrapado en el sur.Comedia producida por Plano a Plano ('El Príncipe') que cuenta una historia de amor entre una sevillana y un bilbaíno en clave de humor. María León ('Carmina o revienta') y Jon Plazaola, que interpreta su primer papel como actor, dan vida a los protagonistas de esta producción basada en las diferentes maneras de ver la vida de los españoles según su procedencia.(n)</desc>
     <credits>
@@ -47608,32 +47545,7 @@
       <value>3.0</value>
     </star-rating>
   </programme>
-  <programme start="20230102081500 +0000" stop="20230102094500 +0000" channel="A3Series HD!">
-    <title lang="es">Allí abajo</title>
-    <desc lang="es">La vida de Iñaki da un giro cuando se ve obligado a ir a un viaje del Inserso con su madre a Sevilla. El joven, que no ha salido de Euskadi, regenta el bar que heredó de su padre. Allí trabaja Nekane, que como buena vasca nunca le ha declarado su amor. De esta manera, la vida de Iñaki pasa sin pena ni gloria hasta que se queda atrapado en el sur.Comedia producida por Plano a Plano ('El Príncipe') que cuenta una historia de amor entre una sevillana y un bilbaíno en clave de humor. María León ('Carmina o revienta') y Jon Plazaola, que interpreta su primer papel como actor, dan vida a los protagonistas de esta producción basada en las diferentes maneras de ver la vida de los españoles según su procedencia.(n)</desc>
-    <credits>
-      <director>Ignacio Mercero</director>
-      <actor>María León</actor>
-      <actor>Jon Plazaola</actor>
-      <actor>Mariano Peña</actor>
-      <actor>Gorka Aguinagalde</actor>
-      <actor>Carmina Barrios</actor>
-      <actor>Beatriz Cotobal</actor>
-      <actor>José María del Castillo</actor>
-      <actor>Alazne Etxeberria</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="es">Series de comedia españolas</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/a/l/l/xalli-abajo-475630_SPA-26.jpg.pagespeed.ic.Y0e3PL4XbJ.jpg" />
-    <country lang="es">España</country>
-    <rating system="ICAA">
-      <value>+7</value>
-    </rating>
-    <star-rating system="ICAA">
-      <value>3.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20230102094500 +0000" stop="20230102112300 +0000" channel="A3Series HD!">
+  <programme start="20230102091000 +0000" stop="20230102130000 +0000" channel="A3Series HD!">
     <title lang="es">Aquí no hay quien viva</title>
     <desc lang="es">Lucía (María Adánez) y Roberto (Daniel Guzmán) son una pareja de novios que acaba de mudarse a un curioso edificio. Los vecinos son seres un tanto especiales entre los que no falta una familia de clase media, una pareja de homosexuales y un nutrido grupo de cotillas.'Aquí no hay quien viva' es una telecomedia producida por Miramón Mendi, la compañía del polifacético José Luis Moreno, para Antena 3. Aparte de los ya mencionados, el reparto incluye a varios nombres habituales del cine español actual, como Emma Penella, Gemma Cuervo, Adrià Collado, Loles León o Luis Merlo.(n)</desc>
     <credits>
@@ -47654,28 +47566,7 @@
       <value>+12</value>
     </rating>
   </programme>
-  <programme start="20230102112300 +0000" stop="20230102130000 +0000" channel="A3Series HD!">
-    <title lang="es">Aquí no hay quien viva</title>
-    <desc lang="es">Lucía (María Adánez) y Roberto (Daniel Guzmán) son una pareja de novios que acaba de mudarse a un curioso edificio. Los vecinos son seres un tanto especiales entre los que no falta una familia de clase media, una pareja de homosexuales y un nutrido grupo de cotillas.'Aquí no hay quien viva' es una telecomedia producida por Miramón Mendi, la compañía del polifacético José Luis Moreno, para Antena 3. Aparte de los ya mencionados, el reparto incluye a varios nombres habituales del cine español actual, como Emma Penella, Gemma Cuervo, Adrià Collado, Loles León o Luis Merlo.(n)</desc>
-    <credits>
-      <actor>María Adánez</actor>
-      <actor>Adrià Collado</actor>
-      <actor>José Luis Gil</actor>
-      <actor>Daniel Guzmán</actor>
-      <actor>Loles León</actor>
-      <actor>Luis Merlo</actor>
-      <actor>Gemma Cuervo</actor>
-      <actor>Emma Penella</actor>
-    </credits>
-    <date>2003</date>
-    <category lang="es">Series de comedia españolas</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/a/q/u/xaqui-no-hay-quien-viva-59161_SPA-10.jpg.pagespeed.ic.CUSE2dKCBD.jpg" />
-    <country lang="es">España</country>
-    <rating system="ICAA">
-      <value>+12</value>
-    </rating>
-  </programme>
-  <programme start="20230102130000 +0000" stop="20230102135000 +0000" channel="A3Series HD!">
+  <programme start="20230102130000 +0000" stop="20230102153500 +0000" channel="A3Series HD!">
     <title lang="es">Ley y Orden: Unidad de Víctimas Especiales</title>
     <desc lang="es">La unidad especial de la policía de Nueva York es la encargada de resolver los casos más complicados de la ciudad en la temporada número 16 de la serie. Por la naturaleza de sus actuaciones, los detectives de la UVE se encuentran donde no hay mucha información.Décimo sexta temporada del 'spin-off' de la serie 'Ley y Orden', estrenada en 1990 por la cadena NBC. 'Ley y Orden: Unidad de Víctimas Especiales', creada en 1999, retoma el espíritu de la original, aunque con personajes y situaciones totalmente diferentes. La producción recibió numerosos reconocimientos por parte de organizaciones de base comunitarias por los temas sociales que aborda y los miembros del reparto son populares por el trabajo que realizan fuera de la pantalla para promover la salud y la seguridad personal.La unidad está dirigida por la sargento Olivia Benson, quien dirige a sus compañeros con empatía y mano dura, mientras lidia con un pasado conflictivo que le ayuda a ponerse en el lugar de la víctima. Este papel le ha valido a la mujer que lo interpreta, Mariska Hargitey, ocho nominaciones como mejor actriz de drama en los premios Emmy.(n)</desc>
     <credits>
@@ -47696,49 +47587,7 @@
       <value>+16</value>
     </rating>
   </programme>
-  <programme start="20230102135000 +0000" stop="20230102144000 +0000" channel="A3Series HD!">
-    <title lang="es">Ley y Orden: Unidad de Víctimas Especiales</title>
-    <desc lang="es">La unidad especial de la policía de Nueva York es la encargada de resolver los casos más complicados de la ciudad en la temporada número 16 de la serie. Por la naturaleza de sus actuaciones, los detectives de la UVE se encuentran donde no hay mucha información.Décimo sexta temporada del 'spin-off' de la serie 'Ley y Orden', estrenada en 1990 por la cadena NBC. 'Ley y Orden: Unidad de Víctimas Especiales', creada en 1999, retoma el espíritu de la original, aunque con personajes y situaciones totalmente diferentes. La producción recibió numerosos reconocimientos por parte de organizaciones de base comunitarias por los temas sociales que aborda y los miembros del reparto son populares por el trabajo que realizan fuera de la pantalla para promover la salud y la seguridad personal.La unidad está dirigida por la sargento Olivia Benson, quien dirige a sus compañeros con empatía y mano dura, mientras lidia con un pasado conflictivo que le ayuda a ponerse en el lugar de la víctima. Este papel le ha valido a la mujer que lo interpreta, Mariska Hargitey, ocho nominaciones como mejor actriz de drama en los premios Emmy.(n)</desc>
-    <credits>
-      <director>Dick Wolf</director>
-      <actor>Christopher Meloni</actor>
-      <actor>Mariska Hargitay</actor>
-      <actor>Richard Belzer</actor>
-      <actor>Dann Florek</actor>
-      <actor>Tamara Tunie</actor>
-      <actor>Ice-T</actor>
-      <actor>BD Wong</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="es">Series policiacas extranjeras</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/l/e/y/xley-y-orden-unidad-de-victimas-especiales-408940_SPA-89.jpg.pagespeed.ic.2OjOctP69t.jpg" />
-    <country lang="es">Estados Unidos</country>
-    <rating system="ICAA">
-      <value>+16</value>
-    </rating>
-  </programme>
-  <programme start="20230102144000 +0000" stop="20230102153000 +0000" channel="A3Series HD!">
-    <title lang="es">Ley y Orden: Unidad de Víctimas Especiales</title>
-    <desc lang="es">La unidad especial de la policía de Nueva York es la encargada de resolver los casos más complicados de la ciudad en la temporada número 16 de la serie. Por la naturaleza de sus actuaciones, los detectives de la UVE se encuentran donde no hay mucha información.Décimo sexta temporada del 'spin-off' de la serie 'Ley y Orden', estrenada en 1990 por la cadena NBC. 'Ley y Orden: Unidad de Víctimas Especiales', creada en 1999, retoma el espíritu de la original, aunque con personajes y situaciones totalmente diferentes. La producción recibió numerosos reconocimientos por parte de organizaciones de base comunitarias por los temas sociales que aborda y los miembros del reparto son populares por el trabajo que realizan fuera de la pantalla para promover la salud y la seguridad personal.La unidad está dirigida por la sargento Olivia Benson, quien dirige a sus compañeros con empatía y mano dura, mientras lidia con un pasado conflictivo que le ayuda a ponerse en el lugar de la víctima. Este papel le ha valido a la mujer que lo interpreta, Mariska Hargitey, ocho nominaciones como mejor actriz de drama en los premios Emmy.(n)</desc>
-    <credits>
-      <director>Dick Wolf</director>
-      <actor>Christopher Meloni</actor>
-      <actor>Mariska Hargitay</actor>
-      <actor>Richard Belzer</actor>
-      <actor>Dann Florek</actor>
-      <actor>Tamara Tunie</actor>
-      <actor>Ice-T</actor>
-      <actor>BD Wong</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="es">Series policiacas extranjeras</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/l/e/y/xley-y-orden-unidad-de-victimas-especiales-408940_SPA-89.jpg.pagespeed.ic.2OjOctP69t.jpg" />
-    <country lang="es">Estados Unidos</country>
-    <rating system="ICAA">
-      <value>+16</value>
-    </rating>
-  </programme>
-  <programme start="20230102153000 +0000" stop="20230102162200 +0000" channel="A3Series HD!">
+  <programme start="20230102153500 +0000" stop="20230102190000 +0000" channel="A3Series HD!">
     <title lang="es">Rizzoli &amp; Isles</title>
     <desc lang="es">Séptima y última temporada de esta serie protagonizada por Jane Rizzoli, una detective de Boston que, con la ayuda de la metódica forense Maura Isles, resuelve peligrosos casos criminales. Ambas tienen en común el gusto por el riesgo y una fuerte dedicación por el trabajo.Los últimos 13 episodios de la ficción arrancan la mañana siguiente al tiroteo con el que finalizó la sexta entrega. Las dos protagonistas deben emplearse a fondo para dar con el paradero de la fugitiva Alice Sands y entregarla a la justicia, antes de que destruya la vida de Jane. Entremedio, nuevos casos y nuevos romances les distraerán de su objetivo principal.En 2001 la escritora Tess Gerritsen publicó su primer thriller criminal, 'The Surgeon', en el que aparecía como personaje secundario la detective de homicidios Jane Rizzoli. Su popularidad fue tal que acabó contando con su propia serie de novelas. Una década después se decidió a adaptar estas obras a la pequeña pantalla, formando equipo con Janet Tamaro, guionista y productora de 'Bones', 'Trauma' y 'CSI: Nueva York'.(n)</desc>
     <credits>
@@ -47758,67 +47607,7 @@
       <value>+16</value>
     </rating>
   </programme>
-  <programme start="20230102162200 +0000" stop="20230102171500 +0000" channel="A3Series HD!">
-    <title lang="es">Rizzoli &amp; Isles</title>
-    <desc lang="es">Séptima y última temporada de esta serie protagonizada por Jane Rizzoli, una detective de Boston que, con la ayuda de la metódica forense Maura Isles, resuelve peligrosos casos criminales. Ambas tienen en común el gusto por el riesgo y una fuerte dedicación por el trabajo.Los últimos 13 episodios de la ficción arrancan la mañana siguiente al tiroteo con el que finalizó la sexta entrega. Las dos protagonistas deben emplearse a fondo para dar con el paradero de la fugitiva Alice Sands y entregarla a la justicia, antes de que destruya la vida de Jane. Entremedio, nuevos casos y nuevos romances les distraerán de su objetivo principal.En 2001 la escritora Tess Gerritsen publicó su primer thriller criminal, 'The Surgeon', en el que aparecía como personaje secundario la detective de homicidios Jane Rizzoli. Su popularidad fue tal que acabó contando con su propia serie de novelas. Una década después se decidió a adaptar estas obras a la pequeña pantalla, formando equipo con Janet Tamaro, guionista y productora de 'Bones', 'Trauma' y 'CSI: Nueva York'.(n)</desc>
-    <credits>
-      <director>Janet Tamaro</director>
-      <director>Tess Gerritsen</director>
-      <actor>Angie Harmon</actor>
-      <actor>Sasha Alexander</actor>
-      <actor>Jordan Bridges</actor>
-      <actor>Bruce McGill</actor>
-      <actor>Lorraine Bracco</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="es">Series extranjeras de suspense</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/r/i/z/xrizzoli-isles-409099_SPA-17.jpg.pagespeed.ic.k9uMmf5aML.jpg" />
-    <country lang="es">Estados Unidos</country>
-    <rating system="ICAA">
-      <value>+16</value>
-    </rating>
-  </programme>
-  <programme start="20230102171500 +0000" stop="20230102180800 +0000" channel="A3Series HD!">
-    <title lang="es">Rizzoli &amp; Isles</title>
-    <desc lang="es">Séptima y última temporada de esta serie protagonizada por Jane Rizzoli, una detective de Boston que, con la ayuda de la metódica forense Maura Isles, resuelve peligrosos casos criminales. Ambas tienen en común el gusto por el riesgo y una fuerte dedicación por el trabajo.Los últimos 13 episodios de la ficción arrancan la mañana siguiente al tiroteo con el que finalizó la sexta entrega. Las dos protagonistas deben emplearse a fondo para dar con el paradero de la fugitiva Alice Sands y entregarla a la justicia, antes de que destruya la vida de Jane. Entremedio, nuevos casos y nuevos romances les distraerán de su objetivo principal.En 2001 la escritora Tess Gerritsen publicó su primer thriller criminal, 'The Surgeon', en el que aparecía como personaje secundario la detective de homicidios Jane Rizzoli. Su popularidad fue tal que acabó contando con su propia serie de novelas. Una década después se decidió a adaptar estas obras a la pequeña pantalla, formando equipo con Janet Tamaro, guionista y productora de 'Bones', 'Trauma' y 'CSI: Nueva York'.(n)</desc>
-    <credits>
-      <director>Janet Tamaro</director>
-      <director>Tess Gerritsen</director>
-      <actor>Angie Harmon</actor>
-      <actor>Sasha Alexander</actor>
-      <actor>Jordan Bridges</actor>
-      <actor>Bruce McGill</actor>
-      <actor>Lorraine Bracco</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="es">Series extranjeras de suspense</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/r/i/z/xrizzoli-isles-409099_SPA-17.jpg.pagespeed.ic.k9uMmf5aML.jpg" />
-    <country lang="es">Estados Unidos</country>
-    <rating system="ICAA">
-      <value>+16</value>
-    </rating>
-  </programme>
-  <programme start="20230102180800 +0000" stop="20230102190000 +0000" channel="A3Series HD!">
-    <title lang="es">Rizzoli &amp; Isles</title>
-    <desc lang="es">Séptima y última temporada de esta serie protagonizada por Jane Rizzoli, una detective de Boston que, con la ayuda de la metódica forense Maura Isles, resuelve peligrosos casos criminales. Ambas tienen en común el gusto por el riesgo y una fuerte dedicación por el trabajo.Los últimos 13 episodios de la ficción arrancan la mañana siguiente al tiroteo con el que finalizó la sexta entrega. Las dos protagonistas deben emplearse a fondo para dar con el paradero de la fugitiva Alice Sands y entregarla a la justicia, antes de que destruya la vida de Jane. Entremedio, nuevos casos y nuevos romances les distraerán de su objetivo principal.En 2001 la escritora Tess Gerritsen publicó su primer thriller criminal, 'The Surgeon', en el que aparecía como personaje secundario la detective de homicidios Jane Rizzoli. Su popularidad fue tal que acabó contando con su propia serie de novelas. Una década después se decidió a adaptar estas obras a la pequeña pantalla, formando equipo con Janet Tamaro, guionista y productora de 'Bones', 'Trauma' y 'CSI: Nueva York'.(n)</desc>
-    <credits>
-      <director>Janet Tamaro</director>
-      <director>Tess Gerritsen</director>
-      <actor>Angie Harmon</actor>
-      <actor>Sasha Alexander</actor>
-      <actor>Jordan Bridges</actor>
-      <actor>Bruce McGill</actor>
-      <actor>Lorraine Bracco</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="es">Series extranjeras de suspense</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/r/i/z/xrizzoli-isles-409099_SPA-17.jpg.pagespeed.ic.k9uMmf5aML.jpg" />
-    <country lang="es">Estados Unidos</country>
-    <rating system="ICAA">
-      <value>+16</value>
-    </rating>
-  </programme>
-  <programme start="20230102190000 +0000" stop="20230102195000 +0000" channel="A3Series HD!">
+  <programme start="20230102190000 +0000" stop="20230102214000 +0000" channel="A3Series HD!">
     <title lang="es">Navy: Investigación Criminal</title>
     <desc lang="es">Octava temporada de la serie que narra los casos del NCIS, un grupo especial de la Marina del ejército de los Estados Unidos que investiga todo tipo de crímenes que puedan tener relación con este cuerpo: desde asesinatos hasta espionaje, pasando por ataques terroristas o robos de submarinos. Al frente de este equipo se encuentra el agente especial Jehtro Gibbs, un antiguo sargento de artillería con un gran talento como investigador.'Navy: Investigación Criminal' es una serie nacida como 'spin-off' de otra exitosa producción ambientada en el mundo militar estadounidense, 'JAG: Alerta roja'. Protagonizada por Mark Harmon, la serie ya obtuvo una gran acogida en la cadena CBS en su primera temporada con una media de más de 11 millones de seguidores.La serie se convirtió en una de las más vistas en su país de origen, Estados Unidos, con una media de 15 millones y medio de espectadores por capítulo, mostrándose imbatible ante programas como 'American Idol'. En esta octava temporada, siguiendo la estrategia de las últimas entregas de episodios, se conocerán más datos sobre el pasado y la vida personal de algunos de los personajes más importantes.(n)</desc>
     <credits>
@@ -47843,57 +47632,7 @@
       <value>2.0</value>
     </star-rating>
   </programme>
-  <programme start="20230102195000 +0000" stop="20230102204000 +0000" channel="A3Series HD!">
-    <title lang="es">Navy: Investigación Criminal</title>
-    <desc lang="es">Octava temporada de la serie que narra los casos del NCIS, un grupo especial de la Marina del ejército de los Estados Unidos que investiga todo tipo de crímenes que puedan tener relación con este cuerpo: desde asesinatos hasta espionaje, pasando por ataques terroristas o robos de submarinos. Al frente de este equipo se encuentra el agente especial Jehtro Gibbs, un antiguo sargento de artillería con un gran talento como investigador.'Navy: Investigación Criminal' es una serie nacida como 'spin-off' de otra exitosa producción ambientada en el mundo militar estadounidense, 'JAG: Alerta roja'. Protagonizada por Mark Harmon, la serie ya obtuvo una gran acogida en la cadena CBS en su primera temporada con una media de más de 11 millones de seguidores.La serie se convirtió en una de las más vistas en su país de origen, Estados Unidos, con una media de 15 millones y medio de espectadores por capítulo, mostrándose imbatible ante programas como 'American Idol'. En esta octava temporada, siguiendo la estrategia de las últimas entregas de episodios, se conocerán más datos sobre el pasado y la vida personal de algunos de los personajes más importantes.(n)</desc>
-    <credits>
-      <director>Don McGill</director>
-      <director>Donald P Bellisario</director>
-      <actor>Mark Harmon</actor>
-      <actor>Cote de Pablo</actor>
-      <actor>Sean Murray</actor>
-      <actor>David McCallum</actor>
-      <actor>Pauley Perrette</actor>
-      <actor>Michael Weatherly</actor>
-      <actor>Rocky Carroll</actor>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Series dramáticas extranjeras</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/n/a/v/xnavy-investigacion-criminal-170456_SPA-94.jpg.pagespeed.ic.wydz7pWBL9.jpg" />
-    <country lang="es">Estados Unidos</country>
-    <rating system="ICAA">
-      <value>+12</value>
-    </rating>
-    <star-rating system="ICAA">
-      <value>2.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20230102204000 +0000" stop="20230102213000 +0000" channel="A3Series HD!">
-    <title lang="es">Navy: Investigación Criminal</title>
-    <desc lang="es">Octava temporada de la serie que narra los casos del NCIS, un grupo especial de la Marina del ejército de los Estados Unidos que investiga todo tipo de crímenes que puedan tener relación con este cuerpo: desde asesinatos hasta espionaje, pasando por ataques terroristas o robos de submarinos. Al frente de este equipo se encuentra el agente especial Jehtro Gibbs, un antiguo sargento de artillería con un gran talento como investigador.'Navy: Investigación Criminal' es una serie nacida como 'spin-off' de otra exitosa producción ambientada en el mundo militar estadounidense, 'JAG: Alerta roja'. Protagonizada por Mark Harmon, la serie ya obtuvo una gran acogida en la cadena CBS en su primera temporada con una media de más de 11 millones de seguidores.La serie se convirtió en una de las más vistas en su país de origen, Estados Unidos, con una media de 15 millones y medio de espectadores por capítulo, mostrándose imbatible ante programas como 'American Idol'. En esta octava temporada, siguiendo la estrategia de las últimas entregas de episodios, se conocerán más datos sobre el pasado y la vida personal de algunos de los personajes más importantes.(n)</desc>
-    <credits>
-      <director>Don McGill</director>
-      <director>Donald P Bellisario</director>
-      <actor>Mark Harmon</actor>
-      <actor>Cote de Pablo</actor>
-      <actor>Sean Murray</actor>
-      <actor>David McCallum</actor>
-      <actor>Pauley Perrette</actor>
-      <actor>Michael Weatherly</actor>
-      <actor>Rocky Carroll</actor>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Series dramáticas extranjeras</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/n/a/v/xnavy-investigacion-criminal-170456_SPA-94.jpg.pagespeed.ic.wydz7pWBL9.jpg" />
-    <country lang="es">Estados Unidos</country>
-    <rating system="ICAA">
-      <value>+12</value>
-    </rating>
-    <star-rating system="ICAA">
-      <value>2.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20230102213000 +0000" stop="20230102221900 +0000" channel="A3Series HD!">
+  <programme start="20230102214000 +0000" stop="20230103034300 +0000" channel="A3Series HD!">
     <title lang="es">The Mysteries of Laura</title>
     <sub-title lang="es">Los misterios de Laura</sub-title>
     <desc lang="es">Laura Diamond es una brillante detective de Nueva York que destaca por no dejar escapar ningún detalle. Además, debe compaginar su actividad profesional con su complicada vida privada compuesta por dos hijos gemelos de seis años que no paran de meterse en líos y un matrimonio a punto de romperse.Adaptación estadounidense de 'Los misterios de Laura', ficción española creada en 2009 por Carlos Vila y Javier Holgado. Ambos colaboran junto a Jeff Rake ('Miss Match') en esta nueva versión que traslada la acción a las calles de Nueva York y que mezcla los géneros del drama y la comedia para mantener el espíritu de la serie original. Debra Messing ('Will y Grace') es Laura Diamond, detective y madre de dos hijos que se ve obligada a lidiar con estas dos facetas de su vida.El resto del reparto principal lo completa Josh Lucas ('Una mente maravillosa'), quien interpreta a Jake, policía y marido de Laura, que intenta utilizar sus encantos para reconquistar a su mujer; y Laz Alonso ('Avatar'), que se mete en la piel de Billy, agente de la ley con un gran corazón y que será un gran apoyo para la detective.(n)</desc>
@@ -47915,38 +47654,6 @@
     <star-rating system="ICAA">
       <value>1.0</value>
     </star-rating>
-  </programme>
-  <programme start="20230102221900 +0000" stop="20230102230800 +0000" channel="A3Series HD!">
-    <title lang="es">The Mysteries of Laura</title>
-    <sub-title lang="es">Los misterios de Laura</sub-title>
-    <desc lang="es">Laura Diamond es una brillante detective de Nueva York que destaca por no dejar escapar ningún detalle. Además, debe compaginar su actividad profesional con su complicada vida privada compuesta por dos hijos gemelos de seis años que no paran de meterse en líos y un matrimonio a punto de romperse.Adaptación estadounidense de 'Los misterios de Laura', ficción española creada en 2009 por Carlos Vila y Javier Holgado. Ambos colaboran junto a Jeff Rake ('Miss Match') en esta nueva versión que traslada la acción a las calles de Nueva York y que mezcla los géneros del drama y la comedia para mantener el espíritu de la serie original. Debra Messing ('Will y Grace') es Laura Diamond, detective y madre de dos hijos que se ve obligada a lidiar con estas dos facetas de su vida.El resto del reparto principal lo completa Josh Lucas ('Una mente maravillosa'), quien interpreta a Jake, policía y marido de Laura, que intenta utilizar sus encantos para reconquistar a su mujer; y Laz Alonso ('Avatar'), que se mete en la piel de Billy, agente de la ley con un gran corazón y que será un gran apoyo para la detective.(n)</desc>
-    <credits>
-      <director>Jeff Rake</director>
-      <director>Carlos Vila</director>
-      <actor>Debra Messing</actor>
-      <actor>Josh Lucas</actor>
-      <actor>Laz Alonso</actor>
-      <actor>Janina Gavankar</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="es">Series extranjeras de suspense</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/t/h/e/xthe-mysteries-of-laura-304468_SPA-69.jpg.pagespeed.ic.utdorcwvou.jpg" />
-    <country lang="es">Estados Unidos</country>
-    <rating system="ICAA">
-      <value>+12</value>
-    </rating>
-    <star-rating system="ICAA">
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20221231000000 +0000" stop="20221231005500 +0000" channel="Telehit Musica">
-    <title lang="en">Top 10</title>
-    <desc lang="en">La lista de popularidad con los éxitos del momento de Telehit Urbano.(n)</desc>
-  </programme>
-  <programme start="20221231005500 +0000" stop="20221231015000 +0000" channel="Telehit Musica">
-    <title lang="en">Jangueo</title>
-    <desc lang="en">Revista nocturna sobre las principales tendencias urbanos, eventos,.(n)</desc>
-    <date>2021</date>
   </programme>
   <programme start="20221231015000 +0000" stop="20221231024500 +0000" channel="Telehit Musica">
     <title lang="en">Super Hits</title>
