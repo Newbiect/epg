@@ -1,5 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="AMC+">
+    <display-name lang="en">AMC+</display-name>
+    <icon src="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/amcplus/live/AMCplus_416x287_v01-K.svg" />
+    <url>http://www.amazon.com</url>
+  </channel>
   <channel id="Teleuniverso">
     <display-name lang="en">Teleuniverso</display-name>
     <url>http://www.tvguide.com</url>
@@ -385,18 +390,122 @@
     <display-name lang="en">Telehit Musica.</display-name>
     <url>http://www.tvguide.com</url>
   </channel>
-  <programme start="20230102010000 +0000" stop="20230102020000 +0000" channel="Teleuniverso">
-    <title lang="en">Encuentro con Jordy</title>
-    <desc lang="en">Un programa de entrevistas con personalidades para debatir la actualidad social y política.(n)</desc>
-    <date>2021</date>
+  <programme start="20230102041300 +0000" stop="20230102054500 +0000" channel="AMC+">
+    <title lang="en">Anesthesia</title>
   </programme>
-  <programme start="20230102020000 +0000" stop="20230102030000 +0000" channel="Teleuniverso">
-    <title lang="en">Con Brenda</title>
-    <desc lang="en">Entrevistas a personalidades del entretenimiento realizadas por la talentosa Brenda Sánchez.(n)</desc>
-    <date>2008</date>
+  <programme start="20230102054500 +0000" stop="20230102063000 +0000" channel="AMC+">
+    <title lang="en">Part 1</title>
+    <sub-title lang="en">Woman Down In Central Park</sub-title>
   </programme>
-  <programme start="20230102030000 +0000" stop="20230102040000 +0000" channel="Teleuniverso">
-    <title lang="en">Informativo Universal</title>
+  <programme start="20230102063000 +0000" stop="20230102071500 +0000" channel="AMC+">
+    <title lang="en">Part 2</title>
+    <sub-title lang="en">Rough Sex</sub-title>
+  </programme>
+  <programme start="20230102071500 +0000" stop="20230102080000 +0000" channel="AMC+">
+    <title lang="en">Part 3</title>
+    <sub-title lang="en">Who is Robert Chambers?</sub-title>
+  </programme>
+  <programme start="20230102080000 +0000" stop="20230102084500 +0000" channel="AMC+">
+    <title lang="en">Part 4</title>
+    <sub-title lang="en">Blame the Victim</sub-title>
+  </programme>
+  <programme start="20230102084500 +0000" stop="20230102093000 +0000" channel="AMC+">
+    <title lang="en">Part 5</title>
+    <sub-title lang="en">The Trial of the Decade</sub-title>
+  </programme>
+  <programme start="20230102093000 +0000" stop="20230102095300 +0000" channel="AMC+">
+    <title lang="en">Secret Stashley</title>
+  </programme>
+  <programme start="20230102095300 +0000" stop="20230102101600 +0000" channel="AMC+">
+    <title lang="en">Sucka M.C.</title>
+  </programme>
+  <programme start="20230102101600 +0000" stop="20230102103900 +0000" channel="AMC+">
+    <title lang="en">Falcon for Sale</title>
+  </programme>
+  <programme start="20230102103900 +0000" stop="20230102110000 +0000" channel="AMC+">
+    <title lang="en">Jay Invades</title>
+  </programme>
+  <programme start="20230102110000 +0000" stop="20230102112600 +0000" channel="AMC+">
+    <title lang="en">Jay Invades</title>
+  </programme>
+  <programme start="20230102112600 +0000" stop="20230102115200 +0000" channel="AMC+">
+    <title lang="en">Wookiee Fever</title>
+  </programme>
+  <programme start="20230102115200 +0000" stop="20230102121500 +0000" channel="AMC+">
+    <title lang="en">Comic Book Men 502</title>
+    <sub-title lang="en">Holy Zap Copter!</sub-title>
+  </programme>
+  <programme start="20230102121500 +0000" stop="20230102123800 +0000" channel="AMC+">
+    <title lang="en">The Captain and the Clerk</title>
+  </programme>
+  <programme start="20230102123800 +0000" stop="20230102130000 +0000" channel="AMC+">
+    <title lang="en">Bryan Gets Bit</title>
+  </programme>
+  <programme start="20230102130000 +0000" stop="20230102132300 +0000" channel="AMC+">
+    <title lang="en">Stash</title>
+    <sub-title lang="en">pocalypse</sub-title>
+  </programme>
+  <programme start="20230102132300 +0000" stop="20230102134600 +0000" channel="AMC+">
+    <title lang="en">Stan Saves!</title>
+  </programme>
+  <programme start="20230102134600 +0000" stop="20230102140900 +0000" channel="AMC+">
+    <title lang="en">Making Clay</title>
+  </programme>
+  <programme start="20230102140900 +0000" stop="20230102153200 +0000" channel="AMC+">
+    <title lang="en">The Ranger</title>
+  </programme>
+  <programme start="20230102153200 +0000" stop="20230102161800 +0000" channel="AMC+">
+    <title lang="en">California</title>
+    <sub-title lang="en">Pacific Coast Highway</sub-title>
+  </programme>
+  <programme start="20230102161800 +0000" stop="20230102170600 +0000" channel="AMC+">
+    <title lang="en">Ride With Norman Reedus</title>
+  </programme>
+  <programme start="20230102170600 +0000" stop="20230102175400 +0000" channel="AMC+">
+    <title lang="en">Ride With Norman Reedus</title>
+  </programme>
+  <programme start="20230102175400 +0000" stop="20230102184200 +0000" channel="AMC+">
+    <title lang="en">Ride With Norman Reedus</title>
+  </programme>
+  <programme start="20230102184200 +0000" stop="20230102193000 +0000" channel="AMC+">
+    <title lang="en">Ride With Norman Reedus</title>
+  </programme>
+  <programme start="20230102193000 +0000" stop="20230102201500 +0000" channel="AMC+">
+    <title lang="en">Ride With Norman Reedus</title>
+  </programme>
+  <programme start="20230102201500 +0000" stop="20230102210300 +0000" channel="AMC+">
+    <title lang="en">California</title>
+    <sub-title lang="en">Pacific Coast Highway</sub-title>
+  </programme>
+  <programme start="20230102210300 +0000" stop="20230102215100 +0000" channel="AMC+">
+    <title lang="en">Ride With Norman Reedus</title>
+  </programme>
+  <programme start="20230102215100 +0000" stop="20230102223900 +0000" channel="AMC+">
+    <title lang="en">Ride With Norman Reedus</title>
+  </programme>
+  <programme start="20230102223900 +0000" stop="20230102232700 +0000" channel="AMC+">
+    <title lang="en">Ride With Norman Reedus</title>
+  </programme>
+  <programme start="20230102232700 +0000" stop="20230103001500 +0000" channel="AMC+">
+    <title lang="en">Ride With Norman Reedus</title>
+  </programme>
+  <programme start="20230103001500 +0000" stop="20230103010000 +0000" channel="AMC+">
+    <title lang="en">Ride With Norman Reedus</title>
+  </programme>
+  <programme start="20230103010000 +0000" stop="20230103015400 +0000" channel="AMC+">
+    <title lang="en">The End Is the Beginning</title>
+  </programme>
+  <programme start="20230103015400 +0000" stop="20230103024000 +0000" channel="AMC+">
+    <title lang="en">Welcome to the Club</title>
+  </programme>
+  <programme start="20230103024000 +0000" stop="20230103032500 +0000" channel="AMC+">
+    <title lang="en">Alaska</title>
+  </programme>
+  <programme start="20230103032500 +0000" stop="20230103041800 +0000" channel="AMC+">
+    <title lang="en">The Key</title>
+  </programme>
+  <programme start="20230103041800 +0000" stop="20230103050900 +0000" channel="AMC+">
+    <title lang="en">Honey</title>
   </programme>
   <programme start="20230102040000 +0000" stop="20230102090000 +0000" channel="Teleuniverso">
     <title lang="en">Retransmisión Programación regular</title>
@@ -525,14 +634,6 @@
   </programme>
   <programme start="20230103230000 +0000" stop="20230104000000 +0000" channel="Teleuniverso">
     <title lang="en">Panorámica</title>
-  </programme>
-  <programme start="20230102010000 +0000" stop="20230102020000 +0000" channel="RTVD">
-    <title lang="en">Agenda presidencial</title>
-  </programme>
-  <programme start="20230102020000 +0000" stop="20230102040000 +0000" channel="RTVD">
-    <title lang="en">Cine dominicano</title>
-    <desc lang="en">Increíble ciclo de cine.(n)</desc>
-    <date>2021</date>
   </programme>
   <programme start="20230102040000 +0000" stop="20230102092500 +0000" channel="RTVD">
     <title lang="en">Programación pagada</title>
@@ -711,18 +812,6 @@
     <title lang="en">Espacio Canal 4RD</title>
     <desc lang="en">Un espacio que busca producir contenidos que difundan los valores del Estado Dominicano.(n)</desc>
     <date>2021</date>
-  </programme>
-  <programme start="20230102010000 +0000" stop="20230102020000 +0000" channel="Colorvision">
-    <title lang="en">Con Jatnna</title>
-    <desc lang="en">Destacados personajes del mundo artístico y social son entrevistados.(n)</desc>
-  </programme>
-  <programme start="20230102020000 +0000" stop="20230102030000 +0000" channel="Colorvision">
-    <title lang="en">Pamela todo un show</title>
-    <desc lang="en">Programa de variedades.(n)</desc>
-  </programme>
-  <programme start="20230102030000 +0000" stop="20230102040000 +0000" channel="Colorvision">
-    <title lang="en">Proceso</title>
-    <desc lang="en">Todos los lunes la reportera Jesusa Cervantes nos trae el periodismo sin concesiones de Proceso, el talk show de actualidad mas visto de Republica Dominicana. Política, polémicas, historia y temas de interés es de lo que habla Jesusa Cervantes en su programa para darle al televidente un concepto mas certero y verdadero de la realidad en la que vivimos.(n)</desc>
   </programme>
   <programme start="20230102040000 +0000" stop="20230102050000 +0000" channel="Colorvision">
     <title lang="en">Vamos</title>
@@ -915,8 +1004,19 @@
     </rating>
   </programme>
   <programme start="20230102003000 +0000" stop="20230102010000 +0000" channel="Tastemade en Espanol">
-    <title lang="en">Entre tragos y parrilla (?)</title>
-    <sub-title lang="en">Parrillada para dos</sub-title>
+    <title lang="en">Entre tragos y parrilla</title>
+    <sub-title lang="en">Parrillada para dos. Parrillada para dos</sub-title>
+    <desc lang="en">Carlos recibe a su esposa para juntos cocinar a la parrilla. Preparan tacos de chorizo, tejunio y hasta elotes callejeros.(n)</desc>
+    <credits>
+      <actor role="Host">Carlos Hérnandez</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Cooking</category>
+    <icon src="https://tvtv.us/gn/pi/assets/p22844022_b_v8_aa.jpg" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
   </programme>
   <programme start="20230102010000 +0000" stop="20230102013000 +0000" channel="Tastemade en Espanol">
     <title lang="en">Destilando México (?)</title>
@@ -1301,12 +1401,6 @@
   <programme start="20230103140000 +0000" stop="20230103170000 +0000" channel="NY1 Noticias">
     <title lang="en">Noticias por la mañana (?)</title>
   </programme>
-  <programme start="20230102011700 +0000" stop="20230102020100 +0000" channel="Aplauso">
-    <title lang="en">Flor de lluvia</title>
-  </programme>
-  <programme start="20230102020100 +0000" stop="20230102031900 +0000" channel="Aplauso">
-    <title lang="en">Lizzie</title>
-  </programme>
   <programme start="20230102031900 +0000" stop="20230102045400 +0000" channel="Aplauso">
     <title lang="en">Hasta que la muerte nos una</title>
   </programme>
@@ -1486,33 +1580,6 @@
     <title lang="en">El Bronx</title>
     <desc lang="en">Basado en los eventos que ocurrieron en la ciudad de El Bronx, un lugar que se encuentra en el centro de Bogotá, donde la gente vivía en la miseria, las drogas y el crimen.(n)</desc>
     <date>2018</date>
-  </programme>
-  <programme start="20230102014000 +0000" stop="20230102024500 +0000" channel="Comedy Central">
-    <title lang="en">Comedy Central presenta: Eso mamona</title>
-    <sub-title lang="en">5/14/2021</sub-title>
-    <date>2021</date>
-  </programme>
-  <programme start="20230102024500 +0000" stop="20230102032000 +0000" channel="Comedy Central">
-    <title lang="en">Se rentan cuartos</title>
-    <sub-title lang="en">La fiesta del abuelo</sub-title>
-    <date>2022</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20230102032000 +0000" stop="20230102035000 +0000" channel="Comedy Central">
-    <title lang="en">Se rentan cuartos</title>
-    <sub-title lang="en">La maldición garza</sub-title>
-    <date>2022</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20230102035000 +0000" stop="20230102042500 +0000" channel="Comedy Central">
-    <title lang="en">Drunk History LA</title>
-    <sub-title lang="en">Cortés y la Malinche - El Presidente y los Espíritus - La Pierna de Santa Anna</sub-title>
-    <desc lang="en">Julio Casado nos presenta la historia, muy borrosa, del General Santa Anna; Alex Salazar cuenta el romance entre Cortés y La Malinche; y José Luis Guzmán narra una historia del presidente Madero y los espírutus.(n)</desc>
-    <date>2016</date>
   </programme>
   <programme start="20230102042500 +0000" stop="20230102045500 +0000" channel="Comedy Central">
     <title lang="en">El príncipe del rap</title>
@@ -2405,32 +2472,6 @@
     <category lang="en">Soccer</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9395095_b_s4_ac.jpg" />
   </programme>
-  <programme start="20230102010000 +0000" stop="20230102020000 +0000" channel="All Arts US">
-    <title lang="en">Kenny Rogers Farewell Concert Celebration: All In For The Gambler</title>
-    <desc lang="en">A farewell concert celebration in honor of Kenny Rogers.(n)</desc>
-    <credits>
-      <presenter>Kenny Rogers</presenter>
-    </credits>
-    <date>2021</date>
-    <category lang="en">Music</category>
-  </programme>
-  <programme start="20230102020000 +0000" stop="20230102043000 +0000" channel="All Arts US">
-    <title lang="en">Country Music</title>
-    <sub-title lang="en">Are You Sure Hank Done It This Way? (1973-1983)</sub-title>
-    <desc lang="en">Witness a vibrant era in country music, with Dolly Parton finding mainstream success; Hank Williams Jr. and Rosanne Cash emerging from their famous fathers' shadows; and Willie Nelson and Waylon Jennings launching the "Outlaw" movement.(n)</desc>
-    <credits>
-      <director>Ken Burns</director>
-      <producer>Ken Burns</producer>
-    </credits>
-    <date>2019</date>
-    <category lang="en">Documentary</category>
-    <category lang="en">Music</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12362/012362/012362_960x720_27161_038.jpg" />
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20230102043000 +0000" stop="20230102050000 +0000" channel="All Arts US">
     <title lang="en">One Voice: The Songs We Share</title>
     <sub-title lang="en">Country</sub-title>
@@ -2473,7 +2514,7 @@
     </credits>
     <date>2020</date>
     <category lang="en">Documentary</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13127/013127/013127_1440x810_637414135549492043.jpg" />
+    <icon src="https://content.internetvideoarchive.com/content/photos/12573/840963_042.jpg" />
     <episode-num system="onscreen">S34 E2</episode-num>
     <rating system="MPAA">
       <value>TV-PG</value>
@@ -6863,16 +6904,6 @@
     <rating system="US">
       <value>TVG</value>
     </rating>
-  </programme>
-  <programme start="20230102000000 +0000" stop="20230102020000 +0000" channel="Afizzionados">
-    <title lang="en">Fútbol: Liga MX</title>
-    <sub-title lang="en">Atlas vs. Necaxa</sub-title>
-    <desc lang="en">Atlas vs. Necaxa. Desde Estadio Jalisco.(n)</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20230102020000 +0000" stop="20230102030000 +0000" channel="Afizzionados">
-    <title lang="en">Nunca se olvida</title>
-    <date>2022</date>
   </programme>
   <programme start="20230102030000 +0000" stop="20230102050000 +0000" channel="Afizzionados">
     <title lang="en">Fútbol: Liga MX</title>
@@ -18626,31 +18657,6 @@
     <category lang="it">Musica</category>
     <icon src="https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png" />
   </programme>
-  <programme start="20230102013000 +0000" stop="20230102020000 +0000" channel="RT (Russia Today)">
-    <title lang="en">Salvajes y libres - Parte II</title>
-    <desc lang="en">Halcones sacres, osos polares, tigres y leopardos de Amur.(n)</desc>
-  </programme>
-  <programme start="20230102020000 +0000" stop="20230102023000 +0000" channel="RT (Russia Today)">
-    <title lang="en">Noticias</title>
-  </programme>
-  <programme start="20230102023000 +0000" stop="20230102030000 +0000" channel="RT (Russia Today)">
-    <title lang="en">La lista de Erick</title>
-    <sub-title lang="en">Islas Kuriles: donde nace el sol</sub-title>
-    <date>2022</date>
-  </programme>
-  <programme start="20230102030000 +0000" stop="20230102033000 +0000" channel="RT (Russia Today)">
-    <title lang="en">Salvajes y libres - Parte I</title>
-    <desc lang="en">Halcones sacres, osos polares, tigres y leopardos de Amur.(n)</desc>
-  </programme>
-  <programme start="20230102033000 +0000" stop="20230102040000 +0000" channel="RT (Russia Today)">
-    <title lang="en">Salvajes y libres - Parte II</title>
-    <desc lang="en">Halcones sacres, osos polares, tigres y leopardos de Amur.(n)</desc>
-  </programme>
-  <programme start="20230102040000 +0000" stop="20230102043000 +0000" channel="RT (Russia Today)">
-    <title lang="en">Nica: descifrar el Big Bang</title>
-    <desc lang="en">Un documental que explora el trabajo que se realiza con el acelerador de partículas NICA.(n)</desc>
-    <date>2021</date>
-  </programme>
   <programme start="20230102043000 +0000" stop="20230102050000 +0000" channel="RT (Russia Today)">
     <title lang="en">La lista de Erick</title>
     <sub-title lang="en">Islas Kuriles: donde nace el sol</sub-title>
@@ -20378,19 +20384,6 @@
       <value>TV14</value>
     </rating>
   </programme>
-  <programme start="20230102010000 +0000" stop="20230102020000 +0000" channel="Televisión Dominicana">
-    <title lang="en">Noticias SIN Fin de Semana</title>
-    <desc lang="en">Noticias diarias del acontecer nacional.(n)</desc>
-    <date>2015</date>
-  </programme>
-  <programme start="20230102020000 +0000" stop="20230102030000 +0000" channel="Televisión Dominicana">
-    <title lang="en">El show de Raymond y Miguel</title>
-    <date>2013</date>
-  </programme>
-  <programme start="20230102030000 +0000" stop="20230102040000 +0000" channel="Televisión Dominicana">
-    <title lang="en">Noche de Luz</title>
-    <desc lang="en">Revista semanal de variedades.(n)</desc>
-  </programme>
   <programme start="20230102040000 +0000" stop="20230102050000 +0000" channel="Televisión Dominicana">
     <title lang="en">Noticias SIN Fin de Semana</title>
     <desc lang="en">Noticias diarias del acontecer nacional.(n)</desc>
@@ -20569,35 +20562,6 @@
   <programme start="20230103233000 +0000" stop="20230104000000 +0000" channel="Televisión Dominicana">
     <title lang="en">Deportes SIN</title>
     <desc lang="en">Lo más destacado del mundo deportivo.(n)</desc>
-  </programme>
-  <programme start="20230102010000 +0000" stop="20230102033000 +0000" channel="TNT US">
-    <title lang="en">Back to the Future</title>
-    <desc lang="en">An eccentric scientist builds a time machine, which accidentally transports a high-school student back to the 1950s, where the teen inadvertently interferes with the budding romance between his future parents. The boy must figure out how to set things right, or risk completely altering the future. (repeat).(n)</desc>
-    <credits>
-      <director>Robert Zemeckis</director>
-      <director>Bob Gale</director>
-      <actor role="Marty McFly">Michael J. Fox</actor>
-      <actor role="Dr. Emmett Brown">Christopher Lloyd</actor>
-      <actor role="George McFly">Crispin Glover</actor>
-      <actor role="Lorraine Baines">Lea Thompson</actor>
-      <actor role="Biff Tannen">Thomas F. Wilson</actor>
-      <actor role="Jennifer Parker">Claudia Wells</actor>
-      <actor role="David McFly">Marc McClure</actor>
-      <actor role="Linda McFly">Wendie Jo Sperber</actor>
-      <writer>Bob Gale</writer>
-      <producer>Neil Canton</producer>
-      <composer>Alan Silvestri</composer>
-    </credits>
-    <date>1985</date>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Family</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Action &amp; Adventure</category>
-    <category lang="en">Science Fiction</category>
-    <icon src="https://content.internetvideoarchive.com/content/photos/7352/41004.jpg" />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
   </programme>
   <programme start="20230102033000 +0000" stop="20230102060000 +0000" channel="TNT US">
     <title lang="en">Back to the Future Part II</title>
@@ -20918,7 +20882,7 @@
     <date>2020</date>
     <category lang="en">Fantasy</category>
     <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13280/013280/013280_1591x895_637510899029363174.jpg" />
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13153/013153/013153_991x557_637430501905473211.jpg" />
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
@@ -21287,7 +21251,7 @@
     <date>2020</date>
     <category lang="en">Fantasy</category>
     <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13280/013280/013280_1591x895_637510899029363174.jpg" />
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/13153/013153/013153_991x557_637430501905473211.jpg" />
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
@@ -21349,7 +21313,14 @@
     <category lang="en">Pop</category>
     <icon src="https://images.pluto.tv/episodes/63aee7efd576210013fed905/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
-  <programme start="20230102150000 +0000" stop="20230102210000 +0000" channel="Vevo 2K">
+  <programme start="20230102150000 +0000" stop="20230102170000 +0000" channel="Vevo 2K">
+    <title lang="en">Vevo 2K Videos</title>
+    <desc lang="en">Videos from all of your favorite 2K artists.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Pop</category>
+    <icon src="https://images.pluto.tv/episodes/62fae54620b977001eecc94a/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20230102170000 +0000" stop="20230102210000 +0000" channel="Vevo 2K">
     <title lang="en">Vevo 2K</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
@@ -21452,7 +21423,14 @@
     <category lang="en">Dance &amp; Party</category>
     <icon src="https://images.pluto.tv/episodes/635952898515d3001319caba/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
-  <programme start="20230102150000 +0000" stop="20230102210000 +0000" channel="Vevo Reggaetón &amp; Trap">
+  <programme start="20230102150000 +0000" stop="20230102170000 +0000" channel="Vevo Reggaetón &amp; Trap">
+    <title lang="en">DSCVR Más</title>
+    <desc lang="en">Hot new videos from aritsts on the rise.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Dance &amp; Party</category>
+    <icon src="https://images.pluto.tv/episodes/63593d81f64f1900131dee2e/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20230102170000 +0000" stop="20230102210000 +0000" channel="Vevo Reggaetón &amp; Trap">
     <title lang="en">Vevo Reggaeton &amp; Trap</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
@@ -21556,15 +21534,27 @@
     <icon src="https://images.pluto.tv/episodes/63a276daeb85c500132b13c6/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
   <programme start="20230102140000 +0000" stop="20230102150000 +0000" channel="Vevo Pop">
-    <title lang="en">Vevo Pop</title>
-    <desc lang="en">No information available.(n)</desc>
-    <category lang="en">No information available</category>
-    <icon src="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-    <rating>
-      <value>No Rating</value>
-    </rating>
+    <title lang="en">Pop Workout</title>
+    <desc lang="en">Start the new year right and get moving with these pop hits.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Pop</category>
+    <icon src="https://images.pluto.tv/episodes/63a276dbeb85c500132b13cc/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
-  <programme start="20230102150000 +0000" stop="20230102210000 +0000" channel="Vevo Pop">
+  <programme start="20230102150000 +0000" stop="20230102160000 +0000" channel="Vevo Pop">
+    <title lang="en">Pop Videos</title>
+    <desc lang="en">Hot new videos.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Pop</category>
+    <icon src="https://images.pluto.tv/episodes/63a00c081f9a4e00138b6a37/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20230102160000 +0000" stop="20230102170000 +0000" channel="Vevo Pop">
+    <title lang="en">DSCVR Pop</title>
+    <desc lang="en">Videos from artists on the rise.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Pop</category>
+    <icon src="https://images.pluto.tv/episodes/63a0919c88bc200013495de7/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20230102170000 +0000" stop="20230102210000 +0000" channel="Vevo Pop">
     <title lang="en">Vevo Pop</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
@@ -21661,15 +21651,27 @@
     <icon src="https://images.pluto.tv/episodes/63a4942388bc2000134a7cfc/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
   <programme start="20230102140000 +0000" stop="20230102150000 +0000" channel="Vevo Latino">
-    <title lang="en">Vevo Latino</title>
-    <desc lang="en">No information available.(n)</desc>
-    <category lang="en">No information available</category>
-    <icon src="https://images.pluto.tv/channels/5da0d64d0e8a62000964ebe4/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-    <rating>
-      <value>No Rating</value>
-    </rating>
+    <title lang="en">Buenos Días</title>
+    <desc lang="en">Start your day with music full of good vibes.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Latino</category>
+    <icon src="https://images.pluto.tv/episodes/63a4942388bc2000134a7d00/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
-  <programme start="20230102150000 +0000" stop="20230102210000 +0000" channel="Vevo Latino">
+  <programme start="20230102150000 +0000" stop="20230102160000 +0000" channel="Vevo Latino">
+    <title lang="en">DSCVR Latinx</title>
+    <desc lang="en">Videos from artists on the rise.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Latino</category>
+    <icon src="https://images.pluto.tv/episodes/63a4b062d576210013fc07c2/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20230102160000 +0000" stop="20230102163000 +0000" channel="Vevo Latino">
+    <title lang="en">DSCVR: Artists To Watch 2023</title>
+    <desc lang="en">Presenting Vevo's Artists To Watch for 2023.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Latino</category>
+    <icon src="https://images.pluto.tv/episodes/63a01322377c6f00134e32c6/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20230102163000 +0000" stop="20230102210000 +0000" channel="Vevo Latino">
     <title lang="en">Vevo Latino</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
@@ -21772,7 +21774,21 @@
     <category lang="en">Country</category>
     <icon src="https://images.pluto.tv/episodes/63a276e8eb85c500132b16e1/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
-  <programme start="20230102150000 +0000" stop="20230102210000 +0000" channel="Vevo Country">
+  <programme start="20230102150000 +0000" stop="20230102160000 +0000" channel="Vevo Country">
+    <title lang="en">Country Videos</title>
+    <desc lang="en">Nothing but hit videos from the biggest Country artists!(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Country</category>
+    <icon src="https://images.pluto.tv/episodes/63a276e8eb85c500132b16e5/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20230102160000 +0000" stop="20230102170000 +0000" channel="Vevo Country">
+    <title lang="en">DSCVR Country</title>
+    <desc lang="en">Country's most buzzing new artists.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Country</category>
+    <icon src="https://images.pluto.tv/episodes/63a276e8eb85c500132b16e9/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20230102170000 +0000" stop="20230102210000 +0000" channel="Vevo Country">
     <title lang="en">Vevo Country</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
@@ -21883,15 +21899,27 @@
     <icon src="https://images.pluto.tv/episodes/63a53609377c6f00135049c4/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
   <programme start="20230102140000 +0000" stop="20230102150000 +0000" channel="Vevo R&amp;B">
-    <title lang="en">Vevo R&amp;B</title>
-    <desc lang="en">No information available.(n)</desc>
-    <category lang="en">No information available</category>
-    <icon src="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-    <rating>
-      <value>No Rating</value>
-    </rating>
+    <title lang="en">R&amp;B Newness</title>
+    <desc lang="en">Check out vids from up and coming R&amp;B artists.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">R&amp;B/Soul</category>
+    <icon src="https://images.pluto.tv/episodes/63a53609377c6f00135049c8/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
-  <programme start="20230102150000 +0000" stop="20230102210000 +0000" channel="Vevo R&amp;B">
+  <programme start="20230102150000 +0000" stop="20230102160000 +0000" channel="Vevo R&amp;B">
+    <title lang="en">Souled Out</title>
+    <desc lang="en">Videos that will stimulate your senses.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">R&amp;B/Soul</category>
+    <icon src="https://images.pluto.tv/episodes/63a53609377c6f00135049cc/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20230102160000 +0000" stop="20230102170000 +0000" channel="Vevo R&amp;B">
+    <title lang="en">DSCVR R&amp;B</title>
+    <desc lang="en">Emerging artists that one needs to know about.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">R&amp;B/Soul</category>
+    <icon src="https://images.pluto.tv/episodes/63a53609377c6f00135049d0/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20230102170000 +0000" stop="20230102210000 +0000" channel="Vevo R&amp;B">
     <title lang="en">Vevo R&amp;B</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
@@ -21943,30 +21971,6 @@
     <icon src="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
       <value>No Rating</value>
-    </rating>
-  </programme>
-  <programme start="20230102012000 +0000" stop="20230102021500 +0000" channel="E!">
-    <title lang="en">Botched</title>
-    <desc lang="en">El Dr.(n)</desc>
-    <date>2014</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20230102021500 +0000" stop="20230102031000 +0000" channel="E!">
-    <title lang="en">Botched</title>
-    <desc lang="en">Un conteo regresivo de los 12 pacientes más obsesionados. El Dr. Nassif y el Dr.(n)</desc>
-    <date>2020</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20230102031000 +0000" stop="20230102040500 +0000" channel="E!">
-    <title lang="en">Botched</title>
-    <desc lang="en">El Dr.(n)</desc>
-    <date>2014</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
     </rating>
   </programme>
   <programme start="20230102040500 +0000" stop="20230102050000 +0000" channel="E!">
@@ -22304,16 +22308,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20230102010400 +0000" stop="20230102023300 +0000" channel="De Película Plus">
-    <title lang="en">Chabelo y Pepito vs. Los Monstruos</title>
-    <desc lang="en">El niño Pepito y su primo Chabelo van en una excursión scout dirigida por Gerardo. Los scouts ayudan a un tipo a arreglar su carreta para después enterarse que era un monstruo. Gerardo es novio de la hermana de Pepito, Alicia, que se une a la excursión para aprender biología. Furioso por la llegada de su hermana, Pepito convence a Chabelo de irse por su lado, y los persigue un gorila escapado de un zoológico.(n)</desc>
-    <date>1973</date>
-  </programme>
-  <programme start="20230102023300 +0000" stop="20230102042300 +0000" channel="De Película Plus">
-    <title lang="en">Un Novio Para Dos Hermanas</title>
-    <desc lang="en">Pili viaja a México para ver el debut de su hermana Mili, y cuando ésta se entera de la mala situación económica de su tío, decide buscar trabajo. Pili trabaja en unos grandes almacenes y conoce a Rodolfo, nieto de la dueña de la empresa. A su vez la señ.(n)</desc>
-    <date>1967</date>
-  </programme>
   <programme start="20230102042300 +0000" stop="20230102060400 +0000" channel="De Película Plus">
     <title lang="en">Del Brazo y por la Calle</title>
     <desc lang="en">Una joven de familia acomodada empieza a vivir una vida dura al casarse con un humilde pintor.(n)</desc>
@@ -22462,16 +22456,6 @@
     <desc lang="en">Nora es una joven pueblerina que llega a la Ciudad de México con el fin de conseguir todo lo que desea para vivir. Gracias a su belleza y buenos modales, rápidamente obtiene trabajo en una oficina, donde se enamora de su jefe, quien se encuentra...(n)</desc>
     <date>1961</date>
   </programme>
-  <programme start="20230102000600 +0000" stop="20230102020400 +0000" channel="De Película">
-    <title lang="en">El arracadas</title>
-    <desc lang="en">Un hijo busca vengar la injusta muerte de su padre, un destacado médico. En una historia llena de amor, odio y violencia, Mariano Landeros sigue el juramento hecho a su madre de encontrar al asesino de su padre a como dé lugar, valiéndose de pistas que ella le brinda.(n)</desc>
-    <date>1982</date>
-  </programme>
-  <programme start="20230102020400 +0000" stop="20230102040000 +0000" channel="De Película">
-    <title lang="en">Romeo contra Julieta</title>
-    <desc lang="en">Una joven rica---que no recuerda nada---y un mecánico pasan la noche juntos, por lo que los padres de ella los obligan a casarse para reparar el daño.(n)</desc>
-    <date>1968</date>
-  </programme>
   <programme start="20230102040000 +0000" stop="20230102060100 +0000" channel="De Película">
     <title lang="en">Abajo el Telón</title>
     <desc lang="en">Un limpiador de ventanas (Cantinflas) se mete en líos cuando es acusado de un robo que no cometió.(n)</desc>
@@ -22606,14 +22590,6 @@
     <title lang="en">Los gemelos alborotados</title>
     <desc lang="en">Un pueblo vive caóticas situaciones cuando un gemelo perdido regresa para causar problemas. Los malentendidos se suceden porque nadie tiene idea de que existen dos hermanos que son exactamente iguales. Y debido a esto ocurren las situaciones más increíbles y jamás imaginadas.(n)</desc>
     <date>1979</date>
-  </programme>
-  <programme start="20230102013000 +0000" stop="20230102020000 +0000" channel="Azteca Uno">
-    <title lang="en">Lo que callamos las mujeres</title>
-    <desc lang="en">Esta serie dramática representa en cada capítulo de una hora historias distintas y reales sobre mujeres mexicanas que atraviesan diferentes vicisitudes. Las experiencias de estas mujeres tratan de temas censurados por la sociedad y por lo tanto ellas los enfrentan en silencio, algunas de las situaciones que se examinan son: el abuso infantil, el embarazo no deseado, asesinatos, la pornografía y la violencia familiar entre otras.(n)</desc>
-    <date>2001</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
   </programme>
   <programme start="20230102020000 +0000" stop="20230102051500 +0000" channel="Azteca Uno">
     <title lang="en">Exatlón México</title>
@@ -22832,30 +22808,6 @@
     <title lang="en">Acércate a Rocío</title>
     <desc lang="en">Hablar de tus problemas es el primer paso para superarlos, por eso Rocío Sánchez Azuara está de regreso con un programa único, en el cual, podrás acercarte, para que con ella, hables de todo lo que te preocupa, y juntas o juntos, puedan encontrar una solución.(n)</desc>
     <date>2021</date>
-  </programme>
-  <programme start="20230102014500 +0000" stop="20230102023000 +0000" channel="UNIVERSAL REALITY">
-    <title lang="en">Songland</title>
-    <sub-title lang="en">Lady Antebellum</sub-title>
-    <desc lang="en">Songland sirve como un destino para que las estrellas más importantes de la música encuentren su próximo hit. En el estreno de la segunda temporada, los compositores no descubiertos ocupan el centro del escenario cuando presentan su material original al trío.(n)</desc>
-    <date>2020</date>
-  </programme>
-  <programme start="20230102023000 +0000" stop="20230102031500 +0000" channel="UNIVERSAL REALITY">
-    <title lang="en">Songland</title>
-    <sub-title lang="en">Luis Fonsi</sub-title>
-    <desc lang="en">La sensación del pop latino multiplatino y nominado al Grammy, Luis Fonsi,.(n)</desc>
-    <date>2020</date>
-  </programme>
-  <programme start="20230102031500 +0000" stop="20230102040000 +0000" channel="UNIVERSAL REALITY">
-    <title lang="en">Songland</title>
-    <sub-title lang="en">H.E.R</sub-title>
-    <desc lang="en">La cantante y compositora de RB dos veces ganadora del premio Grammy, H.E.R.,.(n)</desc>
-    <date>2020</date>
-  </programme>
-  <programme start="20230102040000 +0000" stop="20230102044500 +0000" channel="UNIVERSAL REALITY">
-    <title lang="en">Songland</title>
-    <sub-title lang="en">Marinta McBride</sub-title>
-    <desc lang="en">La superestrella country cinco veces ganadora del premio CMA, Martina McBride,.(n)</desc>
-    <date>2020</date>
   </programme>
   <programme start="20230102044500 +0000" stop="20230102053000 +0000" channel="UNIVERSAL REALITY">
     <title lang="en">Songland</title>
@@ -23288,30 +23240,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20230102013000 +0000" stop="20230102021500 +0000" channel="UNIVERSAL CRIME">
-    <title lang="en">Enterrado en el jardín</title>
-    <sub-title lang="en">Pesadilla de Nueva Inglaterra</sub-title>
-    <desc lang="en">Una ola de asesinatos se extiende por una hermosa ciudad de Nueva Inglaterra cuando se hace un descubrimiento espantoso en un granero ubicado en un patio trasero.(n)</desc>
-    <date>2020</date>
-  </programme>
-  <programme start="20230102021500 +0000" stop="20230102030000 +0000" channel="UNIVERSAL CRIME">
-    <title lang="en">Enterrado en el jardín</title>
-    <sub-title lang="en">En lo profundo de los campos de maíz</sub-title>
-    <desc lang="en">Agentes federales llegan a una pequeña ciudad de Ohio después de que una niña amada desaparece.(n)</desc>
-    <date>2020</date>
-  </programme>
-  <programme start="20230102030000 +0000" stop="20230102034500 +0000" channel="UNIVERSAL CRIME">
-    <title lang="en">Enterrado en el jardín</title>
-    <sub-title lang="en">Secretos fatales</sub-title>
-    <desc lang="en">Los investigadores de York, Pensilvania,.(n)</desc>
-    <date>2020</date>
-  </programme>
-  <programme start="20230102034500 +0000" stop="20230102043000 +0000" channel="UNIVERSAL CRIME">
-    <title lang="en">Enterrado en el jardín</title>
-    <sub-title lang="en">Viviendo con miedo</sub-title>
-    <desc lang="en">Un caso de robo de identidad en el desierto de Arizona toma un giro espeluznante cuando los investigadores hacen un descubrimiento espantoso en el lugar más improbable.(n)</desc>
-    <date>2020</date>
-  </programme>
   <programme start="20230102043000 +0000" stop="20230102051500 +0000" channel="UNIVERSAL CRIME">
     <title lang="en">Parejas asesinas</title>
     <desc lang="en">Un par de vagabundos se hacen amigos de un buen samaritano con horribles resultados.(n)</desc>
@@ -23705,47 +23633,6 @@
     <sub-title lang="en">Scott Peterson</sub-title>
     <desc lang="en">La desaparición en 2002 de Laci Peterson, de 27 años y embarazada,.(n)</desc>
     <date>2021</date>
-  </programme>
-  <programme start="20230102013000 +0000" stop="20230102015500 +0000" channel="UNIVERSAL COMEDY">
-    <title lang="en">Señor alcalde</title>
-    <sub-title lang="en">Sacramento</sub-title>
-    <desc lang="en">Una misión especial obliga a Jayden y Arpi a conocerse mejor.(n)</desc>
-    <date>2021</date>
-  </programme>
-  <programme start="20230102015500 +0000" stop="20230102022000 +0000" channel="UNIVERSAL COMEDY">
-    <title lang="en">Señor alcalde</title>
-    <sub-title lang="en">Día de béisbol</sub-title>
-    <desc lang="en">El alcalde Neil lanza una nueva iniciativa de seguridad mientras Arpi lo capacita para realizar la tarea más difícil que ha tenido que realizar hasta el momento.(n)</desc>
-    <date>2021</date>
-  </programme>
-  <programme start="20230102022000 +0000" stop="20230102024500 +0000" channel="UNIVERSAL COMEDY">
-    <title lang="en">Señor alcalde</title>
-    <sub-title lang="en">Respeto en el lugar de trabajo</sub-title>
-    <desc lang="en">Una reunión de personal obligatoria descarrila los planes del día preferido del mes del equipo.(n)</desc>
-    <date>2021</date>
-  </programme>
-  <programme start="20230102024500 +0000" stop="20230102031000 +0000" channel="UNIVERSAL COMEDY">
-    <title lang="en">Señor alcalde</title>
-    <sub-title lang="en">La crisis de la palta</sub-title>
-    <desc lang="en">Una escasez de paltas pone de rodillas a la ciudad de Los Ángeles.(n)</desc>
-    <date>2021</date>
-  </programme>
-  <programme start="20230102031000 +0000" stop="20230102033500 +0000" channel="UNIVERSAL COMEDY">
-    <title lang="en">Señor alcalde</title>
-    <sub-title lang="en">El corazón ante todo</sub-title>
-    <desc lang="en">Neil trata de convencer a Orly de que una aventura amorosa trivial es más seria de lo que parece.(n)</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20230102033500 +0000" stop="20230102040000 +0000" channel="UNIVERSAL COMEDY">
-    <title lang="en">Señor alcalde</title>
-    <sub-title lang="en">La reforma de las palmeras</sub-title>
-    <desc lang="en">El plan de Neil de ahorrarle a la ciudad el dinero del mantenimiento de las palmeras encuentra resistencia inesperada.(n)</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20230102040000 +0000" stop="20230102042500 +0000" channel="UNIVERSAL COMEDY">
-    <title lang="en">Dr. Ken</title>
-    <desc lang="en">El Dr. Ken rastrea a su hija tras descubrir que le mintió y podría estar en una fiesta clandestina.(n)</desc>
-    <date>2015</date>
   </programme>
   <programme start="20230102042500 +0000" stop="20230102045000 +0000" channel="UNIVERSAL COMEDY">
     <title lang="en">Dr. Ken</title>
@@ -24454,16 +24341,6 @@
     <desc lang="en">Walton Goggins protagoniza una comedia sobre un grupo muy unido de amigos y familiares que ayudan a Wade (Goggins) a aceptar su "nueva normalidad" luego de haber perdido a su esposa un año atrás en el primer episodio de la serie.(n)</desc>
     <date>2019</date>
   </programme>
-  <programme start="20230102010000 +0000" stop="20230102023500 +0000" channel="UNIVERSAL CINEMA">
-    <title lang="en">Siete minutos</title>
-    <desc lang="en">Jude y June entran en un armario oculto y emergen en una realidad alternativa, donde nada es como parece. Ahora tienen que encontrar su camino de regreso a través del armario antes de que se cierre para siempre.(n)</desc>
-    <date>2018</date>
-  </programme>
-  <programme start="20230102023500 +0000" stop="20230102043500 +0000" channel="UNIVERSAL CINEMA">
-    <title lang="en">El Solista</title>
-    <desc lang="en">El film narra la historia verídica de Nathaniel Ayers, un prodigioso violinista que en su segundo año de conservatorio desarrolló esquizofrenia y acabó viviendo en la calle, en donde fue descubierto por el periodista de Los Angeles Times, Steve Lopez, en el año 2005. Impresionado por su talento, López, que también pasaba una mala época en su vida, escribió una serie de artículos sobre Nathaniel que lo sacó del anonimato, acercándolo a su sueño de tocar en el Disney Concert Hall.(n)</desc>
-    <date>2009</date>
-  </programme>
   <programme start="20230102043500 +0000" stop="20230102061000 +0000" channel="UNIVERSAL CINEMA">
     <title lang="en">Blitz</title>
     <desc lang="en">Blitz é um serial killer que está matando policiais em Londres. O inspetor-chefe Roberts e o sargento Brant, um policial duro, inflexível e politicamente incorreto, estão encarregados de tentar impedir o psicopata.(n)</desc>
@@ -24631,29 +24508,6 @@
     <title lang="en">Clemencia</title>
     <desc lang="en">Bernadine Williams es una funcionaria de prisiones que, a lo largo de varios años, se ha alejado cada vez más de su marido para centrarse en realizar ejecuciones en una prisión de máxima seguridad. Cuando empieza a generar una relación especial con uno de los presos que ingresan en su sector, Anthony Woods, Williams comienza a darse cuenta de que algo ha cambiado dentro de su ser.(n)</desc>
     <date>2019</date>
-  </programme>
-  <programme start="20230102010000 +0000" stop="20230102015500 +0000" channel="UNIVERSAL PREMIERE">
-    <title lang="en">Devils</title>
-    <desc lang="en">Massimo y su equipo juran descubrir la verdad sobre las trágicas consecuencias del Brexit.(n)</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20230102015500 +0000" stop="20230102024500 +0000" channel="UNIVERSAL PREMIERE">
-    <title lang="en">Devils</title>
-    <sub-title lang="en">Episodio 03</sub-title>
-    <desc lang="en">Profundamente conmocionado, Massimo -con ayuda de Sofía, una periodista argentina, que detesta a NYL por haber causado el suicidio de su hermano- trata de determinar si Dominic está haciendo negocios en secreto.(n)</desc>
-    <date>2020</date>
-  </programme>
-  <programme start="20230102024500 +0000" stop="20230102033500 +0000" channel="UNIVERSAL PREMIERE">
-    <title lang="en">Devils</title>
-    <sub-title lang="en">Episodio #1.4</sub-title>
-    <desc lang="en">La policía sospecha de Massimo.(n)</desc>
-    <date>2020</date>
-  </programme>
-  <programme start="20230102033500 +0000" stop="20230102043000 +0000" channel="UNIVERSAL PREMIERE">
-    <title lang="en">Devils</title>
-    <sub-title lang="en">Episodio 05</sub-title>
-    <desc lang="en">Dominic le pide a Massimo que lo ayude a encontrar a su esposa, Nina, que ha desaparecido. Cuando la encuentran en un lugar en el que una vez pasó una noche ilícita con Massimo, Dominic le revela que sabía de su indiscreción.(n)</desc>
-    <date>2020</date>
   </programme>
   <programme start="20230102043000 +0000" stop="20230102051500 +0000" channel="UNIVERSAL PREMIERE">
     <title lang="en">Devils</title>
@@ -25081,16 +24935,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20230102001100 +0000" stop="20230102022500 +0000" channel="HBO MUNDI">
-    <title lang="en">Red Rocket</title>
-    <desc lang="en">Mikey Saber es una estrella porno fallida que regresa a su pequeña ciudad natal de Texas.(n)</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20230102022500 +0000" stop="20230102040000 +0000" channel="HBO MUNDI">
-    <title lang="en">Zola</title>
-    <desc lang="en">Una camarera entabla amistad con una cliente que la convence de pasar un fin de semana de fiesta en Florida. Juntos se embarcarán en aventuras inesperadas que habrá que ver para creer.(n)</desc>
-    <date>2021</date>
-  </programme>
   <programme start="20230102040000 +0000" stop="20230102060000 +0000" channel="HBO MUNDI">
     <title lang="en">El contador de cartas</title>
     <desc lang="en">Un exmilitar y jugador de póker ayuda a un jóven a vengarse de un coronel.(n)</desc>
@@ -25219,16 +25063,6 @@
     <title lang="en">Un reino unido</title>
     <desc lang="en">Historia de amor basada en hechos reales, sobre el príncipe africano Seretse Khama - el primer presidente de Botswana-, quien se enamora y contrae nupcias, en 1948, con una mujer blanca, la trabajadora británica Ruth Williams. La unión provocó un escándalo mundial porque el apartheid sudafricano no aceptaba los casamientos interraciales. Así, Seretse y Ruth debieron batallar contra las convenciones sociales y la oposición de sus familias y de los gobiernos de sus países.(n)</desc>
     <date>2016</date>
-  </programme>
-  <programme start="20230102002800 +0000" stop="20230102023100 +0000" channel="HBO XTREME">
-    <title lang="en">Greenland: El último refugio</title>
-    <desc lang="en">Un gran asteroide aniquilará todo rastro de vida y sólo los afortunados sobrevivirán,.(n)</desc>
-    <date>2020</date>
-  </programme>
-  <programme start="20230102023100 +0000" stop="20230102040200 +0000" channel="HBO XTREME">
-    <title lang="en">Salvaje</title>
-    <desc lang="en">Tras una serie de trágicas experiencias personales, Cheryl Strayed decide recorrer en solitario, y careciendo de experiencia, más de 1600 kilómetros por el Sendero de las Cimas del Pacífico, en un intento de encontrarse a sí misma.(n)</desc>
-    <date>2014</date>
   </programme>
   <programme start="20230102040200 +0000" stop="20230102053400 +0000" channel="HBO XTREME">
     <title lang="en">Nadie</title>
@@ -25373,18 +25207,6 @@
     <title lang="en">Manos de Piedra</title>
     <desc lang="en">La vida de Roberto Duran, el legendario boxeador panameño, que hizo su debut profesional a los dieciséis años en 1968 y se retiró en 2002 a la edad de cincuenta años. En 1980 derrotó al también legendario Sugar Ray Leonard.(n)</desc>
     <date>2016</date>
-  </programme>
-  <programme start="20230102005800 +0000" stop="20230102015800 +0000" channel="HBO SIGNATURE">
-    <title lang="en">La casa del dragón</title>
-    <sub-title lang="en">El Consejo verde</sub-title>
-    <desc lang="en">HBO presenta "La Casa del Dragón", una serie original basada en el libro de George R.R.(n)</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20230102015800 +0000" stop="20230102030000 +0000" channel="HBO SIGNATURE">
-    <title lang="en">La casa del dragón</title>
-    <sub-title lang="en">La reina negra</sub-title>
-    <desc lang="en">Mientras lamenta una pérdida trágica, Rhaenyra intenta mantener el reino unido.(n)</desc>
-    <date>2022</date>
   </programme>
   <programme start="20230102030000 +0000" stop="20230102045000 +0000" channel="HBO SIGNATURE">
     <title lang="en">Mala Educación (new)</title>
@@ -25635,11 +25457,6 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230102020100 +0000" stop="20230102035900 +0000" channel="HBO PLUS">
-    <title lang="en">El conjuro 3: El diablo me obligó a hacerlo</title>
-    <desc lang="en">Ed y Lorraine Warren investigan una posesión demoníaca que acabó en un asesinato.(n)</desc>
-    <date>2021</date>
-  </programme>
   <programme start="20230102035900 +0000" stop="20230102055400 +0000" channel="HBO PLUS">
     <title lang="en">Maligno</title>
     <desc lang="en">Madison descubre que sus sueños son, en verdad, realidades aterradoras.(n)</desc>
@@ -25795,19 +25612,6 @@
     <title lang="en">Beowulf: La Leyenda</title>
     <desc lang="en">Emocionante, vehemente y épica historia del guerrero escandinavo (Ray Winstone) que se dispone a defender su reino, enfrentándose a monstruos, dragones y una bestia de las profundidades (interpretada por Angelina Jolie).(n)</desc>
     <date>2007</date>
-  </programme>
-  <programme start="20230102000900 +0000" stop="20230102021900 +0000" channel="HBO POP">
-    <title lang="en">Esta chica es un desastre</title>
-    <desc lang="en">Amy no cree en el compromiso, su padre era extremadamente infiel. Trabaja escribiendo artículos para una revista y cree ser alérgica a la rutina, pero no se da cuenta de que anda sumida en la monotonía. Por suerte, aparecerá en su vida un exitoso médico que le hará replantearse su modo de vida.(n)</desc>
-    <date>2015</date>
-    <rating system="MPAA">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20230102021900 +0000" stop="20230102040000 +0000" channel="HBO POP">
-    <title lang="en">Medios hermanos</title>
-    <desc lang="en">Renato, un exitoso ejecutivo de aviacion mexicano, se queda sorprendido al averiguar que tiene un medio hermano americano del que no habia oido hablar, el alocado Asher. Ambos son muy diferentes y se ven obligados a emprender un viaje planeado por su padre enfermo, que consiste en recorrer el camino que realizo el como inmigrante desde Mexico a Estados Unidos.(n)</desc>
-    <date>2020</date>
   </programme>
   <programme start="20230102040000 +0000" stop="20230102060000 +0000" channel="HBO POP">
     <title lang="en">Ted 2</title>
@@ -25978,16 +25782,6 @@
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
-  </programme>
-  <programme start="20230102010100 +0000" stop="20230102024100 +0000" channel="HBO FAMILY">
-    <title lang="en">En guerra con mi abuelo</title>
-    <desc lang="en">El joven Peter se ve obligado a abandonar su habitación cuando su abuelo Ed, recientemente enviudado, se muda a su casa. Con la ayuda de sus amigos, Peter declara la guerra a su abuelo para hacerle abandonar la habitación.(n)</desc>
-    <date>2020</date>
-  </programme>
-  <programme start="20230102024100 +0000" stop="20230102043600 +0000" channel="HBO FAMILY">
-    <title lang="en">American Underdog</title>
-    <desc lang="en">La inspiradora historia de Kurt Warner, quien superó desafíos y golpes durante años.(n)</desc>
-    <date>2022</date>
   </programme>
   <programme start="20230102043600 +0000" stop="20230102061500 +0000" channel="HBO FAMILY">
     <title lang="en">Belleza inesperada</title>
@@ -26172,11 +25966,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20230102020100 +0000" stop="20230102040600 +0000" channel="HBO 2">
-    <title lang="en">Downton Abbey: A New Era</title>
-    <desc lang="en">Estas cordialmente invitado a la mayor escapada del ano. Descubre el misterio, vive una nueva era.(n)</desc>
-    <date>2022</date>
-  </programme>
   <programme start="20230102040600 +0000" stop="20230102055900 +0000" channel="HBO 2">
     <title lang="en">Viejos</title>
     <desc lang="en">Una familia pasa sus vacaciones en una playa que los hace envejecer rápidamente.(n)</desc>
@@ -26321,11 +26110,6 @@
     <title lang="en">Uncharted: fuera del mapa</title>
     <desc lang="en">Un descendiente del explorador Sir Francis Drake descubre la ubicación de una legendaria ciudad.(n)</desc>
     <date>2022</date>
-  </programme>
-  <programme start="20230102011400 +0000" stop="20230102040000 +0000" channel="HBO Latino (West)">
-    <title lang="en">Spider-Man: Sin camino a casa</title>
-    <desc lang="en">Por primera vez en la historia cinematográfica de Spider-Man, se revela la identidad de nuestro héroe y amigable vecino, lo cual hace que sus responsabilidades como superhéroe entren en conflicto con su vida normal.(n)</desc>
-    <date>2021</date>
   </programme>
   <programme start="20230102040000 +0000" stop="20230102054100 +0000" channel="HBO Latino (West)">
     <title lang="en">Venom: Carnage liberado</title>
@@ -26472,11 +26256,6 @@
   <programme start="20230103233500 +0000" stop="20230104012000 +0000" channel="HBO Latino (West)">
     <title lang="en">Tormenta mortal</title>
     <desc lang="en">Dos alpinistas quedan atrapados en una tormenta de nieve y deben ayudarse mutuamente.(n)</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20230102000000 +0000" stop="20230102020000 +0000" channel="Imagen TV">
-    <title lang="en">En el nombre de Ben-Hur</title>
-    <desc lang="en">El gladiador retirado Juda Ben Hur ayuda a un grupo de jóvenes justicieros en su búsqueda para sacar a los romanos de su tierra natal de una vez por todas.(n)</desc>
     <date>2022</date>
   </programme>
   <programme start="20230102020000 +0000" stop="20230102050000 +0000" channel="Imagen TV">
@@ -26709,14 +26488,6 @@
   <programme start="20230103230000 +0000" stop="20230104000000 +0000" channel="Imagen TV">
     <title lang="en">Asuntos de familia</title>
   </programme>
-  <programme start="20230102011300 +0000" stop="20230102030100 +0000" channel="HBO 2!">
-    <title lang="en">Veneciafrenia</title>
-    <desc lang="en">Un grupo de turistas españoles en Venecia deben luchar por sus vidas contra los lugareños.(n)</desc>
-    <date>2022</date>
-    <rating system="MPAA">
-      <value>16</value>
-    </rating>
-  </programme>
   <programme start="20230102030100 +0000" stop="20230102044900 +0000" channel="HBO 2!">
     <title lang="en">Halloween Kills - La noche aún no termina</title>
     <desc lang="en">Michael Myers logra escapar de la trampa de Laurie para reiniciar su ritual de baño de sangre.(n)</desc>
@@ -26893,10 +26664,6 @@
       <value>ATP</value>
     </rating>
   </programme>
-  <programme start="20230102010000 +0000" stop="20230102030000 +0000" channel="La Red (CHI)">
-    <title lang="en">Hispania, la Leyenda</title>
-    <desc lang="en">Una crónica de la lucha de un grupo de rebeldes para defender Hispania contra los romanos.(n)</desc>
-  </programme>
   <programme start="20230102030000 +0000" stop="20230102050000 +0000" channel="La Red (CHI)">
     <title lang="en">Swiss Nature Labs</title>
     <desc lang="en">Las mejores soluciones de salud, belleza y bienestar de origen natural.(n)</desc>
@@ -27013,11 +26780,6 @@
   <programme start="20230103233000 +0000" stop="20230104000000 +0000" channel="La Red (CHI)">
     <title lang="en">Swiss Nature Labs</title>
     <desc lang="en">Las mejores soluciones de salud, belleza y bienestar de origen natural.(n)</desc>
-  </programme>
-  <programme start="20230102013500 +0000" stop="20230102033000 +0000" channel="TVN (CHI)">
-    <title lang="en">Lo imposible</title>
-    <desc lang="en">Basada en una historia real, luego del Tsunami que afectó al sudeste asiático en diciembre de 2004. Maria, Henry y sus tres hijos comienzan sus vacaciones de invierno en Tailandia. En la mañana del 26 de diciembre, la familia se relaja en la piscina después del día de Navidad cuando el mar, convertido en un enorme y violento muro de agua negra, invade el recinto del hotel.(n)</desc>
-    <date>2012</date>
   </programme>
   <programme start="20230102033000 +0000" stop="20230102054500 +0000" channel="TVN (CHI)">
     <title lang="en">En terapia</title>
@@ -27174,18 +26936,6 @@
   <programme start="20230103235500 +0000" stop="20230104014000 +0000" channel="TVN (CHI)">
     <title lang="en">24 Horas Central</title>
     <desc lang="en">Noticiero central, con despachos en directo y corresponsalías en todo el mundo.(n)</desc>
-  </programme>
-  <programme start="20230102010000 +0000" stop="20230102030000 +0000" channel="Canal Uno (COL)">
-    <title lang="en">Gritos en silencio</title>
-    <desc lang="en">Jamie Ashford se sorprende al descubrir que está nuevamente embarazada luego de perder a su hija hace un año. Una serie de acontecimientos la hacen pensar que Caitlin es el demonio, pero ¿es solo su mente jugandole una mala pasada?(n)</desc>
-    <date>2007</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20230102030000 +0000" stop="20230102040000 +0000" channel="Canal Uno (COL)">
-    <title lang="en">Infieles sin censura</title>
-    <desc lang="en">Un unitario que recrea situaciones propias de la infidelidad que le pueden ocurrir a cualquier persona. Diferentes invitados recrean a los personajes y siempre se cuenta un caso de infidelidad diferente.(n)</desc>
   </programme>
   <programme start="20230102040000 +0000" stop="20230102050000 +0000" channel="Canal Uno (COL)">
     <title lang="en">Caso Cerrado</title>
@@ -28394,11 +28144,6 @@
     <category lang="en">News</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11927066_i_s2_ab.jpg" />
   </programme>
-  <programme start="20230102010000 +0000" stop="20230102030000 +0000" channel="RCN Television">
-    <title lang="en">Blade Runner 2049</title>
-    <desc lang="en">Un joven y ambicioso cazarrecompensas descubre un secreto que había estado oculto durante muchos años, relacionado con otra persona, que se dedicaba a lo mismo que él. Así, se embarca en la búsqueda del legendario Rick Deckard, de quien no se tienen noticias hace treinta años.(n)</desc>
-    <date>2017</date>
-  </programme>
   <programme start="20230102030000 +0000" stop="20230102050000 +0000" channel="RCN Television">
     <title lang="en">La Maldición</title>
     <date>2014</date>
@@ -28545,11 +28290,6 @@
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
-  </programme>
-  <programme start="20230102013200 +0000" stop="20230102033000 +0000" channel="Golden Edge">
-    <title lang="en">Lo imposible</title>
-    <desc lang="en">Basada en una historia real, luego del Tsunami que afectó al sudeste asiático en diciembre de 2004. Maria, Henry y sus tres hijos comienzan sus vacaciones de invierno en Tailandia. En la mañana del 26 de diciembre, la familia se relaja en la piscina después del día de Navidad cuando el mar, convertido en un enorme y violento muro de agua negra, invade el recinto del hotel.(n)</desc>
-    <date>2012</date>
   </programme>
   <programme start="20230102033000 +0000" stop="20230102062000 +0000" channel="Golden Edge">
     <title lang="en">2012</title>
@@ -28702,35 +28442,6 @@
     <title lang="en">Londres Bajo Fuego</title>
     <desc lang="en">Un agente secreto, el presidente de EE.UU. y un funcionario del MI-6 tendrán que trabajar juntos, para evitar que un grupo terrorista asesine a los líderes mundiales, que se reúnen en Londres para asistir al funeral del primer ministro británico.(n)</desc>
     <date>2016</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20230102012000 +0000" stop="20230102021000 +0000" channel="UNIVERSAL TV">
-    <title lang="en">La ley y el orden UVE</title>
-    <desc lang="en">En el sistema de justicia penal, los delitos de índole sexual están considerados especialmente atroces. En la Ciudad de Nueva York, los dedicados detectives que investigan estos despiadados crímenes son miembros de la Unidad de Víctimas Especiales.(n)</desc>
-    <date>2019</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20230102021000 +0000" stop="20230102030000 +0000" channel="UNIVERSAL TV">
-    <title lang="en">La ley y el orden UVE</title>
-    <desc lang="en">Rollins choca con los padres de un adolescente fugitivo. Por otro lado,.(n)</desc>
-    <date>2000</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20230102030000 +0000" stop="20230102035000 +0000" channel="UNIVERSAL TV">
-    <title lang="en">La ley y el orden: U.V.E.</title>
-    <desc lang="en">Con tres casos importantes a medianoche, Amanda y Carisi discuten sobre un arresto.(n)</desc>
-    <date>2000</date>
-  </programme>
-  <programme start="20230102035000 +0000" stop="20230102044000 +0000" channel="UNIVERSAL TV">
-    <title lang="en">La ley y el orden: U.V.E.</title>
-    <desc lang="en">El caso de una adolescente atacada en las viviendas sociales conduce a un hallazgo sorprendente.(n)</desc>
-    <date>2019</date>
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
@@ -29153,19 +28864,6 @@
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
-  </programme>
-  <programme start="20230102010000 +0000" stop="20230102020000 +0000" channel="Kids Street">
-    <title lang="en">Dehesa - Forest Of The Iberian Lynx - Part 1</title>
-    <date>2020</date>
-  </programme>
-  <programme start="20230102020000 +0000" stop="20230102030000 +0000" channel="Kids Street">
-    <title lang="en">Mhondoro: Spirit of the Lion</title>
-    <date>2022</date>
-  </programme>
-  <programme start="20230102030000 +0000" stop="20230102040000 +0000" channel="Kids Street">
-    <title lang="en">Island of the Penguins</title>
-    <desc lang="en">In the middle of the Antarctic Ocean, an entire mountain range arises from the water: South Georgia, the nursery of the Antarctic. Hundreds of thousands of penguins, elephant seals, fur seals and their young overcrowd the beaches. The rough weather and the extremely difficult access to the island cause filmmaking to be an endeavor.(n)</desc>
-    <date>2018</date>
   </programme>
   <programme start="20230102040000 +0000" stop="20230102050000 +0000" channel="Kids Street">
     <title lang="en">Berlin 1945</title>
@@ -30302,11 +30000,6 @@
       <value>TV-Y</value>
     </rating>
   </programme>
-  <programme start="20230102013000 +0000" stop="20230102023000 +0000" channel="Las Estrellas">
-    <title lang="en">100 Mexicanos Dijeron VIP</title>
-    <desc lang="en">Programa de concurso en que se enfrentan dos equipos de cinco personalidades famosas y contestan preguntas para ganar dinero que será donado a las instituciones benéficas. Los participantes incluyen a estrellas de telenovela, cantantes, deportistas y más.(n)</desc>
-    <date>2001</date>
-  </programme>
   <programme start="20230102023000 +0000" stop="20230102050000 +0000" channel="Las Estrellas">
     <title lang="en">Nosotros los guapos</title>
     <desc lang="en">Parece complicado que Albertano y Vítor logren conseguir su objetivo. Este dúo busca obtener un lugar dónde vivir de forma estable, pero el esfuerzo que, según ellos, hacen, no parece ser suficiente para lograrlo, por lo que tendrán que vérselas con Doña Cuca.(n)</desc>
@@ -30558,19 +30251,6 @@
     <title lang="en">Como dice el dicho</title>
     <desc lang="en">Sergio Corona en compañía de Mario Bautista, Brisa Carrillo y Benny Emmanuel te traen historias llenas de emociones con las que te podrás identificar, ellos tienen un café, donde los clientes escriben en sus paredes los refranes que se acomodan a sus historias, las cuales luego son dramatizadas conmovedoramente.(n)</desc>
     <date>2011</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20230102002000 +0000" stop="20230102020000 +0000" channel="Sony Movies">
-    <title lang="en">Zombieland 2: Tiro De Gracia</title>
-    <desc lang="en">Secuela del clásico de comedia y terror "Zombieland". Una vez más Columbus, Tallahassee, Wichita, y Little Rock deberán recorrer los Estados Unidos, mientras hacen frente a una nueva amenaza zombi, enloquecidos sobrevivientes y toda clase de peligros.(n)</desc>
-    <date>2019</date>
-  </programme>
-  <programme start="20230102020000 +0000" stop="20230102033000 +0000" channel="Sony Movies">
-    <title lang="en">Tierra de zombies</title>
-    <desc lang="en">Un virus ataca a los habitantes de la Tierra, convirtiéndolos en zombis; y los sobrevivientes quedan atrapados en una batalla contra los muertos andantes. Entre estos, se encuentran Tallahassee y sus amigos Columbus, Wichita y Little Rock; quienes se enfrentarán a los zombis y harán lo posible por llegar hasta un refugio en Los Ángeles.(n)</desc>
-    <date>2009</date>
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
@@ -30881,17 +30561,6 @@
     <desc lang="en">En el año 3000, extraterrestres se han apoderado de la Tierra para sacarle todos sus minerales, pero no anticipan la formación de un grupo de rebeldes humanos que intentan luchar por recobrar su planeta.(n)</desc>
     <date>2000</date>
   </programme>
-  <programme start="20230102010500 +0000" stop="20230102024000 +0000" channel="BitMe">
-    <title lang="en">La leyenda de las momias de Guanajuato</title>
-    <desc lang="en">Leo San Juan, Don Andrés, Teodora y el Alebrije se dirigen a Guanajuato para tratar de rescatar a su amiga Xóchitl y para detener a las momias que han atraído inexplicablemente. Leo descubre el terrible secreto de los ricos Rosseau, gracias a la ayuda de su amigo Luis que conoce bién la ciudad, mientras que los demás se dan cuenta de que han caído en una trampa.(n)</desc>
-    <date>2014</date>
-  </programme>
-  <programme start="20230102024000 +0000" stop="20230102040500 +0000" channel="BitMe">
-    <title lang="en">Juega conmigo (new)</title>
-    <desc lang="en">La niñera de dos hermanos acosados por una entidad demoníaca hará todo por intentar salvarlos.(n)</desc>
-    <date>2021</date>
-    <premiere />
-  </programme>
   <programme start="20230102040500 +0000" stop="20230102053000 +0000" channel="BitMe">
     <title lang="en">El amarre (new)</title>
     <desc lang="en">Un joven busca asegurar una relación con una chica a través de un amarre de magia negra,.(n)</desc>
@@ -31139,21 +30808,6 @@
     <title lang="en">La liga de los 5</title>
     <desc lang="en">Chema les pide a la Liga de los 5 que le ayuden a rescatar a su hermana, secuestrada por un villano. ¿Qué es la Liga de los 5? ¡El mejor equipo de superhéroes que jamás haya existido en México!(n)</desc>
     <date>2020</date>
-  </programme>
-  <programme start="20230102010000 +0000" stop="20230102020100 +0000" channel="Curiosity Stream">
-    <title lang="en">Cuentos de la naturaleza</title>
-    <desc lang="en">El paisaje poco llamativo del Bocage tiene una asombrosa historia para contar.(n)</desc>
-    <date>2021</date>
-  </programme>
-  <programme start="20230102020100 +0000" stop="20230102030000 +0000" channel="Curiosity Stream">
-    <title lang="en">Cuentos de la naturaleza</title>
-    <desc lang="en">Córcega es una isla repleta de tesoros naturales. Sus playas son acariciadas por el Mediterráneo,.(n)</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20230102030000 +0000" stop="20230102040000 +0000" channel="Curiosity Stream">
-    <title lang="en">Cuentos de la naturaleza</title>
-    <desc lang="en">Los Alpes son uno de los ecosistemas naturales característicos de Europa. Uno en particular,.(n)</desc>
-    <date>2021</date>
   </programme>
   <programme start="20230102040000 +0000" stop="20230102050000 +0000" channel="Curiosity Stream">
     <title lang="en">Cuentos de la naturaleza</title>
@@ -31586,48 +31240,6 @@
     <sub-title lang="en">Gutenberg</sub-title>
     <desc lang="en">En el siglo XV,.(n)</desc>
     <date>2022</date>
-  </programme>
-  <programme start="20230102013000 +0000" stop="20230102020000 +0000" channel="Dreamworks">
-    <title lang="en">She-Ra y las princesas del poder</title>
-    <desc lang="en">El rey y la reina se enteran de la historia de Adora. Sin embargo, son incapaces de creer que esta sea verdadera. Por su parte, Adora necesita urgentemente la ayuda de sus fieles amigos, Bow y Glimmer, cuando se agota el tiempo para poder salvar la realidad.(n)</desc>
-    <date>2019</date>
-    <rating system="MPAA">
-      <value>TV-Y7</value>
-    </rating>
-  </programme>
-  <programme start="20230102020000 +0000" stop="20230102023000 +0000" channel="Dreamworks">
-    <title lang="en">Voltron: Legendary defender</title>
-    <desc lang="en">El destino del universo es incierto. Los paladines se ven obligados a liberar una sorprendente batalla sin precedentes, contra un enemigo poderoso. Más tarde, se descubre que Shiro ha desaparecido del León Negro; mientras que Haggar decide convocar al Príncipe Lotor.(n)</desc>
-    <date>2017</date>
-    <rating system="MPAA">
-      <value>TV-Y7</value>
-    </rating>
-  </programme>
-  <programme start="20230102023000 +0000" stop="20230102030000 +0000" channel="Dreamworks">
-    <title lang="en">Voltron: Legendary defender</title>
-    <desc lang="en">Un viaje a través de un agujero de gusano tiene resultados desastrosos. Keith y Shiro aterrizan en lados opuestos de un páramo árido; Pidge aterriza en una nebulosa de basura; mientras que Kórann y Allura quedan atrapados en un bucle de tiempo, aparentemente interminable.(n)</desc>
-    <date>2017</date>
-    <rating system="MPAA">
-      <value>TV-Y7</value>
-    </rating>
-  </programme>
-  <programme start="20230102030000 +0000" stop="20230102033000 +0000" channel="Dreamworks">
-    <title lang="en">Zafari</title>
-    <desc lang="en">Zoomba se lastima la trompa y, mientras se cura,.(n)</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20230102033000 +0000" stop="20230102040000 +0000" channel="Dreamworks">
-    <title lang="en">Zafari</title>
-    <desc lang="en">Zoomba se siente ignorado, pero cuando la científica local de ZAFARIAN, Elspeth,.(n)</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20230102040000 +0000" stop="20230102043000 +0000" channel="Dreamworks">
-    <title lang="en">Dinotrux</title>
-    <desc lang="en">La ambición por las riquezas debe tener un límite, y la pandilla sabe cómo hacerlos valer. Los Dinotrux cierran un acuerdo con un equipo de Taladrasaurios que busca hacer excavaciones en el cráter para extraer diamantes, pero Skya va más allá de cualquier límite.(n)</desc>
-    <date>2015</date>
-    <rating system="MPAA">
-      <value>TV-Y</value>
-    </rating>
   </programme>
   <programme start="20230102043000 +0000" stop="20230102050000 +0000" channel="Dreamworks">
     <title lang="en">Dinotrux</title>
@@ -32440,48 +32052,6 @@
       <value>TV-Y7</value>
     </rating>
   </programme>
-  <programme start="20230102010000 +0000" stop="20230102020000 +0000" channel="Hogar HGTV">
-    <title lang="en">Dream Home</title>
-    <desc lang="en">Brian Patrick Flynn regresa para crear otra impresionante casa de ensueño con Breegan Jane uniéndose a él como anfitriona.(n)</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20230102020000 +0000" stop="20230102023000 +0000" channel="Hogar HGTV">
-    <title lang="en">Nuestro hogar en Hawái</title>
-    <desc lang="en">Un padre soltero quiere un ritmo de vida más tranquilo en Maui.(n)</desc>
-    <date>2017</date>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20230102023000 +0000" stop="20230102030000 +0000" channel="Hogar HGTV">
-    <title lang="en">Nuestro hogar en Hawái</title>
-    <desc lang="en">Una pareja de California quiere comenzar un nuevo capítulo juntos y mudarse a la Isla Grande de Hawái. Sienten que nacieron para vivir en la isla y esperan encontrar un hogar donde disfrutar de la comunidad y las actividades acuáticas.(n)</desc>
-    <date>2017</date>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20230102030000 +0000" stop="20230102033000 +0000" channel="Hogar HGTV">
-    <title lang="en">Los cazahogares</title>
-    <desc lang="en">Una familia de cinco busca una casa amplia en Tampa, Florida.(n)</desc>
-    <date>2016</date>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20230102033000 +0000" stop="20230102040000 +0000" channel="Hogar HGTV">
-    <title lang="en">Los cazahogares</title>
-    <desc lang="en">Una pareja de Boynton Beach no logra ponerse de acuerdo sobre qué comprar.(n)</desc>
-    <date>2016</date>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20230102040000 +0000" stop="20230102043000 +0000" channel="Hogar HGTV">
-    <title lang="en">La mejor fachada del vecindario</title>
-    <desc lang="en">Una casa que esta¡ en ruinas recibe una renovación y una escuela cercana recibe una nueva entrada.(n)</desc>
-    <date>2009</date>
-  </programme>
   <programme start="20230102043000 +0000" stop="20230102050000 +0000" channel="Hogar HGTV">
     <title lang="en">La mejor fachada del vecindario</title>
     <desc lang="en">Una casa anticuada con estilo hacienda recibe una renovación completa con un porche incluido.(n)</desc>
@@ -33006,157 +32576,149 @@
     <title lang="es">Andy 'The Destroyer' Ruiz (USA) vs. Luis 'King Kong' Ortíz (Cub)</title>
     <desc lang="es">Premier Boxing Champions exhibe peleas de alta categoría entre muchos de los personajes más conocidos del mundo del boxeo.(n)</desc>
     <category lang="es">Premier Boxing Champions</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/375983/1529014599/221231215451_b619d3d5f089782f03bc8eafa74fb82e938d49cf_2212081449.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/375983/1529014599/230102040451_b619d3d5f089782f03bc8eafa74fb82e938d49cf_2212081449.jpg" />
   </programme>
   <programme start="20230102033000 +0000" stop="20230102043000 +0000" channel="Fox Sports Premium!">
     <title lang="es">714: Jones vs. Reyes</title>
     <desc lang="es">La pelea principal de la noche, en la que se miden los contrincantes más aguerridos y temidos de la UFC, una enorme lucha en la que solo habrá un vencedor.(n)</desc>
     <category lang="es">UFC Main Event</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/331939/1529014619/221231215451_288e64d6eadb0c26b639ecc8c28e5de336ec0d55_2212081448.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/331939/1529014619/230102040451_288e64d6eadb0c26b639ecc8c28e5de336ec0d55_2212081448.jpg" />
   </programme>
   <programme start="20230102043000 +0000" stop="20230102050000 +0000" channel="Fox Sports Premium!">
     <title lang="es">Highlight Reels KO's</title>
     <desc lang="es">Transmisión que presenta algunos de los finales más devastadores jamás vistos dentro del octágono de 'Ultimate Fighting Championship'.(n)</desc>
     <category lang="es">UFC Ultimate Knockouts</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/260028/1529023996/221231215451_3d18ffd8d5d6a23c9c643e8c4de7d80cca903ba4_2212083948.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/260028/1529023996/230102040451_3d18ffd8d5d6a23c9c643e8c4de7d80cca903ba4_2212083948.jpg" />
   </programme>
   <programme start="20230102050000 +0000" stop="20230102070000 +0000" channel="Fox Sports Premium!">
     <title lang="es">Pachuca vs. Toluca</title>
     <desc lang="es">Retransmisión de los partidos de la centésima octava edición del campeonato de la Primera División del fútbol mexicano. El evento reune a 18 equipos que se enfrentan semana a semana para lograr la victoria y consagrarse a nivel nacional. Así el público podrá disfrutar de los encuentros más emocionantes entre los conjuntos más destacados del país.(n)</desc>
     <category lang="es">Liga MX</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/718096/1529020498/221231215451_da01bf6b6753d9ff5fb375041b91aa557a6f5c54_2212083948.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/718096/1529020498/230102040451_da01bf6b6753d9ff5fb375041b91aa557a6f5c54_2212083948.jpg" />
   </programme>
   <programme start="20230102070000 +0000" stop="20230102090000 +0000" channel="Fox Sports Premium!">
     <title lang="es">Gran Premio de Arabia Saudita</title>
     <desc lang="es">Será la 73ra temporada del Campeonato Mundial de Fórmula 1 de la historia. Es organizada por la Federación Internacional del Automóvil.(n)</desc>
     <category lang="es">Fórmula 1</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/704727/1529020312/221231215451_ce6a612b2bab56977f1445639dac05873b7229ae_2212084450.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/704727/1529020312/230102040451_ce6a612b2bab56977f1445639dac05873b7229ae_2212084450.jpg" />
   </programme>
   <programme start="20230102090000 +0000" stop="20230102110000 +0000" channel="Fox Sports Premium!">
     <title lang="es">Monterrey vs. Tigres UANL</title>
     <desc lang="es">Vive la XI edición del campeonato de liga de la Primera División Femenil de México con el que se inicia la temporada 2022-2023. La Primera División Femenil de México, conocida también como Liga MX Femenil, es la principal liga de fútbol profesional femenil en México la cual está regulada por la Federación Mexicana de Fútbol.(n)</desc>
     <category lang="es">Liga MX Femenil</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/719003/1529020715/221231215451_0226d260ebd23550292761224089ea483c8a2e19_2212084450.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/719003/1529020715/230102040451_0226d260ebd23550292761224089ea483c8a2e19_2212084450.jpg" />
   </programme>
   <programme start="20230102110000 +0000" stop="20230102120000 +0000" channel="Fox Sports Premium!">
     <title lang="es">Highlights - Rally Dakar 2023</title>
     <desc lang="es">Un programa que presenta lo más destacado de la 45º edición del Rally Dakar. El público podrá disfrutar de los momentos más emocionantes de la competición que se disputa en Arabia Saudita. Un equipo de expertos brinda la información más completa sobre los equipos, pilotos y más.(n)</desc>
     <category lang="es">Show</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/746052/1532578223/221231215451_0a527bef7fe200e0cf1effd70a7462ebffb09445_2212060448.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/746052/1532578223/230102040451_0a527bef7fe200e0cf1effd70a7462ebffb09445_2212060448.jpg" />
   </programme>
   <programme start="20230102120000 +0000" stop="20230102140000 +0000" channel="Fox Sports Premium!">
     <title lang="es">Budo Sento Championship</title>
     <desc lang="es">Budo Sento Championship es una liga profesional de artes marciales que busca rescatar la esencia de los combates tradicionales y, al mismo tiempo, crear un concepto de contacto único apropiado para una cultura cambiante que evoluciona a un ritmo acelerado, desarrollando un sistema mixto de peleas con reglas unificadas.(n)</desc>
     <category lang="es">Show</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/667473/1529014578/221231215451_822682e66e3d31319c8ed53b43800148b3d1be28_2212091449.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/667473/1529014578/230102040451_822682e66e3d31319c8ed53b43800148b3d1be28_2212091449.jpg" />
   </programme>
   <programme start="20230102140000 +0000" stop="20230102160000 +0000" channel="Fox Sports Premium!">
     <title lang="es">Guadalajara vs. América</title>
     <desc lang="es">Vive la XI edición del campeonato de liga de la Primera División Femenil de México con el que se inicia la temporada 2022-2023. La Primera División Femenil de México, conocida también como Liga MX Femenil, es la principal liga de fútbol profesional femenil en México la cual está regulada por la Federación Mexicana de Fútbol.(n)</desc>
     <category lang="es">Liga MX Femenil</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/719003/1534746194/221231215451_46e800c3d77946d52910906efe726f402794124d_2212221450.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/719003/1534746194/230102040451_46e800c3d77946d52910906efe726f402794124d_2212221450.jpg" />
   </programme>
   <programme start="20230102160000 +0000" stop="20230102180000 +0000" channel="Fox Sports Premium!">
     <title lang="es">WWE SmackDown</title>
     <desc lang="es">WWE - Smackdown es el segundo programa de Lucha Libre profesional, más popular del mundo despues de RAW.(n)</desc>
     <category lang="es">Show</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/111536/1534701638/221231215451_0131e6b644fd3e117cdcb650fd5592c299c9bb4c_2212221450.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/111536/1534701638/230102040451_0131e6b644fd3e117cdcb650fd5592c299c9bb4c_2212221450.jpg" />
   </programme>
   <programme start="20230102180000 +0000" stop="20230102190000 +0000" channel="Fox Sports Premium!">
     <title lang="es">Highlights - Rally Dakar 2023</title>
     <desc lang="es">Un programa que presenta lo más destacado de la 45º edición del Rally Dakar. El público podrá disfrutar de los momentos más emocionantes de la competición que se disputa en Arabia Saudita. Un equipo de expertos brinda la información más completa sobre los equipos, pilotos y más.(n)</desc>
     <category lang="es">Show</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/746052/1534746564/221231215451_c20dba98175d89860759cecafa649bb957076110_2212221450.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/746052/1534746564/230102040451_c20dba98175d89860759cecafa649bb957076110_2212221450.jpg" />
   </programme>
   <programme start="20230102190000 +0000" stop="20230102200000 +0000" channel="Fox Sports Premium!">
     <title lang="es">Highlights from All 30 MLB Clubs</title>
     <category lang="es">MLB Top Rookies</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/746109/1534748832/221231215451_1f59e7c6a49b049cfc34f740fb7747a048f9015d_2212221951.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/746109/1534748832/230102040451_1f59e7c6a49b049cfc34f740fb7747a048f9015d_2212221951.jpg" />
   </programme>
   <programme start="20230102200000 +0000" stop="20230102220000 +0000" channel="Fox Sports Premium!">
     <title lang="es">Monterrey vs. Tigres UANL</title>
     <desc lang="es">Vive la XI edición del campeonato de liga de la Primera División Femenil de México con el que se inicia la temporada 2022-2023. La Primera División Femenil de México, conocida también como Liga MX Femenil, es la principal liga de fútbol profesional femenil en México la cual está regulada por la Federación Mexicana de Fútbol.(n)</desc>
     <category lang="es">Liga MX Femenil</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/719003/1534746195/221231215451_e53401fee389313b5022c69da114786906fdf75b_2212221950.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/719003/1534746195/230102040451_e53401fee389313b5022c69da114786906fdf75b_2212221950.jpg" />
   </programme>
   <programme start="20230102220000 +0000" stop="20230103010000 +0000" channel="Fox Sports Premium!">
     <title lang="es">277: Peña vs. Nunes 2</title>
     <desc lang="es">La Ultimate Fighting Championship (UFC) es la mayor empresa de artes marciales mixtas en el mundo, alberga a los mejores peleadores del ranking en el deporte y produce eventos por todo el mundo.(n)</desc>
     <category lang="es">UFC Reloaded</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/260024/1534701648/221231215451_ccaa52b0f5c500c9e95c570d34684735d13b2254_2212222450.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/260024/1534701648/230102040451_ccaa52b0f5c500c9e95c570d34684735d13b2254_2212222450.jpg" />
   </programme>
   <programme start="20230103010000 +0000" stop="20230103040000 +0000" channel="Fox Sports Premium!">
     <title lang="es">WWE Raw</title>
     <desc lang="es">WWE - RAW es el programa de Lucha Libre profesional más popular del mundo.(n)</desc>
     <category lang="es">Show</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/127024/1534701656/221231215451_02a7f7edfc871912b386e80883a43284d6ac6c8c_2212222450.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/127024/1534701656/230102040451_02a7f7edfc871912b386e80883a43284d6ac6c8c_2212222450.jpg" />
   </programme>
   <programme start="20230103040000 +0000" stop="20230103050000 +0000" channel="Fox Sports Premium!">
     <title lang="es">907: Moreno vs. Figueiredo 3</title>
     <desc lang="es">La pelea principal de la noche, en la que se miden los contrincantes más aguerridos y temidos de la UFC, una enorme lucha en la que solo habrá un vencedor.(n)</desc>
     <category lang="es">UFC Main Event</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/331939/1534701659/221231215451_58131980f7df04d7c56542048d8a6861fddcf7bf_2212222450.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/331939/1534701659/230102040451_58131980f7df04d7c56542048d8a6861fddcf7bf_2212222450.jpg" />
   </programme>
   <programme start="20230103050000 +0000" stop="20230103070000 +0000" channel="Fox Sports Premium!">
     <title lang="es">Pachuca vs. Toluca</title>
     <desc lang="es">Retransmisión de los partidos de la centésima octava edición del campeonato de la Primera División del fútbol mexicano. El evento reune a 18 equipos que se enfrentan semana a semana para lograr la victoria y consagrarse a nivel nacional. Así el público podrá disfrutar de los encuentros más emocionantes entre los conjuntos más destacados del país.(n)</desc>
     <category lang="es">Liga MX</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/718096/1534717197/221231215451_d23f4a4f836f998e2c102d59ea30671a8c8e24a8_2212222450.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/718096/1534717197/230102040451_d23f4a4f836f998e2c102d59ea30671a8c8e24a8_2212222450.jpg" />
   </programme>
   <programme start="20230103070000 +0000" stop="20230103083000 +0000" channel="Fox Sports Premium!">
     <title lang="es">Londres</title>
     <desc lang="es">Los mejores momentos de eSkootr Championship.(n)</desc>
     <category lang="es">eSkootr Championship Highlights</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/713890/1534701720/221231215451_fe5cf8c2f0e23ad104578420dcf9e34b2e02220c_2212222451.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/713890/1534701720/230102040451_fe5cf8c2f0e23ad104578420dcf9e34b2e02220c_2212222451.jpg" />
   </programme>
   <programme start="20230103083000 +0000" stop="20230103090000 +0000" channel="Fox Sports Premium!">
     <title lang="es">Hispanic Heritage Month - Part 1</title>
     <desc lang="es">Transmisión que presenta algunos de los finales más devastadores jamás vistos dentro del octágono de 'Ultimate Fighting Championship'.(n)</desc>
     <category lang="es">UFC Ultimate Knockouts</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/260028/1534746687/221231215451_59270115569736cbc1c355a1acf6b36de4ccb4dd_2212222452.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/260028/1534746687/230102040451_59270115569736cbc1c355a1acf6b36de4ccb4dd_2212222452.jpg" />
   </programme>
   <programme start="20230103090000 +0000" stop="20230103110000 +0000" channel="Fox Sports Premium!">
     <title lang="es">Guadalajara vs. Monterrey</title>
     <desc lang="es">Torneo en el que se enfrentan los dos campeones de los torneos cortos del ciclo futbolístico anual.(n)</desc>
     <category lang="es">Campeón de campeones</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/714656/1534701682/221231215451_b1a8d126d2ae19b05c26650b95942322791f5890_2212222453.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/714656/1534701682/230102040451_b1a8d126d2ae19b05c26650b95942322791f5890_2212222453.jpg" />
   </programme>
   <programme start="20230103110000 +0000" stop="20230103120000 +0000" channel="Fox Sports Premium!">
     <title lang="es">Highlights - Rally Dakar 2023</title>
     <desc lang="es">Un programa que presenta lo más destacado de la 45º edición del Rally Dakar. El público podrá disfrutar de los momentos más emocionantes de la competición que se disputa en Arabia Saudita. Un equipo de expertos brinda la información más completa sobre los equipos, pilotos y más.(n)</desc>
     <category lang="es">Show</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/746052/1534746565/221231215451_77efd5ae0978554ce65b665067fbc2c2a0f5a378_2212222452.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/746052/1534746565/230102040451_77efd5ae0978554ce65b665067fbc2c2a0f5a378_2212222452.jpg" />
   </programme>
   <programme start="20230103120000 +0000" stop="20230103140000 +0000" channel="Fox Sports Premium!">
     <title lang="es">Pachuca vs. Tigres UANL</title>
     <desc lang="es">Retransmisión de los partidos de la centésima octava edición del campeonato de la Primera División del fútbol mexicano. El evento reune a 18 equipos que se enfrentan semana a semana para lograr la victoria y consagrarse a nivel nacional. Así el público podrá disfrutar de los encuentros más emocionantes entre los conjuntos más destacados del país.(n)</desc>
     <category lang="es">Liga MX</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/718096/1534717199/221231215451_ce993468d40b08490ae9894b01618afd78195957_2212222451.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/718096/1534717199/230102040451_ce993468d40b08490ae9894b01618afd78195957_2212222451.jpg" />
   </programme>
   <programme start="20230103140000 +0000" stop="20230103160000 +0000" channel="Fox Sports Premium!">
     <title lang="es">Monterrey vs. Tigres UANL</title>
     <desc lang="es">Vive la XI edición del campeonato de liga de la Primera División Femenil de México con el que se inicia la temporada 2022-2023. La Primera División Femenil de México, conocida también como Liga MX Femenil, es la principal liga de fútbol profesional femenil en México la cual está regulada por la Federación Mexicana de Fútbol.(n)</desc>
     <category lang="es">Liga MX Femenil</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/719003/1534746196/221231215451_fa6fdb296fc0167e53b5e7664d2fe2ca6aca14fe_2212222452.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/719003/1534746196/230102040451_fa6fdb296fc0167e53b5e7664d2fe2ca6aca14fe_2212222452.jpg" />
   </programme>
   <programme start="20230103160000 +0000" stop="20230103190000 +0000" channel="Fox Sports Premium!">
     <title lang="es">WWE Raw</title>
     <desc lang="es">WWE - RAW es el programa de Lucha Libre profesional más popular del mundo.(n)</desc>
     <category lang="es">Show</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/127024/1534701657/221231215451_eb8616f0a24dd285350c7cb1d5cbb0a9e4d5b0f3_2212222951.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/127024/1534701657/230102040451_eb8616f0a24dd285350c7cb1d5cbb0a9e4d5b0f3_2212222951.jpg" />
   </programme>
   <programme start="20230103190000 +0000" stop="20230103200000 +0000" channel="Fox Sports Premium!">
     <title lang="es">40 Top Moments from 2022</title>
     <category lang="es">MLB Top Moments</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/746154/1534748132/221231215451_165645682020c84ab8c1ac14fb15948fa890a7f5_2212222952.jpg" />
-  </programme>
-  <programme start="20230102014000 +0000" stop="20230102032500 +0000" channel="A3Cine!">
-    <title lang="en">Maroa</title>
-    <desc lang="en">Oprimida por su cruel abuela con quien vive tras la muerte de sus padres, una niña de once años (Yorlís Domínguez) encuentra esperanza en la música de un clarinete. Joaquín: Tristán Ulloa. Brígida: Elba Escobar. Ezequiel: Luke Grande. Carlos: Engel Alejo. Cabezas: Víctor Cuno. Dirigda por Solveig Hoogesteijn.(n)</desc>
-    <date>2005</date>
-    <rating system="MPAA">
-      <value>TV-MA</value>
-    </rating>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/b4c85fcc47892808496e99bf44af1be4/RTV_FOXSPORTS_4_MEXICO/746154/1534748132/230102040451_165645682020c84ab8c1ac14fb15948fa890a7f5_2212222952.jpg" />
   </programme>
   <programme start="20230102032500 +0000" stop="20230102051000 +0000" channel="A3Cine!">
     <title lang="en">Las Edades de Lulú</title>
@@ -33317,88 +32879,6 @@
     <date>1999</date>
     <rating system="MPAA">
       <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20230102002600 +0000" stop="20230102012500 +0000" channel="A3Series HD!">
-    <title lang="es">Crimen en el Pacífico</title>
-    <desc lang="es">La comandante francesa Clarissa Hoarau y el teniente Jackson Bellerose se unen para resolver casos y luchar contra el crimen. El capitán Gaspar Watson y la policía Kelly Kwaté son claves para cerrar los casos y mantener la unión del equipo.(n)</desc>
-    <credits>
-      <actor>Yaëlle Trules</actor>
-      <actor>Antoine Stip</actor>
-      <actor>Nathan Dellemme</actor>
-      <actor>Marielle Karabeu</actor>
-      <actor>Clémentine Julienne</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Series policiacas extranjeras</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/c/r/i/xcrimen-en-el-pacifico-1104705_SPA-32.jpg.pagespeed.ic.NmyDiJd0j8.jpg" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <rating system="ICAA">
-      <value>+12</value>
-    </rating>
-  </programme>
-  <programme start="20230102012500 +0000" stop="20230102021500 +0000" channel="A3Series HD!">
-    <title lang="es">Crimen en el trópico</title>
-    <sub-title lang="es">Caballero</sub-title>
-    <desc lang="es">La comandante Melissa Saint-Rose llega a Martinica desde París y allí se encuentra con la capitana Gaelle Crivelli. Ambas deben convivir para resolver los crímenes que allí se cometen.(n)</desc>
-    <credits>
-      <director>Éric Eider</director>
-      <director>Ivan Piettre</director>
-      <actor>Sonia Rolland</actor>
-      <actor>Béatrice de La Boulaye</actor>
-      <actor>Julien Béramis</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="es">Series dramáticas extranjeras</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/c/r/i/xcrimen-en-el-tropico-869566_SPA-15.jpg.pagespeed.ic.OqztM9-WdG.jpg" />
-    <country lang="es">Francia</country>
-    <episode-num system="onscreen">S2 E4</episode-num>
-    <rating system="ICAA">
-      <value>+12</value>
-    </rating>
-  </programme>
-  <programme start="20230102021500 +0000" stop="20230102023500 +0000" channel="A3Series HD!">
-    <title lang="es">Los hombres de Paco</title>
-    <sub-title lang="es">Un lugar en el mundo</sub-title>
-    <desc lang="es">Mariano está deprimido y se plantea dejar la policía para marcharse al campo y hacerse pastor. Intentando animarle, Paco y Lucas provocan que uno de los delincuentes arrestados se escape, previendo que Mariano, que se encuentra en una situación privilegiada en la comisaría, le detenga. Sin embargo, Mariano no se percata de la situación y el delincuente consigue encerrarse en los calabozos junto a varios rehenes.Mientras tanto, Sara sigue empeñada en conquistar a Lucas. Después de varios intentos, se declara al policía en casa de éste. Lucas se niega tajantemente a mantener una relación con la hija de su compañero, pero Sara no cesará en intentar que él se fije en ella.Por otro lado, Silvia está ilusionada con los preparativos de su boda, pero no termina de gustarle el vestido de novia que ha elegido. Lola y Bernarda intentan convencerla de que está guapísima y como no lo consiguen se ofrecen a arreglarle el vestido. Bernarda, a quien le encantan las bodas, se prueba el vestido y un desafortunado accidente provoca un gran desperfecto en el traje de Silvia. Éste incidente hará recapacitar a Silvia si sigue adelante con la boda.(n)</desc>
-    <credits>
-      <actor>Pepón Nieto</actor>
-      <actor>Juan Diego</actor>
-      <actor>Adriana Ozores</actor>
-      <actor>Neus Asensi</actor>
-      <actor>Hugo Silva</actor>
-      <actor>Paco Tous</actor>
-    </credits>
-    <date>2005</date>
-    <category lang="es">Series de comedia españolas</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/l/o/s/xlos-hombres-de-paco-79995_SPA-63.jpg.pagespeed.ic.vZf15GOaVd.jpg" />
-    <country lang="es">España</country>
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <rating system="ICAA">
-      <value>+16</value>
-    </rating>
-  </programme>
-  <programme start="20230102023500 +0000" stop="20230102034000 +0000" channel="A3Series HD!">
-    <title lang="es">Los hombres de Paco</title>
-    <sub-title lang="es">Los hombres de Osama</sub-title>
-    <desc lang="es">Kike y Curtis gastan una broma pesada a los hombres de Paco colocando pruebas falsas en un kebab de Lavapiés que ellos tienen que registrar al día siguiente. Entre los objetos que incautan hay mapas, cartas, fotos y cintas grabadas que conducen a la guarida de Bin Ladem en Faluya. Aunque no cuentan con el apoyo de Don Lorenzo, los tres policías viajan a Irak con la intención de dar con el paradero del terrorista más buscado.Mientras, Povedilla queda encerrado con Ruth, Silvia y Sara en el montacargas de la comisaría. Mientras esperan a que les recaten, el policía se entera de todas las rencillas entre las tres mujeres por causa de Lucas. Povedilla termina agobiándose entre el calor, las discusiones y tanta mujer atractiva.Paralelamente, Lola decide llevarse a Sara al pueblo unos días para alejarla de Lucas. La joven se pasa los días y las noches intercambiando mensajes de amor con Lucas a través del móvil. El último mensaje que recibe del policía es una emotiva despedida en la que le cuenta que se marcha lejos y puede que no regrese de la difícil misión en la que se ha implicado. Sara, asustada, se escapa y regresa a la ciudad en busca de Lucas.(n)</desc>
-    <credits>
-      <actor>Pepón Nieto</actor>
-      <actor>Juan Diego</actor>
-      <actor>Adriana Ozores</actor>
-      <actor>Neus Asensi</actor>
-      <actor>Anna Maria Barbany</actor>
-      <actor>Nadia de Santiago</actor>
-      <actor>Hugo Silva</actor>
-      <actor>Paco Tous</actor>
-    </credits>
-    <date>2006</date>
-    <category lang="es">Series de comedia españolas</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/l/o/s/xlos-hombres-de-paco-79995_SPA-63.jpg.pagespeed.ic.vZf15GOaVd.jpg" />
-    <country lang="es">España</country>
-    <episode-num system="onscreen">S2 E10</episode-num>
-    <rating system="ICAA">
-      <value>+16</value>
     </rating>
   </programme>
   <programme start="20230102034000 +0000" stop="20230102045000 +0000" channel="A3Series HD!">
@@ -34325,25 +33805,6 @@
     <rating system="ICAA">
       <value>+12</value>
     </rating>
-  </programme>
-  <programme start="20230102013000 +0000" stop="20230102020000 +0000" channel="Telehit Musica">
-    <title lang="en">Playlist Telehit</title>
-    <desc lang="en">Disfruta de la playlist que propone Telehit para bailar al ritmo de lo mejor del urbano.(n)</desc>
-    <date>2019</date>
-  </programme>
-  <programme start="20230102020000 +0000" stop="20230102025500 +0000" channel="Telehit Musica">
-    <title lang="en">Ranking</title>
-    <desc lang="en">Un programa que presenta un ranking con los mejores temas musicales del momento.(n)</desc>
-  </programme>
-  <programme start="20230102025500 +0000" stop="20230102035000 +0000" channel="Telehit Musica">
-    <title lang="en">Telehitazos</title>
-    <desc lang="en">Una selección de los videos musicales más exitosos del 2010 y de otros años.(n)</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20230102035000 +0000" stop="20230102044500 +0000" channel="Telehit Musica">
-    <title lang="en">Telehitazos</title>
-    <desc lang="en">Una selección de los videos musicales más exitosos del 2010 y de otros años.(n)</desc>
-    <date>2022</date>
   </programme>
   <programme start="20230102044500 +0000" stop="20230102054000 +0000" channel="Telehit Musica">
     <title lang="en">Musicología</title>
