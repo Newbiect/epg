@@ -1,4 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Dominicanos" tvg-logo="https://i.imgur.com/UiPLVVS.png" tvg-id="", Colorvision
-https://stream-03.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RY1vL6eGIMB2lQc_CnGdglSKMO14dTqTXV_h0wXXDVT75)/dm/3/x7gy059/d/live-4.m3u8#cell=lnyc
+https://stream-01.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RY1vL6eGIMB2lQc_CnGdglSKMO14dTqTXV_h0wXXDVT75)/dm/3/x7gy059/d/live-4.m3u8#cell=lnyc
+
+#EXTINF:-1 group-title="" tvg-logo="" tvg-id="", Nba
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
