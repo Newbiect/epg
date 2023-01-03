@@ -601,6 +601,9 @@
     <desc lang="en">Noticias y temas de actualidad de Santiago y el resto del país.(n)</desc>
     <date>2008</date>
   </programme>
+  <programme start="20230103001500 +0000" stop="20230103010000 +0000" channel="AMC+">
+    <title lang="en">Ride With Norman Reedus</title>
+  </programme>
   <programme start="20230103010000 +0000" stop="20230103015400 +0000" channel="AMC+">
     <title lang="en">The End Is the Beginning</title>
   </programme>
@@ -690,10 +693,6 @@
   </programme>
   <programme start="20230104000800 +0000" stop="20230104010000 +0000" channel="AMC+">
     <title lang="en">Here's Negan</title>
-  </programme>
-  <programme start="20230104010000 +0000" stop="20230104014800 +0000" channel="AMC+">
-    <title lang="en">It Couldn't Happen Here</title>
-    <sub-title lang="en">Adel, Georgia</sub-title>
   </programme>
   <programme start="20230103000000 +0000" stop="20230103020000 +0000" channel="Teleuniverso">
     <title lang="en">Buena noche</title>
@@ -1219,8 +1218,16 @@
     </rating>
   </programme>
   <programme start="20230103003000 +0000" stop="20230103010000 +0000" channel="Tastemade en Espanol">
-    <title lang="en">La garnacha nunca empacha (?)</title>
-    <sub-title lang="en">Garnachas Golosas</sub-title>
+    <title lang="en">La garnacha nunca empacha</title>
+    <sub-title lang="en">Garnachas Golosas. Garnachas Golosas</sub-title>
+    <desc lang="en">Cada puesto callejero tiene su propia cultura y sus propios códigos. Pero hay una de estas normas que nunca cambia: cuando se trata de comida callejera, la garnacha nunca empacha.(n)</desc>
+    <date>2022</date>
+    <category lang="en">Cooking</category>
+    <icon src="https://tvtv.us/gn/pi/assets/p22102109_b_v8_ab.jpg" />
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
   </programme>
   <programme start="20230103010000 +0000" stop="20230103013000 +0000" channel="Tastemade en Espanol">
     <title lang="en">La garnacha nunca empacha (?)</title>
@@ -1601,13 +1608,6 @@
   </programme>
   <programme start="20230104140000 +0000" stop="20230104170000 +0000" channel="NY1 Noticias">
     <title lang="en">Noticias por la mañana (?)</title>
-  </programme>
-  <programme start="20230103003300 +0000" stop="20230103012400 +0000" channel="Aplauso">
-    <title lang="en">Arrepentimiento Tardio</title>
-  </programme>
-  <programme start="20230103012400 +0000" stop="20230103014700 +0000" channel="Aplauso">
-    <title lang="en">La Agencia</title>
-    <desc lang="en">Emisión de un programa documental.(n)</desc>
   </programme>
   <programme start="20230103014700 +0000" stop="20230103022700 +0000" channel="Aplauso">
     <title lang="en">Citas</title>
@@ -19139,9 +19139,6 @@
     <category lang="it">Musica</category>
     <icon src="https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png" />
   </programme>
-  <programme start="20230103010000 +0000" stop="20230103013000 +0000" channel="RT (Russia Today)">
-    <title lang="en">Noticias</title>
-  </programme>
   <programme start="20230103013000 +0000" stop="20230103020000 +0000" channel="RT (Russia Today)">
     <title lang="en">Entrevista</title>
     <sub-title lang="en">Fabián 'Tweety' González</sub-title>
@@ -23631,11 +23628,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20230103000500 +0000" stop="20230103013500 +0000" channel="De Película Plus">
-    <title lang="en">Lástima de ropa</title>
-    <desc lang="en">Arturo es una muchacho millonario que lo tiene todo. La fábrica que le pertenece anda de manera perfecta y le da las ganancias necesarias para tener una buena calidad de vida. Sin embargo, tras sufrir un importante asalto mientras salía en su...(n)</desc>
-    <date>1962</date>
-  </programme>
   <programme start="20230103013500 +0000" stop="20230103031400 +0000" channel="De Película Plus">
     <title lang="en">Una Golfa</title>
     <desc lang="en">Una cantante de cabaret y un trompetista huyen de la ley y la mafia cuando asesinan a uno de sus líderes. Diana: Silvia Pinal. Luis: Sergio Bustamante. Toño: Jorge Martínez de Hoyos. Don Emiliano: Carlos López Moctezuma. Dodó: Sara Guash. Padre Lorenzo: Arturo Soto Rangel. Director: Tulio Demicheli.(n)</desc>
@@ -24161,14 +24153,6 @@
     <desc lang="en">Hablar de tus problemas es el primer paso para superarlos, por eso Rocío Sánchez Azuara está de regreso con un programa único, en el cual, podrás acercarte, para que con ella, hables de todo lo que te preocupa, y juntas o juntos, puedan encontrar una solución.(n)</desc>
     <date>2021</date>
   </programme>
-  <programme start="20230103004000 +0000" stop="20230103012500 +0000" channel="UNIVERSAL REALITY">
-    <title lang="en">Million Dollar Listing New York</title>
-    <desc lang="en">Ahora que Ryan limpió el apartamento de Adrianna, tiene que encontrar una manera de venderlo...(n)</desc>
-    <date>2017</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20230103012500 +0000" stop="20230103021000 +0000" channel="UNIVERSAL REALITY">
     <title lang="en">Million Dollar Listing Los Angeles</title>
     <desc lang="en">Josh Flagg y Madison Hildebrand regresan y se les une Josh Altman,.(n)</desc>
@@ -24649,12 +24633,6 @@
     <sub-title lang="en">Sal a la carretera, Todd</sub-title>
     <date>2021</date>
   </programme>
-  <programme start="20230103004000 +0000" stop="20230103012500 +0000" channel="UNIVERSAL CRIME">
-    <title lang="en">Asesinatos en Navidad</title>
-    <sub-title lang="en">Carnicería navideña en Carnation</sub-title>
-    <desc lang="en">La temporada navideña se detiene en seco cuando se descubre que seis miembros de la familia Anderson han sido asesinados a tiros en su casa. Los detectives trabajan en estrecha colaboración con los amigos de la familia para localizar al sorprendente asesino.(n)</desc>
-    <date>2020</date>
-  </programme>
   <programme start="20230103012500 +0000" stop="20230103021000 +0000" channel="UNIVERSAL CRIME">
     <title lang="en">Enterrado en el jardín</title>
     <sub-title lang="en">Alojamiento, desayuno y cadáver</sub-title>
@@ -25058,14 +25036,6 @@
     <sub-title lang="en">Drew Peterson</sub-title>
     <desc lang="en">Un sargento de policía de Bolingbrook, Illinois,.(n)</desc>
     <date>2021</date>
-  </programme>
-  <programme start="20230103010500 +0000" stop="20230103013000 +0000" channel="UNIVERSAL COMEDY">
-    <title lang="en">Maratón Kevin puede esperar</title>
-    <desc lang="en">Kevin contrata en secreto a alguien que haga sus obligaciones mientras él juega football.(n)</desc>
-    <date>2016</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
   </programme>
   <programme start="20230103013000 +0000" stop="20230103015500 +0000" channel="UNIVERSAL COMEDY">
     <title lang="en">Kevin puede esperar</title>
@@ -26062,13 +26032,6 @@
     <title lang="en">Gritando y Pateando</title>
     <desc lang="en">Phil tuvo una infancia dura debido a su competitivo papá. Ahora es el actual entrenador del equipo de fútbol de su hijo y, con un pobre historial de victorias, debe luchar para vencer al equipo rival, dirigido nada más y nada menos que por su padre.(n)</desc>
     <date>2005</date>
-  </programme>
-  <programme start="20230103010000 +0000" stop="20230103014500 +0000" channel="UNIVERSAL PREMIERE">
-    <title lang="en">Blue Bloods</title>
-    <date>2014</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
   </programme>
   <programme start="20230103014500 +0000" stop="20230103023000 +0000" channel="UNIVERSAL PREMIERE">
     <title lang="en">Blue Bloods</title>
@@ -27081,11 +27044,6 @@
     <desc lang="en">Bertha hace todo lo posible para impresionar al Sr. McAllister en un almuerzo,.(n)</desc>
     <date>2022</date>
   </programme>
-  <programme start="20230103000000 +0000" stop="20230103013000 +0000" channel="HBO PLUS">
-    <title lang="en">Linterna verde: Teman a mi poder</title>
-    <desc lang="en">Un antiguo francotirador de los marines se convierte en el Green Lantern del planeta Tierra.(n)</desc>
-    <date>2022</date>
-  </programme>
   <programme start="20230103013000 +0000" stop="20230103035900 +0000" channel="HBO PLUS">
     <title lang="en">El hombre de acero</title>
     <desc lang="en">Martha y Jonathan adoptaron a Clark cuando años atrás llegó a la Tierra desde el planeta Krypton, y le educaron como a un niño normal. Sin embargo, Clark ha crecido; está en la universidad y sus poderes van en aumento, lo que hace que el joven se plantee numerosos interrogantes sobre sí mismo... Pero una gran amenaza acecha al mundo y a sus seres queridos, y Clark deberá emplear sus poderes.(n)</desc>
@@ -27893,11 +27851,6 @@
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
-  </programme>
-  <programme start="20230103000000 +0000" stop="20230103013000 +0000" channel="Imagen TV">
-    <title lang="en">Que pase Laura</title>
-    <desc lang="en">Un programa que presenta problemáticas sociales y familiares y se proponen posibles soluciones.(n)</desc>
-    <date>2022</date>
   </programme>
   <programme start="20230103013000 +0000" stop="20230103023000 +0000" channel="Imagen TV">
     <title lang="en">Sansón y Dalila</title>
@@ -31876,14 +31829,6 @@
     <sub-title lang="en">The Brave Papoose</sub-title>
     <date>2022</date>
   </programme>
-  <programme start="20230103003000 +0000" stop="20230103013000 +0000" channel="Las Estrellas">
-    <title lang="en">Corona de lágrimas</title>
-    <desc lang="en">Una mujer sola inicia una nueva vida junto a sus tres hijos.(n)</desc>
-    <date>2012</date>
-    <rating system="MPAA">
-      <value>TV-Y7</value>
-    </rating>
-  </programme>
   <programme start="20230103013000 +0000" stop="20230103023000 +0000" channel="Las Estrellas">
     <title lang="en">La Rosa de Guadalupe</title>
     <desc lang="en">La Virgen de Guadalupe se ha convertido en estandarte de millones de mexicanos. Cada uno de sus milagros se traducen en historias, de amor, desamor, esperanza, lucha e intriga. Este espacio abordará temas como la prostitución, violencia intrafamiliar, drogadicción, entre otros.(n)</desc>
@@ -32709,12 +32654,6 @@
     <desc lang="en">En una localidad de México, los espíritus regresan a la Tierra una vez al año, durante el Día de los Muertos. Sin embargo, ningún espíritu regresa a visitar a Salma, una joven de 16 años que desconoce el paradero y la identidad de sus padres. Salma lucha constantemente por encontrar a su familia, hasta que ella y sus amigos se embarcan en una aventura llena de fantasmas, calaveras y un personaje enigmático.(n)</desc>
     <date>2019</date>
   </programme>
-  <programme start="20230103010000 +0000" stop="20230103013000 +0000" channel="Curiosity Stream">
-    <title lang="en">Misión imparable con Miranda Cosgrove</title>
-    <sub-title lang="en">Escorpiones, estatuas y energía solar</sub-title>
-    <desc lang="en">Escorpiones que brillan en la oscuridad,.(n)</desc>
-    <date>2021</date>
-  </programme>
   <programme start="20230103013000 +0000" stop="20230103020000 +0000" channel="Curiosity Stream">
     <title lang="en">Misión imparable con Miranda Cosgrove</title>
     <sub-title lang="en">Huesos gigantes, olas feroces y estrellas coloridas</sub-title>
@@ -33139,12 +33078,6 @@
   <programme start="20230104230000 +0000" stop="20230105000000 +0000" channel="Curiosity Stream">
     <title lang="en">Vida secreta bajo tierra</title>
     <desc lang="en">Vida secreta bajo tierra.(n)</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20230103011000 +0000" stop="20230103013500 +0000" channel="Dreamworks">
-    <title lang="en">Kung Fu Panda: Las patitas del destino</title>
-    <sub-title lang="en">Viajando al este</sub-title>
-    <desc lang="en">Un poco aburridos con su nueva vida de héroes,.(n)</desc>
     <date>2022</date>
   </programme>
   <programme start="20230103013500 +0000" stop="20230103020000 +0000" channel="Dreamworks">
@@ -34004,12 +33937,6 @@
     <rating system="MPAA">
       <value>TV-Y7</value>
     </rating>
-  </programme>
-  <programme start="20230103010000 +0000" stop="20230103013000 +0000" channel="Hogar HGTV">
-    <title lang="en">Espacios únicos</title>
-    <sub-title lang="en">Oh How She Loved Home</sub-title>
-    <desc lang="en">Después de mirar lofts y condominios alrededor de Fort Worth, Texas,.(n)</desc>
-    <date>2020</date>
   </programme>
   <programme start="20230103013000 +0000" stop="20230103020000 +0000" channel="Hogar HGTV">
     <title lang="en">Único en su clase</title>
@@ -35353,7 +35280,7 @@
       <value>+12</value>
     </rating>
   </programme>
-  <programme start="20230103222800 +0000" stop="20230103232600 +0000" channel="A3Series HD!">
+  <programme start="20230103222800 +0000" stop="20230103223500 +0000" channel="A3Series HD!">
     <title lang="es">Tandem</title>
     <desc lang="es">La comandante Léa Soler acaba de asumir el cargo de jefa de la división de investigaciones de Montpellier, lo que significa que trabajará con Paul Marchal, que es brillante pero totalmente incontrolable. Ambos acaban de separarse y son padres de dos adolescentes.Serie de televisión policíaca con toques de humor de producción francesa. Cuenta con 24 episodios divididos en dos temporadas. El rodaje de 'Tandem' se realizó en la soleada región de Occitania y la trama transcurre en los alrededores de Montpellier con sus increíbles paisajes mediterráneos. Tras el éxito de las dos primeras temporadas, France 3 ha renovado por una tercera.(n)</desc>
     <credits>
@@ -35371,9 +35298,10 @@
       <value>+12</value>
     </rating>
   </programme>
-  <programme start="20230103232600 +0000" stop="20230104002400 +0000" channel="A3Series HD!">
+  <programme start="20230103223500 +0000" stop="20230103233000 +0000" channel="A3Series HD!">
     <title lang="es">Tandem</title>
-    <desc lang="es">La comandante Léa Soler acaba de asumir el cargo de jefa de la división de investigaciones de Montpellier, lo que significa que trabajará con Paul Marchal, que es brillante pero totalmente incontrolable. Ambos acaban de separarse y son padres de dos adolescentes.Serie de televisión policíaca con toques de humor de producción francesa. Cuenta con 24 episodios divididos en dos temporadas. El rodaje de 'Tandem' se realizó en la soleada región de Occitania y la trama transcurre en los alrededores de Montpellier con sus increíbles paisajes mediterráneos. Tras el éxito de las dos primeras temporadas, France 3 ha renovado por una tercera.(n)</desc>
+    <sub-title lang="es">Alianza de oro (1ª parte)</sub-title>
+    <desc lang="es">Un joven es hallado colgado de un árbol. Mientras investigan este asesinato, Lea y Paul establecen el vínculo con un crimen sin resolver. Crosne está lista para vengar a su hija que murió hace cinco años, así que secuestra a Paul para usarlo como moneda de cambio ante el presunto culpable... Lea tendrá muy poco tiempo para resolver esta investigación y salvar a Paul.(n)</desc>
     <credits>
       <director>Jérémie Marcus</director>
       <actor>Astrid Veillon</actor>
@@ -35381,17 +35309,19 @@
       <actor>Piérick Tournier</actor>
       <actor>Nelly Lawson</actor>
     </credits>
-    <date>2022</date>
+    <date>2016</date>
     <category lang="es">Series policiacas extranjeras</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/t/a/n/xtandem-1012825_SPA-72.jpg.pagespeed.ic.dy2i8qzWC6.jpg" />
+    <icon src="https://cdn.sincroguia.tv/uploads/programs/t/a/n/xtandem-574382_SPA-27.jpg.pagespeed.ic.E9lesjIajm.jpg" />
     <country lang="es">Francia</country>
+    <episode-num system="onscreen">S1 E11</episode-num>
     <rating system="ICAA">
       <value>+12</value>
     </rating>
   </programme>
-  <programme start="20230104002400 +0000" stop="20230104012200 +0000" channel="A3Series HD!">
+  <programme start="20230103233000 +0000" stop="20230104002500 +0000" channel="A3Series HD!">
     <title lang="es">Tandem</title>
-    <desc lang="es">La comandante Léa Soler acaba de asumir el cargo de jefa de la división de investigaciones de Montpellier, lo que significa que trabajará con Paul Marchal, que es brillante pero totalmente incontrolable. Ambos acaban de separarse y son padres de dos adolescentes.Serie de televisión policíaca con toques de humor de producción francesa. Cuenta con 24 episodios divididos en dos temporadas. El rodaje de 'Tandem' se realizó en la soleada región de Occitania y la trama transcurre en los alrededores de Montpellier con sus increíbles paisajes mediterráneos. Tras el éxito de las dos primeras temporadas, France 3 ha renovado por una tercera.(n)</desc>
+    <sub-title lang="es">Alianza de oro (2ª parte)</sub-title>
+    <desc lang="es">Un joven es hallado colgado de un árbol. Mientras investigan este asesinato, Lea y Paul establecen el vínculo con un crimen sin resolver. Crosne está lista para vengar a su hija que murió hace cinco años, así que secuestra a Paul para usarlo como moneda de cambio ante el presunto culpable... Lea tendrá muy poco tiempo para resolver esta investigación y salvar a Paul.(n)</desc>
     <credits>
       <director>Jérémie Marcus</director>
       <actor>Astrid Veillon</actor>
@@ -35399,17 +35329,39 @@
       <actor>Piérick Tournier</actor>
       <actor>Nelly Lawson</actor>
     </credits>
-    <date>2022</date>
+    <date>2016</date>
     <category lang="es">Series policiacas extranjeras</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/t/a/n/xtandem-1012825_SPA-72.jpg.pagespeed.ic.dy2i8qzWC6.jpg" />
+    <icon src="https://cdn.sincroguia.tv/uploads/programs/t/a/n/xtandem-574382_SPA-27.jpg.pagespeed.ic.E9lesjIajm.jpg" />
     <country lang="es">Francia</country>
+    <episode-num system="onscreen">S1 E12</episode-num>
     <rating system="ICAA">
       <value>+12</value>
     </rating>
   </programme>
-  <programme start="20230104012200 +0000" stop="20230104022000 +0000" channel="A3Series HD!">
+  <programme start="20230104002500 +0000" stop="20230104012000 +0000" channel="A3Series HD!">
     <title lang="es">Tandem</title>
-    <desc lang="es">La comandante Léa Soler acaba de asumir el cargo de jefa de la división de investigaciones de Montpellier, lo que significa que trabajará con Paul Marchal, que es brillante pero totalmente incontrolable. Ambos acaban de separarse y son padres de dos adolescentes.Serie de televisión policíaca con toques de humor de producción francesa. Cuenta con 24 episodios divididos en dos temporadas. El rodaje de 'Tandem' se realizó en la soleada región de Occitania y la trama transcurre en los alrededores de Montpellier con sus increíbles paisajes mediterráneos. Tras el éxito de las dos primeras temporadas, France 3 ha renovado por una tercera.(n)</desc>
+    <sub-title lang="es">Entre las redes</sub-title>
+    <desc lang="es">Se encuentra el cuerpo de una mujer, arrastrado a la costa por el mar. Se llama Marianne Pellat y era la única pescadora del puerto. Su barco no está en ninguna parte, ¿fue asesinada en alta mar mientras pescaba?(n)</desc>
+    <credits>
+      <director>Jérémie Marcus</director>
+      <actor>Astrid Veillon</actor>
+      <actor>Stéphane Blancafort</actor>
+      <actor>Piérick Tournier</actor>
+      <actor>Nelly Lawson</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Series policiacas extranjeras</category>
+    <icon src="https://cdn.sincroguia.tv/uploads/programs/t/a/n/xtandem-678901_SPA-49.jpg.pagespeed.ic.sG7PJaqTrq.jpg" />
+    <country lang="es">Francia</country>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="ICAA">
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20230104012000 +0000" stop="20230104021500 +0000" channel="A3Series HD!">
+    <title lang="es">Tandem</title>
+    <sub-title lang="es">El mundo del silencio</sub-title>
+    <desc lang="es">Encuentran a un veterinario asesinado en su lugar de trabajo. Rápidamente, Léa y Paul se dan cuenta de que estaba luchando por la custodia de sus hijos con su exesposa. ¿Sería su muerte la consecuencia de un drama familiar?(n)</desc>
     <credits>
       <director>Jérémie Marcus</director>
       <actor>Astrid Veillon</actor>
@@ -35419,61 +35371,57 @@
     </credits>
     <date>2017</date>
     <category lang="es">Series policiacas extranjeras</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/t/a/n/xtandem-574382_SPA-27.jpg.pagespeed.ic.E9lesjIajm.jpg" />
+    <icon src="https://cdn.sincroguia.tv/uploads/programs/t/a/n/xtandem-678901_SPA-49.jpg.pagespeed.ic.sG7PJaqTrq.jpg" />
     <country lang="es">Francia</country>
+    <episode-num system="onscreen">S2 E2</episode-num>
     <rating system="ICAA">
       <value>+12</value>
     </rating>
   </programme>
-  <programme start="20230104022000 +0000" stop="20230104024000 +0000" channel="A3Series HD!">
+  <programme start="20230104021500 +0000" stop="20230104034000 +0000" channel="A3Series HD!">
     <title lang="es">Los hombres de Paco</title>
-    <desc lang="es">Paco Miranda es un inspector jefe de policía, de carácter bonachón e incapaz de enfrentarse a las situaciones de crisis, que trabaja junto a sus dos hombres de confianza: los agentes Mariano y Lucas. Los tres forman un equipo cuyo rasgo principal es la incompetencia y que debe enfrentarse cada día a los caprichos de Don Lorenzo, el comisario, que también es suegro de Paco.Producida por Globomedia para Antena 3, 'Los hombres de Paco' es una telecomedia que combina tramas policíacas y familiares, todo en un tono de comedia desenfadada y con buenas dosis de humor negro. La producción reúne a un plantel de habituales de la pequeña pantalla, como Pepón Nieto ('Periodistas'), Adriana Ozores ('Manolito Gafotas'), Neus Asensi ('Torrente') o Paco Tous ('Solas'), éste último en el papel protagonista.(n)</desc>
-    <credits>
-      <actor>Paco Tous</actor>
-      <actor>Juan Diego</actor>
-      <actor>Adriana Ozores</actor>
-      <actor>Pepón Nieto</actor>
-      <actor>Hugo Silva</actor>
-      <actor>Neus Asensi</actor>
-    </credits>
-    <date>2005</date>
-    <category lang="es">Series de comedia españolas</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/l/o/s/xlos-hombres-de-paco-79995_SPA-63.jpg.pagespeed.ic.vZf15GOaVd.jpg" />
-    <country lang="es">España</country>
-    <rating system="ICAA">
-      <value>+16</value>
-    </rating>
-  </programme>
-  <programme start="20230104024000 +0000" stop="20230104045000 +0000" channel="A3Series HD!">
-    <title lang="es">Los hombres de Paco</title>
-    <desc lang="es">Paco Miranda es un inspector jefe de policía, de carácter bonachón e incapaz de enfrentarse a las situaciones de crisis, que trabaja junto a sus dos hombres de confianza: los agentes Mariano y Lucas. Los tres forman un equipo cuyo rasgo principal es la incompetencia y que debe enfrentarse cada día a los caprichos de Don Lorenzo, el comisario, que también es suegro de Paco.En la segunda temporada, las historias de amor se entremezclan con la ficción cómica para dar más intensidad emotiva a las historias de este grupo de policías de barrio. La serie incorpora además a tres nuevos personajes interpretados por Nerea Garmendia, Nadia de Santiago y Ana María Barbany.Producida por Globomedia para Antena 3, 'Los hombres de Paco' es una telecomedia que combina tramas policíacas y familiares, todo en un tono de comedia desenfadada y con buenas dosis de humor negro. La producción, que ya anda por su segunda temporada, reúne a un plantel de habituales de la pequeña pantalla, como Pepón Nieto ('Periodistas'), Adriana Ozores ('Manolito Gafotas'), Neus Asensi ('Torrente') o Paco Tous ('Solas'), éste último en el papel protagonista.(n)</desc>
+    <sub-title lang="es">Todo el mundo al suelo</sub-title>
+    <desc lang="es">Paco y sus hombres están convencidos de que Don Lorenzo es el cabecilla de un grupo de militares dispuestos a dar un golpe de estado. En realidad, se trata de viejos compañeros de la mili, un tanto fachas, que no esconden su disgusto por la política actual y que utilizan un lenguaje militar para organizar una fiesta sorpresa. Paco, Lucas y Mariano están dispuestos a todo para frustrar los supuestos planes golpistas del comisario y sus amigos.Al mismo tiempo, llega a la ciudad Perico, un sobrino adolescente de Lucas que va a trabajar en el bar de Lola. Tras un primer y embarazoso encuentro en el que el joven sorprende a la mujer de Paco desnuda tras darse una ducha, la atracción parece surgir entre ellos. Todo queda en un coqueteo inocente cuado Perico queda deslumbrado por la belleza de Sara, la hija de Lola.Paralelamente, Ruth está harta de que Don Lorenzo trate de disimular la relación amorosa que mantiene con ella y le da un ultimátum. Mientras, la psicóloga tiene varios encontronazos con Lucas, que desprecia su trabajo y se niega a reconocer que pudiera sufrir un trauma por haber estado a punto de morir.(n)</desc>
     <credits>
       <actor>Pepón Nieto</actor>
       <actor>Juan Diego</actor>
       <actor>Adriana Ozores</actor>
       <actor>Neus Asensi</actor>
-      <actor>Hugo Silva</actor>
-      <actor>Paco Tous</actor>
-      <actor>Nerea Garmendia</actor>
+      <actor>Anna Maria Barbany</actor>
       <actor>Nadia de Santiago</actor>
+      <actor>Hugo Silva</actor>
+      <actor>Paco Tous</actor>
     </credits>
     <date>2006</date>
     <category lang="es">Series de comedia españolas</category>
     <icon src="https://cdn.sincroguia.tv/uploads/programs/l/o/s/xlos-hombres-de-paco-79995_SPA-63.jpg.pagespeed.ic.vZf15GOaVd.jpg" />
     <country lang="es">España</country>
+    <episode-num system="onscreen">S2 E6</episode-num>
     <rating system="ICAA">
       <value>+16</value>
     </rating>
   </programme>
-  <programme start="20230104045000 +0000" stop="20230104050000 +0000" channel="A3Series HD!">
-    <title lang="es">Masdeseries</title>
-    <desc lang="es">Programa auxiliar entre capítulo y capítulo en el que se mostrará información con reportajes y pequeñas píldoras de contenido exclusivo. Un espacio complementario de análisis tanto de las series, como de los personajes y actores. También habrá participación del público.(n)</desc>
-    <date>2016</date>
-    <category lang="es">Otros programas de entretenimiento</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/n/o/t/xnoticias-v-2030-942079_SPA-59.jpg.pagespeed.ic.x5Y11u9bFy.jpg" />
+  <programme start="20230104034000 +0000" stop="20230104050000 +0000" channel="A3Series HD!">
+    <title lang="es">Los hombres de Paco</title>
+    <sub-title lang="es">El yalovi</sub-title>
+    <desc lang="es">En el transcurso de un control, Paco y sus hombres detienen a un pakistaní que lleva un maletín donde esconde varias ampollas con un líquido que Silvia se encarga de analizar. La forense informa a Don Lorenzo de que puede tratarse de un agente patógeno muy peligroso, incluso podría ser un arma bacteriológica. Entonces saltan las alarmas en el laboratorio, ya que Lucas acaba de lanzarse sobre el maletín y una de las ampollas se ha roto.Por otro lado, Lucas cuenta a Mariano que se ha acostado con Escobar, la agente de asuntos internos que acosa a Paco. Su objetivo es conseguir información sobre el caso Uriarte, pero reconoce que ella podría ser el tipo de mujer que le conviene. Lucas deduce, tras sustraer a su nuevo ligue el informe, que Paco estuvo detrás de la muerte de su padre, acaecida mientras resolvían este oscuro asunto.Mientras tanto, Aitor comienza trabajar como becario a las órdenes de Paco. Tras recibir alguna reprimenda del inspector Miranda, el joven policía le salva la vida demostrando que es un tipo con arrojo. Pero además es un chico listo que aprovecha la distracción para curiosear entre la documentación de Paco y encontrar la forma de localizar a Sara.(n)</desc>
+    <credits>
+      <actor>Nadia de Santiago</actor>
+      <actor>Nerea Garmendia</actor>
+      <actor>Pepón Nieto</actor>
+      <actor>Juan Diego</actor>
+      <actor>Adriana Ozores</actor>
+      <actor>Hugo Silva</actor>
+      <actor>Paco Tous</actor>
+      <actor>David Janer</actor>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Series de comedia españolas</category>
+    <icon src="https://cdn.sincroguia.tv/uploads/programs/l/o/s/xlos-hombres-de-paco-97040_SPA-30.jpg.pagespeed.ic.Re27YKEXU1.jpg" />
     <country lang="es">España</country>
+    <episode-num system="onscreen">S3 E12</episode-num>
     <rating system="ICAA">
-      <value>+12</value>
+      <value>+16</value>
     </rating>
   </programme>
   <programme start="20230104050000 +0000" stop="20230104053000 +0000" channel="A3Series HD!">
@@ -35487,7 +35435,7 @@
       <value>+7</value>
     </rating>
   </programme>
-  <programme start="20230104053000 +0000" stop="20230104064500 +0000" channel="A3Series HD!">
+  <programme start="20230104053000 +0000" stop="20230104065000 +0000" channel="A3Series HD!">
     <title lang="es">Con el culo al aire</title>
     <desc lang="es">Tercera temporada de la serie en la que un grupo de personas que sufre la crisis deja su piso en la ciudad para trasladarse a un campin. Este lugar ha dejado de ser para veraneantes y se ha llenado de personas ahogadas por las dificultades económicas.Los nuevos episodios llegan con el final del verano y el abandono del campin por parte de los últimos turistas. Ahora que la temporada alta ha terminado, los habitantes que quedan deben buscar nuevas formas de ingresar dinero. Esta nueva etapa cuenta con 'cameos' de presentadores como Carlos Sobera o Berto Romero, y actores entre los que destacan Álex O'Dogherty ('Camera café') y Úrsula Corberó ('Física o química'). Además, se incorporan cuatro nuevos personajes de forma permanente: Rubén, un joven sin techo al que rescata Tino, interpretado por Julián López ('Los Quién'); Begoña, la exmujer de Ángel, interpretada por Ana Morgade ('Bicho malo'); una veinteañera poligonera llamada Rebe interpretada por la joven actriz Almudena Puyo; y Chus, la hermana de Lola, a la que da vida Llum Barrera ('Pulseras rojas').(n)</desc>
     <credits>
@@ -35506,9 +35454,9 @@
       <value>+12</value>
     </rating>
   </programme>
-  <programme start="20230104064500 +0000" stop="20230104081500 +0000" channel="A3Series HD!">
+  <programme start="20230104065000 +0000" stop="20230104090000 +0000" channel="A3Series HD!">
     <title lang="es">Allí abajo</title>
-    <desc lang="es">Cuarta temporada de la comedia sobre las relaciones entre vascos y andaluces. Una vez que Iñaki descubre que tiene una plaza en la cocina de Arzak, él y Carmen se trasladan a vivir al norte. Esto contrasta con Maritxu que, después de iniciar un romance con Don Benjumea, se instala en Sevilla y tendrá que luchar por una herencia inesperada. En Euskadi, Bego toma las riendas de la taberna Kaia, y descubrirá una grieta que amenaza el local.En esta nueva etapa de la comedia sobre la relación entre vascos y andaluces, a la presencia de María león y Jon Plazaola se les unen nuevos actores como Gorka Otxoa y Nerea Garmendia. La serie sigue apostando por los platós en entornos reales, algo poco habitual en las comedias. Uno de los escenarios que repite en la tercera temporada es el Palacio de Monsalves. Este palacio se construyó a principios del siglo XX, sobre una edificación del siglo XVI. Se sitúa en el centro histórico de Sevilla, y está previsto que se convierta en parte del Museo de Artes de Sevilla en una futura ampliación. Algunas de las otras localizaciones reales usadas en la serie son: La plaza de España, el hotel Macarena, la calle Feria o la calle Alfarería.(n)</desc>
+    <desc lang="es">La vida de Iñaki da un giro cuando se ve obligado a ir a un viaje del Inserso con su madre a Sevilla. El joven, que no ha salido de Euskadi, regenta el bar que heredó de su padre. Allí trabaja Nekane, que como buena vasca nunca le ha declarado su amor. De esta manera, la vida de Iñaki pasa sin pena ni gloria hasta que se queda atrapado en el sur.Comedia producida por Plano a Plano ('El Príncipe') que cuenta una historia de amor entre una sevillana y un bilbaíno en clave de humor. María León ('Carmina o revienta') y Jon Plazaola, que interpreta su primer papel como actor, dan vida a los protagonistas de esta producción basada en las diferentes maneras de ver la vida de los españoles según su procedencia.(n)</desc>
     <credits>
       <director>Ignacio Mercero</director>
       <actor>María León</actor>
@@ -35520,85 +35468,41 @@
       <actor>José María del Castillo</actor>
       <actor>Alazne Etxeberria</actor>
     </credits>
-    <date>2018</date>
+    <date>2015</date>
     <category lang="es">Series de comedia españolas</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/a/l/l/xalli-abajo-583051_SPA-19.jpg.pagespeed.ic.6ABoVgXeEf.jpg" />
+    <icon src="https://cdn.sincroguia.tv/uploads/programs/a/l/l/xalli-abajo-475630_SPA-26.jpg.pagespeed.ic.Y0e3PL4XbJ.jpg" />
     <country lang="es">España</country>
     <rating system="ICAA">
       <value>+7</value>
     </rating>
+    <star-rating system="ICAA">
+      <value>3.0</value>
+    </star-rating>
   </programme>
-  <programme start="20230104081500 +0000" stop="20230104094500 +0000" channel="A3Series HD!">
-    <title lang="es">Allí abajo</title>
-    <desc lang="es">Cuarta temporada de la comedia sobre las relaciones entre vascos y andaluces. Una vez que Iñaki descubre que tiene una plaza en la cocina de Arzak, él y Carmen se trasladan a vivir al norte. Esto contrasta con Maritxu que, después de iniciar un romance con Don Benjumea, se instala en Sevilla y tendrá que luchar por una herencia inesperada. En Euskadi, Bego toma las riendas de la taberna Kaia, y descubrirá una grieta que amenaza el local.En esta nueva etapa de la comedia sobre la relación entre vascos y andaluces, a la presencia de María león y Jon Plazaola se les unen nuevos actores como Gorka Otxoa y Nerea Garmendia. La serie sigue apostando por los platós en entornos reales, algo poco habitual en las comedias. Uno de los escenarios que repite en la tercera temporada es el Palacio de Monsalves. Este palacio se construyó a principios del siglo XX, sobre una edificación del siglo XVI. Se sitúa en el centro histórico de Sevilla, y está previsto que se convierta en parte del Museo de Artes de Sevilla en una futura ampliación. Algunas de las otras localizaciones reales usadas en la serie son: La plaza de España, el hotel Macarena, la calle Feria o la calle Alfarería.(n)</desc>
-    <credits>
-      <director>Ignacio Mercero</director>
-      <actor>María León</actor>
-      <actor>Jon Plazaola</actor>
-      <actor>Mariano Peña</actor>
-      <actor>Gorka Aguinagalde</actor>
-      <actor>Carmina Barrios</actor>
-      <actor>Beatriz Cotobal</actor>
-      <actor>José María del Castillo</actor>
-      <actor>Alazne Etxeberria</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Series de comedia españolas</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/a/l/l/xalli-abajo-583051_SPA-19.jpg.pagespeed.ic.6ABoVgXeEf.jpg" />
-    <country lang="es">España</country>
-    <rating system="ICAA">
-      <value>+7</value>
-    </rating>
-  </programme>
-  <programme start="20230104094500 +0000" stop="20230104112200 +0000" channel="A3Series HD!">
+  <programme start="20230104090000 +0000" stop="20230104130000 +0000" channel="A3Series HD!">
     <title lang="es">Aquí no hay quien viva</title>
-    <desc lang="es">Los cotilleos, romances, filias y fobias que tienen lugar en una comunidad de vecinos son tratados en clave de humor en esta comedia coral. Entre los protagonistas se encuentran una pareja de gays, tres ancianas cotillas que comparten piso, un particular portero y el sufrido presidente de la escalera.'Aquí no hay quien viva' es una telecomedia producida por Miramón Mendi, la compañía del polifacético José Luis Moreno, para Antena 3. Aparte de los ya mencionados, el reparto incluye a varios nombres habituales del cine español actual, como Emma Penella, Gemma Cuervo, Adrià Collado o Luis Merlo.La quinta temporada de la serie se presenta con cuatro bajas en el reparto: Roberto (Daniel Guzmán), Carlos (Diego Martín), Andrés (Santiago Ramos) y Lucía (María Adánez). En contrapartida, se incorpora un nuevo chapuzas al edificio, Higinio (Ricardo Arroyo). Por otro lado, Alicia, interpretada por Laura Pamplona, vuelve de su aventura americana y el padre de Lucía, a quien da vida Nicolás Dueñas, tendrá una mayor presencia en las tramas.'.(n)</desc>
+    <desc lang="es">Lucía (María Adánez) y Roberto (Daniel Guzmán) son una pareja de novios que acaba de mudarse a un curioso edificio. Los vecinos son seres un tanto especiales entre los que no falta una familia de clase media, una pareja de homosexuales y un nutrido grupo de cotillas.'Aquí no hay quien viva' es una telecomedia producida por Miramón Mendi, la compañía del polifacético José Luis Moreno, para Antena 3. Aparte de los ya mencionados, el reparto incluye a varios nombres habituales del cine español actual, como Emma Penella, Gemma Cuervo, Adrià Collado, Loles León o Luis Merlo.(n)</desc>
     <credits>
-      <director>Iñaki Ariztimuño</director>
-      <director>Alberto Caballero</director>
-      <actor>Malena Alterio</actor>
-      <actor>Ricardo Arroyo</actor>
-      <actor>Mariví Bilbao</actor>
-      <actor>Beatriz Carvajal</actor>
+      <actor>María Adánez</actor>
       <actor>Adrià Collado</actor>
-      <actor>Gemma Cuervo</actor>
-      <actor>Nicolás Dueñas</actor>
       <actor>José Luis Gil</actor>
+      <actor>Daniel Guzmán</actor>
+      <actor>Loles León</actor>
+      <actor>Luis Merlo</actor>
+      <actor>Gemma Cuervo</actor>
+      <actor>Emma Penella</actor>
     </credits>
-    <date>2006</date>
+    <date>2003</date>
     <category lang="es">Series de comedia españolas</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/a/q/u/xaqui-no-hay-quien-viva-790800_SPA-45.jpg.pagespeed.ic.Oo27M8JBBo.jpg" />
+    <icon src="https://cdn.sincroguia.tv/uploads/programs/a/q/u/xaqui-no-hay-quien-viva-59161_SPA-10.jpg.pagespeed.ic.CUSE2dKCBD.jpg" />
     <country lang="es">España</country>
     <rating system="ICAA">
       <value>+12</value>
     </rating>
   </programme>
-  <programme start="20230104112200 +0000" stop="20230104130000 +0000" channel="A3Series HD!">
-    <title lang="es">Aquí no hay quien viva</title>
-    <desc lang="es">Los cotilleos, romances, filias y fobias que tienen lugar en una comunidad de vecinos son tratados en clave de humor en esta comedia coral. Entre los protagonistas se encuentran una pareja de gays, tres ancianas cotillas que comparten piso, un particular portero y el sufrido presidente de la escalera.'Aquí no hay quien viva' es una telecomedia producida por Miramón Mendi, la compañía del polifacético José Luis Moreno, para Antena 3. Aparte de los ya mencionados, el reparto incluye a varios nombres habituales del cine español actual, como Emma Penella, Gemma Cuervo, Adrià Collado o Luis Merlo.La quinta temporada de la serie se presenta con cuatro bajas en el reparto: Roberto (Daniel Guzmán), Carlos (Diego Martín), Andrés (Santiago Ramos) y Lucía (María Adánez). En contrapartida, se incorpora un nuevo chapuzas al edificio, Higinio (Ricardo Arroyo). Por otro lado, Alicia, interpretada por Laura Pamplona, vuelve de su aventura americana y el padre de Lucía, a quien da vida Nicolás Dueñas, tendrá una mayor presencia en las tramas.'.(n)</desc>
-    <credits>
-      <director>Iñaki Ariztimuño</director>
-      <director>Alberto Caballero</director>
-      <actor>Malena Alterio</actor>
-      <actor>Ricardo Arroyo</actor>
-      <actor>Mariví Bilbao</actor>
-      <actor>Beatriz Carvajal</actor>
-      <actor>Adrià Collado</actor>
-      <actor>Gemma Cuervo</actor>
-      <actor>Nicolás Dueñas</actor>
-      <actor>José Luis Gil</actor>
-    </credits>
-    <date>2006</date>
-    <category lang="es">Series de comedia españolas</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/a/q/u/xaqui-no-hay-quien-viva-790800_SPA-45.jpg.pagespeed.ic.Oo27M8JBBo.jpg" />
-    <country lang="es">España</country>
-    <rating system="ICAA">
-      <value>+12</value>
-    </rating>
-  </programme>
-  <programme start="20230104130000 +0000" stop="20230104135000 +0000" channel="A3Series HD!">
+  <programme start="20230104130000 +0000" stop="20230104154000 +0000" channel="A3Series HD!">
     <title lang="es">Ley y Orden: Unidad de Víctimas Especiales</title>
-    <desc lang="es">La unidad especial de la policía de Nueva York es la encargada de resolver los casos más complicados de la ciudad en la temporada número 12 de la serie. Por la naturaleza de sus actuaciones, los detectives de la UVE se encuentran con donde no hay mucha información.Duodécima temporada del 'spin-off' de la serie 'Ley y Orden', estrenada en 1990 por la cadena NBC. 'Ley y Orden: Unidad de Víctimas Especiales', creada en 1999, retoma el espíritu de la original, aunque con personajes y situaciones totalmente diferentes. La producción recibió numerosos reconocimientos por parte de organizaciones de base comunitarias por los temas sociales que aborda y los miembros del reparto son populares por el trabajo que realizan fuera de la pantalla para promover la salud y la seguridad personal.Cabe destacar que esta tanda de episodios es la última en la que aparecen como protagonistas los actores Christopher Meloni y B.D. Wong, que encarnan al detective Elliot Stabler y al doctor George Huang, respectivamente.(n)</desc>
+    <desc lang="es">La unidad especial de la policía de Nueva York es la encargada de resolver los casos más complicados de la ciudad en la temporada número 16 de la serie. Por la naturaleza de sus actuaciones, los detectives de la UVE se encuentran donde no hay mucha información.Décimo sexta temporada del 'spin-off' de la serie 'Ley y Orden', estrenada en 1990 por la cadena NBC. 'Ley y Orden: Unidad de Víctimas Especiales', creada en 1999, retoma el espíritu de la original, aunque con personajes y situaciones totalmente diferentes. La producción recibió numerosos reconocimientos por parte de organizaciones de base comunitarias por los temas sociales que aborda y los miembros del reparto son populares por el trabajo que realizan fuera de la pantalla para promover la salud y la seguridad personal.La unidad está dirigida por la sargento Olivia Benson, quien dirige a sus compañeros con empatía y mano dura, mientras lidia con un pasado conflictivo que le ayuda a ponerse en el lugar de la víctima. Este papel le ha valido a la mujer que lo interpreta, Mariska Hargitey, ocho nominaciones como mejor actriz de drama en los premios Emmy.(n)</desc>
     <credits>
       <director>Dick Wolf</director>
       <actor>Christopher Meloni</actor>
@@ -35609,169 +35513,51 @@
       <actor>Ice-T</actor>
       <actor>BD Wong</actor>
     </credits>
-    <date>2010</date>
+    <date>2014</date>
     <category lang="es">Series policiacas extranjeras</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/l/e/y/xley-y-orden-unidad-de-victimas-especiales-215073_SPA-11.jpg.pagespeed.ic.3MCZm2yoz2.jpg" />
+    <icon src="https://cdn.sincroguia.tv/uploads/programs/l/e/y/xley-y-orden-unidad-de-victimas-especiales-408940_SPA-89.jpg.pagespeed.ic.2OjOctP69t.jpg" />
     <country lang="es">Estados Unidos</country>
     <rating system="ICAA">
       <value>+16</value>
     </rating>
   </programme>
-  <programme start="20230104135000 +0000" stop="20230104144000 +0000" channel="A3Series HD!">
-    <title lang="es">Ley y Orden: Unidad de Víctimas Especiales</title>
-    <desc lang="es">La unidad especial de la policía de Nueva York es la encargada de resolver los casos más complicados de la ciudad en la temporada número 12 de la serie. Por la naturaleza de sus actuaciones, los detectives de la UVE se encuentran con donde no hay mucha información.Duodécima temporada del 'spin-off' de la serie 'Ley y Orden', estrenada en 1990 por la cadena NBC. 'Ley y Orden: Unidad de Víctimas Especiales', creada en 1999, retoma el espíritu de la original, aunque con personajes y situaciones totalmente diferentes. La producción recibió numerosos reconocimientos por parte de organizaciones de base comunitarias por los temas sociales que aborda y los miembros del reparto son populares por el trabajo que realizan fuera de la pantalla para promover la salud y la seguridad personal.Cabe destacar que esta tanda de episodios es la última en la que aparecen como protagonistas los actores Christopher Meloni y B.D. Wong, que encarnan al detective Elliot Stabler y al doctor George Huang, respectivamente.(n)</desc>
+  <programme start="20230104154000 +0000" stop="20230104190000 +0000" channel="A3Series HD!">
+    <title lang="es">Rizzoli &amp; Isles</title>
+    <desc lang="es">Séptima y última temporada de esta serie protagonizada por Jane Rizzoli, una detective de Boston que, con la ayuda de la metódica forense Maura Isles, resuelve peligrosos casos criminales. Ambas tienen en común el gusto por el riesgo y una fuerte dedicación por el trabajo.Los últimos 13 episodios de la ficción arrancan la mañana siguiente al tiroteo con el que finalizó la sexta entrega. Las dos protagonistas deben emplearse a fondo para dar con el paradero de la fugitiva Alice Sands y entregarla a la justicia, antes de que destruya la vida de Jane. Entremedio, nuevos casos y nuevos romances les distraerán de su objetivo principal.En 2001 la escritora Tess Gerritsen publicó su primer thriller criminal, 'The Surgeon', en el que aparecía como personaje secundario la detective de homicidios Jane Rizzoli. Su popularidad fue tal que acabó contando con su propia serie de novelas. Una década después se decidió a adaptar estas obras a la pequeña pantalla, formando equipo con Janet Tamaro, guionista y productora de 'Bones', 'Trauma' y 'CSI: Nueva York'.(n)</desc>
     <credits>
-      <director>Dick Wolf</director>
-      <actor>Christopher Meloni</actor>
-      <actor>Mariska Hargitay</actor>
-      <actor>Richard Belzer</actor>
-      <actor>Dann Florek</actor>
-      <actor>Tamara Tunie</actor>
-      <actor>Ice-T</actor>
-      <actor>BD Wong</actor>
+      <director>Janet Tamaro</director>
+      <director>Tess Gerritsen</director>
+      <actor>Angie Harmon</actor>
+      <actor>Sasha Alexander</actor>
+      <actor>Jordan Bridges</actor>
+      <actor>Bruce McGill</actor>
+      <actor>Lorraine Bracco</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Series extranjeras de suspense</category>
+    <icon src="https://cdn.sincroguia.tv/uploads/programs/r/i/z/xrizzoli-isles-409099_SPA-17.jpg.pagespeed.ic.k9uMmf5aML.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <rating system="ICAA">
+      <value>+16</value>
+    </rating>
+  </programme>
+  <programme start="20230104190000 +0000" stop="20230105022500 +0000" channel="A3Series HD!">
+    <title lang="es">Navy: Investigación Criminal</title>
+    <desc lang="es">Octava temporada de la serie que narra los casos del NCIS, un grupo especial de la Marina del ejército de los Estados Unidos que investiga todo tipo de crímenes que puedan tener relación con este cuerpo: desde asesinatos hasta espionaje, pasando por ataques terroristas o robos de submarinos. Al frente de este equipo se encuentra el agente especial Jehtro Gibbs, un antiguo sargento de artillería con un gran talento como investigador.'Navy: Investigación Criminal' es una serie nacida como 'spin-off' de otra exitosa producción ambientada en el mundo militar estadounidense, 'JAG: Alerta roja'. Protagonizada por Mark Harmon, la serie ya obtuvo una gran acogida en la cadena CBS en su primera temporada con una media de más de 11 millones de seguidores.La serie se convirtió en una de las más vistas en su país de origen, Estados Unidos, con una media de 15 millones y medio de espectadores por capítulo, mostrándose imbatible ante programas como 'American Idol'. En esta octava temporada, siguiendo la estrategia de las últimas entregas de episodios, se conocerán más datos sobre el pasado y la vida personal de algunos de los personajes más importantes.(n)</desc>
+    <credits>
+      <director>Don McGill</director>
+      <director>Donald P Bellisario</director>
+      <actor>Mark Harmon</actor>
+      <actor>Cote de Pablo</actor>
+      <actor>Sean Murray</actor>
+      <actor>David McCallum</actor>
+      <actor>Pauley Perrette</actor>
+      <actor>Michael Weatherly</actor>
+      <actor>Rocky Carroll</actor>
     </credits>
     <date>2010</date>
-    <category lang="es">Series policiacas extranjeras</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/l/e/y/xley-y-orden-unidad-de-victimas-especiales-215073_SPA-11.jpg.pagespeed.ic.3MCZm2yoz2.jpg" />
-    <country lang="es">Estados Unidos</country>
-    <rating system="ICAA">
-      <value>+16</value>
-    </rating>
-  </programme>
-  <programme start="20230104144000 +0000" stop="20230104153000 +0000" channel="A3Series HD!">
-    <title lang="es">Ley y Orden: Unidad de Víctimas Especiales</title>
-    <desc lang="es">La unidad especial de la policía de Nueva York es la encargada de resolver los casos más complicados de la ciudad en la temporada número 12 de la serie. Por la naturaleza de sus actuaciones, los detectives de la UVE se encuentran con donde no hay mucha información.Duodécima temporada del 'spin-off' de la serie 'Ley y Orden', estrenada en 1990 por la cadena NBC. 'Ley y Orden: Unidad de Víctimas Especiales', creada en 1999, retoma el espíritu de la original, aunque con personajes y situaciones totalmente diferentes. La producción recibió numerosos reconocimientos por parte de organizaciones de base comunitarias por los temas sociales que aborda y los miembros del reparto son populares por el trabajo que realizan fuera de la pantalla para promover la salud y la seguridad personal.Cabe destacar que esta tanda de episodios es la última en la que aparecen como protagonistas los actores Christopher Meloni y B.D. Wong, que encarnan al detective Elliot Stabler y al doctor George Huang, respectivamente.(n)</desc>
-    <credits>
-      <director>Dick Wolf</director>
-      <actor>Christopher Meloni</actor>
-      <actor>Mariska Hargitay</actor>
-      <actor>Richard Belzer</actor>
-      <actor>Dann Florek</actor>
-      <actor>Tamara Tunie</actor>
-      <actor>Ice-T</actor>
-      <actor>BD Wong</actor>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Series policiacas extranjeras</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/l/e/y/xley-y-orden-unidad-de-victimas-especiales-215073_SPA-11.jpg.pagespeed.ic.3MCZm2yoz2.jpg" />
-    <country lang="es">Estados Unidos</country>
-    <rating system="ICAA">
-      <value>+16</value>
-    </rating>
-  </programme>
-  <programme start="20230104153000 +0000" stop="20230104162200 +0000" channel="A3Series HD!">
-    <title lang="es">Rizzoli &amp; Isles</title>
-    <desc lang="es">Jane Rizzoli es una valiente detective de Boston que con la ayuda de la metódica forense Maura Isles resuelve peligrosos casos criminales en la tercera temporada de esta serie. La pareja tiene en común el gusto por el riesgo y una fuerte dedicación por el trabajo.En el final de la segunda temporada, Jane disparó por error al jefe criminal Paddy Doyle, el padre de Maura, mientras el hombre trataba de proteger a su hija ante un agresor. Este incidente abri una brecha entre ambas mujeres en esta tanda de episodios. Jane y Maura están en una situación incómoda al mantener opiniones enfrentadas, lo que lleva su amistad al límite.En 2001, la escritora Tess Gerritsen publicó su primer thriller criminal, 'The Surgeon', en el que aparecía como personaje secundario la detective de homicidios Jane Rizzoli. Su popularidad fue tal que acabó contando con su propia serie de novelas. Una década después, se decidió a adaptar estas obras a la pequeña pantalla, formando equipo con Janet Tamaro, guionista y productora de producciones como 'Bones', 'Trauma' y 'CSI: Nueva York'.(n)</desc>
-    <credits>
-      <director>Janet Tamaro</director>
-      <director>Tess Gerritsen</director>
-      <actor>Angie Harmon</actor>
-      <actor>Sasha Alexander</actor>
-      <actor>Jordan Bridges</actor>
-      <actor>Lee Thompson Young</actor>
-      <actor>Bruce McGill</actor>
-      <actor>Lorraine Bracco</actor>
-    </credits>
-    <date>2012</date>
-    <category lang="es">Series extranjeras de suspense</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/r/i/z/xrizzoli-isles-215032_SPA-65.jpg.pagespeed.ic.YEcYUqGLP-.jpg" />
-    <country lang="es">Estados Unidos</country>
-    <rating system="ICAA">
-      <value>+16</value>
-    </rating>
-    <star-rating system="ICAA">
-      <value>3.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20230104162200 +0000" stop="20230104171500 +0000" channel="A3Series HD!">
-    <title lang="es">Rizzoli &amp; Isles</title>
-    <desc lang="es">Jane Rizzoli es una valiente detective de Boston que con la ayuda de la metódica forense Maura Isles resuelve peligrosos casos criminales en la tercera temporada de esta serie. La pareja tiene en común el gusto por el riesgo y una fuerte dedicación por el trabajo.En el final de la segunda temporada, Jane disparó por error al jefe criminal Paddy Doyle, el padre de Maura, mientras el hombre trataba de proteger a su hija ante un agresor. Este incidente abri una brecha entre ambas mujeres en esta tanda de episodios. Jane y Maura están en una situación incómoda al mantener opiniones enfrentadas, lo que lleva su amistad al límite.En 2001, la escritora Tess Gerritsen publicó su primer thriller criminal, 'The Surgeon', en el que aparecía como personaje secundario la detective de homicidios Jane Rizzoli. Su popularidad fue tal que acabó contando con su propia serie de novelas. Una década después, se decidió a adaptar estas obras a la pequeña pantalla, formando equipo con Janet Tamaro, guionista y productora de producciones como 'Bones', 'Trauma' y 'CSI: Nueva York'.(n)</desc>
-    <credits>
-      <director>Janet Tamaro</director>
-      <director>Tess Gerritsen</director>
-      <actor>Angie Harmon</actor>
-      <actor>Sasha Alexander</actor>
-      <actor>Jordan Bridges</actor>
-      <actor>Lee Thompson Young</actor>
-      <actor>Bruce McGill</actor>
-      <actor>Lorraine Bracco</actor>
-    </credits>
-    <date>2012</date>
-    <category lang="es">Series extranjeras de suspense</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/r/i/z/xrizzoli-isles-215032_SPA-65.jpg.pagespeed.ic.YEcYUqGLP-.jpg" />
-    <country lang="es">Estados Unidos</country>
-    <rating system="ICAA">
-      <value>+16</value>
-    </rating>
-    <star-rating system="ICAA">
-      <value>3.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20230104171500 +0000" stop="20230104180700 +0000" channel="A3Series HD!">
-    <title lang="es">Rizzoli &amp; Isles</title>
-    <desc lang="es">Cuarta temporada de esta serie protagonizada por Jane Rizzoli, una detective de Boston que con la ayuda de la metódica forense Maura Isles resuelve peligrosos casos criminales. Ambas tienen en común el gusto por el riesgo y una fuerte dedicación por el trabajo.En el final de la tercera temporada, Maura se encuentra con una dolorosa situación relacionada con su madre biológica, lo que le llevará a tomar una complicada decisión. Tendrá que ver si retoma la relación con su familia o simplemente se queda en un episodio que le dejará una profunda huella. Mientas, la vida sentimental de Jane sigue tan agitada como siempre. La cirugía a la que se somete Casey es complicada, por lo que la forense no sabe qué será de su vida sentimental a partir de ahora.En 2001 la escritora Tess Gerritsen publicó su primer thriller criminal, 'The Surgeon', en el que aparecía como personaje secundario la detective de homicidios Jane Rizzoli. Su popularidad fue tal que acabó contando con su propia serie de novelas. Una década después se decidió a adaptar estas obras a la pequeña pantalla, formando equipo con Janet Tamaro, guionista y productora de 'Bones', 'Trauma' y 'CSI: Nueva York'.(n)</desc>
-    <credits>
-      <director>Janet Tamaro</director>
-      <director>Tess Gerritsen</director>
-      <actor>Angie Harmon</actor>
-      <actor>Sasha Alexander</actor>
-      <actor>Jordan Bridges</actor>
-      <actor>Lee Thompson Young</actor>
-      <actor>Bruce McGill</actor>
-      <actor>Lorraine Bracco</actor>
-    </credits>
-    <date>2013</date>
-    <category lang="es">Series extranjeras de suspense</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/r/i/z/xrizzoli-isles-282074_SPA-22.jpg.pagespeed.ic.ZwpVBRQIJN.jpg" />
-    <country lang="es">Estados Unidos</country>
-    <rating system="ICAA">
-      <value>+16</value>
-    </rating>
-    <star-rating system="ICAA">
-      <value>3.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20230104180700 +0000" stop="20230104190000 +0000" channel="A3Series HD!">
-    <title lang="es">Rizzoli &amp; Isles</title>
-    <desc lang="es">Cuarta temporada de esta serie protagonizada por Jane Rizzoli, una detective de Boston que con la ayuda de la metódica forense Maura Isles resuelve peligrosos casos criminales. Ambas tienen en común el gusto por el riesgo y una fuerte dedicación por el trabajo.En el final de la tercera temporada, Maura se encuentra con una dolorosa situación relacionada con su madre biológica, lo que le llevará a tomar una complicada decisión. Tendrá que ver si retoma la relación con su familia o simplemente se queda en un episodio que le dejará una profunda huella. Mientas, la vida sentimental de Jane sigue tan agitada como siempre. La cirugía a la que se somete Casey es complicada, por lo que la forense no sabe qué será de su vida sentimental a partir de ahora.En 2001 la escritora Tess Gerritsen publicó su primer thriller criminal, 'The Surgeon', en el que aparecía como personaje secundario la detective de homicidios Jane Rizzoli. Su popularidad fue tal que acabó contando con su propia serie de novelas. Una década después se decidió a adaptar estas obras a la pequeña pantalla, formando equipo con Janet Tamaro, guionista y productora de 'Bones', 'Trauma' y 'CSI: Nueva York'.(n)</desc>
-    <credits>
-      <director>Janet Tamaro</director>
-      <director>Tess Gerritsen</director>
-      <actor>Angie Harmon</actor>
-      <actor>Sasha Alexander</actor>
-      <actor>Jordan Bridges</actor>
-      <actor>Lee Thompson Young</actor>
-      <actor>Bruce McGill</actor>
-      <actor>Lorraine Bracco</actor>
-    </credits>
-    <date>2013</date>
-    <category lang="es">Series extranjeras de suspense</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/r/i/z/xrizzoli-isles-282074_SPA-22.jpg.pagespeed.ic.ZwpVBRQIJN.jpg" />
-    <country lang="es">Estados Unidos</country>
-    <rating system="ICAA">
-      <value>+16</value>
-    </rating>
-    <star-rating system="ICAA">
-      <value>3.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20230104190000 +0000" stop="20230104194900 +0000" channel="A3Series HD!">
-    <title lang="es">Navy: Investigación Criminal</title>
-    <desc lang="es">Undécima temporada de la serie que narra los casos del NCIS, un grupo especial de la Marina del ejército de los Estados Unidos que investiga todo tipo de crímenes que puedan tener relación con este cuerpo: desde asesinatos hasta espionaje, pasando por ataques terroristas o robos de submarinos. Al frente de este equipo se encuentra el agente especial Jehtro Gibbs, un antiguo sargento de artillería con un gran talento como investigador.En esta temporada se resuelve la trama que quedó pendiente en la décima y la audiencia será testigo de la última aparición de Ziva David, interpretada por la actriz de origen chileno Cote de Pablo, la cual deja la serie tras 189 episodios.'Navy: Investigación Criminal' es una serie nacida como 'spin-off' de otra exitosa producción ambientada en el mundo militar estadounidense, 'JAG: Alerta roja'. Protagonizada por Mark Harmon, la serie se ha convertido en una de las más exitosas de la televisión americana y sigue acumulando récords de audiencia.La serie se convirtió en una de las más vistas en su país de origen, Estados Unidos, alcanzado los 18 millones de espectadores esta temporada.(n)</desc>
-    <credits>
-      <director>Don McGill</director>
-      <director>Donald P Bellisario</director>
-      <actor>Mark Harmon</actor>
-      <actor>Cote de Pablo</actor>
-      <actor>Sean Murray</actor>
-      <actor>David McCallum</actor>
-      <actor>Pauley Perrette</actor>
-      <actor>Michael Weatherly</actor>
-      <actor>Rocky Carroll</actor>
-    </credits>
-    <date>2013</date>
     <category lang="es">Series dramáticas extranjeras</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/n/a/v/xnavy-investigacion-criminal-321988_SPA-49.jpg.pagespeed.ic.lzC4Vug0Ba.jpg" />
+    <icon src="https://cdn.sincroguia.tv/uploads/programs/n/a/v/xnavy-investigacion-criminal-170456_SPA-94.jpg.pagespeed.ic.wydz7pWBL9.jpg" />
     <country lang="es">Estados Unidos</country>
     <rating system="ICAA">
       <value>+12</value>
@@ -35779,111 +35565,6 @@
     <star-rating system="ICAA">
       <value>2.0</value>
     </star-rating>
-  </programme>
-  <programme start="20230104194900 +0000" stop="20230104203800 +0000" channel="A3Series HD!">
-    <title lang="es">Navy: Investigación Criminal</title>
-    <desc lang="es">Undécima temporada de la serie que narra los casos del NCIS, un grupo especial de la Marina del ejército de los Estados Unidos que investiga todo tipo de crímenes que puedan tener relación con este cuerpo: desde asesinatos hasta espionaje, pasando por ataques terroristas o robos de submarinos. Al frente de este equipo se encuentra el agente especial Jehtro Gibbs, un antiguo sargento de artillería con un gran talento como investigador.En esta temporada se resuelve la trama que quedó pendiente en la décima y la audiencia será testigo de la última aparición de Ziva David, interpretada por la actriz de origen chileno Cote de Pablo, la cual deja la serie tras 189 episodios.'Navy: Investigación Criminal' es una serie nacida como 'spin-off' de otra exitosa producción ambientada en el mundo militar estadounidense, 'JAG: Alerta roja'. Protagonizada por Mark Harmon, la serie se ha convertido en una de las más exitosas de la televisión americana y sigue acumulando récords de audiencia.La serie se convirtió en una de las más vistas en su país de origen, Estados Unidos, alcanzado los 18 millones de espectadores esta temporada.(n)</desc>
-    <credits>
-      <director>Don McGill</director>
-      <director>Donald P Bellisario</director>
-      <actor>Mark Harmon</actor>
-      <actor>Cote de Pablo</actor>
-      <actor>Sean Murray</actor>
-      <actor>David McCallum</actor>
-      <actor>Pauley Perrette</actor>
-      <actor>Michael Weatherly</actor>
-      <actor>Rocky Carroll</actor>
-    </credits>
-    <date>2013</date>
-    <category lang="es">Series dramáticas extranjeras</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/n/a/v/xnavy-investigacion-criminal-321988_SPA-49.jpg.pagespeed.ic.lzC4Vug0Ba.jpg" />
-    <country lang="es">Estados Unidos</country>
-    <rating system="ICAA">
-      <value>+12</value>
-    </rating>
-    <star-rating system="ICAA">
-      <value>2.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20230104203800 +0000" stop="20230104212800 +0000" channel="A3Series HD!">
-    <title lang="es">Navy: Investigación Criminal</title>
-    <desc lang="es">Undécima temporada de la serie que narra los casos del NCIS, un grupo especial de la Marina del ejército de los Estados Unidos que investiga todo tipo de crímenes que puedan tener relación con este cuerpo: desde asesinatos hasta espionaje, pasando por ataques terroristas o robos de submarinos. Al frente de este equipo se encuentra el agente especial Jehtro Gibbs, un antiguo sargento de artillería con un gran talento como investigador.En esta temporada se resuelve la trama que quedó pendiente en la décima y la audiencia será testigo de la última aparición de Ziva David, interpretada por la actriz de origen chileno Cote de Pablo, la cual deja la serie tras 189 episodios.'Navy: Investigación Criminal' es una serie nacida como 'spin-off' de otra exitosa producción ambientada en el mundo militar estadounidense, 'JAG: Alerta roja'. Protagonizada por Mark Harmon, la serie se ha convertido en una de las más exitosas de la televisión americana y sigue acumulando récords de audiencia.La serie se convirtió en una de las más vistas en su país de origen, Estados Unidos, alcanzado los 18 millones de espectadores esta temporada.(n)</desc>
-    <credits>
-      <director>Don McGill</director>
-      <director>Donald P Bellisario</director>
-      <actor>Mark Harmon</actor>
-      <actor>Cote de Pablo</actor>
-      <actor>Sean Murray</actor>
-      <actor>David McCallum</actor>
-      <actor>Pauley Perrette</actor>
-      <actor>Michael Weatherly</actor>
-      <actor>Rocky Carroll</actor>
-    </credits>
-    <date>2013</date>
-    <category lang="es">Series dramáticas extranjeras</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/n/a/v/xnavy-investigacion-criminal-321988_SPA-49.jpg.pagespeed.ic.lzC4Vug0Ba.jpg" />
-    <country lang="es">Estados Unidos</country>
-    <rating system="ICAA">
-      <value>+12</value>
-    </rating>
-    <star-rating system="ICAA">
-      <value>2.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20230104212800 +0000" stop="20230104221700 +0000" channel="A3Series HD!">
-    <title lang="es">Navy: Investigación Criminal</title>
-    <desc lang="es">Undécima temporada de la serie que narra los casos del NCIS, un grupo especial de la Marina del ejército de los Estados Unidos que investiga todo tipo de crímenes que puedan tener relación con este cuerpo: desde asesinatos hasta espionaje, pasando por ataques terroristas o robos de submarinos. Al frente de este equipo se encuentra el agente especial Jehtro Gibbs, un antiguo sargento de artillería con un gran talento como investigador.En esta temporada se resuelve la trama que quedó pendiente en la décima y la audiencia será testigo de la última aparición de Ziva David, interpretada por la actriz de origen chileno Cote de Pablo, la cual deja la serie tras 189 episodios.'Navy: Investigación Criminal' es una serie nacida como 'spin-off' de otra exitosa producción ambientada en el mundo militar estadounidense, 'JAG: Alerta roja'. Protagonizada por Mark Harmon, la serie se ha convertido en una de las más exitosas de la televisión americana y sigue acumulando récords de audiencia.La serie se convirtió en una de las más vistas en su país de origen, Estados Unidos, alcanzado los 18 millones de espectadores esta temporada.(n)</desc>
-    <credits>
-      <director>Don McGill</director>
-      <director>Donald P Bellisario</director>
-      <actor>Mark Harmon</actor>
-      <actor>Cote de Pablo</actor>
-      <actor>Sean Murray</actor>
-      <actor>David McCallum</actor>
-      <actor>Pauley Perrette</actor>
-      <actor>Michael Weatherly</actor>
-      <actor>Rocky Carroll</actor>
-    </credits>
-    <date>2013</date>
-    <category lang="es">Series dramáticas extranjeras</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/n/a/v/xnavy-investigacion-criminal-321988_SPA-49.jpg.pagespeed.ic.lzC4Vug0Ba.jpg" />
-    <country lang="es">Estados Unidos</country>
-    <rating system="ICAA">
-      <value>+12</value>
-    </rating>
-    <star-rating system="ICAA">
-      <value>2.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20230104221700 +0000" stop="20230104230700 +0000" channel="A3Series HD!">
-    <title lang="es">Navy: Investigación Criminal</title>
-    <desc lang="es">Undécima temporada de la serie que narra los casos del NCIS, un grupo especial de la Marina del ejército de los Estados Unidos que investiga todo tipo de crímenes que puedan tener relación con este cuerpo: desde asesinatos hasta espionaje, pasando por ataques terroristas o robos de submarinos. Al frente de este equipo se encuentra el agente especial Jehtro Gibbs, un antiguo sargento de artillería con un gran talento como investigador.En esta temporada se resuelve la trama que quedó pendiente en la décima y la audiencia será testigo de la última aparición de Ziva David, interpretada por la actriz de origen chileno Cote de Pablo, la cual deja la serie tras 189 episodios.'Navy: Investigación Criminal' es una serie nacida como 'spin-off' de otra exitosa producción ambientada en el mundo militar estadounidense, 'JAG: Alerta roja'. Protagonizada por Mark Harmon, la serie se ha convertido en una de las más exitosas de la televisión americana y sigue acumulando récords de audiencia.La serie se convirtió en una de las más vistas en su país de origen, Estados Unidos, alcanzado los 18 millones de espectadores esta temporada.(n)</desc>
-    <credits>
-      <director>Don McGill</director>
-      <director>Donald P Bellisario</director>
-      <actor>Mark Harmon</actor>
-      <actor>Cote de Pablo</actor>
-      <actor>Sean Murray</actor>
-      <actor>David McCallum</actor>
-      <actor>Pauley Perrette</actor>
-      <actor>Michael Weatherly</actor>
-      <actor>Rocky Carroll</actor>
-    </credits>
-    <date>2013</date>
-    <category lang="es">Series dramáticas extranjeras</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/n/a/v/xnavy-investigacion-criminal-321988_SPA-49.jpg.pagespeed.ic.lzC4Vug0Ba.jpg" />
-    <country lang="es">Estados Unidos</country>
-    <rating system="ICAA">
-      <value>+12</value>
-    </rating>
-    <star-rating system="ICAA">
-      <value>2.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20230103005500 +0000" stop="20230103015000 +0000" channel="Telehit Musica">
-    <title lang="en">Jangueo</title>
-    <desc lang="en">Revista nocturna sobre las principales tendencias urbanos, eventos,.(n)</desc>
-    <date>2021</date>
   </programme>
   <programme start="20230103015000 +0000" stop="20230103024500 +0000" channel="Telehit Musica">
     <title lang="en">Super Hits</title>
