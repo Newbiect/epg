@@ -1,7 +1,12 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
 
-#EXTINF:-1 group-title="Dominicanos" tvg-logo="https://i.imgur.com/UiPLVVS.png" tvg-id="", Colorvision
-https://stream-01.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RY4P4HJk7Ic_XCt6zCUmi0mKAbW9zvcgxRaYR_3mcrtY_)/dm/3/x7gy059/d/live-4.m3u8#cell=lnyc
+#########################################################################
+#      ____            _           _   __  __                           #
+#     |  _ \ _ __ ___ (_) ___  ___| |_|  \/  | ___   ___  ___  ___      #
+#     | |_) | '__/ _ \| |/ _ \/ __| __| |\/| |/ _ \ / _ \/ __|/ _ \     #
+#     |  __/| | | (_) | |  __/ (__| |_| |  | | (_) | (_) \__ \  __/     #
+#     |_|   |_|  \___// |\___|\___|\__|_|  |_|\___/ \___/|___/\___|     #
+#                   |__/                                                #
+#                                  >> https://github.com/benmoose39     #
+#########################################################################
 
-#EXTINF:-1 group-title="" tvg-logo="" tvg-id="", Nba
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
