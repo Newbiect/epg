@@ -2,7 +2,8 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="Cine Sony">
     <display-name lang="en">Cine Sony</display-name>
-    <url>http://www.tvguide.com</url>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/v2/s109720_h15_aa.png" />
+    <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="NBC Universo">
     <display-name lang="en">NBC Universo</display-name>
@@ -76,8 +77,8 @@
   </channel>
   <channel id="AMC+">
     <display-name lang="en">AMC+</display-name>
-    <icon src="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/amcplus/live/AMCplus_416x287_v01-K.svg" />
-    <url>http://www.amazon.com</url>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/v2/s114759_h15_aa.png" />
+    <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="Teleuniverso">
     <display-name lang="en">Teleuniverso</display-name>
@@ -464,133 +465,414 @@
     <display-name lang="en">Telehit Musica.</display-name>
     <url>http://www.tvguide.com</url>
   </channel>
-  <programme start="20230108144500 +0000" stop="20230108170600 +0000" channel="Cine Sony">
-    <title lang="en">The Karate Kid</title>
-    <desc lang="en">Daniel se traslada a California junto a su madre. Nada más llegar tiene problemas con un grupo de jóvenes que no deja de hacerle la vida imposible y de amenazarle contínuamente. El kárate resulta ser la única salida para solucionar todos sus problemas.(n)</desc>
-    <date>1984</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230108170600 +0000" stop="20230108191400 +0000" channel="Cine Sony">
-    <title lang="en">What Goes Up</title>
-    <desc lang="en">Un periodista es enviado a cubrir un reportaje sobre el transbordador espacial Challenger, sólo para ser mezclado en la vida de algunos estudiantes locales.(n)</desc>
-    <date>2009</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20230108191400 +0000" stop="20230108211500 +0000" channel="Cine Sony">
-    <title lang="en">The Bounty Hunter</title>
-    <desc lang="en">Milo Boyd, un cazador de recompensas caído en desgracia, obtiene el trabajo de sus sueños: capturar a su ex esposa, la periodista Nicole Hurly, que se halla fugitiva por no cumplir con los términos de su fianza. Él piensa que es dinero fácil, pero cuando Nicole se escapa para investigar el encubrimiento de un asesinato, Milo se da cuenta de que nada será simple entre ellos.(n)</desc>
-    <date>2010</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20230108211500 +0000" stop="20230108231200 +0000" channel="Cine Sony">
-    <title lang="en">The Stepfather</title>
-    <desc lang="en">Al regreso de la escuela militar, un joven conoce a su padrastro. Luego de una serie de molestas interacciones, él comienza a sospechar que el nuevo esposo de su madre podría ser un notorio asesino en serie, que se aprovecha de familias destrozadas.(n)</desc>
-    <date>2009</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20230108231200 +0000" stop="20230109005500 +0000" channel="Cine Sony">
-    <title lang="en">Exit speed</title>
-    <date>2008</date>
-    <rating system="MPAA">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20230109005500 +0000" stop="20230109024400 +0000" channel="Cine Sony">
-    <title lang="en">Salt</title>
-    <desc lang="en">La lealtad de Evelyn Salt, una agente de la CIA, es puesta a prueba cuando un desertor la acusa de ser una espía rusa. Entonces, se ve obligada a huir y a servirse de todos sus conocimientos y experiencia para evitar que la capturen. Sus esfuerzos para demostrar su inocencia son inútiles. Mientras tanto, continúa la caza para descubrir su verdadera identidad.(n)</desc>
-    <date>2010</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20230109024400 +0000" stop="20230109043900 +0000" channel="Cine Sony">
-    <title lang="en">The wedding planner</title>
-    <desc lang="en">Jennifer Lopez protagoniza como una mujer que se preocupa tanto por organizar las bodas de los ricos y famosos, que nunca ha tenido tiempo para el amor. Eso es, hasta que conoce a un apuesto doctor, quien está comprometido con su clienta actual.(n)</desc>
-    <date>2001</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230109043900 +0000" stop="20230109061900 +0000" channel="Cine Sony">
-    <title lang="en">Salt</title>
-    <desc lang="en">La lealtad de Evelyn Salt, una agente de la CIA, es puesta a prueba cuando un desertor la acusa de ser una espía rusa. Entonces, se ve obligada a huir y a servirse de todos sus conocimientos y experiencia para evitar que la capturen. Sus esfuerzos para demostrar su inocencia son inútiles. Mientras tanto, continúa la caza para descubrir su verdadera identidad.(n)</desc>
-    <date>2010</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20230109061900 +0000" stop="20230109080500 +0000" channel="Cine Sony">
-    <title lang="en">The wedding planner</title>
-    <desc lang="en">Jennifer Lopez protagoniza como una mujer que se preocupa tanto por organizar las bodas de los ricos y famosos, que nunca ha tenido tiempo para el amor. Eso es, hasta que conoce a un apuesto doctor, quien está comprometido con su clienta actual.(n)</desc>
-    <date>2001</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230109080500 +0000" stop="20230109100900 +0000" channel="Cine Sony">
-    <title lang="en">Think Like a Man</title>
-    <desc lang="en">Las vidas de cuatro hombres se cruzan cuando se toman el consejo de un libro de autoayuda, con la esperanza de revitalizar sus relaciones románticas.(n)</desc>
+  <programme start="20230108045500 -0500" stop="20230108062200 -0500" channel="Cine Sony">
+    <title lang="en">Underworld: Awakening</title>
+    <desc lang="en">Después de haber pasado 15 años en un estado similar al coma, la vampira Selene descubre que tiene una hija de 14 años, mitad vampira y mitad licántropa. Cuando consiga encontrarla tendrá que evitar que Biocom cree una raza de licántropos superiores.(n)</desc>
+    <credits>
+      <actor>Kate Beckinsale</actor>
+      <actor>Stephen Rea</actor>
+      <actor>Michael Ealy</actor>
+    </credits>
     <date>2012</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
+    <category lang="en">Movies</category>
+    <category lang="en">Fantasy</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8761312_k_h8_ab.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+    <star-rating system="US">
+      <value>2</value>
+    </star-rating>
+  </programme>
+  <programme start="20230108062200 -0500" stop="20230108080000 -0500" channel="Cine Sony">
+    <title lang="en">The First Time</title>
+    <desc lang="en">Un chico y una chica adolescentes se conocen en una fiesta y pasan un fin de semana explorando las altas y bajas de estar enamorado.(n)</desc>
+    <credits>
+      <actor>Dylan O'Brien</actor>
+      <actor>Britt Robertson</actor>
+      <actor>Victoria Justice</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Romance</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9027059_p_v8_an.jpg" />
+    <star-rating system="US">
+      <value>2</value>
+    </star-rating>
+  </programme>
+  <programme start="20230108080000 -0500" stop="20230108094500 -0500" channel="Cine Sony">
+    <title lang="en">Emma's Chance</title>
+    <desc lang="en">Emma creará un vínculo fuera de lo común con un caballo maltratado quien no deja que nadie lo monte. Emma aprenderá nuevas habilidades y ganará confianza, lo cual facilitará su plan para redimirse y salvar el rancho que tanto ama.(n)</desc>
+    <credits>
+      <actor>Greer Grammer</actor>
+      <actor>Joey Lawrence</actor>
+      <actor>Missi Pyle</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p12919783_k_h10_aa.jpg" />
+    <rating system="US">
+      <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20230109100900 +0000" stop="20230109114700 +0000" channel="Cine Sony">
-    <title lang="en">Easy Virtue</title>
-    <desc lang="en">Un joven inglés de familia aristocrática, se casa con una americana corredora de autos, quien pondrá la vida de sus suegros de cabeza.(n)</desc>
-    <date>2008</date>
-  </programme>
-  <programme start="20230109114700 +0000" stop="20230109133000 +0000" channel="Cine Sony">
-    <title lang="en">Grown Ups</title>
-    <desc lang="en">Hace 30 años que un equipo de chavales ganó un campeonato de baloncesto. Su entrenador les instó entonces a llevar una vida de la que pudieran sentirse orgullosos, para no arrepentirse de nada cuando todo terminara. Este final ha llegado para el entrenador, y los cinco, ya adultos y con familias, se reúnen para darle el último adiós.(n)</desc>
-    <date>2010</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
+  <programme start="20230108094500 -0500" stop="20230108120600 -0500" channel="Cine Sony">
+    <title lang="en">The Karate Kid</title>
+    <desc lang="en">Daniel LaRusso llega a Los Ángeles dispuesto a hacer amigos, pero rápidamente se convierte en el blanco de los ataques de un grupo de estudiantes de karate. Por eso, le pide ayuda a Miyagi, un maestro de artes marciales que cambiará su vida.(n)</desc>
+    <credits>
+      <actor>Ralph Macchio</actor>
+      <actor>Pat Morita</actor>
+      <actor>Elisabeth Shue</actor>
+    </credits>
+    <date>1984</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p6526_i_s2_aa.jpg" />
+    <rating system="US">
+      <value>TVG</value>
     </rating>
+    <star-rating system="US">
+      <value>3</value>
+    </star-rating>
   </programme>
-  <programme start="20230109133000 +0000" stop="20230109151700 +0000" channel="Cine Sony">
-    <title lang="en">The Good Night</title>
-    <desc lang="en">Un músico en dificultades (Martin Freeman) que además tiene problemas en su relación, conoce a la mujer de sus sueños (Penélope Cruz) que es exactamente eso, porque sólo aparece en sus sueños.(n)</desc>
-    <date>2007</date>
-  </programme>
-  <programme start="20230109151700 +0000" stop="20230109171000 +0000" channel="Cine Sony">
-    <title lang="en">Ticking Clock</title>
-    <desc lang="en">Un reportero encuentra el diario de un asesino en serie y lucha por detenerlo antes de que caiga otra víctima, pero el asesino parece anticipar cada uno de sus movimientos.(n)</desc>
-    <date>2010</date>
-  </programme>
-  <programme start="20230109171000 +0000" stop="20230109185700 +0000" channel="Cine Sony">
-    <title lang="en">The Lodger</title>
-    <desc lang="en">Un policía detective está tras el rastro de un imitador de Jack el Destripador, quien está masacrando prostitutas a lo largo de la costa oeste de Hollywood.(n)</desc>
+  <programme start="20230108120600 -0500" stop="20230108141400 -0500" channel="Cine Sony">
+    <title lang="en">What Goes Up</title>
+    <desc lang="en">Un reportero (Steve Coogan) dañado emocionalmente se involucra profundamente en las vidas de un grupo de estudiantes cuya maestra y heroína acaba de morir en el desastre del Challenger.(n)</desc>
+    <credits>
+      <actor>Steve Coogan</actor>
+      <actor>Hilary Duff</actor>
+      <actor>Molly Shannon</actor>
+    </credits>
     <date>2009</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p3541585_i_h10_ab.jpg" />
   </programme>
-  <programme start="20230109185700 +0000" stop="20230109204800 +0000" channel="Cine Sony">
+  <programme start="20230108141400 -0500" stop="20230108161500 -0500" channel="Cine Sony">
+    <title lang="en">The Bounty Hunter</title>
+    <desc lang="en">Milo Boyd, un cazarrecompensas que no pasa por su mejor momento, recibe el trabajo de sus sueños: debe encontrar a su exesposa, una reportera que ha violado su libertad condicional.(n)</desc>
+    <credits>
+      <actor>Jennifer Aniston</actor>
+      <actor>Gerard Butler</actor>
+      <actor>Christine Baranski</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p7884722_k_h8_ab.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="US">
+      <value>1</value>
+    </star-rating>
+  </programme>
+  <programme start="20230108161500 -0500" stop="20230108181200 -0500" channel="Cine Sony">
+    <title lang="en">The Stepfather</title>
+    <desc lang="en">Michael Harding regresa a casa de la escuela militar y se encuentra a su madre felizmente enamorada y viviendo con su nuevo novio, David. A medida que los dos hombres van conociéndose, Michael sospecha que David esconde un oscuro secreto.(n)</desc>
+    <credits>
+      <actor>Dylan Walsh</actor>
+      <actor>Sela Ward</actor>
+      <actor>Penn Badgley</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p3532071_k_s4_aa.jpg" />
+    <star-rating system="US">
+      <value>2</value>
+    </star-rating>
+  </programme>
+  <programme start="20230108181200 -0500" stop="20230108195500 -0500" channel="Cine Sony">
+    <title lang="en">Exit Speed</title>
+    <desc lang="en">Diez pasajeros de autobús se ven perdidos y deben pelear a asesinos en motos en un basurero.(n)</desc>
+    <credits>
+      <actor>Lea Thompson</actor>
+      <actor>Desmond Harrington</actor>
+      <actor>Fred Ward</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p187636_i_s4_aa.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230108195500 -0500" stop="20230108214400 -0500" channel="Cine Sony">
+    <title lang="en">Salt</title>
+    <desc lang="en">Después de que un desertor la acusa de espiar para los rusos, una agente de la CIA decide huir e intenta encontrar la forma de probar su inocencia.(n)</desc>
+    <credits>
+      <actor>Angelina Jolie</actor>
+      <actor>Liev Schreiber</actor>
+      <actor>Chiwetel Ejiofor</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p7937523_k_h10_aa.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="US">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20230108214400 -0500" stop="20230108233900 -0500" channel="Cine Sony">
+    <title lang="en">The Wedding Planner</title>
+    <desc lang="en">La más prestigiosa organizadora de bodas de San Francisco se enamora de un pediatra que resulta ser su próximo cliente.(n)</desc>
+    <credits>
+      <actor>Jennifer Lopez</actor>
+      <actor>Matthew McConaughey</actor>
+      <actor>Bridgette Wilson-Sampras</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Romance</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p26798_i_h10_ac.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="US">
+      <value>2</value>
+    </star-rating>
+  </programme>
+  <programme start="20230108233900 -0500" stop="20230109011900 -0500" channel="Cine Sony">
+    <title lang="en">Salt</title>
+    <desc lang="en">Después de que un desertor la acusa de espiar para los rusos, una agente de la CIA decide huir e intenta encontrar la forma de probar su inocencia.(n)</desc>
+    <credits>
+      <actor>Angelina Jolie</actor>
+      <actor>Liev Schreiber</actor>
+      <actor>Chiwetel Ejiofor</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p7937523_k_h10_aa.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="US">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20230109011900 -0500" stop="20230109030500 -0500" channel="Cine Sony">
+    <title lang="en">The Wedding Planner</title>
+    <desc lang="en">La más prestigiosa organizadora de bodas de San Francisco se enamora de un pediatra que resulta ser su próximo cliente.(n)</desc>
+    <credits>
+      <actor>Jennifer Lopez</actor>
+      <actor>Matthew McConaughey</actor>
+      <actor>Bridgette Wilson-Sampras</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Romance</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p26798_i_h10_ac.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="US">
+      <value>2</value>
+    </star-rating>
+  </programme>
+  <programme start="20230109030500 -0500" stop="20230109050900 -0500" channel="Cine Sony">
+    <title lang="en">Think Like a Man</title>
+    <desc lang="en">Cuando las mujeres en sus vidas compran un libro de Steve Harvey y toman sus consejos en serio, cuatro hombres conspiran para usar la información privilegiada del libro para cambiar las tornas y darles una lección.(n)</desc>
+    <credits>
+      <actor>Michael Ealy</actor>
+      <actor>Jerry Ferrara</actor>
+      <actor>Meagan Good</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Romance</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8883578_i_s2_ac.jpg" />
+    <star-rating system="US">
+      <value>2</value>
+    </star-rating>
+  </programme>
+  <programme start="20230109050900 -0500" stop="20230109064700 -0500" channel="Cine Sony">
+    <title lang="en">Easy Virtue</title>
+    <desc lang="en">Una joven americana se casa con el hijo de una pareja de aristócratas británicos, pero la madre del joven y sus hermanas tratan de alejarla del entorno familiar.(n)</desc>
+    <credits>
+      <actor>Jessica Biel</actor>
+      <actor>Colin Firth</actor>
+      <actor>Kristin Scott Thomas</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Romance</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p191478_k_s2_aa.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="US">
+      <value>2</value>
+    </star-rating>
+  </programme>
+  <programme start="20230109064700 -0500" stop="20230109083000 -0500" channel="Cine Sony">
+    <title lang="en">Grown Ups</title>
+    <desc lang="en">Un grupo de amigos y excompañeros descubren que envejecer no siempre significa madurar cuando se reúnen para honrar la memoria de su entrenador de baloncesto.(n)</desc>
+    <credits>
+      <actor>Adam Sandler</actor>
+      <actor>Kevin James</actor>
+      <actor>Chris Rock</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p7937506_i_h10_ab.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="US">
+      <value>1</value>
+    </star-rating>
+  </programme>
+  <programme start="20230109083000 -0500" stop="20230109101700 -0500" channel="Cine Sony">
+    <title lang="en">The Good Night</title>
+    <desc lang="en">Atrapado en una relación que le hace infeliz, un músico está fascinado con una mujer seductora y misteriosa que vive en sus sueños.(n)</desc>
+    <credits>
+      <actor>Penélope Cruz</actor>
+      <actor>Martin Freeman</actor>
+      <actor>Gwyneth Paltrow</actor>
+    </credits>
+    <date>2007</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Romance</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p171618_i_s2_aa.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="US">
+      <value>2</value>
+    </star-rating>
+  </programme>
+  <programme start="20230109101700 -0500" stop="20230109121000 -0500" channel="Cine Sony">
+    <title lang="en">Ticking Clock</title>
+    <desc lang="en">Un reportero (Cuba Gooding Jr.) de investigación descubre el diario de un asesino y lo sigue hasta cuando era un niño huérfano de nueve años.(n)</desc>
+    <credits>
+      <actor>Cuba Gooding Jr.</actor>
+      <actor>Neal McDonough</actor>
+      <actor>Austin Abrams</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8440690_i_s2_aa.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230109121000 -0500" stop="20230109135700 -0500" channel="Cine Sony">
+    <title lang="en">The Lodger</title>
+    <desc lang="en">Una pareja le renta un cuarto a un hombre en su casa ubicada en el oeste de Hollywood, y él podría ser responsable del asesinato de varias prostitutas.(n)</desc>
+    <credits>
+      <actor>Alfred Molina</actor>
+      <actor>Hope Davis</actor>
+      <actor>Shane West</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Mystery</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p194533_i_s3_aa.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+    <star-rating system="US">
+      <value>1</value>
+    </star-rating>
+  </programme>
+  <programme start="20230109135700 -0500" stop="20230109154800 -0500" channel="Cine Sony">
     <title lang="en">Pistol Whipped</title>
-    <desc lang="en">Un hombre misterioso ofrece pagar las deudas de un ex policía que bebe demasiado y que es adicto al juego a cambio de asesinar a un mafioso.(n)</desc>
-    <date>2007</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
+    <desc lang="en">Un hombre misterioso ofrece pagar las deudas de juego de un expolicía a cambio de un contrato de asesinato.(n)</desc>
+    <credits>
+      <actor>Steven Seagal</actor>
+      <actor>Lance Henriksen</actor>
+      <actor>Blanchard Ryan</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p178000_k_s2_ac.jpg" />
+    <star-rating system="US">
+      <value>1</value>
+    </star-rating>
   </programme>
-  <programme start="20230109204800 +0000" stop="20230109223500 +0000" channel="Cine Sony">
+  <programme start="20230109154800 -0500" stop="20230109173500 -0500" channel="Cine Sony">
     <title lang="en">Urban Justice</title>
-    <desc lang="en">Historia de venganza sobre un ex agente del gobierno (Steven Seagal) que trata de resolver el caso del asesinato de su hijo.(n)</desc>
+    <desc lang="en">Un hombre rudo con un violento pasado decide tomar la justicia en sus manos y vengar la muerte de su hijo.(n)</desc>
+    <credits>
+      <actor>Steven Seagal</actor>
+      <actor>Eddie Griffin</actor>
+      <actor>Carmen Serano</actor>
+    </credits>
     <date>2007</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p174473_i_h10_aa.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
     </rating>
+    <star-rating system="US">
+      <value>1</value>
+    </star-rating>
   </programme>
-  <programme start="20230109223500 +0000" stop="20230110002500 +0000" channel="Cine Sony">
+  <programme start="20230109173500 -0500" stop="20230109192500 -0500" channel="Cine Sony">
     <title lang="en">Rapid Fire</title>
-    <desc lang="en">Se recuerda un robo de banco verdadero en California que incluye persecuciones intensas y tiroteos sangrientos mientras cinco bandidos huyen de las autoridades con un rehén y $20.000. Jason Gedrick, David Cubitt, Kristin Lehman, G. Michael Gray, Marsha Regis.(n)</desc>
+    <desc lang="en">La policía persigue a un grupo extremista que ha intentado robar un banco en Norco (California). El enfrentamiento se desarrolla a toda velocidad y nadie duda en eliminar al contrario si es necesario.(n)</desc>
+    <credits>
+      <actor>Jason Gedrick</actor>
+      <actor>David Cubitt</actor>
+      <actor>Kristen Lehman</actor>
+    </credits>
     <date>2005</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Docu-Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p87698_k_s3_aa.jpg" />
+  </programme>
+  <programme start="20230109192500 -0500" stop="20230109211700 -0500" channel="Cine Sony">
+    <title lang="en">Doing Hard Time</title>
+    <desc lang="en">Un hombre es arrestado con el objetivo de castigar a los responsables de la muerte de su hijo de siete años.(n)</desc>
+    <credits>
+      <actor>Boris Kodjoe</actor>
+      <actor>Michael Kenneth Williams</actor>
+      <actor>Kirk</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="en">Movies</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p85649_k_s2_aa.jpg" />
+  </programme>
+  <programme start="20230109211700 -0500" stop="20230109231100 -0500" channel="Cine Sony">
+    <title lang="en">Felon</title>
+    <desc lang="en">Un hombre condenado por asesinato podría pasar el resto de su vida en prisión.(n)</desc>
+    <credits>
+      <actor>Stephen Dorff</actor>
+      <actor>Val Kilmer</actor>
+      <actor>Harold Perrineau</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p183359_k_h10_ab.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+    <star-rating system="US">
+      <value>2</value>
+    </star-rating>
+  </programme>
+  <programme start="20230109231100 -0500" stop="20230110005400 -0500" channel="Cine Sony">
+    <title lang="en">Doing Hard Time</title>
+    <desc lang="en">Un hombre es arrestado con el objetivo de castigar a los responsables de la muerte de su hijo de siete años.(n)</desc>
+    <credits>
+      <actor>Boris Kodjoe</actor>
+      <actor>Michael Kenneth Williams</actor>
+      <actor>Kirk</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="en">Movies</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p85649_k_s2_aa.jpg" />
   </programme>
   <programme start="20230108060000 -0500" stop="20230108070000 -0500" channel="NBC Universo">
     <title lang="en">12 corazones</title>
@@ -4155,15 +4437,6 @@
       <value>8.0</value>
     </star-rating>
   </programme>
-  <programme start="20230108151500 +0000" stop="20230108153000 +0000" channel="Nick Jr.">
-    <title lang="en">Anna y sus amigos</title>
-    <desc lang="en">Cuando tus mejores amigos son una impaciente rana, un perro demasiado confiado,.(n)</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20230108153000 +0000" stop="20230108154500 +0000" channel="Nick Jr.">
-    <title lang="en">Super Cute Little Babies</title>
-    <desc lang="en">Las aventuras de Susi, Kala, Gabi y Sofi, las súper heroínas que quieren salvar el planeta.(n)</desc>
-  </programme>
   <programme start="20230108154500 +0000" stop="20230108160000 +0000" channel="Nick Jr.">
     <title lang="en">Anna y sus amigos</title>
     <desc lang="en">Cuando tus mejores amigos son una impaciente rana, un perro demasiado confiado,.(n)</desc>
@@ -5916,73 +6189,698 @@
     <desc lang="en">Noticias y temas de actualidad de Santiago y el resto del país.(n)</desc>
     <date>2008</date>
   </programme>
-  <programme start="20230108143200 +0000" stop="20230108152000 +0000" channel="AMC+">
-    <title lang="en">The American West 102</title>
+  <programme start="20230108060000 -0500" stop="20230108062600 -0500" channel="AMC+">
+    <title lang="en">Comic Book Men</title>
+    <sub-title lang="en">In a Galaxy Very Nearby</sub-title>
+    <desc lang="en">Rare and interesting Star Wars items making their way into the Stash; Walt offers up big cash to try and score a beacon for the store.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p14690582_e_h10_aa.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230108062600 -0500" stop="20230108064900 -0500" channel="AMC+">
+    <title lang="en">Comic Book Men</title>
+    <sub-title lang="en">Ode to Clerks</sub-title>
+    <desc lang="en">Kevin Smith and the guys attend the premiere screening of a movie about themselves and the origination of the film.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p14996926_e_s2_aa.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20230108064900 -0500" stop="20230108071200 -0500" channel="AMC+">
+    <title lang="en">Comic Book Men</title>
+    <sub-title lang="en">The Canine Crusaders</sub-title>
+    <desc lang="en">Actor Burt Ward, best known for portraying television's famous Robin the Boy Wonder, reminisces about his time on the set of.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p15114665_e_h10_aa.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230108071200 -0500" stop="20230108073500 -0500" channel="AMC+">
+    <title lang="en">Comic Book Men</title>
+    <sub-title lang="en">Power Man vs. Counter Man</sub-title>
+    <desc lang="en">Walt meets his match during a heated negotiation with actor Mike Colter (.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p15114789_e_h10_ab.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230108073500 -0500" stop="20230108075900 -0500" channel="AMC+">
+    <title lang="en">Comic Book Men</title>
+    <sub-title lang="en">Troma-tized</sub-title>
+    <desc lang="en">Troma Entertainment co-founder Lloyd Kaufman and his crew put the guys through a grueling audition to see if they have what it takes to be in a Troma film.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p15114899_e_h8_aa.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230108075900 -0500" stop="20230108082200 -0500" channel="AMC+">
+    <title lang="en">Comic Book Men</title>
+    <sub-title lang="en">A Pez-tacular Mystery</sub-title>
+    <desc lang="en">The boys take a field trip to the Pez Museum to determine if Walt is actually the owner of an extremely rare and valuable piece of Pez history.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p15114920_e_h8_aa.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230108082200 -0500" stop="20230108084500 -0500" channel="AMC+">
+    <title lang="en">Comic Book Men</title>
+    <sub-title lang="en">The Mightiest of Mortals</sub-title>
+    <desc lang="en">When Walt learns that Ming befriended actor Michael Gray (.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p15133662_e_h8_aa.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230108084500 -0500" stop="20230108093200 -0500" channel="AMC+">
+    <title lang="en">The American West</title>
+    <sub-title lang="en">America Divided</sub-title>
+    <desc lang="en">In order to ensure the survival of his family, Jesse James forms a gang; Custer seeks glory in the Indian Wars; Crazy Horse fights against the U.S.(n)</desc>
+    <credits>
+      <actor>Mark Lee Gardner</actor>
+    </credits>
+    <category lang="en">Docu-Series</category>
+    <category lang="en">History</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p12834828_e_s4_aa.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20230108093200 -0500" stop="20230108102000 -0500" channel="AMC+">
+    <title lang="en">The American West</title>
     <sub-title lang="en">Two Front War</sub-title>
+    <desc lang="en">Jesse James targets the railroads; Custer goes on a secret mission in Sioux Territory; Grant contends with the growing unrest in the South and West.(n)</desc>
+    <credits>
+      <actor>Mark Lee Gardner</actor>
+    </credits>
+    <category lang="en">Docu-Series</category>
+    <category lang="en">History</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p12834981_e_s3_aa.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
   </programme>
-  <programme start="20230108152000 +0000" stop="20230108160800 +0000" channel="AMC+">
-    <title lang="en">Blood &amp; Gold</title>
+  <programme start="20230108102000 -0500" stop="20230108110800 -0500" channel="AMC+">
+    <title lang="en">The American West</title>
+    <sub-title lang="en">Blood &amp; Gold</sub-title>
+    <desc lang="en">Allan Pinkerton gets hired to bring Jesse James to justice; settlers descend upon Sioux land to mine gold; Grant tries to keep the peace.(n)</desc>
+    <credits>
+      <actor>Mark Lee Gardner</actor>
+    </credits>
+    <category lang="en">Docu-Series</category>
+    <category lang="en">History</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p12837148_e_s3_aa.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
   </programme>
-  <programme start="20230108160800 +0000" stop="20230108165600 +0000" channel="AMC+">
-    <title lang="en">The American West 104</title>
+  <programme start="20230108110800 -0500" stop="20230108115600 -0500" channel="AMC+">
+    <title lang="en">The American West</title>
     <sub-title lang="en">Showdown</sub-title>
+    <desc lang="en">Custer rides to a showdown at Little Big Horn with the Sioux; Jesse James hopes to make a big statement when he targets a bank in the northern territory.(n)</desc>
+    <credits>
+      <actor>Mark Lee Gardner</actor>
+    </credits>
+    <category lang="en">Docu-Series</category>
+    <category lang="en">History</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p12918827_e_h8_ab.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
   </programme>
-  <programme start="20230108165600 +0000" stop="20230108174400 +0000" channel="AMC+">
-    <title lang="en">The American West 105</title>
+  <programme start="20230108115600 -0500" stop="20230108124400 -0500" channel="AMC+">
+    <title lang="en">The American West</title>
     <sub-title lang="en">Outlaw Rising</sub-title>
+    <desc lang="en">Billy the Kid uses his talent with a gun to get what he wants; Sitting Bull and Crazy Horse make an important decision; Wyatt Earp fights for what's right.(n)</desc>
+    <credits>
+      <actor>Mark Lee Gardner</actor>
+    </credits>
+    <category lang="en">Docu-Series</category>
+    <category lang="en">History</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p12919149_e_s3_aa.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
   </programme>
-  <programme start="20230108174400 +0000" stop="20230108183200 +0000" channel="AMC+">
-    <title lang="en">The Big Killing</title>
+  <programme start="20230108124400 -0500" stop="20230108133200 -0500" channel="AMC+">
+    <title lang="en">The American West</title>
+    <sub-title lang="en">The Big Killing</sub-title>
+    <desc lang="en">Jesse James resurfaces after years in hiding; Billy the Kid avenges the death of his friend; Wyatt Earp questions his future as a man of the law.(n)</desc>
+    <credits>
+      <actor>Mark Lee Gardner</actor>
+    </credits>
+    <category lang="en">Docu-Series</category>
+    <category lang="en">History</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p12919553_e_s3_aa.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
   </programme>
-  <programme start="20230108183200 +0000" stop="20230108192000 +0000" channel="AMC+">
-    <title lang="en">Frontier Justice</title>
+  <programme start="20230108133200 -0500" stop="20230108142000 -0500" channel="AMC+">
+    <title lang="en">The American West</title>
+    <sub-title lang="en">Frontier Justice</sub-title>
+    <desc lang="en">Wyatt Earp heads to Tombstone; Billy the Kid and Pat Garrett's cat-and-mouse game reaches a climax; Sitting Bill is back in America.(n)</desc>
+    <credits>
+      <actor>Mark Lee Gardner</actor>
+    </credits>
+    <category lang="en">Docu-Series</category>
+    <category lang="en">History</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p12919766_e_s3_aa.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
   </programme>
-  <programme start="20230108192000 +0000" stop="20230108200800 +0000" channel="AMC+">
-    <title lang="en">The Last Vendetta</title>
+  <programme start="20230108142000 -0500" stop="20230108150800 -0500" channel="AMC+">
+    <title lang="en">The American West</title>
+    <sub-title lang="en">The Last Vendetta</sub-title>
+    <desc lang="en">Sitting Bull is accused of inciting a rebellion; Wyatt Earp turns his back on the law in his search for true justice; Jesse James is confronted by the Ford Brothers.(n)</desc>
+    <credits>
+      <actor>Mark Lee Gardner</actor>
+    </credits>
+    <category lang="en">Docu-Series</category>
+    <category lang="en">History</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p12919987_e_s3_aa.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
   </programme>
-  <programme start="20230108200800 +0000" stop="20230108214900 +0000" channel="AMC+">
+  <programme start="20230108150800 -0500" stop="20230108164900 -0500" channel="AMC+">
     <title lang="en">Boar</title>
+    <desc lang="en">In the beautiful, yet harsh Australian outback lives an animal of staggering size with a ferocious, driving need for blood and destruction. It defends its territory with savage force and kills with a raw, animalistic brutality not seen before.(n)</desc>
+    <credits>
+      <actor>Nathan Jones</actor>
+      <actor>Bill Moseley</actor>
+      <actor>John Jarratt</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Horror</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p15851524_i_h10_ab.jpg" />
   </programme>
-  <programme start="20230108214900 +0000" stop="20230108233000 +0000" channel="AMC+">
+  <programme start="20230108164900 -0500" stop="20230108183000 -0500" channel="AMC+">
     <title lang="en">Lake of Death</title>
+    <desc lang="en">Lillan and some friends travel back to the remote family cabin where her twin brother died the previous year. Soon, strange things start happening.(n)</desc>
+    <credits>
+      <actor>Patrick Walshe McBride</actor>
+      <actor>Ulric von der Esch</actor>
+      <actor>Iben Akerlie</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Horror</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17133329_i_s2_ab.jpg" />
   </programme>
-  <programme start="20230108233000 +0000" stop="20230109010000 +0000" channel="AMC+">
+  <programme start="20230108183000 -0500" stop="20230108200000 -0500" channel="AMC+">
     <title lang="en">Can't Take It Back</title>
+    <desc lang="en">Two teenage girls bring a dark curse upon themselves when they leave hateful comments on a dead classmate's Facebook page.(n)</desc>
+    <credits>
+      <actor>Lexi Atkins</actor>
+      <actor>Noah Centineo</actor>
+      <actor>Logan Paul</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Horror</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p15275651_k_s2_aa.jpg" />
   </programme>
-  <programme start="20230109010000 +0000" stop="20230109023500 +0000" channel="AMC+">
+  <programme start="20230108200000 -0500" stop="20230108213500 -0500" channel="AMC+">
     <title lang="en">Adult World</title>
+    <desc lang="en">An aspiring poet (Emma Roberts) takes a job as a clerk at an adult bookstore and tries to make her contemptuous literary idol (John Cusack) take her on as his protege.(n)</desc>
+    <credits>
+      <actor>Emma Roberts</actor>
+      <actor>John Cusack</actor>
+      <actor>Evan Peters</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9932686_i_h8_ab.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="US">
+      <value>2</value>
+    </star-rating>
   </programme>
-  <programme start="20230109023500 +0000" stop="20230109041500 +0000" channel="AMC+">
+  <programme start="20230108213500 -0500" stop="20230108231500 -0500" channel="AMC+">
     <title lang="en">45 Years</title>
+    <desc lang="en">As their 45th wedding anniversary approaches, a woman (Charlotte Rampling) learns that her husband (Tom Courtenay) was once engaged to someone else.(n)</desc>
+    <credits>
+      <actor>Charlotte Rampling</actor>
+      <actor>Tom Courtenay</actor>
+      <actor>Geraldine James</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11544239_k_h12_aa.jpg" />
+    <star-rating system="US">
+      <value>3</value>
+    </star-rating>
   </programme>
-  <programme start="20230109041500 +0000" stop="20230109055400 +0000" channel="AMC+">
+  <programme start="20230108231500 -0500" stop="20230109005400 -0500" channel="AMC+">
     <title lang="en">Eating Animals</title>
+    <desc lang="en">Filmmaker Christopher Quinn examines the environmental, economic and public health consequences of factory farming. Topics include animal rights, pollution and the use of antibiotics and hormones.(n)</desc>
+    <date>2017</date>
+    <category lang="en">Movies</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11099655_k_s4_aa.jpg" />
   </programme>
-  <programme start="20230109055400 +0000" stop="20230109074100 +0000" channel="AMC+">
+  <programme start="20230109005400 -0500" stop="20230109024100 -0500" channel="AMC+">
     <title lang="en">The Summit</title>
+    <desc lang="en">Filmmaker Nick Ryan uses footage, interviews and re-enactments to piece together events in August 2008 that resulted in the deaths of 11 people on Mount Everest.(n)</desc>
+    <credits>
+      <actor>Pat Falvey</actor>
+      <actor>Hristo Mitzkov</actor>
+      <actor>Lochlann O'Mearáin</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="en">Movies</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9718492_k_s2_aa.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="US">
+      <value>3</value>
+    </star-rating>
   </programme>
-  <programme start="20230109074100 +0000" stop="20230109092300 +0000" channel="AMC+">
-    <title lang="en">The Devil's Pass</title>
+  <programme start="20230109024100 -0500" stop="20230109042300 -0500" channel="AMC+">
+    <title lang="en">Devil's Pass</title>
+    <desc lang="en">To determine what happened to some Russian hikers, five U.S. college students go back to where the hikers were found dead. The students don't return from the expedition, either, and the recovered footage is deemed too disturbing for public viewing.(n)</desc>
+    <credits>
+      <actor>Gemma Atkinson</actor>
+      <actor>Matt Stokoe</actor>
+      <actor>Richard Reid</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10128728_i_h10_aa.jpg" />
   </programme>
-  <programme start="20230109092300 +0000" stop="20230109110000 +0000" channel="AMC+">
+  <programme start="20230109042300 -0500" stop="20230109060000 -0500" channel="AMC+">
     <title lang="en">Slow Learners</title>
+    <desc lang="en">Tired of watching their peers find love and companionship, two friends (Adam Pally, Sarah Burns) ditch their boring personas and transform themselves into fun-loving, confident people who indulge in plenty of booze, dancing and sex.(n)</desc>
+    <credits>
+      <actor>Adam Pally</actor>
+      <actor>Sarah Burns</actor>
+      <actor>Reid Scott</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11696875_i_s2_aa.jpg" />
   </programme>
-  <programme start="20230109110000 +0000" stop="20230109112600 +0000" channel="AMC+">
-    <title lang="en">Pop Goes the Stash</title>
+  <programme start="20230109060000 -0500" stop="20230109062600 -0500" channel="AMC+">
+    <title lang="en">Comic Book Men</title>
+    <sub-title lang="en">Pop Goes the Stash</sub-title>
+    <desc lang="en">Kevin and the boys attend the grand opening of Funko's new headquarters, where they get honored with their very own Pop! figures.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p15133669_e_h10_aa.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
   </programme>
-  <programme start="20230109112600 +0000" stop="20230109115200 +0000" channel="AMC+">
-    <title lang="en">Two</title>
-    <sub-title lang="en">Headed Bearded Dragon Birthday</sub-title>
+  <programme start="20230109062600 -0500" stop="20230109065200 -0500" channel="AMC+">
+    <title lang="en">Freakshow</title>
+    <sub-title lang="en">Two-Headed Bearded Dragon Birthday</sub-title>
+    <desc lang="en">Todd tries to convince a bearded lady and a living giant to join the show.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9674317_e_s3_aa.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
   </programme>
-  <programme start="20230109115200 +0000" stop="20230109121500 +0000" channel="AMC+">
-    <title lang="en">Swords a Plenty</title>
+  <programme start="20230109065200 -0500" stop="20230109071500 -0500" channel="AMC+">
+    <title lang="en">Freakshow</title>
+    <sub-title lang="en">Swords a Plenty</sub-title>
+    <desc lang="en">Asia attempts to swallow a sword for sword swallower's day; competition heats up among the performers.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9674316_b_v8_aa.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
   </programme>
-  <programme start="20230109121500 +0000" stop="20230109135600 +0000" channel="AMC+">
+  <programme start="20230109071500 -0500" stop="20230109085600 -0500" channel="AMC+">
     <title lang="en">Sadako vs. Kayako</title>
+    <desc lang="en">After watching a cursed videotape, Natsumi has only two days before she will be killed by demonic entity Sadako. Her only hope is to pit Sadako against Kayako, a menacing spirit that inhabits a haunted house.(n)</desc>
+    <credits>
+      <actor>Elly Nanami</actor>
+      <actor>Rina Endo</actor>
+      <actor>Mizuki Yamamoto</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Horror</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13287264_i_h8_ab.jpg" />
   </programme>
-  <programme start="20230109135600 +0000" stop="20230109153800 +0000" channel="AMC+">
-    <title lang="en">Re</title>
-    <sub-title lang="en">Born</sub-title>
+  <programme start="20230109085600 -0500" stop="20230109103800 -0500" channel="AMC+">
+    <title lang="en">Re: Born</title>
+    <desc lang="en">A legendary soldier with a mysterious past decides to unleash his inner beast to stand up for what he cares about.(n)</desc>
+    <credits>
+      <actor>Hitomi Hasebe</actor>
+      <actor>Issei Ishida</actor>
+      <actor>Masaya Katô</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13287416_k_h10_aa.jpg" />
+  </programme>
+  <programme start="20230109103800 -0500" stop="20230109123000 -0500" channel="AMC+">
+    <title lang="en">Scare Package</title>
+    <desc lang="en">Seven filmmakers present seven terrifying and comedic tales of horror.(n)</desc>
+    <credits>
+      <actor>Jeremy King</actor>
+      <actor>Noah Segan</actor>
+      <actor>Toni Trucks</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Horror</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17979023_k_h8_aa.jpg" />
+  </programme>
+  <programme start="20230109123000 -0500" stop="20230109125500 -0500" channel="AMC+">
+    <title lang="en">Stan Against Evil</title>
+    <sub-title lang="en">Dig Me Up, Dig Me Down</sub-title>
+    <desc lang="en">After the death of his wife, Sheriff Miller is forced into retirement and replaced by Evie Barret, who discovers the town is possessed by demons, and that Stan's wife was the only one keeping them at bay; Stan and Evie must join forces to stay alive.(n)</desc>
+    <credits>
+      <actor>John C. McGinley</actor>
+      <actor>Janet Varney</actor>
+      <actor>Nate Mooney</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13143387_e_h10_ab.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20230109125500 -0500" stop="20230109132000 -0500" channel="AMC+">
+    <title lang="en">Stan Against Evil</title>
+    <sub-title lang="en">Know, Know, Know Your Goat</sub-title>
+    <desc lang="en">Stan's daughter, Denise, goes blueberry picking and comes home with a pet goat, which also just happens to be a demon.(n)</desc>
+    <credits>
+      <actor>John C. McGinley</actor>
+      <actor>Janet Varney</actor>
+      <actor>Nate Mooney</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13337068_e_s2_aa.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20230109132000 -0500" stop="20230109134500 -0500" channel="AMC+">
+    <title lang="en">Stan Against Evil</title>
+    <sub-title lang="en">Let Your Love Groan</sub-title>
+    <desc lang="en">Stan, Evie and Denise go speed dating and suddenly find themselves involved with their perfect match; they also find themselves growing weak and rapidly aging.(n)</desc>
+    <credits>
+      <actor>John C. McGinley</actor>
+      <actor>Janet Varney</actor>
+      <actor>Nate Mooney</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13337080_e_s2_aa.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20230109134500 -0500" stop="20230109141000 -0500" channel="AMC+">
+    <title lang="en">Stan Against Evil</title>
+    <sub-title lang="en">Life Orr Death</sub-title>
+    <desc lang="en">Evie attempts to rescue Stan's prized possession, his Bobby Orr hockey stick, from the church donation pile, only to find herself transported into the spirit world where she too, is on trial for witchcraft.(n)</desc>
+    <credits>
+      <actor>John C. McGinley</actor>
+      <actor>Janet Varney</actor>
+      <actor>Nate Mooney</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13337084_e_s4_aa.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20230109141000 -0500" stop="20230109143500 -0500" channel="AMC+">
+    <title lang="en">Stan Against Evil</title>
+    <sub-title lang="en">Ouija Bored</sub-title>
+    <desc lang="en">A strange crop of flowers starts growing in town, with each bloom bringing a new supernatural horror; Evie attempts to summon Stan's dead wife, Claire, to help her stop them.(n)</desc>
+    <credits>
+      <actor>John C. McGinley</actor>
+      <actor>Janet Varney</actor>
+      <actor>Nate Mooney</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13337087_e_s2_aa.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20230109143500 -0500" stop="20230109150000 -0500" channel="AMC+">
+    <title lang="en">Stan Against Evil</title>
+    <sub-title lang="en">I'm Gleaning My Coven</sub-title>
+    <desc lang="en">Denise gets mixed up with a group of goth kids who come to town hoping to contact a demon; the goth kids succeed in contacting a demon and Denise finds herself possessed by it, creating a tricky situation for Stan.(n)</desc>
+    <credits>
+      <actor>John C. McGinley</actor>
+      <actor>Janet Varney</actor>
+      <actor>Nate Mooney</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13337090_e_s4_aa.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20230109150000 -0500" stop="20230109152500 -0500" channel="AMC+">
+    <title lang="en">Stan Against Evil</title>
+    <sub-title lang="en">Spider Walk With Me</sub-title>
+    <desc lang="en">A mysterious stranger shows up at Stan's door with knowledge of the curse he and Evie are fighting; Willard's Mill residents start getting killed by a giant spider.(n)</desc>
+    <credits>
+      <actor>John C. McGinley</actor>
+      <actor>Janet Varney</actor>
+      <actor>Nate Mooney</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13337110_e_h10_ac.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20230109152500 -0500" stop="20230109155200 -0500" channel="AMC+">
+    <title lang="en">Stan Against Evil</title>
+    <sub-title lang="en">Level Boss</sub-title>
+    <desc lang="en">A mysterious girl runs out into the street, forcing Evie to swerve into a fatal car accident that she must relive over and over and over again.(n)</desc>
+    <credits>
+      <actor>John C. McGinley</actor>
+      <actor>Janet Varney</actor>
+      <actor>Nate Mooney</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13337119_e_h10_ac.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20230109155200 -0500" stop="20230109161700 -0500" channel="AMC+">
+    <title lang="en">Stan Against Evil</title>
+    <sub-title lang="en">Dig Me Up, Dig Me Down</sub-title>
+    <desc lang="en">After the death of his wife, Sheriff Miller is forced into retirement and replaced by Evie Barret, who discovers the town is possessed by demons, and that Stan's wife was the only one keeping them at bay; Stan and Evie must join forces to stay alive.(n)</desc>
+    <credits>
+      <actor>John C. McGinley</actor>
+      <actor>Janet Varney</actor>
+      <actor>Nate Mooney</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13143387_e_h10_ab.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20230109161700 -0500" stop="20230109164200 -0500" channel="AMC+">
+    <title lang="en">Stan Against Evil</title>
+    <sub-title lang="en">Know, Know, Know Your Goat</sub-title>
+    <desc lang="en">Stan's daughter, Denise, goes blueberry picking and comes home with a pet goat, which also just happens to be a demon.(n)</desc>
+    <credits>
+      <actor>John C. McGinley</actor>
+      <actor>Janet Varney</actor>
+      <actor>Nate Mooney</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13337068_e_s2_aa.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20230109164200 -0500" stop="20230109170700 -0500" channel="AMC+">
+    <title lang="en">Stan Against Evil</title>
+    <sub-title lang="en">Let Your Love Groan</sub-title>
+    <desc lang="en">Stan, Evie and Denise go speed dating and suddenly find themselves involved with their perfect match; they also find themselves growing weak and rapidly aging.(n)</desc>
+    <credits>
+      <actor>John C. McGinley</actor>
+      <actor>Janet Varney</actor>
+      <actor>Nate Mooney</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13337080_e_s2_aa.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20230109170700 -0500" stop="20230109173200 -0500" channel="AMC+">
+    <title lang="en">Stan Against Evil</title>
+    <sub-title lang="en">Life Orr Death</sub-title>
+    <desc lang="en">Evie attempts to rescue Stan's prized possession, his Bobby Orr hockey stick, from the church donation pile, only to find herself transported into the spirit world where she too, is on trial for witchcraft.(n)</desc>
+    <credits>
+      <actor>John C. McGinley</actor>
+      <actor>Janet Varney</actor>
+      <actor>Nate Mooney</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13337084_e_s4_aa.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20230109173200 -0500" stop="20230109175700 -0500" channel="AMC+">
+    <title lang="en">Stan Against Evil</title>
+    <sub-title lang="en">Ouija Bored</sub-title>
+    <desc lang="en">A strange crop of flowers starts growing in town, with each bloom bringing a new supernatural horror; Evie attempts to summon Stan's dead wife, Claire, to help her stop them.(n)</desc>
+    <credits>
+      <actor>John C. McGinley</actor>
+      <actor>Janet Varney</actor>
+      <actor>Nate Mooney</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13337087_e_s2_aa.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20230109175700 -0500" stop="20230109182200 -0500" channel="AMC+">
+    <title lang="en">Stan Against Evil</title>
+    <sub-title lang="en">I'm Gleaning My Coven</sub-title>
+    <desc lang="en">Denise gets mixed up with a group of goth kids who come to town hoping to contact a demon; the goth kids succeed in contacting a demon and Denise finds herself possessed by it, creating a tricky situation for Stan.(n)</desc>
+    <credits>
+      <actor>John C. McGinley</actor>
+      <actor>Janet Varney</actor>
+      <actor>Nate Mooney</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13337090_e_s4_aa.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20230109182200 -0500" stop="20230109184700 -0500" channel="AMC+">
+    <title lang="en">Stan Against Evil</title>
+    <sub-title lang="en">Spider Walk With Me</sub-title>
+    <desc lang="en">A mysterious stranger shows up at Stan's door with knowledge of the curse he and Evie are fighting; Willard's Mill residents start getting killed by a giant spider.(n)</desc>
+    <credits>
+      <actor>John C. McGinley</actor>
+      <actor>Janet Varney</actor>
+      <actor>Nate Mooney</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13337110_e_h10_ac.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20230109184700 -0500" stop="20230109191400 -0500" channel="AMC+">
+    <title lang="en">Stan Against Evil</title>
+    <sub-title lang="en">Level Boss</sub-title>
+    <desc lang="en">A mysterious girl runs out into the street, forcing Evie to swerve into a fatal car accident that she must relive over and over and over again.(n)</desc>
+    <credits>
+      <actor>John C. McGinley</actor>
+      <actor>Janet Varney</actor>
+      <actor>Nate Mooney</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13337119_e_h10_ac.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20230109191400 -0500" stop="20230109200000 -0500" channel="AMC+">
+    <title lang="en">All of Them Witches</title>
+    <desc lang="en">A woman (Susana Zabaleta) suspects her husband (Alejandro Tommasi) of complicity in supernatural occurrences in their apartment building.(n)</desc>
+    <credits>
+      <actor>Susana Zabaleta</actor>
+      <actor>Alejandro Tommasi</actor>
+      <actor>Delia Casanova</actor>
+    </credits>
+    <date>1996</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Horror</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p20953_i_s2_aa.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+    <star-rating system="US">
+      <value>2</value>
+    </star-rating>
+  </programme>
+  <programme start="20230109200000 -0500" stop="20230109205500 -0500" channel="AMC+">
+    <title lang="en">Mayfair Witches</title>
+    <sub-title lang="en">The Witching Hour</sub-title>
+    <desc lang="en">Neurosurgeon Rowan Fielding has a problem -- when she gets mad, she kills with her mind; her search for answers sends her toward her secretive biological family; in New Orleans, Deirdre Mayfair is desperate to escape from her aunt's oppressive house.(n)</desc>
+    <credits>
+      <actor>Alexandra Daddario</actor>
+      <actor>Jack Huston</actor>
+      <actor>Tongai Arnold Chirisa</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p23584602_b_h8_ab.jpg" />
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20230109205500 -0500" stop="20230109215000 -0500" channel="AMC+">
+    <title lang="en">Mayfair Witches</title>
+    <sub-title lang="en">The Witching Hour</sub-title>
+    <desc lang="en">Neurosurgeon Rowan Fielding has a problem -- when she gets mad, she kills with her mind; her search for answers sends her toward her secretive biological family; in New Orleans, Deirdre Mayfair is desperate to escape from her aunt's oppressive house.(n)</desc>
+    <credits>
+      <actor>Alexandra Daddario</actor>
+      <actor>Jack Huston</actor>
+      <actor>Tongai Arnold Chirisa</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p23584602_b_h8_ab.jpg" />
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20230109215000 -0500" stop="20230109224500 -0500" channel="AMC+">
+    <title lang="en">Mayfair Witches</title>
+    <sub-title lang="en">The Witching Hour</sub-title>
+    <desc lang="en">Neurosurgeon Rowan Fielding has a problem -- when she gets mad, she kills with her mind; her search for answers sends her toward her secretive biological family; in New Orleans, Deirdre Mayfair is desperate to escape from her aunt's oppressive house.(n)</desc>
+    <credits>
+      <actor>Alexandra Daddario</actor>
+      <actor>Jack Huston</actor>
+      <actor>Tongai Arnold Chirisa</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p23584602_b_h8_ab.jpg" />
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20230109224500 -0500" stop="20230110000300 -0500" channel="AMC+">
+    <title lang="en">The Witch in the Window</title>
+    <desc lang="en">When Simon brings his 12-year-old son to rural Vermont to help flip an old farmhouse, they soon learn that the house is already occupied by the malicious spirit of a previous owner.(n)</desc>
+    <credits>
+      <actor>Arija Bareikis</actor>
+      <actor>Alex Draper</actor>
+      <actor>Charlie Tacker</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Horror</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p15842672_k_h8_aa.jpg" />
   </programme>
   <programme start="20230108150000 +0000" stop="20230108160000 +0000" channel="Teleuniverso">
     <title lang="en">La voz del Tribunal Constitucional</title>
@@ -6780,9 +7678,6 @@
   <programme start="20230109140000 +0000" stop="20230109170000 +0000" channel="NY1 Noticias">
     <title lang="en">Noticias por la mañana (?)</title>
   </programme>
-  <programme start="20230108144300 +0000" stop="20230108152700 +0000" channel="Aplauso">
-    <title lang="en">Confidente</title>
-  </programme>
   <programme start="20230108152700 +0000" stop="20230108161100 +0000" channel="Aplauso">
     <title lang="en">Confidente</title>
   </programme>
@@ -6917,14 +7812,6 @@
     <title lang="en">Contigo hasta el fin</title>
     <desc lang="en">Cuando la Doncella Divina haga una ofrenda al cielo, el que obtenga el tesoro de Bi Luo Tian ganará el mundo.(n)</desc>
     <date>2019</date>
-  </programme>
-  <programme start="20230108150000 +0000" stop="20230108153000 +0000" channel="Comedy Central">
-    <title lang="en">Daria</title>
-    <desc lang="en">Kevin se rompe una pierna al presumir con su nueva moto y también daña el árbol en honor a Tommy Sherman. Entonces, todos piensan que hay una maldición cuando la escuela de Lawndale comienza a perder todos los partidos de fútbol americano.(n)</desc>
-    <date>2016</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
   </programme>
   <programme start="20230108153000 +0000" stop="20230108160000 +0000" channel="Comedy Central">
     <title lang="en">Daria</title>
@@ -22174,7 +23061,7 @@
     <category lang="es">Fútbol español</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4060612" />
     <star-rating system="ES">
-      <value>8.0</value>
+      <value>6.0</value>
     </star-rating>
   </programme>
   <programme start="20230108185500 +0100" stop="20230108203000 +0100" channel="DAZN LaLiga">
@@ -22364,7 +23251,7 @@
     <category lang="es">Fútbol español</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4060612" />
     <star-rating system="ES">
-      <value>8.0</value>
+      <value>6.0</value>
     </star-rating>
   </programme>
   <programme start="20230109210000 +0100" stop="20230109223000 +0100" channel="DAZN LaLiga">
@@ -23014,11 +23901,6 @@
     <category lang="it">Ragazzi e Musica</category>
     <category lang="it">Musica</category>
     <icon src="https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png" />
-  </programme>
-  <programme start="20230108150000 +0000" stop="20230108153000 +0000" channel="RT (Russia Today)">
-    <title lang="en">Tras los pasos de Gandhi</title>
-    <desc lang="en">Mahatma Gandhi es probablemente la figura más relevante de la historia de la India. Y aunque murió en 1948, sus enseñanzas de vida siguen muy presentes en la actualidad.(n)</desc>
-    <date>2019</date>
   </programme>
   <programme start="20230108153000 +0000" stop="20230108160000 +0000" channel="RT (Russia Today)">
     <title lang="en">Tras los pasos de Gandhi - Parte II</title>
@@ -26236,10 +27118,6 @@
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20230108143000 +0000" stop="20230108153000 +0000" channel="E!">
-    <title lang="en">Escuela imparables</title>
-    <desc lang="en">Competencia que busca brindar a mujeres las herramientas para desarrollar su propio negocio.(n)</desc>
-  </programme>
   <programme start="20230108153000 +0000" stop="20230108162500 +0000" channel="E!">
     <title lang="en">Escuela imparables</title>
     <sub-title lang="en">Empodera tu estilo</sub-title>
@@ -26521,11 +27399,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20230108141400 +0000" stop="20230108154000 +0000" channel="De Película Plus">
-    <title lang="en">Como gallos de pelea</title>
-    <desc lang="en">Durante años Altagracia no quería vender su propiedad a Fernando. Carlos vuelve a la ciudad y decide venderla, pero María defenderá con su vida la tierra que ama.(n)</desc>
-    <date>1977</date>
-  </programme>
   <programme start="20230108154000 +0000" stop="20230108173500 +0000" channel="De Película Plus">
     <title lang="en">Mi Esposa y la Otra</title>
     <desc lang="en">A veces la amistad te hace pasar por los momentos más increíbles. El amigo de un hombre casado accede a hacerse pasar por el padre de los niños que éste tuvo cuando se embarcó en una relación fuera de su matrimonio, mientras engañó por mucho tiempo a su esposa.(n)</desc>
@@ -26630,11 +27503,6 @@
     <title lang="en">La Coyota</title>
     <desc lang="en">Ya vengada de los hombres que abusaron de ella, una mujer trata de construirse una nueva vida y hallar el amor.(n)</desc>
     <date>1987</date>
-  </programme>
-  <programme start="20230108133900 +0000" stop="20230108153300 +0000" channel="De Película">
-    <title lang="en">Romeo contra Julieta</title>
-    <desc lang="en">Una joven rica---que no recuerda nada---y un mecánico pasan la noche juntos, por lo que los padres de ella los obligan a casarse para reparar el daño.(n)</desc>
-    <date>1968</date>
   </programme>
   <programme start="20230108153300 +0000" stop="20230108171600 +0000" channel="De Película">
     <title lang="en">Fuerte, Audaz y Valiente</title>
@@ -26885,16 +27753,6 @@
     <title lang="en">Acércate a Rocío</title>
     <desc lang="en">Hablar de tus problemas es el primer paso para superarlos, por eso Rocío Sánchez Azuara está de regreso con un programa único, en el cual, podrás acercarte, para que con ella, hables de todo lo que te preocupa, y juntas o juntos, puedan encontrar una solución.(n)</desc>
     <date>2021</date>
-  </programme>
-  <programme start="20230108150000 +0000" stop="20230108152500 +0000" channel="UNIVERSAL REALITY">
-    <title lang="en">La familia Chrisley</title>
-    <sub-title lang="en">Cliente-Infierno</sub-title>
-    <date>2017</date>
-  </programme>
-  <programme start="20230108152500 +0000" stop="20230108154500 +0000" channel="UNIVERSAL REALITY">
-    <title lang="en">La familia Chrisley</title>
-    <sub-title lang="en">Hermanas gemelas</sub-title>
-    <date>2017</date>
   </programme>
   <programme start="20230108154500 +0000" stop="20230108161000 +0000" channel="UNIVERSAL REALITY">
     <title lang="en">La familia Chrisley</title>
@@ -27553,20 +28411,6 @@
     <sub-title lang="en">Robert Chambers</sub-title>
     <desc lang="en">El cuerpo parcialmente vestido de la hermosa Jennifer Levin, de 18 años,.(n)</desc>
     <date>2021</date>
-  </programme>
-  <programme start="20230108145500 +0000" stop="20230108152000 +0000" channel="UNIVERSAL COMEDY">
-    <title lang="en">Younger</title>
-    <desc lang="en">Liza intenta convencer a Thad de que le diga la verdad a Kelsey.(n)</desc>
-    <date>2016</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20230108152000 +0000" stop="20230108154500 +0000" channel="UNIVERSAL COMEDY">
-    <title lang="en">Younger</title>
-    <sub-title lang="en">Sin bodas ni funerales</sub-title>
-    <desc lang="en">Cuando la tragedia golpea, Liza se pregunta si debe ponerle fin a su vida para siempre.(n)</desc>
-    <date>2015</date>
   </programme>
   <programme start="20230108154500 +0000" stop="20230108161000 +0000" channel="UNIVERSAL COMEDY">
     <title lang="en">Younger</title>
@@ -28253,14 +29097,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20230108150000 +0000" stop="20230108154000 +0000" channel="UNIVERSAL PREMIERE">
-    <title lang="en">Chicago Med</title>
-    <desc lang="en">La doctora Manning se apresura a salvar a un niño que tiene un caso de gripe con peligro de muerte. Luego de descubrir que robaron analgésicos opioides durante el accidente masivo de la semana anterior, April cree que es la hermana del doctor Choi quien.(n)</desc>
-    <date>2018</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20230108154000 +0000" stop="20230108162500 +0000" channel="UNIVERSAL PREMIERE">
     <title lang="en">Chicago med</title>
     <desc lang="en">El doctor Rhodes cuestiona irse del equipo de médicos que separarán a un par de siameses. El doctor Choi y April hacen un descubrimiento sorprendente sobre la hermana del doctor Choi, Emily, y el doctor Charles descubre información preocupante con relación al padre de la doctora Reese.(n)</desc>
@@ -28786,11 +29622,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20230108135700 +0000" stop="20230108154000 +0000" channel="HBO SIGNATURE">
-    <title lang="en">Teatro Apollo: 85 Anos</title>
-    <desc lang="en">The Apollo narra la historia unica del hito de la ciudad de Nueva York que se ha convertido en un salon sagrado de excelencia y empoderamiento negro.(n)</desc>
-    <date>2020</date>
-  </programme>
   <programme start="20230108154000 +0000" stop="20230108164200 +0000" channel="HBO SIGNATURE">
     <title lang="en">C.B. Strike</title>
     <desc lang="en">Leonora Quine se acerca a la huelga con la petición de localizar a su esposo, el famoso escritor Owen Quine, quien desapareció sin dejar rastro.(n)</desc>
@@ -29084,14 +29915,6 @@
     <date>1999</date>
     <rating system="MPAA">
       <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20230108150700 +0000" stop="20230108154200 +0000" channel="HBO POP">
-    <title lang="en">Sex and the City</title>
-    <desc lang="en">Vivir con Aidan sofoca a Carrie y Samantha se acerca a Richard.(n)</desc>
-    <date>2013</date>
-    <rating system="MPAA">
-      <value>TV-MA</value>
     </rating>
   </programme>
   <programme start="20230108154200 +0000" stop="20230108161700 +0000" channel="HBO POP">
@@ -29565,11 +30388,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20230108150000 +0000" stop="20230108153000 +0000" channel="Imagen TV">
-    <title lang="en">La abeja Maya</title>
-    <desc lang="en">La pequeña abeja melífera Maya, junto con su amigo de la escuela Willi, el saltamontes Flip y la lombriz de tierra Max emprenden muchas aventuras emocionantes en los prados y bosques de los alrededores.(n)</desc>
-    <date>2012</date>
-  </programme>
   <programme start="20230108153000 +0000" stop="20230108183000 +0000" channel="Imagen TV">
     <title lang="en">Sale el sol para todos</title>
   </programme>
@@ -30027,11 +30845,6 @@
   <programme start="20230109235500 +0000" stop="20230110014000 +0000" channel="TVN (CHI)">
     <title lang="en">24 Horas Central</title>
     <desc lang="en">Noticiero central, con despachos en directo y corresponsalías en todo el mundo.(n)</desc>
-  </programme>
-  <programme start="20230108143000 +0000" stop="20230108153000 +0000" channel="Canal Uno (COL)">
-    <title lang="en">Él puede hacerlo de nuevo</title>
-    <desc lang="en">Ricardo y María Patricia Rodríguez del Centro Mundial de Avivamiento en Bogotá, Colombia, te invitan a disfrutar del poderoso mover del Espíritu Santo de Dios. Si hoy te encuentras afligido y sin esperanza, debes saber que la Palabra de Dios tiene poder y no volverá vacía, él la cumplirá.(n)</desc>
-    <date>2000</date>
   </programme>
   <programme start="20230108153000 +0000" stop="20230108163000 +0000" channel="Canal Uno (COL)">
     <title lang="en">Sailor Moon</title>
@@ -31029,10 +31842,6 @@
     <category lang="en">News</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11927066_i_s2_ab.jpg" />
   </programme>
-  <programme start="20230108150000 +0000" stop="20230108153000 +0000" channel="RCN Television">
-    <title lang="en">Chica vampiro</title>
-    <desc lang="en">Daisy sueña con una carrera de cantante pero tiene un impedimento, sus padres son vampiros.(n)</desc>
-  </programme>
   <programme start="20230108153000 +0000" stop="20230108173000 +0000" channel="RCN Television">
     <title lang="en">Alpha</title>
     <date>2022</date>
@@ -31151,11 +31960,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20230108131800 +0000" stop="20230108153900 +0000" channel="Golden Edge">
-    <title lang="en">Milagro en la celda 7</title>
-    <desc lang="en">Un hombre con discapacidad intelectual es injustamente acusado por un crimen que no cometió. En la sala 7 de la cárcel, él se esfuerza por demostrar que es inocente, para ganar su libertad y reencontrarse de nuevo con su hija. Sin embargo, debe enfrentar una serie de obstáculos.(n)</desc>
-    <date>2019</date>
-  </programme>
   <programme start="20230108153900 +0000" stop="20230108171800 +0000" channel="Golden Edge">
     <title lang="en">Siempre a tu lado</title>
     <desc lang="en">Cada mañana, el perro apodado «Hachiko» acompaña hasta la estación de tren a su amo, el profesor universitario Parker, para despedirle, y luego, cada tarde, regresa a la misma estación para recibirle al final de la jornada. Cuando esta rutina sin complicaciones sufre una interrupción, la naturaleza emocionalmente compleja de cuanto se desata es lo que convierte la historia de Hachiko en un cuento eterno.(n)</desc>
@@ -31271,14 +32075,6 @@
     <date>2010</date>
     <rating system="MPAA">
       <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230108143000 +0000" stop="20230108152000 +0000" channel="UNIVERSAL TV">
-    <title lang="en">House M.D</title>
-    <desc lang="en">House y el equipo reciben a Alicia, una joven muchacha que padece pancreatitis.Sus padres, divorciados, no se ponen de acuerdo en el tratamiento. Además, no permiten que House los obligue a tomar una decisión.(n)</desc>
-    <date>2004</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
     </rating>
   </programme>
   <programme start="20230108152000 +0000" stop="20230108161000 +0000" channel="UNIVERSAL TV">
@@ -31590,24 +32386,6 @@
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
-  </programme>
-  <programme start="20230108151200 +0000" stop="20230108153000 +0000" channel="Kids Street">
-    <title lang="en">P. King Duckling</title>
-    <sub-title lang="en">The Pig Who Fell to Earth</sub-title>
-    <desc lang="en">Adventures of an intrepid duck and his pals.(n)</desc>
-    <credits>
-      <director>Eddy Bo Fan</director>
-    </credits>
-    <date>2021</date>
-    <icon src="https://content.internetvideoarchive.com/content/photos/11379/713476_020.jpg" />
-    <rating system="MPAA">
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20230108153000 +0000" stop="20230108154100 +0000" channel="Kids Street">
-    <title lang="en">Rocka-bye Island</title>
-    <sub-title lang="en">Sorted</sub-title>
-    <date>2017</date>
   </programme>
   <programme start="20230108154100 +0000" stop="20230108155900 +0000" channel="Kids Street">
     <title lang="en">Rocka-bye Island</title>
@@ -32717,11 +33495,6 @@
     <desc lang="en">En 1929, Chiyo, una niña de nueve años de una familia empobrecida de un pueblito de pescadores, es vendida a una casa de geishas en el distrito Gion de Kioto en donde es sometida a un tratamiento cruel por parte de la dueña y de la geisha principal, Hatsumoto, que la cela terriblemente por su extraordinaria belleza, hasta que la rescata la más importante rival de Hatsumoto, Mameha, que la toma bajo su custodia.(n)</desc>
     <date>2005</date>
   </programme>
-  <programme start="20230108141500 +0000" stop="20230108154500 +0000" channel="BitMe">
-    <title lang="en">Un caballo llamado elefante</title>
-    <desc lang="en">Roberto es un joven tímido y fanático de las historietas de aventuras. Lalo, su hermano,.(n)</desc>
-    <date>2016</date>
-  </programme>
   <programme start="20230108154500 +0000" stop="20230108171500 +0000" channel="BitMe">
     <title lang="en">Buza Caperuza 2</title>
     <desc lang="en">Caperucita Roja investiga la misteriosa desaparición de un par de niños que parecen haber sido secuestrados por una bruja, Hansel y Gretel. Lo increíble es que Caperucita Roja y el Lobo deben investigar juntos el misterioso caso. Esta es una aventura animada inspirada en historias infantiles clásicas.(n)</desc>
@@ -32992,9 +33765,7 @@
     <date>2020</date>
   </programme>
   <programme start="20230109150100 +0000" stop="20230109160100 +0000" channel="Curiosity Stream">
-    <title lang="en">Detrás del artista</title>
-    <desc lang="en">Picasso: Crees conocerlo, pero ¿será así? Adéntrate en su profundo arte,.(n)</desc>
-    <date>2021</date>
+    <title lang="en">Detrás del artista (?)</title>
   </programme>
   <programme start="20230109160100 +0000" stop="20230109170000 +0000" channel="Curiosity Stream">
     <title lang="en">Comprendiendo a Frank Gehry</title>
@@ -33101,14 +33872,6 @@
     <title lang="en">Hallazgos novedosos</title>
     <desc lang="en">&gt;¿Cuán cerca estamos de que la infertilidad sea un problema del pasado?(n)</desc>
     <date>2021</date>
-  </programme>
-  <programme start="20230108151000 +0000" stop="20230108153500 +0000" channel="Dreamworks">
-    <title lang="en">Las épicas aventuras del Capitán Calzoncillos</title>
-    <desc lang="en">Jorge y Berto crean un nuevo personaje luego de recibir críticas de Érica por el cómic: una vampira que succiona la diversión de todo.(n)</desc>
-    <date>2018</date>
-    <rating system="MPAA">
-      <value>TV-Y7</value>
-    </rating>
   </programme>
   <programme start="20230108153500 +0000" stop="20230108160000 +0000" channel="Dreamworks">
     <title lang="en">El amanecer de los Croods</title>
@@ -33653,14 +34416,6 @@
     <date>2018</date>
     <rating system="MPAA">
       <value>TV-Y7</value>
-    </rating>
-  </programme>
-  <programme start="20230108150000 +0000" stop="20230108153000 +0000" channel="Hogar HGTV">
-    <title lang="en">Los caza minihogares</title>
-    <desc lang="en">Días antes de concretar su boda, Ben debe demostrar por qué se inscribió en la academia de policía: su cuñado James es detective y reniega de la valentía del futuro esposo de su hermana, así que lo pone a prueba. Lo llevará a patrullar en busca de un narcotraficante peligroso y James, lejos de amedrentar al muchacho, se sorprenderá con su habilidad en la oratoria para negociar con los delincuentes.(n)</desc>
-    <date>2016</date>
-    <rating system="MPAA">
-      <value>TV-G</value>
     </rating>
   </programme>
   <programme start="20230108153000 +0000" stop="20230108160000 +0000" channel="Hogar HGTV">
@@ -35180,11 +35935,6 @@
     <star-rating system="ICAA">
       <value>1.0</value>
     </star-rating>
-  </programme>
-  <programme start="20230108145500 +0000" stop="20230108155000 +0000" channel="Telehit Musica">
-    <title lang="en">Musicoterapia</title>
-    <desc lang="en">Un espacio que aborda diversos proyectos en materia de Medicina y Musica.(n)</desc>
-    <date>2007</date>
   </programme>
   <programme start="20230108155000 +0000" stop="20230108164500 +0000" channel="Telehit Musica">
     <title lang="en">Musicoterapia</title>
