@@ -1,5 +1,18 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="SundanceTV USA">
+    <display-name lang="en">SundanceTV USA</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/v2/s16108_h9_aa.png" />
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="CANAL 5">
+    <display-name lang="en">CANAL 5</display-name>
+    <url>http://www.tvguide.com</url>
+  </channel>
+  <channel id="Azteca 7">
+    <display-name lang="en">Azteca 7</display-name>
+    <url>http://www.tvguide.com</url>
+  </channel>
   <channel id="Cine Sony">
     <display-name lang="en">Cine Sony</display-name>
     <icon src="http://cdn.tvpassport.com/image/station/240x135/v2/s109720_h15_aa.png" />
@@ -459,12 +472,1027 @@
   <channel id="A3Series HD!">
     <display-name lang="es">A3Series HD.</display-name>
     <icon src="https://cdn.sincroguia.tv/uploads/images/v/5/n/xatresseries.jpg.pagespeed.ic.9ZIdKUT2Zo.jpg" />
-    <url>http://www.sincroguia-tv.expansion.com</url>
+    <url>http://www.sincroguia-tv.com.E</url>
   </channel>
   <channel id="Telehit Musica">
     <display-name lang="en">Telehit Musica.</display-name>
     <url>http://www.tvguide.com</url>
   </channel>
+  <programme start="20230108053000 -0500" stop="20230108063000 -0500" channel="SundanceTV USA">
+    <title lang="en">Monk</title>
+    <sub-title lang="en">Mr. Monk Meets the Candidate</sub-title>
+    <desc lang="en">Monk investigates the attempted assassination of a mayoral candidate.(n)</desc>
+    <credits>
+      <actor>Tony Shalhoub</actor>
+      <actor>Ted Levine</actor>
+      <actor>Bitty Schram</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p2689459_e_h8_ab.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230108063000 -0500" stop="20230108073000 -0500" channel="SundanceTV USA">
+    <title lang="en">Monk</title>
+    <sub-title lang="en">Mr. Monk Meets the Candidate</sub-title>
+    <desc lang="en">Monk investigates the attempted assassination of a mayoral candidate.(n)</desc>
+    <credits>
+      <actor>Tony Shalhoub</actor>
+      <actor>Ted Levine</actor>
+      <actor>Bitty Schram</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p2689460_e_h10_ab.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230108073000 -0500" stop="20230108083000 -0500" channel="SundanceTV USA">
+    <title lang="en">Monk</title>
+    <sub-title lang="en">Mr. Monk and the Psychic</sub-title>
+    <desc lang="en">Everyone except Monk thinks notorious hack psychic Dolly Flint has accomplished the impossible by discovering a murder victim's body.(n)</desc>
+    <credits>
+      <actor>Tony Shalhoub</actor>
+      <actor>Ted Levine</actor>
+      <actor>Bitty Schram</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p2689359_e_h10_ab.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230108083000 -0500" stop="20230108093000 -0500" channel="SundanceTV USA">
+    <title lang="en">Monk</title>
+    <sub-title lang="en">Mr. Monk Meets Dale the Whale</sub-title>
+    <desc lang="en">An 800-pound man (Adam Arkin) who has not left his bed in 11 years is accused of murdering a local judge.(n)</desc>
+    <credits>
+      <actor>Tony Shalhoub</actor>
+      <actor>Ted Levine</actor>
+      <actor>Bitty Schram</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p2689360_e_h10_ab.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230108093000 -0500" stop="20230108103000 -0500" channel="SundanceTV USA">
+    <title lang="en">Monk</title>
+    <sub-title lang="en">Mr. Monk Goes to the Carnival</sub-title>
+    <desc lang="en">A trip to an amusement park turns fatal as a detective and a mysterious informant get on a Ferris wheel; when the ride stops, the tipster is dead.(n)</desc>
+    <credits>
+      <actor>Tony Shalhoub</actor>
+      <actor>Ted Levine</actor>
+      <actor>Bitty Schram</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p2689361_e_h10_ab.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230108103000 -0500" stop="20230108113000 -0500" channel="SundanceTV USA">
+    <title lang="en">Monk</title>
+    <sub-title lang="en">Mr. Monk Goes to the Asylum</sub-title>
+    <desc lang="en">While temporarily institutionalized, Monk stumbles across an old unsolved murder, or his mind might be playing tricks on him. Dennis Boutsikaris and Kevin Nealon guest star.(n)</desc>
+    <credits>
+      <actor>Tony Shalhoub</actor>
+      <actor>Bitty Schram</actor>
+      <actor>Ted Levine</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p2689363_e_h10_ab.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230108113000 -0500" stop="20230108140000 -0500" channel="SundanceTV USA">
+    <title lang="en">Animal House</title>
+    <desc lang="en">Bluto (John Belushi), Otter and the rowdy Deltas make fools of the dean and the square Omegas at 1962 Faber College.(n)</desc>
+    <credits>
+      <actor>John Belushi</actor>
+      <actor>Kevin Bacon</actor>
+      <actor>Donald Sutherland</actor>
+    </credits>
+    <date>1978</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p3642_i_h10_ad.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+    <star-rating system="US">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20230108140000 -0500" stop="20230108163000 -0500" channel="SundanceTV USA">
+    <title lang="en">Rudy</title>
+    <desc lang="en">With heart and determination an Illinois youth (Sean Astin) tackles shortcomings to play Notre Dame football.(n)</desc>
+    <credits>
+      <actor>Sean Astin</actor>
+      <actor>Ned Beatty</actor>
+      <actor>Charles S. Dutton</actor>
+    </credits>
+    <date>1993</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p15066_i_h10_ab.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="US">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20230108163000 -0500" stop="20230108190000 -0500" channel="SundanceTV USA">
+    <title lang="en">Varsity Blues</title>
+    <desc lang="en">When the star quarterback (Paul Walker) is injured, a rigid high-school football coach (Jon Voight) expects an irreverent player (James Van Der Beek) to lead the team to victory.(n)</desc>
+    <credits>
+      <actor>James Van Der Beek</actor>
+      <actor>Jon Voight</actor>
+      <actor>Paul Walker</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="en">Movies</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p22060_p_v8_aq.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+    <star-rating system="US">
+      <value>2</value>
+    </star-rating>
+  </programme>
+  <programme start="20230108190000 -0500" stop="20230108210000 -0500" channel="SundanceTV USA">
+    <title lang="en">Rocky IV</title>
+    <desc lang="en">Champ Rocky Balboa (Sylvester Stallone) trains in Siberia for a bout against a lab-tested Soviet with a 2000-psi punch.(n)</desc>
+    <credits>
+      <actor>Sylvester Stallone</actor>
+      <actor>Talia Shire</actor>
+      <actor>Burt Young</actor>
+    </credits>
+    <date>1985</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8862_p_v12_ag.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="US">
+      <value>2</value>
+    </star-rating>
+  </programme>
+  <programme start="20230108210000 -0500" stop="20230108221400 -0500" channel="SundanceTV USA">
+    <title lang="en">Mayfair Witches</title>
+    <sub-title lang="en">The Witching Hour</sub-title>
+    <desc lang="en">Neurosurgeon Rowan Fielding has a problem -- when she gets mad, she kills with her mind; her search for answers sends her toward her secretive biological family; in New Orleans, Deirdre Mayfair is desperate to escape from her aunt's oppressive house.(n)</desc>
+    <credits>
+      <actor>Alexandra Daddario</actor>
+      <actor>Jack Huston</actor>
+      <actor>Tongai Arnold Chirisa</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p23584602_b_h8_ab.jpg" />
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20230108221400 -0500" stop="20230109001500 -0500" channel="SundanceTV USA">
+    <title lang="en">Rocky IV</title>
+    <desc lang="en">Champ Rocky Balboa (Sylvester Stallone) trains in Siberia for a bout against a lab-tested Soviet with a 2000-psi punch.(n)</desc>
+    <credits>
+      <actor>Sylvester Stallone</actor>
+      <actor>Talia Shire</actor>
+      <actor>Burt Young</actor>
+    </credits>
+    <date>1985</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8862_p_v12_ag.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="US">
+      <value>2</value>
+    </star-rating>
+  </programme>
+  <programme start="20230109001500 -0500" stop="20230109024500 -0500" channel="SundanceTV USA">
+    <title lang="en">Varsity Blues</title>
+    <desc lang="en">When the star quarterback (Paul Walker) is injured, a rigid high-school football coach (Jon Voight) expects an irreverent player (James Van Der Beek) to lead the team to victory.(n)</desc>
+    <credits>
+      <actor>James Van Der Beek</actor>
+      <actor>Jon Voight</actor>
+      <actor>Paul Walker</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="en">Movies</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p22060_p_v8_aq.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+    <star-rating system="US">
+      <value>2</value>
+    </star-rating>
+  </programme>
+  <programme start="20230109024500 -0500" stop="20230109040000 -0500" channel="SundanceTV USA">
+    <title lang="en">Perry Mason</title>
+    <sub-title lang="en">The Case of the Posthumous Painter</sub-title>
+    <desc lang="en">An artist fakes suicide to boost the value of his work, but the plot backfires when he is found murdered.(n)</desc>
+    <credits>
+      <actor>Raymond Burr</actor>
+      <actor>Barbara Hale</actor>
+      <actor>William Hopper</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184141_b_s2_aa.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230109040000 -0500" stop="20230109043000 -0500" channel="SundanceTV USA">
+    <title lang="en">The Andy Griffith Show</title>
+    <sub-title lang="en">Aunt Bee the Warden</sub-title>
+    <desc lang="en">The town drunk mends his ways after serving a jail term at Andy and Aunt Bee's home.(n)</desc>
+    <credits>
+      <actor>Andy Griffith</actor>
+      <actor>Ronny Howard</actor>
+      <actor>Don Knotts</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1023256_e_h10_ac.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230109043000 -0500" stop="20230109050000 -0500" channel="SundanceTV USA">
+    <title lang="en">The Andy Griffith Show</title>
+    <sub-title lang="en">The County Nurse</sub-title>
+    <desc lang="en">Andy is forced to exert all his persuasiveness to get a farmer to take a tetanus shot.(n)</desc>
+    <credits>
+      <actor>Andy Griffith</actor>
+      <actor>Ronny Howard</actor>
+      <actor>Don Knotts</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1023257_e_h10_ac.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20230109050000 -0500" stop="20230109053000 -0500" channel="SundanceTV USA">
+    <title lang="en">The Andy Griffith Show</title>
+    <sub-title lang="en">Andy and Barney in the Big City</sub-title>
+    <desc lang="en">Andy and Barney are involved in the capture of a jewel thief.(n)</desc>
+    <credits>
+      <actor>Andy Griffith</actor>
+      <actor>Ronny Howard</actor>
+      <actor>Don Knotts</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1023258_e_h10_ac.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20230109053000 -0500" stop="20230109060000 -0500" channel="SundanceTV USA">
+    <title lang="en">The Andy Griffith Show</title>
+    <sub-title lang="en">Wedding Bells for Aunt Bee</sub-title>
+    <desc lang="en">A misunderstanding leads Andy and Aunt Bee to believe that they are both anxious to get married.(n)</desc>
+    <credits>
+      <actor>Andy Griffith</actor>
+      <actor>Ronny Howard</actor>
+      <actor>Don Knotts</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1023259_e_h10_ac.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20230109060000 -0500" stop="20230109063000 -0500" channel="SundanceTV USA">
+    <title lang="en">The Andy Griffith Show</title>
+    <sub-title lang="en">Three's a Crowd</sub-title>
+    <desc lang="en">Romance blossoms for Andy and Mary Simpson, the county nurse, but love is blind to Barney.(n)</desc>
+    <credits>
+      <actor>Andy Griffith</actor>
+      <actor>Ronny Howard</actor>
+      <actor>Don Knotts</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1023260_e_s2_aa.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230109063000 -0500" stop="20230109070000 -0500" channel="SundanceTV USA">
+    <title lang="en">The Andy Griffith Show</title>
+    <sub-title lang="en">The Bookie Barber</sub-title>
+    <desc lang="en">Floyd the barber takes on an assistant who turns out to be a bookie.(n)</desc>
+    <credits>
+      <actor>Andy Griffith</actor>
+      <actor>Ronny Howard</actor>
+      <actor>Don Knotts</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1023262_e_s2_aa.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20230109070000 -0500" stop="20230109073000 -0500" channel="SundanceTV USA">
+    <title lang="en">The Andy Griffith Show</title>
+    <sub-title lang="en">Andy on Trial</sub-title>
+    <desc lang="en">Andy faces charges of misconduct in office when a disgruntled traffic offender seeks revenge.(n)</desc>
+    <credits>
+      <actor>Andy Griffith</actor>
+      <actor>Ronny Howard</actor>
+      <actor>Don Knotts</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1023263_e_s2_aa.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20230109073000 -0500" stop="20230109080000 -0500" channel="SundanceTV USA">
+    <title lang="en">The Andy Griffith Show</title>
+    <sub-title lang="en">Cousin Virgil</sub-title>
+    <desc lang="en">Barney's cousin Virgil overcomes his awkwardness as soon as he learns that people have confidence in him.(n)</desc>
+    <credits>
+      <actor>Andy Griffith</actor>
+      <actor>Ronny Howard</actor>
+      <actor>Don Knotts</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1023264_e_h10_ac.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20230109080000 -0500" stop="20230109083000 -0500" channel="SundanceTV USA">
+    <title lang="en">The Andy Griffith Show</title>
+    <sub-title lang="en">Deputy Otis</sub-title>
+    <desc lang="en">Otis overcomes his weakness for liquor and impresses his relatives when Andy makes him a temporary deputy.(n)</desc>
+    <credits>
+      <actor>Andy Griffith</actor>
+      <actor>Ronny Howard</actor>
+      <actor>Don Knotts</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1023265_e_s2_aa.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20230109083000 -0500" stop="20230109090000 -0500" channel="SundanceTV USA">
+    <title lang="en">The Andy Griffith Show</title>
+    <sub-title lang="en">Mr. McBeevee</sub-title>
+    <desc lang="en">When Opie starts talking about Mr. McBeevee, Andy and Barney suspect he has an imaginary friend.(n)</desc>
+    <credits>
+      <actor>Andy Griffith</actor>
+      <actor>Ronny Howard</actor>
+      <actor>Don Knotts</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1023268_e_h10_ac.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20230109090000 -0500" stop="20230109100000 -0500" channel="SundanceTV USA">
+    <title lang="en">Law &amp; Order: Criminal Intent</title>
+    <sub-title lang="en">Rispetto</sub-title>
+    <desc lang="en">The investigation of a call girl's murder leads Goren and Eames to a fashion designer.(n)</desc>
+    <credits>
+      <actor>Vincent Phillip D'Onofrio</actor>
+      <actor>Kathryn Erbe</actor>
+      <actor>Jay O. Sanders</actor>
+    </credits>
+    <category lang="en">Docu-Series</category>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184724_b_v8_au.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20230109100000 -0500" stop="20230109110000 -0500" channel="SundanceTV USA">
+    <title lang="en">Law &amp; Order: Criminal Intent</title>
+    <sub-title lang="en">The Consoler</sub-title>
+    <desc lang="en">Goren and Eames investigate the suspicious suicide of a successful Wall Street banker.(n)</desc>
+    <credits>
+      <actor>Vincent Phillip D'Onofrio</actor>
+      <actor>Kathryn Erbe</actor>
+      <actor>Jay O. Sanders</actor>
+    </credits>
+    <category lang="en">Docu-Series</category>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8621809_e_h11_ad.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20230109110000 -0500" stop="20230109120000 -0500" channel="SundanceTV USA">
+    <title lang="en">Law &amp; Order: Criminal Intent</title>
+    <sub-title lang="en">Boots on the Ground</sub-title>
+    <desc lang="en">Goren and Eames discover a feud between two private security companies when a man is thrown off a building.(n)</desc>
+    <credits>
+      <actor>Vincent Phillip D'Onofrio</actor>
+      <actor>Kathryn Erbe</actor>
+      <actor>Jay O. Sanders</actor>
+    </credits>
+    <category lang="en">Docu-Series</category>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184724_b_v8_au.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20230109120000 -0500" stop="20230109130000 -0500" channel="SundanceTV USA">
+    <title lang="en">Law &amp; Order: Criminal Intent</title>
+    <sub-title lang="en">The Last Street in Manhattan</sub-title>
+    <desc lang="en">Detectives Goren and Eames investigate the killing of an investment banker.(n)</desc>
+    <credits>
+      <actor>Vincent Phillip D'Onofrio</actor>
+      <actor>Kathryn Erbe</actor>
+      <actor>Jay O. Sanders</actor>
+    </credits>
+    <category lang="en">Docu-Series</category>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184724_b_v8_au.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20230109130000 -0500" stop="20230109140000 -0500" channel="SundanceTV USA">
+    <title lang="en">Law &amp; Order: Criminal Intent</title>
+    <sub-title lang="en">Trophy Wine</sub-title>
+    <desc lang="en">The detectives investigate the murder of a wine importer who recently presented a rare discovery.(n)</desc>
+    <credits>
+      <actor>Vincent Phillip D'Onofrio</actor>
+      <actor>Kathryn Erbe</actor>
+      <actor>Jay O. Sanders</actor>
+    </credits>
+    <category lang="en">Docu-Series</category>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184724_b_v8_au.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20230109140000 -0500" stop="20230109150000 -0500" channel="SundanceTV USA">
+    <title lang="en">Law &amp; Order: Criminal Intent</title>
+    <sub-title lang="en">Cadaver</sub-title>
+    <desc lang="en">A philanthropist goes missing after announcing the winner of his research grant.(n)</desc>
+    <credits>
+      <actor>Vincent Phillip D'Onofrio</actor>
+      <actor>Kathryn Erbe</actor>
+      <actor>Jay O. Sanders</actor>
+    </credits>
+    <category lang="en">Docu-Series</category>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184724_b_v8_au.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20230109150000 -0500" stop="20230109160000 -0500" channel="SundanceTV USA">
+    <title lang="en">NCIS</title>
+    <sub-title lang="en">Shabbat Shalom</sub-title>
+    <desc lang="en">As the team investigates a connection between a dead journalist and a Navy petty officer, Ziva is surprised by a visit from her father (Michael Nouri).(n)</desc>
+    <credits>
+      <actor>Mark Harmon</actor>
+      <actor>Michael Weatherly</actor>
+      <actor>Cote de Pablo</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184930_b_v12_dr.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20230109160000 -0500" stop="20230109170000 -0500" channel="SundanceTV USA">
+    <title lang="en">NCIS</title>
+    <sub-title lang="en">Shiva</sub-title>
+    <desc lang="en">After an event that hits close to home, the team unites to find answers and protect vulnerable colleagues.(n)</desc>
+    <credits>
+      <actor>Mark Harmon</actor>
+      <actor>Michael Weatherly</actor>
+      <actor>Cote de Pablo</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184930_b_v12_dr.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20230109170000 -0500" stop="20230109180000 -0500" channel="SundanceTV USA">
+    <title lang="en">NCIS</title>
+    <sub-title lang="en">Hit and Run</sub-title>
+    <desc lang="en">The investigation into a car accident that killed a Marine and a young woman brings up upsetting childhood memories for Abby; Ducky says the crash may not have been an accident.(n)</desc>
+    <credits>
+      <actor>Mark Harmon</actor>
+      <actor>Michael Weatherly</actor>
+      <actor>Cote de Pablo</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9697133_e_h8_ab.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230109180000 -0500" stop="20230109190000 -0500" channel="SundanceTV USA">
+    <title lang="en">NCIS</title>
+    <sub-title lang="en">Canary</sub-title>
+    <desc lang="en">The NCIS team finds an infamous hacker who could lead them to the world's most wanted cyber terrorist.(n)</desc>
+    <credits>
+      <actor>Mark Harmon</actor>
+      <actor>Michael Weatherly</actor>
+      <actor>Cote de Pablo</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9697177_e_h10_ab.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20230109190000 -0500" stop="20230109200000 -0500" channel="SundanceTV USA">
+    <title lang="en">NCIS</title>
+    <sub-title lang="en">Hereafter</sub-title>
+    <desc lang="en">While on leave as he mourns the loss of his wife, Director Vance uncovers information that makes him question everything.(n)</desc>
+    <credits>
+      <actor>Mark Harmon</actor>
+      <actor>Michael Weatherly</actor>
+      <actor>Cote de Pablo</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184930_b_v12_dr.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230109200000 -0500" stop="20230109210000 -0500" channel="SundanceTV USA">
+    <title lang="en">NCIS</title>
+    <sub-title lang="en">Detour</sub-title>
+    <desc lang="en">When Jimmy and Ducky disappear while transporting a body from a crime scene, the team races to find them.(n)</desc>
+    <credits>
+      <actor>Mark Harmon</actor>
+      <actor>Michael Weatherly</actor>
+      <actor>Cote de Pablo</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184930_b_v12_dr.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20230109210000 -0500" stop="20230109220000 -0500" channel="SundanceTV USA">
+    <title lang="en">Law &amp; Order</title>
+    <sub-title lang="en">Extended Family</sub-title>
+    <desc lang="en">When a Broadway director is accused of molesting his 5-year-old daughter, a social welfare activist abducts the child under the guise of protecting her.(n)</desc>
+    <credits>
+      <actor>Jerry Orbach</actor>
+      <actor>Chris Noth</actor>
+      <actor>Dann Florek</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p183983_b_v12_bo.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20230109220000 -0500" stop="20230109230000 -0500" channel="SundanceTV USA">
+    <title lang="en">NCIS</title>
+    <sub-title lang="en">Prime Suspect</sub-title>
+    <desc lang="en">Gibbs' barber asks for help when he suspects his son is involved in a high-profile crime; the team looks into the disappearance of Navy funds.(n)</desc>
+    <credits>
+      <actor>Mark Harmon</actor>
+      <actor>Michael Weatherly</actor>
+      <actor>Cote de Pablo</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9773875_e_h8_ad.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230109230000 -0500" stop="20230110000000 -0500" channel="SundanceTV USA">
+    <title lang="en">NCIS</title>
+    <sub-title lang="en">Seek</sub-title>
+    <desc lang="en">A woman asks the NCIS team to investigate the death of her husband, a Marine who specialized in K-9 bomb detection; Vance interviews nannies.(n)</desc>
+    <credits>
+      <actor>Mark Harmon</actor>
+      <actor>Michael Weatherly</actor>
+      <actor>Cote de Pablo</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9780534_e_h10_ab.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20230108163000 +0000" stop="20230108180000 +0000" channel="CANAL 5">
+    <title lang="en">Los Osos Boonie: Fantástica</title>
+    <desc lang="en">Harto de su desdicha y su vida sin emociones, un oso se une al circo para cambiar su rutina. Allí conocerá a Hugo el gorila, a cargo de todo, y se hará de nuevos amigos, con los que se sentirá plenamente feliz. Sin embargo, su hermano y sus amigos del bosque, preocupados por su ausencia, emprenden su búsqueda desesperada. Hasta que una noche lo encuentran en plena actuación. El problema será convencerlo para que regrese con ellos.(n)</desc>
+    <date>2016</date>
+  </programme>
+  <programme start="20230108180000 +0000" stop="20230108194500 +0000" channel="CANAL 5">
+    <title lang="en">Koala Kid</title>
+    <desc lang="en">Un koala albino debe salvar a su casa después de cocodrilo malvado, pero primero se convierte en una estrella en una feria ambulante por su aspecto inusual.(n)</desc>
+    <date>2012</date>
+  </programme>
+  <programme start="20230108194500 +0000" stop="20230108214500 +0000" channel="CANAL 5">
+    <title lang="en">Liberen a Willy: El Gran Escape</title>
+    <desc lang="en">El destino de una ballena orca está en las manos de una niña quien promete reunirla con su manada después de haberla encontrado perdida en aguas cercanas al parque de diversiones abandonado de su abuelo.(n)</desc>
+    <date>2010</date>
+  </programme>
+  <programme start="20230108214500 +0000" stop="20230108233000 +0000" channel="CANAL 5">
+    <title lang="en">Liberen a Willy 3: El rescate</title>
+    <desc lang="en">Un adolescente lucha contra unos cazadores furtivos que acechan a las ballenas.(n)</desc>
+    <date>1997</date>
+  </programme>
+  <programme start="20230108233000 +0000" stop="20230109014500 +0000" channel="CANAL 5">
+    <title lang="en">En el corazón del mar (new)</title>
+    <desc lang="en">En el invierno de 1820, el ballenero Essex, de Nueva Inglaterra, fue atacado por algo que nadie podía creer: una ballena enorme y decidida como un mamut, y con un sentido de venganza casi humano. La tripulación sobreviviente es llevada a los extremos.(n)</desc>
+    <date>2015</date>
+    <premiere />
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20230109014500 +0000" stop="20230109034500 +0000" channel="CANAL 5">
+    <title lang="en">Furia de titanes</title>
+    <desc lang="en">En esta fantástica aventura basada en la mitología griega, un valiente guerrero llamado Perseo jura derrotar a Hades para prevenir que el dios del bajo mundo derroque a Zeus, y convierta a la Tierra en un infierno viviente. Perseo, un hombre de orígenes divinos, observa con agonía como Hades toma a su familia, pero ahora, con un pequeño grupo de guerreros de su lado, pelea contra míticas critaturas mientras aprende a manejar sus habilidades superiores que controlan su propio destino.(n)</desc>
+    <date>2010</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20230109034500 +0000" stop="20230109060000 +0000" channel="CANAL 5">
+    <title lang="en">Kong: La Isla Calavera</title>
+    <desc lang="en">Una tupida y peligrosa selva, ubicada en el corazón de una remota isla perdida del océano Pacífico es el objetivo de un grupo de valientes exploradores, que llegan hasta allí entusiasmados con su misión. Sin embargo, no tuvieron en cuenta que ese territorio es dominado por el mítico Kong, que sentirá la presencia de los extraños como una amenaza.(n)</desc>
+    <date>2017</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20230109060000 +0000" stop="20230109063000 +0000" channel="CANAL 5">
+    <title lang="en">Inova</title>
+    <desc lang="en">Promoción y venta de productos, así como también servicios. Ofrece los mejores precios,.(n)</desc>
+  </programme>
+  <programme start="20230109063000 +0000" stop="20230109070000 +0000" channel="CANAL 5">
+    <title lang="en">Inova</title>
+    <desc lang="en">Promoción y venta de productos, así como también servicios. Ofrece los mejores precios,.(n)</desc>
+  </programme>
+  <programme start="20230109070000 +0000" stop="20230109073000 +0000" channel="CANAL 5">
+    <title lang="en">Inova</title>
+    <desc lang="en">Promoción y venta de productos, así como también servicios. Ofrece los mejores precios,.(n)</desc>
+  </programme>
+  <programme start="20230109073000 +0000" stop="20230109080000 +0000" channel="CANAL 5">
+    <title lang="en">Inova</title>
+    <desc lang="en">Promoción y venta de productos, así como también servicios. Ofrece los mejores precios,.(n)</desc>
+  </programme>
+  <programme start="20230109080000 +0000" stop="20230109083000 +0000" channel="CANAL 5">
+    <title lang="en">C.V. Directo</title>
+    <desc lang="en">Este espacio de tele ventas ha sido creado con el propósito de aportar soluciones para todas las personas que tengan preguntas sobre salud, pérdida de peso, artículos de novedad y para relajamiento y todos los productos que nos han caracterizado durante muchos años a través de la televisión.(n)</desc>
+  </programme>
+  <programme start="20230109083000 +0000" stop="20230109090000 +0000" channel="CANAL 5">
+    <title lang="en">C.V. Directo</title>
+    <desc lang="en">Este espacio de tele ventas ha sido creado con el propósito de aportar soluciones para todas las personas que tengan preguntas sobre salud, pérdida de peso, artículos de novedad y para relajamiento y todos los productos que nos han caracterizado durante muchos años a través de la televisión.(n)</desc>
+  </programme>
+  <programme start="20230109090000 +0000" stop="20230109093000 +0000" channel="CANAL 5">
+    <title lang="en">C.V. Directo</title>
+    <desc lang="en">Este espacio de tele ventas ha sido creado con el propósito de aportar soluciones para todas las personas que tengan preguntas sobre salud, pérdida de peso, artículos de novedad y para relajamiento y todos los productos que nos han caracterizado durante muchos años a través de la televisión.(n)</desc>
+  </programme>
+  <programme start="20230109093000 +0000" stop="20230109100000 +0000" channel="CANAL 5">
+    <title lang="en">C.V. Directo</title>
+    <desc lang="en">Este espacio de tele ventas ha sido creado con el propósito de aportar soluciones para todas las personas que tengan preguntas sobre salud, pérdida de peso, artículos de novedad y para relajamiento y todos los productos que nos han caracterizado durante muchos años a través de la televisión.(n)</desc>
+  </programme>
+  <programme start="20230109100000 +0000" stop="20230109103000 +0000" channel="CANAL 5">
+    <title lang="en">C.V. Directo</title>
+    <desc lang="en">Este espacio de tele ventas ha sido creado con el propósito de aportar soluciones para todas las personas que tengan preguntas sobre salud, pérdida de peso, artículos de novedad y para relajamiento y todos los productos que nos han caracterizado durante muchos años a través de la televisión.(n)</desc>
+  </programme>
+  <programme start="20230109103000 +0000" stop="20230109110000 +0000" channel="CANAL 5">
+    <title lang="en">Especial de R.T.C.</title>
+    <desc lang="en">Espacio televisivo en el que se presenta contenido para público de todas las edades. Además, se incluyen temas de interés general que se muestran en diferentes entrevistas, discusiones y debates, con expertos que le transmiten a los espectadores una visión más amplia y un buen aprendizaje.(n)</desc>
+  </programme>
+  <programme start="20230109110000 +0000" stop="20230109113000 +0000" channel="CANAL 5">
+    <title lang="en">Inova</title>
+    <desc lang="en">Promoción y venta de productos, así como también servicios. Ofrece los mejores precios,.(n)</desc>
+  </programme>
+  <programme start="20230109113000 +0000" stop="20230109120000 +0000" channel="CANAL 5">
+    <title lang="en">Inova</title>
+    <desc lang="en">Promoción y venta de productos, así como también servicios. Ofrece los mejores precios,.(n)</desc>
+  </programme>
+  <programme start="20230109120000 +0000" stop="20230109123000 +0000" channel="CANAL 5">
+    <title lang="en">C.V. Directo</title>
+    <desc lang="en">Este espacio de tele ventas ha sido creado con el propósito de aportar soluciones para todas las personas que tengan preguntas sobre salud, pérdida de peso, artículos de novedad y para relajamiento y todos los productos que nos han caracterizado durante muchos años a través de la televisión.(n)</desc>
+  </programme>
+  <programme start="20230109123000 +0000" stop="20230109130000 +0000" channel="CANAL 5">
+    <title lang="en">Peter Rabbit (new)</title>
+    <desc lang="en">Peter es un conejo de seis años que vive junto a su madre debajo de un enorme árbol, en una madriguera escondida. Con el diario de su padre y la compañia de sus dos mejores amigos, Benjamin y Lily, Peter parte para tener grandes aventuras.(n)</desc>
+    <date>2012</date>
+    <premiere />
+  </programme>
+  <programme start="20230109130000 +0000" stop="20230109132500 +0000" channel="CANAL 5">
+    <title lang="en">Baby Shark's Big Show</title>
+    <desc lang="en">Baby Shark y el pez William emprenden varias aventuras en su comunidad de Carnivore Cove.(n)</desc>
+    <date>2020</date>
+  </programme>
+  <programme start="20230109133000 +0000" stop="20230109140000 +0000" channel="CANAL 5">
+    <title lang="en">Rusty Rivets</title>
+    <desc lang="en">Rusty Rivets utiliza su conocimiento de ingeniería para reutilizar piezas de máquinas y otros objetos que encuentra con el fin de crear algunos de los más impresionantes inventos, una de sus primeras realizaciones es un dinosaurio robótico...(n)</desc>
+    <date>2016</date>
+  </programme>
+  <programme start="20230109140000 +0000" stop="20230109143000 +0000" channel="CANAL 5">
+    <title lang="en">Peppa Pig</title>
+    <desc lang="en">No te pierdas ninguna de las aventuras que Peppa Pig tiene para compartir contigo. Alegre, compañera, ingeniosa, divertida y ocurrente, a ella le encanta jugar con su pequeño hermano George y también pasear junto a Papá y Mamá Pig. Cada día, una nueva historia la espera.(n)</desc>
+    <date>2011</date>
+    <rating system="MPAA">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20230109143000 +0000" stop="20230109150000 +0000" channel="CANAL 5">
+    <title lang="en">PJ Masks: héroes en pijamas</title>
+    <desc lang="en">Gatuno, Buhíta y Gekko, tres niños de seis años que llevan vidas normales durante el día, por la noche activan sus pulseras que se vinculan a sus pijamas y se convierten en superhéroes.(n)</desc>
+    <date>2015</date>
+  </programme>
+  <programme start="20230109150000 +0000" stop="20230109160000 +0000" channel="CANAL 5">
+    <title lang="en">El Ascenso de las Tortugas Ninja</title>
+    <desc lang="en">En las Profundidades de las Alcantarillas de la Ciudad de Nueva York, Leonardo, Rafael, Donatelo y Miguel Ángel son cuatro tortugas adolescentes mutantes que van de aventura en aventura aprovechando sus nuevos poderes místicos que nunca habrían imaginado tener, mientras aprenden a trabajar juntos y navegan los peligros de la era moderna y los reinos ocultos para cumplir su destino de conviértete en un equipo de héroes.(n)</desc>
+    <date>2018</date>
+    <rating system="MPAA">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20230109160000 +0000" stop="20230109170000 +0000" channel="CANAL 5">
+    <title lang="en">Las aventuras del Gato con Botas</title>
+    <desc lang="en">Serie que cuenta las aventuras del Gato con Botas, basada en el personaje de Shrek.(n)</desc>
+    <date>2015</date>
+    <rating system="MPAA">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20230109170000 +0000" stop="20230109180000 +0000" channel="CANAL 5">
+    <title lang="en">El show de Tom y Jerry</title>
+    <desc lang="en">Tom y Jerry vivirán nuevas y divertidísimas aventuras mientras pelean por su territorio.(n)</desc>
+    <date>2014</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20230109180000 +0000" stop="20230109190000 +0000" channel="CANAL 5">
+    <title lang="en">Pingüinos de Madagascar</title>
+    <desc lang="en">Diviértete con los personajes más queribles del Zoológico del Central Park, en Nueva York. Los pingüinos más increíbles, talentosos e ingeniosos del mundo están dispuestos a vivir un sinfín de aventuras e historias junto a sus amigos, con quienes realizarán, también, muchas travesuras.(n)</desc>
+    <date>2008</date>
+    <rating system="MPAA">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20230109190000 +0000" stop="20230109200000 +0000" channel="CANAL 5">
+    <title lang="en">The Loud House</title>
+    <desc lang="en">Lincoln Loud, un niño de 11 años que vive en una casa con sus 10 hermanas, tiene que tratar de sobrevivir entre ellas ideando soluciones ingeniosas a los problemas y el caos que se vive en la casa de los Loud.(n)</desc>
+    <date>2016</date>
+    <rating system="MPAA">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20230109200000 +0000" stop="20230109210000 +0000" channel="CANAL 5">
+    <title lang="en">Miraculous: Las aventuras de ladybug</title>
+    <desc lang="en">Marinete y Adrien son dos estudiantes de secundaria con una diferencia: ¡son los elegidos para salvar a París del mal! Se les encomendó una misión importante: capturar akumas, las criaturas responsables de convertir a personas normales en supervillanos.(n)</desc>
+    <date>2018</date>
+    <rating system="MPAA">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20230109210000 +0000" stop="20230109220000 +0000" channel="CANAL 5">
+    <title lang="en">Bob Esponja</title>
+    <desc lang="en">Bob, una esponja cuadrada y amarilla que junto a su mejor amigo Patricio tienen muchas aventuras en el Fondo de Bikini, la ciudad en la que viven, en el fondo del mar. Bob Esponja vive en una piña, con su mascota caracol Gary, adora su trabajo como cocinero en el restaurante el Crustáceo Cascarudo y posee la gran habilidad de meterse en todo tipo de problemas sin quererlo, Cuando no está poniéndole los nervios de punta a su vecino malhumorado, Calamardo.(n)</desc>
+    <rating system="MPAA">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20230109220000 +0000" stop="20230109230000 +0000" channel="CANAL 5">
+    <title lang="en">100 cosas que hacer antes de High School</title>
+    <desc lang="en">Sigue las aventuras de tres amigos mientras navegan los altibajos de la escuela secundaria.(n)</desc>
+  </programme>
+  <programme start="20230109230000 +0000" stop="20230110001500 +0000" channel="CANAL 5">
+    <title lang="en">La CQ</title>
+    <desc lang="en">Serie cómica que muestra la vida de un grupo de jóvenes que asisten a la secundaria, donde se encontrarán con el primer amor, descubrirán el verdadero significado de la amistad y verán quién es el más ingenioso para hacer trampa en el examen.(n)</desc>
+    <date>2012</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20230108160000 +0000" stop="20230108164500 +0000" channel="Azteca 7">
+    <title lang="en">My Little Pony: la magia de la amistad</title>
+    <desc lang="en">Twilight Sparkle, discípula de la princesa Celestia, descubrirá la fuerza de la amistad.(n)</desc>
+    <date>2019</date>
+  </programme>
+  <programme start="20230108164500 +0000" stop="20230108184500 +0000" channel="Azteca 7">
+    <title lang="en">Romance en África (new)</title>
+    <desc lang="en">Kira se entera de que ha heredado una reserva de animales en Sudáfrica. Allí se enfrentará a la decisión de venderla o no, pero Tom, el jefe de los guardabosques, intentará que se enamore de la tierra, de los animales y, por qué no, de él.(n)</desc>
+    <date>2018</date>
+    <premiere />
+  </programme>
+  <programme start="20230108184500 +0000" stop="20230108210000 +0000" channel="Azteca 7">
+    <title lang="en">Jamás Besada</title>
+    <desc lang="en">En esta comedia romántica, una joven redactora de un periódico de Chicago (Drew Barrymore) revive su adolescencia, haciéndose pasar por una estudiante de una secundaria local para realizar una misión secreta. La chica, quien tiene 25 años, acepta la tarea de mala gana, recordando que sus días en la secundaria fueron imposibles. David Arquette, Michael Vartan, Molly Shannon, Leelee Sobieski.(n)</desc>
+    <date>1999</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20230108210000 +0000" stop="20230108231500 +0000" channel="Azteca 7">
+    <title lang="en">Golpe de Suerte</title>
+    <desc lang="en">Fantasía cómica acerca de una joven (Lindsay Lohan) cuya buena fortuna es inexplicablemente cambiada tras besar a un chico con mala suerte en una fiesta de disfraces.(n)</desc>
+    <date>2006</date>
+  </programme>
+  <programme start="20230108231500 +0000" stop="20230109013000 +0000" channel="Azteca 7">
+    <title lang="en">Sin escape (new)</title>
+    <desc lang="en">Brent Magna es un conductor de coches de carreras que se ve abocado a tomar las riendas de una misión cuando su esposa es secuestrada. Brent contará con la ayuda de una joven 'hacker', pero su única esperanza de salvar a su esposa será seguir las órdenes de la misteriosa voz que vigila todos sus movimientos mediante cámaras montadas en el coche de Brent.(n)</desc>
+    <date>2013</date>
+    <premiere />
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20230109013000 +0000" stop="20230109034500 +0000" channel="Azteca 7">
+    <title lang="en">Crepúsculo la saga: Amanecer Parte 1</title>
+    <desc lang="en">Bella finalmente toma su decisión y está a punto de casarse con Edward, pero una serie de traiciones e infortunios amenaza con destruir todo. Después de la boda, Bella y Edward se van a Río de Janeiro para su luna de miel. Edward decide cumplir su promesa de inmortalizar a Bella, pero cuando Bella descubre que está embarazada, la guerra entre los Cullen y los Volturi comienza de nuevo.(n)</desc>
+    <date>2011</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20230109034500 +0000" stop="20230109060000 +0000" channel="Azteca 7">
+    <title lang="en">Crepúsculo la saga: Amanecer Parte 2</title>
+    <desc lang="en">Bella está finalizando su transformación en vampiro y debe adaptarse a su nueva condición. Además, los Volturi amenazan a su familia pues prohiben convertir a niños. Por eso, Bella y Edward junto a Jacob lucharán juntos contra este antiguo grupo de vampiros que amenaza con destruir la familia de Bella y Edward.(n)</desc>
+    <date>2012</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20230109060400 +0000" stop="20230109063000 +0000" channel="Azteca 7">
+    <title lang="en">Farmacias de Similares</title>
+    <desc lang="en">Promociones y descuentos de la cadena farmacéutica líder en ventas y distribución. Tanto en México como en el resto de América Latina. En este infomercial encontrarás los medicamentos genéricos de la más alta calidad a los mejores precios.(n)</desc>
+  </programme>
+  <programme start="20230109063000 +0000" stop="20230109070000 +0000" channel="Azteca 7">
+    <title lang="en">C.V. Directo</title>
+    <desc lang="en">Este espacio de tele ventas ha sido creado con el propósito de aportar soluciones para todas las personas que tengan preguntas sobre salud, pérdida de peso, artículos de novedad y para relajamiento y todos los productos que nos han caracterizado durante muchos años a través de la televisión.(n)</desc>
+  </programme>
+  <programme start="20230109070000 +0000" stop="20230109073000 +0000" channel="Azteca 7">
+    <title lang="en">C.V. Directo</title>
+    <desc lang="en">Este espacio de tele ventas ha sido creado con el propósito de aportar soluciones para todas las personas que tengan preguntas sobre salud, pérdida de peso, artículos de novedad y para relajamiento y todos los productos que nos han caracterizado durante muchos años a través de la televisión.(n)</desc>
+  </programme>
+  <programme start="20230109073000 +0000" stop="20230109080000 +0000" channel="Azteca 7">
+    <title lang="en">C.V. Directo</title>
+    <desc lang="en">Este espacio de tele ventas ha sido creado con el propósito de aportar soluciones para todas las personas que tengan preguntas sobre salud, pérdida de peso, artículos de novedad y para relajamiento y todos los productos que nos han caracterizado durante muchos años a través de la televisión.(n)</desc>
+  </programme>
+  <programme start="20230109080000 +0000" stop="20230109083000 +0000" channel="Azteca 7">
+    <title lang="en">C.V. Directo</title>
+    <desc lang="en">Este espacio de tele ventas ha sido creado con el propósito de aportar soluciones para todas las personas que tengan preguntas sobre salud, pérdida de peso, artículos de novedad y para relajamiento y todos los productos que nos han caracterizado durante muchos años a través de la televisión.(n)</desc>
+  </programme>
+  <programme start="20230109083000 +0000" stop="20230109090000 +0000" channel="Azteca 7">
+    <title lang="en">Inova</title>
+    <desc lang="en">Promoción y venta de productos, así como también servicios. Ofrece los mejores precios,.(n)</desc>
+  </programme>
+  <programme start="20230109090000 +0000" stop="20230109093000 +0000" channel="Azteca 7">
+    <title lang="en">Inova</title>
+    <desc lang="en">Promoción y venta de productos, así como también servicios. Ofrece los mejores precios,.(n)</desc>
+  </programme>
+  <programme start="20230109093000 +0000" stop="20230109100000 +0000" channel="Azteca 7">
+    <title lang="en">Inova</title>
+    <desc lang="en">Promoción y venta de productos, así como también servicios. Ofrece los mejores precios,.(n)</desc>
+  </programme>
+  <programme start="20230109100000 +0000" stop="20230109103000 +0000" channel="Azteca 7">
+    <title lang="en">Inova</title>
+    <desc lang="en">Promoción y venta de productos, así como también servicios. Ofrece los mejores precios,.(n)</desc>
+  </programme>
+  <programme start="20230109103000 +0000" stop="20230109105500 +0000" channel="Azteca 7">
+    <title lang="en">Inova</title>
+    <desc lang="en">Promoción y venta de productos, así como también servicios. Ofrece los mejores precios,.(n)</desc>
+  </programme>
+  <programme start="20230109110000 +0000" stop="20230109111500 +0000" channel="Azteca 7">
+    <title lang="en">Barras de ajuste</title>
+    <date>2010</date>
+  </programme>
+  <programme start="20230109111500 +0000" stop="20230109113000 +0000" channel="Azteca 7">
+    <title lang="en">RTC</title>
+    <desc lang="en">Reporte de la Dirección General de Radio, Televisión y Cinematografía de México. La misma es la unidad administrativa encargada de ejercer las atribuciones que las leyes y reglamentos le confieren a la Secretaría de Gobernación en materia de radio, televisión y cinematografía.(n)</desc>
+    <date>2017</date>
+  </programme>
+  <programme start="20230109113000 +0000" stop="20230109120000 +0000" channel="Azteca 7">
+    <title lang="en">Marcas de renombre</title>
+    <desc lang="en">Espacio para la promoción y venta de los productos que están causando sensación en México.(n)</desc>
+  </programme>
+  <programme start="20230109120000 +0000" stop="20230109123000 +0000" channel="Azteca 7">
+    <title lang="en">El reino infantil</title>
+    <desc lang="en">Un divertido recorrido por el Zoológico y las hermosas especies que lo habitan.(n)</desc>
+  </programme>
+  <programme start="20230109123000 +0000" stop="20230109130000 +0000" channel="Azteca 7">
+    <title lang="en">Plaza Sésamo</title>
+    <desc lang="en">Programa infantil educativo, famoso mundialmente por sus personajes. Los niños aprenden números y letras a través de juegos y canciones.(n)</desc>
+    <date>1973</date>
+    <rating system="MPAA">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20230109130000 +0000" stop="20230109133000 +0000" channel="Azteca 7">
+    <title lang="en">Plaza Sésamo</title>
+    <desc lang="en">Programa infantil educativo, famoso mundialmente por sus personajes. Los niños aprenden números y letras a través de juegos y canciones.(n)</desc>
+    <date>1973</date>
+    <rating system="MPAA">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20230109133000 +0000" stop="20230109140000 +0000" channel="Azteca 7">
+    <title lang="en">Vamos Pocoyo</title>
+    <desc lang="en">Pocoyó es un niño pequeño que a veces ríe, otras llora y le gusta jugar y divertirse. Todo lo que hay en su vida es nuevo y emocionante. Pocoyó es un niño muy curioso que, junto a sus amigos, se embarcará en un sinfín de aventuras en un mundo que está empezando a descubrir.(n)</desc>
+    <date>2006</date>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20230109140000 +0000" stop="20230109143000 +0000" channel="Azteca 7">
+    <title lang="en">Octonautas</title>
+    <desc lang="en">La Nave B se rompe en una tormenta, pero las habilidades del Capitán Polar no pueden salvarla. Afortunadamente, una cadena de langostas de arrecife están listas para ayudar. Más tarde, la Nave A es atacada por un calamar gigante, que arrastra al equipo hacia una trinchera.(n)</desc>
+    <date>2010</date>
+    <rating system="MPAA">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20230109143000 +0000" stop="20230109150000 +0000" channel="Azteca 7">
+    <title lang="en">Bluey</title>
+    <desc lang="en">Siguiendo las aventuras de un inagotable cachorro de Blue Heeler que usa su energía ilimitada para jugar juegos elaborados que se desarrollan de maneras impredecibles e hilarantes.(n)</desc>
+    <date>2019</date>
+    <rating system="MPAA">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20230109150000 +0000" stop="20230109160000 +0000" channel="Azteca 7">
+    <title lang="en">My Little Pony: la magia de la amistad</title>
+    <desc lang="en">Twilight Sparkle, discípula de la princesa Celestia, descubrirá la fuerza de la amistad.(n)</desc>
+    <date>2019</date>
+  </programme>
+  <programme start="20230109160000 +0000" stop="20230109170000 +0000" channel="Azteca 7">
+    <title lang="en">Power Rangers: Dino Fury</title>
+    <desc lang="en">Alienígenas llegan a la Tierra y un nuevo equipo de Power Rangers se prepara para enfrentarlos.(n)</desc>
+    <date>2021</date>
+  </programme>
+  <programme start="20230109170000 +0000" stop="20230109180000 +0000" channel="Azteca 7">
+    <title lang="en">Lego Ninjago</title>
+    <desc lang="en">Las fuerzas del mal amenazan con destruir al mundo ninja y un grupo de jóvenes busca combatirlas. Cuando el destino de su mundo, Ninjago, es desafiado por grandes amenazas malignas, seis ninjas deciden que son los indicados para lograr salvar el mundo.(n)</desc>
+    <rating system="MPAA">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20230109180000 +0000" stop="20230109190000 +0000" channel="Azteca 7">
+    <title lang="en">Escandalosos</title>
+    <desc lang="en">Conoce a tres hermanos osos, Pardo, Panda y Polar. Míralos hacer lo que sea con tal de pertenecer a la sociedad humana. Los peludos amigos tienen dificultades para asimilar la civilización.(n)</desc>
+    <date>2015</date>
+  </programme>
+  <programme start="20230109190000 +0000" stop="20230109200000 +0000" channel="Azteca 7">
+    <title lang="en">Lego Friends</title>
+    <desc lang="en">Cinco inseparables mejores amigas emprenden divertidas aventuras cotidianas. Preparar una fiesta de cumpleaños, ganar un torneo de básquetbol o hacer un viaje en carretera son algunas de las actividades que completan sus vidas.(n)</desc>
+    <rating system="MPAA">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20230109200000 +0000" stop="20230109210000 +0000" channel="Azteca 7">
+    <title lang="en">Alvin y las ardillas</title>
+    <desc lang="en">David Seville es un padre soltero quien está criando tres adorables ardillas que aspiran ser cantantes y siempre encuentran aventura mientras asisten a la escuela. David puede enojarse fácilmente, lo que le hace decir ¡ALVINNN!, se lleva a cabo en los tiempos modernos, y discute temas actuales como la tecnología y el acoso escolar.(n)</desc>
+    <date>1983</date>
+    <rating system="MPAA">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20230109210000 +0000" stop="20230109223000 +0000" channel="Azteca 7">
+    <title lang="en">Kung Fu Panda: The Paws of Destiny</title>
+    <desc lang="en">DreamWorks Kung Fu Panda: The Paws of Destiny es una serie de aventuras épicas en Amazon Prime Video.(n)</desc>
+    <date>2018</date>
+  </programme>
+  <programme start="20230109223000 +0000" stop="20230109233000 +0000" channel="Azteca 7">
+    <title lang="en">Dragon Ball</title>
+    <desc lang="en">Serie animada que presenta a un chico llamado Goku y su amiga Bulma, quienes viajan a través de tierras exóticas y encuentran monstruos, guerreros y villanos.(n)</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20230109233000 +0000" stop="20230110003000 +0000" channel="Azteca 7">
+    <title lang="en">Dragon ball Z</title>
+    <desc lang="en">El joven Goku, Bulma y sus amigos emprenden una de las más pintorescas aventuras en busca de las siete bolas de Dragón.(n)</desc>
+    <date>1986</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
   <programme start="20230108045500 -0500" stop="20230108062200 -0500" channel="Cine Sony">
     <title lang="en">Underworld: Awakening</title>
     <desc lang="en">Después de haber pasado 15 años en un estado similar al coma, la vampira Selene descubre que tiene una hija de 14 años, mitad vampira y mitad licántropa. Cuando consiga encontrarla tendrá que evitar que Biocom cree una raza de licántropos superiores.(n)</desc>
@@ -4437,17 +5465,6 @@
       <value>8.0</value>
     </star-rating>
   </programme>
-  <programme start="20230108154500 +0000" stop="20230108160000 +0000" channel="Nick Jr.">
-    <title lang="en">Anna y sus amigos</title>
-    <desc lang="en">Cuando tus mejores amigos son una impaciente rana, un perro demasiado confiado,.(n)</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20230108160000 +0000" stop="20230108163000 +0000" channel="Nick Jr.">
-    <title lang="en">Baby Shark, el gran show</title>
-    <sub-title lang="en">El botín legendario / Sí a todo</sub-title>
-    <desc lang="en">La familia Tiburón se divide para buscar el tesoro de la tatara-tatara abuela Tiburón, y descubren que es mejor trabajar en equipo. / Tiburón Bebé convence a su papá a decir "sí a todo" por un día.(n)</desc>
-    <date>2020</date>
-  </programme>
   <programme start="20230108163000 +0000" stop="20230108170000 +0000" channel="Nick Jr.">
     <title lang="en">Baby Shark, el gran show</title>
     <sub-title lang="en">The Lost Jelly / The Coral Dilemma</sub-title>
@@ -4910,14 +5927,6 @@
     <rating system="MPAA">
       <value>TV-Y</value>
     </rating>
-  </programme>
-  <programme start="20230108150000 +0000" stop="20230108160000 +0000" channel="CDN 37">
-    <title lang="en">Finjus</title>
-    <desc lang="en">Programa de la Fundación Institucionalidad y Justicia (FINJUS).(n)</desc>
-  </programme>
-  <programme start="20230108160000 +0000" stop="20230108163000 +0000" channel="CDN 37">
-    <title lang="en">Noticiario CDN (live)</title>
-    <desc lang="en">Todos los acontecimientos y noticias del mundo.(n)</desc>
   </programme>
   <programme start="20230108163000 +0000" stop="20230108170000 +0000" channel="CDN 37">
     <title lang="en">Noticiario CDN</title>
@@ -6061,10 +7070,6 @@
       <value>TVY</value>
     </rating>
   </programme>
-  <programme start="20230108150000 +0000" stop="20230108160000 +0000" channel="Telemedios Canal 25">
-    <title lang="en">Al Filo</title>
-    <desc lang="en">Lugares inhóspitos, territorios salvajes, montañas elevadas y sitios peligrosos. Acompáñanos por las travesías más espectaculares y arriesgadas llevadas a cabo en diferentes rincones del planeta Tierra, las experiencias más audaces en un programa de clips llenos de acción y emoción.(n)</desc>
-  </programme>
   <programme start="20230108160000 +0000" stop="20230108170000 +0000" channel="Telemedios Canal 25">
     <title lang="en">Hablemos de desarrollo</title>
     <desc lang="en">Un programa que aborda la actualidad del mundo agropecuario en República Dominicana.(n)</desc>
@@ -6882,11 +7887,6 @@
     <category lang="en">Horror</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p15842672_k_h8_aa.jpg" />
   </programme>
-  <programme start="20230108150000 +0000" stop="20230108160000 +0000" channel="Teleuniverso">
-    <title lang="en">La voz del Tribunal Constitucional</title>
-    <desc lang="en">Noticias e informaciones.(n)</desc>
-    <date>2016</date>
-  </programme>
   <programme start="20230108160000 +0000" stop="20230108170000 +0000" channel="Teleuniverso">
     <title lang="en">Marco noticioso</title>
   </programme>
@@ -6991,12 +7991,6 @@
   </programme>
   <programme start="20230109230000 +0000" stop="20230110000000 +0000" channel="Teleuniverso">
     <title lang="en">Panorámica</title>
-  </programme>
-  <programme start="20230108150000 +0000" stop="20230108160000 +0000" channel="RTVD">
-    <title lang="en">Dar para Vivir</title>
-  </programme>
-  <programme start="20230108160000 +0000" stop="20230108163000 +0000" channel="RTVD">
-    <title lang="en">Del arte al artista</title>
   </programme>
   <programme start="20230108163000 +0000" stop="20230108165500 +0000" channel="RTVD">
     <title lang="en">4RD noticias</title>
@@ -7121,11 +8115,6 @@
     <title lang="en">Espacio Canal 4RD</title>
     <desc lang="en">Un espacio que busca producir contenidos que difundan los valores del Estado Dominicano.(n)</desc>
     <date>2021</date>
-  </programme>
-  <programme start="20230108150000 +0000" stop="20230108160000 +0000" channel="Colorvision">
-    <title lang="en">Panorama semanal</title>
-    <desc lang="en">Un programa informativo que profundiza en los acontecimientos más relevantes de la semana.(n)</desc>
-    <date>2010</date>
   </programme>
   <programme start="20230108160000 +0000" stop="20230108180000 +0000" channel="Colorvision">
     <title lang="en">Cine 9</title>
@@ -7284,8 +8273,19 @@
     </rating>
   </programme>
   <programme start="20230108010000 +0000" stop="20230108013000 +0000" channel="Tastemade en Espanol">
-    <title lang="en">Tacos con todo (?)</title>
-    <sub-title lang="en">Tacos sin carne</sub-title>
+    <title lang="en">Tacos con todo</title>
+    <sub-title lang="en">Tacos sin carne. Tacos sin carne</sub-title>
+    <desc lang="en">Tacos de hongos al chile guajillo con una salsita de chile cuaresmeño. Además, tacos para todos los gustos.(n)</desc>
+    <credits>
+      <actor role="Host">Franciso El Jara</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Cooking</category>
+    <icon src="https://tvtv.us/gn/pi/assets/p20436109_b_v11_aa.jpg" />
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
   </programme>
   <programme start="20230108013000 +0000" stop="20230108020000 +0000" channel="Tastemade en Espanol">
     <title lang="en">Tacos con todo (?)</title>
@@ -7678,9 +8678,6 @@
   <programme start="20230109140000 +0000" stop="20230109170000 +0000" channel="NY1 Noticias">
     <title lang="en">Noticias por la mañana (?)</title>
   </programme>
-  <programme start="20230108152700 +0000" stop="20230108161100 +0000" channel="Aplauso">
-    <title lang="en">Confidente</title>
-  </programme>
   <programme start="20230108161100 +0000" stop="20230108165500 +0000" channel="Aplauso">
     <title lang="en">Confidente</title>
   </programme>
@@ -7812,22 +8809,6 @@
     <title lang="en">Contigo hasta el fin</title>
     <desc lang="en">Cuando la Doncella Divina haga una ofrenda al cielo, el que obtenga el tesoro de Bi Luo Tian ganará el mundo.(n)</desc>
     <date>2019</date>
-  </programme>
-  <programme start="20230108153000 +0000" stop="20230108160000 +0000" channel="Comedy Central">
-    <title lang="en">Daria</title>
-    <desc lang="en">Kevin y todo el equipo de fútbol americano saca excelentes notas en el examen de historia. Entonces,.(n)</desc>
-    <date>2016</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230108160000 +0000" stop="20230108163000 +0000" channel="Comedy Central">
-    <title lang="en">El príncipe del rap</title>
-    <desc lang="en">Will no puede creer lo que sucede en la escuela, en donde siempre se aburría. Pero todo parece cambiar desde que conoció al nuevo profeso , que es un personaje singular y muy interesante, a tal punto que todos los señalan como el maestro más estimulante que jamás haya tenido la institución.(n)</desc>
-    <date>1993</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
   </programme>
   <programme start="20230108163000 +0000" stop="20230108170000 +0000" channel="Comedy Central">
     <title lang="en">El príncipe del rap</title>
@@ -8478,11 +9459,6 @@
     <category lang="en">Soccer</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p23441583_tb2_h8_aa.jpg" />
   </programme>
-  <programme start="20230108150000 +0000" stop="20230108160000 +0000" channel="All Arts US">
-    <title lang="en">In Concert with CMS</title>
-    <sub-title lang="en">Ravel and Debussy</sub-title>
-    <date>2021</date>
-  </programme>
   <programme start="20230108160000 +0000" stop="20230108170000 +0000" channel="All Arts US">
     <title lang="en">The Lawrence Welk Show</title>
     <sub-title lang="en">You're Never Too Young</sub-title>
@@ -8824,7 +9800,7 @@
       <actor role="Olivia Bligh">Arianwen Parkes-Lockwood</actor>
       <actor role="Anna Bligh">Abby Earl</actor>
       <actor role="Gino Poletti">Aldo Mignone</actor>
-      <writer>Hamilton Budd</writer>
+      <writer>Katherine Thomson</writer>
       <producer>Chris Martin-Jones</producer>
       <composer>Michael Yezerski</composer>
     </credits>
@@ -12936,11 +13912,6 @@
     <rating system="US">
       <value>TVY7</value>
     </rating>
-  </programme>
-  <programme start="20230108150000 +0000" stop="20230108160000 +0000" channel="Afizzionados">
-    <title lang="en">Nunca se olvida, clásico del fútbol</title>
-    <desc lang="en">Ediciones de una y dos horas de los partidos clásicos del fútbol mexicano.(n)</desc>
-    <date>2020</date>
   </programme>
   <programme start="20230108160000 +0000" stop="20230108170000 +0000" channel="Afizzionados">
     <title lang="en">Nunca se olvida</title>
@@ -23061,7 +24032,7 @@
     <category lang="es">Fútbol español</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula4/F4060612" />
     <star-rating system="ES">
-      <value>6.0</value>
+      <value>8.0</value>
     </star-rating>
   </programme>
   <programme start="20230108185500 +0100" stop="20230108203000 +0100" channel="DAZN LaLiga">
@@ -23901,14 +24872,6 @@
     <category lang="it">Ragazzi e Musica</category>
     <category lang="it">Musica</category>
     <icon src="https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png" />
-  </programme>
-  <programme start="20230108153000 +0000" stop="20230108160000 +0000" channel="RT (Russia Today)">
-    <title lang="en">Tras los pasos de Gandhi - Parte II</title>
-    <desc lang="en">Mahatma Gandhi es probablemente la figura más relevante de la historia de la India. Y aunque murió en 1948, sus enseñanzas de vida siguen muy presentes en la actualidad.(n)</desc>
-    <date>2019</date>
-  </programme>
-  <programme start="20230108160000 +0000" stop="20230108163000 +0000" channel="RT (Russia Today)">
-    <title lang="en">Noticias</title>
   </programme>
   <programme start="20230108163000 +0000" stop="20230108170000 +0000" channel="RT (Russia Today)">
     <title lang="en">RT reporta</title>
@@ -25796,34 +26759,6 @@
     <desc lang="en">Estrellas Orientales vs. Gigantes del Cibao.(n)</desc>
     <date>2023</date>
   </programme>
-  <programme start="20230108150000 +0000" stop="20230108160000 +0000" channel="TNT US">
-    <title lang="en">NCIS: New Orleans</title>
-    <sub-title lang="en">Inside Out</sub-title>
-    <desc lang="en">The team searches for a former IRA bomb-maker who was smuggled into the city, and are joined by Special Agent Hannah Khoury, Pride's replacement during his medical leave. Also, Pride considers a new position with the agency. (repeat).(n)</desc>
-    <credits>
-      <director>Gary Glasberg</director>
-      <director>James Hayman</director>
-      <actor role="Dwayne Pride">Scott Bakula</actor>
-      <actor role="Christopher LaSalle">Lucas Black</actor>
-      <actor role="Dr. Loretta Wade">CCH Pounder</actor>
-      <actor role="NCIS Special Agent Hannah Khoury">Necar Zadegan</actor>
-      <actor role="Sebastian Lund">Rob Kerkovich</actor>
-      <actor role="Patton Plame">Daryl 'Chill' Mitchell</actor>
-      <writer>Greta Heinemann</writer>
-      <producer>James Hayman</producer>
-      <composer>Tree Adams</composer>
-    </credits>
-    <date>2018</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Suspense</category>
-    <category lang="en">Action &amp; Adventure</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/9768/009768/009768_1280x720_899914_024.jpg" />
-    <episode-num system="onscreen">S5 E2</episode-num>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20230108160000 +0000" stop="20230108170000 +0000" channel="TNT US">
     <title lang="en">NCIS: New Orleans</title>
     <sub-title lang="en">Diplomatic Immunity</sub-title>
@@ -26413,7 +27348,14 @@
     <category lang="en">Pop</category>
     <icon src="https://images.pluto.tv/episodes/62fae54520b977001eecc93c/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
-  <programme start="20230109040000 +0000" stop="20230109090000 +0000" channel="Vevo 2K">
+  <programme start="20230109040000 +0000" stop="20230109050000 +0000" channel="Vevo 2K">
+    <title lang="en">Hip Hop Heavy</title>
+    <desc lang="en">Get crunk with the decade's hottest videos!(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Pop</category>
+    <icon src="https://images.pluto.tv/episodes/62fae54520b977001eecc943/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20230109050000 +0000" stop="20230109090000 +0000" channel="Vevo 2K">
     <title lang="en">Vevo 2K</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
@@ -26930,7 +27872,14 @@
     <category lang="en">Country</category>
     <icon src="https://images.pluto.tv/episodes/63a276e7eb85c500132b16c5/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
-  <programme start="20230109040000 +0000" stop="20230109090000 +0000" channel="Vevo Country">
+  <programme start="20230109040000 +0000" stop="20230109050000 +0000" channel="Vevo Country">
+    <title lang="en">True Country</title>
+    <desc lang="en">Artists who embrace the genre's traditional sound.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Country</category>
+    <icon src="https://images.pluto.tv/episodes/63a276e7eb85c500132b16c9/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20230109050000 +0000" stop="20230109090000 +0000" channel="Vevo Country">
     <title lang="en">Vevo Country</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
@@ -26975,7 +27924,7 @@
       <value>No Rating</value>
     </rating>
   </programme>
-  <programme start="20230108090000 +0000" stop="20230108130000 +0000" channel="Vevo R&amp;B">
+  <programme start="20230108090000 +0000" stop="20230108140000 +0000" channel="Vevo R&amp;B">
     <title lang="en">Vevo R&amp;B</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
@@ -26983,13 +27932,6 @@
     <rating>
       <value>No Rating</value>
     </rating>
-  </programme>
-  <programme start="20230108130000 +0000" stop="20230108140000 +0000" channel="Vevo R&amp;B">
-    <title lang="en">ALT R&amp;B</title>
-    <desc lang="en">Videos that go left of center from funk, soul, rhythm, and blues.(n)</desc>
-    <category lang="en">Music</category>
-    <category lang="en">R&amp;B/Soul</category>
-    <icon src="https://images.pluto.tv/episodes/63a53609377c6f00135049c4/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
   <programme start="20230108140000 +0000" stop="20230108150000 +0000" channel="Vevo R&amp;B">
     <title lang="en">R&amp;B Newness</title>
@@ -27082,7 +28024,14 @@
     <category lang="en">R&amp;B/Soul</category>
     <icon src="https://images.pluto.tv/episodes/63a67981eb85c500132d053f/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
-  <programme start="20230109040000 +0000" stop="20230109090000 +0000" channel="Vevo R&amp;B">
+  <programme start="20230109040000 +0000" stop="20230109050000 +0000" channel="Vevo R&amp;B">
+    <title lang="en">Supreme R&amp;B</title>
+    <desc lang="en">Artists who are buzzing right now.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">R&amp;B/Soul</category>
+    <icon src="https://images.pluto.tv/episodes/63a5d08f6d793400134ad7ed/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20230109050000 +0000" stop="20230109090000 +0000" channel="Vevo R&amp;B">
     <title lang="en">Vevo R&amp;B</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
@@ -27117,12 +28066,6 @@
     <rating>
       <value>No Rating</value>
     </rating>
-  </programme>
-  <programme start="20230108153000 +0000" stop="20230108162500 +0000" channel="E!">
-    <title lang="en">Escuela imparables</title>
-    <sub-title lang="en">Empodera tu estilo</sub-title>
-    <desc lang="en">Si estás a gusto, cómoda contigo misma, esa seguridad será congruente con tus palabras.(n)</desc>
-    <date>2021</date>
   </programme>
   <programme start="20230108162500 +0000" stop="20230108172000 +0000" channel="E!">
     <title lang="en">Las Kardashian</title>
@@ -27754,16 +28697,6 @@
     <desc lang="en">Hablar de tus problemas es el primer paso para superarlos, por eso Rocío Sánchez Azuara está de regreso con un programa único, en el cual, podrás acercarte, para que con ella, hables de todo lo que te preocupa, y juntas o juntos, puedan encontrar una solución.(n)</desc>
     <date>2021</date>
   </programme>
-  <programme start="20230108154500 +0000" stop="20230108161000 +0000" channel="UNIVERSAL REALITY">
-    <title lang="en">La familia Chrisley</title>
-    <sub-title lang="en">Trazos diferentes</sub-title>
-    <date>2017</date>
-  </programme>
-  <programme start="20230108161000 +0000" stop="20230108163000 +0000" channel="UNIVERSAL REALITY">
-    <title lang="en">La familia Chrisley</title>
-    <sub-title lang="en">La abuela se ha vuelto loca</sub-title>
-    <date>2017</date>
-  </programme>
   <programme start="20230108163000 +0000" stop="20230108165500 +0000" channel="UNIVERSAL REALITY">
     <title lang="en">La familia Chrisley</title>
     <sub-title lang="en">Hornear mal</sub-title>
@@ -28117,20 +29050,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20230108150500 +0000" stop="20230108155000 +0000" channel="UNIVERSAL CRIME">
-    <title lang="en">Matar me hizo famoso</title>
-    <sub-title lang="en">Jodi Arias</sub-title>
-    <desc lang="en">El sexo, los celos y la obsesión alimentan la fijación de los medios nacionales por Jodi Arias,.(n)</desc>
-    <date>2021</date>
-  </programme>
-  <programme start="20230108155000 +0000" stop="20230108163500 +0000" channel="UNIVERSAL CRIME">
-    <title lang="en">Parejas asesinas</title>
-    <desc lang="en">Se investiga la muerte de un vendedor ambulante.(n)</desc>
-    <date>2014</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
   <programme start="20230108163500 +0000" stop="20230108172000 +0000" channel="UNIVERSAL CRIME">
     <title lang="en">Parejas asesinas</title>
     <desc lang="en">Se investiga la muerte de un vendedor ambulante.(n)</desc>
@@ -28411,22 +29330,6 @@
     <sub-title lang="en">Robert Chambers</sub-title>
     <desc lang="en">El cuerpo parcialmente vestido de la hermosa Jennifer Levin, de 18 años,.(n)</desc>
     <date>2021</date>
-  </programme>
-  <programme start="20230108154500 +0000" stop="20230108161000 +0000" channel="UNIVERSAL COMEDY">
-    <title lang="en">Younger</title>
-    <desc lang="en">En la tercera temporada, Liza envía a Caitlin a la universidad y pondera sus sentimientos hacia Josh y Charles.(n)</desc>
-    <date>2016</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20230108161000 +0000" stop="20230108163500 +0000" channel="UNIVERSAL COMEDY">
-    <title lang="en">Younger</title>
-    <desc lang="en">La identidad de Liza se encuentra bajo amenaza por la computadora portátil de Thad, la verdad podría quedar expuesta a Kelsey. Un multimillonario de Silicon Valley invierte en Empirical.(n)</desc>
-    <date>2016</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
   </programme>
   <programme start="20230108163500 +0000" stop="20230108170000 +0000" channel="UNIVERSAL COMEDY">
     <title lang="en">Younger</title>
@@ -28970,11 +29873,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20230108141500 +0000" stop="20230108160500 +0000" channel="UNIVERSAL CINEMA">
-    <title lang="en">El faro</title>
-    <desc lang="en">Película de terror psicológico, en blanco y negro, dirigida por Robert Eggers. Se sigue a Thomas Wake (Willem Dafoe) y Ephraim Winslow (Robert Pattinson), dos hombres encargados de un faro, en una remota y perversa isla en Nueva Inglaterra, a finales del siglo XIX.(n)</desc>
-    <date>2019</date>
-  </programme>
   <programme start="20230108160500 +0000" stop="20230108175500 +0000" channel="UNIVERSAL CINEMA">
     <title lang="en">Clemencia</title>
     <desc lang="en">Bernadine Williams es una funcionaria de prisiones que, a lo largo de varios años, se ha alejado cada vez más de su marido para centrarse en realizar ejecuciones en una prisión de máxima seguridad. Cuando empieza a generar una relación especial con uno de los presos que ingresan en su sector, Anthony Woods, Williams comienza a darse cuenta de que algo ha cambiado dentro de su ser.(n)</desc>
@@ -29093,14 +29991,6 @@
     <title lang="en">Bastardos sin gloria</title>
     <desc lang="en">Una emocionante superproducción de la Segunda Guerra Mundial acerca de un oficial norteamericano (Brad Pitt) que lidera una brigada de soldados que da golpes certeros a tropas nazis en su propio territorio, aunque su plan maestro es acabar con Hitler y sus más cercanos colaboradores. Al mismo tiempo, una joven cineasta judía planea vengarse de Hitler y del directo responsable de la muerte de su familia.(n)</desc>
     <date>2009</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20230108154000 +0000" stop="20230108162500 +0000" channel="UNIVERSAL PREMIERE">
-    <title lang="en">Chicago med</title>
-    <desc lang="en">El doctor Rhodes cuestiona irse del equipo de médicos que separarán a un par de siameses. El doctor Choi y April hacen un descubrimiento sorprendente sobre la hermana del doctor Choi, Emily, y el doctor Charles descubre información preocupante con relación al padre de la doctora Reese.(n)</desc>
-    <date>2018</date>
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
@@ -29406,11 +30296,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20230108140700 +0000" stop="20230108161200 +0000" channel="HBO MUNDI">
-    <title lang="en">La Habitación</title>
-    <desc lang="en">La Habitación es un relato colectivo que plantea de forma metafórica la transformación de México en sus últimos cien años a través de los inquilinos que la han habitado.(n)</desc>
-    <date>2015</date>
-  </programme>
   <programme start="20230108161200 +0000" stop="20230108175700 +0000" channel="HBO MUNDI">
     <title lang="en">Jamas llegaran a viejos</title>
     <desc lang="en">Documental que pretende reflexionar sobre las consecuencias que dejó para toda una generación la primera gran guerra global. Usando modernas técnicas de restauración, Jackson y su equipo han restaurado metraje inédito original de aquellos momentos, coloreando vídeos en blanco y negro de cien años de antigüedad, y convirtiéndolos en un testimonio lleno de matices.(n)</desc>
@@ -29504,11 +30389,6 @@
     <title lang="en">Con quién viajas</title>
     <desc lang="en">Un viaje en BlaBlaCar lleno de divertido diálogo y creciente tensión.(n)</desc>
     <date>2022</date>
-  </programme>
-  <programme start="20230108142700 +0000" stop="20230108162000 +0000" channel="HBO XTREME">
-    <title lang="en">Estafadoras de Wall Street</title>
-    <desc lang="en">Un grupo de expertos strippers, que trabajan en diversas discos y bares nocturnos, se pusieron de acuerdo para robarles todo el dinero posible a sus clientes más asquerosos, viles y desgraciados. Como si fuesen protagonistas modernos de una historia como la de "Robin Hood", ellos les roban a los ricos. Para repartir sus ganancias entre quienes tienen más necesidades económicas. Como ellos mismos.(n)</desc>
-    <date>2019</date>
   </programme>
   <programme start="20230108162000 +0000" stop="20230108181400 +0000" channel="HBO XTREME">
     <title lang="en">Manos de Piedra</title>
@@ -29620,14 +30500,6 @@
     <date>2008</date>
     <rating system="MPAA">
       <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20230108154000 +0000" stop="20230108164200 +0000" channel="HBO SIGNATURE">
-    <title lang="en">C.B. Strike</title>
-    <desc lang="en">Leonora Quine se acerca a la huelga con la petición de localizar a su esposo, el famoso escritor Owen Quine, quien desapareció sin dejar rastro.(n)</desc>
-    <date>2017</date>
-    <rating system="MPAA">
-      <value>TV-MA</value>
     </rating>
   </programme>
   <programme start="20230108164200 +0000" stop="20230108174600 +0000" channel="HBO SIGNATURE">
@@ -29805,14 +30677,6 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20230108135800 +0000" stop="20230108162800 +0000" channel="HBO PLUS">
-    <title lang="en">Tenet</title>
-    <desc lang="en">Armado con una palabra, Tenet, un agente deberá pelear por la supervivencia del mundo entero.(n)</desc>
-    <date>2020</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20230108162800 +0000" stop="20230108190600 +0000" channel="HBO PLUS">
     <title lang="en">Duna</title>
     <desc lang="en">Un joven debe viajar a un peligroso planeta para asegurar el futuro de su pueblo.(n)</desc>
@@ -29915,14 +30779,6 @@
     <date>1999</date>
     <rating system="MPAA">
       <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20230108154200 +0000" stop="20230108161700 +0000" channel="HBO POP">
-    <title lang="en">Sex and the City</title>
-    <desc lang="en">Carrie quiere mantener su estilo de vida. Samantha no acepta su cariño por Richard.(n)</desc>
-    <date>2013</date>
-    <rating system="MPAA">
-      <value>TV-MA</value>
     </rating>
   </programme>
   <programme start="20230108161700 +0000" stop="20230108165200 +0000" channel="HBO POP">
@@ -30055,11 +30911,6 @@
     <desc lang="en">Celeste y Jesse se conocieron en el colegio, se enamoraron y se casaron. Ahora ella está avanzando y él sigue sin rumbo. Deciden divorciarse amigablemente y todo va bien para Celeste hasta que él conoce a alguien más.(n)</desc>
     <date>2012</date>
   </programme>
-  <programme start="20230108145400 +0000" stop="20230108163200 +0000" channel="HBO FAMILY">
-    <title lang="en">Los Croods 2: una nueva era</title>
-    <desc lang="en">La familia prehistórica de los Croods es desafiada por su familia rival.(n)</desc>
-    <date>2021</date>
-  </programme>
   <programme start="20230108163200 +0000" stop="20230108175700 +0000" channel="HBO FAMILY">
     <title lang="en">The Angel Tree</title>
     <desc lang="en">Un escritor busca la identidad de la persona que ayuda a conceder los deseos que se colocan en el Árbol del Ángel y, en el proceso, se reencuentra con su amiga de la infancia.(n)</desc>
@@ -30164,11 +31015,6 @@
     <title lang="en">Animales fantásticos: los crímenes de Grindelwald</title>
     <desc lang="en">El villano Grindelwald ha conseguido más adeptos para su causa de elevar a los magos sobre los seres no mágicos. El único capaz de detenerlo es su antiguo mejor amigo, el mago Albus Dumbledore. Pero para ello necesitará la ayuda de Newt Scamander, quien ya logró contener a Grindelwald anteriomente.(n)</desc>
     <date>2018</date>
-  </programme>
-  <programme start="20230108134600 +0000" stop="20230108155500 +0000" channel="HBO 2">
-    <title lang="en">El Rey Arturo: La leyenda de la espada</title>
-    <desc lang="en">Arturo es un joven que vive sin reglas y lidera una pandilla, que se mueve por las calles de Londonium, la actual Londres. Pero un día, saca de la piedra la espada Excálibur y su vida cambia radicalmente. Y quiera o no, tendrá que aceptar su legado.(n)</desc>
-    <date>2017</date>
   </programme>
   <programme start="20230108155500 +0000" stop="20230108181600 +0000" channel="HBO 2">
     <title lang="en">Hacker: Amenaza en la red</title>
@@ -30524,14 +31370,6 @@
     <desc lang="en">Un programa que presenta problemáticas sociales y familiares y se proponen posibles soluciones.(n)</desc>
     <date>2022</date>
   </programme>
-  <programme start="20230108140600 +0000" stop="20230108160500 +0000" channel="HBO 2!">
-    <title lang="en">El espía inglés</title>
-    <desc lang="en">Em 1962, durante a Guerra Fria , osEstados Unidos e a União Soviética se enfrentam na Crise dos Mísseis em Cuba.(n)</desc>
-    <date>2021</date>
-    <rating system="MPAA">
-      <value>13</value>
-    </rating>
-  </programme>
   <programme start="20230108160500 +0000" stop="20230108182100 +0000" channel="HBO 2!">
     <title lang="en">Hannibal</title>
     <desc lang="en">El Dr. Lecter está de regreso y debe enfrentarse a una antigua víctima que busca venganza.(n)</desc>
@@ -30749,10 +31587,6 @@
     <desc lang="en">Barra de infomerciales que ofrece información sobre diferentes productos.(n)</desc>
     <date>2017</date>
   </programme>
-  <programme start="20230108151500 +0000" stop="20230108160000 +0000" channel="TVN (CHI)">
-    <title lang="en">Fiesta infantil Navidad</title>
-    <date>2022</date>
-  </programme>
   <programme start="20230108160000 +0000" stop="20230108180000 +0000" channel="TVN (CHI)">
     <title lang="en">24 Tarde</title>
     <desc lang="en">Conoce los detalles más resaltantes sobre los últimos acontecimientos ocurridos en Chile, América Latina y el mundo, en este segmento especial de la tarde, donde te presentamos un resumen con informaciones completas.(n)</desc>
@@ -30845,14 +31679,6 @@
   <programme start="20230109235500 +0000" stop="20230110014000 +0000" channel="TVN (CHI)">
     <title lang="en">24 Horas Central</title>
     <desc lang="en">Noticiero central, con despachos en directo y corresponsalías en todo el mundo.(n)</desc>
-  </programme>
-  <programme start="20230108153000 +0000" stop="20230108163000 +0000" channel="Canal Uno (COL)">
-    <title lang="en">Sailor Moon</title>
-    <desc lang="en">Usagi conoce a una gata que le habla de su misión como Sailor Senshi y de salvar al mundo.(n)</desc>
-    <date>1992</date>
-    <rating system="MPAA">
-      <value>TV-Y7</value>
-    </rating>
   </programme>
   <programme start="20230108163000 +0000" stop="20230108173000 +0000" channel="Canal Uno (COL)">
     <title lang="en">Naruto</title>
@@ -32077,13 +32903,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20230108152000 +0000" stop="20230108161000 +0000" channel="UNIVERSAL TV">
-    <title lang="en">Chicago Med</title>
-    <date>2015</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20230108161000 +0000" stop="20230108170000 +0000" channel="UNIVERSAL TV">
     <title lang="en">Chicago Med</title>
     <desc lang="en">Will se mete en problemas cuando uno de los pacientes de su prueba se enferma.(n)</desc>
@@ -32385,32 +33204,6 @@
     <date>2013</date>
     <rating system="MPAA">
       <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20230108154100 +0000" stop="20230108155900 +0000" channel="Kids Street">
-    <title lang="en">Rocka-bye Island</title>
-    <sub-title lang="en">Brussel Sprout Blues</sub-title>
-    <date>2017</date>
-  </programme>
-  <programme start="20230108155900 +0000" stop="20230108161000 +0000" channel="Kids Street">
-    <title lang="en">Rocka-bye Island</title>
-    <sub-title lang="en">Mile High</sub-title>
-    <date>2017</date>
-  </programme>
-  <programme start="20230108161000 +0000" stop="20230108162900 +0000" channel="Kids Street">
-    <title lang="en">Rocka-bye Island</title>
-    <sub-title lang="en">Making Tracks</sub-title>
-    <date>2017</date>
-  </programme>
-  <programme start="20230108162900 +0000" stop="20230108164100 +0000" channel="Kids Street">
-    <title lang="en">Helen's Little School</title>
-    <sub-title lang="en">The Acrobats</sub-title>
-    <desc lang="en">Helen suggests the class try walking the beam in the gym but Princess April refuses point blank.(n)</desc>
-    <date>2017</date>
-    <category lang="en">Educational</category>
-    <category lang="en">Action &amp; Adventure</category>
-    <rating system="MPAA">
-      <value>TV-Y</value>
     </rating>
   </programme>
   <programme start="20230108164100 +0000" stop="20230108165900 +0000" channel="Kids Street">
@@ -32850,7 +33643,7 @@
     <credits>
       <director>Jérôme Mouscadet</director>
       <director>Andy Collins</director>
-      <writer>Sophie Decroisette</writer>
+      <writer>Thierry Gaudin</writer>
       <producer>Katell France</producer>
       <composer>David Vadant</composer>
     </credits>
@@ -33644,11 +34437,6 @@
     <desc lang="en">Leo San Juan, Don Andrés, Teodora y el Alebrije se dirigen a Guanajuato para tratar de rescatar a su amiga Xóchitl y para detener a las momias que han atraído inexplicablemente. Leo descubre el terrible secreto de los ricos Rosseau, gracias a la ayuda de su amigo Luis que conoce bién la ciudad, mientras que los demás se dan cuenta de que han caído en una trampa.(n)</desc>
     <date>2014</date>
   </programme>
-  <programme start="20230108150100 +0000" stop="20230108160000 +0000" channel="Curiosity Stream">
-    <title lang="en">El nacimiento de un nuevo estilo de compras</title>
-    <desc lang="en">El primer episodio nos lleva a la primera tienda de departamentos del mundo,.(n)</desc>
-    <date>2022</date>
-  </programme>
   <programme start="20230108160000 +0000" stop="20230108170000 +0000" channel="Curiosity Stream">
     <title lang="en">El nacimiento de un nuevo estilo de compras</title>
     <desc lang="en">Este episodio revela los astutos secretos del juego de ventas al pormenor en los inicios del siglo 20. Yendo desde las tiendas de departamentos de America, pasando por las de Inglaterra y llegando a las de Australia, el documental descubre las tácticas de los minoristas más importantes del mundo, como, por ejemplo, convertir los feriados religiosos en días de ofertas.(n)</desc>
@@ -33765,7 +34553,9 @@
     <date>2020</date>
   </programme>
   <programme start="20230109150100 +0000" stop="20230109160100 +0000" channel="Curiosity Stream">
-    <title lang="en">Detrás del artista (?)</title>
+    <title lang="en">Detrás del artista</title>
+    <desc lang="en">Picasso: Crees conocerlo, pero ¿será así? Adéntrate en su profundo arte,.(n)</desc>
+    <date>2021</date>
   </programme>
   <programme start="20230109160100 +0000" stop="20230109170000 +0000" channel="Curiosity Stream">
     <title lang="en">Comprendiendo a Frank Gehry</title>
@@ -33872,22 +34662,6 @@
     <title lang="en">Hallazgos novedosos</title>
     <desc lang="en">&gt;¿Cuán cerca estamos de que la infertilidad sea un problema del pasado?(n)</desc>
     <date>2021</date>
-  </programme>
-  <programme start="20230108153500 +0000" stop="20230108160000 +0000" channel="Dreamworks">
-    <title lang="en">El amanecer de los Croods</title>
-    <desc lang="en">En el Crudázico, los cavernícolas más fuertes tenían las mejores casas, los mejores juguetes y los mejores amigos. Pero no todo el mundo nace fuerte, así que, para enseñar a los niños a sobrevivir, el Valle de Ahhh! inventó el colegio y...(n)</desc>
-    <date>2015</date>
-    <rating system="MPAA">
-      <value>TV-Y7</value>
-    </rating>
-  </programme>
-  <programme start="20230108160000 +0000" stop="20230108162500 +0000" channel="Dreamworks">
-    <title lang="en">El amanecer de los Croods</title>
-    <desc lang="en">Snoot y su familia se mudan junto a los Croods y no soportan tener cerca la pila de huesos que los Croods almacenan junto a su caverna. Los Croods, que tienen gran cariño por esos huesos que son recuerdos de familia de toda una vida...(n)</desc>
-    <date>2015</date>
-    <rating system="MPAA">
-      <value>TV-Y7</value>
-    </rating>
   </programme>
   <programme start="20230108162500 +0000" stop="20230108165000 +0000" channel="Dreamworks">
     <title lang="en">Home: Las aventuras de Tip y Oh</title>
@@ -34417,20 +35191,6 @@
     <rating system="MPAA">
       <value>TV-Y7</value>
     </rating>
-  </programme>
-  <programme start="20230108153000 +0000" stop="20230108160000 +0000" channel="Hogar HGTV">
-    <title lang="en">Los caza minihogares</title>
-    <desc lang="en">Presentando a buscadores de viviendas pequeñas, quienes recorrerán tres casas aerodinámicas y únicas que estan por debajo de los 600 pies cuadrados, antes de decidirse por una de ellas. En este episodio, una persona que se retiró hace poco tiempo quiere mudarse Colorado a una casa pequeña en Hawái. Busca una casa sobre ruedas.(n)</desc>
-    <date>2015</date>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20230108160000 +0000" stop="20230108163000 +0000" channel="Hogar HGTV">
-    <title lang="en">Nuestro hogar frente al lago</title>
-    <sub-title lang="en">Una casa de vacaciones en Burlington, Vermont</sub-title>
-    <desc lang="en">Compañeros que hacen wakesurfing esperan comprar una casa en el lago Champlain en Vermont.(n)</desc>
-    <date>2019</date>
   </programme>
   <programme start="20230108163000 +0000" stop="20230108170000 +0000" channel="Hogar HGTV">
     <title lang="en">Nuestro hogar frente al lago</title>
@@ -35935,11 +36695,6 @@
     <star-rating system="ICAA">
       <value>1.0</value>
     </star-rating>
-  </programme>
-  <programme start="20230108155000 +0000" stop="20230108164500 +0000" channel="Telehit Musica">
-    <title lang="en">Musicoterapia</title>
-    <desc lang="en">Un espacio que aborda diversos proyectos en materia de Medicina y Musica.(n)</desc>
-    <date>2007</date>
   </programme>
   <programme start="20230108164500 +0000" stop="20230108174000 +0000" channel="Telehit Musica">
     <title lang="en">Musicología</title>
