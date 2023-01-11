@@ -1,5 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="IFC">
+    <display-name lang="en">IFC</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/v2/s14873_h15_ac.png" />
+    <url>http://www.tvpassport.com</url>
+  </channel>
   <channel id="SundanceTV USA">
     <display-name lang="en">SundanceTV USA</display-name>
     <icon src="http://cdn.tvpassport.com/image/station/240x135/v2/s16108_h9_aa.png" />
@@ -478,6 +483,1273 @@
     <display-name lang="en">Telehit Musica.</display-name>
     <url>http://www.tvguide.com</url>
   </channel>
+  <programme start="20230110060000 -0500" stop="20230110063000 -0500" channel="IFC">
+    <title lang="en">3rd Rock From the Sun</title>
+    <sub-title lang="en">Nightmare on Dick Street</sub-title>
+    <desc lang="en">Dick's personal revelation prompts all the members of the alien family to undergo their own dreamlike episodes.(n)</desc>
+    <credits>
+      <actor>John Lithgow</actor>
+      <actor>Jane Curtin</actor>
+      <actor>Kristen Johnston</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1846967_e_s2_aa.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230110063000 -0500" stop="20230110070000 -0500" channel="IFC">
+    <title lang="en">3rd Rock From the Sun</title>
+    <sub-title lang="en">Nightmare on Dick Street</sub-title>
+    <desc lang="en">Dick's personal revelation prompts all the members of the alien family to undergo their own dreamlike episodes.(n)</desc>
+    <credits>
+      <actor>John Lithgow</actor>
+      <actor>Jane Curtin</actor>
+      <actor>Kristen Johnston</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184146_b_v7_aa.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230110070000 -0500" stop="20230110073000 -0500" channel="IFC">
+    <title lang="en">3rd Rock From the Sun</title>
+    <sub-title lang="en">Fun With Dick and Janet</sub-title>
+    <desc lang="en">Dick and Mary's engagement is threatened when his family arrives on Earth with Janet, his intended wife.(n)</desc>
+    <credits>
+      <actor>John Lithgow</actor>
+      <actor>Jane Curtin</actor>
+      <actor>Kristen Johnston</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184146_b_v7_aa.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230110073000 -0500" stop="20230110080000 -0500" channel="IFC">
+    <title lang="en">3rd Rock From the Sun</title>
+    <sub-title lang="en">Fun With Dick and Janet</sub-title>
+    <desc lang="en">Dick and Mary's engagement is threatened when his family arrives on Earth with Janet, his intended wife.(n)</desc>
+    <credits>
+      <actor>John Lithgow</actor>
+      <actor>Jane Curtin</actor>
+      <actor>Kristen Johnston</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184146_b_v7_aa.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230110080000 -0500" stop="20230110083000 -0500" channel="IFC">
+    <title lang="en">3rd Rock From the Sun</title>
+    <sub-title lang="en">Tricky Dick</sub-title>
+    <desc lang="en">Dick and Mary find their office relationship strained by the breaking of their engagement; Sally jilts Don.(n)</desc>
+    <credits>
+      <actor>John Lithgow</actor>
+      <actor>Jane Curtin</actor>
+      <actor>Simbi Khali</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1846918_e_s2_aa.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230110083000 -0500" stop="20230110090000 -0500" channel="IFC">
+    <title lang="en">3rd Rock From the Sun</title>
+    <sub-title lang="en">Dick-in-Law</sub-title>
+    <desc lang="en">Dick unintentionally reveals a secret about Mary's family when he meets her parents (George Grizzard, Elaine Stritch).(n)</desc>
+    <credits>
+      <actor>John Lithgow</actor>
+      <actor>Jane Curtin</actor>
+      <actor>Simbi Khali</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1846917_e_s2_aa.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230110090000 -0500" stop="20230110093000 -0500" channel="IFC">
+    <title lang="en">Parks and Recreation</title>
+    <sub-title lang="en">Indianapolis</sub-title>
+    <desc lang="en">Ron and Leslie travel to Indianapolis to receive commendation for the upcoming Harvest Festival; April and Andy learn to have fun without spending money.(n)</desc>
+    <credits>
+      <actor>Amy Poehler</actor>
+      <actor>Rashida Jones</actor>
+      <actor>Aziz Ansari</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p194833_b_v8_ae.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230110093000 -0500" stop="20230110100000 -0500" channel="IFC">
+    <title lang="en">Parks and Recreation</title>
+    <sub-title lang="en">Harvest Festival</sub-title>
+    <desc lang="en">Leslie deals with a Wamapoke tribal leader who is threatening to put a curse on the Harvest Festival; April is upset with Andy; Ann gets some romantic advice.(n)</desc>
+    <credits>
+      <actor>Amy Poehler</actor>
+      <actor>Rashida Jones</actor>
+      <actor>Aziz Ansari</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p194833_b_v8_ae.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230110100000 -0500" stop="20230110103000 -0500" channel="IFC">
+    <title lang="en">Parks and Recreation</title>
+    <sub-title lang="en">Camping</sub-title>
+    <desc lang="en">Leslie takes the department on a camping trip to brainstorm new ideas; Andy tries to romance April; Chris returns to Pawnee as the city manager.(n)</desc>
+    <credits>
+      <actor>Amy Poehler</actor>
+      <actor>Rashida Jones</actor>
+      <actor>Aziz Ansari</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p194833_b_v8_ae.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230110103000 -0500" stop="20230110110000 -0500" channel="IFC">
+    <title lang="en">Parks and Recreation</title>
+    <sub-title lang="en">Andy and April's Fancy Party</sub-title>
+    <desc lang="en">April and Andy have a dinner party; Ben turns to Leslie for career advice; Ann goes to a singles party.(n)</desc>
+    <credits>
+      <actor>Amy Poehler</actor>
+      <actor>Rashida Jones</actor>
+      <actor>Aziz Ansari</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p194833_b_v8_ae.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230110110000 -0500" stop="20230110113000 -0500" channel="IFC">
+    <title lang="en">Parks and Recreation</title>
+    <sub-title lang="en">Soulmates</sub-title>
+    <desc lang="en">An online dating service matches Leslie with someone she already knows; Chris challenges Ron to a burger cook-off as part of a new health initiative.(n)</desc>
+    <credits>
+      <actor>Amy Poehler</actor>
+      <actor>Rashida Jones</actor>
+      <actor>Aziz Ansari</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p194833_b_v8_ae.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230110113000 -0500" stop="20230110120000 -0500" channel="IFC">
+    <title lang="en">Parks and Recreation</title>
+    <sub-title lang="en">Jerry's Painting</sub-title>
+    <desc lang="en">Jerry's painting creates excitement at the community art show; Ben moves in with April and Andy; Leslie disagrees with Chris' workplace dating rules.(n)</desc>
+    <credits>
+      <actor>Amy Poehler</actor>
+      <actor>Rashida Jones</actor>
+      <actor>Aziz Ansari</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p194833_b_v8_ae.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20230110120000 -0500" stop="20230110123000 -0500" channel="IFC">
+    <title lang="en">Parks and Recreation</title>
+    <sub-title lang="en">Eagleton</sub-title>
+    <desc lang="en">When a neighboring town puts a fence around one of its parks, Leslie asks an old friend for help; Ron tries to stop his own birthday party from happening.(n)</desc>
+    <credits>
+      <actor>Amy Poehler</actor>
+      <actor>Rashida Jones</actor>
+      <actor>Aziz Ansari</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8626125_e_s2_aa.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230110123000 -0500" stop="20230110130000 -0500" channel="IFC">
+    <title lang="en">Parks and Recreation</title>
+    <sub-title lang="en">The Fight</sub-title>
+    <desc lang="en">Ann's lack of enthusiasm at an offer for a city hall job causes an argument with Leslie; Tom invites everyone to help him promote his new alcoholic beverage.(n)</desc>
+    <credits>
+      <actor>Amy Poehler</actor>
+      <actor>Rashida Jones</actor>
+      <actor>Aziz Ansari</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p194833_b_v8_ae.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20230110130000 -0500" stop="20230110133000 -0500" channel="IFC">
+    <title lang="en">Parks and Recreation</title>
+    <sub-title lang="en">Road Trip</sub-title>
+    <desc lang="en">Chris sends Leslie and Ben on a trip to the capital; Ron teaches a student about his views; Tom's new game; April hurts Andy's feelings.(n)</desc>
+    <credits>
+      <actor>Amy Poehler</actor>
+      <actor>Rashida Jones</actor>
+      <actor>Aziz Ansari</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p194833_b_v8_ae.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20230110133000 -0500" stop="20230110140000 -0500" channel="IFC">
+    <title lang="en">Parks and Recreation</title>
+    <sub-title lang="en">The Bubble</sub-title>
+    <desc lang="en">The parks department is unhappy when Chris makes big changes; Leslie is surprised when Ben has a meeting with her mother.(n)</desc>
+    <credits>
+      <actor>Amy Poehler</actor>
+      <actor>Rashida Jones</actor>
+      <actor>Aziz Ansari</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8646750_e_h10_ad.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230110140000 -0500" stop="20230110143000 -0500" channel="IFC">
+    <title lang="en">Parks and Recreation</title>
+    <sub-title lang="en">Li'l Sebastian</sub-title>
+    <desc lang="en">Leslie and the Parks Department organize a memorial for a dearly departed friend; Tom makes a big decision; Chris reacts poorly to a health issue.(n)</desc>
+    <credits>
+      <actor>Amy Poehler</actor>
+      <actor>Rashida Jones</actor>
+      <actor>Aziz Ansari</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8646752_e_h10_ac.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20230110143000 -0500" stop="20230110150000 -0500" channel="IFC">
+    <title lang="en">Parks and Recreation</title>
+    <sub-title lang="en">I'm Leslie Knope</sub-title>
+    <desc lang="en">Leslie must chose between Ben and her dream of running for office; Ann dispenses medical advice; Ron gets ready for the return of Tammy One.(n)</desc>
+    <credits>
+      <actor>Amy Poehler</actor>
+      <actor>Rashida Jones</actor>
+      <actor>Aziz Ansari</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p194833_b_v8_ae.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20230110150000 -0500" stop="20230110153000 -0500" channel="IFC">
+    <title lang="en">Scrubs</title>
+    <sub-title lang="en">Our Drunk Friend</sub-title>
+    <desc lang="en">Turk, J.D. and Dr. Kelso play matchmaker when they spot a potential love connection between Drew and Denise.(n)</desc>
+    <credits>
+      <actor>Zach Braff</actor>
+      <actor>Donald Faison</actor>
+      <actor>John C. McGinley</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184720_i_h10_ab.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230110153000 -0500" stop="20230110160000 -0500" channel="IFC">
+    <title lang="en">Scrubs</title>
+    <sub-title lang="en">Our Role Models</sub-title>
+    <desc lang="en">J.D. and Drew learn a tough lesson in mentoring when Dr. Cox and Lucy show them that the student is sometimes the teacher.(n)</desc>
+    <credits>
+      <actor>Zach Braff</actor>
+      <actor>Donald Faison</actor>
+      <actor>John C. McGinley</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p7932180_e_s2_aa.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230110160000 -0500" stop="20230110163000 -0500" channel="IFC">
+    <title lang="en">Scrubs</title>
+    <sub-title lang="en">Our Histories</sub-title>
+    <desc lang="en">While their wives are out of town, J.D. and Turk attend a med student's party; Kelso says goodbye to Ted and Gooch.(n)</desc>
+    <credits>
+      <actor>Zach Braff</actor>
+      <actor>Donald Faison</actor>
+      <actor>John C. McGinley</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184720_i_h10_ab.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230110163000 -0500" stop="20230110170000 -0500" channel="IFC">
+    <title lang="en">Scrubs</title>
+    <sub-title lang="en">Our Mysteries</sub-title>
+    <desc lang="en">J.D. seeks Turk's approval; Lucy tries to find the courage to perform a medical procedure; Drew and Denise make things official.(n)</desc>
+    <credits>
+      <actor>Zach Braff</actor>
+      <actor>Donald Faison</actor>
+      <actor>John C. McGinley</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184720_i_h10_ab.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230110170000 -0500" stop="20230110173000 -0500" channel="IFC">
+    <title lang="en">Scrubs</title>
+    <sub-title lang="en">Our New Girl-Bro</sub-title>
+    <desc lang="en">Turk tries to find a replacement best friend; Elliott offers some advice to exhausted Lucy.(n)</desc>
+    <credits>
+      <actor>Zach Braff</actor>
+      <actor>Donald Faison</actor>
+      <actor>John C. McGinley</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p7956604_e_h10_ac.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230110173000 -0500" stop="20230110180000 -0500" channel="IFC">
+    <title lang="en">Scrubs</title>
+    <sub-title lang="en">Our White Coats</sub-title>
+    <desc lang="en">The med students must figure out why they want to be doctors; Elliot gives Denise relationship advice.(n)</desc>
+    <credits>
+      <actor>Zach Braff</actor>
+      <actor>Donald Faison</actor>
+      <actor>John C. McGinley</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p7958118_e_h10_ac.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230110180000 -0500" stop="20230110183000 -0500" channel="IFC">
+    <title lang="en">Scrubs</title>
+    <sub-title lang="en">Our Couples</sub-title>
+    <desc lang="en">Dr. Cox and Turk's rivalry is put aside for a gravely ill patient.(n)</desc>
+    <credits>
+      <actor>Zach Braff</actor>
+      <actor>Donald Faison</actor>
+      <actor>John C. McGinley</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p7958140_e_s2_aa.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230110183000 -0500" stop="20230110190000 -0500" channel="IFC">
+    <title lang="en">Scrubs</title>
+    <sub-title lang="en">Our Stuff Gets Real</sub-title>
+    <desc lang="en">The reality of having a baby settles in for Elliot and J.D.; Lucy struggles with the reality of operating on people.(n)</desc>
+    <credits>
+      <actor>Zach Braff</actor>
+      <actor>Donald Faison</actor>
+      <actor>John C. McGinley</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p7968897_e_h10_ac.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20230110190000 -0500" stop="20230110193000 -0500" channel="IFC">
+    <title lang="en">Two and a Half Men</title>
+    <sub-title lang="en">Waiting for the Right Snapper</sub-title>
+    <desc lang="en">Charlie tries to resist temptation when he meets the daughter of the woman he's dating and realizes they've met before.(n)</desc>
+    <credits>
+      <actor>Charlie Sheen</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Angus T. Jones</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184925_b_v8_ao.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20230110193000 -0500" stop="20230110200000 -0500" channel="IFC">
+    <title lang="en">Two and a Half Men</title>
+    <sub-title lang="en">Taterhead Is Our Love Child</sub-title>
+    <desc lang="en">Charlie finds that one of his former girlfriends has a son who looks a lot like him.(n)</desc>
+    <credits>
+      <actor>Charlie Sheen</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Angus T. Jones</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p2853227_e_h10_ac.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20230110200000 -0500" stop="20230110203000 -0500" channel="IFC">
+    <title lang="en">Two and a Half Men</title>
+    <sub-title lang="en">Pie Hole, Herb</sub-title>
+    <desc lang="en">Alan crosses a line when he tries to get back money that he lent Charlie.(n)</desc>
+    <credits>
+      <actor>Charlie Sheen</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Angus T. Jones</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p2853228_e_h10_ac.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20230110203000 -0500" stop="20230110210000 -0500" channel="IFC">
+    <title lang="en">Two and a Half Men</title>
+    <sub-title lang="en">Damn You, Eggs Benedict</sub-title>
+    <desc lang="en">Charlie attempts to cook, Alan tries to date two women at the same time, and Jake samples beer.(n)</desc>
+    <credits>
+      <actor>Charlie Sheen</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Angus T. Jones</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p2853229_e_h8_ad.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20230110210000 -0500" stop="20230110213000 -0500" channel="IFC">
+    <title lang="en">Two and a Half Men</title>
+    <sub-title lang="en">The Flavin' and the Mavin</sub-title>
+    <desc lang="en">Alan awaits disaster as Charlie romances Alan's sweet receptionist.(n)</desc>
+    <credits>
+      <actor>Charlie Sheen</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Angus T. Jones</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p2853230_e_h10_ac.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20230110213000 -0500" stop="20230110220000 -0500" channel="IFC">
+    <title lang="en">Two and a Half Men</title>
+    <sub-title lang="en">A Jock Strap in Hell</sub-title>
+    <desc lang="en">The guys run into Jake's former teacher (Alicia Witt) who became a stripper after a fling with Charlie; Charlie gives her a room and a job to try and help her out, but things get out of control.(n)</desc>
+    <credits>
+      <actor>Charlie Sheen</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Angus T. Jones</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p2853231_e_h10_ae.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20230110220000 -0500" stop="20230110223000 -0500" channel="IFC">
+    <title lang="en">Two and a Half Men</title>
+    <sub-title lang="en">It's Always Nazi Week</sub-title>
+    <desc lang="en">When Judith kicks Herb to the curb, Alan comes knocking.(n)</desc>
+    <credits>
+      <actor>Charlie Sheen</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Angus T. Jones</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p2853232_e_h10_ad.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20230110223000 -0500" stop="20230110230000 -0500" channel="IFC">
+    <title lang="en">Two and a Half Men</title>
+    <sub-title lang="en">Best H.O. Money Can Buy</sub-title>
+    <desc lang="en">Alan tries to escape Judith's clutches as Charlie and Herb go on the prowl.(n)</desc>
+    <credits>
+      <actor>Charlie Sheen</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Angus T. Jones</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p2853233_e_h10_ad.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20230110230000 -0500" stop="20230110233000 -0500" channel="IFC">
+    <title lang="en">Two and a Half Men</title>
+    <sub-title lang="en">Pinocchio's Mouth</sub-title>
+    <desc lang="en">Charlie has trouble adjusting when his new girlfriend asks him to spend the night at her place.(n)</desc>
+    <credits>
+      <actor>Charlie Sheen</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Angus T. Jones</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p2853234_e_h10_ad.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20230110233000 -0500" stop="20230111000000 -0500" channel="IFC">
+    <title lang="en">Two and a Half Men</title>
+    <sub-title lang="en">The Mooch at the Boo</sub-title>
+    <desc lang="en">Charlie is left to cover when Jake disappears with the neighbor's daughter; Alan scores a hot date, thanks in part to Charlie's car.(n)</desc>
+    <credits>
+      <actor>Charlie Sheen</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Angus T. Jones</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184925_b_v8_ao.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20230111000000 -0500" stop="20230111003000 -0500" channel="IFC">
+    <title lang="en">Two and a Half Men</title>
+    <sub-title lang="en">Bite Me, Supreme Court</sub-title>
+    <desc lang="en">Marty Pepper (Carl Reiner) proposes to Evelyn; Alan and Walden plan a bachelor party for Marty.(n)</desc>
+    <credits>
+      <actor>Ashton Kutcher</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Conchata Ferrell</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184925_b_v8_ao.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20230111003000 -0500" stop="20230111010000 -0500" channel="IFC">
+    <title lang="en">Two and a Half Men</title>
+    <sub-title lang="en">Three Fingers of Creme de Menthe</sub-title>
+    <desc lang="en">Alan finds out that Lyndsey broke up with Larry without telling him; Walden tries to prove he is a man's man.(n)</desc>
+    <credits>
+      <actor>Ashton Kutcher</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Conchata Ferrell</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184925_b_v8_ao.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20230111010000 -0500" stop="20230111013000 -0500" channel="IFC">
+    <title lang="en">Scrubs</title>
+    <sub-title lang="en">Our Drunk Friend</sub-title>
+    <desc lang="en">Turk, J.D. and Dr. Kelso play matchmaker when they spot a potential love connection between Drew and Denise.(n)</desc>
+    <credits>
+      <actor>Zach Braff</actor>
+      <actor>Donald Faison</actor>
+      <actor>John C. McGinley</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184720_i_h10_ab.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230111013000 -0500" stop="20230111020000 -0500" channel="IFC">
+    <title lang="en">Scrubs</title>
+    <sub-title lang="en">Our Role Models</sub-title>
+    <desc lang="en">J.D. and Drew learn a tough lesson in mentoring when Dr. Cox and Lucy show them that the student is sometimes the teacher.(n)</desc>
+    <credits>
+      <actor>Zach Braff</actor>
+      <actor>Donald Faison</actor>
+      <actor>John C. McGinley</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p7932180_e_s2_aa.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230111020000 -0500" stop="20230111023000 -0500" channel="IFC">
+    <title lang="en">Scrubs</title>
+    <sub-title lang="en">Our Histories</sub-title>
+    <desc lang="en">While their wives are out of town, J.D. and Turk attend a med student's party; Kelso says goodbye to Ted and Gooch.(n)</desc>
+    <credits>
+      <actor>Zach Braff</actor>
+      <actor>Donald Faison</actor>
+      <actor>John C. McGinley</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184720_i_h10_ab.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230111023000 -0500" stop="20230111030000 -0500" channel="IFC">
+    <title lang="en">Scrubs</title>
+    <sub-title lang="en">Our Mysteries</sub-title>
+    <desc lang="en">J.D. seeks Turk's approval; Lucy tries to find the courage to perform a medical procedure; Drew and Denise make things official.(n)</desc>
+    <credits>
+      <actor>Zach Braff</actor>
+      <actor>Donald Faison</actor>
+      <actor>John C. McGinley</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184720_i_h10_ab.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230111030000 -0500" stop="20230111033000 -0500" channel="IFC">
+    <title lang="en">Scrubs</title>
+    <sub-title lang="en">Our New Girl-Bro</sub-title>
+    <desc lang="en">Turk tries to find a replacement best friend; Elliott offers some advice to exhausted Lucy.(n)</desc>
+    <credits>
+      <actor>Zach Braff</actor>
+      <actor>Donald Faison</actor>
+      <actor>John C. McGinley</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p7956604_e_h10_ac.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230111033000 -0500" stop="20230111040000 -0500" channel="IFC">
+    <title lang="en">Scrubs</title>
+    <sub-title lang="en">Our White Coats</sub-title>
+    <desc lang="en">The med students must figure out why they want to be doctors; Elliot gives Denise relationship advice.(n)</desc>
+    <credits>
+      <actor>Zach Braff</actor>
+      <actor>Donald Faison</actor>
+      <actor>John C. McGinley</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p7958118_e_h10_ac.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230111040000 -0500" stop="20230111043000 -0500" channel="IFC">
+    <title lang="en">Scrubs</title>
+    <sub-title lang="en">Our Couples</sub-title>
+    <desc lang="en">Dr. Cox and Turk's rivalry is put aside for a gravely ill patient.(n)</desc>
+    <credits>
+      <actor>Zach Braff</actor>
+      <actor>Donald Faison</actor>
+      <actor>John C. McGinley</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p7958140_e_s2_aa.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230111043000 -0500" stop="20230111050000 -0500" channel="IFC">
+    <title lang="en">Scrubs</title>
+    <sub-title lang="en">Our Stuff Gets Real</sub-title>
+    <desc lang="en">The reality of having a baby settles in for Elliot and J.D.; Lucy struggles with the reality of operating on people.(n)</desc>
+    <credits>
+      <actor>Zach Braff</actor>
+      <actor>Donald Faison</actor>
+      <actor>John C. McGinley</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p7968897_e_h10_ac.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20230111050000 -0500" stop="20230111053000 -0500" channel="IFC">
+    <title lang="en">Scrubs</title>
+    <sub-title lang="en">Our True Lies</sub-title>
+    <desc lang="en">When a student cheats on an exam Dr. Cox takes it out on the whole class; Denise makes a surprising admission.(n)</desc>
+    <credits>
+      <actor>Zach Braff</actor>
+      <actor>Donald Faison</actor>
+      <actor>John C. McGinley</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p7968899_e_h10_ad.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230111053000 -0500" stop="20230111060000 -0500" channel="IFC">
+    <title lang="en">Scrubs</title>
+    <sub-title lang="en">Our Dear Leaders</sub-title>
+    <desc lang="en">Dr. Cox makes Lucy his.(n)</desc>
+    <credits>
+      <actor>Zach Braff</actor>
+      <actor>Donald Faison</actor>
+      <actor>John C. McGinley</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p7968902_e_h10_ac.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230111060000 -0500" stop="20230111063000 -0500" channel="IFC">
+    <title lang="en">Scrubs</title>
+    <sub-title lang="en">Our Driving Issues</sub-title>
+    <desc lang="en">Kelso and Cole lean on each other for support when they find friends are hard to come by.(n)</desc>
+    <credits>
+      <actor>Zach Braff</actor>
+      <actor>Donald Faison</actor>
+      <actor>John C. McGinley</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p7968903_e_h10_ac.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230111063000 -0500" stop="20230111070000 -0500" channel="IFC">
+    <title lang="en">Scrubs</title>
+    <sub-title lang="en">Our Thanks</sub-title>
+    <desc lang="en">The med students are thankful when Cole identifies his true calling; Lucy finds her inspiration.(n)</desc>
+    <credits>
+      <actor>Zach Braff</actor>
+      <actor>Donald Faison</actor>
+      <actor>John C. McGinley</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184720_i_h10_ab.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230111070000 -0500" stop="20230111073000 -0500" channel="IFC">
+    <title lang="en">Scrubs</title>
+    <sub-title lang="en">My First Day</sub-title>
+    <desc lang="en">Medical intern John.(n)</desc>
+    <credits>
+      <actor>Zach Braff</actor>
+      <actor>Sarah Chalke</actor>
+      <actor>Donald Faison</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184720_i_h10_ab.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20230111073000 -0500" stop="20230111080000 -0500" channel="IFC">
+    <title lang="en">Scrubs</title>
+    <sub-title lang="en">My Mentor</sub-title>
+    <desc lang="en">J.D. seeks help from Dr. Cox when he fails to get a cancer patient to stop smoking.(n)</desc>
+    <credits>
+      <actor>Zach Braff</actor>
+      <actor>Sarah Chalke</actor>
+      <actor>Donald Faison</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184720_i_h10_ab.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20230111080000 -0500" stop="20230111083000 -0500" channel="IFC">
+    <title lang="en">Scrubs</title>
+    <sub-title lang="en">My Best Friend's Mistake</sub-title>
+    <desc lang="en">J.D. becomes jealous when Turk abandons him to hang out with his new girlfriend; Elliot steps up her flirtations.(n)</desc>
+    <credits>
+      <actor>Zach Braff</actor>
+      <actor>Sarah Chalke</actor>
+      <actor>Donald Faison</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184720_i_h10_ab.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20230111083000 -0500" stop="20230111090000 -0500" channel="IFC">
+    <title lang="en">Scrubs</title>
+    <sub-title lang="en">My Old Lady</sub-title>
+    <desc lang="en">J.D. forms a bond with a dying woman; Turk performs surgery on a hernia patient; Elliot deals with a wild Carla.(n)</desc>
+    <credits>
+      <actor>Zach Braff</actor>
+      <actor>Sarah Chalke</actor>
+      <actor>Donald Faison</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p2528484_e_s2_aa.jpg" />
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20230111090000 -0500" stop="20230111093000 -0500" channel="IFC">
+    <title lang="en">Three's Company</title>
+    <sub-title lang="en">The Heiress</sub-title>
+    <desc lang="en">One of Janet's customers names her in his will.(n)</desc>
+    <credits>
+      <actor>John Ritter</actor>
+      <actor>Joyce DeWitt</actor>
+      <actor>Priscilla Barnes</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184118_b_v8_ba.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230111093000 -0500" stop="20230111100000 -0500" channel="IFC">
+    <title lang="en">Three's Company</title>
+    <sub-title lang="en">Cupid Works Overtime</sub-title>
+    <desc lang="en">Jack falls for a busy stewardess (Mary Cadorette).(n)</desc>
+    <credits>
+      <actor>John Ritter</actor>
+      <actor>Joyce DeWitt</actor>
+      <actor>Priscilla Barnes</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184118_b_v8_ba.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230111100000 -0500" stop="20230111103000 -0500" channel="IFC">
+    <title lang="en">Three's Company</title>
+    <sub-title lang="en">Friends and Lovers</sub-title>
+    <desc lang="en">Janet and Phillip plan for the wedding at Janet's apartment; Jack wants to win the approval of Vicki's father; Mr Bradford tells Jack that Vicki was up for a promotion at work in another state and turned it down.(n)</desc>
+    <credits>
+      <actor>John Ritter</actor>
+      <actor>Joyce DeWitt</actor>
+      <actor>Priscilla Barnes</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184118_b_v8_ba.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230111103000 -0500" stop="20230111110000 -0500" channel="IFC">
+    <title lang="en">Three's Company</title>
+    <sub-title lang="en">Friends and Lovers</sub-title>
+    <desc lang="en">Vicky suggests that she and Jack live together after explaining her fear of marriage.(n)</desc>
+    <credits>
+      <actor>John Ritter</actor>
+      <actor>Joyce DeWitt</actor>
+      <actor>Priscilla Barnes</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184118_b_v8_ba.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230111110000 -0500" stop="20230111113000 -0500" channel="IFC">
+    <title lang="en">Three's Company</title>
+    <sub-title lang="en">A Man About the House</sub-title>
+    <desc lang="en">Chrissy and Janet try to convince their landlord that their new male roommate is gay.(n)</desc>
+    <credits>
+      <actor>John Ritter</actor>
+      <actor>Joyce DeWitt</actor>
+      <actor>Suzanne Somers</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184118_b_v8_ba.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230111113000 -0500" stop="20230111120000 -0500" channel="IFC">
+    <title lang="en">Three's Company</title>
+    <sub-title lang="en">And Mother Makes Four</sub-title>
+    <desc lang="en">Chrissy's mother visits for the first time since Jack moved in with the girls.(n)</desc>
+    <credits>
+      <actor>John Ritter</actor>
+      <actor>Joyce DeWitt</actor>
+      <actor>Suzanne Somers</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184118_b_v8_ba.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230111120000 -0500" stop="20230111123000 -0500" channel="IFC">
+    <title lang="en">Three's Company</title>
+    <sub-title lang="en">It's Only Money</sub-title>
+    <desc lang="en">The roommates fear the rent money has been stolen.(n)</desc>
+    <credits>
+      <actor>John Ritter</actor>
+      <actor>Joyce DeWitt</actor>
+      <actor>Suzanne Somers</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184118_b_v8_ba.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230111123000 -0500" stop="20230111130000 -0500" channel="IFC">
+    <title lang="en">Three's Company</title>
+    <sub-title lang="en">Jack the Giant Killer</sub-title>
+    <desc lang="en">Jack feels guilty about not standing up to a tough guy who makes a play for Chrissy.(n)</desc>
+    <credits>
+      <actor>John Ritter</actor>
+      <actor>Joyce DeWitt</actor>
+      <actor>Suzanne Somers</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184118_b_v8_ba.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230111130000 -0500" stop="20230111133000 -0500" channel="IFC">
+    <title lang="en">Three's Company</title>
+    <sub-title lang="en">No Children, No Dogs</sub-title>
+    <desc lang="en">Larry gives Jack and the girls a puppy even though Roper doesn't allow pets.(n)</desc>
+    <credits>
+      <actor>John Ritter</actor>
+      <actor>Joyce DeWitt</actor>
+      <actor>Suzanne Somers</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184118_b_v8_ba.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230111133000 -0500" stop="20230111140000 -0500" channel="IFC">
+    <title lang="en">Three's Company</title>
+    <sub-title lang="en">Roper's Niece</sub-title>
+    <desc lang="en">Convinced that Jack is gay, Roper decides that he is a safe date for his visiting niece.(n)</desc>
+    <credits>
+      <actor>John Ritter</actor>
+      <actor>Joyce DeWitt</actor>
+      <actor>Suzanne Somers</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184118_b_v8_ba.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230111140000 -0500" stop="20230111143000 -0500" channel="IFC">
+    <title lang="en">Three's Company</title>
+    <sub-title lang="en">Jack Looks for a Job</sub-title>
+    <desc lang="en">Jack's modeling job requires him to pose nude.(n)</desc>
+    <credits>
+      <actor>John Ritter</actor>
+      <actor>Joyce DeWitt</actor>
+      <actor>Suzanne Somers</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184118_b_v8_ba.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230111143000 -0500" stop="20230111150000 -0500" channel="IFC">
+    <title lang="en">Three's Company</title>
+    <sub-title lang="en">Chrissy's Date</sub-title>
+    <desc lang="en">Jack and Janet learn Chrissy's beau is married.(n)</desc>
+    <credits>
+      <actor>John Ritter</actor>
+      <actor>Joyce DeWitt</actor>
+      <actor>Suzanne Somers</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184118_b_v8_ba.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230111150000 -0500" stop="20230111153000 -0500" channel="IFC">
+    <title lang="en">Everybody Loves Raymond</title>
+    <sub-title lang="en">Hackidu</sub-title>
+    <desc lang="en">Ray pays a high price for a Hackidu card when the owner (Paul Reubens) of a comic-book store gives him a hard time.(n)</desc>
+    <credits>
+      <actor>Ray Romano</actor>
+      <actor>Patricia Heaton</actor>
+      <actor>Doris Roberts</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1926195_e_h10_ac.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230111153000 -0500" stop="20230111160000 -0500" channel="IFC">
+    <title lang="en">Everybody Loves Raymond</title>
+    <sub-title lang="en">Debra Makes Something Good</sub-title>
+    <desc lang="en">Debra throws the Barone family into turmoil when she finally cooks something good.(n)</desc>
+    <credits>
+      <actor>Ray Romano</actor>
+      <actor>Patricia Heaton</actor>
+      <actor>Doris Roberts</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184243_i_h10_aa.jpg" />
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20230111160000 -0500" stop="20230111163000 -0500" channel="IFC">
+    <title lang="en">Everybody Loves Raymond</title>
+    <sub-title lang="en">Marie and Frank's New Friends</sub-title>
+    <desc lang="en">Ray and Debra scheme to get Frank and Marie out of their hair by having them make new friends, but the plan blows up in their faces.(n)</desc>
+    <credits>
+      <actor>Ray Romano</actor>
+      <actor>Patricia Heaton</actor>
+      <actor>Doris Roberts</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1926197_e_h11_ad.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230111163000 -0500" stop="20230111170000 -0500" channel="IFC">
+    <title lang="en">Everybody Loves Raymond</title>
+    <sub-title lang="en">Alone Time</sub-title>
+    <desc lang="en">Ray is worried when Debra asks him to take the kids out more so she can have time to herself.(n)</desc>
+    <credits>
+      <actor>Ray Romano</actor>
+      <actor>Patricia Heaton</actor>
+      <actor>Doris Roberts</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184243_i_h10_aa.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230111170000 -0500" stop="20230111173000 -0500" channel="IFC">
+    <title lang="en">Everybody Loves Raymond</title>
+    <sub-title lang="en">Someone's Cranky</sub-title>
+    <desc lang="en">While crabby Robert convalesces at his parents' home after a close encounter with a bull, Debra searches for the cause of his mean-spirited behavior.(n)</desc>
+    <credits>
+      <actor>Ray Romano</actor>
+      <actor>Patricia Heaton</actor>
+      <actor>Doris Roberts</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184243_i_h10_aa.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230111173000 -0500" stop="20230111180000 -0500" channel="IFC">
+    <title lang="en">Everybody Loves Raymond</title>
+    <sub-title lang="en">Bad Moon Rising</sub-title>
+    <desc lang="en">Ray pushes Debra over the edge when he suggests that a pill could alleviate all of her PMS moodiness.(n)</desc>
+    <credits>
+      <actor>Ray Romano</actor>
+      <actor>Patricia Heaton</actor>
+      <actor>Doris Roberts</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184243_i_h10_aa.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230111180000 -0500" stop="20230111183000 -0500" channel="IFC">
+    <title lang="en">Everybody Loves Raymond</title>
+    <sub-title lang="en">Confronting the Attacker</sub-title>
+    <desc lang="en">Still reeling after his encounter with a bull, Robert loses his nerve on his first day back with the police force and decides to quit his job to begin a new career in telemarketing.(n)</desc>
+    <credits>
+      <actor>Ray Romano</actor>
+      <actor>Patricia Heaton</actor>
+      <actor>Doris Roberts</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184243_i_h10_aa.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230111183000 -0500" stop="20230111190000 -0500" channel="IFC">
+    <title lang="en">Everybody Loves Raymond</title>
+    <sub-title lang="en">Robert's Divorce</sub-title>
+    <desc lang="en">The sight of Robert's ex-wife prompts the family to reminisce about the demise of the marriage.(n)</desc>
+    <credits>
+      <actor>Ray Romano</actor>
+      <actor>Patricia Heaton</actor>
+      <actor>Doris Roberts</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184243_i_h10_aa.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230111190000 -0500" stop="20230111193000 -0500" channel="IFC">
+    <title lang="en">Everybody Loves Raymond</title>
+    <sub-title lang="en">Italy</sub-title>
+    <desc lang="en">Marie surprises the entire family with a two-week vacation in Italy, but for Ray, it's two weeks too long.(n)</desc>
+    <credits>
+      <actor>Ray Romano</actor>
+      <actor>Patricia Heaton</actor>
+      <actor>Doris Roberts</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184243_i_h10_aa.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230111193000 -0500" stop="20230111200000 -0500" channel="IFC">
+    <title lang="en">Everybody Loves Raymond</title>
+    <sub-title lang="en">Italy</sub-title>
+    <desc lang="en">Marie surprises the entire family with a two-week vacation in Italy, but for Ray, it's two weeks too long.(n)</desc>
+    <credits>
+      <actor>Ray Romano</actor>
+      <actor>Patricia Heaton</actor>
+      <actor>Doris Roberts</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184243_i_h10_aa.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230111200000 -0500" stop="20230111203000 -0500" channel="IFC">
+    <title lang="en">Everybody Loves Raymond</title>
+    <sub-title lang="en">Meant to Be</sub-title>
+    <desc lang="en">Robert quickly goes from deciding which one of three beautiful women he likes to wondering if any still like him.(n)</desc>
+    <credits>
+      <actor>Ray Romano</actor>
+      <actor>Patricia Heaton</actor>
+      <actor>Doris Roberts</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184243_i_h10_aa.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230111203000 -0500" stop="20230111210000 -0500" channel="IFC">
+    <title lang="en">Everybody Loves Raymond</title>
+    <sub-title lang="en">Pet Cemetery</sub-title>
+    <desc lang="en">When Debra and the kids go away for the weekend, Ray accidentally kills Ally's hamster.(n)</desc>
+    <credits>
+      <actor>Ray Romano</actor>
+      <actor>Patricia Heaton</actor>
+      <actor>Doris Roberts</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184243_i_h10_aa.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230111210000 -0500" stop="20230111213000 -0500" channel="IFC">
+    <title lang="en">Everybody Loves Raymond</title>
+    <sub-title lang="en">The Author</sub-title>
+    <desc lang="en">Sibling rivalry heats up when a publishing company passes on Ray's sports book and Robert gets promoted.(n)</desc>
+    <credits>
+      <actor>Ray Romano</actor>
+      <actor>Patricia Heaton</actor>
+      <actor>Doris Roberts</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184243_i_h10_aa.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230111213000 -0500" stop="20230111220000 -0500" channel="IFC">
+    <title lang="en">Everybody Loves Raymond</title>
+    <sub-title lang="en">The Walk to the Door</sub-title>
+    <desc lang="en">Ray runs into a girl he disrespected when they dated in high school, but he ends up regretting an apology.(n)</desc>
+    <credits>
+      <actor>Ray Romano</actor>
+      <actor>Patricia Heaton</actor>
+      <actor>Doris Roberts</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184243_i_h10_aa.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230111220000 -0500" stop="20230111223000 -0500" channel="IFC">
+    <title lang="en">Everybody Loves Raymond</title>
+    <sub-title lang="en">Young Girl</sub-title>
+    <desc lang="en">Everything goes astray when Robert starts dating a woman half his age.(n)</desc>
+    <credits>
+      <actor>Ray Romano</actor>
+      <actor>Patricia Heaton</actor>
+      <actor>Doris Roberts</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184243_i_h10_aa.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230111223000 -0500" stop="20230111230000 -0500" channel="IFC">
+    <title lang="en">Everybody Loves Raymond</title>
+    <sub-title lang="en">Fighting In-Laws</sub-title>
+    <desc lang="en">While celebrating Thanksgiving, Debra discovers that her seemingly contented parents are miserable with each other.(n)</desc>
+    <credits>
+      <actor>Ray Romano</actor>
+      <actor>Patricia Heaton</actor>
+      <actor>Doris Roberts</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184243_i_h10_aa.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230111230000 -0500" stop="20230111233000 -0500" channel="IFC">
+    <title lang="en">Everybody Loves Raymond</title>
+    <sub-title lang="en">The Sneeze</sub-title>
+    <desc lang="en">Ray can't help but enjoy the extra attention his mother lavishes on him when he feels under the weather.(n)</desc>
+    <credits>
+      <actor>Ray Romano</actor>
+      <actor>Patricia Heaton</actor>
+      <actor>Doris Roberts</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184243_i_h10_aa.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20230111233000 -0500" stop="20230112000000 -0500" channel="IFC">
+    <title lang="en">Everybody Loves Raymond</title>
+    <sub-title lang="en">Christmas Present</sub-title>
+    <desc lang="en">Ray buys Debra an extravagant gift, hoping she'll be so overjoyed that she'll let him take a golf trip.(n)</desc>
+    <credits>
+      <actor>Ray Romano</actor>
+      <actor>Patricia Heaton</actor>
+      <actor>Doris Roberts</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <category lang="en">Christmas</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184243_i_h10_aa.jpg" />
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
   <programme start="20230110060000 -0500" stop="20230110063000 -0500" channel="SundanceTV USA">
     <title lang="en">Gilligan's Island</title>
     <sub-title lang="en">Music Hath Charm</sub-title>
@@ -1270,14 +2542,6 @@
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p185123_b_v12_yo.jpg" />
     <rating system="US">
       <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20230111000000 +0000" stop="20230111020000 +0000" channel="CANAL 5">
-    <title lang="en">Anaconda 2: En Busca de la Orquídea Sangrienta</title>
-    <desc lang="en">"Thriller" sobre una expedición científica en Borneo, donde serpientes gigantes merodean en la selva.(n)</desc>
-    <date>2004</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
     </rating>
   </programme>
   <programme start="20230111020000 +0000" stop="20230111040000 +0000" channel="CANAL 5">
@@ -5964,12 +7228,6 @@
       <value>8.0</value>
     </star-rating>
   </programme>
-  <programme start="20230111013000 +0000" stop="20230111020000 +0000" channel="Nick Jr.">
-    <title lang="en">Patrulla canina</title>
-    <sub-title lang="en">Caballeros de rescate: ¡los cachorros salvan el torneo! / ¡Los cachorros salvan a los dragones bebé!</sub-title>
-    <desc lang="en">Los Paw Patrol ayudan a un Caballero Misterioso, la Princesa disfrazada, a ganar un torneo.(n)</desc>
-    <date>2022</date>
-  </programme>
   <programme start="20230111020000 +0000" stop="20230111023000 +0000" channel="Nick Jr.">
     <title lang="en">Las pistas de Blue y tú</title>
     <sub-title lang="en">Riamos con Blue</sub-title>
@@ -6633,11 +7891,6 @@
     <rating system="MPAA">
       <value>TV-Y</value>
     </rating>
-  </programme>
-  <programme start="20230111010000 +0000" stop="20230111020000 +0000" channel="CDN 37">
-    <title lang="en">Enfoque final (live)</title>
-    <desc lang="en">Un programa periodístico que aborda los acontecimientos más relevantes del día.(n)</desc>
-    <date>2021</date>
   </programme>
   <programme start="20230111020000 +0000" stop="20230111030000 +0000" channel="CDN 37">
     <title lang="en">55 Minutos</title>
@@ -7883,10 +9136,6 @@
       <value>TVY</value>
     </rating>
   </programme>
-  <programme start="20230111010000 +0000" stop="20230111020000 +0000" channel="Telemedios Canal 25">
-    <title lang="en">@ 9pm (live)</title>
-    <date>2022</date>
-  </programme>
   <programme start="20230111020000 +0000" stop="20230111023000 +0000" channel="Telemedios Canal 25">
     <title lang="en">Noticias Cibao visión - 2da emisión (live)</title>
     <desc lang="en">Te llevamos a un recorrido por las informaciones más relevantes hasta el momento,.(n)</desc>
@@ -8858,9 +10107,6 @@
       <value>TV14</value>
     </rating>
   </programme>
-  <programme start="20230111000000 +0000" stop="20230111020000 +0000" channel="Teleuniverso">
-    <title lang="en">Buena noche</title>
-  </programme>
   <programme start="20230111020000 +0000" stop="20230111023000 +0000" channel="Teleuniverso">
     <title lang="en">Noticiero Universal</title>
   </programme>
@@ -8997,11 +10243,6 @@
   </programme>
   <programme start="20230112230000 +0000" stop="20230113000000 +0000" channel="Teleuniverso">
     <title lang="en">Panorámica</title>
-  </programme>
-  <programme start="20230111010000 +0000" stop="20230111020000 +0000" channel="RTVD">
-    <title lang="en">Espacio Canal 4RD</title>
-    <desc lang="en">Un espacio que busca producir contenidos que difundan los valores del Estado Dominicano.(n)</desc>
-    <date>2021</date>
   </programme>
   <programme start="20230111020000 +0000" stop="20230111030000 +0000" channel="RTVD">
     <title lang="en">Museos abiertos</title>
@@ -9194,10 +10435,6 @@
     <desc lang="en">Un espacio que busca producir contenidos que difundan los valores del Estado Dominicano.(n)</desc>
     <date>2021</date>
   </programme>
-  <programme start="20230111010000 +0000" stop="20230111020000 +0000" channel="Colorvision">
-    <title lang="en">Es temprano todavia</title>
-    <desc lang="en">El espacio que abre una nueva etapa en la televisión para el veterano animador Jochy Santos. Un programa dinámico y entretenido, en el que Jochy y su equipo nos contagia, al igual que a sus invitados de su buena vibra y particular humor.(n)</desc>
-  </programme>
   <programme start="20230111020000 +0000" stop="20230111030000 +0000" channel="Colorvision">
     <title lang="en">Noticias SIN</title>
     <desc lang="en">Noticias diarias del acontecer nacional.(n)</desc>
@@ -9372,9 +10609,6 @@
   <programme start="20230112230000 +0000" stop="20230113000000 +0000" channel="Colorvision">
     <title lang="en">Noticias y Mucho Más</title>
     <desc lang="en">Noticias e informaciones de actualidad.(n)</desc>
-  </programme>
-  <programme start="20230111011200 +0000" stop="20230111015600 +0000" channel="Aplauso">
-    <title lang="en">Confidente</title>
   </programme>
   <programme start="20230111015600 +0000" stop="20230111023900 +0000" channel="Aplauso">
     <title lang="en">Poseídos</title>
@@ -9590,12 +10824,6 @@
     <title lang="en">El Bronx</title>
     <desc lang="en">Basado en los eventos que ocurrieron en la ciudad de El Bronx, un lugar que se encuentra en el centro de Bogotá, donde la gente vivía en la miseria, las drogas y el crimen.(n)</desc>
     <date>2018</date>
-  </programme>
-  <programme start="20230111010000 +0000" stop="20230111020000 +0000" channel="Comedy Central">
-    <title lang="en">La clínica (new)</title>
-    <desc lang="en">TBS estrena la exitosa sitcom mexicana dirigida por Gustavo Loza.(n)</desc>
-    <date>2016</date>
-    <premiere />
   </programme>
   <programme start="20230111020000 +0000" stop="20230111023000 +0000" channel="Comedy Central">
     <title lang="en">Sabrina, la bruja adolescente (new)</title>
@@ -10473,22 +11701,6 @@
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9395095_b_s4_ac.jpg" />
-  </programme>
-  <programme start="20230111013000 +0000" stop="20230111020000 +0000" channel="All Arts US">
-    <title lang="en">Stories From the Stage</title>
-    <sub-title lang="en">New Chapter</sub-title>
-    <desc lang="en">How do one starts a new chapter in life. It means going through something for the first time. And that inexperience comes with confronting changes big and small, and everything that comes with it: apprehension, courage, and ultimately, lessons learned. In response to racism, Salil Patel takes a different path; after COVID isolation, Estella Ngufor decides to reach out to her neighbors; and Katie Liesener attempts a new approach after a disastrous first day on the job.(n)</desc>
-    <credits>
-      <director>Michael Rossi</director>
-      <producer>Liz Cheng</producer>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Talk &amp; Interview</category>
-    <category lang="en">Arts</category>
-    <episode-num system="onscreen">S5 E17</episode-num>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
   </programme>
   <programme start="20230111020000 +0000" stop="20230111030000 +0000" channel="All Arts US">
     <title lang="en">American Masters</title>
@@ -15410,12 +16622,6 @@
     <rating system="US">
       <value>TVY7</value>
     </rating>
-  </programme>
-  <programme start="20230111000000 +0000" stop="20230111020000 +0000" channel="Afizzionados">
-    <title lang="en">Fútbol: Liga MX</title>
-    <sub-title lang="en">Toluca vs. Guadalajara</sub-title>
-    <desc lang="en">Toluca vs. Guadalajara. Desde Estadio Nemesio Diez.(n)</desc>
-    <date>2022</date>
   </programme>
   <programme start="20230111020000 +0000" stop="20230111030000 +0000" channel="Afizzionados">
     <title lang="en">Súper Estadio (live)</title>
@@ -26746,11 +27952,6 @@
     <category lang="it">Musica</category>
     <icon src="https://guidatv.sky.it/uuid/Musica_Cover_Ein_MY0UX.png" />
   </programme>
-  <programme start="20230111013000 +0000" stop="20230111020000 +0000" channel="RT (Russia Today)">
-    <title lang="en">Entrevista</title>
-    <sub-title lang="en">Francisco Jiménez</sub-title>
-    <date>2023</date>
-  </programme>
   <programme start="20230111020000 +0000" stop="20230111023000 +0000" channel="RT (Russia Today)">
     <title lang="en">Noticias</title>
   </programme>
@@ -28980,10 +30181,6 @@
       <value>TVPG</value>
     </rating>
   </programme>
-  <programme start="20230111010000 +0000" stop="20230111020000 +0000" channel="Televisión Dominicana">
-    <title lang="en">Noticias y Más</title>
-    <desc lang="en">Noticias e informaciones de actualidad.(n)</desc>
-  </programme>
   <programme start="20230111020000 +0000" stop="20230111030000 +0000" channel="Televisión Dominicana">
     <title lang="en">Esta noche Mariasela</title>
     <desc lang="en">Temas de actualidad, entretenimiento y responsabilidad social, con historias y segmentos novedosos.(n)</desc>
@@ -30084,10 +31281,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20230111010000 +0000" stop="20230111020000 +0000" channel="Univisión tlnovelas">
-    <title lang="en">Amorcito corazón</title>
-    <desc lang="en">Este melodrama narra la historia de Isabel, una arquitecta, Zoe y Lucía, novicia de corazón.(n)</desc>
-  </programme>
   <programme start="20230111020000 +0000" stop="20230111030000 +0000" channel="Univisión tlnovelas">
     <title lang="en">Mariana de la Noche</title>
     <desc lang="en">Una mujer joven se enamora de un hombre recién llegado a su pueblo minero igual que su tía egoísta quien le hará la vida imposible a su sobrina y hará lo que sea con tal de quedarse con él.(n)</desc>
@@ -30325,7 +31518,7 @@
     <desc lang="en">The decade's biggest videos.(n)</desc>
     <category lang="en">Music</category>
     <category lang="en">Pop</category>
-    <icon src="https://images.pluto.tv/episodes/62fae54520b977001eecc93c/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <icon src="https://images.pluto.tv/episodes/63bd92b1eb85c5001335051d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
   <programme start="20230111040000 +0000" stop="20230111050000 +0000" channel="Vevo 2K">
     <title lang="en">Hip Hop Heavy</title>
@@ -30589,14 +31782,19 @@
     <category lang="en">Pop</category>
     <icon src="https://images.pluto.tv/episodes/63b853a7eb85c5001332d17c/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
-  <programme start="20230111133000 +0000" stop="20230111150000 +0000" channel="Vevo Pop">
-    <title lang="en">Vevo Pop</title>
-    <desc lang="en">No information available.(n)</desc>
-    <category lang="en">No information available</category>
-    <icon src="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-    <rating>
-      <value>No Rating</value>
-    </rating>
+  <programme start="20230111133000 +0000" stop="20230111140000 +0000" channel="Vevo Pop">
+    <title lang="en">Pop Videos</title>
+    <desc lang="en">Hot new videos.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Pop</category>
+    <icon src="https://images.pluto.tv/episodes/63b85abbeb85c5001332e44d/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20230111140000 +0000" stop="20230111150000 +0000" channel="Vevo Pop">
+    <title lang="en">New Year, New You!</title>
+    <desc lang="en">Videos to keep you motivated and inspired toward your goals.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">Pop</category>
+    <icon src="https://images.pluto.tv/episodes/63aa9f1f4da5ab0013078fe8/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
   <programme start="20230111150000 +0000" stop="20230111210000 +0000" channel="Vevo Pop">
     <title lang="en">Vevo Pop</title>
@@ -30893,7 +32091,14 @@
     <category lang="en">R&amp;B/Soul</category>
     <icon src="https://images.pluto.tv/episodes/63a53609377c6f00135049c4/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
-  <programme start="20230111140000 +0000" stop="20230111150000 +0000" channel="Vevo R&amp;B">
+  <programme start="20230111140000 +0000" stop="20230111143000 +0000" channel="Vevo R&amp;B">
+    <title lang="en">Set the Mood: Chlöe</title>
+    <desc lang="en">Check out the R&amp;B pop singer's playlist of videos to get the vibes right along with some of her videos.(n)</desc>
+    <category lang="en">Music</category>
+    <category lang="en">R&amp;B/Soul</category>
+    <icon src="https://images.pluto.tv/episodes/63bc24f3e21bf90013c55626/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme>
+  <programme start="20230111143000 +0000" stop="20230111150000 +0000" channel="Vevo R&amp;B">
     <title lang="en">Vevo R&amp;B</title>
     <desc lang="en">No information available.(n)</desc>
     <category lang="en">No information available</category>
@@ -30954,14 +32159,6 @@
     <icon src="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
       <value>No Rating</value>
-    </rating>
-  </programme>
-  <programme start="20230111010000 +0000" stop="20230111020000 +0000" channel="E!">
-    <title lang="en">Botched</title>
-    <desc lang="en">El Dr.(n)</desc>
-    <date>2014</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
     </rating>
   </programme>
   <programme start="20230111020000 +0000" stop="20230111030000 +0000" channel="E!">
@@ -31866,14 +33063,6 @@
     <title lang="en">Acércate a Rocío</title>
     <desc lang="en">Hablar de los problemas es el primer paso para superarlos, por eso, Rocío trae un programa único para hablar de todo lo que preocupa y, en conjunto, encontrar una solución.(n)</desc>
   </programme>
-  <programme start="20230111012000 +0000" stop="20230111020500 +0000" channel="UNIVERSAL REALITY">
-    <title lang="en">Million Dollar Listing Los Angeles</title>
-    <desc lang="en">Madison debe arrendar la casa de playa de lujo de un inquilino con seis perros,.(n)</desc>
-    <date>2022</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20230111020500 +0000" stop="20230111030000 +0000" channel="UNIVERSAL REALITY">
     <title lang="en">Bajo cubierta mediterráneo</title>
     <desc lang="en">Max está ansioso por la visita de su novia, Emily, en su día libre. Adam se siente cada vez más atraído por Malia, y Wes se llena de coraje para revelar sus sentimientos hacia ella. Bugsy se topa con una conversación atrevida entre Hannah y su último invitado del yate.(n)</desc>
@@ -32756,12 +33945,6 @@
     <desc lang="en">El "Asesino de Craigslist", también conocido como Philip Markoff,.(n)</desc>
     <date>2022</date>
   </programme>
-  <programme start="20230111013000 +0000" stop="20230111020000 +0000" channel="UNIVERSAL COMEDY">
-    <title lang="en">Rutherford Falls: Un pueblo sin dueños</title>
-    <sub-title lang="en">Adaptación</sub-title>
-    <desc lang="en">Nathan y Reagan se afanan por adaptarse a los rápidos cambios que se están produciendo en sus comunidades, sus vidas y su amistad.(n)</desc>
-    <date>2022</date>
-  </programme>
   <programme start="20230111020000 +0000" stop="20230111022000 +0000" channel="UNIVERSAL COMEDY">
     <title lang="en">Ghosts</title>
     <desc lang="en">Alberta está encantada cuando un gran admirador de su música visita la mansión para obtener más información sobre ella. Además, Thor convence a Hetty de dar un paseo con él con la esperanza de que le traiga a la memoria un recuerdo especial.(n)</desc>
@@ -33577,11 +34760,6 @@
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
-  </programme>
-  <programme start="20230111002000 +0000" stop="20230111020000 +0000" channel="UNIVERSAL CINEMA">
-    <title lang="en">Crimen a contrarreloj</title>
-    <desc lang="en">El detective de la policía Jack Radcliff recibe una llamada de Ashley, su sobrina, recientemente fallecida. Asombrado, ambos se dan cuenta de que algo turbio está sucediendo y deben desentrañarlo antes de que sea demasiado tarde, y hará hasta lo imposible para solucionarlo.(n)</desc>
-    <date>2020</date>
   </programme>
   <programme start="20230111020000 +0000" stop="20230111041000 +0000" channel="UNIVERSAL CINEMA">
     <title lang="en">La chica en la niebla</title>
@@ -34400,12 +35578,6 @@
     <desc lang="en">Michael es un joven armenio que viaja a Constantinopla para estudiar medicina. Allá conoce a una chica armenia de la cual se enamora a pesar de que ella está con un periodista americano. Pronto, un triángulo amoroso surgirá en tiempos de guerra.(n)</desc>
     <date>2017</date>
   </programme>
-  <programme start="20230111011400 +0000" stop="20230111020700 +0000" channel="HBO XTREME">
-    <title lang="en">Hard knocks: temporada de fútbol americano: los Cardenales de Arizona</title>
-    <sub-title lang="en">Episodio 1</sub-title>
-    <desc lang="en">La serie de HBO, ganadora del Emmy®, ofrece acceso total al documentar una franquicia de la NFL en tiempo real a lo largo de la temporada, siguiendo a los Cardinals mientras enfrentan diferentes retos y luchan por volver a la postemporada.(n)</desc>
-    <date>2022</date>
-  </programme>
   <programme start="20230111020700 +0000" stop="20230111040700 +0000" channel="HBO XTREME">
     <title lang="en">Espíritu de lucha</title>
     <desc lang="en">Esta es la historia de los Mighty Mites, el equipo de fútbol americano de un orfanato en Fort Worth que, durante la Gran Depresión, pasó de jugar sin calzado, o incluso sin balón, a competir en el campeonato estatal de Texas.(n)</desc>
@@ -34575,14 +35747,6 @@
     <title lang="en">Terremoto: La falla de San Andrés</title>
     <desc lang="en">Raymond Gaines fue piloto de helicópteros en Afganistán y hoy es piloto de rescate para el Departamento de Bomberos de Los Ángeles. Está en pleno divorcio de su mujer Emma y su hija Blake está por empezar la universidad en San Francisco.(n)</desc>
     <date>2015</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20230111010000 +0000" stop="20230111015900 +0000" channel="HBO SIGNATURE">
-    <title lang="en">La Materia Oscura</title>
-    <desc lang="en">Durante la búsqueda de una amiga secuestrada, una joven valiente de otro mundo revela un plan siniestro que involucra a niños desaparecidos y un fenómeno misterioso llamado Dust.(n)</desc>
-    <date>2019</date>
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
@@ -35455,14 +36619,6 @@
     <title lang="en">Damas en guerra</title>
     <desc lang="en">La vida de Annie es un desastre total. Cuando su mejor amiga de toda la vida revela que se va casar, las responsabilidades de dama de honor caen a Annie. Entre rituales tanto caros que extraños ella hará todo lo posible para que su mejor amiga Lillian y sus damas disfruten cada momento desde la despedida de soltera hasta el día de la boda.(n)</desc>
     <date>2011</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20230111001100 +0000" stop="20230111020000 +0000" channel="HBO Latino (West)">
-    <title lang="en">Megalodon</title>
-    <desc lang="en">Un barco militar se enfrenta cara a cara con un tiburón gigante mientras se encuentran en la búsqueda de un sumergible no identificado. Debido a esto, los tripulantes del barco deberán utilizar todo lo que tienen a bordo para defenderse de esta monstruosa bestia del mar.(n)</desc>
-    <date>2018</date>
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
@@ -36952,14 +38108,6 @@
     <category lang="en">Music</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p23756877_b_s2_aa.jpg" />
   </programme>
-  <programme start="20230111010000 +0000" stop="20230111020000 +0000" channel="RCN Novelas">
-    <title lang="en">Las santísimas</title>
-    <desc lang="en">Experiencias de cinco amigas en sus treintas que buscan la felicidad.(n)</desc>
-    <date>2015</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20230111020000 +0000" stop="20230111030000 +0000" channel="RCN Novelas">
     <title lang="en">Secretos del paraíso</title>
     <desc lang="en">Victoria Márquez está atrapada en un triángulo amoroso cuando es seducida por Cristóbal su cuñado y le es infiel a su esposo Alejandro Soler.(n)</desc>
@@ -38366,12 +39514,6 @@
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
-  </programme>
-  <programme start="20230111010000 +0000" stop="20230111020000 +0000" channel="Kids Street">
-    <title lang="en">It's a Wild Christmas</title>
-    <desc lang="en">Contrasting festive periods in the northern and southern hemispheres, featuring creatures from Tasmania, the Amazon and northern Canada.(n)</desc>
-    <date>2019</date>
-    <category lang="en">Documentary</category>
   </programme>
   <programme start="20230111020000 +0000" stop="20230111030000 +0000" channel="Kids Street">
     <title lang="en">Wild Edens</title>
@@ -40358,11 +41500,6 @@
     <desc lang="en">En plena guerra por la Independencia, Leo San Juan es confundido con un rebelde insurgente por los soldados del ejército realista mientras se encuentra en viaje de regreso a la ciudad de Puebla. Es por eso por lo que no puede evitar caer prisionero. Recluido en un viejo convento abandonado junto a otros presos, reciben la inesperada visita de un temible monstruo alado, el Chupacabras, que ataca a presos y guardias por igual.(n)</desc>
     <date>2016</date>
   </programme>
-  <programme start="20230111010000 +0000" stop="20230111020000 +0000" channel="Curiosity Stream">
-    <title lang="en">Después de Braveheart</title>
-    <desc lang="en">Esta es la historia de dos naciones celtas,.(n)</desc>
-    <date>2022</date>
-  </programme>
   <programme start="20230111020000 +0000" stop="20230111030000 +0000" channel="Curiosity Stream">
     <title lang="en">Después de Braveheart</title>
     <desc lang="en">Qué pasó cuando el ejército de Robert Bruce invadió Irlanda para reunir a las naciones celtas en contra de la opresión inglesa? Pocos saben que el último Rey Supremo de Irlanda fue un Scotsman, Edward, el hermano de Robert Bruce. En este drama documental las personas y conflictos de esa época cobran vida.(n)</desc>
@@ -40647,12 +41784,6 @@
     <title lang="en">Un presente brillante</title>
     <desc lang="en">Al menos 40 billones de microorganismos no humanos habitan en cada persona. En conjunto,.(n)</desc>
     <date>2021</date>
-  </programme>
-  <programme start="20230111013500 +0000" stop="20230111020000 +0000" channel="Dreamworks">
-    <title lang="en">Kung Fu Panda: Las patitas del destino</title>
-    <sub-title lang="en">Viajando al este</sub-title>
-    <desc lang="en">Un poco aburridos con su nueva vida de héroes,.(n)</desc>
-    <date>2022</date>
   </programme>
   <programme start="20230111020000 +0000" stop="20230111021500 +0000" channel="Dreamworks">
     <title lang="en">Buzzu en la escuela intergaláctica</title>
@@ -41503,14 +42634,6 @@
     <date>2018</date>
     <rating system="MPAA">
       <value>TV-Y7</value>
-    </rating>
-  </programme>
-  <programme start="20230111010000 +0000" stop="20230111020000 +0000" channel="Hogar HGTV">
-    <title lang="en">Hogares extraños</title>
-    <desc lang="en">Una casa en un molino, un submarino y un silo, y muchas más increíbles transformaciones de casas.(n)</desc>
-    <date>2019</date>
-    <rating system="MPAA">
-      <value>TV-G</value>
     </rating>
   </programme>
   <programme start="20230111020000 +0000" stop="20230111023000 +0000" channel="Hogar HGTV">
@@ -42474,7 +43597,7 @@
     </credits>
     <date>2004</date>
     <category lang="es">Series de comedia españolas</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/a/q/u/aqui-no-hay-quien-viva-67665_SPA-12.jpg" />
+    <icon src="https://cdn.sincroguia.tv/uploads/programs/a/q/u/xaqui-no-hay-quien-viva-67665_SPA-12.jpg.pagespeed.ic.EedVOB4Zgw.jpg" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S2 E12</episode-num>
     <rating system="ICAA">
@@ -42686,7 +43809,7 @@
     </credits>
     <date>2015</date>
     <category lang="es">Series extranjeras de suspense</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/r/i/z/rizzoli-isles-346886_SPA-99.jpg" />
+    <icon src="https://cdn.sincroguia.tv/uploads/programs/r/i/z/xrizzoli-isles-346886_SPA-99.jpg.pagespeed.ic.dSc8Eve_iD.jpg" />
     <country lang="es">Estados Unidos</country>
     <episode-num system="onscreen">S6 E1</episode-num>
     <rating system="ICAA">
@@ -42713,7 +43836,7 @@
     </credits>
     <date>2001</date>
     <category lang="es">Series extranjeras de acción</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/c/r/o/crossing-jordan-372502_SPA-45.jpg" />
+    <icon src="https://cdn.sincroguia.tv/uploads/programs/c/r/o/xcrossing-jordan-372502_SPA-45.jpg.pagespeed.ic.iyfzB0txor.jpg" />
     <country lang="es">Estados Unidos</country>
     <episode-num system="onscreen">S1 E7</episode-num>
     <rating system="ICAA">
@@ -43102,7 +44225,7 @@
     </credits>
     <date>2011</date>
     <category lang="es">Series extranjeras de suspense</category>
-    <icon src="https://cdn.sincroguia.tv/uploads/programs/v/e/r/vera-429904_SPA-73.jpg" />
+    <icon src="https://cdn.sincroguia.tv/uploads/programs/v/e/r/xvera-429904_SPA-73.jpg.pagespeed.ic.XxLHnXRtNX.jpg" />
     <country lang="es">Reino Unido</country>
     <rating system="ICAA">
       <value>+12</value>
