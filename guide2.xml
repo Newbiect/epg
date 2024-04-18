@@ -334,69 +334,6 @@
     <display-name lang="en">PixL</display-name>
     <url>http://www.flixed.io</url>
   </channel>
-  <programme start="20240417023000 +0000" stop="20240417030000 +0000" channel="San Diego Padres">
-    <title lang="en">Live: Padres Post Game</title>
-    <category lang="en">Baseball</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p24428619_st_v9_aa.jpg" />
-    <premiere lang="en" />
-  </programme>
-  <programme start="20240417030000 +0000" stop="20240417060000 +0000" channel="San Diego Padres">
-    <title lang="en">MLB Baseball</title>
-    <sub-title lang="en">San Diego Padres at Milwaukee Brewers</sub-title>
-    <desc lang="en">From American Family Field in Milwaukee.(n)</desc>
-    <category lang="en">Baseball</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p26152209_tb2_v13_ag.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20240417060000 +0000" stop="20240417090000 +0000" channel="San Diego Padres">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.(n)</desc>
-    <category lang="en">Special</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p480440_b_v13_bw.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20240417090000 +0000" stop="20240417130000 +0000" channel="San Diego Padres">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.(n)</desc>
-    <category lang="en">Special</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p480440_b_v13_bw.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20240417130000 +0000" stop="20240417170000 +0000" channel="San Diego Padres">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.(n)</desc>
-    <category lang="en">Special</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p480440_b_v13_bw.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20240417170000 +0000" stop="20240417200000 +0000" channel="San Diego Padres">
-    <title lang="en">Live: MLB Baseball</title>
-    <sub-title lang="en">San Diego Padres at Milwaukee Brewers</sub-title>
-    <desc lang="en">From American Family Field in Milwaukee.(n)</desc>
-    <category lang="en">Baseball</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p26152214_tb2_v13_ad.jpg" />
-    <premiere lang="en" />
-  </programme>
-  <programme start="20240417200000 +0000" stop="20240417203000 +0000" channel="San Diego Padres">
-    <title lang="en">Live: Padres Post Game</title>
-    <category lang="en">Baseball</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p24428619_st_v9_aa.jpg" />
-    <premiere lang="en" />
-  </programme>
-  <programme start="20240417203000 +0000" stop="20240417210000 +0000" channel="San Diego Padres">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.(n)</desc>
-    <category lang="en">Special</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p480440_b_v13_bw.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20240417210000 +0000" stop="20240418010000 +0000" channel="San Diego Padres">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.(n)</desc>
-    <category lang="en">Special</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p480440_b_v13_bw.jpg" />
-    <previously-shown />
-  </programme>
   <programme start="20240418010000 +0000" stop="20240418020000 +0000" channel="San Diego Padres">
     <title lang="en">SIGN OFF</title>
     <desc lang="en">Sign off.(n)</desc>
@@ -489,84 +426,63 @@
     <icon src="https://zap2it.tmsimg.com/assets/p480440_b_v13_bw.jpg" />
     <previously-shown />
   </programme>
-  <programme start="20240417011500 +0000" stop="20240417013000 +0000" channel="Arizona Diamondbacks">
-    <title lang="en">Diamondbacks Live! Pre-Game</title>
-    <desc lang="en">Pregame coverage for Arizona Diamondbacks.(n)</desc>
+  <programme start="20240420010000 +0000" stop="20240420011500 +0000" channel="San Diego Padres">
+    <title lang="en">SIGN OFF</title>
+    <desc lang="en">Sign off.(n)</desc>
+    <category lang="en">Special</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p480440_b_v13_bw.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240420011500 +0000" stop="20240420013000 +0000" channel="San Diego Padres">
+    <title lang="en">Live: Padres Pre-Game</title>
     <category lang="en">Baseball</category>
-    <category lang="en">Sports talk</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p650975_b_v13_ac.jpg" />
+    <icon src="https://zap2it.tmsimg.com/assets/p24429411_st_v9_aa.jpg" />
     <premiere lang="en" />
   </programme>
-  <programme start="20240417013000 +0000" stop="20240417043000 +0000" channel="Arizona Diamondbacks">
+  <programme start="20240420013000 +0000" stop="20240420043000 +0000" channel="San Diego Padres">
     <title lang="en">Live: MLB Baseball</title>
-    <sub-title lang="en">Chicago Cubs at Arizona Diamondbacks</sub-title>
-    <desc lang="en">From Chase Field in Phoenix.(n)</desc>
+    <sub-title lang="en">Toronto Blue Jays at San Diego Padres</sub-title>
+    <desc lang="en">From PETCO Park in San Diego.(n)</desc>
     <category lang="en">Baseball</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p26152147_tb2_v13_ah.jpg" />
+    <icon src="https://zap2it.tmsimg.com/assets/p26152439_tb2_v13_ad.jpg" />
     <premiere lang="en" />
   </programme>
-  <programme start="20240417043000 +0000" stop="20240417050000 +0000" channel="Arizona Diamondbacks">
-    <title lang="en">Diamondbacks Live! Post Game</title>
-    <desc lang="en">Postgame coverage for Arizona Diamondbacks.(n)</desc>
+  <programme start="20240420043000 +0000" stop="20240420050000 +0000" channel="San Diego Padres">
+    <title lang="en">Live: Padres Post Game</title>
     <category lang="en">Baseball</category>
-    <category lang="en">Sports talk</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p650974_b_v13_ac.jpg" />
+    <icon src="https://zap2it.tmsimg.com/assets/p24428619_st_v9_aa.jpg" />
     <premiere lang="en" />
   </programme>
-  <programme start="20240417050000 +0000" stop="20240417080000 +0000" channel="Arizona Diamondbacks">
+  <programme start="20240420050000 +0000" stop="20240420080000 +0000" channel="San Diego Padres">
     <title lang="en">MLB Baseball</title>
-    <sub-title lang="en">Chicago Cubs at Arizona Diamondbacks</sub-title>
-    <desc lang="en">From Chase Field in Phoenix.(n)</desc>
+    <sub-title lang="en">Toronto Blue Jays at San Diego Padres</sub-title>
+    <desc lang="en">From PETCO Park in San Diego.(n)</desc>
     <category lang="en">Baseball</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p26152147_tb2_v13_ah.jpg" />
+    <icon src="https://zap2it.tmsimg.com/assets/p26152439_tb2_v13_ad.jpg" />
     <previously-shown />
   </programme>
-  <programme start="20240417080000 +0000" stop="20240417150000 +0000" channel="Arizona Diamondbacks">
+  <programme start="20240420080000 +0000" stop="20240420130000 +0000" channel="San Diego Padres">
     <title lang="en">SIGN OFF</title>
     <desc lang="en">Sign off.(n)</desc>
     <category lang="en">Special</category>
     <icon src="https://zap2it.tmsimg.com/assets/p480440_b_v13_bw.jpg" />
     <previously-shown />
   </programme>
-  <programme start="20240417150000 +0000" stop="20240417190000 +0000" channel="Arizona Diamondbacks">
+  <programme start="20240420130000 +0000" stop="20240420170000 +0000" channel="San Diego Padres">
     <title lang="en">SIGN OFF</title>
     <desc lang="en">Sign off.(n)</desc>
     <category lang="en">Special</category>
     <icon src="https://zap2it.tmsimg.com/assets/p480440_b_v13_bw.jpg" />
     <previously-shown />
   </programme>
-  <programme start="20240417190000 +0000" stop="20240417191500 +0000" channel="Arizona Diamondbacks">
+  <programme start="20240420170000 +0000" stop="20240420210000 +0000" channel="San Diego Padres">
     <title lang="en">SIGN OFF</title>
     <desc lang="en">Sign off.(n)</desc>
     <category lang="en">Special</category>
     <icon src="https://zap2it.tmsimg.com/assets/p480440_b_v13_bw.jpg" />
     <previously-shown />
   </programme>
-  <programme start="20240417191500 +0000" stop="20240417193000 +0000" channel="Arizona Diamondbacks">
-    <title lang="en">Diamondbacks Live! Pre-Game</title>
-    <desc lang="en">Pregame coverage for Arizona Diamondbacks.(n)</desc>
-    <category lang="en">Baseball</category>
-    <category lang="en">Sports talk</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p650975_b_v13_ac.jpg" />
-    <premiere lang="en" />
-  </programme>
-  <programme start="20240417193000 +0000" stop="20240417223000 +0000" channel="Arizona Diamondbacks">
-    <title lang="en">Live: MLB Baseball</title>
-    <sub-title lang="en">Chicago Cubs at Arizona Diamondbacks</sub-title>
-    <desc lang="en">From Chase Field in Phoenix.(n)</desc>
-    <category lang="en">Baseball</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p26152290_tb2_v13_ak.jpg" />
-    <premiere lang="en" />
-  </programme>
-  <programme start="20240417223000 +0000" stop="20240417230000 +0000" channel="Arizona Diamondbacks">
-    <title lang="en">Diamondbacks Live! Post Game</title>
-    <desc lang="en">Postgame coverage for Arizona Diamondbacks.(n)</desc>
-    <category lang="en">Baseball</category>
-    <category lang="en">Sports talk</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p650974_b_v13_ac.jpg" />
-    <premiere lang="en" />
-  </programme>
-  <programme start="20240417230000 +0000" stop="20240418020000 +0000" channel="Arizona Diamondbacks">
+  <programme start="20240420210000 +0000" stop="20240421001500 +0000" channel="San Diego Padres">
     <title lang="en">SIGN OFF</title>
     <desc lang="en">Sign off.(n)</desc>
     <category lang="en">Special</category>
@@ -591,6 +507,7 @@
   <programme start="20240418080000 +0000" stop="20240418133000 +0000" channel="Arizona Diamondbacks">
     <title lang="en">SIGN OFF</title>
     <desc lang="en">Sign off.(n)</desc>
+    <category lang="en">Special</category>
     <icon src="https://zap2it.tmsimg.com/assets/p480440_b_v13_bw.jpg" />
     <previously-shown />
   </programme>
@@ -604,6 +521,7 @@
   <programme start="20240418173000 +0000" stop="20240418213000 +0000" channel="Arizona Diamondbacks">
     <title lang="en">SIGN OFF</title>
     <desc lang="en">Sign off.(n)</desc>
+    <category lang="en">Special</category>
     <icon src="https://zap2it.tmsimg.com/assets/p480440_b_v13_bw.jpg" />
     <previously-shown />
   </programme>
@@ -668,6 +586,96 @@
     <previously-shown />
   </programme>
   <programme start="20240419213000 +0000" stop="20240420011500 +0000" channel="Arizona Diamondbacks">
+    <title lang="en">SIGN OFF</title>
+    <desc lang="en">Sign off.(n)</desc>
+    <category lang="en">Special</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p480440_b_v13_bw.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240420011500 +0000" stop="20240420014500 +0000" channel="Arizona Diamondbacks">
+    <title lang="en">SIGN OFF</title>
+    <desc lang="en">Sign off.(n)</desc>
+    <category lang="en">Special</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p480440_b_v13_bw.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240420014500 +0000" stop="20240420020000 +0000" channel="Arizona Diamondbacks">
+    <title lang="en">Diamondbacks Live! Pre-Game</title>
+    <desc lang="en">Pregame coverage for Arizona Diamondbacks.(n)</desc>
+    <category lang="en">Baseball</category>
+    <category lang="en">Sports talk</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p650975_b_v13_ac.jpg" />
+    <premiere lang="en" />
+  </programme>
+  <programme start="20240420020000 +0000" stop="20240420050000 +0000" channel="Arizona Diamondbacks">
+    <title lang="en">Live: MLB Baseball</title>
+    <sub-title lang="en">Arizona Diamondbacks at San Francisco Giants</sub-title>
+    <desc lang="en">From Oracle Park in San Francisco.(n)</desc>
+    <category lang="en">Baseball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p26152400_tb2_v13_as.jpg" />
+    <premiere lang="en" />
+  </programme>
+  <programme start="20240420050000 +0000" stop="20240420053000 +0000" channel="Arizona Diamondbacks">
+    <title lang="en">Diamondbacks Live! Post Game</title>
+    <desc lang="en">Postgame coverage for Arizona Diamondbacks.(n)</desc>
+    <category lang="en">Baseball</category>
+    <category lang="en">Sports talk</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p650974_b_v13_ac.jpg" />
+    <premiere lang="en" />
+  </programme>
+  <programme start="20240420053000 +0000" stop="20240420090000 +0000" channel="Arizona Diamondbacks">
+    <title lang="en">SIGN OFF</title>
+    <desc lang="en">Sign off.(n)</desc>
+    <category lang="en">Special</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p480440_b_v13_bw.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240420090000 +0000" stop="20240420130000 +0000" channel="Arizona Diamondbacks">
+    <title lang="en">SIGN OFF</title>
+    <desc lang="en">Sign off.(n)</desc>
+    <category lang="en">Special</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p480440_b_v13_bw.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240420130000 +0000" stop="20240420170000 +0000" channel="Arizona Diamondbacks">
+    <title lang="en">SIGN OFF</title>
+    <desc lang="en">Sign off.(n)</desc>
+    <category lang="en">Special</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p480440_b_v13_bw.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240420170000 +0000" stop="20240420194500 +0000" channel="Arizona Diamondbacks">
+    <title lang="en">SIGN OFF</title>
+    <desc lang="en">Sign off.(n)</desc>
+    <category lang="en">Special</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p480440_b_v13_bw.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240420194500 +0000" stop="20240420200000 +0000" channel="Arizona Diamondbacks">
+    <title lang="en">Diamondbacks Live! Pre-Game</title>
+    <desc lang="en">Pregame coverage for Arizona Diamondbacks.(n)</desc>
+    <category lang="en">Baseball</category>
+    <category lang="en">Sports talk</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p650975_b_v13_ac.jpg" />
+    <premiere lang="en" />
+  </programme>
+  <programme start="20240420200000 +0000" stop="20240420230000 +0000" channel="Arizona Diamondbacks">
+    <title lang="en">Live: MLB Baseball</title>
+    <sub-title lang="en">Arizona Diamondbacks at San Francisco Giants</sub-title>
+    <desc lang="en">From Oracle Park in San Francisco.(n)</desc>
+    <category lang="en">Baseball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p26152445_tb2_v13_ap.jpg" />
+    <premiere lang="en" />
+  </programme>
+  <programme start="20240420230000 +0000" stop="20240420233000 +0000" channel="Arizona Diamondbacks">
+    <title lang="en">Diamondbacks Live! Post Game</title>
+    <desc lang="en">Postgame coverage for Arizona Diamondbacks.(n)</desc>
+    <category lang="en">Baseball</category>
+    <category lang="en">Sports talk</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p650974_b_v13_ac.jpg" />
+    <premiere lang="en" />
+  </programme>
+  <programme start="20240420233000 +0000" stop="20240421020000 +0000" channel="Arizona Diamondbacks">
     <title lang="en">SIGN OFF</title>
     <desc lang="en">Sign off.(n)</desc>
     <category lang="en">Special</category>
