@@ -339,46 +339,6 @@
     <display-name lang="en">PixL</display-name>
     <url>http://www.flixed.io</url>
   </channel>
-  <programme start="20240421180000 +0000" stop="20240421200000 +0000" channel="Canal 6">
-    <title lang="en">Aficionados</title>
-    <category lang="en">Community</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p558801_b_v9_ac.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20240421200000 +0000" stop="20240421210000 +0000" channel="Canal 6">
-    <title lang="en">Paketemociones</title>
-    <desc lang="en">Un programa que brinda lo más actual sobre gastronomía, cultura y entretenimiento.(n)</desc>
-    <credits>
-      <presenter>Temo Méndez</presenter>
-    </credits>
-    <category lang="en">Entertainment</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p12472526_b_v9_ab.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20240421210000 +0000" stop="20240421220000 +0000" channel="Canal 6">
-    <title lang="en">Inaudito</title>
-    <desc lang="en">Se hablan de casos extraordinarios, hechos insólitos y avances de la ciencia.(n)</desc>
-    <credits>
-      <presenter>Jimena Duarte</presenter>
-    </credits>
-    <category lang="en">Entertainment</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p25699181_b_v9_aa.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20240421220000 +0000" stop="20240421230000 +0000" channel="Canal 6">
-    <title lang="en">Orbital</title>
-    <desc lang="en">Un programa sobre espectáculos, estrenos del cine, tatuajes, manejo extremo de patineta y más.(n)</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p22274473_b_v9_aa.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20240421230000 +0000" stop="20240422020000 +0000" channel="Canal 6">
-    <title lang="en">Liga Mexicana de Béisbol</title>
-    <desc lang="en">Toda la acción de los partidos del rey de los deportes.(n)</desc>
-    <category lang="en">Baseball</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p429749_b_v9_aa.jpg" />
-    <previously-shown />
-  </programme>
   <programme start="20240422020000 +0000" stop="20240422030000 +0000" channel="Canal 6">
     <title lang="en">Cambios</title>
     <desc lang="en">Con Héctor Benavides.(n)</desc>
@@ -671,38 +631,171 @@
     <icon src="https://zap2it.tmsimg.com/assets/p21769473_b_v9_aa.jpg" />
     <previously-shown />
   </programme>
-  <programme start="20240421170000 +0000" stop="20240421194500 +0000" channel="San Diego Padres">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.(n)</desc>
-    <category lang="en">Special</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p480440_b_v13_bw.jpg" />
+  <programme start="20240424000000 +0000" stop="20240424010000 +0000" channel="Canal 6">
+    <title lang="en">C4 en alerta</title>
+    <desc lang="en">Información exclusiva, las imágenes y los rostros de los protagonistas de la noticia.(n)</desc>
+    <credits>
+      <presenter>Carlos Jiménez</presenter>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p21010458_b_v9_aa.jpg" />
     <previously-shown />
   </programme>
-  <programme start="20240421194500 +0000" stop="20240421200000 +0000" channel="San Diego Padres">
-    <title lang="en">Live: Padres Pre-Game</title>
-    <category lang="en">Baseball</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p24429411_st_v9_aa.jpg" />
-    <premiere lang="en" />
+  <programme start="20240424010000 +0000" stop="20240424030000 +0000" channel="Canal 6">
+    <title lang="en">Telediario nocturno Monterrey</title>
+    <desc lang="en">Las últimas novedades y la información más destacada del día en Monterrey.(n)</desc>
+    <credits>
+      <presenter>Héctor Benavides</presenter>
+      <presenter>Aliz Vera</presenter>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p18068572_b_v9_aa.jpg" />
+    <previously-shown />
   </programme>
-  <programme start="20240421200000 +0000" stop="20240421230000 +0000" channel="San Diego Padres">
-    <title lang="en">Live: MLB Baseball</title>
-    <sub-title lang="en">Toronto Blue Jays at San Diego Padres</sub-title>
-    <desc lang="en">From PETCO Park in San Diego.(n)</desc>
-    <category lang="en">Baseball</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p26152518_tb2_v13_ad.jpg" />
-    <premiere lang="en" />
+  <programme start="20240424030000 +0000" stop="20240424033000 +0000" channel="Canal 6">
+    <title lang="en">Multimedios deportes</title>
+    <desc lang="en">Un programa de polémica donde se habla de lo más relevante del día relacionado con los equipos regios: Tigres y Rayados. Un espacio que se caracteriza por ver más allá de la nota con el fin de entretener.(n)</desc>
+    <credits>
+      <presenter>Jahir Ramos</presenter>
+      <presenter>Joel Cano</presenter>
+    </credits>
+    <category lang="en">Soccer</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p19545969_b_v9_aa.jpg" />
+    <previously-shown />
   </programme>
-  <programme start="20240421230000 +0000" stop="20240421233000 +0000" channel="San Diego Padres">
-    <title lang="en">Live: Padres Post Game</title>
-    <category lang="en">Baseball</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p24428619_st_v9_aa.jpg" />
-    <premiere lang="en" />
+  <programme start="20240424033000 +0000" stop="20240424060000 +0000" channel="Canal 6">
+    <title lang="en">Es show</title>
+    <desc lang="en">El conductor Ernesto Chavana se encargará de desvelar a todos con sus ocurrencias. Un programa lleno de música y diversión junto a sus coconductores y las bellas chicas que lo acompañan.(n)</desc>
+    <credits>
+      <presenter>Ernesto Chavana</presenter>
+    </credits>
+    <category lang="en">Entertainment</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p13426820_b_v9_ah.jpg" />
+    <previously-shown />
   </programme>
-  <programme start="20240421233000 +0000" stop="20240422010000 +0000" channel="San Diego Padres">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.(n)</desc>
-    <category lang="en">Special</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p480440_b_v13_bw.jpg" />
+  <programme start="20240424060000 +0000" stop="20240424070000 +0000" channel="Canal 6">
+    <title lang="en">Es show</title>
+    <desc lang="en">El conductor Ernesto Chavana se encargará de desvelar a todos con sus ocurrencias. Un programa lleno de música y diversión junto a sus coconductores y las bellas chicas que lo acompañan.(n)</desc>
+    <credits>
+      <presenter>Ernesto Chavana</presenter>
+    </credits>
+    <category lang="en">Entertainment</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p13426820_b_v9_ah.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240424070000 +0000" stop="20240424073000 +0000" channel="Canal 6">
+    <title lang="en">Chamana Yetzaly</title>
+    <desc lang="en">Recomendaciones, curaciones y soluciones efectivas para sanar del espíritu, presentadas por la Chamana Yetzaly de Catemaco Veracruz.(n)</desc>
+    <category lang="en">Health</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p18058951_b_v13_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240424073000 +0000" stop="20240424080000 +0000" channel="Canal 6">
+    <title lang="en">Programa pagado</title>
+    <desc lang="en">Programa que muestra diversos productos para la venta.(n)</desc>
+    <category lang="en">Consumer</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Variety</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_bc.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240424080000 +0000" stop="20240424093000 +0000" channel="Canal 6">
+    <title lang="en">Programa pagado</title>
+    <desc lang="en">Programa que muestra diversos productos para la venta.(n)</desc>
+    <category lang="en">Consumer</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Variety</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_bc.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240424093000 +0000" stop="20240424100000 +0000" channel="Canal 6">
+    <title lang="en">Programa pagado</title>
+    <desc lang="en">Programa que muestra diversos productos para la venta.(n)</desc>
+    <category lang="en">Consumer</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Variety</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_bc.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240424100000 +0000" stop="20240424110000 +0000" channel="Canal 6">
+    <title lang="en">Programa pagado</title>
+    <desc lang="en">Programa que muestra diversos productos para la venta.(n)</desc>
+    <category lang="en">Consumer</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Variety</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_bc.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240424110000 +0000" stop="20240424120000 +0000" channel="Canal 6">
+    <title lang="en">Telediario</title>
+    <desc lang="en">Un espacio con la información del acontecer diario, variedad y amenos comentarios.(n)</desc>
+    <credits>
+      <presenter>Carlos Zúñiga</presenter>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p15877466_b_v9_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240424120000 +0000" stop="20240424160000 +0000" channel="Canal 6">
+    <title lang="en">Telediario matutino</title>
+    <desc lang="en">Información sobre los acontecimientos más relevantes de la actualidad.(n)</desc>
+    <credits>
+      <presenter>Josué Becerra</presenter>
+      <presenter>Sandra Sandoval</presenter>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p18453566_b_v4_ab.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240424160000 +0000" stop="20240424180000 +0000" channel="Canal 6">
+    <title lang="en">Vivalavi</title>
+    <desc lang="en">Programa matutino con entrevistas, música, belleza.(n)</desc>
+    <credits>
+      <presenter>Roberto Carlo</presenter>
+      <presenter>Luisa Fernanda</presenter>
+    </credits>
+    <category lang="en">Variety</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p525745_b_v9_ad.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240424180000 +0000" stop="20240424210000 +0000" channel="Canal 6">
+    <title lang="en">Telediario vespertino</title>
+    <desc lang="en">Información sobre los acontecimientos más relevantes de la actualidad.(n)</desc>
+    <credits>
+      <presenter>Maria Lafuente</presenter>
+      <presenter>Luis Ortiz</presenter>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p18453677_b_v9_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240424210000 +0000" stop="20240424220000 +0000" channel="Canal 6">
+    <title lang="en">Fútbol al día Monterrey</title>
+    <desc lang="en">La experiencia y el punto de vista de los conductores, así como la opinión y los comentarios del público a través del teléfono abierto.(n)</desc>
+    <credits>
+      <presenter>Víctor Hernández</presenter>
+      <presenter>Aldo Rodríguez</presenter>
+    </credits>
+    <category lang="en">Soccer</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p15877460_b_v9_ab.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240424220000 +0000" stop="20240424230000 +0000" channel="Canal 6">
+    <title lang="en">Chismorreo</title>
+    <desc lang="en">Un espacio de noticias y entretenimiento, con un estilo fresco y único.(n)</desc>
+    <credits>
+      <presenter>Fabián Lavalle</presenter>
+      <presenter>Esteban Macías</presenter>
+    </credits>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Newsmagazine</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p18068510_b_v9_ab.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240424230000 +0000" stop="20240425000000 +0000" channel="Canal 6">
+    <title lang="en">Telediario en el 6</title>
+    <category lang="en">News</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p21769473_b_v9_aa.jpg" />
     <previously-shown />
   </programme>
   <programme start="20240422010000 +0000" stop="20240422020000 +0000" channel="San Diego Padres">
@@ -812,38 +905,57 @@
     <icon src="https://zap2it.tmsimg.com/assets/p480440_b_v13_bw.jpg" />
     <previously-shown />
   </programme>
-  <programme start="20240421184500 +0000" stop="20240421194500 +0000" channel="Arizona Diamondbacks">
+  <programme start="20240424003000 +0000" stop="20240424033000 +0000" channel="San Diego Padres">
+    <title lang="en">Live: MLB Baseball</title>
+    <sub-title lang="en">San Diego Padres at Colorado Rockies</sub-title>
+    <desc lang="en">From Coors Field in Denver.(n)</desc>
+    <category lang="en">Baseball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p26152675_tb2_v13_am.jpg" />
+    <premiere lang="en" />
+  </programme>
+  <programme start="20240424033000 +0000" stop="20240424040000 +0000" channel="San Diego Padres">
+    <title lang="en">Live: Padres Post Game</title>
+    <category lang="en">Baseball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p24428619_st_v9_aa.jpg" />
+    <premiere lang="en" />
+  </programme>
+  <programme start="20240424040000 +0000" stop="20240424070000 +0000" channel="San Diego Padres">
+    <title lang="en">MLB Baseball</title>
+    <sub-title lang="en">San Diego Padres at Colorado Rockies</sub-title>
+    <desc lang="en">From Coors Field in Denver.(n)</desc>
+    <category lang="en">Baseball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p26152675_tb2_v13_am.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240424070000 +0000" stop="20240424090000 +0000" channel="San Diego Padres">
     <title lang="en">SIGN OFF</title>
     <desc lang="en">Sign off.(n)</desc>
     <category lang="en">Special</category>
     <icon src="https://zap2it.tmsimg.com/assets/p480440_b_v13_bw.jpg" />
     <previously-shown />
   </programme>
-  <programme start="20240421194500 +0000" stop="20240421200000 +0000" channel="Arizona Diamondbacks">
-    <title lang="en">Diamondbacks Live! Pre-Game</title>
-    <desc lang="en">Pregame coverage for Arizona Diamondbacks.(n)</desc>
-    <category lang="en">Baseball</category>
-    <category lang="en">Sports talk</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p650975_b_v13_ac.jpg" />
-    <premiere lang="en" />
+  <programme start="20240424090000 +0000" stop="20240424130000 +0000" channel="San Diego Padres">
+    <title lang="en">SIGN OFF</title>
+    <desc lang="en">Sign off.(n)</desc>
+    <category lang="en">Special</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p480440_b_v13_bw.jpg" />
+    <previously-shown />
   </programme>
-  <programme start="20240421200000 +0000" stop="20240421230000 +0000" channel="Arizona Diamondbacks">
-    <title lang="en">Live: MLB Baseball</title>
-    <sub-title lang="en">Arizona Diamondbacks at San Francisco Giants</sub-title>
-    <desc lang="en">From Oracle Park in San Francisco.(n)</desc>
-    <category lang="en">Baseball</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p26152542_tb2_v13_aw.jpg" />
-    <premiere lang="en" />
+  <programme start="20240424130000 +0000" stop="20240424170000 +0000" channel="San Diego Padres">
+    <title lang="en">SIGN OFF</title>
+    <desc lang="en">Sign off.(n)</desc>
+    <category lang="en">Special</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p480440_b_v13_bw.jpg" />
+    <previously-shown />
   </programme>
-  <programme start="20240421230000 +0000" stop="20240421233000 +0000" channel="Arizona Diamondbacks">
-    <title lang="en">Diamondbacks Live! Post Game</title>
-    <desc lang="en">Postgame coverage for Arizona Diamondbacks.(n)</desc>
-    <category lang="en">Baseball</category>
-    <category lang="en">Sports talk</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p650974_b_v13_ac.jpg" />
-    <premiere lang="en" />
+  <programme start="20240424170000 +0000" stop="20240424210000 +0000" channel="San Diego Padres">
+    <title lang="en">SIGN OFF</title>
+    <desc lang="en">Sign off.(n)</desc>
+    <category lang="en">Special</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p480440_b_v13_bw.jpg" />
+    <previously-shown />
   </programme>
-  <programme start="20240421233000 +0000" stop="20240422020000 +0000" channel="Arizona Diamondbacks">
+  <programme start="20240424210000 +0000" stop="20240425003000 +0000" channel="San Diego Padres">
     <title lang="en">SIGN OFF</title>
     <desc lang="en">Sign off.(n)</desc>
     <category lang="en">Special</category>
@@ -975,5 +1087,80 @@
     <category lang="en">Baseball</category>
     <icon src="https://zap2it.tmsimg.com/assets/p26152631_tb2_v13_ak.jpg" />
     <premiere lang="en" />
+  </programme>
+  <programme start="20240424023000 +0000" stop="20240424030000 +0000" channel="Arizona Diamondbacks">
+    <title lang="en">Diamondbacks Live! Post Game</title>
+    <desc lang="en">Postgame coverage for Arizona Diamondbacks.(n)</desc>
+    <category lang="en">Baseball</category>
+    <category lang="en">Sports talk</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p650974_b_v13_ac.jpg" />
+    <premiere lang="en" />
+  </programme>
+  <programme start="20240424030000 +0000" stop="20240424060000 +0000" channel="Arizona Diamondbacks">
+    <title lang="en">MLB Baseball</title>
+    <sub-title lang="en">Arizona Diamondbacks at St. Louis Cardinals</sub-title>
+    <desc lang="en">From Busch Stadium in St. Louis.(n)</desc>
+    <category lang="en">Baseball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p26152631_tb2_v13_ak.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240424060000 +0000" stop="20240424110000 +0000" channel="Arizona Diamondbacks">
+    <title lang="en">SIGN OFF</title>
+    <desc lang="en">Sign off.(n)</desc>
+    <category lang="en">Special</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p480440_b_v13_bw.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240424110000 +0000" stop="20240424150000 +0000" channel="Arizona Diamondbacks">
+    <title lang="en">SIGN OFF</title>
+    <desc lang="en">Sign off.(n)</desc>
+    <category lang="en">Special</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p480440_b_v13_bw.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240424150000 +0000" stop="20240424164500 +0000" channel="Arizona Diamondbacks">
+    <title lang="en">SIGN OFF</title>
+    <desc lang="en">Sign off.(n)</desc>
+    <category lang="en">Special</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p480440_b_v13_bw.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240424164500 +0000" stop="20240424170000 +0000" channel="Arizona Diamondbacks">
+    <title lang="en">Diamondbacks Live! Pre-Game</title>
+    <desc lang="en">Pregame coverage for Arizona Diamondbacks.(n)</desc>
+    <category lang="en">Baseball</category>
+    <category lang="en">Sports talk</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p650975_b_v13_ac.jpg" />
+    <premiere lang="en" />
+  </programme>
+  <programme start="20240424170000 +0000" stop="20240424200000 +0000" channel="Arizona Diamondbacks">
+    <title lang="en">Live: MLB Baseball</title>
+    <sub-title lang="en">Arizona Diamondbacks at St. Louis Cardinals</sub-title>
+    <desc lang="en">From Busch Stadium in St. Louis.(n)</desc>
+    <category lang="en">Baseball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p26152678_tb2_v13_al.jpg" />
+    <premiere lang="en" />
+  </programme>
+  <programme start="20240424200000 +0000" stop="20240424203000 +0000" channel="Arizona Diamondbacks">
+    <title lang="en">Diamondbacks Live! Post Game</title>
+    <desc lang="en">Postgame coverage for Arizona Diamondbacks.(n)</desc>
+    <category lang="en">Baseball</category>
+    <category lang="en">Sports talk</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p650974_b_v13_ac.jpg" />
+    <premiere lang="en" />
+  </programme>
+  <programme start="20240424203000 +0000" stop="20240424230000 +0000" channel="Arizona Diamondbacks">
+    <title lang="en">SIGN OFF</title>
+    <desc lang="en">Sign off.(n)</desc>
+    <category lang="en">Special</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p480440_b_v13_bw.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240424230000 +0000" stop="20240425020000 +0000" channel="Arizona Diamondbacks">
+    <title lang="en">SIGN OFF</title>
+    <desc lang="en">Sign off.(n)</desc>
+    <category lang="en">Special</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p480440_b_v13_bw.jpg" />
+    <previously-shown />
   </programme>
 </tv>
