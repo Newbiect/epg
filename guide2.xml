@@ -1,10 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Telemundo 47 New York">
-    <display-name lang="en">Telemundo 47 New York</display-name>
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10239_h15_ab.png" />
-    <url>http://www.tvpassport.com</url>
-  </channel>
   <channel id="IVC Networks">
     <display-name lang="en">IVC Networks</display-name>
     <url>http://www.tvguide.com</url>
@@ -400,461 +395,14 @@
   </channel>
   <channel id="Spectrum Sports Encore">
     <display-name lang="en">Spectrum Sports Encore</display-name>
+    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/73051/s73051_h3_aa.png" />
     <url>http://www.zap2it.com</url>
   </channel>
   <channel id="Spectrum Surf Channel">
     <display-name lang="en">Spectrum Surf Channel</display-name>
+    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/65720/s65720_h3_aa.png" />
     <url>http://www.zap2it.com</url>
   </channel>
-  <programme start="20240610050000 -0300" stop="20240610070000 -0300" channel="Telemundo 47 New York">
-    <title lang="en">Noticiero 47 Telemundo: Primera edición</title>
-    <desc lang="en">El mejor equipo de presentadores y reporteros se centra en las noticias más importantes de última hora en el área tri-estatal de Nueva York. Además, las herramientas más avanzadas para predecir el tiempo y meteorólogos certificados.(n)</desc>
-    <category lang="en">News</category>
-    <previously-shown />
-  </programme>
-  <programme start="20240610070000 -0300" stop="20240610110000 -0300" channel="Telemundo 47 New York">
-    <title lang="en">Hoy día</title>
-    <desc lang="en">El show de las mañanas que ofrece más entretenimiento y diversión, con contenido positivo, útil e inspirador, pero sin dejar de lado los titulares y noticias que la comunidad hispana en Estados Unidos necesita para comenzar el día bien informada.(n)</desc>
-    <category lang="en">Talk Shows</category>
-    <category lang="en">Variety</category>
-    <previously-shown />
-  </programme>
-  <programme start="20240610110000 -0300" stop="20240610113000 -0300" channel="Telemundo 47 New York">
-    <title lang="en">Caso cerrado</title>
-    <sub-title lang="en">La obsesión</sub-title>
-    <desc lang="en">Alejandro quiere recibir terapia de pareja con su esposa para así salvar su matrimonio, es un mujeriego sin remedio y admite que no lo puede evitar. Ella lo justifica, pelea con las amantes.(n)</desc>
-    <category lang="en">Reality TV</category>
-    <category lang="en">Legal</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20240610113000 -0300" stop="20240610120000 -0300" channel="Telemundo 47 New York">
-    <title lang="en">Acceso total</title>
-    <desc lang="en">Las novedades de los artistas locales e internacionales y la diversidad presente en el área triestatal de Nueva York.(n)</desc>
-    <category lang="en">News Magazine</category>
-    <category lang="en">Variety</category>
-    <previously-shown />
-  </programme>
-  <programme start="20240610120000 -0300" stop="20240610123000 -0300" channel="Telemundo 47 New York">
-    <title lang="en">Noticiero 47 Telemundo al mediodía</title>
-    <desc lang="en">El mejor equipo de presentadores y reporteros traen las noticias más importantes y de última hora. Además, las herramientas más avanzadas para el pronóstico del tiempo y un equipo de meteorólogos certificados.(n)</desc>
-    <category lang="en">News</category>
-    <previously-shown />
-  </programme>
-  <programme start="20240610123000 -0300" stop="20240610130000 -0300" channel="Telemundo 47 New York">
-    <title lang="en">Noticias Telemundo mediodía</title>
-    <desc lang="en">Un informativo con un estilo único de narrar noticias de una manera atractiva. Se presentan historias locales y nacionales, desde diferentes ángulos de los acontecimientos, y entrevistas.(n)</desc>
-    <category lang="en">News</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20240610130000 -0300" stop="20240610140000 -0300" channel="Telemundo 47 New York">
-    <title lang="en">Acércate a Rocío</title>
-    <sub-title lang="en">Me engañó y quiere mi dinero</sub-title>
-    <desc lang="en">Karinka conoce a Antonio en línea, se casan, ella queda embarazada y él le es infiel. A pesar de engañarla, él quiere que lo mantenga por el resto de su vida, aunque es un mujeriego.(n)</desc>
-    <category lang="en">Talk Shows</category>
-    <category lang="en">Lifestyle</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20240610140000 -0300" stop="20240610145800 -0300" channel="Telemundo 47 New York">
-    <title lang="en">En casa con Telemundo</title>
-    <desc lang="en">Una entretenida mezcla de las noticias del entretenimiento, exclusivas con estrellas de la música, el cine y la televisión, presentaciones en vivo, y el estilo de vida de los famosos.(n)</desc>
-    <credits>
-      <actor>Irasema Torres</actor>
-    </credits>
-    <category lang="en">Talk Shows</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20240610145800 -0300" stop="20240610155800 -0300" channel="Telemundo 47 New York">
-    <title lang="en">La mesa caliente</title>
-    <desc lang="en">Un equipo de mujeres audaces y empoderadas debate desde diversas perspectivas sobre el entretenimiento y los temas más candentes y controversiales que afectan a la comunidad latina en Estados Unidos.(n)</desc>
-    <category lang="en">News Magazine</category>
-    <category lang="en">Variety</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20240610155800 -0300" stop="20240610170000 -0300" channel="Telemundo 47 New York">
-    <title lang="en">Al rojo vivo</title>
-    <desc lang="en">La revista noticiosa que define la agenda de la televisión en español en EE. UU. Se caracteriza por ofrecer, antes que nadie, historias que cautivan al público hispano y por presentarlas en un formato innovador que resalta el aspecto humano.(n)</desc>
-    <category lang="en">Talk Shows</category>
-    <category lang="en">News Magazine</category>
-    <previously-shown />
-  </programme>
-  <programme start="20240610170000 -0300" stop="20240610173000 -0300" channel="Telemundo 47 New York">
-    <title lang="en">Noticiero 47 Telemundo a las 5</title>
-    <desc lang="en">El mejor equipo de presentadores y reporteros se centra en las noticias más importantes de última hora. Además, las herramientas más avanzadas para predecir el tiempo y meteorólogos certificados.(n)</desc>
-    <category lang="en">News</category>
-    <previously-shown />
-  </programme>
-  <programme start="20240610173000 -0300" stop="20240610180000 -0300" channel="Telemundo 47 New York">
-    <title lang="en">Noticiero 47 Telemundo a las 5:30</title>
-    <desc lang="en">El mejor equipo de presentadores y reporteros se centra en las noticias más importantes de última hora. Además, las herramientas más avanzadas para predecir el tiempo y meteorólogos certificados.(n)</desc>
-    <category lang="en">News</category>
-    <previously-shown />
-  </programme>
-  <programme start="20240610180000 -0300" stop="20240610183000 -0300" channel="Telemundo 47 New York">
-    <title lang="en">Noticiero 47 Telemundo a las 6</title>
-    <desc lang="en">El mejor equipo de presentadores y reporteros se centra en las noticias más importantes de última hora. Además, las herramientas más avanzadas para predecir el tiempo y meteorólogos certificados.(n)</desc>
-    <credits>
-      <actor>David Rodriguez</actor>
-    </credits>
-    <category lang="en">News</category>
-    <previously-shown />
-  </programme>
-  <programme start="20240610183000 -0300" stop="20240610190000 -0300" channel="Telemundo 47 New York">
-    <title lang="en">Noticias Telemundo</title>
-    <desc lang="en">Julio Vaqueiro presenta Edición Noticias Telemundo, la fuente de información más confiable de la comunidad hispana en EE.UU. Sus corresponsales ofrecen las últimas noticias y entrevistas.(n)</desc>
-    <category lang="en">News</category>
-    <previously-shown />
-  </programme>
-  <programme start="20240610190000 -0300" stop="20240610220000 -0300" channel="Telemundo 47 New York">
-    <title lang="en">Top Chef VIP</title>
-    <sub-title lang="en">Quinta eliminación</sub-title>
-    <desc lang="en">Reconocer hierbas aromáticas provoca que El Niño Prodigio se enfade con Galeano. Un plato tan simple y popular, como las empanadas, pone a más de un participante al borde del peligro.(n)</desc>
-    <category lang="en">Game Shows</category>
-    <category lang="en">Food</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20240610220000 -0300" stop="20240610230000 -0300" channel="Telemundo 47 New York">
-    <title lang="en">El señor de los cielos</title>
-    <sub-title lang="en">En alerta</sub-title>
-    <desc lang="en">Tras haber apretado el gatillo, Mecha toma el consejo de Aurelio, no ocurrirá otra vez y todos sus sentidos estarán vigilantes. Ismael se impone en Tijuana a punta de golpes.(n)</desc>
-    <credits>
-      <actor>Rafael Amaya</actor>
-      <actor>Carmen Aub</actor>
-      <actor>Robinson Díaz</actor>
-    </credits>
-    <category lang="en">Soaps</category>
-    <category lang="en">Drama</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20240610230000 -0300" stop="20240610233500 -0300" channel="Telemundo 47 New York">
-    <title lang="en">Noticiero 47 Telemundo a las 11</title>
-    <desc lang="en">El mejor equipo de presentadores y reporteros se centra en las noticias más importantes de última hora. Además, las herramientas más avanzadas para predecir el tiempo y meteorólogos certificados.(n)</desc>
-    <category lang="en">News</category>
-    <previously-shown />
-  </programme>
-  <programme start="20240610233500 -0300" stop="20240611000000 -0300" channel="Telemundo 47 New York">
-    <title lang="en">Noticias Telemundo en la noche</title>
-    <desc lang="en">Noticias Telemundo en la Noche presenta las últimas noticias de Estados Unidos y el mundo. Arantxa Loizaga trae la información más relevante de todo lo que necesita saber al final del día.(n)</desc>
-    <category lang="en">News</category>
-    <previously-shown />
-  </programme>
-  <programme start="20240611000000 -0300" stop="20240611010000 -0300" channel="Telemundo 47 New York">
-    <title lang="en">Acércate a Rocío</title>
-    <sub-title lang="en">Me engañó y quiere mi dinero</sub-title>
-    <desc lang="en">Karinka conoce a Antonio en línea, se casan, ella queda embarazada y él le es infiel. A pesar de engañarla, él quiere que lo mantenga por el resto de su vida, aunque es un mujeriego.(n)</desc>
-    <category lang="en">Talk Shows</category>
-    <category lang="en">Lifestyle</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20240611010000 -0300" stop="20240611020000 -0300" channel="Telemundo 47 New York">
-    <title lang="en">Caso cerrado</title>
-    <sub-title lang="en">Una molestia ardiente; Lengüetazo viral</sub-title>
-    <desc lang="en">Ninoska le repara una pieza dental a Mari que antes le había dado problemas, ahora enfrenta una demanda. Le pasan la lengua a los helados y luego los devuelven, para dañarle el negocio.(n)</desc>
-    <category lang="en">Reality TV</category>
-    <category lang="en">Legal</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20240611020000 -0300" stop="20240611023000 -0300" channel="Telemundo 47 New York">
-    <title lang="en">Programa pagado</title>
-    <desc lang="en">Programa que muestra diversos productos para la venta.(n)</desc>
-    <category lang="en">Paid Program</category>
-    <category lang="en">Shopping</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20240611023000 -0300" stop="20240611030000 -0300" channel="Telemundo 47 New York">
-    <title lang="en">Hylastra Gold - Restaura y reconstruye la piel desde adentro</title>
-    <desc lang="en">Siente la experiencia de el estándar dorado en los sistemas de contra el envejecimiento en el ácido hialurónico! Hidrata y restaura tu piel para que tu rostro irradie juventud con el súper sistema de Hylastra gold!(n)</desc>
-    <category lang="en">Paid Program</category>
-    <previously-shown />
-  </programme>
-  <programme start="20240611030000 -0300" stop="20240611033000 -0300" channel="Telemundo 47 New York">
-    <title lang="en">Programa pagado</title>
-    <desc lang="en">Programa que muestra diversos productos para la venta.(n)</desc>
-    <category lang="en">Paid Program</category>
-    <category lang="en">Shopping</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20240611033000 -0300" stop="20240611040000 -0300" channel="Telemundo 47 New York">
-    <title lang="en">Programa pagado</title>
-    <desc lang="en">Programa que muestra diversos productos para la venta.(n)</desc>
-    <category lang="en">Paid Program</category>
-    <category lang="en">Shopping</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20240611040000 -0300" stop="20240611050000 -0300" channel="Telemundo 47 New York">
-    <title lang="en">En casa con Telemundo</title>
-    <desc lang="en">Una entretenida mezcla de las noticias del entretenimiento, exclusivas con estrellas de la música, el cine y la televisión, presentaciones en vivo, y el estilo de vida de los famosos.(n)</desc>
-    <credits>
-      <actor>Irasema Torres</actor>
-    </credits>
-    <category lang="en">Talk Shows</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20240611050000 -0300" stop="20240611070000 -0300" channel="Telemundo 47 New York">
-    <title lang="en">Noticiero 47 Telemundo: Primera edición</title>
-    <desc lang="en">El mejor equipo de presentadores y reporteros se centra en las noticias más importantes de última hora en el área tri-estatal de Nueva York. Además, las herramientas más avanzadas para predecir el tiempo y meteorólogos certificados.(n)</desc>
-    <category lang="en">News</category>
-    <previously-shown />
-  </programme>
-  <programme start="20240611070000 -0300" stop="20240611110000 -0300" channel="Telemundo 47 New York">
-    <title lang="en">Hoy día</title>
-    <desc lang="en">El show de las mañanas que ofrece más entretenimiento y diversión, con contenido positivo, útil e inspirador, pero sin dejar de lado los titulares y noticias que la comunidad hispana en Estados Unidos necesita para comenzar el día bien informada.(n)</desc>
-    <category lang="en">Talk Shows</category>
-    <category lang="en">Variety</category>
-    <previously-shown />
-  </programme>
-  <programme start="20240611110000 -0300" stop="20240611113000 -0300" channel="Telemundo 47 New York">
-    <title lang="en">Caso cerrado</title>
-    <sub-title lang="en">Quiero ser de ella</sub-title>
-    <desc lang="en">La doctora Ana María Polo interviene en batallas legales que afectan a los latinos. Como en una corte, las partes presentan testigos y evidencias para que ella emita su decisión. Además, expertos contribuyen con sus conocimientos.(n)</desc>
-    <category lang="en">Reality TV</category>
-    <category lang="en">Legal</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20240611113000 -0300" stop="20240611120000 -0300" channel="Telemundo 47 New York">
-    <title lang="en">Acceso total</title>
-    <desc lang="en">Las novedades de los artistas locales e internacionales y la diversidad presente en el área triestatal de Nueva York.(n)</desc>
-    <category lang="en">News Magazine</category>
-    <category lang="en">Variety</category>
-    <previously-shown />
-  </programme>
-  <programme start="20240611120000 -0300" stop="20240611123000 -0300" channel="Telemundo 47 New York">
-    <title lang="en">Noticiero 47 Telemundo al mediodía</title>
-    <desc lang="en">El mejor equipo de presentadores y reporteros traen las noticias más importantes y de última hora. Además, las herramientas más avanzadas para el pronóstico del tiempo y un equipo de meteorólogos certificados.(n)</desc>
-    <category lang="en">News</category>
-    <previously-shown />
-  </programme>
-  <programme start="20240611123000 -0300" stop="20240611130000 -0300" channel="Telemundo 47 New York">
-    <title lang="en">Noticias Telemundo mediodía</title>
-    <desc lang="en">Un informativo con un estilo único de narrar noticias de una manera atractiva. Se presentan historias locales y nacionales, desde diferentes ángulos de los acontecimientos, y entrevistas.(n)</desc>
-    <category lang="en">News</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20240611130000 -0300" stop="20240611140000 -0300" channel="Telemundo 47 New York">
-    <title lang="en">Acércate a Rocío</title>
-    <sub-title lang="en">Mi hijo es víctima de una mala mujer</sub-title>
-    <desc lang="en">Marisol no va a permitir que su hijo sea víctima de una mujerzuela que deja a sus hijos de dos a tres veces a la semana para irse de fiesta. La nuera argumenta que tiene derecho a divertirse.(n)</desc>
-    <category lang="en">Talk Shows</category>
-    <category lang="en">Lifestyle</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20240611140000 -0300" stop="20240611145800 -0300" channel="Telemundo 47 New York">
-    <title lang="en">En casa con Telemundo</title>
-    <desc lang="en">Una entretenida mezcla de las noticias del entretenimiento, exclusivas con estrellas de la música, el cine y la televisión, presentaciones en vivo, y el estilo de vida de los famosos.(n)</desc>
-    <credits>
-      <actor>Irasema Torres</actor>
-    </credits>
-    <category lang="en">Talk Shows</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20240611145800 -0300" stop="20240611155800 -0300" channel="Telemundo 47 New York">
-    <title lang="en">La mesa caliente</title>
-    <desc lang="en">Un equipo de mujeres audaces y empoderadas debate desde diversas perspectivas sobre el entretenimiento y los temas más candentes y controversiales que afectan a la comunidad latina en Estados Unidos.(n)</desc>
-    <category lang="en">News Magazine</category>
-    <category lang="en">Variety</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20240611155800 -0300" stop="20240611170000 -0300" channel="Telemundo 47 New York">
-    <title lang="en">Al rojo vivo</title>
-    <desc lang="en">La revista noticiosa que define la agenda de la televisión en español en EE. UU. Se caracteriza por ofrecer, antes que nadie, historias que cautivan al público hispano y por presentarlas en un formato innovador que resalta el aspecto humano.(n)</desc>
-    <category lang="en">Talk Shows</category>
-    <category lang="en">News Magazine</category>
-    <previously-shown />
-  </programme>
-  <programme start="20240611170000 -0300" stop="20240611173000 -0300" channel="Telemundo 47 New York">
-    <title lang="en">Noticiero 47 Telemundo a las 5</title>
-    <desc lang="en">El mejor equipo de presentadores y reporteros se centra en las noticias más importantes de última hora. Además, las herramientas más avanzadas para predecir el tiempo y meteorólogos certificados.(n)</desc>
-    <category lang="en">News</category>
-    <previously-shown />
-  </programme>
-  <programme start="20240611173000 -0300" stop="20240611180000 -0300" channel="Telemundo 47 New York">
-    <title lang="en">Noticiero 47 Telemundo a las 5:30</title>
-    <desc lang="en">El mejor equipo de presentadores y reporteros se centra en las noticias más importantes de última hora. Además, las herramientas más avanzadas para predecir el tiempo y meteorólogos certificados.(n)</desc>
-    <category lang="en">News</category>
-    <previously-shown />
-  </programme>
-  <programme start="20240611180000 -0300" stop="20240611183000 -0300" channel="Telemundo 47 New York">
-    <title lang="en">Noticiero 47 Telemundo a las 6</title>
-    <desc lang="en">El mejor equipo de presentadores y reporteros se centra en las noticias más importantes de última hora. Además, las herramientas más avanzadas para predecir el tiempo y meteorólogos certificados.(n)</desc>
-    <credits>
-      <actor>David Rodriguez</actor>
-    </credits>
-    <category lang="en">News</category>
-    <previously-shown />
-  </programme>
-  <programme start="20240611183000 -0300" stop="20240611190000 -0300" channel="Telemundo 47 New York">
-    <title lang="en">Noticias Telemundo</title>
-    <desc lang="en">Julio Vaqueiro presenta Edición Noticias Telemundo, la fuente de información más confiable de la comunidad hispana en EE.UU. Sus corresponsales ofrecen las últimas noticias y entrevistas.(n)</desc>
-    <category lang="en">News</category>
-    <previously-shown />
-  </programme>
-  <programme start="20240611190000 -0300" stop="20240611220000 -0300" channel="Telemundo 47 New York">
-    <title lang="en">Top Chef VIP</title>
-    <sub-title lang="en">Postre sobre la mesa</sub-title>
-    <desc lang="en">Más que en la cocina, la rivalidad crece en la cava, Niño discute con Carolina y Pancho. Un plato inspirado en una cita romántica lleva lágrimas de El Puma y una inesperada confesión de Alicia.(n)</desc>
-    <category lang="en">Game Shows</category>
-    <category lang="en">Food</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20240611220000 -0300" stop="20240611230000 -0300" channel="Telemundo 47 New York">
-    <title lang="en">El señor de los cielos</title>
-    <sub-title lang="en">Paradojas de la vida</sub-title>
-    <desc lang="en">La ilusión de Manzano de iniciar una vida junto a La Felina se acaba cuando ella le responde con una amenaza a punta de pistola. Aurelio le pide una tregua a Ismael, propone unir fuerzas.(n)</desc>
-    <credits>
-      <actor>Rafael Amaya</actor>
-      <actor>Carmen Aub</actor>
-      <actor>Robinson Díaz</actor>
-    </credits>
-    <category lang="en">Soaps</category>
-    <category lang="en">Drama</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20240611230000 -0300" stop="20240611233500 -0300" channel="Telemundo 47 New York">
-    <title lang="en">Noticiero 47 Telemundo a las 11</title>
-    <desc lang="en">El mejor equipo de presentadores y reporteros se centra en las noticias más importantes de última hora. Además, las herramientas más avanzadas para predecir el tiempo y meteorólogos certificados.(n)</desc>
-    <category lang="en">News</category>
-    <previously-shown />
-  </programme>
-  <programme start="20240611233500 -0300" stop="20240612000000 -0300" channel="Telemundo 47 New York">
-    <title lang="en">Noticias Telemundo en la noche</title>
-    <desc lang="en">Noticias Telemundo en la Noche presenta las últimas noticias de Estados Unidos y el mundo. Arantxa Loizaga trae la información más relevante de todo lo que necesita saber al final del día.(n)</desc>
-    <category lang="en">News</category>
-    <previously-shown />
-  </programme>
-  <programme start="20240612000000 -0300" stop="20240612010000 -0300" channel="Telemundo 47 New York">
-    <title lang="en">Acércate a Rocío</title>
-    <sub-title lang="en">Mi hijo es víctima de una mala mujer</sub-title>
-    <desc lang="en">Marisol no va a permitir que su hijo sea víctima de una mujerzuela que deja a sus hijos de dos a tres veces a la semana para irse de fiesta. La nuera argumenta que tiene derecho a divertirse.(n)</desc>
-    <category lang="en">Talk Shows</category>
-    <category lang="en">Lifestyle</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20240612010000 -0300" stop="20240612020000 -0300" channel="Telemundo 47 New York">
-    <title lang="en">Caso cerrado</title>
-    <sub-title lang="en">No hay peor astilla; El pedalazo</sub-title>
-    <desc lang="en">Oslenin paga las consecuencias del comportamiento racista y abusador de su hermano Ricardo. Brayan padece de eyaculación precoz, por eso su esposa lo obliga a usar una dolorosa técnica sexual.(n)</desc>
-    <category lang="en">Reality TV</category>
-    <category lang="en">Legal</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20240612020000 -0300" stop="20240612023000 -0300" channel="Telemundo 47 New York">
-    <title lang="en">Programa pagado</title>
-    <desc lang="en">Programa que muestra diversos productos para la venta.(n)</desc>
-    <category lang="en">Paid Program</category>
-    <category lang="en">Shopping</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20240612023000 -0300" stop="20240612030000 -0300" channel="Telemundo 47 New York">
-    <title lang="en">Mejore la salud del corazón y la función cerebral con Krill</title>
-    <desc lang="en">Mejore la salud del corazón, la flexibilidad de las articulaciones y la función cerebral con Krill Omega 50+® con CoQ10.(n)</desc>
-    <category lang="en">Paid Program</category>
-    <previously-shown />
-  </programme>
-  <programme start="20240612030000 -0300" stop="20240612033000 -0300" channel="Telemundo 47 New York">
-    <title lang="en">Programa pagado</title>
-    <desc lang="en">Programa que muestra diversos productos para la venta.(n)</desc>
-    <category lang="en">Paid Program</category>
-    <category lang="en">Shopping</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20240612033000 -0300" stop="20240612040000 -0300" channel="Telemundo 47 New York">
-    <title lang="en">Programa pagado</title>
-    <desc lang="en">Programa que muestra diversos productos para la venta.(n)</desc>
-    <category lang="en">Paid Program</category>
-    <category lang="en">Shopping</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20240612040000 -0300" stop="20240612050000 -0300" channel="Telemundo 47 New York">
-    <title lang="en">En casa con Telemundo</title>
-    <desc lang="en">Una entretenida mezcla de las noticias del entretenimiento, exclusivas con estrellas de la música, el cine y la televisión, presentaciones en vivo, y el estilo de vida de los famosos.(n)</desc>
-    <credits>
-      <actor>Irasema Torres</actor>
-    </credits>
-    <category lang="en">Talk Shows</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20240611010000 +0000" stop="20240611020000 +0000" channel="IVC Networks">
-    <title lang="en">Codigo viajero</title>
-    <sub-title lang="en">Nueva Esparta son tres islas</sub-title>
-    <date>2023</date>
-  </programme>
   <programme start="20240611020000 +0000" stop="20240611030000 +0000" channel="IVC Networks">
     <title lang="en">ESGOI</title>
     <sub-title lang="en">Empezar con poco</sub-title>
@@ -1087,14 +635,6 @@
     <desc lang="en">Atlanta Braves vs. Baltimore Orioles. Desde Oriole Park en Camden Yards.(n)</desc>
     <date>2024</date>
   </programme>
-  <programme start="20240611010000 +0000" stop="20240611013000 +0000" channel="ESPN (VE)">
-    <title lang="en">La última experiencia</title>
-    <date>2019</date>
-  </programme>
-  <programme start="20240611013000 +0000" stop="20240611020000 +0000" channel="ESPN (VE)">
-    <title lang="en">UEFA Champions League Weekly</title>
-    <desc lang="en">Lo más destacado de la Liga de Campeones de la UEFA.(n)</desc>
-  </programme>
   <programme start="20240611020000 +0000" stop="20240611030000 +0000" channel="ESPN (VE)">
     <title lang="en">Equipo F</title>
     <desc lang="en">El debate de cada fecha llega a la pantalla, ¡no te pierdas EQUIPO F! (Live).(n)</desc>
@@ -1262,12 +802,6 @@
   <programme start="20240612210000 +0000" stop="20240613000000 +0000" channel="ESPN (VE)">
     <title lang="en">SportsCenter</title>
     <desc lang="en">Noticiero de índole deportivo compuesto por un espacio de 360°. Programa interactivo con información actualizada, análisis con profundidad y comentarios sobre los sucesos deportivos internacionales del momento en tiempo real, dirigido por los especialistas en la materia. (Live).(n)</desc>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20240611000000 +0000" stop="20240611020000 +0000" channel="ESPN 2 (VE)">
-    <title lang="en">SportsCenter</title>
-    <desc lang="en">Podrás ver un resumen informativo del acontecer deportivo en el mundo, con las mejores jugadas y resultados de los partidos. Además, presenta análisis y comentarios de las noticias más relevantes de las diferentes disciplinas competitivas. (Live).(n)</desc>
-    <date>2021</date>
     <premiere lang="en" />
   </programme>
   <programme start="20240611020000 +0000" stop="20240611040000 +0000" channel="ESPN 2 (VE)">
@@ -1961,12 +1495,6 @@
     <desc lang="en">Segunda Fase Jornada 4 Platense vs. Boca Juniors.(n)</desc>
     <date>2024</date>
   </programme>
-  <programme start="20240611000000 +0000" stop="20240611010000 +0000" channel="ESPN 6 (VE)">
-    <title lang="en">Fórmula 4</title>
-    <desc lang="en">(New).(n)</desc>
-    <date>2024</date>
-    <premiere lang="en" />
-  </programme>
   <programme start="20240611010000 +0000" stop="20240611030000 +0000" channel="ESPN 6 (VE)">
     <title lang="en">Fórmula 1</title>
     <sub-title lang="en">Carrera Gran Premio de Canadá</sub-title>
@@ -2354,18 +1882,6 @@
   <programme start="20240612230000 +0000" stop="20240613000000 +0000" channel="ESPN 7 (VE)">
     <title lang="en">WWE NXT</title>
     <desc lang="en">En este programa debutan nuevos talentos y se dan a conocer las nuevas estrellas de la WWE, provenientes de la Florida Championship Wrestling (FCW), llamados rookies o novatos, para debutar, un luchador profesional o Pro les ayuda a destacar en el difícil camino a la fama.(n)</desc>
-  </programme>
-  <programme start="20240611000000 +0000" stop="20240611010000 +0000" channel="Venevisión">
-    <title lang="en">¿Vieja Yo?</title>
-    <desc lang="en">Una señora mayor intenta cumplir todos sus sueños a pesar de su edad.(n)</desc>
-    <date>2008</date>
-  </programme>
-  <programme start="20240611010000 +0000" stop="20240611020000 +0000" channel="Venevisión">
-    <title lang="en">Amor prohibido</title>
-    <desc lang="en">Bihter Yöreoğlu es una joven hermosa que lleva una vida de lujos. Odia a su madre, la codiciosa Fatma Yöreoglu, por haberle causado la muerte a su querido padre. En sus visitas al cementerio, Bihter nota el interés del viudo millonario Adnan Ziyagil en ella. Fatma intentará conquistar a Adnan para su beneficio, pero Bihter no desea que su madre se salga con la suya, así que acepta la propuesta de matrimonio que le hizo Adnan y así poder arruinar los planes de su madre.(n)</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
   </programme>
   <programme start="20240611020000 +0000" stop="20240611030000 +0000" channel="Venevisión">
     <title lang="en">Moisés y los 10 mandamientos</title>
@@ -2901,13 +2417,6 @@
     <category lang="en">Action</category>
     <category lang="en">Thriller</category>
   </programme>
-  <programme start="20240611000000 +0000" stop="20240611003000 +0000" channel="En Televisión">
-    <title lang="en">Más que Noticias</title>
-    <desc lang="en">Noticias e informaciones de interés.(n)</desc>
-  </programme>
-  <programme start="20240611003000 +0000" stop="20240611020000 +0000" channel="En Televisión">
-    <title lang="en">Programación ENTV</title>
-  </programme>
   <programme start="20240611020000 +0000" stop="20240611030000 +0000" channel="En Televisión">
     <title lang="en">ACD media noticias</title>
     <desc lang="en">Manténgase informado sobre todo el acontecer loca el internacional. (Live).(n)</desc>
@@ -3060,19 +2569,6 @@
     <title lang="en">ACD media noticias</title>
     <desc lang="en">Manténgase informado sobre todo el acontecer loca el internacional. (Live).(n)</desc>
     <premiere lang="en" />
-  </programme>
-  <programme start="20240611000000 +0000" stop="20240611010000 +0000" channel="Ve Plus">
-    <title lang="en">¿Quién tiene la razón?</title>
-    <desc lang="en">Se escuchan los problemas de las partes en conflicto para decidir quién tiene la razón.(n)</desc>
-    <date>2013</date>
-  </programme>
-  <programme start="20240611010000 +0000" stop="20240611020000 +0000" channel="Ve Plus">
-    <title lang="en">Casos de familia</title>
-    <desc lang="en">Un foro para hablar de la familia.(n)</desc>
-    <date>2004</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
   </programme>
   <programme start="20240611020000 +0000" stop="20240611030000 +0000" channel="Ve Plus">
     <title lang="en">Necesito una amiga</title>
@@ -3343,15 +2839,6 @@
     <title lang="en">Aunque Mal Paguen</title>
     <desc lang="en">Las vidas entrelazadas de los habitantes del pueblo El Guayabo.(n)</desc>
     <date>2007</date>
-  </programme>
-  <programme start="20240611000000 +0000" stop="20240611010000 +0000" channel="Telesistema">
-    <title lang="en">Piezas rotas</title>
-    <desc lang="en">Programa de entretenimiento.(n)</desc>
-    <date>2018</date>
-  </programme>
-  <programme start="20240611010000 +0000" stop="20240611020000 +0000" channel="Telesistema">
-    <title lang="en">Legado de Amor</title>
-    <desc lang="en">Tras la muerte de un padre, sus hijos se sorprenden con la llegada de una hija desconocida,.(n)</desc>
   </programme>
   <programme start="20240611020000 +0000" stop="20240611030000 +0000" channel="Telesistema">
     <title lang="en">Telenoticias emisión estelar</title>
@@ -3747,15 +3234,6 @@
     <title lang="en">NEXXO TV</title>
     <date>2016</date>
   </programme>
-  <programme start="20240611000000 +0000" stop="20240611010000 +0000" channel="Antena 21">
-    <title lang="en">Bandolera</title>
-    <desc lang="en">Una estudiante se enamora de un teniente en Andalucía del siglo XIX.(n)</desc>
-    <date>2011</date>
-  </programme>
-  <programme start="20240611010000 +0000" stop="20240611020000 +0000" channel="Antena 21">
-    <title lang="en">Águila roja</title>
-    <desc lang="en">Historia de época en la que un hombre lleva una doble vida en nombre de la justicia.(n)</desc>
-  </programme>
   <programme start="20240611020000 +0000" stop="20240611040000 +0000" channel="Antena 21">
     <title lang="en">Cine nocturno</title>
     <desc lang="en">Emisión cinematográfica.(n)</desc>
@@ -3991,16 +3469,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20240611000000 +0000" stop="20240611010000 +0000" channel="Catorce TV">
-    <title lang="en">Será anunciado</title>
-    <date>2018</date>
-  </programme>
-  <programme start="20240611010000 +0000" stop="20240611020000 +0000" channel="Catorce TV">
-    <title lang="en">14 deportes</title>
-    <desc lang="en">Un programa que aborda lo más destacado del mundo del deporte nacional e internacional. (Live).(n)</desc>
-    <date>2022</date>
-    <premiere lang="en" />
-  </programme>
   <programme start="20240611020000 +0000" stop="20240611030000 +0000" channel="Catorce TV">
     <title lang="en">ACD media noticias</title>
     <desc lang="en">Manténgase informado sobre todo el acontecer loca el internacional.(n)</desc>
@@ -4132,21 +3600,6 @@
   <programme start="20240612230000 +0000" stop="20240613000000 +0000" channel="Catorce TV">
     <title lang="en">Será anunciado</title>
     <date>2018</date>
-  </programme>
-  <programme start="20240611000000 +0000" stop="20240611010000 +0000" channel="Digital 15">
-    <title lang="en">Como dice el dicho</title>
-    <desc lang="en">Sergio Corona en compañía de Mario Bautista, Brisa Carrillo y Benny Emmanuel te traen historias llenas de emociones con las que te podrás identificar, ellos tienen un café, donde los clientes escriben en sus paredes los refranes que se acomodan a sus historias, las cuales luego son dramatizadas conmovedoramente.(n)</desc>
-    <date>2011</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20240611010000 +0000" stop="20240611020000 +0000" channel="Digital 15">
-    <title lang="en">Más Noche</title>
-    <desc lang="en">Para los desvelados, este programa nocturno de entretenimiento es la opción ideal. Se aborda diferentes temas de actualidad en cuanto a la música, el cine y la televisión, entre otros.(n)</desc>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
   </programme>
   <programme start="20240611020000 +0000" stop="20240611030000 +0000" channel="Digital 15">
     <title lang="en">La 3ra en discordia</title>
@@ -4306,17 +3759,6 @@
     <title lang="en">Echando el pulso</title>
     <desc lang="en">Un programa de análisis y opinión que aborda los hechos más destacados de la agenda de noticias.(n)</desc>
     <date>2023</date>
-  </programme>
-  <programme start="20240611000000 +0000" stop="20240611003000 +0000" channel="Teleunión">
-    <title lang="en">Alejandro en coche</title>
-  </programme>
-  <programme start="20240611003000 +0000" stop="20240611010000 +0000" channel="Teleunión">
-    <title lang="en">Mundo Noticias</title>
-    <desc lang="en">Presenta todo el acontecer local de las comunas del gran Concepción y la Provincia de Arauco.(n)</desc>
-    <date>2015</date>
-  </programme>
-  <programme start="20240611010000 +0000" stop="20240611020000 +0000" channel="Teleunión">
-    <title lang="en">De ahora con José Cerda</title>
   </programme>
   <programme start="20240611020000 +0000" stop="20240611023000 +0000" channel="Teleunión">
     <title lang="en">Noticias Teleunión</title>
@@ -4485,12 +3927,6 @@
     <desc lang="en">Un magazine de actualidad que repasa noticias de moda, deportes, estilo de vida y más.(n)</desc>
     <date>2023</date>
   </programme>
-  <programme start="20240611000000 +0000" stop="20240611005500 +0000" channel="Teleradio América">
-    <title lang="en">Nosotros A Las 8</title>
-  </programme>
-  <programme start="20240611010000 +0000" stop="20240611020000 +0000" channel="Teleradio América">
-    <title lang="en">En Las Noches Personalmente</title>
-  </programme>
   <programme start="20240611020000 +0000" stop="20240611030000 +0000" channel="Teleradio América">
     <title lang="en">La Hora 22</title>
   </programme>
@@ -4624,15 +4060,6 @@
   </programme>
   <programme start="20240612230000 +0000" stop="20240612235500 +0000" channel="Teleradio América">
     <title lang="en">Ideas Encontradas</title>
-  </programme>
-  <programme start="20240611000000 +0000" stop="20240611010000 +0000" channel="Telecentro">
-    <title lang="en">Novelas</title>
-    <desc lang="en">Un espacio que presenta diversas telenovelas para que el público disfrute en casa.(n)</desc>
-    <date>2015</date>
-  </programme>
-  <programme start="20240611010000 +0000" stop="20240611020000 +0000" channel="Telecentro">
-    <title lang="en">Noticentro - Emision estelar</title>
-    <date>2019</date>
   </programme>
   <programme start="20240611020000 +0000" stop="20240611030000 +0000" channel="Telecentro">
     <title lang="en">2 much x la noche!</title>
@@ -4786,16 +4213,6 @@
   <programme start="20240612230000 +0000" stop="20240613000000 +0000" channel="Telecentro">
     <title lang="en">¿Quién eres tú?</title>
     <desc lang="en">Las hermanas Natalia y Verónica juegan a hacerse pasar una por la otra, causando una cadena de situaciones y consecuencias de las que no podrán liberarse fácilmente. Basada en la telenovela "La Usurpadora".(n)</desc>
-  </programme>
-  <programme start="20240611003000 +0000" stop="20240611013000 +0000" channel="CDN Deportes">
-    <title lang="en">Centro Deportes</title>
-    <desc lang="en">Resumen de los acontecimientos deportivos más importantes a nivel nacional e internacional. (New).(n)</desc>
-    <date>2024</date>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20240611013000 +0000" stop="20240611020000 +0000" channel="CDN Deportes">
-    <title lang="en">Todo Gol</title>
-    <desc lang="en">Magacín para los aficionados al fútbol de todo el mundo.(n)</desc>
   </programme>
   <programme start="20240611020000 +0000" stop="20240611030000 +0000" channel="CDN Deportes">
     <title lang="en">Bases Llenas</title>
@@ -5014,11 +4431,6 @@
   <programme start="20240612233000 +0000" stop="20240613000000 +0000" channel="CDN Deportes">
     <title lang="en">Carros y Más</title>
     <desc lang="en">Programa centrado en la industria automotriz.(n)</desc>
-  </programme>
-  <programme start="20240611000000 +0000" stop="20240611010000 +0000" channel="Tele Antillas">
-    <title lang="en">Informativos Teleantillas - Estelar</title>
-    <desc lang="en">Las principales noticias de la jornada.(n)</desc>
-    <date>2023</date>
   </programme>
   <programme start="20240611010000 +0000" stop="20240611030000 +0000" channel="Tele Antillas">
     <title lang="en">Pasión de Gavilanes</title>
@@ -5272,20 +4684,6 @@
     <title lang="en">Solo una madre</title>
     <desc lang="en">La historia de Lucero tomará un rumbo inesperado al dar a luz a su heredero. La humilde muchacha será expuesta a uno de los horrores más grandes cuando le arrebatan a su hijo y se lo cambiarán por otro bebé que se encuentra enfermo, para satisfacer los deseos de una madre adinerada y sin escrúpulos.(n)</desc>
     <date>2017</date>
-  </programme>
-  <programme start="20240611000000 +0000" stop="20240611010000 +0000" channel="Ultra Fiesta">
-    <title lang="en">Ultra fiesta hitz</title>
-    <desc lang="en">Programación de Ultra fiesta hitz.(n)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p9727231_st_v9_ab.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20240611010000 +0000" stop="20240611020000 +0000" channel="Ultra Fiesta">
-    <title lang="en">Ultra fiesta hitz</title>
-    <desc lang="en">Programación de Ultra fiesta hitz.(n)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p9727231_st_v9_ab.jpg" />
-    <previously-shown />
   </programme>
   <programme start="20240611020000 +0000" stop="20240611030000 +0000" channel="Ultra Fiesta">
     <title lang="en">Ultra fiesta hitz</title>
@@ -5776,25 +5174,6 @@
     <category lang="en">Music</category>
     <icon src="https://zap2it.tmsimg.com/assets/p9727231_st_v9_ab.jpg" />
     <previously-shown />
-  </programme>
-  <programme start="20240611002300 +0000" stop="20240611010600 +0000" channel="Ultra Docu">
-    <title lang="en">Juego de reyes</title>
-    <desc lang="en">Jóvenes leones machos con el potencial de ser el rey.(n)</desc>
-    <credits>
-      <director>Dereck Joubert</director>
-      <director>Beverly Joubert</director>
-      <writer>Dereck Joubert</writer>
-      <commentator>Jeremy Irons</commentator>
-    </credits>
-    <category lang="en">Animals</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Nature</category>
-    <category lang="en">Special</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p10334784_b_v9_az.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
   </programme>
   <programme start="20240611010600 +0000" stop="20240611022800 +0000" channel="Ultra Docu">
     <title lang="en">Isabel</title>
@@ -7632,70 +7011,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20240611000100 +0000" stop="20240611004500 +0000" channel="Ultra Macho">
-    <title lang="en">Shattered</title>
-    <sub-title lang="en">Las lágrimas hacen venir a Harry</sub-title>
-    <desc lang="en">Sullivan y Lynch investigan el asesinato de una atractiva mujer y descubren que estaba relacionada con un servicio de acompañantes.(n)</desc>
-    <credits>
-      <actor role="Ben Sullivan">Callum Rennie</actor>
-      <actor role="Amy Lynch">Camille Sullivan</actor>
-      <actor role="Jon &quot;Hall&quot; Holland">Clé Bennett</actor>
-      <actor role="Terry Rhoads">Martin Cummins</actor>
-      <actor role="Pam &quot;T.C.&quot; Garrett">Karen LeBlanc</actor>
-      <actor role="Kevin &quot;Super&quot; Whitehill">Ty Olsson</actor>
-    </credits>
-    <category lang="en">Crime drama</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p8230191_b_v13_au.jpg" />
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20240611004500 +0000" stop="20240611012800 +0000" channel="Ultra Macho">
-    <title lang="en">Shattered</title>
-    <sub-title lang="en">¿En Dónde Está la Línea?</sub-title>
-    <desc lang="en">El robo en un juego de póquer de grandes apuestas provoca muerte de pistolero y una desaparición.(n)</desc>
-    <credits>
-      <actor role="Ben Sullivan">Callum Rennie</actor>
-      <actor role="Amy Lynch">Camille Sullivan</actor>
-      <actor role="Jon &quot;Hall&quot; Holland">Clé Bennett</actor>
-      <actor role="Terry Rhoads">Martin Cummins</actor>
-      <actor role="Pam &quot;T.C.&quot; Garrett">Karen LeBlanc</actor>
-      <actor role="Kevin &quot;Super&quot; Whitehill">Ty Olsson</actor>
-    </credits>
-    <category lang="en">Crime drama</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p8316377_e_v9_ab.jpg" />
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20240611012800 +0000" stop="20240611021300 +0000" channel="Ultra Macho">
-    <title lang="en">Tiro de gracia</title>
-    <desc lang="en">Salvador Chaparro es un actor cuya vida cambia cuando acepta interpretar el papel de un narco con el que guarda parecido físico. Sin embargo, las cosas no salen como él imaginaba y ahora deberá huir y pelear por salvar su vida.(n)</desc>
-    <credits>
-      <director>Andrés Marroquín</director>
-      <director>Unai Amuchastegui</director>
-      <actor role="Salvador Chaparro/Vicente Vallejo">Robinson Díaz</actor>
-      <actor role="Esmeralda">Greicy Rendon</actor>
-      <actor role="La Vaquera">Natalia Durán</actor>
-      <actor role="Gaspar Acevedo">Nicolás Montero</actor>
-      <actor role="Esneider Jaramillo">Claudio Cataño</actor>
-      <actor role="Mosco">Pedro Palares</actor>
-      <actor role="Cardenal">Juan Messier</actor>
-      <actor role="Yamile Juliao">Indhira Serrano</actor>
-    </credits>
-    <category lang="en">Crime</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Soap</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p11344473_b_v9_ab.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20240611021300 +0000" stop="20240611025700 +0000" channel="Ultra Macho">
     <title lang="en">Tiro de gracia</title>
     <desc lang="en">Salvador Chaparro es un actor cuya vida cambia cuando acepta interpretar el papel de un narco con el que guarda parecido físico. Sin embargo, las cosas no salen como él imaginaba y ahora deberá huir y pelear por salvar su vida.(n)</desc>
@@ -8974,65 +8289,6 @@
     <previously-shown />
     <rating system="MPAA">
       <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20240611000900 +0000" stop="20240611003100 +0000" channel="Ultra Kidz">
-    <title lang="en">Furia Spiner</title>
-    <desc lang="en">Uno de los deportes más populares del mundo, en donde varios participantes son invitados a la isla misteriosa junto a otros jugadores del mundo para una aventura de supervivencia.(n)</desc>
-    <category lang="en">Adventure</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p23360136_b_v9_aa.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20240611003100 +0000" stop="20240611005100 +0000" channel="Ultra Kidz">
-    <title lang="en">Slash://</title>
-    <desc lang="en">Las aventuras de Chen, Paula, Matilde, Tomoya e Isaia, cinco amigos de distintos lugares del mundo. Gracias a los poderes de una misteriosa piedra verde, los chicos emprenden un viaje por la web para derrotar al malvado Cobra.(n)</desc>
-    <credits>
-      <director>Sergio Manfio</director>
-      <writer>Sergio Manfio</writer>
-      <writer>Francesco Manfio</writer>
-    </credits>
-    <category lang="en">Adventure</category>
-    <category lang="en">Children</category>
-    <category lang="en">Fantasy</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p15261738_st_v9_aa.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20240611005100 +0000" stop="20240611011400 +0000" channel="Ultra Kidz">
-    <title lang="en">Inspector Chingum</title>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <category lang="en">Comedy</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p22860912_st_v9_aa.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20240611011400 +0000" stop="20240611013600 +0000" channel="Ultra Kidz">
-    <title lang="en">Inspector Chingum</title>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <category lang="en">Comedy</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p22860912_st_v9_aa.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20240611013600 +0000" stop="20240611020000 +0000" channel="Ultra Kidz">
-    <title lang="en">Smarty-Pants Eric</title>
-    <category lang="en">Comedy</category>
-    <category lang="en">Educational</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p21963544_st_v9_aa.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20240611020000 +0000" stop="20240611022400 +0000" channel="Ultra Kidz">
@@ -11813,59 +11069,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20240611000100 +0000" stop="20240611004600 +0000" channel="Ultra Cine">
-    <title lang="en">Resurrección: Ertugrul</title>
-    <desc lang="en">Un guerrero turco del siglo XIII acepta luchar contra los enemigos de un sultán a cambio de tierras, produciéndose una gran guerra por la ciudad de Anatolia entre los turcos, cruzados y mongoles.(n)</desc>
-    <credits>
-      <director>Metin Günay</director>
-      <director>Akif Özkan</director>
-      <actor role="Ertugrul">Engin Düzyatan</actor>
-      <actor role="Hayme Ana">Hülya Darcan</actor>
-      <actor role="Halime Hatun">Esra Bilgic</actor>
-      <actor role="Turgut Alp">Cengiz Coskun</actor>
-      <actor role="Dogan Bey">Cavit Güner</actor>
-      <actor role="Bamsi Beyrek">Nurettin Sönmez</actor>
-      <actor role="Ibni Arabi">Ozman Sirgood</actor>
-      <writer>Mehmet Bozdag</writer>
-      <writer>Atilla Engin</writer>
-    </credits>
-    <category lang="en">Action</category>
-    <category lang="en">Drama</category>
-    <category lang="en">History</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p11725743_b_v9_ad.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20240611004600 +0000" stop="20240611011000 +0000" channel="Ultra Cine">
-    <title lang="en">Kristina</title>
-    <category lang="en">Variety</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20240611011000 +0000" stop="20240611015500 +0000" channel="Ultra Cine">
-    <title lang="en">Nikonov</title>
-    <desc lang="en">Sergey Nikonov padece una grave lesión en la columna. Para distraerse de su tragedia personal y lidiar con la depresión, Sergei arregla su apartamento para investigar crímenes.(n)</desc>
-    <credits>
-      <actor role="Alexey Skrepkov">Robert Feldman</actor>
-      <actor role="Sergey Nikonov">Aleksandr Kobzar</actor>
-      <actor role="Anna">Olga Safronova</actor>
-      <actor>Marina Konyashkina</actor>
-      <actor role="Leva">Dmitriy Lalenkov</actor>
-      <actor role="Alyona">Anna Sagaidachnaya</actor>
-      <actor>Mikhail Kukuyuk</actor>
-      <actor role="Kseniya">Antonina Makaruk</actor>
-    </credits>
-    <category lang="en">Crime</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p18164498_b_v9_aa.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20240611015500 +0000" stop="20240611024100 +0000" channel="Ultra Cine">
     <title lang="en">Rogue</title>
     <sub-title lang="en">The Last Supper</sub-title>
@@ -14502,24 +13705,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20240611002200 +0000" stop="20240611015100 +0000" channel="Ultra Mex">
-    <title lang="en">Las aventuras de Joselillo</title>
-    <desc lang="en">Joselillo es un niño de Michoacán que sueña con conocer los bosques de la mariposa monarca, así que se lanza hacia la gran aventura, durante la cual conoce a varios amigos que lo ayudan a hacer realidad esa ilusión.(n)</desc>
-    <credits>
-      <director>Hugo Barrientos</director>
-      <actor>Cristofer Arriaga</actor>
-      <actor>Ismael Quintanar</actor>
-      <actor>Claudia Ruiz</actor>
-      <actor>Gloria Soria</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="en">Drama</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p22666623_v_v9_aa.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
   <programme start="20240611015100 +0000" stop="20240611032400 +0000" channel="Ultra Mex">
     <title lang="en">Memorias de un sicario</title>
     <desc lang="en">La historia de cómo hombres sin escrúpulos utilizan el poder para aprovecharse de las miserias de los más necesitados y así manipularlos para lograr sus objetivos criminales.(n)</desc>
@@ -15582,14 +14767,6 @@
     <title lang="en">Ahora caigo</title>
     <desc lang="en">¡Ahora caigo! es la adaptación española del exitoso concurso israelí Lauf Al Hamilion de Arutz 10, producido en España por Gestmusic. Es un programa de televisión emitido por Antena 3 y presentado por Arturo Valls, siendo Silvia Abril su sustituta en los meses de verano.(n)</desc>
   </programme>
-  <programme start="20240611000000 +0000" stop="20240611010000 +0000" channel="Telemicro">
-    <title lang="en">El maleficio</title>
-    <desc lang="en">Viuda, Beatriz se encarga de sus hijos. Enrique lidia con Jorge y Raúl, huérfanos de madre.(n)</desc>
-  </programme>
-  <programme start="20240611010000 +0000" stop="20240611020000 +0000" channel="Telemicro">
-    <title lang="en">Reyes</title>
-    <desc lang="en">Basado en los libros bíblicos de Samuel, Reyes, Crónicas, Proverbios, Cantares.(n)</desc>
-  </programme>
   <programme start="20240611020000 +0000" stop="20240611030000 +0000" channel="Telemicro">
     <title lang="en">Noticias Telemicro</title>
     <desc lang="en">Noticias e informaciones de actualidad.(n)</desc>
@@ -15773,19 +14950,6 @@
   <programme start="20240612230000 +0000" stop="20240613000000 +0000" channel="Telemicro">
     <title lang="en">Search: WWW</title>
     <desc lang="en">Bae Ta Mi está enfocada en hacer de Unicon la historia de éxito informático más grande del país.(n)</desc>
-  </programme>
-  <programme start="20240611000000 +0000" stop="20240611003000 +0000" channel="Megavisión">
-    <title lang="en">Cibao news</title>
-  </programme>
-  <programme start="20240611003000 +0000" stop="20240611010000 +0000" channel="Megavisión">
-    <title lang="en">Mundo Noticias</title>
-    <desc lang="en">Presenta todo el acontecer local de las comunas del gran Concepción y la Provincia de Arauco.(n)</desc>
-    <date>2015</date>
-  </programme>
-  <programme start="20240611010000 +0000" stop="20240611020000 +0000" channel="Megavisión">
-    <title lang="en">De buenas a primeras</title>
-    <desc lang="en">Un programa informativo que aborda los hechos más destacados vinculados a la comunidad dominicana.(n)</desc>
-    <date>2009</date>
   </programme>
   <programme start="20240611020000 +0000" stop="20240611030000 +0000" channel="Megavisión">
     <title lang="en">Por el medio</title>
@@ -15985,39 +15149,6 @@
     <title lang="en">Circumax, Soltimex, Puricolon</title>
     <desc lang="en">Un espacio que presenta diversos productos y sus características para que el público los compre.(n)</desc>
     <date>2022</date>
-  </programme>
-  <programme start="20240611000000 +0000" stop="20240611003000 +0000" channel="DW Español">
-    <title lang="en">DW Noticias</title>
-    <desc lang="en">Información actual y noticias de relevancia diaria. (New).(n)</desc>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20240611003000 +0000" stop="20240611010000 +0000" channel="DW Español">
-    <title lang="en">¡Escápate!</title>
-    <desc lang="en">Programa que muestra diferentes ciudades o regiones alemanas que merece la pena visitar. Los presentadores descubren en cada entrega una nueva atracción de Alemania. Escalan, bucean o marchan y también degustan las especialidades culinarias en cada lugar visitado. (New).(n)</desc>
-    <date>2016</date>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20240611010000 +0000" stop="20240611011500 +0000" channel="DW Español">
-    <title lang="en">DW Noticias</title>
-    <desc lang="en">Información actual y noticias de relevancia diaria. (New).(n)</desc>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20240611011500 +0000" stop="20240611013000 +0000" channel="DW Español">
-    <title lang="en">Economía</title>
-    <desc lang="en">Reportajes, noticias y análisis desde los centros financieros más importantes, los mercados más versátiles y los consorcios líderes en el mundo. (New).(n)</desc>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20240611013000 +0000" stop="20240611020000 +0000" channel="DW Español">
-    <title lang="en">Primer Plano</title>
-    <desc lang="en">Noticias de política y actualidad. (Repeat).(n)</desc>
-    <previously-shown />
-  </programme>
-  <programme start="20240611020000 +0000" stop="20240611021500 +0000" channel="DW Español">
-    <title lang="en">Patrimonio mundial</title>
-    <sub-title lang="en">Lednice – Fasto principesco y artísticos jardines, República Checa</sub-title>
-    <desc lang="en">Entre suaves colinas y valles arbolados, en la frontera entre Austria y la República Checa, se esconde una obra de arte que engloba edificios, jardines y naturaleza en estado salvaje. El complejo fue creado por orden de los príncipes de Liechtenstein (Repeat).(n)</desc>
-    <date>2015</date>
-    <previously-shown />
   </programme>
   <programme start="20240611021500 +0000" stop="20240611030000 +0000" channel="DW Español">
     <title lang="en">Las hermanas Pathan - Odio religioso en la India</title>
@@ -16575,45 +15706,6 @@
     <desc lang="en">Temas relevantes del mundo digital con un profundo enfoque periodístico. (New).(n)</desc>
     <premiere lang="en" />
   </programme>
-  <programme start="20240611000000 +0000" stop="20240611003000 +0000" channel="24h">
-    <title lang="es">Telediario Internacional</title>
-    <desc lang="es">Un noticiario que prima la información de ámbito internacional y especialmente la que se produce o tiene relación con la América Iberoamericana. El espacio, eso sí, tampoco se olvida de la actualidad nacional española. Incluye previsión meteorológica de todo el planeta.(n)</desc>
-    <credits>
-      <presenter>Moisés Rodríguez</presenter>
-    </credits>
-    <date>2024</date>
-    <icon src="https://media.tvup.cloud/epg/prog_2506/bg_telediario_internacional_2024_moises_rodriguez_3.jpeg" />
-    <country lang="es">España</country>
-    <rating>
-      <value>SC</value>
-    </rating>
-  </programme>
-  <programme start="20240611003000 +0000" stop="20240611010000 +0000" channel="24h">
-    <title lang="es">Telediario Internacional</title>
-    <desc lang="es">Un noticiario que prima la información de ámbito internacional y especialmente la que se produce o tiene relación con la América Iberoamericana. El espacio, eso sí, tampoco se olvida de la actualidad nacional española. Incluye previsión meteorológica de todo el planeta.(n)</desc>
-    <credits>
-      <presenter>Moisés Rodríguez</presenter>
-    </credits>
-    <date>2024</date>
-    <icon src="https://media.tvup.cloud/epg/prog_2506/bg_telediario_internacional_2024_moises_rodriguez_3.jpeg" />
-    <country lang="es">España</country>
-    <rating>
-      <value>SC</value>
-    </rating>
-  </programme>
-  <programme start="20240611010000 +0000" stop="20240611013000 +0000" channel="24h">
-    <title lang="es">Telediario Internacional</title>
-    <desc lang="es">Un noticiario que prima la información de ámbito internacional y especialmente la que se produce o tiene relación con la América Iberoamericana. El espacio, eso sí, tampoco se olvida de la actualidad nacional española. Incluye previsión meteorológica de todo el planeta.(n)</desc>
-    <credits>
-      <presenter>Moisés Rodríguez</presenter>
-    </credits>
-    <date>2024</date>
-    <icon src="https://media.tvup.cloud/epg/prog_2506/bg_telediario_internacional_2024_moises_rodriguez_3.jpeg" />
-    <country lang="es">España</country>
-    <rating>
-      <value>SC</value>
-    </rating>
-  </programme>
   <programme start="20240611013000 +0000" stop="20240611020000 +0000" channel="24h">
     <title lang="es">Telediario Internacional</title>
     <desc lang="es">Un noticiario que prima la información de ámbito internacional y especialmente la que se produce o tiene relación con la América Iberoamericana. El espacio, eso sí, tampoco se olvida de la actualidad nacional española. Incluye previsión meteorológica de todo el planeta.(n)</desc>
@@ -17119,18 +16211,6 @@
     <icon src="https://media.tvup.cloud/epg/prog_1558252/bg_objetivo_igualdad_s03_2021.jpeg" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S3 E50</episode-num>
-    <rating>
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20240611002500 +0000" stop="20240611011500 +0000" channel="La 2">
-    <title lang="es">Planeta verde</title>
-    <sub-title lang="es">Mundos Acuáticos</sub-title>
-    <desc lang="es">Explora el mundo desde la fascinante perspectiva de las plantas y nos permite descubrir más sobre la interconectividad de la vida en la Tierra. Utilizando la última tecnología y la ciencia más reciente.(n)</desc>
-    <date>2021</date>
-    <icon src="https://media.tvup.cloud/epg/prog_994470/bg_the_green_planet_s01.jpeg" />
-    <country lang="es">Estados Unidos</country>
-    <episode-num system="onscreen">S1 E2</episode-num>
     <rating>
       <value>TP</value>
     </rating>
@@ -18054,21 +17134,6 @@
       <value>+12</value>
     </rating>
   </programme>
-  <programme start="20240611001000 +0000" stop="20240611011000 +0000" channel="La 1">
-    <title lang="es">Comerse el mundo</title>
-    <sub-title lang="es">Edimburgo</sub-title>
-    <desc lang="es">El chef vallisoletano Javier Peña viaja alrededor del mundo con el objetivo de encontrar la esencia de la cocina de cada país. Y todo ello gracias a la ayuda de huéspedes locales que le acercarán lo más auténtico de su cocina.(n)</desc>
-    <credits>
-      <presenter>Javier Peña</presenter>
-    </credits>
-    <date>2024</date>
-    <icon src="https://media.tvup.cloud/epg/prog_1572903/bg_comerse_el_mundo_s2023_1.jpeg" />
-    <country lang="es">España</country>
-    <episode-num system="onscreen">E8</episode-num>
-    <rating>
-      <value>TP</value>
-    </rating>
-  </programme>
   <programme start="20240611011000 +0000" stop="20240611034000 +0000" channel="La 1">
     <title lang="es">La noche en 24 horas</title>
     <desc lang="es">Informativo diario nocturno que ofrece un análisis profundo y plural de la actualidad de la jornada.(n)</desc>
@@ -18588,16 +17653,6 @@
     <icon src="https://media.tvup.cloud/epg/prog_3156/bg_recurso_arte_cine_claqueta.jpeg" />
     <rating>
       <value>+12</value>
-    </rating>
-  </programme>
-  <programme start="20240611003500 +0000" stop="20240611011500 +0000" channel="Neox">
-    <title lang="es">JOKERBET: ¡Damos Juego!</title>
-    <desc lang="es">Programa de casino y apuestas deportivas.(n)</desc>
-    <date>2022</date>
-    <icon src="https://media.tvup.cloud/epg/prog_1125450/bg_jokerbet_damos_juego_s01-1-.jpeg" />
-    <episode-num system="onscreen">S1</episode-num>
-    <rating>
-      <value>+18</value>
     </rating>
   </programme>
   <programme start="20240611011500 +0000" stop="20240611015500 +0000" channel="Neox">
@@ -21638,16 +20693,6 @@
       <value>+16</value>
     </rating>
   </programme>
-  <programme start="20240611000000 +0000" stop="20240611010000 +0000" channel="ADN 40">
-    <title lang="en">Tu ciudad en tiempo real con Juan Manuel Jimenez</title>
-    <desc lang="en">La información local de las megalópolis del país: Ciudad de México, Monterrey y Guadalajara.(n)</desc>
-    <date>2021</date>
-  </programme>
-  <programme start="20240611010000 +0000" stop="20240611020000 +0000" channel="ADN 40">
-    <title lang="en">Ciudad desnuda con Yunue Cuevas y Mara Durón</title>
-    <desc lang="en">Una revista informativa que destaca el lado humano, impactante y asombroso de la noticia.(n)</desc>
-    <date>2023</date>
-  </programme>
   <programme start="20240611020000 +0000" stop="20240611030000 +0000" channel="ADN 40">
     <title lang="en">Red 360 con Lucy Bravo</title>
     <desc lang="en">Información que abarca todas la plataformas, con Lucy Bravo.(n)</desc>
@@ -21977,16 +21022,6 @@
     <desc lang="en">Toda la información del día con Alejandro Boff y Luciana Wainer.(n)</desc>
     <date>2024</date>
   </programme>
-  <programme start="20240611003000 +0000" stop="20240611012500 +0000" channel="Euro Channel">
-    <title lang="en">Premonición</title>
-    <desc lang="en">Una bacteria desconocida es encontrada en la sangre de la joven. Martin, el técnico de laboratorio, se infecta y se escapa. Un extraño aparece en el hospital y afirma ser el padre de la joven.(n)</desc>
-    <date>2019</date>
-  </programme>
-  <programme start="20240611012500 +0000" stop="20240611022000 +0000" channel="Euro Channel">
-    <title lang="en">Premonición</title>
-    <desc lang="en">El presunto padre porta el hongo tóxico de una planta desaparecida desde hace 4.(n)</desc>
-    <date>2019</date>
-  </programme>
   <programme start="20240611022000 +0000" stop="20240611035000 +0000" channel="Euro Channel">
     <title lang="en">El misterio de la habitación 327</title>
     <desc lang="en">Un prometido aparece muerto en la habitación 327 y su pareja se convierte en la sospechosa.(n)</desc>
@@ -22131,14 +21166,6 @@
     <title lang="en">La tentación</title>
     <desc lang="en">Un joven casado y desocupado inicia una aventura con una adinerada coleccionista de arte.(n)</desc>
     <date>2022</date>
-  </programme>
-  <programme start="20240611000000 +0000" stop="20240611010000 +0000" channel="Antena 7">
-    <title lang="en">Doctor Milagro</title>
-    <desc lang="en">La poca experiencia social generarán tensos momentos entre los tutores de Ali Vefa. Pero los prejuicios de algunos de sus colegas no serán impedimento para convertirse en el mejor cirujano.(n)</desc>
-  </programme>
-  <programme start="20240611010000 +0000" stop="20240611020000 +0000" channel="Antena 7">
-    <title lang="en">AN7 2da Emisión</title>
-    <desc lang="en">Noticias e informaciones de actualidad.(n)</desc>
   </programme>
   <programme start="20240611020000 +0000" stop="20240611030000 +0000" channel="Antena 7">
     <title lang="en">Tierra amarga</title>
@@ -22409,17 +21436,6 @@
     <title lang="en">La promesa</title>
     <desc lang="en">Cada año cientos de mujeres caen en las redes de reclutadores que trafican con personas, viéndose forzadas a una vida de esclavitud sexual y laboral. Esta es la historia de «Ana», «Frida» y «Seleni», tres bellas jóvenes engañadas bajo la promesa de alcanzar la vida soñada. Inocentes y vulnerables, con la férrea convicción de que pese a las condiciones adversas en las que viven, pueden alcanzar un mejor futuro.(n)</desc>
     <date>2013</date>
-  </programme>
-  <programme start="20240611003000 +0000" stop="20240611011800 +0000" channel="TNT Novelas">
-    <title lang="en">Olvídame si puedes</title>
-    <desc lang="en">Esra empieza a sospechar de Rüya y decide investigar su pasado.(n)</desc>
-    <date>2023</date>
-  </programme>
-  <programme start="20240611011800 +0000" stop="20240611021000 +0000" channel="TNT Novelas">
-    <title lang="en">Traicionada</title>
-    <sub-title lang="en">Episode 39</sub-title>
-    <desc lang="en">Derin visita a Derya para contarle su decisión.(n)</desc>
-    <date>2022</date>
   </programme>
   <programme start="20240611021000 +0000" stop="20240611030200 +0000" channel="TNT Novelas">
     <title lang="en">¿Y tú quién eres?</title>
@@ -23397,25 +22413,6 @@
     <desc lang="es">Estos tacos gobernador con agua de horchata con coco te van a fascinar.(n)</desc>
     <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
-  <programme start="20240611000000 +0000" stop="20240611003000 +0000" channel="TvAgro">
-    <title lang="en">El sembrador y la tierra</title>
-    <desc lang="en">Difusión de temas del campo y el sector agropecuario dentro de un contexto didáctico e informativo. Episodio sobre el tomate de árbol.(n)</desc>
-  </programme>
-  <programme start="20240611003000 +0000" stop="20240611010000 +0000" channel="TvAgro">
-    <title lang="en">Somos agricultura tropical</title>
-    <desc lang="en">Conoce las bondades de la implementación de Bioproductos en el cuidado de los polinizadores, las fuentes hídricas y como alcanzar la sostenibilidad en la producción de frutas del trópico.(n)</desc>
-    <date>2021</date>
-  </programme>
-  <programme start="20240611010000 +0000" stop="20240611013000 +0000" channel="TvAgro">
-    <title lang="en">Cascos y riendas</title>
-    <desc lang="en">Lo que se vive en el lomo del caballo es una sensación como pocas, y te lo demostramos en este programa.(n)</desc>
-    <date>2014</date>
-  </programme>
-  <programme start="20240611013000 +0000" stop="20240611020000 +0000" channel="TvAgro">
-    <title lang="en">Aroma y color</title>
-    <desc lang="en">En Tv Agro siempre te queremos sorprender con el mejor Aroma y Color.(n)</desc>
-    <date>2017</date>
-  </programme>
   <programme start="20240611020000 +0000" stop="20240611023000 +0000" channel="TvAgro">
     <title lang="en">Las Aventuras del Profesor Yarumo</title>
     <desc lang="en">Programa educativo sobre el campo y el agro.(n)</desc>
@@ -23832,12 +22829,6 @@
     <desc lang="en">Programa con transmisión en vivo, en el cuál se ofrecen ganados de cualquier especie, permitiendo comprar los animales desde la comodidad de su casa sin tener que desplazarse.(n)</desc>
     <date>2015</date>
   </programme>
-  <programme start="20240611000000 +0000" stop="20240611020000 +0000" channel="WIN Sports">
-    <title lang="en">Baloncesto colombiano: Liga Profesional</title>
-    <desc lang="en">(Live).(n)</desc>
-    <date>2024</date>
-    <premiere lang="en" />
-  </programme>
   <programme start="20240611020000 +0000" stop="20240611030000 +0000" channel="WIN Sports">
     <title lang="en">Camino a Primera</title>
     <desc lang="en">Todos los goles del Torneo Águila con entrevistas, ruedas de prensa y lo mejor del torneo. (Live).(n)</desc>
@@ -23993,15 +22984,6 @@
     <title lang="en">Conexión Deportes</title>
     <desc lang="en">Este es el espacio más completo de análisis, debate, polémica y opinión de los acontecimientos deportivos del día (Live).(n)</desc>
     <premiere lang="en" />
-  </programme>
-  <programme start="20240611003000 +0000" stop="20240611013000 +0000" channel="Trece">
-    <title lang="en">Contragolpe</title>
-    <desc lang="en">Un programa que aborda lo más destacado de la agenda del fútbol a nivel nacional.(n)</desc>
-  </programme>
-  <programme start="20240611013000 +0000" stop="20240611020000 +0000" channel="Trece">
-    <title lang="en">Flow importado, ritmo pegado</title>
-    <desc lang="en">Serie documental musical que narra la historia del reguetón en Medellín.(n)</desc>
-    <date>2018</date>
   </programme>
   <programme start="20240611020000 +0000" stop="20240611030000 +0000" channel="Trece">
     <title lang="en">Volverte a ver</title>
@@ -24178,16 +23160,6 @@
   <programme start="20240612233000 +0000" stop="20240613000000 +0000" channel="Trece">
     <title lang="en">Talento es lo que hay</title>
     <desc lang="en">Conocemos a los colombianos que impactan positivamente en sus comunidades a través de su talento.(n)</desc>
-  </programme>
-  <programme start="20240611000000 +0000" stop="20240611010000 +0000" channel="INTI Network">
-    <title lang="en">La ruta del agua</title>
-    <desc lang="en">Programa que nos invita a conocer la importancia que tiene el agua para nuestro planeta.(n)</desc>
-    <date>2021</date>
-  </programme>
-  <programme start="20240611010000 +0000" stop="20240611020000 +0000" channel="INTI Network">
-    <title lang="en">Secretos para sanar</title>
-    <desc lang="en">Carolina Bezamat nos llevara a un camino muchas veces inexplorado, para conocer las propiedades, muchas veces desconicidas, de algunos alimentos que nos entregaran los secretos para sanar.(n)</desc>
-    <date>2020</date>
   </programme>
   <programme start="20240611020000 +0000" stop="20240611023000 +0000" channel="INTI Network">
     <title lang="en">Transición de la ciudad al campo</title>
@@ -24509,19 +23481,6 @@
     <title lang="en">Sanaciones con Bob Linde</title>
     <desc lang="en">Bob Linde, Codirector de la Escuela de Tradición en Estudios de Plantas Medicinales en Florida, Estados Unidos, emprende un viaje por algunas provincias de los Andes Ecuatorianos, incluyendo la Amazonía.(n)</desc>
     <date>2016</date>
-  </programme>
-  <programme start="20240611000000 +0000" stop="20240611010000 +0000" channel="Claro Sports 2">
-    <title lang="en">Deportes en claro</title>
-    <desc lang="en">Programa de contenido deportivo.(n)</desc>
-    <rating system="MPAA">
-      <value>A</value>
-    </rating>
-  </programme>
-  <programme start="20240611010000 +0000" stop="20240611020000 +0000" channel="Claro Sports 2">
-    <title lang="en">Classic Finals</title>
-    <rating system="MPAA">
-      <value>A</value>
-    </rating>
   </programme>
   <programme start="20240611020000 +0000" stop="20240611023000 +0000" channel="Claro Sports 2">
     <title lang="en">La jornada Guatemala</title>
@@ -25102,23 +24061,6 @@
     <desc lang="en">Hablar de tus problemas es el primer paso para superarlos, por eso Rocío Sánchez Azuara está de regreso con un programa único, en el cual, podrás acercarte, para que con ella, hables de todo lo que te preocupa, y juntas o juntos, puedan encontrar una solución.(n)</desc>
     <date>2021</date>
   </programme>
-  <programme start="20240611000000 +0000" stop="20240611004500 +0000" channel="AzCorazón">
-    <title lang="en">Azteca Novelas</title>
-    <date>2011</date>
-  </programme>
-  <programme start="20240611004500 +0000" stop="20240611013000 +0000" channel="AzCorazón">
-    <title lang="en">Quiéreme Tonto</title>
-    <date>2023</date>
-  </programme>
-  <programme start="20240611013000 +0000" stop="20240611021500 +0000" channel="AzCorazón">
-    <title lang="en">Bajo el alma</title>
-    <sub-title lang="en">Episodio #1.11</sub-title>
-    <desc lang="en">Una joven de familia trabajadora y un hombre adinerado deben luchar por su amor.(n)</desc>
-    <date>2011</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20240611021500 +0000" stop="20240611030000 +0000" channel="AzCorazón">
     <title lang="en">Bajo el alma</title>
     <sub-title lang="en">Episode #1.12</sub-title>
@@ -25467,22 +24409,6 @@
   <programme start="20240612231500 +0000" stop="20240613000000 +0000" channel="AzCorazón">
     <title lang="en">Siempre tuya Acapulco</title>
     <date>2016</date>
-  </programme>
-  <programme start="20240611000000 +0000" stop="20240611003000 +0000" channel="AzClic">
-    <title lang="en">Mostro garage</title>
-    <date>2024</date>
-  </programme>
-  <programme start="20240611003000 +0000" stop="20240611010000 +0000" channel="AzClic">
-    <title lang="en">Azteca Fit</title>
-    <date>2024</date>
-  </programme>
-  <programme start="20240611010000 +0000" stop="20240611013000 +0000" channel="AzClic">
-    <title lang="en">Conecta</title>
-    <date>2024</date>
-  </programme>
-  <programme start="20240611013000 +0000" stop="20240611020000 +0000" channel="AzClic">
-    <title lang="en">Amor x México</title>
-    <date>2024</date>
   </programme>
   <programme start="20240611020000 +0000" stop="20240611023000 +0000" channel="AzClic">
     <title lang="en">Mostro garage</title>
@@ -25852,17 +24778,6 @@
     <title lang="en">Mostro garage</title>
     <date>2024</date>
   </programme>
-  <programme start="20240611000000 +0000" stop="20240611010000 +0000" channel="Concert Channel">
-    <title lang="en">Spice Girls: How Girl Power Changed the World</title>
-    <date>2024</date>
-  </programme>
-  <programme start="20240611010000 +0000" stop="20240611020000 +0000" channel="Concert Channel">
-    <title lang="en">Classic Albums</title>
-    <date>2023</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
   <programme start="20240611020000 +0000" stop="20240611030000 +0000" channel="Concert Channel">
     <title lang="en">Memory Lane</title>
     <date>2023</date>
@@ -26074,15 +24989,6 @@
   <programme start="20240612230000 +0000" stop="20240613000000 +0000" channel="Concert Channel">
     <title lang="en">Memory Lane</title>
     <date>2022</date>
-  </programme>
-  <programme start="20240611000000 +0000" stop="20240611010000 +0000" channel="Pasiones (LAT)">
-    <title lang="en">La gata</title>
-    <desc lang="en">Esmeralda, conocida como "la Gata" es una joven pobre que vive en un barrio deprimido. Doña Rita, quien le da vivienda a Esmeralda, la explotará para poder conseguir dinero a partir de las limosnas. A pesar de todo, la dulzura y la bondad siempre está en el carácter de "la Gata".(n)</desc>
-    <date>2019</date>
-  </programme>
-  <programme start="20240611010000 +0000" stop="20240611020000 +0000" channel="Pasiones (LAT)">
-    <title lang="en">No Sueltes Mi Mano (Elimi Bırakma)</title>
-    <desc lang="en">Una joven pierde a su amado su padre y debe sacar adelante a su pequeño hermano.(n)</desc>
   </programme>
   <programme start="20240611020000 +0000" stop="20240611030000 +0000" channel="Pasiones (LAT)">
     <title lang="en">Orgullo y Pasión</title>
@@ -26327,10 +25233,6 @@
     <desc lang="en">Elif es separada de su madre y enviada a vivir con una amiga de ella que es ama de llaves de la magnifica mansión en la que vive su padre y la familia de este, sin que su progenitor sepa de la relación de parentesco que les une.(n)</desc>
     <date>2014</date>
   </programme>
-  <programme start="20240611000000 +0000" stop="20240611010000 +0000" channel="Canal RCN">
-    <title lang="en">Noticias RCN - La hora de todos</title>
-    <date>2023</date>
-  </programme>
   <programme start="20240611010000 +0000" stop="20240611033000 +0000" channel="Canal RCN">
     <title lang="en">La casa de los famosos</title>
     <desc lang="en">Un grupo selecto de celebridades colombianas será encerrado en una residencia.(n)</desc>
@@ -26500,11 +25402,6 @@
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
-  </programme>
-  <programme start="20240611000000 +0000" stop="20240611010000 +0000" channel="Canal Uno">
-    <title lang="en">Red + Noticias</title>
-    <desc lang="en">Actualidad, economía, deportes e internacionales en un solo lugar.(n)</desc>
-    <date>2013</date>
   </programme>
   <programme start="20240611010000 +0000" stop="20240611033000 +0000" channel="Canal Uno">
     <title lang="en">Mary Shelley</title>
@@ -26787,11 +25684,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20240611000000 +0000" stop="20240611013000 +0000" channel="Caracol Televisión">
-    <title lang="en">Noticias 19:00 Caracol</title>
-    <desc lang="en">Servicio informativo con los acontecimientos más relevantes de Colombia y el mundo.(n)</desc>
-    <date>2009</date>
-  </programme>
   <programme start="20240611013000 +0000" stop="20240611023000 +0000" channel="Caracol Televisión">
     <title lang="en">El Rastro</title>
     <desc lang="en">Le permitirá a la audiencia el acceso a historias que son tan reales que parecen mentira.(n)</desc>
@@ -26947,24 +25839,6 @@
   <programme start="20240612231500 +0000" stop="20240613000000 +0000" channel="Caracol Televisión">
     <title lang="en">Sureyya</title>
     <desc lang="en">Una hermosa e inocente joven lucha por conseguir una oportunidad en el mundo de la música.(n)</desc>
-  </programme>
-  <programme start="20240611000000 +0000" stop="20240611010000 +0000" channel="Bally Sports Great Lakes">
-    <title lang="en">The Bobby Carpenter Show</title>
-    <desc lang="en">Former Ohio State football star Bobby Carpenter welcomes guests and looks at top stories in college football, highlighting top players and title contenders. (New).(n)</desc>
-    <category lang="en">Sports</category>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20240611010000 +0000" stop="20240611013000 +0000" channel="Bally Sports Great Lakes">
-    <title lang="en">18 Holes With Jimmy Hanlin</title>
-    <sub-title lang="en">Cabot Citrus Farms</sub-title>
-    <desc lang="en">(Repeat).(n)</desc>
-    <previously-shown />
-  </programme>
-  <programme start="20240611013000 +0000" stop="20240611020000 +0000" channel="Bally Sports Great Lakes">
-    <title lang="en">18 Holes With Jimmy Hanlin</title>
-    <sub-title lang="en">Streamsong Golf Resort</sub-title>
-    <desc lang="en">(Repeat).(n)</desc>
-    <previously-shown />
   </programme>
   <programme start="20240611020000 +0000" stop="20240611030000 +0000" channel="Bally Sports Great Lakes">
     <title lang="en">The Bobby Carpenter Show</title>
@@ -27368,11 +26242,6 @@
     <category lang="en">Pro Sports</category>
     <premiere lang="en" />
   </programme>
-  <programme start="20240611002500 +0000" stop="20240611022000 +0000" channel="Latina TV">
-    <title lang="en">El Gran Chef - Famosos</title>
-    <desc lang="en">El reality de competencia culinaria promete mostrar a un grupo de 12 famosos que no tienen experiencia alguna en la cocina, entre los cuales estarán conocidos cantantes, actores, conductores de TV, influencers y deportistas.(n)</desc>
-    <date>2023</date>
-  </programme>
   <programme start="20240611022000 +0000" stop="20240611032000 +0000" channel="Latina TV">
     <title lang="en">Pituca sin Lucas</title>
     <desc lang="en">Tichi es una mujer rica casada con José Antonio Risopatrón, con quien tiene tres hijas: María Jesús, María Belén, y la niña María Piedad. El conflicto surgirá cuando su marido tenga problemas económicos y abandone el país, dejándola en la más...(n)</desc>
@@ -27527,46 +26396,6 @@
   <programme start="20240612234500 +0000" stop="20240613004500 +0000" channel="Latina TV">
     <title lang="en">Todo por mi familia</title>
     <desc lang="en">La producción narra una inspiradora historia de superación protagonizada por Kadir, Omer,.(n)</desc>
-  </programme>
-  <programme start="20240611000000 +0000" stop="20240611003000 +0000" channel="MTV Live (USA)">
-    <title lang="en">Push Showcase: Jessie Murph</title>
-    <category lang="en">Music</category>
-    <category lang="en">Special</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p26591285_b_v9_aa.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20240611003000 +0000" stop="20240611010000 +0000" channel="MTV Live (USA)">
-    <title lang="en">Push Showcase: Victoria Monét</title>
-    <category lang="en">Music</category>
-    <category lang="en">Special</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p26591295_b_v9_aa.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20240611010000 +0000" stop="20240611013000 +0000" channel="MTV Live (USA)">
-    <title lang="en">Push Showcase: Coco Jones</title>
-    <category lang="en">Music</category>
-    <category lang="en">Special</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p26591301_b_v9_ab.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20240611013000 +0000" stop="20240611020000 +0000" channel="MTV Live (USA)">
-    <title lang="en">Push Showcase: Benson Boone</title>
-    <category lang="en">Music</category>
-    <category lang="en">Special</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p26591229_b_v9_aa.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
   </programme>
   <programme start="20240611020000 +0000" stop="20240611023000 +0000" channel="MTV Live (USA)">
     <title lang="en">Push Showcase: GloRilla</title>
@@ -28385,12 +27214,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20240611000000 +0000" stop="20240611013000 +0000" channel="ESPN (ARG)">
-    <title lang="en">Equipo F</title>
-    <desc lang="en">El debate de cada fecha llega a la pantalla, ¡no te pierdas EQUIPO F! (Live).(n)</desc>
-    <date>2021</date>
-    <premiere lang="en" />
-  </programme>
   <programme start="20240611013000 +0000" stop="20240611030000 +0000" channel="ESPN (ARG)">
     <title lang="en">ESPN F Show</title>
     <desc lang="en">El fútbol nacional e internacional es el actor principal de Fútbol Show. (Live).(n)</desc>
@@ -28530,14 +27353,6 @@
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
-  </programme>
-  <programme start="20240611010000 +0000" stop="20240611013000 +0000" channel="ESPN 2 (ARG)">
-    <title lang="en">La última experiencia</title>
-    <date>2019</date>
-  </programme>
-  <programme start="20240611013000 +0000" stop="20240611020000 +0000" channel="ESPN 2 (ARG)">
-    <title lang="en">UEFA Champions League Weekly</title>
-    <desc lang="en">Lo más destacado de la Liga de Campeones de la UEFA.(n)</desc>
   </programme>
   <programme start="20240611020000 +0000" stop="20240611030000 +0000" channel="ESPN 2 (ARG)">
     <title lang="en">Equipo F</title>
@@ -28707,14 +27522,6 @@
     <title lang="en">SportsCenter</title>
     <desc lang="en">Noticiero de índole deportivo compuesto por un espacio de 360°. Programa interactivo con información actualizada, análisis con profundidad y comentarios sobre los sucesos deportivos internacionales del momento en tiempo real, dirigido por los especialistas en la materia. (Live).(n)</desc>
     <premiere lang="en" />
-  </programme>
-  <programme start="20240611000000 +0000" stop="20240611010000 +0000" channel="Claro Sports">
-    <title lang="en">Claro Sports en w radio</title>
-    <desc lang="en">Espacio de periodismo deportivo en el que actualizamos todo lo que ocurre en este ámbito.(n)</desc>
-  </programme>
-  <programme start="20240611010000 +0000" stop="20240611020000 +0000" channel="Claro Sports">
-    <title lang="en">PGA Tour Internacional - The Memorial Tournament</title>
-    <desc lang="en">Las emociones del circuito de golf más prestigioso del planeta.(n)</desc>
   </programme>
   <programme start="20240611020000 +0000" stop="20240611023000 +0000" channel="Claro Sports">
     <title lang="en">Informe Leo</title>
@@ -29351,16 +28158,6 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20240611000000 +0000" stop="20240611010000 +0000" channel="Canal 6">
-    <title lang="en">C4 en alerta</title>
-    <desc lang="en">Información exclusiva, las imágenes y los rostros de los protagonistas de la noticia.(n)</desc>
-    <credits>
-      <presenter>Carlos Jiménez</presenter>
-    </credits>
-    <category lang="en">News</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p21010458_b_v9_aa.jpg" />
-    <previously-shown />
-  </programme>
   <programme start="20240611010000 +0000" stop="20240611030000 +0000" channel="Canal 6">
     <title lang="en">Telediario nocturno Monterrey</title>
     <desc lang="en">Las últimas novedades y la información más destacada del día en Monterrey.(n)</desc>
@@ -29732,19 +28529,6 @@
     <category lang="en">News</category>
     <icon src="https://zap2it.tmsimg.com/assets/p21769473_b_v9_aa.jpg" />
     <previously-shown />
-  </programme>
-  <programme start="20240611010000 +0000" stop="20240611011500 +0000" channel="San Diego Padres">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.(n)</desc>
-    <category lang="en">Special</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p480440_b_v13_bw.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20240611011500 +0000" stop="20240611013000 +0000" channel="San Diego Padres">
-    <title lang="en">Live: Padres Pre-Game</title>
-    <category lang="en">Baseball</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p24429411_st_v9_aa.jpg" />
-    <premiere lang="en" />
   </programme>
   <programme start="20240611013000 +0000" stop="20240611043000 +0000" channel="San Diego Padres">
     <title lang="en">Live: MLB Baseball</title>
@@ -30131,6 +28915,495 @@
     <desc lang="en">Sign off.(n)</desc>
     <category lang="en">Special</category>
     <icon src="https://zap2it.tmsimg.com/assets/p480440_b_v13_bw.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240611014500 +0000" stop="20240611034500 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Women's College Basketball</title>
+    <sub-title lang="en">Long Beach State at Hawaii</sub-title>
+    <desc lang="en">From Stan Sheriff Center in Honolulu.(n)</desc>
+    <category lang="en">Basketball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p25677114_tb2_v13_ab.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240611034500 +0000" stop="20240611053000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Men's College Volleyball</title>
+    <sub-title lang="en">Tusculum at Hawaii</sub-title>
+    <desc lang="en">Action from men's college volleyball matches.(n)</desc>
+    <category lang="en">Volleyball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p26553208_tb2_v13_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240611053000 +0000" stop="20240611073000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">College Baseball</title>
+    <sub-title lang="en">Chaminade at Hawaii</sub-title>
+    <desc lang="en">From Les Murakami Stadium in Honolulu.(n)</desc>
+    <category lang="en">Baseball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p191259_b_v13_ag.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240611073000 +0000" stop="20240611103000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">College Baseball</title>
+    <sub-title lang="en">UC Riverside at Hawaii</sub-title>
+    <desc lang="en">From Les Murakami Stadium in Honolulu.(n)</desc>
+    <category lang="en">Baseball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p27228156_tb2_v13_ab.jpg" />
+    <premiere lang="en" />
+  </programme>
+  <programme start="20240611103000 +0000" stop="20240611110000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <category lang="en">Consumer</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Variety</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240611110000 +0000" stop="20240611113000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <category lang="en">Consumer</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Variety</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240611113000 +0000" stop="20240611120000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240611120000 +0000" stop="20240611123000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240611123000 +0000" stop="20240611130000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240611130000 +0000" stop="20240611133000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240611133000 +0000" stop="20240611140000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240611140000 +0000" stop="20240611143000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240611143000 +0000" stop="20240611150000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240611150000 +0000" stop="20240611153000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240611153000 +0000" stop="20240611160000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240611160000 +0000" stop="20240611191500 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">College Baseball</title>
+    <sub-title lang="en">Cal State Northridge at Hawaii</sub-title>
+    <desc lang="en">From Les Murakami Stadium in Honolulu.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p27179904_tb2_v13_aa.jpg" />
+    <premiere lang="en" />
+  </programme>
+  <programme start="20240611191500 +0000" stop="20240611211500 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">College Basketball</title>
+    <sub-title lang="en">Northern Arizona at Hawaii</sub-title>
+    <desc lang="en">From Stan Sheriff Center in Honolulu.(n)</desc>
+    <category lang="en">Basketball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p25663380_tb2_v13_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240611211500 +0000" stop="20240611230000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">College Basketball</title>
+    <sub-title lang="en">Hawaii at Cal State Bakersfield</sub-title>
+    <desc lang="en">From the Icardo Center in Bakersfield, Calif.(n)</desc>
+    <category lang="en">Basketball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p25676071_tb2_v13_ab.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240611230000 +0000" stop="20240612023000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">College Baseball</title>
+    <sub-title lang="en">Holy Cross at Hawaii</sub-title>
+    <desc lang="en">From Les Murakami Stadium in Honolulu.(n)</desc>
+    <category lang="en">Baseball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p26771938_tb2_v13_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240612023000 +0000" stop="20240612041500 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Men's College Volleyball</title>
+    <sub-title lang="en">Emmanuel at Hawaii</sub-title>
+    <desc lang="en">From Stan Sheriff Center in Honolulu.(n)</desc>
+    <category lang="en">Volleyball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p26426584_tb2_v13_ab.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240612041500 +0000" stop="20240612061500 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">College Basketball</title>
+    <sub-title lang="en">Niagara at Hawaii</sub-title>
+    <desc lang="en">From Stan Sheriff Center in Honolulu.(n)</desc>
+    <category lang="en">Basketball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p26083486_tb2_v13_ad.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240612061500 +0000" stop="20240612081500 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Women's College Basketball</title>
+    <sub-title lang="en">San Jose State at Hawaii</sub-title>
+    <desc lang="en">From Stan Sheriff Center in Honolulu.(n)</desc>
+    <category lang="en">Basketball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p25775897_tb2_v13_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240612081500 +0000" stop="20240612100000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Men's College Volleyball</title>
+    <sub-title lang="en">Emmanuel at Hawaii</sub-title>
+    <desc lang="en">From Stan Sheriff Center in Honolulu.(n)</desc>
+    <category lang="en">Volleyball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p26426588_tb2_v13_ab.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240612100000 +0000" stop="20240612103000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240612103000 +0000" stop="20240612110000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240612110000 +0000" stop="20240612113000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240612113000 +0000" stop="20240612120000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240612120000 +0000" stop="20240612123000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240612123000 +0000" stop="20240612130000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240612130000 +0000" stop="20240612133000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240612133000 +0000" stop="20240612140000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240612140000 +0000" stop="20240612143000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240612143000 +0000" stop="20240612150000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240612150000 +0000" stop="20240612153000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240612153000 +0000" stop="20240612160000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240612160000 +0000" stop="20240612181500 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">College Basketball</title>
+    <sub-title lang="en">Hawaii-Hilo at Hawaii</sub-title>
+    <desc lang="en">From Stan Sheriff Center in Honolulu.(n)</desc>
+    <category lang="en">Basketball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p26021285_tb2_v13_al.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240612181500 +0000" stop="20240612193000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Women's College Water Polo</title>
+    <sub-title lang="en">USC at Hawaii</sub-title>
+    <desc lang="en">From Duke Kahanamoku Aquatic Complex in Honolulu.(n)</desc>
+    <category lang="en">Water polo</category>
+    <category lang="en">Watersports</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p26771887_tb2_v13_ag.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240612193000 +0000" stop="20240612213000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">College Softball</title>
+    <sub-title lang="en">Cal Poly-San Luis Obispo at Hawaii</sub-title>
+    <desc lang="en">From Rainbow Wahine Softball Stadium in Honolulu.(n)</desc>
+    <category lang="en">Softball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p27035867_tb2_v13_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240612213000 +0000" stop="20240613010000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">College Baseball</title>
+    <sub-title lang="en">UC Riverside at Hawaii</sub-title>
+    <desc lang="en">From Les Murakami Stadium in Honolulu.(n)</desc>
+    <category lang="en">Baseball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p27228150_tb2_v13_ab.jpg" />
+    <premiere lang="en" />
+  </programme>
+  <programme start="20240613010000 +0000" stop="20240613041500 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">College Baseball</title>
+    <sub-title lang="en">Hawaii-Hilo at Hawaii</sub-title>
+    <desc lang="en">From Les Murakami Stadium in Honolulu.(n)</desc>
+    <category lang="en">Baseball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p27114911_tb2_v13_ab.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240613041500 +0000" stop="20240613063000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">College Basketball</title>
+    <sub-title lang="en">Long Beach State at Hawaii</sub-title>
+    <desc lang="en">From Stan Sheriff Center in Honolulu.(n)</desc>
+    <category lang="en">Basketball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p25810513_tb2_v13_ab.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240613063000 +0000" stop="20240613083000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Women's College Basketball</title>
+    <sub-title lang="en">UC Santa Barbara at Hawaii</sub-title>
+    <desc lang="en">From Stan Sheriff Center in Honolulu.(n)</desc>
+    <category lang="en">Basketball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p25756114_tb2_v13_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240613083000 +0000" stop="20240613110000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Men's College Volleyball</title>
+    <sub-title lang="en">Cal State Northridge at Hawaii</sub-title>
+    <desc lang="en">From Stan Sheriff Center in Honolulu.(n)</desc>
+    <category lang="en">Volleyball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p26772005_tb2_v13_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240613110000 +0000" stop="20240613113000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240613113000 +0000" stop="20240613120000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240613120000 +0000" stop="20240613123000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240613123000 +0000" stop="20240613130000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240613130000 +0000" stop="20240613133000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240613133000 +0000" stop="20240613140000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240613140000 +0000" stop="20240613143000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240613143000 +0000" stop="20240613150000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240613150000 +0000" stop="20240613153000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240613153000 +0000" stop="20240613160000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <category lang="en">Consumer</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Variety</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240613160000 +0000" stop="20240613184500 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Men's College Volleyball</title>
+    <sub-title lang="en">Big West Tournament: UC Santa Barbara vs. Hawaii</sub-title>
+    <desc lang="en">First Round.(n)</desc>
+    <category lang="en">Volleyball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p27046131_tb2_v13_ab.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240613184500 +0000" stop="20240613204500 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Women's College Basketball</title>
+    <sub-title lang="en">UC Riverside at Hawaii</sub-title>
+    <desc lang="en">From Stan Sheriff Center in Honolulu.(n)</desc>
+    <category lang="en">Basketball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p25856400_tb2_v13_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240613204500 +0000" stop="20240613230000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">College Basketball</title>
+    <sub-title lang="en">Cal State Bakersfield at Hawaii</sub-title>
+    <desc lang="en">From Stan Sheriff Center in Honolulu.(n)</desc>
+    <category lang="en">Basketball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p25678491_tb2_v13_ab.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240613230000 +0000" stop="20240614004500 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Men's College Volleyball</title>
+    <sub-title lang="en">Tusculum at Hawaii</sub-title>
+    <desc lang="en">Action from men's college volleyball matches.(n)</desc>
+    <category lang="en">Volleyball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p26553208_tb2_v13_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240611053000 +0000" stop="20240611063000 +0000" channel="Spectrum Surf Channel">
+    <title lang="en">World Surf League</title>
+    <category lang="en">Surfing</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p17174694_st_v9_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240611063000 +0000" stop="20240611143000 +0000" channel="Spectrum Surf Channel">
+    <title lang="en">World Surf League</title>
+    <category lang="en">Surfing</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p17174694_st_v9_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240611143000 +0000" stop="20240611160000 +0000" channel="Spectrum Surf Channel">
+    <title lang="en">World Surf League</title>
+    <category lang="en">Surfing</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p17174694_st_v9_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240611160000 +0000" stop="20240611213000 +0000" channel="Spectrum Surf Channel">
+    <title lang="en">World Surf League</title>
+    <category lang="en">Surfing</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p17174694_st_v9_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240611213000 +0000" stop="20240612053000 +0000" channel="Spectrum Surf Channel">
+    <title lang="en">World Surf League</title>
+    <category lang="en">Surfing</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p17174694_st_v9_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240612053000 +0000" stop="20240612063000 +0000" channel="Spectrum Surf Channel">
+    <title lang="en">World Surf League</title>
+    <category lang="en">Surfing</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p17174694_st_v9_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240612063000 +0000" stop="20240612143000 +0000" channel="Spectrum Surf Channel">
+    <title lang="en">World Surf League</title>
+    <category lang="en">Surfing</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p17174694_st_v9_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240612143000 +0000" stop="20240612160000 +0000" channel="Spectrum Surf Channel">
+    <title lang="en">World Surf League</title>
+    <category lang="en">Surfing</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p17174694_st_v9_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240612160000 +0000" stop="20240612213000 +0000" channel="Spectrum Surf Channel">
+    <title lang="en">World Surf League</title>
+    <category lang="en">Surfing</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p17174694_st_v9_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240612213000 +0000" stop="20240613053000 +0000" channel="Spectrum Surf Channel">
+    <title lang="en">World Surf League</title>
+    <category lang="en">Surfing</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p17174694_st_v9_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240613053000 +0000" stop="20240613063000 +0000" channel="Spectrum Surf Channel">
+    <title lang="en">World Surf League</title>
+    <category lang="en">Surfing</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p17174694_st_v9_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240613063000 +0000" stop="20240613143000 +0000" channel="Spectrum Surf Channel">
+    <title lang="en">World Surf League</title>
+    <category lang="en">Surfing</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p17174694_st_v9_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240613143000 +0000" stop="20240613160000 +0000" channel="Spectrum Surf Channel">
+    <title lang="en">World Surf League</title>
+    <category lang="en">Surfing</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p17174694_st_v9_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240613160000 +0000" stop="20240613213000 +0000" channel="Spectrum Surf Channel">
+    <title lang="en">World Surf League</title>
+    <category lang="en">Surfing</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p17174694_st_v9_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240613213000 +0000" stop="20240614053000 +0000" channel="Spectrum Surf Channel">
+    <title lang="en">World Surf League</title>
+    <category lang="en">Surfing</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p17174694_st_v9_aa.jpg" />
     <previously-shown />
   </programme>
 </tv>
