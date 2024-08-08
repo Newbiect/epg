@@ -49,47 +49,47 @@
     <url>http://www.tvguide.com</url>
   </channel>
   <channel id="Telesistema">
-    <display-name lang="en">Telesistema</display-name>
+    <display-name lang="en">Telesistema 🇩🇴</display-name>
     <url>http://www.tvguide.com</url>
   </channel>
   <channel id="Su Mundo TV">
-    <display-name lang="en">Su Mundo TV</display-name>
+    <display-name lang="en">Su Mundo TV 🇩🇴</display-name>
     <url>http://www.tvguide.com</url>
   </channel>
   <channel id="NEXXO TV">
-    <display-name lang="en">NEXXO TV</display-name>
+    <display-name lang="en">NEXXO TV 🇩🇴</display-name>
     <url>http://www.tvguide.com</url>
   </channel>
   <channel id="Antena 21">
-    <display-name lang="en">Antena 21</display-name>
+    <display-name lang="en">Antena 21 🇩🇴</display-name>
     <url>http://www.tvguide.com</url>
   </channel>
   <channel id="Catorce TV">
-    <display-name lang="en">Catorce TV</display-name>
+    <display-name lang="en">Catorce TV 🇩🇴</display-name>
     <url>http://www.tvguide.com</url>
   </channel>
   <channel id="Digital 15">
-    <display-name lang="en">Digital 15</display-name>
+    <display-name lang="en">Digital 15 🇩🇴</display-name>
     <url>http://www.tvguide.com</url>
   </channel>
   <channel id="Teleunión">
-    <display-name lang="en">Teleunión</display-name>
+    <display-name lang="en">Teleunión 🇩🇴</display-name>
     <url>http://www.tvguide.com</url>
   </channel>
   <channel id="Teleradio América">
-    <display-name lang="en">Teleradio América</display-name>
+    <display-name lang="en">Teleradio América 🇩🇴</display-name>
     <url>http://www.tvguide.com</url>
   </channel>
   <channel id="Telecentro">
-    <display-name lang="en">Telecentro</display-name>
+    <display-name lang="en">Telecentro 🇩🇴</display-name>
     <url>http://www.tvguide.com</url>
   </channel>
   <channel id="CDN Deportes">
-    <display-name lang="en">CDN Deportes</display-name>
+    <display-name lang="en">CDN Deportes 🇩🇴</display-name>
     <url>http://www.tvguide.com</url>
   </channel>
   <channel id="Tele Antillas">
-    <display-name lang="en">Tele Antillas</display-name>
+    <display-name lang="en">Tele Antillas 🇩🇴</display-name>
     <url>http://www.tvguide.com</url>
   </channel>
   <channel id="Ultra Fiesta">
@@ -140,11 +140,11 @@
     <url>http://www.tvguide.com</url>
   </channel>
   <channel id="Telemicro">
-    <display-name lang="en">Telemicro</display-name>
+    <display-name lang="en">Telemicro 🇩🇴</display-name>
     <url>http://www.tvguide.com</url>
   </channel>
   <channel id="Megavisión">
-    <display-name lang="en">Megavisión</display-name>
+    <display-name lang="en">Megavisión 🇩🇴</display-name>
     <url>http://www.tvguide.com</url>
   </channel>
   <channel id="Xite 00s Heroes">
@@ -395,20 +395,14 @@
   </channel>
   <channel id="Spectrum Sports Encore">
     <display-name lang="en">Spectrum Sports Encore</display-name>
+    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/73051/s73051_h3_aa.png" />
     <url>http://www.zap2it.com</url>
   </channel>
   <channel id="Spectrum Surf Channel">
     <display-name lang="en">Spectrum Surf Channel</display-name>
+    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/65720/s65720_h3_aa.png" />
     <url>http://www.zap2it.com</url>
   </channel>
-  <programme start="20240808013000 +0000" stop="20240808023000 +0000" channel="IVC Networks">
-    <title lang="en">Survivor One World</title>
-    <desc lang="en">Un náufrago traiciona una alianza. Un miembro de una tribu inventa una historia por una ventaja.(n)</desc>
-    <date>2024</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
   <programme start="20240808023000 +0000" stop="20240808033000 +0000" channel="IVC Networks">
     <title lang="en">Shark tank</title>
     <date>2015</date>
@@ -790,12 +784,6 @@
     <date>2024</date>
     <premiere lang="en" />
   </programme>
-  <programme start="20240808000000 +0000" stop="20240808020000 +0000" channel="ESPN 2 (VE)">
-    <title lang="en">SportsCenter</title>
-    <desc lang="en">Podrás ver un resumen informativo del acontecer deportivo en el mundo, con las mejores jugadas y resultados de los partidos. Además, presenta análisis y comentarios de las noticias más relevantes de las diferentes disciplinas competitivas. (Live).(n)</desc>
-    <date>2021</date>
-    <premiere lang="en" />
-  </programme>
   <programme start="20240808020000 +0000" stop="20240808040000 +0000" channel="ESPN 2 (VE)">
     <title lang="en">ESPN F90</title>
     <desc lang="en">Un espacio que cuenta con toda la información y destacados sobre el fútbol argentino e internacional. (Live).(n)</desc>
@@ -945,10 +933,6 @@
     <desc lang="en">Un espacio con lo mejor de la actualidad del fútbol argentino y del exterior. (Live).(n)</desc>
     <date>2020</date>
     <premiere lang="en" />
-  </programme>
-  <programme start="20240808000000 +0000" stop="20240808020000 +0000" channel="ESPN 3 (VE)">
-    <title lang="en">A1 Padel: La Rioja</title>
-    <date>2024</date>
   </programme>
   <programme start="20240808020000 +0000" stop="20240808040000 +0000" channel="ESPN 3 (VE)">
     <title lang="en">A1 Padel: La Rioja</title>
@@ -1117,12 +1101,6 @@
   <programme start="20240809233000 +0000" stop="20240810000000 +0000" channel="ESPN 3 (VE)">
     <title lang="en">Aguas arriba</title>
     <desc lang="en">Programa centrado en la pesca con mosca.(n)</desc>
-  </programme>
-  <programme start="20240808000000 +0000" stop="20240808020000 +0000" channel="ESPN 4 (VE)">
-    <title lang="en">Boxeo</title>
-    <sub-title lang="en">Zak Chelli vs. Callum Simpson</sub-title>
-    <desc lang="en">Zak Chelli (15-2-1, 7 KOs) vs. Callum Simpson (14-0-0, 10 KOs) por los títulos British Boxing Board of Control del Consejo de Boxeo Británico y de la Commonwealth en una pelea de peso súper mediano de 12 asaltos desde Oakwell Football Ground en Barnsley, Reino Unido.(n)</desc>
-    <date>2024</date>
   </programme>
   <programme start="20240808020000 +0000" stop="20240808030000 +0000" channel="ESPN 4 (VE)">
     <title lang="en">Motociclismo</title>
@@ -1364,10 +1342,6 @@
     <desc lang="en">Lo mejor de la carrera de motos más importante aprobada por la Federación Internacional de Motociclismo que se divide las categorías: MotoGP, Moto2 y Moto3.(n)</desc>
     <date>2021</date>
   </programme>
-  <programme start="20240808000000 +0000" stop="20240808005500 +0000" channel="ESPN 5 (VE)">
-    <title lang="en">WWE NXT</title>
-    <desc lang="en">En este programa debutan nuevos talentos y se dan a conocer las nuevas estrellas de la WWE, provenientes de la Florida Championship Wrestling (FCW), llamados rookies o novatos, para debutar, un luchador profesional o Pro les ayuda a destacar en el difícil camino a la fama.(n)</desc>
-  </programme>
   <programme start="20240808005500 +0000" stop="20240808040000 +0000" channel="ESPN 5 (VE)">
     <title lang="en">Béisbol mexicano: LMB</title>
     <sub-title lang="en">Diablos Rojos del México vs. Pericos de Puebla</sub-title>
@@ -1509,13 +1483,6 @@
     <sub-title lang="en">Deportivo Riestra vs. Central Córdoba</sub-title>
     <desc lang="en">Deportivo Riestra vs. Central Córdoba desde Estadio Guillermo Laza.(n)</desc>
     <date>2024</date>
-  </programme>
-  <programme start="20240808000000 +0000" stop="20240808020000 +0000" channel="ESPN 6 (VE)">
-    <title lang="en">Fútbol: Copa Centroamericana CONCACAF</title>
-    <sub-title lang="en">Motagua vs. San Francisco</sub-title>
-    <desc lang="en">Jornada 2 de 5 Motagua vs. San Francisco. (Live).(n)</desc>
-    <date>2024</date>
-    <premiere lang="en" />
   </programme>
   <programme start="20240808020000 +0000" stop="20240808040000 +0000" channel="ESPN 6 (VE)">
     <title lang="en">Fútbol: Copa Centroamericana CONCACAF</title>
@@ -1779,12 +1746,6 @@
     <date>2021</date>
     <previously-shown />
   </programme>
-  <programme start="20240808000000 +0000" stop="20240808023000 +0000" channel="ESPN 7 (VE)">
-    <title lang="en">Fútbol: UEFA EURO 2024</title>
-    <sub-title lang="en">España vs. Inglaterra</sub-title>
-    <desc lang="en">España vs. Inglaterra en la Final. Desde el El Olympiastadion de Berlín, Alemania.(n)</desc>
-    <date>2024</date>
-  </programme>
   <programme start="20240808023000 +0000" stop="20240808030000 +0000" channel="ESPN 7 (VE)">
     <title lang="en">UEFA Champions League Weekly</title>
     <desc lang="en">Lo más destacado de la Liga de Campeones de la UEFA.(n)</desc>
@@ -1951,18 +1912,6 @@
   <programme start="20240809230000 +0000" stop="20240810000000 +0000" channel="ESPN 7 (VE)">
     <title lang="en">WWE Raw Highlights</title>
     <desc lang="en">Lo más destacado de el Monday Night Raw de la WWE. Este programa especializado te mantendrá informado sobre las más recientes luchas de la WWE, de la mano de un análisis detallado de los sucesos ocurridos en la arena de combate de la lucha libre profesional.(n)</desc>
-  </programme>
-  <programme start="20240808000000 +0000" stop="20240808010000 +0000" channel="Venevisión">
-    <title lang="en">¿Vieja Yo?</title>
-    <desc lang="en">Una señora mayor intenta cumplir todos sus sueños a pesar de su edad.(n)</desc>
-    <date>2008</date>
-  </programme>
-  <programme start="20240808010000 +0000" stop="20240808020000 +0000" channel="Venevisión">
-    <title lang="en">Amor prohibido</title>
-    <desc lang="en">Bihter Yöreoğlu es una joven hermosa que lleva una vida de lujos. Odia a su madre, la codiciosa Fatma Yöreoglu, por haberle causado la muerte a su querido padre. En sus visitas al cementerio, Bihter nota el interés del viudo millonario Adnan Ziyagil en ella. Fatma intentará conquistar a Adnan para su beneficio, pero Bihter no desea que su madre se salga con la suya, así que acepta la propuesta de matrimonio que le hizo Adnan y así poder arruinar los planes de su madre.(n)</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
   </programme>
   <programme start="20240808020000 +0000" stop="20240808030000 +0000" channel="Venevisión">
     <title lang="en">Moisés y los 10 mandamientos</title>
@@ -2245,13 +2194,6 @@
       <value>TVPG</value>
     </rating>
   </programme>
-  <programme start="20240808000000 +0000" stop="20240808003000 +0000" channel="En Televisión">
-    <title lang="en">Más que Noticias</title>
-    <desc lang="en">Noticias e informaciones de interés.(n)</desc>
-  </programme>
-  <programme start="20240808003000 +0000" stop="20240808020000 +0000" channel="En Televisión">
-    <title lang="en">Programación ENTV</title>
-  </programme>
   <programme start="20240808020000 +0000" stop="20240808030000 +0000" channel="En Televisión">
     <title lang="en">ACD media noticias</title>
     <desc lang="en">Manténgase informado sobre todo el acontecer loca el internacional. (Live).(n)</desc>
@@ -2406,19 +2348,6 @@
     <title lang="en">ACD media noticias</title>
     <desc lang="en">Manténgase informado sobre todo el acontecer loca el internacional. (Live).(n)</desc>
     <premiere lang="en" />
-  </programme>
-  <programme start="20240808000000 +0000" stop="20240808010000 +0000" channel="Ve Plus">
-    <title lang="en">¿Quién tiene la razón?</title>
-    <desc lang="en">Se escuchan los problemas de las partes en conflicto para decidir quién tiene la razón.(n)</desc>
-    <date>2013</date>
-  </programme>
-  <programme start="20240808010000 +0000" stop="20240808020000 +0000" channel="Ve Plus">
-    <title lang="en">Casos de familia</title>
-    <desc lang="en">Un foro para hablar de la familia.(n)</desc>
-    <date>2004</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
   </programme>
   <programme start="20240808020000 +0000" stop="20240808030000 +0000" channel="Ve Plus">
     <title lang="en">Necesito una amiga</title>
@@ -2683,15 +2612,6 @@
     <title lang="en">Aunque Mal Paguen</title>
     <desc lang="en">Las vidas entrelazadas de los habitantes del pueblo El Guayabo.(n)</desc>
     <date>2007</date>
-  </programme>
-  <programme start="20240808000000 +0000" stop="20240808010000 +0000" channel="Telesistema">
-    <title lang="en">Piezas rotas</title>
-    <desc lang="en">Programa de entretenimiento.(n)</desc>
-    <date>2018</date>
-  </programme>
-  <programme start="20240808010000 +0000" stop="20240808020000 +0000" channel="Telesistema">
-    <title lang="en">Corazones heridos</title>
-    <desc lang="en">Ferit Sancakzade es el preciado heredero de una de las familias bien establecidas de Antakya. Ayse,.(n)</desc>
   </programme>
   <programme start="20240808020000 +0000" stop="20240808030000 +0000" channel="Telesistema">
     <title lang="en">Telenoticias emisión estelar</title>
@@ -3076,16 +2996,6 @@
     <title lang="en">NEXXO TV</title>
     <date>2016</date>
   </programme>
-  <programme start="20240808000000 +0000" stop="20240808010000 +0000" channel="Antena 21">
-    <title lang="en">Bandolera</title>
-    <desc lang="en">Una estudiante se enamora de un teniente en Andalucía del siglo XIX.(n)</desc>
-    <date>2011</date>
-  </programme>
-  <programme start="20240808010000 +0000" stop="20240808020000 +0000" channel="Antena 21">
-    <title lang="en">Águila Roja</title>
-    <desc lang="en">Historia de época en la que un hombre lleva una doble vida en nombre de la justicia.(n)</desc>
-    <date>2009</date>
-  </programme>
   <programme start="20240808020000 +0000" stop="20240808040000 +0000" channel="Antena 21">
     <title lang="en">Cine nocturno</title>
     <desc lang="en">Emisión cinematográfica.(n)</desc>
@@ -3258,16 +3168,6 @@
     <title lang="en">Juegos Olímpicos París 2024</title>
     <desc lang="en">Cobertura de los Juegos Olímpicos París 2024, evento multideportivo internacional que se llevará a cabo entre el 26 de julio y el 11 de agosto de 2024 en la ciudad de París, Francia.(n)</desc>
   </programme>
-  <programme start="20240808000000 +0000" stop="20240808010000 +0000" channel="Catorce TV">
-    <title lang="en">Será anunciado</title>
-    <date>2018</date>
-  </programme>
-  <programme start="20240808010000 +0000" stop="20240808020000 +0000" channel="Catorce TV">
-    <title lang="en">14 deportes</title>
-    <desc lang="en">Un programa que aborda lo más destacado del mundo del deporte nacional e internacional. (Live).(n)</desc>
-    <date>2022</date>
-    <premiere lang="en" />
-  </programme>
   <programme start="20240808020000 +0000" stop="20240808030000 +0000" channel="Catorce TV">
     <title lang="en">ACD media noticias</title>
     <desc lang="en">Manténgase informado sobre todo el acontecer loca el internacional.(n)</desc>
@@ -3397,21 +3297,6 @@
   <programme start="20240809230000 +0000" stop="20240810000000 +0000" channel="Catorce TV">
     <title lang="en">Será anunciado</title>
     <date>2018</date>
-  </programme>
-  <programme start="20240808000000 +0000" stop="20240808010000 +0000" channel="Digital 15">
-    <title lang="en">Como dice el dicho</title>
-    <desc lang="en">Sergio Corona en compañía de Mario Bautista, Brisa Carrillo y Benny Emmanuel te traen historias llenas de emociones con las que te podrás identificar, ellos tienen un café, donde los clientes escriben en sus paredes los refranes que se acomodan a sus historias, las cuales luego son dramatizadas conmovedoramente.(n)</desc>
-    <date>2011</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20240808010000 +0000" stop="20240808020000 +0000" channel="Digital 15">
-    <title lang="en">Más Noche</title>
-    <desc lang="en">Para los desvelados, este programa nocturno de entretenimiento es la opción ideal. Se aborda diferentes temas de actualidad en cuanto a la música, el cine y la televisión, entre otros.(n)</desc>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
   </programme>
   <programme start="20240808020000 +0000" stop="20240808030000 +0000" channel="Digital 15">
     <title lang="en">Noticiero Digital 15</title>
@@ -3559,20 +3444,6 @@
     <title lang="en">Echando el pulso</title>
     <desc lang="en">Un programa de análisis y opinión que aborda los hechos más destacados de la agenda de noticias.(n)</desc>
     <date>2023</date>
-  </programme>
-  <programme start="20240808000000 +0000" stop="20240808003000 +0000" channel="Teleunión">
-    <title lang="en">Alejandro en coche</title>
-  </programme>
-  <programme start="20240808003000 +0000" stop="20240808010000 +0000" channel="Teleunión">
-    <title lang="en">Mundo Noticias</title>
-    <desc lang="en">Presenta todo el acontecer local de las comunas del gran Concepción y la Provincia de Arauco.(n)</desc>
-    <date>2015</date>
-  </programme>
-  <programme start="20240808010000 +0000" stop="20240808020000 +0000" channel="Teleunión">
-    <title lang="en">De ahora con José Cerda</title>
-  </programme>
-  <programme start="20240808020000 +0000" stop="20240808023000 +0000" channel="Teleunión">
-    <title lang="en">Noticias Teleunión</title>
   </programme>
   <programme start="20240808023000 +0000" stop="20240808040000 +0000" channel="Teleunión">
     <title lang="en">Detrás de la noticia</title>
@@ -3738,12 +3609,6 @@
     <desc lang="en">Un magazine de actualidad que repasa noticias de moda, deportes, estilo de vida y más.(n)</desc>
     <date>2023</date>
   </programme>
-  <programme start="20240808000000 +0000" stop="20240808005500 +0000" channel="Teleradio América">
-    <title lang="en">Nosotros A Las 8</title>
-  </programme>
-  <programme start="20240808010000 +0000" stop="20240808020000 +0000" channel="Teleradio América">
-    <title lang="en">En Las Noches Personalmente</title>
-  </programme>
   <programme start="20240808020000 +0000" stop="20240808030000 +0000" channel="Teleradio América">
     <title lang="en">La Hora 22</title>
   </programme>
@@ -3877,15 +3742,6 @@
   </programme>
   <programme start="20240809230000 +0000" stop="20240809235500 +0000" channel="Teleradio América">
     <title lang="en">Ideas Encontradas</title>
-  </programme>
-  <programme start="20240808000000 +0000" stop="20240808010000 +0000" channel="Telecentro">
-    <title lang="en">Novelas</title>
-    <desc lang="en">Un espacio que presenta diversas telenovelas para que el público disfrute en casa.(n)</desc>
-    <date>2015</date>
-  </programme>
-  <programme start="20240808010000 +0000" stop="20240808020000 +0000" channel="Telecentro">
-    <title lang="en">Noticentro - Emision estelar</title>
-    <date>2019</date>
   </programme>
   <programme start="20240808020000 +0000" stop="20240808030000 +0000" channel="Telecentro">
     <title lang="en">2 much x la noche!</title>
@@ -4043,15 +3899,6 @@
   <programme start="20240809230000 +0000" stop="20240810000000 +0000" channel="Telecentro">
     <title lang="en">¿Quién eres tú?</title>
     <desc lang="en">Las hermanas Natalia y Verónica juegan a hacerse pasar una por la otra, causando una cadena de situaciones y consecuencias de las que no podrán liberarse fácilmente. Basada en la telenovela "La Usurpadora".(n)</desc>
-  </programme>
-  <programme start="20240808000000 +0000" stop="20240808010000 +0000" channel="CDN Deportes">
-    <title lang="en">Bases Llenas</title>
-    <desc lang="en">La cobertura más completa de los juegos de Béisbol del certamen nacional. El resumen de los partidos, las jugadas más importantes, el repaso de los enfrentamientos, las entrevistas con los jugadores, los entrenadores y el público fanático. Además del análisis de nuestros periodistas.(n)</desc>
-  </programme>
-  <programme start="20240808010000 +0000" stop="20240808020000 +0000" channel="CDN Deportes">
-    <title lang="en">Protagonistas</title>
-    <desc lang="en">Entrevistas a personajes del fútbol nacional que profundizan en aspectos de sus vidas. (New).(n)</desc>
-    <premiere lang="en" />
   </programme>
   <programme start="20240808020000 +0000" stop="20240808030000 +0000" channel="CDN Deportes">
     <title lang="en">Donqueando</title>
@@ -4291,16 +4138,6 @@
     <desc lang="en">Tigres del Licey vs. Águilas Cibaeñas. (Live).(n)</desc>
     <date>2019</date>
     <premiere lang="en" />
-  </programme>
-  <programme start="20240808000000 +0000" stop="20240808010000 +0000" channel="Tele Antillas">
-    <title lang="en">Informativos Teleantillas - Estelar</title>
-    <desc lang="en">Las principales noticias de la jornada.(n)</desc>
-    <date>2023</date>
-  </programme>
-  <programme start="20240808010000 +0000" stop="20240808020000 +0000" channel="Tele Antillas">
-    <title lang="en">Pa' Quererte</title>
-    <desc lang="en">"Pa' quererte", es una producción fresca, emotiva y divertida sobre cuatro padres que tienen que enfrentar su paternidad y sufrir un cambio de rol en sus vidas, lo cual los llevará a descubrirse y así transformar su entorno.(n)</desc>
-    <date>2020</date>
   </programme>
   <programme start="20240808020000 +0000" stop="20240808030000 +0000" channel="Tele Antillas">
     <title lang="en">Pasión de Gavilanes</title>
@@ -4553,20 +4390,6 @@
     <title lang="en">Solo una madre</title>
     <desc lang="en">La historia de Lucero tomará un rumbo inesperado al dar a luz a su heredero. La humilde muchacha será expuesta a uno de los horrores más grandes cuando le arrebatan a su hijo y se lo cambiarán por otro bebé que se encuentra enfermo, para satisfacer los deseos de una madre adinerada y sin escrúpulos.(n)</desc>
     <date>2017</date>
-  </programme>
-  <programme start="20240808000000 +0000" stop="20240808010000 +0000" channel="Ultra Fiesta">
-    <title lang="en">Ultra fiesta hitz</title>
-    <desc lang="en">Programación de Ultra fiesta hitz.(n)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p9727231_st_v9_ab.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20240808010000 +0000" stop="20240808020000 +0000" channel="Ultra Fiesta">
-    <title lang="en">Ultra fiesta hitz</title>
-    <desc lang="en">Programación de Ultra fiesta hitz.(n)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p9727231_st_v9_ab.jpg" />
-    <previously-shown />
   </programme>
   <programme start="20240808020000 +0000" stop="20240808030000 +0000" channel="Ultra Fiesta">
     <title lang="en">Ultra fiesta hitz</title>
@@ -5057,28 +4880,6 @@
     <category lang="en">Music</category>
     <icon src="https://zap2it.tmsimg.com/assets/p9727231_st_v9_ab.jpg" />
     <previously-shown />
-  </programme>
-  <programme start="20240808010200 +0000" stop="20240808021800 +0000" channel="Ultra Docu">
-    <title lang="en">El caso, crónica de sucesos</title>
-    <desc lang="en">En el Madrid de los años sesenta, dos periodistas del diario 'El Caso', Jesús, un expolicía con un pasado turbio, y Clara López, especializada en prensa sensacionalista, están condenados a entenderse para investigar una serie de crímenes oscuros.(n)</desc>
-    <credits>
-      <director>Ignacio Mercero</director>
-      <actor role="Jesús Expósito">Fernando Guillén Cuervo</actor>
-      <actor role="Clara López">Verónica Sánchez</actor>
-      <actor role="Antonio Camacho">Antonio Garrido</actor>
-      <actor role="Miguel Montenegro">Francisco Ortiz</actor>
-      <actor role="Rodrigo Sánchez">Fernando Cayo</actor>
-      <actor role="Margarita Moyano">Blanca Apilánez</actor>
-      <actor role="Germán Castro">Gorka Lasaosa</actor>
-      <actor role="Aníbal de Vicente">Daniel Pérez Prada</actor>
-    </credits>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p12704408_b_v9_ad.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
   </programme>
   <programme start="20240808021800 +0000" stop="20240808030200 +0000" channel="Ultra Docu">
     <title lang="en">Armagedón</title>
@@ -6803,81 +6604,6 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20240808000100 +0000" stop="20240808005000 +0000" channel="Ultra Macho">
-    <title lang="en">Unidad de Investigación</title>
-    <sub-title lang="en">La búsqueda del tesoro</sub-title>
-    <desc lang="en">Durante una excursión para pescar, Bernier y Lucas descubren el cadáver de una buceadora, que ha sido asesinada, y el compañero de ésta, que buceaba con ella, ha desaparecido.(n)</desc>
-    <credits>
-      <director>Vincenzo Marano</director>
-      <director>Klaus Biedermann</director>
-      <actor role="Capitaine Martin Bernie">Xavier Deluc</actor>
-      <actor role="Chef d'escadron">Chrystelle Labaude</actor>
-      <actor role="Adjudant Sara Casanova">Manon Azem</actor>
-      <actor role="Lieutenant Roxane Janin">Julie Fournier</actor>
-      <actor role="Procureur Thierry Calvi">Christian Vadim</actor>
-      <actor role="Léon">Julien Courbey</actor>
-      <actor role="Capitaine">Kamel Belghazi</actor>
-      <writer>Cristina Arellano</writer>
-      <writer>Sylvie Coquart</writer>
-    </credits>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p11470387_e_v13_ab.jpg" />
-    <episode-num system="onscreen">S9 E7</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20240808005000 +0000" stop="20240808013900 +0000" channel="Ultra Macho">
-    <title lang="en">Unidad de Investigación</title>
-    <sub-title lang="en">Inocencia sacrificada</sub-title>
-    <desc lang="en">Una adolescente trata de raptar a una niña durante la celebración de un carnaval. Mientras está detenida, la joven asegura haber cometido un asesinato.(n)</desc>
-    <credits>
-      <director>Vincenzo Marano</director>
-      <director>Klaus Biedermann</director>
-      <actor role="Capitaine Martin Bernie">Xavier Deluc</actor>
-      <actor role="Chef d'escadron">Chrystelle Labaude</actor>
-      <actor role="Adjudant Sara Casanova">Manon Azem</actor>
-      <actor role="Lieutenant Roxane Janin">Julie Fournier</actor>
-      <actor role="Procureur Thierry Calvi">Christian Vadim</actor>
-      <actor role="Léon">Julien Courbey</actor>
-      <actor role="Capitaine">Kamel Belghazi</actor>
-      <writer>Cristina Arellano</writer>
-      <writer>Sylvie Coquart</writer>
-    </credits>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p11470400_e_v13_aa.jpg" />
-    <episode-num system="onscreen">S9 E8</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20240808013900 +0000" stop="20240808022100 +0000" channel="Ultra Macho">
-    <title lang="en">Avenue 14</title>
-    <sub-title lang="en">Twin Psychics</sub-title>
-    <desc lang="en">La aspirante a periodista Thursday Soh y el investigador especial Daniel Wu indagan una serie de sucesos sobrenaturales en Singapur. A medida que avanzan, Thursday descubre una intrincada red de secretos relacionada a la muerte de su madre.(n)</desc>
-    <credits>
-      <actor role="Thursday Soh">Marianne Tan</actor>
-      <actor role="Daniel Wu">Alan Wong</actor>
-      <actor role="Ting Ting">Michelle Saram</actor>
-      <actor role="Inspector Sathia">Mathi Alagan</actor>
-      <actor role="Auntie Lynn">Swee Lin Neo</actor>
-      <actor role="Avery Bodee">Bront Palarae</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p21639295_b_v9_aa.jpg" />
-    <episode-num system="onscreen">S1 E11</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20240808022100 +0000" stop="20240808030100 +0000" channel="Ultra Macho">
     <title lang="en">Avenue 14</title>
     <sub-title lang="en">Dr. F</sub-title>
@@ -8223,82 +7949,6 @@
     <previously-shown />
     <rating system="MPAA">
       <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20240808000400 +0000" stop="20240808002500 +0000" channel="Ultra Kidz">
-    <title lang="en">Unite-2-Blast</title>
-    <desc lang="en">Con la ayuda de sus compañeros mecánicos, Sea, Ducan, Thom y Kay protegen la ciudad de los ataques de las bestias mecánicas. Los héroes descubren que detrás de la agresión se oculta un peligro mayor del que suponían.(n)</desc>
-    <credits>
-      <director>Shen Chenqi</director>
-    </credits>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p20714879_i_v9_aa.jpg" />
-    <episode-num system="onscreen">S1 E34</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20240808002500 +0000" stop="20240808004800 +0000" channel="Ultra Kidz">
-    <title lang="en">Furia Spiner</title>
-    <desc lang="en">Uno de los deportes más populares del mundo, en donde varios participantes son invitados a la isla misteriosa junto a otros jugadores del mundo para una aventura de supervivencia.(n)</desc>
-    <category lang="en">Adventure</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p23360136_b_v9_aa.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20240808004800 +0000" stop="20240808010800 +0000" channel="Ultra Kidz">
-    <title lang="en">Slash://</title>
-    <desc lang="en">Las aventuras de Chen, Paula, Matilde, Tomoya e Isaia, cinco amigos de distintos lugares del mundo. Gracias a los poderes de una misteriosa piedra verde, los chicos emprenden un viaje por la web para derrotar al malvado Cobra.(n)</desc>
-    <credits>
-      <director>Sergio Manfio</director>
-      <writer>Sergio Manfio</writer>
-      <writer>Francesco Manfio</writer>
-    </credits>
-    <category lang="en">Adventure</category>
-    <category lang="en">Children</category>
-    <category lang="en">Fantasy</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p15261738_st_v9_aa.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20240808010800 +0000" stop="20240808013000 +0000" channel="Ultra Kidz">
-    <title lang="en">Inspector Chingum</title>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <category lang="en">Comedy</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p22860912_b_v13_aa.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20240808013000 +0000" stop="20240808015100 +0000" channel="Ultra Kidz">
-    <title lang="en">Inspector Chingum</title>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <category lang="en">Comedy</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p22860912_b_v13_aa.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20240808015100 +0000" stop="20240808021400 +0000" channel="Ultra Kidz">
-    <title lang="en">Smarty-Pants Eric</title>
-    <category lang="en">Comedy</category>
-    <category lang="en">Educational</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p21963544_st_v9_aa.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20240808021400 +0000" stop="20240808023600 +0000" channel="Ultra Kidz">
@@ -11039,66 +10689,6 @@
       <value>TV-G</value>
     </rating>
   </programme>
-  <programme start="20240808001500 +0000" stop="20240808005700 +0000" channel="Ultra Cine">
-    <title lang="en">UNO (Unidad Nacional Operativa)</title>
-    <desc lang="en">Investigadores arriesgan sus vidas para poner tras las rejas a los criminales más buscados.(n)</desc>
-    <category lang="en">Action</category>
-    <category lang="en">Drama</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p12233233_b_v9_aa.jpg" />
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20240808005700 +0000" stop="20240808014800 +0000" channel="Ultra Cine">
-    <title lang="en">Godunov</title>
-    <desc lang="en">La muerte misteriosa del heredero al trono de una antigua dinastía rusa provoca el ascenso al poder de Godunov y las conspiraciones.(n)</desc>
-    <credits>
-      <director>Aleksey Andrianov</director>
-      <director>Timur Alpatov</director>
-      <actor role="Boris Godunov">Sergey Bezrukov</actor>
-      <actor role="Ivan Groznyy">Sergey Makovetskiy</actor>
-      <actor role="Mariya Godunova">Svetlana Khodchenkova</actor>
-      <actor role="Irina Godunova">Anna Mikhalkova</actor>
-      <actor role="Vasiliy Shuyskiy">Andrey Merzlikin</actor>
-      <actor role="Mariya Nagaya">Irina Pegova</actor>
-      <actor role="Malyuta Skuratov">Viktor Sukhorukov</actor>
-      <writer>Ilya Tilkin</writer>
-    </credits>
-    <category lang="en">Historical drama</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p17329648_e_v9_aa.jpg" />
-    <episode-num system="onscreen">S2 E3</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20240808014800 +0000" stop="20240808023100 +0000" channel="Ultra Cine">
-    <title lang="en">The Truth Will Out</title>
-    <credits>
-      <director>Kjell-Åke Andersson</director>
-      <director>Lisa Farzaneh</director>
-      <actor role="Peter Wendel">Robert Gustafsson</actor>
-      <actor role="Björn Stenius">Johan Ulveson</actor>
-      <actor role="Caijsa Bergholm">Louise Peterhoff</actor>
-      <actor role="Marcus Johansson">Maria Langhammer</actor>
-      <actor role="Jorma Virttanen">Christopher Wagelin</actor>
-      <actor role="Marcus Johansson">Erik Johansson</actor>
-      <actor role="Ann-Marie Wendel">Maria Sundbom</actor>
-      <actor role="Freshteh Laurell">Ala Riani</actor>
-      <writer>Leif Persson</writer>
-      <writer>Aron Levander</writer>
-    </credits>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p15874248_e_v10_aa.jpg" />
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
   <programme start="20240808023100 +0000" stop="20240808031600 +0000" channel="Ultra Cine">
     <title lang="en">Class</title>
     <sub-title lang="en">Brave-ish Heart</sub-title>
@@ -13031,27 +12621,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20240808004200 +0000" stop="20240808022000 +0000" channel="Ultra Clásico">
-    <title lang="en">Qué bonito amor</title>
-    <desc lang="en">Una pareja va a casarse pero ella interrumpe la misa al escuchar decir al cura que el hombre será la cabeza de la mujer.(n)</desc>
-    <credits>
-      <director>Mauricio de la Serna</director>
-      <actor role="Antonio Gil Basurto">Antonio Aguilar</actor>
-      <actor>Lola Beltrán</actor>
-      <actor>Joaquín Cordero</actor>
-      <actor>Luz Aguilar</actor>
-      <actor>Arturo Soto Rangel</actor>
-      <actor>Graciela Lara</actor>
-    </credits>
-    <date>1960</date>
-    <category lang="en">Comedy drama</category>
-    <category lang="en">Romance</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p75591_p_v9_aa.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20240808022000 +0000" stop="20240808035900 +0000" channel="Ultra Clásico">
     <title lang="en">El sol sale para todos</title>
     <desc lang="en">Un novillero sufre un accidente durante una tarde de corrida en una plaza pueblerina, y su examante cuenta su historia.(n)</desc>
@@ -14011,23 +13580,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20240808010400 +0000" stop="20240808023000 +0000" channel="Ultra Mex">
-    <title lang="en">El nuevo narcotraficante</title>
-    <desc lang="en">La mala suerte y la pobreza de Octavio lo llevan al borde del abismo, del cual no habrá retorno una vez que se encuentre con el hombre más temido de todos.(n)</desc>
-    <credits>
-      <director>Omar Saldaña</director>
-      <actor>Omar Saldaña</actor>
-      <actor>Gabriel Aquiles</actor>
-      <actor>Araceli Zamora</actor>
-      <actor>Rubén Castillón</actor>
-    </credits>
-    <category lang="en">Crime drama</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p17471089_v_v10_aa.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20240808023000 +0000" stop="20240808034000 +0000" channel="Ultra Mex">
     <title lang="en">El mejor narco kilo por kilo II</title>
     <desc lang="en">Mike no sólo es reconocido por ser el mejor en el bajo mundo de las drogas, sino también por su anillo de seguridad, conformado por bellas y talentosas mujeres. Cometerá el error de enamorarse de una de ellas, complicando así su destino.(n)</desc>
@@ -14924,10 +14476,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20240808010000 +0000" stop="20240808023000 +0000" channel="TVN Chile">
-    <title lang="en">24 Horas Central</title>
-    <desc lang="en">Noticias globales y corresponsales. Perspectivas únicas, análisis diario.(n)</desc>
-  </programme>
   <programme start="20240808023500 +0000" stop="20240808034000 +0000" channel="TVN Chile">
     <title lang="en">Yo decido amar</title>
     <desc lang="en">Dos jóvenes de familias con costumbres muy distintas se casan en forma clandestina.(n)</desc>
@@ -15102,14 +14650,6 @@
   <programme start="20240809233000 +0000" stop="20240810010000 +0000" channel="TVN Chile">
     <title lang="en">Ahora caigo</title>
     <desc lang="en">¡Ahora caigo! es la adaptación española del exitoso concurso israelí Lauf Al Hamilion de Arutz 10, producido en España por Gestmusic. Es un programa de televisión emitido por Antena 3 y presentado por Arturo Valls, siendo Silvia Abril su sustituta en los meses de verano.(n)</desc>
-  </programme>
-  <programme start="20240808000000 +0000" stop="20240808010000 +0000" channel="Telemicro">
-    <title lang="en">El maleficio</title>
-    <desc lang="en">Viuda, Beatriz se encarga de sus hijos. Enrique lidia con Jorge y Raúl, huérfanos de madre.(n)</desc>
-  </programme>
-  <programme start="20240808010000 +0000" stop="20240808020000 +0000" channel="Telemicro">
-    <title lang="en">Reyes</title>
-    <desc lang="en">Basado en los libros bíblicos de Samuel, Reyes, Crónicas, Proverbios, Cantares.(n)</desc>
   </programme>
   <programme start="20240808020000 +0000" stop="20240808030000 +0000" channel="Telemicro">
     <title lang="en">Noticias Telemicro</title>
@@ -15298,19 +14838,6 @@
   <programme start="20240809230000 +0000" stop="20240810000000 +0000" channel="Telemicro">
     <title lang="en">Eres humano?</title>
     <desc lang="en">Después de un inesperado accidente, Nam Shin cae en coma. Por ello, su madre Oh Ro Ra,.(n)</desc>
-  </programme>
-  <programme start="20240808000000 +0000" stop="20240808003000 +0000" channel="Megavisión">
-    <title lang="en">Cibao news</title>
-  </programme>
-  <programme start="20240808003000 +0000" stop="20240808010000 +0000" channel="Megavisión">
-    <title lang="en">Mundo Noticias</title>
-    <desc lang="en">Presenta todo el acontecer local de las comunas del gran Concepción y la Provincia de Arauco.(n)</desc>
-    <date>2015</date>
-  </programme>
-  <programme start="20240808010000 +0000" stop="20240808020000 +0000" channel="Megavisión">
-    <title lang="en">De buenas a primeras</title>
-    <desc lang="en">Un programa informativo que aborda los hechos más destacados vinculados a la comunidad dominicana.(n)</desc>
-    <date>2009</date>
   </programme>
   <programme start="20240808020000 +0000" stop="20240808030000 +0000" channel="Megavisión">
     <title lang="en">Por el medio</title>
@@ -15510,38 +15037,6 @@
     <title lang="en">Circumax, Soltimex, Puricolon</title>
     <desc lang="en">Un espacio que presenta diversos productos y sus características para que el público los compre.(n)</desc>
     <date>2022</date>
-  </programme>
-  <programme start="20240808000000 +0000" stop="20240808003000 +0000" channel="DW Español">
-    <title lang="en">DW Noticias</title>
-    <desc lang="en">Información actual y noticias de relevancia diaria. (New).(n)</desc>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20240808003000 +0000" stop="20240808010000 +0000" channel="DW Español">
-    <title lang="en">Enfoque Europa</title>
-    <desc lang="en">Descubriendo qué mueve a los habitantes de Europa y los motiva política, social y culturalmente. A su vez, de presenta su estilo de vida, opiniones, esperanzas y miedos. En este programa se destacan todos estos aspectos que caracterizan a los habitantes del viejo continente. (New).(n)</desc>
-    <date>2015</date>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20240808010000 +0000" stop="20240808011500 +0000" channel="DW Español">
-    <title lang="en">DW Noticias</title>
-    <desc lang="en">Información actual y noticias de relevancia diaria. (New).(n)</desc>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20240808011500 +0000" stop="20240808013000 +0000" channel="DW Español">
-    <title lang="en">Economía</title>
-    <desc lang="en">Reportajes, noticias y análisis desde los centros financieros más importantes, los mercados más versátiles y los consorcios líderes en el mundo. (New).(n)</desc>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20240808013000 +0000" stop="20240808020000 +0000" channel="DW Español">
-    <title lang="en">Enlaces</title>
-    <desc lang="en">Temas relevantes del mundo digital con un profundo enfoque periodístico. (Repeat).(n)</desc>
-    <previously-shown />
-  </programme>
-  <programme start="20240808020000 +0000" stop="20240808021500 +0000" channel="DW Español">
-    <title lang="en">Todo Deporte</title>
-    <desc lang="en">Resumen deportivo. (Repeat).(n)</desc>
-    <date>2020</date>
-    <previously-shown />
   </programme>
   <programme start="20240808021500 +0000" stop="20240808030000 +0000" channel="DW Español">
     <title lang="en">El pueblo haida de Canadá</title>
@@ -16041,60 +15536,6 @@
     <title lang="en">Euromaxx</title>
     <desc lang="en">Un espacio que transmite la esencia de la vida cotidiana y de la cultura europea. Conoce a interesantes artistas, que se destacan en diferentes artes: pintura, escultura, fotografía, música y danza, entre otras. También se repasan los eventos y las galas más importantes que se realizan en los países del Viejo Continente. (New).(n)</desc>
     <premiere lang="en" />
-  </programme>
-  <programme start="20240808000000 +0000" stop="20240808003000 +0000" channel="24h">
-    <title lang="es">Telediario Internacional</title>
-    <desc lang="es">Un noticiario que prima la información de ámbito internacional y especialmente la que se produce o tiene relación con la América Iberoamericana. El espacio, eso sí, tampoco se olvida de la actualidad nacional española. Incluye previsión meteorológica de todo el planeta.(n)</desc>
-    <credits>
-      <presenter>Moisés Rodríguez</presenter>
-    </credits>
-    <date>2024</date>
-    <icon src="https://media.tvup.cloud/epg/prog_2506/bg_telediario_internacional_2024_moises_rodriguez_3.jpeg" />
-    <country lang="es">España</country>
-    <rating>
-      <value>SC</value>
-    </rating>
-  </programme>
-  <programme start="20240808003000 +0000" stop="20240808010000 +0000" channel="24h">
-    <title lang="es">Telediario Internacional</title>
-    <desc lang="es">Un noticiario que prima la información de ámbito internacional y especialmente la que se produce o tiene relación con la América Iberoamericana. El espacio, eso sí, tampoco se olvida de la actualidad nacional española. Incluye previsión meteorológica de todo el planeta.(n)</desc>
-    <credits>
-      <presenter>Moisés Rodríguez</presenter>
-    </credits>
-    <date>2024</date>
-    <icon src="https://media.tvup.cloud/epg/prog_2506/bg_telediario_internacional_2024_moises_rodriguez_3.jpeg" />
-    <country lang="es">España</country>
-    <rating>
-      <value>SC</value>
-    </rating>
-  </programme>
-  <programme start="20240808010000 +0000" stop="20240808013000 +0000" channel="24h">
-    <title lang="es">Telediario Internacional</title>
-    <desc lang="es">Un noticiario que prima la información de ámbito internacional y especialmente la que se produce o tiene relación con la América Iberoamericana. El espacio, eso sí, tampoco se olvida de la actualidad nacional española. Incluye previsión meteorológica de todo el planeta.(n)</desc>
-    <credits>
-      <presenter>Moisés Rodríguez</presenter>
-    </credits>
-    <date>2024</date>
-    <icon src="https://media.tvup.cloud/epg/prog_2506/bg_telediario_internacional_2024_moises_rodriguez_3.jpeg" />
-    <country lang="es">España</country>
-    <rating>
-      <value>SC</value>
-    </rating>
-  </programme>
-  <programme start="20240808013000 +0000" stop="20240808020000 +0000" channel="24h">
-    <title lang="es">Metrópolis</title>
-    <sub-title lang="es">Ecologías Queer</sub-title>
-    <desc lang="es">Espacio de cultura que se ha convertido en un punto de referencia obligado para todos aquellos inquietos por seguir las últimas tendencias en el campo de la creación artística. Temporada tras temporada, el programa ha sabido crear su propio lenguaje televisivo.(n)</desc>
-    <credits>
-      <director>María Pallier</director>
-    </credits>
-    <date>2023</date>
-    <icon src="https://media.tvup.cloud/epg/prog_1513553/bg_metropolis_1985.jpeg" />
-    <country lang="es">España</country>
-    <episode-num system="onscreen">E19</episode-num>
-    <rating>
-      <value>+12</value>
-    </rating>
   </programme>
   <programme start="20240808020000 +0000" stop="20240808023000 +0000" channel="24h">
     <title lang="es">Telediario Internacional</title>
@@ -16611,35 +16052,6 @@
     <country lang="es">España</country>
     <rating>
       <value>SC</value>
-    </rating>
-  </programme>
-  <programme start="20240808002000 +0000" stop="20240808011500 +0000" channel="La 2">
-    <title lang="es">Surf. El fuego sagrado</title>
-    <desc lang="es">Cómo esta antigua tradición polinesia se extendió por todo el mundo hasta llegar a considerarse un deporte olímpico.(n)</desc>
-    <credits>
-      <director>Benjamin Morel</director>
-      <director>Christophe Bouquet</director>
-    </credits>
-    <date>2024</date>
-    <icon src="https://media.tvup.cloud/epg/prog_2831985/bg_141_5.jpg" />
-    <country lang="es">Francia</country>
-    <rating>
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20240808011500 +0000" stop="20240808021000 +0000" channel="La 2">
-    <title lang="es">Las rutas de Ambrosio</title>
-    <sub-title lang="es">Alicante, Los Ingredientes Del Futuro</sub-title>
-    <desc lang="es">El chef argentino Gonzalo D'Ambrosio viaja por España para acercarse a sus gentes y mostrar los productos emblemáticos y los recetarios típicos de cada una de las zonas.(n)</desc>
-    <credits>
-      <director>Nahúm Varas</director>
-    </credits>
-    <date>2019</date>
-    <icon src="https://media.tvup.cloud/epg/prog_748006/bg_las_rutas_de_ambrosio_s04_2018.jpeg" />
-    <country lang="es">España</country>
-    <episode-num system="onscreen">S4 E3</episode-num>
-    <rating>
-      <value>TP</value>
     </rating>
   </programme>
   <programme start="20240808021000 +0000" stop="20240808030000 +0000" channel="La 2">
@@ -17741,31 +17153,6 @@
     <episode-num system="onscreen">S1</episode-num>
     <rating>
       <value>+12</value>
-    </rating>
-  </programme>
-  <programme start="20240808002000 +0000" stop="20240808010000 +0000" channel="Neox">
-    <title lang="es">JOKERBET: ¡Damos Juego!</title>
-    <desc lang="es">Programa de casino y apuestas deportivas.(n)</desc>
-    <date>2022</date>
-    <icon src="https://media.tvup.cloud/epg/prog_1125450/bg_jokerbet_damos_juego_s01-1-.jpeg" />
-    <episode-num system="onscreen">S1</episode-num>
-    <rating>
-      <value>+18</value>
-    </rating>
-  </programme>
-  <programme start="20240808010000 +0000" stop="20240808014000 +0000" channel="Neox">
-    <title lang="es">The game show</title>
-    <desc lang="es">Espacio conducido por Sofía del Prado, Marc Vila y Gemma Manzanero en el que se repasan las mejores estrategias de juego para la Ruleta, el Black Jack y el Poker.(n)</desc>
-    <credits>
-      <presenter>Gemma Manzanero</presenter>
-      <presenter>Marc Vila</presenter>
-      <presenter>Sofía del Prado</presenter>
-    </credits>
-    <date>2024</date>
-    <icon src="https://media.tvup.cloud/epg/prog_1589351/bg_the_game_show_s2122_sofia_del_padro.jpeg" />
-    <country lang="es">España</country>
-    <rating>
-      <value>+18</value>
     </rating>
   </programme>
   <programme start="20240808014000 +0000" stop="20240808040000 +0000" channel="Neox">
@@ -19010,51 +18397,6 @@
       <value>+16</value>
     </rating>
   </programme>
-  <programme start="20240808000500 +0000" stop="20240808003000 +0000" channel="Mega">
-    <title lang="es">The game show</title>
-    <desc lang="es">Espacio conducido por Sofía del Prado, Marc Vila y Gemma Manzanero en el que se repasan las mejores estrategias de juego para la Ruleta, el Black Jack y el Poker.(n)</desc>
-    <credits>
-      <presenter>Gemma Manzanero</presenter>
-      <presenter>Marc Vila</presenter>
-      <presenter>Sofía del Prado</presenter>
-    </credits>
-    <date>2024</date>
-    <icon src="https://media.tvup.cloud/epg/prog_1589351/bg_the_game_show_s2122_sofia_del_padro.jpeg" />
-    <country lang="es">España</country>
-    <rating>
-      <value>+18</value>
-    </rating>
-  </programme>
-  <programme start="20240808003000 +0000" stop="20240808013000 +0000" channel="Mega">
-    <title lang="es">Venta Prime</title>
-    <desc lang="es">Espacio de televenta.(n)</desc>
-    <date>2024</date>
-    <icon src="https://media.tvup.cloud/epg/prog_1620251/bg_recurso_television_compras_2.jpeg" />
-    <episode-num system="onscreen">S1</episode-num>
-    <rating>
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20240808013000 +0000" stop="20240808014500 +0000" channel="Mega">
-    <title lang="es">Vip casino</title>
-    <desc lang="es">Concurso nocturno para que los espectadores puedan jugar al casino desde casa.(n)</desc>
-    <date>2020</date>
-    <icon src="https://media.tvup.cloud/epg/prog_815334/bg_recurso_poker_2.jpeg" />
-    <rating>
-      <value>+18</value>
-    </rating>
-  </programme>
-  <programme start="20240808014500 +0000" stop="20240808020500 +0000" channel="Mega">
-    <title lang="es">Crímenes imperfectos</title>
-    <sub-title lang="es">Episodio 85</sub-title>
-    <desc lang="es">No hay crímenes perfectos, sino delitos mal investigados. Esta es la máxima que vertebra esta serie documental. En cada entrega, se plantea un homicidio que, aparentemente, se ha llevado a cabo de forma impecable. Sin embargo, siempre quedan cabos sueltos.(n)</desc>
-    <date>2009</date>
-    <icon src="https://media.tvup.cloud/epg/prog_407868/bg_recurso_sociedad_crimen_1.jpeg" />
-    <country lang="es">Estados Unidos</country>
-    <rating>
-      <value>+12</value>
-    </rating>
-  </programme>
   <programme start="20240808020500 +0000" stop="20240808022500 +0000" channel="Mega">
     <title lang="es">Crímenes imperfectos</title>
     <sub-title lang="es">Episodio 86</sub-title>
@@ -19626,17 +18968,6 @@
       <value>+7</value>
     </rating>
   </programme>
-  <programme start="20240808003000 +0000" stop="20240808011000 +0000" channel="LaSexta">
-    <title lang="es">Pokerstars casino</title>
-    <desc lang="es">El programa trae cada día toda la emoción de su ruleta en vivo, Spin &amp; Win, una versión exclusiva del clásico juego de casino.(n)</desc>
-    <date>2024</date>
-    <icon src="https://media.tvup.cloud/epg/prog_925445/bg_recurso_ocio_casino.jpeg" />
-    <country lang="es">España</country>
-    <episode-num system="onscreen">S1</episode-num>
-    <rating>
-      <value>+18</value>
-    </rating>
-  </programme>
   <programme start="20240808011000 +0000" stop="20240808020000 +0000" channel="LaSexta">
     <title lang="es">Play uzu nights</title>
     <desc lang="es">Programa lleno de útiles recomendaciones para que tu juego en PlayUZU sea el más divertido que hayas podido tener en un casino online, Además cuenta celebridades que acompañan la velada con confesiones, anécdotas y momentos de juego.(n)</desc>
@@ -20083,16 +19414,6 @@
       <value>+16</value>
     </rating>
   </programme>
-  <programme start="20240808000000 +0000" stop="20240808010000 +0000" channel="ADN 40">
-    <title lang="en">Tu ciudad en tiempo real con Juan Manuel Jimenez</title>
-    <desc lang="en">La información local de las megalópolis del país: Ciudad de México, Monterrey y Guadalajara.(n)</desc>
-    <date>2021</date>
-  </programme>
-  <programme start="20240808010000 +0000" stop="20240808020000 +0000" channel="ADN 40">
-    <title lang="en">Ciudad desnuda con Yunue Cuevas y Mara Durón</title>
-    <desc lang="en">Una revista informativa que destaca el lado humano, impactante y asombroso de la noticia.(n)</desc>
-    <date>2023</date>
-  </programme>
   <programme start="20240808020000 +0000" stop="20240808030000 +0000" channel="ADN 40">
     <title lang="en">Red 360 con Lucy Bravo</title>
     <desc lang="en">Información que abarca todas la plataformas, con Lucy Bravo.(n)</desc>
@@ -20422,11 +19743,6 @@
     <desc lang="en">Toda la información del día con Alejandro Boff y Luciana Wainer.(n)</desc>
     <date>2024</date>
   </programme>
-  <programme start="20240808005000 +0000" stop="20240808022000 +0000" channel="Euro Channel">
-    <title lang="en">El cirujano</title>
-    <desc lang="en">Un respetado cirujano se ve envuelto en un escándalo tras la sospechosa muerte de un paciente.(n)</desc>
-    <date>2020</date>
-  </programme>
   <programme start="20240808022000 +0000" stop="20240808040000 +0000" channel="Euro Channel">
     <title lang="en">El orfanato</title>
     <desc lang="en">Gastón, un niño de diez años, es internado en Vermiraux.(n)</desc>
@@ -20571,14 +19887,6 @@
     <title lang="en">Duplicidad</title>
     <desc lang="en">En un viaje a Canadá, Alice se entera del fallecimiento accidental de su madre.(n)</desc>
     <date>2017</date>
-  </programme>
-  <programme start="20240808000000 +0000" stop="20240808010000 +0000" channel="Antena 7">
-    <title lang="en">Doctor Milagro</title>
-    <desc lang="en">La poca experiencia social generarán tensos momentos entre los tutores de Ali Vefa. Pero los prejuicios de algunos de sus colegas no serán impedimento para convertirse en el mejor cirujano.(n)</desc>
-  </programme>
-  <programme start="20240808010000 +0000" stop="20240808020000 +0000" channel="Antena 7">
-    <title lang="en">AN7 2da Emisión</title>
-    <desc lang="en">Noticias e informaciones de actualidad.(n)</desc>
   </programme>
   <programme start="20240808020000 +0000" stop="20240808030000 +0000" channel="Antena 7">
     <title lang="en">Tierra amarga</title>
@@ -20761,17 +20069,6 @@
     <title lang="en">La promesa</title>
     <desc lang="en">Cada año cientos de mujeres caen en las redes de reclutadores que trafican con personas, viéndose forzadas a una vida de esclavitud sexual y laboral. Esta es la historia de «Ana», «Frida» y «Seleni», tres bellas jóvenes engañadas bajo la promesa de alcanzar la vida soñada. Inocentes y vulnerables, con la férrea convicción de que pese a las condiciones adversas en las que viven, pueden alcanzar un mejor futuro.(n)</desc>
     <date>2013</date>
-  </programme>
-  <programme start="20240808002900 +0000" stop="20240808012300 +0000" channel="TNT Novelas">
-    <title lang="en">Fuerza de mujer</title>
-    <desc lang="en">Enver tiene que dar algunas explicaciones sobre el teléfono de Sarp.(n)</desc>
-    <date>2023</date>
-  </programme>
-  <programme start="20240808012300 +0000" stop="20240808021500 +0000" channel="TNT Novelas">
-    <title lang="en">Olvídame si puedes</title>
-    <sub-title lang="en">Episode 17</sub-title>
-    <desc lang="en">Esra y Ozan deciden divorciarse tras años de matrimonio. Años después, se reencuentran: Esra, desempleada, empieza a trabajar para Ozan, convertido en el CEO de una gran empresa.(n)</desc>
-    <date>2021</date>
   </programme>
   <programme start="20240808021500 +0000" stop="20240808030600 +0000" channel="TNT Novelas">
     <title lang="en">Traicionada</title>
@@ -21749,28 +21046,6 @@
     <desc lang="es">Hoy visitamos Holbox, una isla ubicada en el caribe mexicano, famosa por sus calles de arena blanca.(n)</desc>
     <episode-num system="onscreen">S1 E11</episode-num>
   </programme>
-  <programme start="20240808000000 +0000" stop="20240808003000 +0000" channel="TvAgro">
-    <title lang="en">El sembrador y la tierra</title>
-    <desc lang="en">Difusión de temas del campo y el sector agropecuario dentro de un contexto didáctico e informativo. Episodio sobre el tomate de árbol.(n)</desc>
-  </programme>
-  <programme start="20240808003000 +0000" stop="20240808010000 +0000" channel="TvAgro">
-    <title lang="en">Vivencias</title>
-    <desc lang="en">Situaciones vividas por los humanos dentro de la maleza que pudieron ser fatales.(n)</desc>
-  </programme>
-  <programme start="20240808010000 +0000" stop="20240808013000 +0000" channel="TvAgro">
-    <title lang="en">Transformadores de Campo</title>
-    <desc lang="en">Una mirada a la vida de los agricultores.(n)</desc>
-  </programme>
-  <programme start="20240808013000 +0000" stop="20240808020000 +0000" channel="TvAgro">
-    <title lang="en">Manos y oficios</title>
-    <desc lang="en">Un programa con consejos y soluciones en el contexto agropecuario y ambiental.(n)</desc>
-    <date>2020</date>
-  </programme>
-  <programme start="20240808020000 +0000" stop="20240808023000 +0000" channel="TvAgro">
-    <title lang="en">Vistazo agropecuario</title>
-    <desc lang="en">Somos el principal magazine informativo del sector agropecuario en nuestro país.(n)</desc>
-    <date>2013</date>
-  </programme>
   <programme start="20240808023000 +0000" stop="20240808030000 +0000" channel="TvAgro">
     <title lang="en">Transformadores de Campo</title>
     <desc lang="en">Una mirada a la vida de los agricultores.(n)</desc>
@@ -22172,10 +21447,6 @@
     <desc lang="en">Programa con transmisión en vivo, en el cuál se ofrecen ganados de cualquier especie, permitiendo comprar los animales desde la comodidad de su casa sin tener que desplazarse.(n)</desc>
     <date>2015</date>
   </programme>
-  <programme start="20240808000000 +0000" stop="20240808020000 +0000" channel="WIN Sports">
-    <title lang="en">Cumpleaños Junior</title>
-    <date>2024</date>
-  </programme>
   <programme start="20240808020000 +0000" stop="20240808030000 +0000" channel="WIN Sports">
     <title lang="en">Win Noticias</title>
     <desc lang="en">Un completo recorrido por el deporte nacional e internacional en un show dinámico e informativo. (Live).(n)</desc>
@@ -22277,18 +21548,6 @@
   <programme start="20240809100000 +0000" stop="20240809170000 +0000" channel="WIN Sports">
     <title lang="en">Deporte: Será Anunciado</title>
     <date>2021</date>
-  </programme>
-  <programme start="20240808000000 +0000" stop="20240808003000 +0000" channel="Trece">
-    <title lang="en">Enlace Trece</title>
-    <desc lang="en">Somos un grupo de jovenes altruista pensando siempre en el bienestar de personas enfermas de escasos recursos con el fin de ofrecer un tratamiento digno y accesible para su recuperación .(n)</desc>
-  </programme>
-  <programme start="20240808003000 +0000" stop="20240808013000 +0000" channel="Trece">
-    <title lang="en">Campo de juego</title>
-    <date>2019</date>
-  </programme>
-  <programme start="20240808013000 +0000" stop="20240808020000 +0000" channel="Trece">
-    <title lang="en">Hobbies extraordinarios</title>
-    <desc lang="en">Conocemos hobbies extraordinarios a través de sus representantes, quienes nos hablan sobre ellos.(n)</desc>
   </programme>
   <programme start="20240808020000 +0000" stop="20240808030000 +0000" channel="Trece">
     <title lang="en">A confirmar</title>
@@ -22500,15 +21759,6 @@
   </programme>
   <programme start="20240809233000 +0000" stop="20240810000000 +0000" channel="Trece">
     <title lang="en">Colombia fertil</title>
-  </programme>
-  <programme start="20240808000000 +0000" stop="20240808010000 +0000" channel="INTI Network">
-    <title lang="en">De la Chancla al Nirvana</title>
-    <desc lang="en">Mediante un recorrido de amor y armonía aprenderemos acerca de la relación parental. Acepta esta invitación a analizar situaciones que ameritan serenidad en momentos de caos. Entrevistas a padres e hijos que debaten sobre los distintos puntos de vista de la crianza.(n)</desc>
-    <date>2017</date>
-  </programme>
-  <programme start="20240808010000 +0000" stop="20240808020000 +0000" channel="INTI Network">
-    <title lang="en">Crecer sin límites</title>
-    <desc lang="en">Profundo autoanálisis que te lleva al éxito, a la salud emocional y a la felicidad plena.(n)</desc>
   </programme>
   <programme start="20240808020000 +0000" stop="20240808030000 +0000" channel="INTI Network">
     <title lang="en">Del huerto a la mesa</title>
@@ -22788,14 +22038,6 @@
     <title lang="en">Plantas de poder</title>
     <desc lang="en">Narra la historia de las plantas que se han convertido en base y fundamento de muchas de nuestras culturas. Viajamos por diferentes rincones de nuestro país para redescubir las plantas de poder ancestrales, conoceremos médicos y sabios.(n)</desc>
     <date>2020</date>
-  </programme>
-  <programme start="20240808010000 +0000" stop="20240808020000 +0000" channel="Claro Sports 2">
-    <title lang="en">Juegos Olímpicos París 2024</title>
-    <desc lang="en">Skateboarding Final Park Var.(n)</desc>
-    <date>2024</date>
-    <rating system="MPAA">
-      <value>A</value>
-    </rating>
   </programme>
   <programme start="20240808020000 +0000" stop="20240808030000 +0000" channel="Claro Sports 2">
     <title lang="en">Deportes en Claro Guatemala</title>
@@ -23151,22 +22393,6 @@
     <desc lang="en">Hablar de tus problemas es el primer paso para superarlos, por eso Rocío Sánchez Azuara está de regreso con un programa único, en el cual, podrás acercarte, para que con ella, hables de todo lo que te preocupa, y juntas o juntos, puedan encontrar una solución.(n)</desc>
     <date>2021</date>
   </programme>
-  <programme start="20240808000000 +0000" stop="20240808004500 +0000" channel="AzCorazón">
-    <title lang="en">Destino</title>
-    <sub-title lang="en">Episodio #1.75</sub-title>
-    <desc lang="en">Sebastián no viaja con Grecia si no aparecen Camila y Valeria.(n)</desc>
-    <date>2013</date>
-  </programme>
-  <programme start="20240808004500 +0000" stop="20240808013000 +0000" channel="AzCorazón">
-    <title lang="en">Destino - Parte 2</title>
-    <date>2022</date>
-  </programme>
-  <programme start="20240808013000 +0000" stop="20240808021500 +0000" channel="AzCorazón">
-    <title lang="en">Así en el barrio como en el cielo</title>
-    <sub-title lang="en">Episode #1.45</sub-title>
-    <desc lang="en">El Gallo está muy preocupado porque el amigo de Demóstenes no puede ayudarle a tener una acta de nacimiento actualizada de La Pollola, y si descubren que la niña no está registrada puede ir a parar a la cárcel.(n)</desc>
-    <date>2021</date>
-  </programme>
   <programme start="20240808021500 +0000" stop="20240808030000 +0000" channel="AzCorazón">
     <title lang="en">Así en el barrio como en el cielo</title>
     <sub-title lang="en">Episode #1.46</sub-title>
@@ -23488,26 +22714,6 @@
   <programme start="20240809231500 +0000" stop="20240810000000 +0000" channel="AzCorazón">
     <title lang="en">Tengo Todo Excepto a Ti</title>
     <date>2018</date>
-  </programme>
-  <programme start="20240808000000 +0000" stop="20240808003000 +0000" channel="AzClic">
-    <title lang="en">Conecta</title>
-    <date>2024</date>
-  </programme>
-  <programme start="20240808003000 +0000" stop="20240808010000 +0000" channel="AzClic">
-    <title lang="en">Azteca Fit</title>
-    <date>2024</date>
-  </programme>
-  <programme start="20240808010000 +0000" stop="20240808013000 +0000" channel="AzClic">
-    <title lang="en">Mesa y cuchara</title>
-    <date>2024</date>
-  </programme>
-  <programme start="20240808013000 +0000" stop="20240808020000 +0000" channel="AzClic">
-    <title lang="en">Amor x México</title>
-    <date>2024</date>
-  </programme>
-  <programme start="20240808020000 +0000" stop="20240808023000 +0000" channel="AzClic">
-    <title lang="en">Mostro garage</title>
-    <date>2024</date>
   </programme>
   <programme start="20240808023000 +0000" stop="20240808030000 +0000" channel="AzClic">
     <title lang="en">Conecta</title>
@@ -23873,22 +23079,6 @@
     <title lang="en">Mesa y cuchara</title>
     <date>2024</date>
   </programme>
-  <programme start="20240808000300 +0000" stop="20240808003000 +0000" channel="Concert Channel">
-    <title lang="en">360 Sessions</title>
-    <desc lang="en">Actuación y charla del dúo pop que hablan sobre su esperado nuevo álbum, Sounds from Nowheresville.(n)</desc>
-    <date>2023</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20240808003000 +0000" stop="20240808013000 +0000" channel="Concert Channel">
-    <title lang="en">Memory Lane</title>
-    <date>2023</date>
-  </programme>
-  <programme start="20240808013000 +0000" stop="20240808023000 +0000" channel="Concert Channel">
-    <title lang="en">Other Voices</title>
-    <date>2023</date>
-  </programme>
   <programme start="20240808023000 +0000" stop="20240808033000 +0000" channel="Concert Channel">
     <title lang="en">Later... with Jools Holland</title>
     <date>2024</date>
@@ -24067,15 +23257,6 @@
     <title lang="en">Depeche Mode 101</title>
     <desc lang="en">La banda británica Depeche Mode se prepara para su concierto Nº 101 y último de su gira mundial.(n)</desc>
     <date>1989</date>
-  </programme>
-  <programme start="20240808000000 +0000" stop="20240808010000 +0000" channel="Pasiones (LAT)">
-    <title lang="en">La gata</title>
-    <desc lang="en">Esmeralda, conocida como "la Gata" es una joven pobre que vive en un barrio deprimido. Doña Rita, quien le da vivienda a Esmeralda, la explotará para poder conseguir dinero a partir de las limosnas. A pesar de todo, la dulzura y la bondad siempre está en el carácter de "la Gata".(n)</desc>
-    <date>2019</date>
-  </programme>
-  <programme start="20240808010000 +0000" stop="20240808020000 +0000" channel="Pasiones (LAT)">
-    <title lang="en">Mi mentira más dulce</title>
-    <desc lang="en">La serie se centra en el inesperado romance entre Nejat, un ejecutivo de publicidad y la dueña de una pequeña pastelería, Suna. Nejat tiene una vida tranquila junto a su hija Kayra, ya que su mujer les abandonó cuando la niña era tan solo un bebé, así que ésta cree que su madre está en África ayudando a otros niños y que algún día volverá.(n)</desc>
   </programme>
   <programme start="20240808020000 +0000" stop="20240808030000 +0000" channel="Pasiones (LAT)">
     <title lang="en">Orgullo y Pasión</title>
@@ -24326,11 +23507,6 @@
     <desc lang="en">Elif es separada de su madre y enviada a vivir con una amiga de ella que es ama de llaves de la magnifica mansión en la que vive su padre y la familia de este, sin que su progenitor sepa de la relación de parentesco que les une.(n)</desc>
     <date>2014</date>
   </programme>
-  <programme start="20240808000000 +0000" stop="20240808010000 +0000" channel="Canal RCN">
-    <title lang="en">Noticias RCN</title>
-    <desc lang="en">Emisiones en directo con el mayor cubrimiento en los sucesos nacionales e internacionales.(n)</desc>
-    <date>1995</date>
-  </programme>
   <programme start="20240808010000 +0000" stop="20240808030000 +0000" channel="Canal RCN">
     <title lang="en">última Función</title>
     <desc lang="en">En este segmento podrás disfrutar de las grandes producciones cinematográficas de Hollywood,.(n)</desc>
@@ -24507,11 +23683,6 @@
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
-  </programme>
-  <programme start="20240808000000 +0000" stop="20240808010000 +0000" channel="Canal Uno">
-    <title lang="en">Red + Noticias</title>
-    <desc lang="en">Actualidad, economía, deportes e internacionales en un solo lugar.(n)</desc>
-    <date>2013</date>
   </programme>
   <programme start="20240808010000 +0000" stop="20240808033000 +0000" channel="Canal Uno">
     <title lang="en">Los juegos del hambre: Sinsajo - Parte 2</title>
@@ -24791,16 +23962,6 @@
   <programme start="20240809230000 +0000" stop="20240810000000 +0000" channel="Canal Uno">
     <title lang="en">Caso cerrado: Edición estelar</title>
     <desc lang="en">En su edición estelar, este espacio te mostrará las historias más humanas y vivirás las emociones más intensas. Prepárate para llorar y conmoverte con casos que la doctora Polo buscará resolver de la manera más justa.(n)</desc>
-  </programme>
-  <programme start="20240808000000 +0000" stop="20240808013000 +0000" channel="Caracol Televisión">
-    <title lang="en">Noticias 19:00 Caracol</title>
-    <desc lang="en">Servicio informativo con los acontecimientos más relevantes de Colombia y el mundo.(n)</desc>
-    <date>2009</date>
-  </programme>
-  <programme start="20240808013000 +0000" stop="20240808023000 +0000" channel="Caracol Televisión">
-    <title lang="en">El Rastro</title>
-    <desc lang="en">Le permitirá a la audiencia el acceso a historias que son tan reales que parecen mentira.(n)</desc>
-    <date>2011</date>
   </programme>
   <programme start="20240808023000 +0000" stop="20240808033000 +0000" channel="Caracol Televisión">
     <title lang="en">El Rastro</title>
@@ -25291,11 +24452,6 @@
   <programme start="20240809230000 +0000" stop="20240810000000 +0000" channel="Bally Sports Great Lakes">
     <title lang="en">The BigPlay Cleveland Show</title>
   </programme>
-  <programme start="20240808004500 +0000" stop="20240808023000 +0000" channel="Latina TV">
-    <title lang="en">El Gran Chef - Famosos</title>
-    <desc lang="en">El reality de competencia culinaria promete mostrar a un grupo de 12 famosos que no tienen experiencia alguna en la cocina, entre los cuales estarán conocidos cantantes, actores, conductores de TV, influencers y deportistas.(n)</desc>
-    <date>2023</date>
-  </programme>
   <programme start="20240808023000 +0000" stop="20240808033000 +0000" channel="Latina TV">
     <title lang="en">Pituca sin Lucas</title>
     <desc lang="en">Tichi es una mujer rica casada con José Antonio Risopatrón, con quien tiene tres hijas: María Jesús, María Belén, y la niña María Piedad. El conflicto surgirá cuando su marido tenga problemas económicos y abandone el país, dejándola en la más...(n)</desc>
@@ -25464,45 +24620,6 @@
   <programme start="20240809234500 +0000" stop="20240810004500 +0000" channel="Latina TV">
     <title lang="en">Todo por mi familia</title>
     <desc lang="en">La producción narra una inspiradora historia de superación protagonizada por Kadir, Omer,.(n)</desc>
-  </programme>
-  <programme start="20240808000000 +0000" stop="20240808010000 +0000" channel="MTV Live (USA)">
-    <title lang="en">Storytellers</title>
-    <sub-title lang="en">Bruce Springsteen</sub-title>
-    <desc lang="en">Bruce Springsteen performs and answers audience questions.(n)</desc>
-    <credits>
-      <director>Paul Dugdale</director>
-    </credits>
-    <category lang="en">Music</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p1895027_e_v9_aa.jpg" />
-    <episode-num system="onscreen">S8 E2</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20240808010000 +0000" stop="20240808020000 +0000" channel="MTV Live (USA)">
-    <title lang="en">MTV World Stage</title>
-    <sub-title lang="en">My Chemical Romance</sub-title>
-    <desc lang="en">My Chemical Romance performs in Valencia, Spain; songs include "Sing," "Na Na Na," "Welcome to the Black Parade," and "I'm Not Okay.".(n)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p11677187_b_v10_aa.jpg" />
-    <episode-num system="onscreen">E7</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20240808020000 +0000" stop="20240808023000 +0000" channel="MTV Live (USA)">
-    <title lang="en">MTV Brand New Live</title>
-    <sub-title lang="en">Tom Odell</sub-title>
-    <desc lang="en">Tom Odell performs; songs include "Another Love," "Hold Me," and "Can't Pretend.".(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Music</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p9748470_b_v9_aa.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
   </programme>
   <programme start="20240808023000 +0000" stop="20240808030000 +0000" channel="MTV Live (USA)">
     <title lang="en">I Want My MTV</title>
@@ -26259,12 +25376,6 @@
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
-  </programme>
-  <programme start="20240808000000 +0000" stop="20240808013000 +0000" channel="ESPN (ARG)">
-    <title lang="en">ESPN F90</title>
-    <desc lang="en">Toda la información del campeonato nacional está en ESPN Fútbol 90. (Live).(n)</desc>
-    <date>2021</date>
-    <premiere lang="en" />
   </programme>
   <programme start="20240808013000 +0000" stop="20240808030000 +0000" channel="ESPN (ARG)">
     <title lang="en">ESPN F Show</title>
@@ -27157,16 +26268,6 @@
       <value>TVPG</value>
     </rating>
   </programme>
-  <programme start="20240808000000 +0000" stop="20240808010000 +0000" channel="Canal 6">
-    <title lang="en">C4 en alerta</title>
-    <desc lang="en">Información exclusiva, las imágenes y los rostros de los protagonistas de la noticia.(n)</desc>
-    <credits>
-      <presenter>Carlos Jiménez</presenter>
-    </credits>
-    <category lang="en">News</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p21010458_b_v9_aa.jpg" />
-    <previously-shown />
-  </programme>
   <programme start="20240808010000 +0000" stop="20240808030000 +0000" channel="Canal 6">
     <title lang="en">Telediario nocturno Monterrey</title>
     <desc lang="en">Las últimas novedades y la información más destacada del día en Monterrey.(n)</desc>
@@ -27562,12 +26663,6 @@
     <icon src="https://zap2it.tmsimg.com/assets/p14515680_b_v9_aa.jpg" />
     <previously-shown />
   </programme>
-  <programme start="20240808013000 +0000" stop="20240808020000 +0000" channel="San Diego Padres">
-    <title lang="en">Live: Padres Post Game</title>
-    <category lang="en">Baseball</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p24428619_st_v9_aa.jpg" />
-    <premiere lang="en" />
-  </programme>
   <programme start="20240808020000 +0000" stop="20240808050000 +0000" channel="San Diego Padres">
     <title lang="en">MLB Baseball</title>
     <sub-title lang="en">San Diego Padres at Pittsburgh Pirates</sub-title>
@@ -27746,28 +26841,6 @@
     <icon src="https://zap2it.tmsimg.com/assets/p480440_b_v13_bw.jpg" />
     <previously-shown />
   </programme>
-  <programme start="20240808000000 +0000" stop="20240808003000 +0000" channel="Arizona Diamondbacks">
-    <title lang="en">Diamondbacks Live! Post Game</title>
-    <desc lang="en">Postgame coverage for Arizona Diamondbacks.(n)</desc>
-    <category lang="en">Baseball</category>
-    <category lang="en">Sports talk</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p650974_b_v13_ac.jpg" />
-    <premiere lang="en" />
-  </programme>
-  <programme start="20240808003000 +0000" stop="20240808013000 +0000" channel="Arizona Diamondbacks">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.(n)</desc>
-    <category lang="en">Special</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p480440_b_v13_bw.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20240808013000 +0000" stop="20240808020000 +0000" channel="Arizona Diamondbacks">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">Sign off.(n)</desc>
-    <category lang="en">Special</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p480440_b_v13_bw.jpg" />
-    <previously-shown />
-  </programme>
   <programme start="20240808020000 +0000" stop="20240808050000 +0000" channel="Arizona Diamondbacks">
     <title lang="en">MLB Baseball</title>
     <sub-title lang="en">Arizona Diamondbacks at Cleveland Guardians</sub-title>
@@ -27837,7 +26910,6 @@
     <title lang="en">Live: MLB Baseball</title>
     <sub-title lang="en">Philadelphia Phillies at Arizona Diamondbacks</sub-title>
     <desc lang="en">From Chase Field in Phoenix.(n)</desc>
-    <category lang="en">Baseball</category>
     <icon src="https://zap2it.tmsimg.com/assets/p26166947_tb2_v13_aq.jpg" />
     <premiere lang="en" />
   </programme>
@@ -27980,5 +27052,475 @@
     <category lang="en">Sports talk</category>
     <icon src="https://zap2it.tmsimg.com/assets/p650975_b_v13_ac.jpg" />
     <premiere lang="en" />
+  </programme>
+  <programme start="20240808013000 +0000" stop="20240808033000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">College Softball</title>
+    <sub-title lang="en">Cal Poly-San Luis Obispo at Hawaii</sub-title>
+    <desc lang="en">From Rainbow Wahine Softball Stadium in Honolulu.(n)</desc>
+    <category lang="en">Softball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p27035867_tb2_v13_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240808033000 +0000" stop="20240808053000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">College Baseball</title>
+    <sub-title lang="en">Chaminade at Hawaii</sub-title>
+    <desc lang="en">From Les Murakami Stadium in Honolulu.(n)</desc>
+    <category lang="en">Baseball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p191259_b_v13_ag.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240808053000 +0000" stop="20240808090000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Women's College Beach Volleyball</title>
+    <sub-title lang="en">Grand Canyon at Hawaii</sub-title>
+    <desc lang="en">Coverage of collegiate women's beach volleyball action.(n)</desc>
+    <category lang="en">Beach volleyball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p27159707_tb2_v13_ad.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240808090000 +0000" stop="20240808110000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Men's College Volleyball</title>
+    <sub-title lang="en">Loyola-Chicago at Hawaii</sub-title>
+    <desc lang="en">From Stan Sheriff Center in Honolulu.(n)</desc>
+    <category lang="en">Volleyball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p26411636_tb2_v13_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240808110000 +0000" stop="20240808113000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240808113000 +0000" stop="20240808120000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240808120000 +0000" stop="20240808123000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240808123000 +0000" stop="20240808130000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240808130000 +0000" stop="20240808133000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240808133000 +0000" stop="20240808140000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240808140000 +0000" stop="20240808143000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240808143000 +0000" stop="20240808150000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240808150000 +0000" stop="20240808153000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240808153000 +0000" stop="20240808160000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240808160000 +0000" stop="20240808193000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">College Baseball</title>
+    <sub-title lang="en">Holy Cross at Hawaii</sub-title>
+    <desc lang="en">From Les Murakami Stadium in Honolulu.(n)</desc>
+    <category lang="en">Baseball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p26771938_tb2_v13_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240808193000 +0000" stop="20240808213000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">College Basketball</title>
+    <sub-title lang="en">Central Arkansas at Hawaii</sub-title>
+    <desc lang="en">From Stan Sheriff Center in Honolulu.(n)</desc>
+    <category lang="en">Basketball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p25670590_tb2_v13_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240808213000 +0000" stop="20240809000000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Men's College Volleyball</title>
+    <sub-title lang="en">Cal State Northridge at Hawaii</sub-title>
+    <desc lang="en">From Stan Sheriff Center in Honolulu.(n)</desc>
+    <category lang="en">Volleyball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p26772005_tb2_v13_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240809000000 +0000" stop="20240809020000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Women's College Basketball</title>
+    <sub-title lang="en">UC Davis at Hawaii</sub-title>
+    <desc lang="en">From Stan Sheriff Center in Honolulu.(n)</desc>
+    <category lang="en">Basketball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p25854483_tb2_v13_ac.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240809020000 +0000" stop="20240809041500 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">College Basketball</title>
+    <sub-title lang="en">UC San Diego at Hawaii</sub-title>
+    <desc lang="en">From Stan Sheriff Center in Honolulu.(n)</desc>
+    <category lang="en">Basketball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p25801199_tb2_v13_ac.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240809041500 +0000" stop="20240809060000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Men's College Volleyball</title>
+    <sub-title lang="en">Sacred Heart at Hawaii</sub-title>
+    <desc lang="en">From Stan Sheriff Center in Honolulu.(n)</desc>
+    <category lang="en">Volleyball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p26771981_tb2_v13_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240809060000 +0000" stop="20240809080000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">College Softball</title>
+    <sub-title lang="en">Cal Poly-San Luis Obispo at Hawaii</sub-title>
+    <desc lang="en">From Rainbow Wahine Softball Stadium in Honolulu.(n)</desc>
+    <category lang="en">Softball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p27035867_tb2_v13_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240809080000 +0000" stop="20240809100000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">College Baseball</title>
+    <sub-title lang="en">Chaminade at Hawaii</sub-title>
+    <desc lang="en">From Les Murakami Stadium in Honolulu.(n)</desc>
+    <category lang="en">Baseball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p191259_b_v13_ag.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240809100000 +0000" stop="20240809103000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240809103000 +0000" stop="20240809110000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240809110000 +0000" stop="20240809113000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240809113000 +0000" stop="20240809120000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240809120000 +0000" stop="20240809123000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240809123000 +0000" stop="20240809130000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <category lang="en">Consumer</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Variety</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240809130000 +0000" stop="20240809133000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <category lang="en">Consumer</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Variety</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240809133000 +0000" stop="20240809140000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240809140000 +0000" stop="20240809143000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240809143000 +0000" stop="20240809150000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240809150000 +0000" stop="20240809153000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240809153000 +0000" stop="20240809160000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240809160000 +0000" stop="20240809173000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Men's College Volleyball</title>
+    <sub-title lang="en">Big West Tournament: UC Santa Barbara vs. Hawaii</sub-title>
+    <desc lang="en">First Semifinal.(n)</desc>
+    <category lang="en">Volleyball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p24417707_tb2_v13_ae.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240809173000 +0000" stop="20240809204500 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">College Baseball</title>
+    <sub-title lang="en">2017: UC Santa Barbara at Hawaii</sub-title>
+    <desc lang="en">From May 27, 2017.(n)</desc>
+    <category lang="en">Baseball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p356297_b_v10_ag.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240809204500 +0000" stop="20240809224500 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">College Basketball</title>
+    <sub-title lang="en">UC Santa Barbara at Hawaii</sub-title>
+    <desc lang="en">From Stan Sheriff Center in Honolulu.(n)</desc>
+    <category lang="en">Basketball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p20740167_tb2_v13_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240809224500 +0000" stop="20240810030000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">College Baseball</title>
+    <sub-title lang="en">UC Santa Barbara at Hawaii</sub-title>
+    <desc lang="en">From Les Murakami Stadium in Honolulu.(n)</desc>
+    <category lang="en">Baseball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p24573187_tb2_v13_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240810030000 +0000" stop="20240810050000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Men's College Volleyball</title>
+    <sub-title lang="en">UC Santa Barbara at Hawaii</sub-title>
+    <desc lang="en">Action from men's college volleyball matches.(n)</desc>
+    <category lang="en">Volleyball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p22176367_tb2_v13_ab.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240810050000 +0000" stop="20240810070000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Women's College Basketball</title>
+    <sub-title lang="en">UC Santa Barbara at Hawaii</sub-title>
+    <desc lang="en">From Stan Sheriff Center in Honolulu.(n)</desc>
+    <category lang="en">Basketball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p20765249_tb2_v13_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240810070000 +0000" stop="20240810100000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Men's College Volleyball</title>
+    <sub-title lang="en">UC Santa Barbara at Hawaii</sub-title>
+    <desc lang="en">Action from men's college volleyball matches.(n)</desc>
+    <category lang="en">Volleyball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p21883757_tb2_v13_ab.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240810100000 +0000" stop="20240810103000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240810103000 +0000" stop="20240810110000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240810110000 +0000" stop="20240810113000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240810113000 +0000" stop="20240810120000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240810120000 +0000" stop="20240810123000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240810123000 +0000" stop="20240810130000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240810130000 +0000" stop="20240810133000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240810133000 +0000" stop="20240810140000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240810140000 +0000" stop="20240810143000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240810143000 +0000" stop="20240810150000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240810150000 +0000" stop="20240810153000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240810153000 +0000" stop="20240810160000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240810160000 +0000" stop="20240810191500 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">College Baseball</title>
+    <sub-title lang="en">Hawaii-Hilo at Hawaii</sub-title>
+    <desc lang="en">From Les Murakami Stadium in Honolulu.(n)</desc>
+    <category lang="en">Baseball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p27114911_tb2_v13_ab.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240810191500 +0000" stop="20240810213000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">College Basketball</title>
+    <sub-title lang="en">UC Davis at Hawaii</sub-title>
+    <desc lang="en">From Stan Sheriff Center in Honolulu.(n)</desc>
+    <category lang="en">Basketball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p25802374_tb2_v13_ab.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240810213000 +0000" stop="20240811004500 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Men's College Volleyball</title>
+    <sub-title lang="en">UC Santa Barbara at Hawaii</sub-title>
+    <desc lang="en">From Stan Sheriff Center in Honolulu.(n)</desc>
+    <category lang="en">Volleyball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p26772027_tb2_v13_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240808070000 +0000" stop="20240808143000 +0000" channel="Spectrum Surf Channel">
+    <title lang="en">World Surf League</title>
+    <sub-title lang="en">2024 LEXUS US OPEN OF SURFING presented by Pacifico</sub-title>
+    <category lang="en">Surfing</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p17174694_st_v9_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240808143000 +0000" stop="20240808160000 +0000" channel="Spectrum Surf Channel">
+    <title lang="en">World Surf League</title>
+    <sub-title lang="en">: 2024 LEXUS US OPEN OF SURFING presented by Pacifico [LIVE]</sub-title>
+    <category lang="en">Surfing</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p17174694_st_v9_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240808160000 +0000" stop="20240808230000 +0000" channel="Spectrum Surf Channel">
+    <title lang="en">World Surf League</title>
+    <sub-title lang="en">2024 LEXUS US OPEN OF SURFING presented by Pacifico Potential Surf Window: 4:30am HST - 1:00pm HST [LIVE]</sub-title>
+    <category lang="en">Surfing</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p17174694_st_v9_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240808230000 +0000" stop="20240809070000 +0000" channel="Spectrum Surf Channel">
+    <title lang="en">World Surf League</title>
+    <sub-title lang="en">2024 LEXUS US OPEN OF SURFING presented by Pacifico</sub-title>
+    <category lang="en">Surfing</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p17174694_st_v9_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240809070000 +0000" stop="20240809143000 +0000" channel="Spectrum Surf Channel">
+    <title lang="en">World Surf League</title>
+    <sub-title lang="en">2024 LEXUS US OPEN OF SURFING presented by Pacifico</sub-title>
+    <category lang="en">Surfing</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p17174694_st_v9_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240809143000 +0000" stop="20240809160000 +0000" channel="Spectrum Surf Channel">
+    <title lang="en">World Surf League</title>
+    <sub-title lang="en">: 2024 LEXUS US OPEN OF SURFING presented by Pacifico [LIVE]</sub-title>
+    <category lang="en">Surfing</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p17174694_st_v9_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240809160000 +0000" stop="20240809230000 +0000" channel="Spectrum Surf Channel">
+    <title lang="en">World Surf League</title>
+    <sub-title lang="en">2024 LEXUS US OPEN OF SURFING presented by Pacifico Potential Surf Window: 4:30am HST - 1:00pm HST [LIVE]</sub-title>
+    <category lang="en">Surfing</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p17174694_st_v9_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240809230000 +0000" stop="20240810070000 +0000" channel="Spectrum Surf Channel">
+    <title lang="en">World Surf League</title>
+    <sub-title lang="en">2024 LEXUS US OPEN OF SURFING presented by Pacifico</sub-title>
+    <category lang="en">Surfing</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p17174694_st_v9_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240810070000 +0000" stop="20240810143000 +0000" channel="Spectrum Surf Channel">
+    <title lang="en">World Surf League</title>
+    <sub-title lang="en">2024 LEXUS US OPEN OF SURFING presented by Pacifico</sub-title>
+    <category lang="en">Surfing</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p17174694_st_v9_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240810143000 +0000" stop="20240810160000 +0000" channel="Spectrum Surf Channel">
+    <title lang="en">World Surf League</title>
+    <sub-title lang="en">: 2024 LEXUS US OPEN OF SURFING presented by Pacifico [LIVE]</sub-title>
+    <category lang="en">Surfing</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p17174694_st_v9_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240810160000 +0000" stop="20240810230000 +0000" channel="Spectrum Surf Channel">
+    <title lang="en">World Surf League</title>
+    <sub-title lang="en">2024 LEXUS US OPEN OF SURFING presented by Pacifico Potential Surf Window: 4:30am HST - 1:00pm HST [LIVE]</sub-title>
+    <category lang="en">Surfing</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p17174694_st_v9_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240810230000 +0000" stop="20240811070000 +0000" channel="Spectrum Surf Channel">
+    <title lang="en">World Surf League</title>
+    <sub-title lang="en">2024 LEXUS US OPEN OF SURFING presented by Pacifico</sub-title>
+    <category lang="en">Surfing</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p17174694_st_v9_aa.jpg" />
+    <previously-shown />
   </programme>
 </tv>
