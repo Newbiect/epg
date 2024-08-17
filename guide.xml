@@ -5,18 +5,6 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Logos/12572335.jpg" />
     <url>http://www.startvmexico.com</url>
   </channel>
-  <channel id="Fox Sports 3 (ARG)">
-    <display-name lang="es">FOX Sports 3 🇦🇷</display-name>
-    <url>http://www.gigared.ar</url>
-  </channel>
-  <channel id="Fox Sports 2 (ARG)">
-    <display-name lang="es">FOX Sports 2 🇦🇷</display-name>
-    <url>http://www.gigared.ar</url>
-  </channel>
-  <channel id="Fox Sports (ARG)">
-    <display-name lang="es">FOX Sports 🇦🇷</display-name>
-    <url>http://www.gigared.ar</url>
-  </channel>
   <channel id="UNIVERSAL REALITY (West)">
     <display-name lang="en">Universal Reality (West)</display-name>
     <url>http://www.tvguide.com</url>
@@ -365,12 +353,12 @@
     <url>http://www.tvguide.com</url>
   </channel>
   <channel id="DAZN 1">
-    <display-name lang="es">DAZN 1 ESPAÑA 🇪🇸</display-name>
+    <display-name lang="es">DAZN 1 🇪🇸</display-name>
     <icon src="https://www.movistarplus.es/recorte/m-NEO/guiapc/M1SD.png" />
     <url>http://www.movistarplus.es</url>
   </channel>
   <channel id="DAZN 2">
-    <display-name lang="es">DAZN 2 ESPAÑA 🇪🇸</display-name>
+    <display-name lang="es">DAZN 2 🇪🇸</display-name>
     <icon src="https://www.movistarplus.es/recorte/m-NEO/guiapc/M2SD.png" />
     <url>http://www.movistarplus.es</url>
   </channel>
@@ -1419,20 +1407,6 @@
     <icon src="http://www.reportv.com.ar/buscador/img/Programas/10477334.jpg" />
     <country lang="es">Gran Bretaña</country>
   </programme>
-  <programme start="20240817165500 +0000" stop="20240817174500 +0000" channel="UNIVERSAL REALITY (West)">
-    <title lang="en">Nuestro propio castillo</title>
-    <sub-title lang="en">Pico de verano</sub-title>
-    <desc lang="en">Es el apogeo del verano y el calor está al máximo para Dick y Angel, con el pico de la temporada de eventos, pasteles de boda que se derriten, vacaciones escolares, un lago para navegar y un bote con fugas.(n)</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20240817174500 +0000" stop="20240817183000 +0000" channel="UNIVERSAL REALITY (West)">
-    <title lang="en">Bajo cubierta</title>
-    <desc lang="en">Al Capitán Lee y Kelley se les unen cinco nuevos miembros de la tripulación mientras se preparan para una nueva temporada de navegación.(n)</desc>
-    <date>2013</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20240817183000 +0000" stop="20240817191500 +0000" channel="UNIVERSAL REALITY (West)">
     <title lang="en">Bajo cubierta</title>
     <desc lang="en">Las tensiones continúan creciendo entre Trevor y el resto del equipo de cubierta, Kelley comienza a acercarse a una invitada soltera coqueta y Kate y Ben se confrontan en la cocina.(n)</desc>
@@ -1744,14 +1718,6 @@
     <desc lang="en">Chase alquila la casa para una sesión de fotos.(n)</desc>
     <date>2022</date>
   </programme>
-  <programme start="20240817172500 +0000" stop="20240817175000 +0000" channel="UNIVERSAL CRIME (West)">
-    <title lang="en">It Takes a Killer</title>
-    <desc lang="en">Un despiadado triple homicidio en Nueva Orleáns (Luisiana) deja perpleja a la policía.(n)</desc>
-    <date>2022</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
   <programme start="20240817175000 +0000" stop="20240817183500 +0000" channel="UNIVERSAL CRIME (West)">
     <title lang="en">A sangre fría</title>
     <desc lang="en">Una joven madre es brutalmente asesinada, pero a pesar de la única evidencia en la escena, tomaría años juntar las piezas y llevar a su asesino ante la justicia.(n)</desc>
@@ -2041,15 +2007,6 @@
     <sub-title lang="en">John Gotti</sub-title>
     <desc lang="en">Cuando se trataba de evitar cargos, Don Teflon siempre encontraba una forma de escaparse.(n)</desc>
     <date>2022</date>
-  </programme>
-  <programme start="20240817171500 +0000" stop="20240817182500 +0000" channel="UNIVERSAL COMEDY (West)">
-    <title lang="en">Saturday Night Live</title>
-    <desc lang="en">Jason Momoa conduce Saturday Night Live con la cantante Tate McRae como artista invitada. (Repeat).(n)</desc>
-    <date>2024</date>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
   </programme>
   <programme start="20240817182500 +0000" stop="20240817185000 +0000" channel="UNIVERSAL COMEDY (West)">
     <title lang="en">Brooklyn Nine-Nine</title>
@@ -2461,14 +2418,6 @@
     <date>2024</date>
     <previously-shown />
   </programme>
-  <programme start="20240817164000 +0000" stop="20240817181000 +0000" channel="UNIVERSAL CINEMA (West)">
-    <title lang="en">No respires</title>
-    <desc lang="en">Un grupo de amigos se dedican a cometer robos y lo hacen de manera muy prolija, saliendo intactos de cada atraco. Cuando irrumpen en la casa de un hombre ciego y rico, creen que ejecutarán el robo perfecto. Pero están muy equivocados. Los tres jóvenes delincuentes ven cómo sus planes cambian drásticamente, ya que se encontrarán encerrados en esa vivienda, luchando por sus vidas, que corren peligro a manos del dueño de la vivienda, un verdadero psicópata.(n)</desc>
-    <date>2016</date>
-    <rating system="MPAA">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
   <programme start="20240817181000 +0000" stop="20240817195500 +0000" channel="UNIVERSAL CINEMA (West)">
     <title lang="en">Un plan irresistible</title>
     <desc lang="en">Un muy hábil político y estratega demócrata tiene una misión por delante. Ayudar a un veterano amigo, que se había retirado de sus funciones públicas, a postularse como alcalde en una pequeña ciudad. La cual le depara todo un desafío, pues se trata de un sitio muy conservador, que está perdido en medio oeste norteamericano.(n)</desc>
@@ -2571,11 +2520,6 @@
     <title lang="en">Freaky</title>
     <desc lang="en">Una adolescente cambia de cuerpo con un asesino serial y tiene un día para volver a la normalidad.(n)</desc>
     <date>2020</date>
-  </programme>
-  <programme start="20240817172500 +0000" stop="20240817181000 +0000" channel="UNIVERSAL PREMIERE (West)">
-    <title lang="en">Viajeros del tiempo</title>
-    <desc lang="en">En la Universidad de Princeton en 1955.(n)</desc>
-    <date>2023</date>
   </programme>
   <programme start="20240817181000 +0000" stop="20240817190500 +0000" channel="UNIVERSAL PREMIERE (West)">
     <title lang="en">A Friend of the Family</title>
@@ -3466,30 +3410,6 @@
     <desc lang="es">Espacio de fin de semana presentado por Himar González que ofrece al espectador una información meteorológica cercana y directa. Además, informa de todos los aspectos que afectan al medio ambiente del planeta.(n)</desc>
     <category lang="es">Programa</category>
     <icon src="https:https://s1.abcstatics.com/media/programas/000/000/394/el-tiempo-fin-de-semana-1.jpg" />
-  </programme>
-  <programme start="20240817173000 +0000" stop="20240817174500 +0000" channel="ZooMoo (ARG)">
-    <title lang="en">ZooMoo tiene cerebro</title>
-    <sub-title lang="en">Hogar dulce hogar</sub-title>
-    <desc lang="en">Pon a prueba tus conocimientos sobre animales en ZooMoo tiene Cerebros, ¡un programa de juegos como ningún otro!(n)</desc>
-    <date>2015</date>
-  </programme>
-  <programme start="20240817174500 +0000" stop="20240817180000 +0000" channel="ZooMoo (ARG)">
-    <title lang="en">ZooMoo tiene cerebro</title>
-    <sub-title lang="en">Terrorífico</sub-title>
-    <desc lang="en">Rory el Tigre, junto con su grupo de amigos marionetas, te guía a través de diversos acertijos y adivinanzas acerca de animales, con las cuales podrás aprender mucho más sobre este maravilloso reino, a la vez que juegas y te diviertes.(n)</desc>
-    <date>2015</date>
-  </programme>
-  <programme start="20240817180000 +0000" stop="20240817181500 +0000" channel="ZooMoo (ARG)">
-    <title lang="en">Leo, el explorador</title>
-    <sub-title lang="en">Kiwi</sub-title>
-    <desc lang="en">Acompaña a Leo, Katie y su fiel perro Héroe en sus aventuras alrededor del mundo.(n)</desc>
-    <date>2015</date>
-  </programme>
-  <programme start="20240817181500 +0000" stop="20240817183000 +0000" channel="ZooMoo (ARG)">
-    <title lang="en">Leo, el explorador</title>
-    <sub-title lang="en">Echidna</sub-title>
-    <desc lang="en">Las aventuras de los jóvenes guardabosques Leo y Karie y su compañero Hero, junto a animales de todo el mundo.(n)</desc>
-    <date>2015</date>
   </programme>
   <programme start="20240817183000 +0000" stop="20240817184500 +0000" channel="ZooMoo (ARG)">
     <title lang="en">Leo, el explorador</title>
@@ -5247,20 +5167,6 @@
     <date>2024</date>
     <previously-shown />
   </programme>
-  <programme start="20240817173100 +0000" stop="20240817175800 +0000" channel="Adult Swim">
-    <title lang="en">Los caballeros del zodiaco saga de poseidon</title>
-    <sub-title lang="en">Saga del Santuario</sub-title>
-    <desc lang="en">Los guerreros llamados "Santos" son campeones de la esperanza que aparecen cuando el mal amenaza al mundo.(n)</desc>
-    <date>1988</date>
-  </programme>
-  <programme start="20240817175800 +0000" stop="20240817182200 +0000" channel="Adult Swim">
-    <title lang="en">Naruto</title>
-    <desc lang="en">Los primos Hinata y Neji, del Clan Hyuga, se enfrentan en el octavo combate, donde muestran el rencor que se guardan mutuamente.(n)</desc>
-    <date>2022</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
   <programme start="20240817182200 +0000" stop="20240817184900 +0000" channel="Adult Swim">
     <title lang="en">One Piece</title>
     <sub-title lang="en">Luffy Suibotsu! Zoro vs Tako no Hacchan</sub-title>
@@ -5790,38 +5696,6 @@
     <date>2006</date>
     <rating system="MPAA">
       <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20240817173200 +0000" stop="20240817175600 +0000" channel="Tooncast">
-    <title lang="en">Pinky y Cerebro</title>
-    <desc lang="en">Cerebro crea un clon experimental. Sin embargo, pronto descubre que su ADN no es el único presente en el clon: el ADN de Pinky ha contaminado el experimento.(n)</desc>
-    <date>1995</date>
-    <rating system="MPAA">
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20240817175600 +0000" stop="20240817180600 +0000" channel="Tooncast">
-    <title lang="en">Mi compañero de clase es un mono</title>
-    <desc lang="en">Debido a otro error administrativo,.(n)</desc>
-    <date>2023</date>
-    <rating system="MPAA">
-      <value>TV-Y7</value>
-    </rating>
-  </programme>
-  <programme start="20240817180600 +0000" stop="20240817181700 +0000" channel="Tooncast">
-    <title lang="en">Mi compañero de clase es un mono</title>
-    <desc lang="en">Durante un programa de intercambio, Adam vuelve a su antigua escuela y se da cuenta de que las cosas no son exactamente como las recordaba. Jake lo acompaña y tiene problemas para diferenciar a Adam de los otros humanos.(n)</desc>
-    <date>2022</date>
-    <rating system="MPAA">
-      <value>TV-Y7</value>
-    </rating>
-  </programme>
-  <programme start="20240817181700 +0000" stop="20240817183000 +0000" channel="Tooncast">
-    <title lang="en">Mi compañero de clase es un mono</title>
-    <desc lang="en">Yendo contra el reglamento, Jake lleva a la escuela una brillante perilla de puerta de cristal. Todos excepto Adam, están cautivados por la brillante esfera y muy pronto Jake la utiliza para hipnotizar a los estudiantes y profesores.(n)</desc>
-    <date>2005</date>
-    <rating system="MPAA">
-      <value>TV-Y7</value>
     </rating>
   </programme>
   <programme start="20240817183000 +0000" stop="20240817184400 +0000" channel="Tooncast">
@@ -6757,14 +6631,6 @@
     <desc lang="en">Silvestre, Héctor y Piolín hacen una visita al temido veterinario.(n)</desc>
     <date>2017</date>
   </programme>
-  <programme start="20240817170500 +0000" stop="20240817175600 +0000" channel="TNT Series MX">
-    <title lang="en">Caso abierto</title>
-    <desc lang="en">Una joven, que es abusada por su padre, comienza a salir con un joven que resulta ser un neonazi.(n)</desc>
-    <date>2019</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20240817175600 +0000" stop="20240817184500 +0000" channel="TNT Series MX">
     <title lang="en">Caso abierto</title>
     <desc lang="en">Nueva evidencia indica que un adolescente que desapareció en 2006 había sido asesinado.(n)</desc>
@@ -7045,22 +6911,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20240817171000 +0000" stop="20240817174000 +0000" channel="TNT MX">
-    <title lang="en">Yo soy Betty, la fea</title>
-    <desc lang="en">Las feas le cuentan a Betty la historia de Ecomoda, sus personajes con los chismes de familia y las rivalidades de Armando y Daniel.(n)</desc>
-    <date>1999</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20240817174000 +0000" stop="20240817181000 +0000" channel="TNT MX">
-    <title lang="en">Yo soy Betty, la fea</title>
-    <desc lang="en">Al terminar la junta felicitan a Patricia por el informe, Betty la enfrenta, pero Marcela interviene convence a Betty para que no le diga a Armando que el informe era de ella.(n)</desc>
-    <date>1999</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
   <programme start="20240817181000 +0000" stop="20240817184000 +0000" channel="TNT MX">
     <title lang="en">Yo soy Betty, la fea</title>
     <desc lang="en">Armando le pide a Betty y a Patricia que lo ayuden a elaborar el plan de negocios, pero Betty muy hábilmente le dice que como Patricia hizo el informe entonces que haga ella el proyecto.(n)</desc>
@@ -7274,14 +7124,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20240817171600 +0000" stop="20240817181200 +0000" channel="TLC MX">
-    <title lang="en">Pasiones peligrosas</title>
-    <desc lang="en">Para un asistente de dirección de Lynchburg, el tiempo en su casa de lago no es aburrido. Aumenta la temperatura de las cosas entre él y su amante secreta y empieza su educación en asesinato. Una maestra se porta mal con un alumno y no terminan bien.(n)</desc>
-    <date>2013</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20240817181200 +0000" stop="20240817200400 +0000" channel="TLC MX">
     <title lang="en">Todo en 90 días: ¿Felices por siempre?</title>
     <desc lang="en">El viaje de la familia de Elizabeth tiene un comienzo difícil. Angela planea espiar a Michael.(n)</desc>
@@ -7464,11 +7306,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20240817170000 +0000" stop="20240817180000 +0000" channel="Telehit Música Plus">
-    <title lang="en">Rock Me</title>
-    <desc lang="en">Programa de entretenimiento.(n)</desc>
-    <date>2020</date>
-  </programme>
   <programme start="20240817180000 +0000" stop="20240817210000 +0000" channel="Telehit Música Plus">
     <title lang="en">Playlist Telehit Urbano Media</title>
     <desc lang="en">Disfruta de la playlist que propone Telehit para bailar al ritmo de lo mejor del urbano. (Repeat).(n)</desc>
@@ -7579,11 +7416,6 @@
     <desc lang="en">Programa de entretenimiento. (Repeat).(n)</desc>
     <date>2020</date>
     <previously-shown />
-  </programme>
-  <programme start="20240817173000 +0000" stop="20240817182500 +0000" channel="Telehit">
-    <title lang="en">Reggaepop</title>
-    <desc lang="en">Los éxitos del reggetón con una pizca de pop.(n)</desc>
-    <date>2022</date>
   </programme>
   <programme start="20240817182500 +0000" stop="20240817190000 +0000" channel="Telehit">
     <title lang="en">Playhit</title>
@@ -7794,14 +7626,6 @@
     <date>2024</date>
     <previously-shown />
   </programme>
-  <programme start="20240817173300 +0000" stop="20240817182100 +0000" channel="TCM Latino America">
-    <title lang="en">E.R.</title>
-    <desc lang="en">Greene accede a ayudar al comité de investigación a evaluar a los candidatos.(n)</desc>
-    <date>2015</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20240817182100 +0000" stop="20240817190600 +0000" channel="TCM Latino America">
     <title lang="en">E.R.</title>
     <desc lang="en">El miembro herido de una pandilla intenta abandonar la sala de emergencias para obtener venganza. Benton mantiene la discapacidad auditiva de Reese en secreto. Jeanie le dice a Ross que quiere ser su asistente en la sala de emergencias pediátrica. Weaver hace una entrevista para aplicar como jefe permanente de medicina de emergencia. Hathaway le confiesa a Ross que podría estar embarazada, pero después descubre que no es así. Lucy lleva un cadáver a un lugar equivocado al llevarlo a la morgue.(n)</desc>
@@ -8000,11 +7824,6 @@
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
-  </programme>
-  <programme start="20240817172000 +0000" stop="20240817181000 +0000" channel="USA Network (LA)">
-    <title lang="en">El novato</title>
-    <desc lang="en">Nolan y Harper son asignados a un centro policial comunitario.(n)</desc>
-    <date>2021</date>
   </programme>
   <programme start="20240817181000 +0000" stop="20240817190000 +0000" channel="USA Network (LA)">
     <title lang="en">Bull</title>
@@ -8395,10 +8214,6 @@
     <desc lang="en">Año 2044. Wade Watts es un adolescente al que le gusta evadirse del cada vez más sombrío mundo real a través de una popular utopía virtual a escala global llamada Oasis, hasta que su excéntrico y multimillonario creador muere. Antes de morir, ofrece su fortuna como premio a una elaborada búsqueda del tesoro a través de los rincones más inhóspitos de su creación. Será el punto de partida para que Wade se enfrente a jugadores.(n)</desc>
     <date>2018</date>
   </programme>
-  <programme start="20240817170500 +0000" stop="20240817181000 +0000" channel="Star TVE Int Internacional">
-    <title lang="en">D Corazon</title>
-    <date>2024</date>
-  </programme>
   <programme start="20240817181000 +0000" stop="20240817190000 +0000" channel="Star TVE Int Internacional">
     <title lang="en">Saber y ganar - Fin de semana</title>
     <date>2024</date>
@@ -8719,14 +8534,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20240817155600 +0000" stop="20240817180400 +0000" channel="SPACE AR">
-    <title lang="en">Mundo surreal</title>
-    <desc lang="en">Una inmersión a la imaginación vívida de Babydoll, una joven confinada en contra de su voluntad. Ella está determinada a luchar por su libertad y convence a otras cuatro chicas---Rocket, Blondie, Amber y Sweet Pea---para unirse en el combate contra sus terribles destinos. Juntas, tendrán que decidir lo que están dispuestas a sacrificar para seguir vivas.(n)</desc>
-    <date>2011</date>
-    <rating system="MPAA">
-      <value>Para todas las audiencias</value>
-    </rating>
-  </programme>
   <programme start="20240817180400 +0000" stop="20240817193700 +0000" channel="SPACE AR">
     <title lang="en">Iceman</title>
     <desc lang="en">En China, un guardia de la dinastía Ming es traicionado y unos guerreros intentan cazarlo, pero durante el combate resultan atrapados por el hielo. Cuatro siglos más tarde son descongelados: sus cuentas siguen pendientes, ahora, en la Hong Kong actual.(n)</desc>
@@ -8841,14 +8648,6 @@
     <date>2005</date>
     <rating system="MPAA">
       <value>Familiar</value>
-    </rating>
-  </programme>
-  <programme start="20240817161000 +0000" stop="20240817175000 +0000" channel="Paramount Network MX">
-    <title lang="en">Mini espías 4: Los ladrones del tiempo</title>
-    <desc lang="en">Marissa Cortez Wilson tiene todo lo que siempre soñó: está casada con Wilbur ¿un periodista famoso al que ama, pero que no sabe todos los detalles de su vida¿, es una gran espía y tiene hijos muy inteligentes. Por el momento, su gran desafío es ser madrasta de Rebecca y Cecil. Pero ella debe volver al trabajo activo cuando Timekeeper, un maníaco peligroso, amenaza con dominar el planeta.(n)</desc>
-    <date>2011</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20240817175000 +0000" stop="20240817192000 +0000" channel="Paramount Network MX">
@@ -9021,29 +8820,6 @@
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
-  </programme>
-  <programme start="20240817171000 +0000" stop="20240817173500 +0000" channel="TeenNick">
-    <title lang="en">The Thundermans</title>
-    <sub-title lang="en">La trituradora</sub-title>
-    <desc lang="en">Phoebe está devastada cuando cree que la nueva trituradora de la famila destruyó sus entradas para el concierto de MKTO.(n)</desc>
-    <date>2019</date>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20240817173500 +0000" stop="20240817175500 +0000" channel="TeenNick">
-    <title lang="en">Los Thunderman</title>
-    <desc lang="en">La piel de Max se pone azul durante una cita.(n)</desc>
-    <date>2020</date>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20240817175500 +0000" stop="20240817182000 +0000" channel="TeenNick">
-    <title lang="en">The Loud House: una verdadera familia ruidosa</title>
-    <sub-title lang="en">Home Is Where the Hero Is</sub-title>
-    <desc lang="en">Lincoln entrevista a Lynn Sr. sobre sus acciones heroicas como parte de un concurso.(n)</desc>
-    <date>2023</date>
   </programme>
   <programme start="20240817182000 +0000" stop="20240817184500 +0000" channel="TeenNick">
     <title lang="en">The Loud House: una verdadera familia ruidosa</title>
@@ -9625,22 +9401,6 @@
     <desc lang="en">Lincoln entrevista a Lynn Sr. sobre sus acciones heroicas como parte de un concurso.(n)</desc>
     <date>2023</date>
   </programme>
-  <programme start="20240817171500 +0000" stop="20240817174500 +0000" channel="Nick">
-    <title lang="en">Bob Esponja</title>
-    <desc lang="en">Róbalo Burbuja está perdido con Patricio en un misterioso pantano, buscando una figura de acción perdida. /Bob Esponja aprende un nuevo truco de magia, pero no puede encontrar a nadie que quiera verlo.(n)</desc>
-    <date>1999</date>
-    <rating system="MPAA">
-      <value>TV-Y7</value>
-    </rating>
-  </programme>
-  <programme start="20240817174500 +0000" stop="20240817181000 +0000" channel="Nick">
-    <title lang="en">Bob Esponja</title>
-    <desc lang="en">Plankton hace un clon de sí mismo y de Don Cangrejo, pero ninungo de los dos restaurantes está a salvo del recién llegado / Calamardo cambia alegremente de trabajo con un conductor de autobús y cree que le va bien...(n)</desc>
-    <date>2000</date>
-    <rating system="MPAA">
-      <value>TV-Y7</value>
-    </rating>
-  </programme>
   <programme start="20240817181000 +0000" stop="20240817184000 +0000" channel="Nick">
     <title lang="en">Bob Esponja</title>
     <desc lang="en">Gary adquiere miembros nuevos para seguirle el paso a Bob Esponja, pero pronto hace que su dueño se vea lento en comparación. / Plankton practica gobernar al mundo encogiéndose y declarándose rey del acuario de Bob Esponja.(n)</desc>
@@ -10178,15 +9938,6 @@
       <value>TV-G</value>
     </rating>
   </programme>
-  <programme start="20240817172000 +0000" stop="20240817181500 +0000" channel="National Geographic">
-    <title lang="en">Gordon, Gino y Fred</title>
-    <sub-title lang="en">Tras el rastro de santa</sub-title>
-    <desc lang="en">Gordon, Gino y Fredare se reúnen para otra extraordinaria aventura culinaria navideña.(n)</desc>
-    <date>2022</date>
-    <rating system="MPAA">
-      <value>13</value>
-    </rating>
-  </programme>
   <programme start="20240817181500 +0000" stop="20240817191000 +0000" channel="National Geographic">
     <title lang="en">Cesar Millan: mejores humanos, mejores perros</title>
     <sub-title lang="en">Temor y caos</sub-title>
@@ -10535,11 +10286,6 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20240817140000 +0000" stop="20240817180000 +0000" channel="MTV '00s">
-    <title lang="en">Non-Stop Y2Ks!</title>
-    <desc lang="en">¡Los 00s nos dieron algunas pistas icónicas y vamos a tocar algunas de ellas sin parar!(n)</desc>
-    <date>2023</date>
-  </programme>
   <programme start="20240817180000 +0000" stop="20240817210000 +0000" channel="MTV '00s">
     <title lang="en">40 Sing-Along Favourites!</title>
     <desc lang="en">¡Seguro querrás cantar y bailar estos éxitos clásicos!(n)</desc>
@@ -10586,14 +10332,6 @@
   <programme start="20240818200000 +0000" stop="20240819020000 +0000" channel="MTV '00s">
     <title lang="en">Hits Don't Lie!</title>
     <desc lang="en">Programa que nos muestra los mejores éxitos musicales.(n)</desc>
-  </programme>
-  <programme start="20240817173000 +0000" stop="20240817175500 +0000" channel="MTV Latin America">
-    <title lang="en">Ridiculousness</title>
-    <desc lang="en">Rob, Steelo y la invitada Brie Bella pierden el equilibrio mientras hacen "Hazardous Handstands".(n)</desc>
-    <date>2024</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
   </programme>
   <programme start="20240817175500 +0000" stop="20240817184000 +0000" channel="MTV Latin America">
     <title lang="en">Catfish</title>
@@ -10847,17 +10585,6 @@
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
-  </programme>
-  <programme start="20240817173000 +0000" stop="20240817180000 +0000" channel="Más Chic">
-    <title lang="en">La recicladora al rescate</title>
-    <desc lang="en">Euge restaura un mueble para que Sabrina pueda apoyar su televisor.(n)</desc>
-    <date>2023</date>
-  </programme>
-  <programme start="20240817180000 +0000" stop="20240817183000 +0000" channel="Más Chic">
-    <title lang="en">De compras en...</title>
-    <sub-title lang="en">Zagreb</sub-title>
-    <desc lang="en">Fani Stipkovic nos enseña las mejores tiendas de Dubrovnik.(n)</desc>
-    <date>2018</date>
   </programme>
   <programme start="20240817183000 +0000" stop="20240817190000 +0000" channel="Más Chic">
     <title lang="en">Bodas increíbles</title>
@@ -11148,14 +10875,6 @@
     <desc lang="en">Un programa para disfrutar del diseño y la arquitectura urbana junto a Laura y Samantha.(n)</desc>
     <date>2023</date>
   </programme>
-  <programme start="20240817161300 +0000" stop="20240817175100 +0000" channel="Lifetime MX">
-    <title lang="en">Prometido Peligroso</title>
-    <desc lang="en">Alison se acaba de divorciar y no está segura de volver a buscar pareja, pero su mejor amiga la inscribe en un sitio online de citas y conoce a Vincent, un hombre demasiado perfecto para ser real. ¿Descubrirá las verdaderas motivaciones de este príncipe.(n)</desc>
-    <date>2020</date>
-    <rating system="MPAA">
-      <value>Para todas las audiencias</value>
-    </rating>
-  </programme>
   <programme start="20240817175100 +0000" stop="20240817192600 +0000" channel="Lifetime MX">
     <title lang="en">No vale la pena morir por él</title>
     <desc lang="en">Isla y Grace descubren que Jake ha estado engañándolas,.(n)</desc>
@@ -11346,10 +11065,6 @@
     <rating system="MPAA">
       <value>Familiar</value>
     </rating>
-  </programme>
-  <programme start="20240817173000 +0000" stop="20240817183000 +0000" channel="!Hola! TV">
-    <title lang="en">La casa de vacaciones perfecta</title>
-    <date>2023</date>
   </programme>
   <programme start="20240817183000 +0000" stop="20240817193000 +0000" channel="!Hola! TV">
     <title lang="en">Casas de ensueño frente al mar</title>
@@ -11552,15 +11267,6 @@
   <programme start="20240818233000 +0000" stop="20240819000000 +0000" channel="!Hola! TV">
     <title lang="en">Coronas y Palacios</title>
     <date>2024</date>
-  </programme>
-  <programme start="20240817170900 +0000" stop="20240817175600 +0000" channel="HGTV">
-    <title lang="en">Casas históricas</title>
-    <sub-title lang="en">El capítulo de las armas escondidas</sub-title>
-    <desc lang="en">Mike, Jen y Rich tienen como objetivo transformar un granero de 1892 en ruinas en una casa. ¡El equipo comienza la renovación al descubrir dos armas antiguas, y puede ser evidencia que podría resolver un caso de 100 años de antigüedad!(n)</desc>
-    <date>2023</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
   </programme>
   <programme start="20240817175600 +0000" stop="20240817184300 +0000" channel="HGTV">
     <title lang="en">Hogares increíbles</title>
@@ -11908,14 +11614,6 @@
     <desc lang="en">Casas increíbles hechas con fábricas, cuarteles de bomberos y mucho más.(n)</desc>
     <date>2022</date>
   </programme>
-  <programme start="20240817172800 +0000" stop="20240817175200 +0000" channel="History LA">
-    <title lang="en">¿Quién da má$?</title>
-    <desc lang="en">En Riverside, el grupo recibe la visita del doctor.(n)</desc>
-    <date>2023</date>
-    <rating system="MPAA">
-      <value>Infantil</value>
-    </rating>
-  </programme>
   <programme start="20240817175200 +0000" stop="20240817184200 +0000" channel="History LA">
     <title lang="en">Proyecto imposible</title>
     <desc lang="en">Descubrimos algunos de los actuales proyectos de ingeniería más impresionantes de los Estados Unidos, donde sobran los ejemplos de cómo la ingeniería puede lograr lo imposible. En este episodio, repasamos impresionantes proyectos como el subte de Los Ángeles, la preservación del Monte Rushmore y la estación de bombeo de Nueva Orleans.(n)</desc>
@@ -12214,19 +11912,6 @@
     <date>2023</date>
     <rating system="MPAA">
       <value>Infantil</value>
-    </rating>
-  </programme>
-  <programme start="20240817163700 +0000" stop="20240817173800 +0000" channel="History 2 MX">
-    <title lang="en">Un año como ningún otro</title>
-    <desc lang="en">En 1981, el príncipe Carlos finalmente encontró a su novia y así comenzó un año de festejos reales en el Reino Unido, que culminó con la boda del siglo. En otras partes del mundo, hubo intentos de asesinato de varios líderes destacados.(n)</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20240817173800 +0000" stop="20240817183200 +0000" channel="History 2 MX">
-    <title lang="en">Bases secretas nazis</title>
-    <desc lang="en">La historia de una estructura que contiene extraños y sospechosos túneles y búnkeres.(n)</desc>
-    <date>2024</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20240817183200 +0000" stop="20240817193200 +0000" channel="History 2 MX">
@@ -12542,11 +12227,6 @@
     <desc lang="en">Carmen descubre que su abuela le ha dejado algo más que una casa como herencia.(n)</desc>
     <date>2021</date>
   </programme>
-  <programme start="20240817161300 +0000" stop="20240817174000 +0000" channel="Golden Plus">
-    <title lang="en">Gnomeo y Julieta</title>
-    <desc lang="en">Gnomeo y Julieta son dos gnomos de cerámica que viven junto a los flamencos de plástico en un jardín tranquilo. Pero cuando los dos son secuestrados a causa de una disputa entre vecinos, tienen que superar un sinfín de obstáculos para recuperar su plácida y romántica existencia.(n)</desc>
-    <date>2011</date>
-  </programme>
   <programme start="20240817174000 +0000" stop="20240817192400 +0000" channel="Golden Plus">
     <title lang="en">Una buena receta</title>
     <desc lang="en">Adam Jones es un exitoso chef que tenía todo y lo pierde por culpa de sus malos hábitos. Ahora, quiere comenzar de nuevo y para lograrlo, necesita lo mejor de lo mejor. Entre su lista de tareas, está la bellísima Helene, quien le dará un giro inesperado a su vida con un nuevo condimento: el amor. Un film divertido, que habla sobre el maravilloso poder de las segundas oportunidades.(n)</desc>
@@ -12639,14 +12319,6 @@
     <title lang="en">El club de madres solteras</title>
     <desc lang="en">Reunidas por un incidente en la escuela de sus hijos, varias madres solteras de diferentes estatus crean un grupo de apoyo que les ayudará a encontrar la diversión en los impedimentos de la vida, así como la fuerza interior para superar los retos...(n)</desc>
     <date>2014</date>
-  </programme>
-  <programme start="20240817154600 +0000" stop="20240817173900 +0000" channel="Golden">
-    <title lang="en">Los Dukes de Hazzard</title>
-    <desc lang="en">Los primos Luke y Bo son los chicos rebeldes en está adaptación de la serie de los 80. Los primos del campo corren en su auto, ayudan en el negocio del alcohol, y dañan los planes de un político local.(n)</desc>
-    <date>2005</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
   </programme>
   <programme start="20240817173900 +0000" stop="20240817194800 +0000" channel="Golden">
     <title lang="en">Sr. y Sra. Smith</title>
@@ -12867,13 +12539,6 @@
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
-  </programme>
-  <programme start="20240817170000 +0000" stop="20240817183000 +0000" channel="Fox Sports 3 MX">
-    <title lang="en">Dtm</title>
-    <sub-title lang="en">Nürburgring, Carrera 1</sub-title>
-    <desc lang="en">(Repeat).(n)</desc>
-    <date>2024</date>
-    <previously-shown />
   </programme>
   <programme start="20240817183000 +0000" stop="20240817190000 +0000" channel="Fox Sports 3 MX">
     <title lang="en">TCR World Tour - Highlights</title>
@@ -13121,12 +12786,6 @@
     <date>2024</date>
     <premiere lang="en" />
   </programme>
-  <programme start="20240817165400 +0000" stop="20240817175400 +0000" channel="Fox Sports MX">
-    <title lang="en">The Ultimate Fighter</title>
-    <desc lang="en">(Repeat).(n)</desc>
-    <date>2024</date>
-    <previously-shown />
-  </programme>
   <programme start="20240817175400 +0000" stop="20240817185400 +0000" channel="Fox Sports MX">
     <title lang="en">WWE Saturday Night</title>
     <desc lang="en">Programa centrado en la lucha libre profesional del WWE. (New).(n)</desc>
@@ -13257,15 +12916,6 @@
     <desc lang="en">New Orleans Saints vs. San Francisco 49ers en segunda semana de pretemporada. Desde Levi's Stadium. (Live).(n)</desc>
     <date>2024</date>
     <premiere lang="en" />
-  </programme>
-  <programme start="20240817140000 +0000" stop="20240817180000 +0000" channel="Foro TV">
-    <title lang="en">Sábados de Foro</title>
-    <desc lang="en">Espacio de televisión informativo del canal mexicano Foro TV. Este programa se presenta cada sábado, a la vanguardia del novedoso estilo "revista"; cuyo objetivo consiste en transmitirle al televidente información cotidiana y entretenimiento, desde un concepto mucho más moderno y atractivo. (New).(n)</desc>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20240817180000 +0000" stop="20240817183000 +0000" channel="Foro TV">
-    <title lang="en">C.V. Directo</title>
-    <desc lang="en">Este espacio de tele ventas ha sido creado con el propósito de aportar soluciones para todas las personas que tengan preguntas sobre salud, pérdida de peso, artículos de novedad y para relajamiento y todos los productos que nos han caracterizado durante muchos años a través de la televisión.(n)</desc>
   </programme>
   <programme start="20240817183000 +0000" stop="20240817190000 +0000" channel="Foro TV">
     <title lang="en">Las noticias</title>
@@ -13481,26 +13131,6 @@
   <programme start="20240818233000 +0000" stop="20240819000000 +0000" channel="Foro TV">
     <title lang="en">C.V. Directo</title>
     <desc lang="en">Este espacio de tele ventas ha sido creado con el propósito de aportar soluciones para todas las personas que tengan preguntas sobre salud, pérdida de peso, artículos de novedad y para relajamiento y todos los productos que nos han caracterizado durante muchos años a través de la televisión.(n)</desc>
-  </programme>
-  <programme start="20240817171300 +0000" stop="20240817173800 +0000" channel="Food Network MX">
-    <title lang="en">Las delicias de la señorita Brown</title>
-    <desc lang="en">El amigo de Kardea Brown llega de Nueva York de visita,.(n)</desc>
-    <date>2020</date>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20240817173800 +0000" stop="20240817180300 +0000" channel="Food Network MX">
-    <title lang="en">Brunch con Bobby Flay</title>
-    <sub-title lang="en">Desayuno en la cama</sub-title>
-    <desc lang="en">Bobby Flay prepara platillos deliciosos para brunch. Las recetas que incluyen en esta ocasion: huevos horneados con prosciutto, tomates caramelizados y crema de parmesano con hierbas, bayas cubiertas de chocolate, mojito de toronja, y latte estilo chai.(n)</desc>
-    <date>2015</date>
-  </programme>
-  <programme start="20240817180300 +0000" stop="20240817182800 +0000" channel="Food Network MX">
-    <title lang="en">Cocinando con Fuego</title>
-    <sub-title lang="en">Envases Pequeños, Sabores Grandes</sub-title>
-    <desc lang="en">Las cosas buenas vienen en envases pequeños y, cuando de comida artesanal se trata, esa regla se cumple.(n)</desc>
-    <date>2014</date>
   </programme>
   <programme start="20240817182800 +0000" stop="20240817191800 +0000" channel="Food Network MX">
     <title lang="en">En la cocina</title>
@@ -13951,20 +13581,6 @@
     <title lang="en">Concierto privado con Daniel Barenboim</title>
     <desc lang="en">Barenboim nos abre las puertas de su casa en Berlín e interpreta el famoso "Geistertrio".(n)</desc>
   </programme>
-  <programme start="20240817165000 +0000" stop="20240817174500 +0000" channel="Europa Europa">
-    <title lang="en">The Mallorca Files</title>
-    <desc lang="en">Max y Miranda se embarcan en una aventura en el salvaje oeste al mundo de la equitación en Rancho del Rey para investigar una estafa con tarjeta de crédito, solo para descubrir una trágica historia que conduce al asesinato. (Repeat).(n)</desc>
-    <date>2022</date>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20240817174500 +0000" stop="20240817180000 +0000" channel="Europa Europa">
-    <title lang="en">Un partido en los confines de la tierra</title>
-    <desc lang="en">La esposa de Luigi falleció.(n)</desc>
-    <date>2023</date>
-  </programme>
   <programme start="20240817180000 +0000" stop="20240817200000 +0000" channel="Europa Europa">
     <title lang="en">Si me amas</title>
     <desc lang="en">Diego, abogado exitoso, sufre de depresión. Pero pronto descubre la solución a sus problemas.(n)</desc>
@@ -14094,16 +13710,6 @@
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
-  </programme>
-  <programme start="20240817173000 +0000" stop="20240817180000 +0000" channel="El Gourmet">
-    <title lang="en">La cocina de los recuerdos</title>
-    <desc lang="en">Sergio Camacho prepara unos romeritos con mole y tortitas de camarón.(n)</desc>
-    <date>2023</date>
-  </programme>
-  <programme start="20240817180000 +0000" stop="20240817183000 +0000" channel="El Gourmet">
-    <title lang="en">Los Petersen en México</title>
-    <desc lang="en">Los Petersen van a Mérida, al mercado de Santiago donde Pedro Evía los introduce en la gastronomía.(n)</desc>
-    <date>2023</date>
   </programme>
   <programme start="20240817183000 +0000" stop="20240817190000 +0000" channel="El Gourmet">
     <title lang="en">Fiestas con sabor mexicano</title>
@@ -14411,13 +14017,6 @@
     <desc lang="en">Enrique presenta la clásica torta ahogada, platillo típico de Guadalajara.(n)</desc>
     <date>2023</date>
   </programme>
-  <programme start="20240817173000 +0000" stop="20240817180000 +0000" channel="El Financiero - Bloomberg MX">
-    <title lang="en">Power Players</title>
-    <date>2024</date>
-    <rating system="MPAA">
-      <value>TV-Y7</value>
-    </rating>
-  </programme>
   <programme start="20240817180000 +0000" stop="20240817190000 +0000" channel="El Financiero - Bloomberg MX">
     <title lang="en">Bloomberg Investigates</title>
     <date>2024</date>
@@ -14660,14 +14259,6 @@
     <date>2024</date>
     <premiere lang="en" />
   </programme>
-  <programme start="20240817170500 +0000" stop="20240817175500 +0000" channel="Distrito Comedia">
-    <title lang="en">El principe del barrio</title>
-    <desc lang="en">Albertano y otros vecinos de Lomas de Chacaltepec buscan el amor, la fama y el dinero.(n)</desc>
-    <date>2023</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20240817175500 +0000" stop="20240817200000 +0000" channel="Distrito Comedia">
     <title lang="en">Vecinos</title>
     <desc lang="en">Los vecinos que viven en un edificio de apartamentos suelen tener muchos problemas cotidianos. Las relaciones entre ellos son muy complicadas, porque todos tienen diferentes maneras de pensar y de ver la vida. Temas como la envidia, la ambición, el egoísmo y la solidaridad afloran todos los días.(n)</desc>
@@ -14843,18 +14434,6 @@
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
-  </programme>
-  <programme start="20240817173000 +0000" stop="20240817180000 +0000" channel="Disney Junior MX">
-    <title lang="en">Mickey Mouse Funhouse</title>
-    <sub-title lang="en">Crystal Clearwater vs. Algas Irritantes / A Grande Aventura de Trolland</sub-title>
-    <desc lang="en">La pandilla necesita de la ayuda de Crystal Clearwater.(n)</desc>
-    <date>2024</date>
-  </programme>
-  <programme start="20240817180000 +0000" stop="20240817183000 +0000" channel="Disney Junior MX">
-    <title lang="en">Equipo de rescate</title>
-    <sub-title lang="en">Rescate con el Abuelo/ Trasnochados</sub-title>
-    <desc lang="en">La familia de Bo celebra el cumpleaños de su abuelo, que viene de visita.(n)</desc>
-    <date>2023</date>
   </programme>
   <programme start="20240817183000 +0000" stop="20240817190000 +0000" channel="Disney Junior MX">
     <title lang="en">Pequeño gran jurado de la cocina</title>
@@ -15574,16 +15153,6 @@
       <value>TV-G</value>
     </rating>
   </programme>
-  <programme start="20240817172400 +0000" stop="20240817174800 +0000" channel="Discovery World MX">
-    <title lang="en">Playas alrededor del mundo</title>
-    <desc lang="en">Una pareja de pediatras de Phoenix quiere cambiar su agitado estilo de vida por un nuevo comienzo en Costa Rica. No tienen miedo de achicarse y esperan encontrar un hogar cerca del mar donde puedan disfrutar de su próximo capítulo saludable y feliz.(n)</desc>
-    <date>2020</date>
-  </programme>
-  <programme start="20240817174800 +0000" stop="20240817181200 +0000" channel="Discovery World MX">
-    <title lang="en">Playas alrededor del mundo</title>
-    <desc lang="en">Una familia de ávidos viajeros de Iowa se está convirtiendo en ciudadanos del mundo, pero Panamá tiene un lugar especial en sus corazones. Escuchar los sonidos de la jungla y el océano todos es lo primero en su lista de deseos.(n)</desc>
-    <date>2020</date>
-  </programme>
   <programme start="20240817181200 +0000" stop="20240817190000 +0000" channel="Discovery World MX">
     <title lang="en">Rincones secretos para nadar</title>
     <desc lang="en">Recorra los sitios naturales más extremos y recluidos ideales para refrescarse.(n)</desc>
@@ -15959,14 +15528,6 @@
       <value>TV-G</value>
     </rating>
   </programme>
-  <programme start="20240817172400 +0000" stop="20240817181200 +0000" channel="Discovery Science MX">
-    <title lang="en">¿Cómo funciona el universo?</title>
-    <desc lang="en">Una nueva misión de la NASA al Sol revela descubrimientos sobre la estrella de la Tierra.(n)</desc>
-    <date>2022</date>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
   <programme start="20240817181200 +0000" stop="20240817190000 +0000" channel="Discovery Science MX">
     <title lang="en">La idea ganadora</title>
     <desc lang="en">El equipo prueba una camisa que cambia de color cuando los músculos entran en calor, un pegamento especial que se seca cuando se le da la orden, un robot que limpia zonas de catástrofe y un producto que podría revolucionar el mundo de las prótesis.(n)</desc>
@@ -16259,14 +15820,6 @@
     <date>2013</date>
     <rating system="MPAA">
       <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20240817172400 +0000" stop="20240817181200 +0000" channel="Discovery Theater MX">
-    <title lang="en">Oro bajo cero</title>
-    <desc lang="en">Los lazos se ponen a prueba y se rompen cuando dos equipos familiares se separan. En el Eroica, Emily lucha por disciplinar a sus buceadores y le sale el tiro por la culata. Pero el desastre se convierte en oportunidad cuando Kris compra una draga.(n)</desc>
-    <date>2015</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
     </rating>
   </programme>
   <programme start="20240817181200 +0000" stop="20240817190000 +0000" channel="Discovery Theater MX">
@@ -16574,22 +16127,6 @@
     <date>2011</date>
     <rating system="MPAA">
       <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20240817172700 +0000" stop="20240817175400 +0000" channel="Discovery Kids MX">
-    <title lang="en">Peppa Pig</title>
-    <desc lang="en">Todos se disfrazan de dinosaurios. A Pedro tiene una fiesta temática de superhéroes.(n)</desc>
-    <date>2023</date>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20240817175400 +0000" stop="20240817182000 +0000" channel="Discovery Kids MX">
-    <title lang="en">Peppa Pig</title>
-    <desc lang="en">Peppa y George representan el aterrizaje de Apolo en la luna.(n)</desc>
-    <date>2022</date>
-    <rating system="MPAA">
-      <value>TV-G</value>
     </rating>
   </programme>
   <programme start="20240817183500 +0000" stop="20240817190100 +0000" channel="Discovery Kids MX">
@@ -17345,14 +16882,6 @@
     <desc lang="en">Tres niños humanos se hacen amigos de jóvenes seres extraterrestres que se encuentran dispersos por todo el universo.(n)</desc>
     <date>2022</date>
   </programme>
-  <programme start="20240817170300 +0000" stop="20240817175000 +0000" channel="Discovery Turbo">
-    <title lang="en">Al estilo Kindig: el entrenamiento</title>
-    <desc lang="en">Dave Kindig convierte los autos de sus clientes en piezas únicas.(n)</desc>
-    <date>2014</date>
-    <rating system="MPAA">
-      <value>Infantil</value>
-    </rating>
-  </programme>
   <programme start="20240817175000 +0000" stop="20240817184200 +0000" channel="Discovery Turbo">
     <title lang="en">Invasión de garajes</title>
     <desc lang="en">Dos Chevy Workhorse bestiales necesitan mucho trabajo para volver a ser lo que alguna vez fueron.(n)</desc>
@@ -17665,12 +17194,6 @@
       <value>Familiar</value>
     </rating>
   </programme>
-  <programme start="20240817170000 +0000" stop="20240817175700 +0000" channel="Investigation Discovery MX">
-    <title lang="en">Atrapados en la red</title>
-    <sub-title lang="en">Monstruo en el bosque</sub-title>
-    <desc lang="en">El trágico asesinato de una niña de 14 años que paseaba a su perro en Armada, Michigan, deja poca evidencia física, lo que obliga a los investigadores a ingresar al mundo digital en busca de pistas virtuales que el asesino no tiene idea que dejó.(n)</desc>
-    <date>2022</date>
-  </programme>
   <programme start="20240817175700 +0000" stop="20240817185400 +0000" channel="Investigation Discovery MX">
     <title lang="en">Desde la escena del crimen</title>
     <sub-title lang="en">Descifrando el caso de Brian</sub-title>
@@ -17882,14 +17405,6 @@
     <title lang="en">El curioso caso de Natalia Grace</title>
     <desc lang="en">Natalia vuelve a la casa de los Barnett mientras se enfrenta al vecino que le dio la espalda.(n)</desc>
     <date>2024</date>
-  </programme>
-  <programme start="20240817165400 +0000" stop="20240817174700 +0000" channel="Discovery Home &amp; Health MX">
-    <title lang="en">La casa del mal</title>
-    <desc lang="en">El día que Robert Foust contempló la posibilidad de asesinar a su propio hijo, Aaron, sabía que era la única forma de evitar que Aaron se convirtiera en un asesino. Pero, decidido ponerse a sí mismo y a su hijo en las manos de Dios.(n)</desc>
-    <date>2016</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
   </programme>
   <programme start="20240817174700 +0000" stop="20240817184000 +0000" channel="Discovery Home &amp; Health MX">
     <title lang="en">La casa del mal</title>
@@ -18163,15 +17678,6 @@
     <date>2024</date>
     <rating system="MPAA">
       <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20240817171700 +0000" stop="20240817181000 +0000" channel="Discovery Channel">
-    <title lang="en">Historias de fantasmas: casas embrujadas</title>
-    <sub-title lang="en">Infierno en Auburn</sub-title>
-    <desc lang="en">El equipo investiga denuncias de actividad paranormal en una granja en el norte de California.(n)</desc>
-    <date>2024</date>
-    <rating system="MPAA">
-      <value>Familiar</value>
     </rating>
   </programme>
   <programme start="20240817181000 +0000" stop="20240817190300 +0000" channel="Discovery Channel">
@@ -18544,11 +18050,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20240817161500 +0000" stop="20240817182000 +0000" channel="Cinecanal MX">
-    <title lang="en">S.O.S.: Familia en apuros</title>
-    <desc lang="en">Artie Decker y su esposa Diane quedan encargados de cuidar a sus nietos durante unos días. Mientras sus padres deben irse de viaje por trabajo. Al principio la idea les entusiasma y están seguros de que la pasarán genial con los niños. Pero pronto se dan cuenta que están demasiado desactualizados. Los chicos se la pasan todo el tiempo usando sus dispositivos tecnológicos y los abuelos intentan convencerlos de hacer juegos tradicionales.(n)</desc>
-    <date>2012</date>
-  </programme>
   <programme start="20240817182000 +0000" stop="20240817202000 +0000" channel="Cinecanal MX">
     <title lang="en">La llave maestra</title>
     <desc lang="en">En lo más profundo de los pantanos y ciénagas del sur de Louisiana existe desde hace muchas generaciones una cultura poco conocida llena de extraños rituales. Para los escépticos, esas prácticas no son más que una colorista superstición, pero para los creyentes que cruzan el umbral oscuro, las fuerzas del bien y del mal son tangibles, poderosas y letales. Porque cuando uno cree, todo lo que teme se hace real. (New).(n)</desc>
@@ -18645,54 +18146,6 @@
     <date>2009</date>
     <rating system="MPAA">
       <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20240817173000 +0000" stop="20240817174000 +0000" channel="Cartoon Network MX">
-    <title lang="en">Drama Total: La guardería</title>
-    <desc lang="en">Cody se enferma, pero de todas formas quiere que los niños y Chef llamen a su planeta natal.(n)</desc>
-    <date>2024</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20240817174000 +0000" stop="20240817175000 +0000" channel="Cartoon Network MX">
-    <title lang="en">Drama Total: La guardería</title>
-    <desc lang="en">Cuando una severa adicción a las pantalla convierte a los niños en holgazanes, Chef trae a una profesional para ponerlos en forma.(n)</desc>
-    <date>2018</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20240817175000 +0000" stop="20240817180000 +0000" channel="Cartoon Network MX">
-    <title lang="en">Drama Total: La guardería</title>
-    <desc lang="en">Courtney está atrapada en un bucle sin fin hasta que un amigo le enseña una lección valiosa.(n)</desc>
-    <date>2020</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20240817180000 +0000" stop="20240817181000 +0000" channel="Cartoon Network MX">
-    <title lang="en">El increíble mundo de Gumball</title>
-    <desc lang="en">Gumball descubre que Boberto está planeando robarle la identidad y reemplazarlo.(n)</desc>
-    <date>2011</date>
-    <rating system="MPAA">
-      <value>TV-Y7</value>
-    </rating>
-  </programme>
-  <programme start="20240817181000 +0000" stop="20240817182000 +0000" channel="Cartoon Network MX">
-    <title lang="en">El increíble mundo de Gumball</title>
-    <desc lang="en">Gumball y Darwin cuidan de Anais responsablemente,mientras muy irresponsablemente inundan la casa.(n)</desc>
-    <date>2011</date>
-    <rating system="MPAA">
-      <value>TV-Y7</value>
-    </rating>
-  </programme>
-  <programme start="20240817182000 +0000" stop="20240817183000 +0000" channel="Cartoon Network MX">
-    <title lang="en">El increíble mundo de Gumball</title>
-    <desc lang="en">Nicole decide a apoyar a su familia para que pongan a prueba todas sus habilidades, y confíen en sus propias posibilidades.Pero Gumball no sabe qué hacer, ya que piensa que no tiene ninguna destreza en especial con algo. Por eso Gumball ya se siente un ganador de antemano.(n)</desc>
-    <date>2012</date>
-    <rating system="MPAA">
-      <value>TV-Y7</value>
     </rating>
   </programme>
   <programme start="20240817183000 +0000" stop="20240817184000 +0000" channel="Cartoon Network MX">
@@ -19758,60 +19211,6 @@
       <value>TV-Y7</value>
     </rating>
   </programme>
-  <programme start="20240817173000 +0000" stop="20240817173600 +0000" channel="Cartoonito MX">
-    <title lang="en">Odo</title>
-    <sub-title lang="en">El Ladrón De Galletas</sub-title>
-    <desc lang="en">Odo es acusado de pellizcar una de las galletas de la Lidel del campamento, ¡pero los búhos son pájaros honestos! Cuando Odo y Doodle usan sus habilidades de detective para atrapar al verdadero ladrón, se llevan una gran sorpresa.(n)</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20240817173600 +0000" stop="20240817174200 +0000" channel="Cartoonito MX">
-    <title lang="en">Odo</title>
-    <sub-title lang="en">Reggie</sub-title>
-    <desc lang="en">Odo trae el mejor espectáculo y se lo cuenta al campamento forestal: un zorro llamado Reggie.(n)</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20240817174200 +0000" stop="20240817174800 +0000" channel="Cartoonito MX">
-    <title lang="en">Odo</title>
-    <sub-title lang="en">La Pijamada</sub-title>
-    <desc lang="en">Odo va a hacer una pijamada. Invita a Doodle y a las demás aves pequeñas y planean quedarse despiertos toda la noche juntos, como búhos reales. Sus padres preparan comida y se divierten jugando.(n)</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20240817174800 +0000" stop="20240817175400 +0000" channel="Cartoonito MX">
-    <title lang="en">Odo</title>
-    <sub-title lang="en">Qué susto</sub-title>
-    <desc lang="en">Primero los campistas encuentran a Odo lindo y divertido, pero Odo quiere ser espeluznante así que, con la ayuda de un tímido ratón, les juega una mala pasada a los campistas que nunca pordrán olvidar.(n)</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20240817175400 +0000" stop="20240817180000 +0000" channel="Cartoonito MX">
-    <title lang="en">Odo</title>
-    <sub-title lang="en">Vida en el estanque</sub-title>
-    <desc lang="en">Los campistas están buscando cosas en el estanque.(n)</desc>
-    <date>2024</date>
-  </programme>
-  <programme start="20240817180000 +0000" stop="20240817181000 +0000" channel="Cartoonito MX">
-    <title lang="en">Thomas and Friends: trenes a todo vapor</title>
-    <sub-title lang="en">Perdidos y encontrados</sub-title>
-    <desc lang="en">El joven Thomas se embarca en aventuras con todos sus amigos, mientras trabajan en la isla de Sodor.(n)</desc>
-    <date>2021</date>
-  </programme>
-  <programme start="20240817181000 +0000" stop="20240817182000 +0000" channel="Cartoonito MX">
-    <title lang="en">Thomas and Friends: trenes a todo vapor</title>
-    <sub-title lang="en">Arreglando el Calíope</sub-title>
-    <desc lang="en">Los trenes hacen entregas de juegos para la Feria de playa de Harwick, algunos errores causan que un preciado Calíope se rompa. Por suerte los trenes tienen una solución muy creativa.(n)</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20240817182000 +0000" stop="20240817183000 +0000" channel="Cartoonito MX">
-    <title lang="en">Thomas and Friends: trenes a todo vapor</title>
-    <desc lang="en">El joven Thomas se embarca en aventuras con todos sus amigos, en la isla de Sodor.(n)</desc>
-  </programme>
-  <programme start="20240817183000 +0000" stop="20240817183600 +0000" channel="Cartoonito MX">
-    <title lang="en">Pocoyo</title>
-    <desc lang="en">Pocoyó celebra una fiesta. Como está mandando a sus amigos, éstos se hartan y se van a jugar a su manera..(n)</desc>
-    <date>2006</date>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
   <programme start="20240817183600 +0000" stop="20240817184200 +0000" channel="Cartoonito MX">
     <title lang="en">Pocoyo</title>
     <sub-title lang="en">Teatro de Marionetas</sub-title>
@@ -20576,22 +19975,6 @@
     <desc lang="en">Lexi accidentalmente rompe el proyecto científico de Bea y deben hacer uno nuevo.(n)</desc>
     <date>2023</date>
   </programme>
-  <programme start="20240817173000 +0000" stop="20240817180000 +0000" channel="Baby TV Latino">
-    <title lang="en">The Jungle Book</title>
-    <desc lang="en">El libro de la selva, Canciones rimas, ¡Ahoy, Piratas!, Que día tan maravilloso, Quédate con Mick.(n)</desc>
-    <date>2023</date>
-    <rating system="MPAA">
-      <value>TV-Y7</value>
-    </rating>
-  </programme>
-  <programme start="20240817180000 +0000" stop="20240817183000 +0000" channel="Baby TV Latino">
-    <title lang="en">Walter y Dude</title>
-    <desc lang="en">Walter y Dude, Tutti Frutti, Canciones rimas, Bienvenidos a la isla, Big Bugs Band.(n)</desc>
-    <date>2023</date>
-    <rating system="MPAA">
-      <value>TV-Y</value>
-    </rating>
-  </programme>
   <programme start="20240817183000 +0000" stop="20240817190000 +0000" channel="Baby TV Latino">
     <title lang="en">La hora del arte, la actividad y la música</title>
     <sub-title lang="en">La clase de Teeny &amp; Tiny, Giggle Wiggle, Rastro de caracol, Canciones &amp; rimas, Cumpleaños feliz</sub-title>
@@ -20942,14 +20325,6 @@
     <desc lang="en">¡Ahoy, Piratas!, Maya &amp; Yaya, Canciones &amp; rimas, Draco, A bailar, Kiku en casa, Canciones &amp; rimas, El parque mágico del abuelo Joe.(n)</desc>
     <date>2022</date>
   </programme>
-  <programme start="20240817170000 +0000" stop="20240817175000 +0000" channel="AXN MX">
-    <title lang="en">C.S.I. Miami</title>
-    <desc lang="en">Delko luchan por su vida después de ser descubierto inconsciente en los Everglades. Mientras tanto, Horatio recuerda cómo su equipo se formó por primera vez hace12 años, mientras trabaja en una investigación por homicidio que involucra a una mujer que recibió un disparo y fue descubierta por Delko en el maletero de un auto.(n)</desc>
-    <date>2009</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20240817175000 +0000" stop="20240817184500 +0000" channel="AXN MX">
     <title lang="en">C.S.I. Miami</title>
     <desc lang="en">El laboratorio es atacado y Jesse Cardoza, el nuevo miembro del CSI, es tomado como rehén junto con otras cuatro personas. Horatio debe cumplir las peticiones del atacante a cambio de la vida de estas personas.(n)</desc>
@@ -21216,12 +20591,6 @@
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
-  </programme>
-  <programme start="20240817172200 +0000" stop="20240817182000 +0000" channel="Animal Planet MX">
-    <title lang="en">Operación Tanzania</title>
-    <sub-title lang="en">Éxito en la costa</sub-title>
-    <desc lang="en">Se descubrió un grupo sospechoso que mata animales en la Reserva Natural de Rungwa. Una vez que el equipo de VETPAW y los guardabosques saquen las armas, no hay vuelta atrás.(n)</desc>
-    <date>2017</date>
   </programme>
   <programme start="20240817182000 +0000" stop="20240817185000 +0000" channel="Animal Planet MX">
     <title lang="en">Cazadores de serpientes</title>
@@ -21602,11 +20971,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20240817173000 +0000" stop="20240817180000 +0000" channel="Al Jazeera (USA)">
-    <title lang="en">Inside Story</title>
-    <date>2024</date>
-    <episode-num system="onscreen">S1 E714</episode-num>
-  </programme>
   <programme start="20240817180000 +0000" stop="20240817190000 +0000" channel="Al Jazeera (USA)">
     <title lang="en">Newshour</title>
   </programme>
@@ -21833,13 +21197,6 @@
   <programme start="20240818233000 +0000" stop="20240819000000 +0000" channel="Al Jazeera (USA)">
     <title lang="en">The Listening Post</title>
     <date>2023</date>
-  </programme>
-  <programme start="20240817171500 +0000" stop="20240817183000 +0000" channel="Adrenalina Sports Network">
-    <title lang="en">Artes marciales mixtas: LUX</title>
-    <sub-title lang="en">Lopes vs. Beltrán</sub-title>
-    <desc lang="en">LUX Fighting League es una liga que busca recabar el talento latino de las MMA en México y Latinoamérica. Cuenta entre sus colaboradores a otras figuras icónicas del MMA de la región latina. (Repeat).(n)</desc>
-    <date>2019</date>
-    <previously-shown />
   </programme>
   <programme start="20240817183000 +0000" stop="20240817220000 +0000" channel="Adrenalina Sports Network">
     <title lang="en">Reto 4 elementos</title>
@@ -22362,14 +21719,6 @@
       <value>13</value>
     </rating>
   </programme>
-  <programme start="20240817160000 +0000" stop="20240817175400 +0000" channel="Sony Channel MX">
-    <title lang="en">Quiero robarme a la novia</title>
-    <desc lang="en">Para Tom (Patrick Dempsey) la vida es maravillosa: es un triunfador, tiene éxito con las mujeres y sabe que siempre podrá confiar en su mejor amiga, la encantadora Hannah (Michelle Monaghan). Todo va bien hasta que Hannah se va seis semanas a Escocia por razones de trabajo; entonces Tom se da cuenta de que sin ella su vida está tan vacía que está decidido a pedirle que se case con él en cuanto vuelva.(n)</desc>
-    <date>2008</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
   <programme start="20240817175400 +0000" stop="20240817200000 +0000" channel="Sony Channel MX">
     <title lang="en">Pasajeros</title>
     <desc lang="en">Un tripulante de una nave espacial se despierta 90 años antes del final del viaje.(n)</desc>
@@ -22810,13 +22159,6 @@
     <title lang="en">Deporte: Será Anunciado</title>
     <date>2021</date>
   </programme>
-  <programme start="20240817162000 +0000" stop="20240817183000 +0000" channel="ESPN LA">
-    <title lang="en">Fútbol italiano: Serie A</title>
-    <sub-title lang="en">Genoa vs. Inter Milan</sub-title>
-    <desc lang="en">Genoa vs. Inter Milan. Desde Stadio Luigi Ferraris. (Live).(n)</desc>
-    <date>2024</date>
-    <premiere lang="en" />
-  </programme>
   <programme start="20240817183000 +0000" stop="20240817204500 +0000" channel="ESPN LA">
     <title lang="en">Fútbol italiano: Serie A</title>
     <sub-title lang="en">AC Milan vs. Torino</sub-title>
@@ -22929,20 +22271,6 @@
   <programme start="20240818230000 +0000" stop="20240819000000 +0000" channel="ESPN LA">
     <title lang="en">Deporte: Será Anunciado</title>
     <date>2021</date>
-  </programme>
-  <programme start="20240817173000 +0000" stop="20240817174500 +0000" channel="Pakapaka">
-    <title lang="en">Neuroqué</title>
-    <desc lang="en">Un tío intenta explicarle a su sobrina cómo funciona el cerebro aplicando ell método científico.(n)</desc>
-    <date>2016</date>
-  </programme>
-  <programme start="20240817174500 +0000" stop="20240817180000 +0000" channel="Pakapaka">
-    <title lang="en">Neuroqué</title>
-    <desc lang="en">Un tío intenta explicarle a su sobrina cómo funciona el cerebro aplicando ell método científico.(n)</desc>
-    <date>2016</date>
-  </programme>
-  <programme start="20240817180000 +0000" stop="20240817183000 +0000" channel="Pakapaka">
-    <title lang="en">Alta noticia</title>
-    <desc lang="en">El noticiero para chic@s de pakapaka. Contamos temas de actualidad para ayudar a entender las problemáticas nacionales e internacionales y temas de interés, siempre con la mirada y perspectiva de los chic@s.(n)</desc>
   </programme>
   <programme start="20240817183000 +0000" stop="20240817190000 +0000" channel="Pakapaka">
     <title lang="en">Laboratorio Superheroes</title>
@@ -23380,20 +22708,6 @@
   <programme start="20240818234500 +0000" stop="20240819000000 +0000" channel="Pakapaka">
     <title lang="en">Juego por deporte</title>
   </programme>
-  <programme start="20240817173000 +0000" stop="20240817180000 +0000" channel="Nu9ve">
-    <title lang="en">Programación pagada</title>
-    <desc lang="en">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.(n)</desc>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20240817180000 +0000" stop="20240817183000 +0000" channel="Nu9ve">
-    <title lang="en">Programación pagada</title>
-    <desc lang="en">Se emitirá programación pagada, el siguiente anuncio es responsabilidad del cliente que lo emite donde se informara de manera detallada y simple sobre las ventajas de adquirir el producto ofrecido. Las promesas y bondades del producto no son aseguradas por este canal.(n)</desc>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20240817183000 +0000" stop="20240817190000 +0000" channel="Nu9ve">
     <title lang="en">C.V. Directo</title>
     <desc lang="en">Este espacio de tele ventas ha sido creado con el propósito de aportar soluciones para todas las personas que tengan preguntas sobre salud, pérdida de peso, artículos de novedad y para relajamiento y todos los productos que nos han caracterizado durante muchos años a través de la televisión.(n)</desc>
@@ -23596,13 +22910,6 @@
     <title lang="en">El Chivo</title>
     <desc lang="en">Un cacique controla a su antojo el pueblo de San Isidro de las Veredas y hace lo que quiere. Sabe que puede moverse con total impunidad y nadie se atreve a enfrentarlo, pues los habitantes del lugar le deben dinero y le temen. El cura, con la ayuda de los tres hermanos Macías, logrará robarle gran parte de su mal habido dinero para devolvérselo a la gente.(n)</desc>
     <date>1992</date>
-  </programme>
-  <programme start="20240817173000 +0000" stop="20240817183000 +0000" channel="Azteca 7">
-    <title lang="en">Smallville</title>
-    <desc lang="en">Un drama sobre la adolescencia de Superman, después de su llegada del espacio a Smallville, Kansas como un niño de tres años de edad, durante una lluvia de meteoro en 1989.(n)</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
   </programme>
   <programme start="20240817183000 +0000" stop="20240817203000 +0000" channel="Azteca 7">
     <title lang="en">Intruso</title>
@@ -24459,10 +23766,6 @@
     <category lang="es">Balonmano</category>
     <icon src="https://www.movistarplus.es/recorte/n/galeria/M2050969H3412774" />
     <country lang="es">Francia</country>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
   </programme>
   <programme start="20240818083000 -0300" stop="20240818091500 -0300" channel="Eurosport 1">
     <title lang="es">Tour de Francia</title>
@@ -24546,7 +23849,7 @@
       <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
     </rating>
     <star-rating system="ES">
-      <value>10.0/10</value>
+      <value>8.0/10</value>
     </star-rating>
   </programme>
   <programme start="20240818143000 -0300" stop="20240818173000 -0300" channel="Eurosport 1">
@@ -24964,10 +24267,6 @@
     <category lang="es">Balonmano</category>
     <icon src="https://www.movistarplus.es/recorte/n/galeria/M2050969H3412774" />
     <country lang="es">Francia</country>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
   </programme>
   <programme start="20240818030000 -0300" stop="20240818040000 -0300" channel="Eurosport 2">
     <title lang="es">Tour de Francia</title>
@@ -25046,7 +24345,7 @@
       <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
     </rating>
     <star-rating system="ES">
-      <value>10.0/10</value>
+      <value>8.0/10</value>
     </star-rating>
   </programme>
   <programme start="20240818083000 -0300" stop="20240818100000 -0300" channel="Eurosport 2">
@@ -25186,10 +24485,6 @@
     <category lang="es">Baloncesto</category>
     <icon src="https://www.movistarplus.es/recorte/n/galeria/M2055084H3413201" />
     <country lang="es">Francia</country>
-    <rating system="ES">
-      <value>TP</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
-    </rating>
     <star-rating system="ES">
       <value>10.0/10</value>
     </star-rating>
@@ -25770,21 +25065,6 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20240817172500 +0000" stop="20240817175000 +0000" channel="Nick Jr.">
-    <title lang="en">Deer Squad</title>
-    <sub-title lang="en">Penguin Panic / Cave Conundrum</sub-title>
-    <desc lang="en">Un barco con un iceberg llega a la orilla, causa estragos en la ciudad y el bosque.(n)</desc>
-    <date>2024</date>
-    <rating system="MPAA">
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20240817175000 +0000" stop="20240817181500 +0000" channel="Nick Jr.">
-    <title lang="en">Patrulla canina</title>
-    <sub-title lang="en">¡Los cachorros salvan al doble de Rubble! / ¡Los cachorros salvan al payaso!</sub-title>
-    <desc lang="en">Rubble sueña que lo llevan a bordo de una nave espacial y se encuentra con su doble extraterrestre / Los cachorros deben salvar a Humdinger cuando se meten en el pequeño auto de Toodles.(n)</desc>
-    <date>2013</date>
-  </programme>
   <programme start="20240817181500 +0000" stop="20240817184500 +0000" channel="Nick Jr.">
     <title lang="en">Patrulla canina</title>
     <sub-title lang="en">¡Los cachorros detienen a Cheetah!</sub-title>
@@ -26268,17 +25548,6 @@
     <desc lang="en">Un pez enmascarado está causando problemas a la obra de Goldie y deben atrapar al culpable.(n)</desc>
     <date>2023</date>
   </programme>
-  <programme start="20240817170000 +0000" stop="20240817180000 +0000" channel="CDN 37">
-    <title lang="en">JG fin de semana</title>
-    <desc lang="en">Noticias e informaciones de actualidad. (Live).(n)</desc>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20240817180000 +0000" stop="20240817183000 +0000" channel="CDN 37">
-    <title lang="en">Bienestar al día</title>
-    <desc lang="en">(Repeat).(n)</desc>
-    <date>2022</date>
-    <previously-shown />
-  </programme>
   <programme start="20240817183000 +0000" stop="20240817190000 +0000" channel="CDN 37">
     <title lang="en">El reportero</title>
     <desc lang="en">Con cámara en mano, los reporteros registran los sucesos de actualidad, los acontecimientos internacionales o las curiosidades de la vida cotidiana. Experimentan y relatan de cerca cómo cambian Alemania, Europa y el mundo ante sus ojos.(n)</desc>
@@ -26474,12 +25743,6 @@
     <desc lang="en">Todos los acontecimientos y noticias del mundo. (New).(n)</desc>
     <premiere lang="en" />
   </programme>
-  <programme start="20240817160000 +0000" stop="20240817180000 +0000" channel="Telemedios Canal 25">
-    <title lang="en">Merengueando</title>
-    <desc lang="en">Espacio dedicado a lo mejor del merengue dominicano, con personajes invitados que mostrarán su talento cantando en vivo y el público podrá apreciar lo mejor de este ritmo caribeño. (Live).(n)</desc>
-    <date>2015</date>
-    <premiere lang="en" />
-  </programme>
   <programme start="20240817180000 +0000" stop="20240817190000 +0000" channel="Telemedios Canal 25">
     <title lang="en">Cocina y más</title>
   </programme>
@@ -26586,11 +25849,6 @@
     <title lang="en">Película</title>
     <desc lang="en">Disfruta de este largometraje que trae para ti entretenimiento y diversión, para que te deleites con la espectacularidad del séptimo arte.(n)</desc>
     <date>2014</date>
-  </programme>
-  <programme start="20240817160000 +0000" stop="20240817180000 +0000" channel="Teleuniverso">
-    <title lang="en">Baby Swing típico</title>
-    <desc lang="en">Un programa centrado en la música típica, sus exponentes y agrupaciones así como las novedades.(n)</desc>
-    <date>2024</date>
   </programme>
   <programme start="20240817180000 +0000" stop="20240817193000 +0000" channel="Teleuniverso">
     <title lang="en">El mega show</title>
@@ -26713,10 +25971,6 @@
   <programme start="20240818220000 +0000" stop="20240819040000 +0000" channel="RTVD">
     <title lang="en">CERTV Canal 4</title>
     <date>2011</date>
-  </programme>
-  <programme start="20240817160000 +0000" stop="20240817180000 +0000" channel="Colorvision">
-    <title lang="en">Aquí se habla español</title>
-    <desc lang="en">Programa de variedades.(n)</desc>
   </programme>
   <programme start="20240817180000 +0000" stop="20240817190000 +0000" channel="Colorvision">
     <title lang="en">Que chévere es saber</title>
@@ -26851,13 +26105,6 @@
     <desc lang="en">Noticias diarias del acontecer nacional. (New).(n)</desc>
     <date>2015</date>
     <premiere lang="en" />
-  </programme>
-  <programme start="20240817170000 +0000" stop="20240817180000 +0000" channel="NY1 Noticias">
-    <title lang="en">Noticias Fin de Semana - Spectrum Noticias NY1</title>
-    <desc lang="en">Importantes noticias, eventos y pronósticos locales para ayudar a los neoyorquinos a aprovechar al máximo los fines de semana.(n)</desc>
-    <category lang="en">News</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p24224920_b_v13_aa.jpg" />
-    <previously-shown />
   </programme>
   <programme start="20240817180000 +0000" stop="20240817190000 +0000" channel="NY1 Noticias">
     <title lang="en">Noticias Fin de Semana - Spectrum Noticias NY1</title>
@@ -27237,51 +26484,6 @@
     <category lang="en">News</category>
     <icon src="https://zap2it.tmsimg.com/assets/p24225000_b_v13_aa.jpg" />
     <previously-shown />
-  </programme>
-  <programme start="20240817170600 +0000" stop="20240817175500 +0000" channel="Aplauso">
-    <title lang="en">Mafiosa</title>
-    <desc lang="en">Sandra Paoli pasa a ser la cabeza de un poderoso clan de la mafia tras el asesinato de su tío. Se convierte en una mujer respetada, pero también odiada, en un mundo de hombres, violencia y muerte.(n)</desc>
-    <credits>
-      <director>Eric Rochant</director>
-      <director>Hugues Pagan</director>
-      <actor role="Sandra Paoli">Hélène Fillières</actor>
-      <actor role="Jean-Michel Paoli">Thierry Neuvic</actor>
-      <actor role="Carmen Paoli">Phareelle Onoyan</actor>
-      <actor role="Tony">Eric Fraticelli</actor>
-      <actor role="Tony">Pierre-Marie Mosconi</actor>
-      <actor role="Toussaint">Jean-Pierre Kalfon</actor>
-      <actor role="Saudade Canarelli">Véronique Volta</actor>
-      <writer>Hugues Pagan</writer>
-    </credits>
-    <category lang="en">Crime drama</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p9543479_e_v9_ab.jpg" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20240817175500 +0000" stop="20240817183600 +0000" channel="Aplauso">
-    <title lang="en">Amor de amores</title>
-    <desc lang="en">Mientras Levars se mueve tras bambalinas, el plan de Claire podría funcionar. Por su parte, Christophe no aprecia ciertas iniciativas y Élise espera obtener la confesión que esperaba.(n)</desc>
-    <credits>
-      <actor role="Claire Estrela">Mélanie Maudran</actor>
-      <actor role="Théo Estrela">Gary Guénaire</actor>
-      <actor role="Victor Estrela">Bertrand Farge</actor>
-      <actor role="Marie Estrela">Gabrielle Lazure</actor>
-      <actor role="Adèle Massat">Lou Bonetti</actor>
-      <actor role="Elizabeth Bastide">Chrystelle Labaude</actor>
-      <actor role="Julien Bastide">Jérémy Banster</actor>
-      <actor role="Alice Bastide">Maëlle Mietton</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <category lang="en">Soap</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p20629035_e_v9_aa.jpg" />
-    <episode-num system="onscreen">S4 E19</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
   </programme>
   <programme start="20240817183600 +0000" stop="20240817191700 +0000" channel="Aplauso">
     <title lang="en">Amor de amores</title>
@@ -28480,22 +27682,6 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20240817173500 +0000" stop="20240817180000 +0000" channel="Comedy Central">
-    <title lang="en">El Rey del Barrio</title>
-    <desc lang="en">Carrie arregla una cita a ciegas entre Spencer y Jenny, una de sus compañeras de trabajo.(n)</desc>
-    <date>2013</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20240817180000 +0000" stop="20240817182000 +0000" channel="Comedy Central">
-    <title lang="en">El Rey del Barrio</title>
-    <desc lang="en">Doug se entera que Carrie tuvo un romance con el novio de su amiga quien se casará con él pronto.(n)</desc>
-    <date>2014</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
   <programme start="20240817182000 +0000" stop="20240817185000 +0000" channel="Comedy Central">
     <title lang="en">El Rey del Barrio</title>
     <desc lang="en">El perro de los nuevos vecinos mantiene despiertos a Doug y Carrie toda la noche.(n)</desc>
@@ -29044,31 +28230,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20240817170000 +0000" stop="20240817180000 +0000" channel="All Arts US">
-    <title lang="en">The Set List</title>
-    <sub-title lang="en">Kavita Shah Quintet at BRIC JazzFest</sub-title>
-    <date>2020</date>
-    <category lang="en">Music</category>
-    <category lang="en">Talk &amp; Interview</category>
-    <category lang="en">Variety Shows</category>
-  </programme>
-  <programme start="20240817180000 +0000" stop="20240817183000 +0000" channel="All Arts US">
-    <title lang="en">On Story</title>
-    <sub-title lang="en">Dan Erickson</sub-title>
-    <desc lang="en">Join the creator of Severance to learn about the inspiration and creative process behind the grounded sci-fi thriller that has enthralled both audiences and critics, including writing an intriguing pilot, creating characters that audiences love, and keeping your viewers on their toes.(n)</desc>
-    <credits>
-      <director>Dean Loxton</director>
-      <director>Samantha Jennings</director>
-      <producer>Barbara Morgan</producer>
-    </credits>
-    <date>2024</date>
-    <category lang="en">Talk &amp; Interview</category>
-    <category lang="en">Arts</category>
-    <episode-num system="onscreen">S13 E22</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
   <programme start="20240817183000 +0000" stop="20240817190000 +0000" channel="All Arts US">
     <title lang="en">Hollywood's Best Film Directors</title>
     <sub-title lang="en">Episode 03</sub-title>
@@ -29410,11 +28571,6 @@
     <sub-title lang="en">Mozart and Dvorak</sub-title>
     <date>2022</date>
   </programme>
-  <programme start="20240817170000 +0000" stop="20240817180000 +0000" channel="Afizzionados">
-    <title lang="en">Fútbol: Liga MX Femenil</title>
-    <desc lang="en">Cobertura de la Liga MX Femenil, la primera división del fútbol femenino de México.(n)</desc>
-    <date>2020</date>
-  </programme>
   <programme start="20240817180000 +0000" stop="20240817200000 +0000" channel="Afizzionados">
     <title lang="en">Fútbol: Liga MX</title>
     <desc lang="en">Cobertura de la Liga MX, la liga del primer nivel del fútbol profesional de México.(n)</desc>
@@ -29660,6 +28816,9 @@
       <value>TP</value>
       <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
     </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
   </programme>
   <programme start="20240817213000 -0300" stop="20240817214500 -0300" channel="DAZN LaLiga">
     <title lang="es">Infiltrados en un ascenso</title>
@@ -29929,16 +29088,6 @@
   </programme>
   <programme start="20240819010000 -0300" stop="20240819060000 -0300" channel="DAZN LaLiga">
     <title lang="es">DAZN LALIGA</title>
-  </programme>
-  <programme start="20240817173000 +0000" stop="20240817180000 +0000" channel="RT (Russia Today)">
-    <title lang="en">RT Reporta</title>
-    <sub-title lang="en">Vudú: analgésico contra la miseria</sub-title>
-    <desc lang="en">Pocos credos tienen peor fama que el vudú: la imagen que de él ofrece el cine, por ejemplo. (Repeat).(n)</desc>
-    <date>2024</date>
-    <previously-shown />
-  </programme>
-  <programme start="20240817180000 +0000" stop="20240817183000 +0000" channel="RT (Russia Today)">
-    <title lang="en">Noticias</title>
   </programme>
   <programme start="20240817183000 +0000" stop="20240817190000 +0000" channel="RT (Russia Today)">
     <title lang="en">Cartas sobre la mesa</title>
@@ -30933,7 +30082,16 @@
       <value>no rating</value>
     </rating>
   </programme>
-  <programme start="20240817090000 +0000" stop="20240817140000 +0000" channel="Vevo 2K">
+  <programme start="20240817090000 +0000" stop="20240817150000 +0000" channel="Vevo 2K">
+    <title lang="en">Vevo 2K</title>
+    <desc lang="en">no info available.(n)</desc>
+    <category lang="en">no info available</category>
+    <icon src="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>no rating</value>
+    </rating>
+  </programme>
+  <programme start="20240817150000 +0000" stop="20240817160000 +0000" channel="Vevo 2K">
     <title lang="en">Vevo 2K</title>
     <desc lang="en">no info available.(n)</desc>
     <category lang="en">no info available</category>
@@ -31297,6 +30455,15 @@
       <value>no rating</value>
     </rating>
   </programme>
+  <programme start="20240817150000 +0000" stop="20240817160000 +0000" channel="Vevo Country">
+    <title lang="en">Vevo Country</title>
+    <desc lang="en">no info available.(n)</desc>
+    <category lang="en">no info available</category>
+    <icon src="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>no rating</value>
+    </rating>
+  </programme>
   <programme start="20240818150000 +0000" stop="20240818160000 +0000" channel="Vevo Country">
     <title lang="en">DSCVR Country</title>
     <desc lang="en">Country's most buzzing new artists.(n)</desc>
@@ -31331,6 +30498,15 @@
       <value>no rating</value>
     </rating>
   </programme>
+  <programme start="20240817150000 +0000" stop="20240817160000 +0000" channel="Vevo R&amp;B">
+    <title lang="en">Vevo R&amp;B</title>
+    <desc lang="en">no info available.(n)</desc>
+    <category lang="en">no info available</category>
+    <icon src="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+    <rating>
+      <value>no rating</value>
+    </rating>
+  </programme>
   <programme start="20240818150000 +0000" stop="20240818160000 +0000" channel="Vevo R&amp;B">
     <title lang="en">DSCVR R&amp;B</title>
     <desc lang="en">Emerging artists that one needs to know about.(n)</desc>
@@ -31345,22 +30521,6 @@
     <icon src="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
     <rating>
       <value>no rating</value>
-    </rating>
-  </programme>
-  <programme start="20240817165500 +0000" stop="20240817174500 +0000" channel="E! Entertainment">
-    <title lang="en">Million Dollar Listing New York</title>
-    <desc lang="en">Un vendedor exige que se retire a un miembro del equipo de Ryan de una venta de 25 millones de dólares en Tribeca.(n)</desc>
-    <date>2016</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20240817174500 +0000" stop="20240817183500 +0000" channel="E! Entertainment">
-    <title lang="en">Million Dollar Listing New York</title>
-    <desc lang="en">A Fredrik y Ryan se les une Steve Gold, un antiguo modelo de moda que se ha convertido en un agente de éxito.(n)</desc>
-    <date>2016</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
     </rating>
   </programme>
   <programme start="20240817183500 +0000" stop="20240817192500 +0000" channel="E! Entertainment">
@@ -31957,20 +31117,6 @@
     <desc lang="en">Maléfica y su ahijada Aurora comienzan a cuestionarse sus lazos familiares. Y descubren que son más los aspectos que las distancian que los que las unen. Así, ambas toman diferentes caminos, que incluirán romances inesperados, aliados impensados y nuevas fuerzas malignas contra quienes deberán pelear.(n)</desc>
     <date>2019</date>
   </programme>
-  <programme start="20240817165500 +0000" stop="20240817174500 +0000" channel="UNIVERSAL REALITY (East)">
-    <title lang="en">Nuestro propio castillo</title>
-    <sub-title lang="en">Pico de verano</sub-title>
-    <desc lang="en">Es el apogeo del verano y el calor está al máximo para Dick y Angel, con el pico de la temporada de eventos, pasteles de boda que se derriten, vacaciones escolares, un lago para navegar y un bote con fugas.(n)</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20240817174500 +0000" stop="20240817183000 +0000" channel="UNIVERSAL REALITY (East)">
-    <title lang="en">Bajo cubierta</title>
-    <desc lang="en">Al Capitán Lee y Kelley se les unen cinco nuevos miembros de la tripulación mientras se preparan para una nueva temporada de navegación.(n)</desc>
-    <date>2013</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20240817183000 +0000" stop="20240817191500 +0000" channel="UNIVERSAL REALITY (East)">
     <title lang="en">Bajo cubierta</title>
     <desc lang="en">Las tensiones continúan creciendo entre Trevor y el resto del equipo de cubierta, Kelley comienza a acercarse a una invitada soltera coqueta y Kate y Ben se confrontan en la cocina.(n)</desc>
@@ -32282,14 +31428,6 @@
     <desc lang="en">Chase alquila la casa para una sesión de fotos.(n)</desc>
     <date>2022</date>
   </programme>
-  <programme start="20240817171500 +0000" stop="20240817180000 +0000" channel="UNIVERSAL CRIME (East)">
-    <title lang="en">A sangre fría</title>
-    <desc lang="en">Lo que comenzó como un matrimonio perfecto se convierte en un trío dudoso. Pronto, uno de ellos termina muerto, pero el asesino que sacudió a este trío no es nadie que los investigadores vieran venir.(n)</desc>
-    <date>2021</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20240817180000 +0000" stop="20240817184500 +0000" channel="UNIVERSAL CRIME (East)">
     <title lang="en">A sangre fría</title>
     <desc lang="en">Una psíquica y su hija adulta son encontradas muertas en extrañas circunstancias, la lista de sospechosos crece.(n)</desc>
@@ -32590,22 +31728,6 @@
     <title lang="en">A Lie to Die For</title>
     <desc lang="en">Un romance de cuento de hadas se convierte en una pesadilla mortal.(n)</desc>
     <date>2024</date>
-  </programme>
-  <programme start="20240817172500 +0000" stop="20240817175000 +0000" channel="UNIVERSAL COMEDY (East)">
-    <title lang="en">Brooklyn Nine-Nine</title>
-    <desc lang="en">Holt es tomado por sorpresa cuando su vieja archienemiga, la subjefa Madeline Wuntch, llega para inspeccionar su comisaría. Jake y Terry ponen a prueba los límites entre los amigos del trabajo y los amigos-amigos mientras investigan un apuñalamiento en un sofisticado bar de chocolatadas.(n)</desc>
-    <date>2014</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20240817175000 +0000" stop="20240817181500 +0000" channel="UNIVERSAL COMEDY (East)">
-    <title lang="en">Brooklyn Nine-Nine</title>
-    <desc lang="en">La brigada tiene que matar el tiempo cuando la caravana de vehículos del presidente serbio se demora en llegar a Brooklyn. Entonces Jake lanza Los Juegos de Jimmy Jab, una serie anual de competencias en la comisaría.(n)</desc>
-    <date>2013</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
   </programme>
   <programme start="20240817181500 +0000" stop="20240817184000 +0000" channel="UNIVERSAL COMEDY (East)">
     <title lang="en">Brooklyn Nine-Nine</title>
@@ -33000,14 +32122,6 @@
     <desc lang="en">Ante una tormenta de nieve masiva que azota a St. Louis y tener que trabajar desde casa de manera incómoda, los empleados de Cloud 9 y los clientes quedan resguardados, elevando las tensiones y las peleas.(n)</desc>
     <date>2019</date>
   </programme>
-  <programme start="20240817164000 +0000" stop="20240817181000 +0000" channel="UNIVERSAL CINEMA (East)">
-    <title lang="en">No respires</title>
-    <desc lang="en">Un grupo de amigos se dedican a cometer robos y lo hacen de manera muy prolija, saliendo intactos de cada atraco. Cuando irrumpen en la casa de un hombre ciego y rico, creen que ejecutarán el robo perfecto. Pero están muy equivocados. Los tres jóvenes delincuentes ven cómo sus planes cambian drásticamente, ya que se encontrarán encerrados en esa vivienda, luchando por sus vidas, que corren peligro a manos del dueño de la vivienda, un verdadero psicópata.(n)</desc>
-    <date>2016</date>
-    <rating system="MPAA">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
   <programme start="20240817181000 +0000" stop="20240817195500 +0000" channel="UNIVERSAL CINEMA (East)">
     <title lang="en">Un plan irresistible</title>
     <desc lang="en">Un muy hábil político y estratega demócrata tiene una misión por delante. Ayudar a un veterano amigo, que se había retirado de sus funciones públicas, a postularse como alcalde en una pequeña ciudad. La cual le depara todo un desafío, pues se trata de un sitio muy conservador, que está perdido en medio oeste norteamericano.(n)</desc>
@@ -33110,11 +32224,6 @@
     <title lang="en">Freaky</title>
     <desc lang="en">Una adolescente cambia de cuerpo con un asesino serial y tiene un día para volver a la normalidad.(n)</desc>
     <date>2020</date>
-  </programme>
-  <programme start="20240817172500 +0000" stop="20240817181000 +0000" channel="UNIVERSAL PREMIERE (East)">
-    <title lang="en">Viajeros del tiempo</title>
-    <desc lang="en">En la Universidad de Princeton en 1955.(n)</desc>
-    <date>2023</date>
   </programme>
   <programme start="20240817181000 +0000" stop="20240817190500 +0000" channel="UNIVERSAL PREMIERE (East)">
     <title lang="en">A Friend of the Family</title>
@@ -33363,11 +32472,6 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20240817154100 +0000" stop="20240817174600 +0000" channel="HBO MUNDI">
-    <title lang="en">La trama</title>
-    <desc lang="en">La última película de Alfred Hitchcock, la cual consiste en una mezcla de secuestro, robo y homicidio con un toque de humor negro.(n)</desc>
-    <date>1976</date>
-  </programme>
   <programme start="20240817174600 +0000" stop="20240817194600 +0000" channel="HBO MUNDI">
     <title lang="en">Frenesí</title>
     <desc lang="en">Esta es la historia sobre un violador asesino en Londres.(n)</desc>
@@ -33593,14 +32697,6 @@
     <title lang="en">Sisu</title>
     <desc lang="en">Despues de que unos nazis le roben su oro, un excomando convertido en escuadron de la muerte hara todo lo posible por recuperarlo.(n)</desc>
     <date>2023</date>
-  </programme>
-  <programme start="20240817165400 +0000" stop="20240817174800 +0000" channel="HBO SIGNATURE">
-    <title lang="en">El negocio</title>
-    <desc lang="en">Mientras Karin realiza un "Focus Group" para descubrir lo que sus clientes realmente quieren, Luna se hace pasar por millonaria para conquistar a Oscar.(n)</desc>
-    <date>2013</date>
-    <rating system="MPAA">
-      <value>TV-MA</value>
-    </rating>
   </programme>
   <programme start="20240817174800 +0000" stop="20240817184200 +0000" channel="HBO SIGNATURE">
     <title lang="en">El negocio</title>
@@ -33872,14 +32968,6 @@
     <desc lang="en">Cuando su hija Angela y su amiga Katherine muestran signos de posesión demoníaca, se desata una cadena de acontecimientos que obligan al padre soltero Victor Fielding a afrontar el punto más bajo del mal. Aterrorizado y desesperado, busca a Chris MacNeil, la única persona viva que ha presenciado algo así antes.(n)</desc>
     <date>2023</date>
   </programme>
-  <programme start="20240817161900 +0000" stop="20240817181500 +0000" channel="HBO POP">
-    <title lang="en">Click: Perdiendo el Control</title>
-    <desc lang="en">Michael Newman es un arquitecto adicto a su trabajo, que prefiere sacrificar el tiempo con su familia, con tal de asegurar un buen futuro. Cierto día, Newman consigue un control remoto universal que le permite jugar con el tiempo; adelantarlo, atrasarlo y viajar a través de él. Sin embargo, todo exceso es malo y termina saliéndose de control.(n)</desc>
-    <date>2006</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20240817181500 +0000" stop="20240817200000 +0000" channel="HBO POP">
     <title lang="en">Como si fuera la primera vez</title>
     <desc lang="en">Henry Roth es un biólogo marino que vive en Hawái y tiene miedo al compromiso; hasta que conoce a Lucy, la mujer de sus sueños. Sin embargo, pronto descubre que Lucy sufre de pérdida de la memoria a corto plazo. Esta condición no es un impedimento para Henry, quien acepta el reto de conquistarla todos los días.(n)</desc>
@@ -33991,11 +33079,6 @@
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
-  </programme>
-  <programme start="20240817170600 +0000" stop="20240817182600 +0000" channel="HBO FAMILY">
-    <title lang="en">¡Scooby-Doo y Krypto también!</title>
-    <desc lang="en">Película de animación protagonizada por Scooby-Doo y Krypto, el perro superhéroe de DC Comics. El film nunca llegó a estrenarse ni anunciarse oficialmente, pero en marzo de 2023 se filtró completo en internet por un 'leaker' anónimo.(n)</desc>
-    <date>2023</date>
   </programme>
   <programme start="20240817182600 +0000" stop="20240817195700 +0000" channel="HBO FAMILY">
     <title lang="en">Momias</title>
@@ -34245,7 +33328,7 @@
     <category lang="en">Drama</category>
     <category lang="en">Action &amp; Adventure</category>
     <category lang="en">Sports</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/14665/014665/014665_1152x864_638254920599176640.jpg" />
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/14606/014606/014606_1030x772_638222925379583365.jpg" />
     <star-rating system="Metacritic">
       <value>4.8/10</value>
     </star-rating>
@@ -34341,7 +33424,7 @@
     <category lang="en">Suspense</category>
     <category lang="en">Action &amp; Adventure</category>
     <category lang="en">Science Fiction</category>
-    <icon src="https://content.internetvideoarchive.com/content/photos/14848/623617_320x240_638369882062558203.jpg" />
+    <icon src="https://content.internetvideoarchive.com/content/photos/15085/633582_320x240_638515633621984683.jpg" />
     <star-rating system="Metacritic">
       <value>7.9/10</value>
     </star-rating>
@@ -34539,7 +33622,7 @@
     <date>2023</date>
     <category lang="en">Action &amp; Adventure</category>
     <category lang="en">Science Fiction</category>
-    <icon src="https://content.internetvideoarchive.com/content/photos/14292/600299_320x240_638065576906386846.jpg" />
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/14583/014583/014583_709x532_638211717891934923.jpg" />
     <star-rating system="Metacritic">
       <value>8.6/10</value>
     </star-rating>
@@ -34583,7 +33666,7 @@
     <category lang="en">Comedy</category>
     <category lang="en">Action &amp; Adventure</category>
     <category lang="en">Science Fiction</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/14823/014823/014823_820x615_638354936159085882.jpg" />
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/14975/014975/014975_1410x793_638449072754435634.jpg" />
     <star-rating system="Metacritic">
       <value>4.6/10</value>
     </star-rating>
@@ -34737,14 +33820,6 @@
     <desc lang="en">Bajo la dirección de Pierre Lacotte, el Ballet de la Ópera de París presenta esta nueva versión del ballet del siglo XIX en que una joven gitana y el hijo de un general se enamoran y se enfrentan con el jefe de los gitanos, quien también está enamorado de ella.(n)</desc>
     <date>2024</date>
   </programme>
-  <programme start="20240817163100 +0000" stop="20240817181100 +0000" channel="Golden Edge">
-    <title lang="en">Bus 657 - El escape del siglo</title>
-    <desc lang="en">Lucas Vaughn es un padre divorciado cuya hija padece de una enfermedad grave. Desesperado por encontrar dinero para costear su tratamiento médico, Lucas pone en marcha un atraco al dueño de un casino, junto a su compañero de trabajo. Sin embargo, los planes no resultan como ambos esperaban, por lo que se ven obligados a secuestrar un autobús.(n)</desc>
-    <date>2015</date>
-    <rating system="MPAA">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
   <programme start="20240817181100 +0000" stop="20240817200200 +0000" channel="Golden Edge">
     <title lang="en">Daredevil</title>
     <desc lang="en">Ben Affleck y Jennifer Garner son un dúo fabuloso en esta adaptación sexy de la tira cómica de Marvel. Affleck da vida al abogado ciego, convertido en superhéroe que lucha contra los villanos Kingpin y sus secuaces para vengar la muerte de su padre.(n)</desc>
@@ -34848,15 +33923,6 @@
     <title lang="en">A Good Man</title>
     <desc lang="en">Después de que su prestigiosa carrera termina en desastre, Alexander se retira y tata de llevar una vida tranquila realizando tareas de mantenimiento en un complejo de apartamentos. Sin embargo, cuando una de las vecinas y su familia sufren la opresión de un mafioso ruso, Alexander se ve en medio de una guerra sin cuartel entre bandas rivales de chinos y rusos.(n)</desc>
     <date>2014</date>
-  </programme>
-  <programme start="20240817170000 +0000" stop="20240817175000 +0000" channel="UNIVERSAL TV">
-    <title lang="en">Chicago Med</title>
-    <desc lang="en">El Dr. Ripley y el Dr. Charles tratan a un paciente con TOC (trastorno obsesivo compulsivo). (Repeat).(n)</desc>
-    <date>2024</date>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
   </programme>
   <programme start="20240817175000 +0000" stop="20240817184000 +0000" channel="UNIVERSAL TV">
     <title lang="en">Chicago Fire</title>
@@ -35129,14 +34195,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20240817162500 +0000" stop="20240817181000 +0000" channel="Sony Movies">
-    <title lang="en">Mi Abuela Es un Peligro</title>
-    <desc lang="en">Martin Lawrence protagoniza esta comedia acerca de un agente del FBI y maestro de disfraces que se embarca en su misión más difícil hasta ahora---la investigación del robo de un banco, disfrazado de una abuela obesa en el estado de Georgia.(n)</desc>
-    <date>2000</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20240817181000 +0000" stop="20240817195000 +0000" channel="Sony Movies">
     <title lang="en">La guardería de papá</title>
     <desc lang="en">Dos estrellas veteranas del mundo de la comedia y televisión, Eddie Murphy y Jeff Garlin, protagonizan esta divertida comedia para toda la familia, sobre dos ejecutivos que pierden sus trabajos y deciden poner su propia guardería.(n)</desc>
@@ -35371,11 +34429,6 @@
     <title lang="en">Zapatos Rojos Y Los Siete Enanos</title>
     <desc lang="en">Una joven se transforma en una preciosa princesa luego de ponerse unos zapatos mágicos. Después de vivir la magia, se encuentra con siete enanos, quienes necesitan el beso de una linda mujer para romper un hechizo. Así, el camino y el destino de ella y las pequeñas criaturas se cruzan, y entre todos comprenderán el verdadero significado de la belleza.(n)</desc>
     <date>2020</date>
-  </programme>
-  <programme start="20240817173000 +0000" stop="20240817180000 +0000" channel="Curiosity Stream">
-    <title lang="en">Sondas espaciales</title>
-    <desc lang="en">Imágenes de Saturno, una tormenta polar masiva de 6 lados y 62 lunas, incluidos los mundos más extraños de nuestro Sistema Solar, vimos todo gracias a Cassini.(n)</desc>
-    <date>2022</date>
   </programme>
   <programme start="20240817180000 +0000" stop="20240817190000 +0000" channel="Curiosity Stream">
     <title lang="en">Descifrando el código genético</title>
@@ -35673,22 +34726,6 @@
     <title lang="en">Cara a cara</title>
     <desc lang="en">Un combate entre dos inventos. Dos armas mortales. Se encuentran cara a cara en oficinas y mercados, pero no en el campo de batalla.(n)</desc>
     <date>2020</date>
-  </programme>
-  <programme start="20240817172500 +0000" stop="20240817175000 +0000" channel="Dreamworks">
-    <title lang="en">Trolls: ¡No pierdas el ritmo!</title>
-    <desc lang="en">Ramón celebra un suceso importante, con algunas sorpresas inesperadas. ¡Comienza el Campeonato de Tiro al Blanco con Rebote Ball! ¿La mala suerte hará su parte? Únete a Poppy, Branch y al resto de los habitantes de Villa Troll y ayúdales a celebrar una fiesta interminable en su fantástico hogar del bosque.(n)</desc>
-    <date>2019</date>
-    <rating system="MPAA">
-      <value>TV-Y7</value>
-    </rating>
-  </programme>
-  <programme start="20240817175000 +0000" stop="20240817181500 +0000" channel="Dreamworks">
-    <title lang="en">La Escuela del Terror de Casper</title>
-    <desc lang="en">Los estudiantes se preparan para montar una obra de teatro, pero Dummy Girl no desapareció.(n)</desc>
-    <date>2021</date>
-    <rating system="MPAA">
-      <value>TV-Y7</value>
-    </rating>
   </programme>
   <programme start="20240817181500 +0000" stop="20240817184000 +0000" channel="Dreamworks">
     <title lang="en">Viva el rey Julien</title>
@@ -36144,39 +35181,6 @@
     <date>2015</date>
     <rating system="MPAA">
       <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20240817173000 +0000" stop="20240817180000 +0000" channel="Hogar HGTV">
-    <title lang="en">Nuestro hogar en Hawái</title>
-    <sub-title lang="en">Un pedazo de paraíso en Isla Grande</sub-title>
-    <desc lang="en">Una pareja de Seattle busca casa en la isla Grande de Hawái. Quieren que la vivienda tenga una piscina y un jardín amplio.(n)</desc>
-    <credits>
-      <commentator>Matt Beall</commentator>
-      <commentator>Kahea Zeitz</commentator>
-    </credits>
-    <category lang="en">House/garden</category>
-    <category lang="en">Reality</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p16088134_e_v9_aa.jpg" />
-    <episode-num system="onscreen">S12 E9</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20240817180000 +0000" stop="20240817183000 +0000" channel="Hogar HGTV">
-    <title lang="en">Nuestro hogar en la isla</title>
-    <sub-title lang="en">Subiendo de nivel en isla Hilton Head</sub-title>
-    <desc lang="en">Un pareja con tres hijos y un perro busca mejorar su casa en Hilton Head Island, en Carolina del Norte. Él desea ampliar la casa, mientras que ella desea una casa con ambientes abiertos y vista al mar.(n)</desc>
-    <credits>
-      <commentator>Lannon Killea</commentator>
-    </credits>
-    <category lang="en">House/garden</category>
-    <category lang="en">Reality</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p17031594_e_v9_aa.jpg" />
-    <episode-num system="onscreen">S17 E5</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-G</value>
     </rating>
   </programme>
   <programme start="20240817183000 +0000" stop="20240817190000 +0000" channel="Hogar HGTV">
@@ -38573,11 +37577,6 @@
   <programme start="20240818225000 +0000" stop="20240819004000 +0000" channel="A3Cine!">
     <title lang="es">El Penalti Más Largo Del Mundo</title>
     <icon src="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2020/02/18/F2C8FE77-D93B-459D-9A68-4A8980323640//295x166.jpg" />
-  </programme>
-  <programme start="20240817173000 +0000" stop="20240817180000 +0000" channel="Telehit Musica">
-    <title lang="en">Playlist Telehit Urbano Media</title>
-    <desc lang="en">Disfruta de la playlist que propone Telehit para bailar al ritmo de lo mejor del urbano. (Repeat).(n)</desc>
-    <previously-shown />
   </programme>
   <programme start="20240817180000 +0000" stop="20240817185500 +0000" channel="Telehit Musica">
     <title lang="en">Mixología</title>
