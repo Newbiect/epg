@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-STREAM-INF:BANDWIDTH=4500000,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1920x1080
+https://unidfp-nlds156.global.ssl.fastly.net/nlds/univisionnow/univision_ny/as/live/univision_ny_hd_4500_pc.m3u8?t1=test_token
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=1280x720
+https://unidfp-nlds156.global.ssl.fastly.net/nlds/univisionnow/univision_ny/as/live/univision_ny_hd_3000_pc.m3u8?t1=test_token
+#EXT-X-STREAM-INF:BANDWIDTH=1600000,CODECS="avc1.4d401e,mp4a.40.2",RESOLUTION=854x480
+https://unidfp-nlds156.global.ssl.fastly.net/nlds/univisionnow/univision_ny/as/live/univision_ny_hd_1600_pc.m3u8?t1=test_token
+#EXT-X-STREAM-INF:BANDWIDTH=1200000,CODECS="avc1.4d401e,mp4a.40.2",RESOLUTION=640x360
+https://unidfp-nlds156.global.ssl.fastly.net/nlds/univisionnow/univision_ny/as/live/univision_ny_hd_1200_pc.m3u8?t1=test_token
+#EXT-X-STREAM-INF:BANDWIDTH=800000,CODECS="avc1.4d4015,mp4a.40.2",RESOLUTION=426x240
+https://unidfp-nlds156.global.ssl.fastly.net/nlds/univisionnow/univision_ny/as/live/univision_ny_hd_800_pc.m3u8?t1=test_token
+#EXT-X-STREAM-INF:BANDWIDTH=400000,CODECS="avc1.42c015,mp4a.40.2",RESOLUTION=256x144
+https://unidfp-nlds156.global.ssl.fastly.net/nlds/univisionnow/univision_ny/as/live/univision_ny_hd_400_pc.m3u8?t1=test_token
