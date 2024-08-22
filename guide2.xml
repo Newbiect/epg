@@ -395,14 +395,6 @@
     <icon src="https://zap2it.tmsimg.com/h3/NowShowing/65720/s65720_h3_aa.png" />
     <url>http://www.zap2it.com</url>
   </channel>
-  <programme start="20240822013000 +0000" stop="20240822023000 +0000" channel="IVC Networks">
-    <title lang="en">Survivor One World</title>
-    <desc lang="en">Una concursante recibe críticas por su apariencia. Miembros de la tribu Tikiano están inseguros.(n)</desc>
-    <date>2024</date>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
   <programme start="20240822023000 +0000" stop="20240822033000 +0000" channel="IVC Networks">
     <title lang="en">Shark tank</title>
     <date>2024</date>
@@ -631,13 +623,6 @@
     <title lang="en">A confirmar</title>
     <desc lang="en">¡El evento televisivo imperdible está lleno de tiburones!(n)</desc>
   </programme>
-  <programme start="20240822000000 +0000" stop="20240822023000 +0000" channel="ESPN (VE)">
-    <title lang="en">Fútbol: Conmebol Libertadores</title>
-    <sub-title lang="en">River Plate vs. Talleres Córdoba</sub-title>
-    <desc lang="en">Partido vuelta en Octavos de final River Plate vs. Talleres Córdoba. (Live).(n)</desc>
-    <date>2024</date>
-    <premiere lang="en" />
-  </programme>
   <programme start="20240822023000 +0000" stop="20240822040000 +0000" channel="ESPN (VE)">
     <title lang="en">ESPN F90</title>
     <desc lang="en">Un espacio que cuenta con toda la información y destacados sobre el fútbol argentino e internacional. (Live).(n)</desc>
@@ -804,13 +789,6 @@
     <title lang="en">ESPN F360</title>
     <desc lang="en">Un espacio con lo mejor de la actualidad del fútbol argentino y del exterior. (Live).(n)</desc>
     <date>2020</date>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20240822001500 +0000" stop="20240822022500 +0000" channel="ESPN 2 (VE)">
-    <title lang="en">Fútbol: Conmebol Sudamericana</title>
-    <sub-title lang="en">Lanús vs. LDU Quito</sub-title>
-    <desc lang="en">Octavos de Final Vuelta Lanús vs. LDU Quito. (Live).(n)</desc>
-    <date>2024</date>
     <premiere lang="en" />
   </programme>
   <programme start="20240822022500 +0000" stop="20240822033000 +0000" channel="ESPN 2 (VE)">
@@ -1087,31 +1065,6 @@
     <desc lang="en">Lo mejor de la carrera de motos más importante aprobada por la Federación Internacional de Motociclismo que se divide las categorías: MotoGP, Moto2 y Moto3.(n)</desc>
     <date>2021</date>
   </programme>
-  <programme start="20240822000000 +0000" stop="20240822003000 +0000" channel="ESPN 4 (VE)">
-    <title lang="en">ESPN + Latin America HDTV</title>
-    <date>2018</date>
-  </programme>
-  <programme start="20240822003000 +0000" stop="20240822010000 +0000" channel="ESPN 4 (VE)">
-    <title lang="en">ESPN + Latin America HDTV</title>
-    <date>2018</date>
-  </programme>
-  <programme start="20240822010000 +0000" stop="20240822013000 +0000" channel="ESPN 4 (VE)">
-    <title lang="en">La Liga World</title>
-    <desc lang="en">Actualidad de la LaLiga, la primera división del fútbol de España, con resúmenes y entrevistas.(n)</desc>
-    <date>2020</date>
-  </programme>
-  <programme start="20240822013000 +0000" stop="20240822020000 +0000" channel="ESPN 4 (VE)">
-    <title lang="en">ESPN + Latin America HDTV</title>
-    <date>2018</date>
-  </programme>
-  <programme start="20240822020000 +0000" stop="20240822023000 +0000" channel="ESPN 4 (VE)">
-    <title lang="en">ESPN + Latin America HDTV</title>
-    <date>2018</date>
-  </programme>
-  <programme start="20240822023000 +0000" stop="20240822030000 +0000" channel="ESPN 4 (VE)">
-    <title lang="en">ESPN + Latin America HDTV</title>
-    <date>2018</date>
-  </programme>
   <programme start="20240822030000 +0000" stop="20240822033000 +0000" channel="ESPN 4 (VE)">
     <title lang="en">ESPN + Latin America HDTV</title>
     <date>2018</date>
@@ -1331,30 +1284,6 @@
   <programme start="20240823210000 +0000" stop="20240824050000 +0000" channel="ESPN 4 (VE)">
     <title lang="en">Deporte: Será Anunciado</title>
     <date>2021</date>
-  </programme>
-  <programme start="20240822000000 +0000" stop="20240822005500 +0000" channel="ESPN 5 (VE)">
-    <title lang="en">WWE NXT</title>
-    <desc lang="en">En este programa debutan nuevos talentos y se dan a conocer las nuevas estrellas de la WWE, provenientes de la Florida Championship Wrestling (FCW), llamados rookies o novatos, para debutar, un luchador profesional o Pro les ayuda a destacar en el difícil camino a la fama.(n)</desc>
-  </programme>
-  <programme start="20240822005500 +0000" stop="20240822012000 +0000" channel="ESPN 5 (VE)">
-    <title lang="en">Fox Sports</title>
-    <desc lang="en">FOX Sports creada con marcas capaces de llegar a más de 100 millones de espectadores en un solo fin de semana,posee cobertura total y exclusiva de todas las competencias deportivas que se desarrollan a nivel mundial durante todo el año, estadísticas, marcadores y entrevistas a personajes importantes del deporte actual.(n)</desc>
-  </programme>
-  <programme start="20240822012000 +0000" stop="20240822015000 +0000" channel="ESPN 5 (VE)">
-    <title lang="en">Fox Sports</title>
-    <desc lang="en">FOX Sports creada con marcas capaces de llegar a más de 100 millones de espectadores en un solo fin de semana,posee cobertura total y exclusiva de todas las competencias deportivas que se desarrollan a nivel mundial durante todo el año, estadísticas, marcadores y entrevistas a personajes importantes del deporte actual.(n)</desc>
-  </programme>
-  <programme start="20240822015000 +0000" stop="20240822022000 +0000" channel="ESPN 5 (VE)">
-    <title lang="en">Fox Sports</title>
-    <desc lang="en">FOX Sports creada con marcas capaces de llegar a más de 100 millones de espectadores en un solo fin de semana,posee cobertura total y exclusiva de todas las competencias deportivas que se desarrollan a nivel mundial durante todo el año, estadísticas, marcadores y entrevistas a personajes importantes del deporte actual.(n)</desc>
-  </programme>
-  <programme start="20240822022000 +0000" stop="20240822025000 +0000" channel="ESPN 5 (VE)">
-    <title lang="en">Fox Sports</title>
-    <desc lang="en">FOX Sports creada con marcas capaces de llegar a más de 100 millones de espectadores en un solo fin de semana,posee cobertura total y exclusiva de todas las competencias deportivas que se desarrollan a nivel mundial durante todo el año, estadísticas, marcadores y entrevistas a personajes importantes del deporte actual.(n)</desc>
-  </programme>
-  <programme start="20240822025000 +0000" stop="20240822030000 +0000" channel="ESPN 5 (VE)">
-    <title lang="en">Fox Sports</title>
-    <desc lang="en">FOX Sports creada con marcas capaces de llegar a más de 100 millones de espectadores en un solo fin de semana,posee cobertura total y exclusiva de todas las competencias deportivas que se desarrollan a nivel mundial durante todo el año, estadísticas, marcadores y entrevistas a personajes importantes del deporte actual.(n)</desc>
   </programme>
   <programme start="20240822030000 +0000" stop="20240822040000 +0000" channel="ESPN 5 (VE)">
     <title lang="en">SportsCenter</title>
@@ -1692,25 +1621,6 @@
     <title lang="en">Fox Sports</title>
     <desc lang="en">FOX Sports creada con marcas capaces de llegar a más de 100 millones de espectadores en un solo fin de semana,posee cobertura total y exclusiva de todas las competencias deportivas que se desarrollan a nivel mundial durante todo el año, estadísticas, marcadores y entrevistas a personajes importantes del deporte actual.(n)</desc>
   </programme>
-  <programme start="20240822000000 +0000" stop="20240822003000 +0000" channel="ESPN 6 (VE)">
-    <title lang="en">GP Confidential</title>
-    <desc lang="en">Actualidad de la Fórmula 1 con entrevistas, detalles técnicos y pilotos que han hecho historia. (New).(n)</desc>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20240822003000 +0000" stop="20240822013000 +0000" channel="ESPN 6 (VE)">
-    <title lang="en">El Show de la Fórmula 1</title>
-    <desc lang="en">Visión de los más destacado eventos de la máxima categoría del automovilismo a nivel mundial. Con un enfoque especializado e interactivo, aquí encontrarás el resumen que necesitas para estar al tanto de los mejores datos relacionados con la Fórmula 1. (Repeat).(n)</desc>
-    <previously-shown />
-  </programme>
-  <programme start="20240822013000 +0000" stop="20240822020000 +0000" channel="ESPN 6 (VE)">
-    <title lang="en">Fox Sports 3</title>
-    <desc lang="en">Sigue todos los pormenores de tus deportes favoritos.(n)</desc>
-    <date>2020</date>
-  </programme>
-  <programme start="20240822020000 +0000" stop="20240822023000 +0000" channel="ESPN 6 (VE)">
-    <title lang="en">Deporte: Será Anunciado</title>
-    <date>2021</date>
-  </programme>
   <programme start="20240822023000 +0000" stop="20240822033000 +0000" channel="ESPN 6 (VE)">
     <title lang="en">El Show de la Fórmula 1</title>
     <desc lang="en">Visión de los más destacado eventos de la máxima categoría del automovilismo a nivel mundial. Con un enfoque especializado e interactivo, aquí encontrarás el resumen que necesitas para estar al tanto de los mejores datos relacionados con la Fórmula 1. (Repeat).(n)</desc>
@@ -2025,13 +1935,6 @@
     <title lang="en">Deporte: Será Anunciado</title>
     <date>2021</date>
   </programme>
-  <programme start="20240822000000 +0000" stop="20240822030000 +0000" channel="ESPN 7 (VE)">
-    <title lang="en">WWE Raw</title>
-    <desc lang="en">Adrenalina y acción con las estrellas de la lucha libre del mundo WWE (World Wrestling Entertainment), es el programa de WWE con más emisiones de forma ininterrumpida de la historia. A lo largo de los años el programa ha realizado capítulos especiales con distintas temáticas, tales como el WWE Draft, la presentación de los Slammy Awards, o el tributo a luchadores que han fallecido o se han retirado.(n)</desc>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20240822030000 +0000" stop="20240822033000 +0000" channel="ESPN 7 (VE)">
     <title lang="en">Fox Sports 2 (Cono Sur)</title>
     <date>2020</date>
@@ -2300,23 +2203,6 @@
   <programme start="20240823230000 +0000" stop="20240824000000 +0000" channel="ESPN 7 (VE)">
     <title lang="en">WWE Raw Highlights</title>
     <desc lang="en">Lo más destacado de el Monday Night Raw de la WWE. Este programa especializado te mantendrá informado sobre las más recientes luchas de la WWE, de la mano de un análisis detallado de los sucesos ocurridos en la arena de combate de la lucha libre profesional.(n)</desc>
-  </programme>
-  <programme start="20240822000000 +0000" stop="20240822010000 +0000" channel="Venevisión">
-    <title lang="en">¿Vieja Yo?</title>
-    <desc lang="en">Una señora mayor intenta cumplir todos sus sueños a pesar de su edad.(n)</desc>
-    <date>2008</date>
-  </programme>
-  <programme start="20240822010000 +0000" stop="20240822020000 +0000" channel="Venevisión">
-    <title lang="en">Amor prohibido</title>
-    <desc lang="en">Bihter Yöreoğlu es una joven hermosa que lleva una vida de lujos. Odia a su madre, la codiciosa Fatma Yöreoglu, por haberle causado la muerte a su querido padre. En sus visitas al cementerio, Bihter nota el interés del viudo millonario Adnan Ziyagil en ella. Fatma intentará conquistar a Adnan para su beneficio, pero Bihter no desea que su madre se salga con la suya, así que acepta la propuesta de matrimonio que le hizo Adnan y así poder arruinar los planes de su madre.(n)</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20240822020000 +0000" stop="20240822030000 +0000" channel="Venevisión">
-    <title lang="en">Moisés y los 10 mandamientos</title>
-    <desc lang="en">Narra la vida de Moisés como nunca antes la vimos. Él y Ramsés fueron criados como hermanos en Egipto, pero el destino los enfrentará por el amor de Nefertari, y los transformará en los peores enemigos cuando Moisés, ordenado por Dios, decida liberar a los hebreos del yugo egipcio.(n)</desc>
-    <date>2016</date>
   </programme>
   <programme start="20240822030000 +0000" stop="20240822040000 +0000" channel="Venevisión">
     <title lang="en">Noticiero venevisión emisión estelar</title>
@@ -2612,20 +2498,6 @@
       <value>TVPG</value>
     </rating>
   </programme>
-  <programme start="20240822000000 +0000" stop="20240822003000 +0000" channel="En Televisión">
-    <title lang="en">Más que Noticias</title>
-    <desc lang="en">Noticias e informaciones de interés.(n)</desc>
-  </programme>
-  <programme start="20240822003000 +0000" stop="20240822020000 +0000" channel="En Televisión">
-    <title lang="en">Programación ENTV</title>
-    <date>2024</date>
-  </programme>
-  <programme start="20240822020000 +0000" stop="20240822030000 +0000" channel="En Televisión">
-    <title lang="en">ACD media noticias</title>
-    <desc lang="en">Manténgase informado sobre todo el acontecer loca el internacional. (Live).(n)</desc>
-    <date>2024</date>
-    <premiere lang="en" />
-  </programme>
   <programme start="20240822030000 +0000" stop="20240822040000 +0000" channel="En Televisión">
     <title lang="en">El Punto</title>
     <desc lang="en">Con su equipo de corresponsales distribuidos de una punta a la otra de Canadá y por los cuatro rincones del mundo, el magacín LE POINT ofrece un contacto directo con los acontecimientos en cualquier parte que se produzcan. Un testimonio verdadero...(n)</desc>
@@ -2783,24 +2655,6 @@
     <desc lang="en">Manténgase informado sobre todo el acontecer loca el internacional. (Live).(n)</desc>
     <date>2024</date>
     <premiere lang="en" />
-  </programme>
-  <programme start="20240822000000 +0000" stop="20240822010000 +0000" channel="Ve Plus">
-    <title lang="en">¿Quién tiene la razón?</title>
-    <desc lang="en">Se escuchan los problemas de las partes en conflicto para decidir quién tiene la razón.(n)</desc>
-    <date>2013</date>
-  </programme>
-  <programme start="20240822010000 +0000" stop="20240822020000 +0000" channel="Ve Plus">
-    <title lang="en">Casos de familia</title>
-    <desc lang="en">Un foro para hablar de la familia.(n)</desc>
-    <date>2004</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20240822020000 +0000" stop="20240822030000 +0000" channel="Ve Plus">
-    <title lang="en">Necesito una amiga</title>
-    <desc lang="en">"Necesito una Amiga" es un programa diferente y único.(n)</desc>
-    <date>2012</date>
   </programme>
   <programme start="20240822030000 +0000" stop="20240822040000 +0000" channel="Ve Plus">
     <title lang="en">Doctor familia</title>
@@ -3061,19 +2915,6 @@
     <title lang="en">Aunque Mal Paguen</title>
     <desc lang="en">Las vidas entrelazadas de los habitantes del pueblo El Guayabo.(n)</desc>
     <date>2007</date>
-  </programme>
-  <programme start="20240822000000 +0000" stop="20240822010000 +0000" channel="Telesistema">
-    <title lang="en">Piezas rotas</title>
-    <desc lang="en">Programa de entretenimiento.(n)</desc>
-    <date>2018</date>
-  </programme>
-  <programme start="20240822010000 +0000" stop="20240822020000 +0000" channel="Telesistema">
-    <title lang="en">Corazones heridos</title>
-    <desc lang="en">Ferit Sancakzade es el preciado heredero de una de las familias bien establecidas de Antakya. Ayse,.(n)</desc>
-  </programme>
-  <programme start="20240822020000 +0000" stop="20240822030000 +0000" channel="Telesistema">
-    <title lang="en">Telenoticias emisión estelar</title>
-    <desc lang="en">Las últimas noticias nacionales e internacionales de la mano de Roberto Cavada.(n)</desc>
   </programme>
   <programme start="20240822030000 +0000" stop="20240822040000 +0000" channel="Telesistema">
     <title lang="en">Enemigo íntimo</title>
@@ -3458,16 +3299,6 @@
     <title lang="en">NEXXO TV</title>
     <date>2016</date>
   </programme>
-  <programme start="20240822000000 +0000" stop="20240822010000 +0000" channel="Antena 21">
-    <title lang="en">Bandolera</title>
-    <desc lang="en">Una estudiante se enamora de un teniente en Andalucía del siglo XIX.(n)</desc>
-    <date>2011</date>
-  </programme>
-  <programme start="20240822010000 +0000" stop="20240822020000 +0000" channel="Antena 21">
-    <title lang="en">Águila Roja</title>
-    <desc lang="en">Historia de época en la que un hombre lleva una doble vida en nombre de la justicia.(n)</desc>
-    <date>2009</date>
-  </programme>
   <programme start="20240822020000 +0000" stop="20240822040000 +0000" channel="Antena 21">
     <title lang="en">Futbol UEFA</title>
   </programme>
@@ -3697,20 +3528,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20240822000000 +0000" stop="20240822010000 +0000" channel="Catorce TV">
-    <title lang="en">Será anunciado</title>
-    <date>2018</date>
-  </programme>
-  <programme start="20240822010000 +0000" stop="20240822020000 +0000" channel="Catorce TV">
-    <title lang="en">14 deportes</title>
-    <desc lang="en">Un programa que aborda lo más destacado del mundo del deporte nacional e internacional.(n)</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20240822020000 +0000" stop="20240822030000 +0000" channel="Catorce TV">
-    <title lang="en">ACD media noticias</title>
-    <desc lang="en">Manténgase informado sobre todo el acontecer loca el internacional.(n)</desc>
-    <date>2024</date>
-  </programme>
   <programme start="20240822030000 +0000" stop="20240822100000 +0000" channel="Catorce TV">
     <title lang="en">Será anunciado</title>
     <date>2018</date>
@@ -3844,26 +3661,6 @@
   <programme start="20240823230000 +0000" stop="20240824000000 +0000" channel="Catorce TV">
     <title lang="en">Será anunciado</title>
     <date>2018</date>
-  </programme>
-  <programme start="20240822000000 +0000" stop="20240822010000 +0000" channel="Digital 15">
-    <title lang="en">Como dice el dicho</title>
-    <desc lang="en">Sergio Corona en compañía de Mario Bautista, Brisa Carrillo y Benny Emmanuel te traen historias llenas de emociones con las que te podrás identificar, ellos tienen un café, donde los clientes escriben en sus paredes los refranes que se acomodan a sus historias, las cuales luego son dramatizadas conmovedoramente.(n)</desc>
-    <date>2011</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20240822010000 +0000" stop="20240822020000 +0000" channel="Digital 15">
-    <title lang="en">Más Noche</title>
-    <desc lang="en">Para los desvelados, este programa nocturno de entretenimiento es la opción ideal. Se aborda diferentes temas de actualidad en cuanto a la música, el cine y la televisión, entre otros.(n)</desc>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20240822020000 +0000" stop="20240822030000 +0000" channel="Digital 15">
-    <title lang="en">Noticiero Digital 15</title>
-    <desc lang="en">Noticias locales y análisis sobre la República Dominicana. Informativo, claro y directo. Ideal para quienes desean estar al día con lo que ocurre en el país.(n)</desc>
-    <date>2023</date>
   </programme>
   <programme start="20240822030000 +0000" stop="20240822040000 +0000" channel="Digital 15">
     <title lang="en">La 3ra en discordia</title>
@@ -4008,21 +3805,6 @@
     <title lang="en">Echando el pulso</title>
     <desc lang="en">Un programa de análisis y opinión que aborda los hechos más destacados de la agenda de noticias.(n)</desc>
     <date>2023</date>
-  </programme>
-  <programme start="20240822000000 +0000" stop="20240822003000 +0000" channel="Teleunión">
-    <title lang="en">Alejandro en coche</title>
-  </programme>
-  <programme start="20240822003000 +0000" stop="20240822010000 +0000" channel="Teleunión">
-    <title lang="en">Mundo Noticias</title>
-    <desc lang="en">Presenta todo el acontecer local de las comunas del gran Concepción y la Provincia de Arauco.(n)</desc>
-    <date>2015</date>
-  </programme>
-  <programme start="20240822010000 +0000" stop="20240822020000 +0000" channel="Teleunión">
-    <title lang="en">De ahora con José Cerda</title>
-  </programme>
-  <programme start="20240822020000 +0000" stop="20240822023000 +0000" channel="Teleunión">
-    <title lang="en">Noticias Teleunión</title>
-    <desc lang="en">Noticias Teleunión ofrece noticias locales, deportes y el clima.(n)</desc>
   </programme>
   <programme start="20240822023000 +0000" stop="20240822040000 +0000" channel="Teleunión">
     <title lang="en">Detrás de la noticia</title>
@@ -4185,15 +3967,6 @@
   <programme start="20240823233000 +0000" stop="20240824000000 +0000" channel="Teleunión">
     <title lang="en">Música</title>
   </programme>
-  <programme start="20240822000000 +0000" stop="20240822005500 +0000" channel="Teleradio América">
-    <title lang="en">Nosotros A Las 8</title>
-  </programme>
-  <programme start="20240822010000 +0000" stop="20240822020000 +0000" channel="Teleradio América">
-    <title lang="en">En Las Noches Personalmente</title>
-  </programme>
-  <programme start="20240822020000 +0000" stop="20240822030000 +0000" channel="Teleradio América">
-    <title lang="en">La Hora 22</title>
-  </programme>
   <programme start="20240822030000 +0000" stop="20240822033000 +0000" channel="Teleradio América">
     <title lang="en">TRA Noticias</title>
     <desc lang="en">Noticias locales y actualizaciones de última hora en español.(n)</desc>
@@ -4328,20 +4101,6 @@
   </programme>
   <programme start="20240823230000 +0000" stop="20240823235500 +0000" channel="Teleradio América">
     <title lang="en">Ideas Encontradas</title>
-  </programme>
-  <programme start="20240822000000 +0000" stop="20240822010000 +0000" channel="Telecentro">
-    <title lang="en">Novelas</title>
-    <desc lang="en">Un espacio que presenta diversas telenovelas para que el público disfrute en casa.(n)</desc>
-    <date>2015</date>
-  </programme>
-  <programme start="20240822010000 +0000" stop="20240822020000 +0000" channel="Telecentro">
-    <title lang="en">Noticentro edición estelar</title>
-    <desc lang="en">Cobertura completa de las noticias más relevantes en español.(n)</desc>
-    <date>2020</date>
-  </programme>
-  <programme start="20240822020000 +0000" stop="20240822030000 +0000" channel="Telecentro">
-    <title lang="en">2 much x la noche!</title>
-    <date>2024</date>
   </programme>
   <programme start="20240822030000 +0000" stop="20240822050000 +0000" channel="Telecentro">
     <title lang="en">Toque de queda</title>
@@ -4502,19 +4261,6 @@
   <programme start="20240823230000 +0000" stop="20240824000000 +0000" channel="Telecentro">
     <title lang="en">¿Quién eres tú?</title>
     <desc lang="en">Las hermanas Natalia y Verónica juegan a hacerse pasar una por la otra, causando una cadena de situaciones y consecuencias de las que no podrán liberarse fácilmente. Basada en la telenovela "La Usurpadora".(n)</desc>
-  </programme>
-  <programme start="20240822000000 +0000" stop="20240822010000 +0000" channel="CDN Deportes">
-    <title lang="en">Bases Llenas</title>
-    <desc lang="en">La cobertura más completa de los juegos de Béisbol del certamen nacional. El resumen de los partidos, las jugadas más importantes, el repaso de los enfrentamientos, las entrevistas con los jugadores, los entrenadores y el público fanático. Además del análisis de nuestros periodistas.(n)</desc>
-  </programme>
-  <programme start="20240822010000 +0000" stop="20240822020000 +0000" channel="CDN Deportes">
-    <title lang="en">Protagonistas</title>
-    <desc lang="en">Entrevistas a personajes del fútbol nacional que profundizan en aspectos de sus vidas. (New).(n)</desc>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20240822020000 +0000" stop="20240822030000 +0000" channel="CDN Deportes">
-    <title lang="en">Donqueando</title>
-    <desc lang="en">Programa especializado en baloncesto, con la más completa información nacional e internacional.(n)</desc>
   </programme>
   <programme start="20240822030000 +0000" stop="20240822033000 +0000" channel="CDN Deportes">
     <title lang="en">Clásico PL</title>
@@ -4750,23 +4496,6 @@
     <desc lang="en">Tigres del Licey vs. Águilas Cibaeñas. (Live).(n)</desc>
     <date>2019</date>
     <premiere lang="en" />
-  </programme>
-  <programme start="20240822000000 +0000" stop="20240822010000 +0000" channel="Tele Antillas">
-    <title lang="en">Informativos Teleantillas - Estelar</title>
-    <desc lang="en">Las principales noticias de la jornada.(n)</desc>
-    <date>2023</date>
-  </programme>
-  <programme start="20240822010000 +0000" stop="20240822020000 +0000" channel="Tele Antillas">
-    <title lang="en">Pa' Quererte</title>
-    <desc lang="en">"Pa' quererte", es una producción fresca, emotiva y divertida sobre cuatro padres que tienen que enfrentar su paternidad y sufrir un cambio de rol en sus vidas, lo cual los llevará a descubrirse y así transformar su entorno.(n)</desc>
-    <date>2020</date>
-  </programme>
-  <programme start="20240822020000 +0000" stop="20240822030000 +0000" channel="Tele Antillas">
-    <title lang="en">Pasión de Gavilanes</title>
-    <desc lang="en">Es un drama intenso lleno de intriga, romance y venganza con asombrosos resultados.(n)</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
   </programme>
   <programme start="20240822030000 +0000" stop="20240822040000 +0000" channel="Tele Antillas">
     <title lang="en">Cautiva</title>
@@ -5012,27 +4741,6 @@
     <title lang="en">Solo una madre</title>
     <desc lang="en">La historia de Lucero tomará un rumbo inesperado al dar a luz a su heredero. La humilde muchacha será expuesta a uno de los horrores más grandes cuando le arrebatan a su hijo y se lo cambiarán por otro bebé que se encuentra enfermo, para satisfacer los deseos de una madre adinerada y sin escrúpulos.(n)</desc>
     <date>2017</date>
-  </programme>
-  <programme start="20240822000000 +0000" stop="20240822010000 +0000" channel="Ultra Fiesta">
-    <title lang="en">Ultra fiesta hitz</title>
-    <desc lang="en">Programación de Ultra fiesta hitz.(n)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p9727231_st_v9_ab.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20240822010000 +0000" stop="20240822020000 +0000" channel="Ultra Fiesta">
-    <title lang="en">Ultra fiesta hitz</title>
-    <desc lang="en">Programación de Ultra fiesta hitz.(n)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p9727231_st_v9_ab.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20240822020000 +0000" stop="20240822030000 +0000" channel="Ultra Fiesta">
-    <title lang="en">Ultra fiesta hitz</title>
-    <desc lang="en">Programación de Ultra fiesta hitz.(n)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p9727231_st_v9_ab.jpg" />
-    <previously-shown />
   </programme>
   <programme start="20240822030000 +0000" stop="20240822040000 +0000" channel="Ultra Fiesta">
     <title lang="en">Ultra fiesta hitz</title>
@@ -5516,30 +5224,6 @@
     <category lang="en">Music</category>
     <icon src="https://zap2it.tmsimg.com/assets/p9727231_st_v9_ab.jpg" />
     <previously-shown />
-  </programme>
-  <programme start="20240822004900 +0000" stop="20240822020500 +0000" channel="Ultra Docu">
-    <title lang="en">El caso, crónica de sucesos</title>
-    <sub-title lang="en">El caso del ahorcado</sub-title>
-    <desc lang="en">Un joven aparece ahorcado y atado a un poste de luz junto a un restaurante de carretera después de una noche de fiesta con tres amigos. Cuando Jesús y Clara comienzan a investigar, todo apunta a que puede tratarse de un ajuste de cuentas.(n)</desc>
-    <credits>
-      <director>Ignacio Mercero</director>
-      <actor role="Jesús Expósito">Fernando Guillén Cuervo</actor>
-      <actor role="Clara López">Verónica Sánchez</actor>
-      <actor role="Antonio Camacho">Antonio Garrido</actor>
-      <actor role="Miguel Montenegro">Francisco Ortiz</actor>
-      <actor role="Rodrigo Sánchez">Fernando Cayo</actor>
-      <actor role="Margarita Moyano">Blanca Apilánez</actor>
-      <actor role="Germán Castro">Gorka Lasaosa</actor>
-      <actor role="Aníbal de Vicente">Daniel Pérez Prada</actor>
-    </credits>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p12921414_e_v10_aa.jpg" />
-    <episode-num system="onscreen">S1 E11</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
   </programme>
   <programme start="20240822020500 +0000" stop="20240822032300 +0000" channel="Ultra Docu">
     <title lang="en">Che, memorias de un año secreto</title>
@@ -7080,101 +6764,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20240822000000 +0000" stop="20240822005200 +0000" channel="Ultra Macho">
-    <title lang="en">Unidad de Investigación</title>
-    <sub-title lang="en">La noche de las estrellas</sub-title>
-    <desc lang="en">Durante una noche en el observatorio astronómico de Niza para contemplar las estrellas, una pareja encuentra el cadáver de un hombre colgado de un árbol.(n)</desc>
-    <credits>
-      <director>Vincenzo Marano</director>
-      <director>Klaus Biedermann</director>
-      <actor role="Capitaine Martin Bernie">Xavier Deluc</actor>
-      <actor role="Chef d'escadron">Chrystelle Labaude</actor>
-      <actor role="Adjudant Sara Casanova">Manon Azem</actor>
-      <actor role="Lieutenant Roxane Janin">Julie Fournier</actor>
-      <actor role="Procureur Thierry Calvi">Christian Vadim</actor>
-      <actor role="Léon">Julien Courbey</actor>
-      <actor role="Capitaine">Kamel Belghazi</actor>
-      <writer>Cristina Arellano</writer>
-      <writer>Sylvie Coquart</writer>
-    </credits>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p11519794_e_v9_aa.jpg" />
-    <episode-num system="onscreen">S9 E11</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20240822005200 +0000" stop="20240822014600 +0000" channel="Ultra Macho">
-    <title lang="en">Unidad de Investigación</title>
-    <sub-title lang="en">Secretos y mentiras</sub-title>
-    <desc lang="en">Martin recibe una llamada del equipo de investigación en la que le informan que el cadáver de Nadia ha aparecido en su hogar. La joven ha muerto de un disparo a quemarropa.(n)</desc>
-    <credits>
-      <director>Vincenzo Marano</director>
-      <director>Klaus Biedermann</director>
-      <actor role="Capitaine Martin Bernie">Xavier Deluc</actor>
-      <actor role="Chef d'escadron">Chrystelle Labaude</actor>
-      <actor role="Adjudant Sara Casanova">Manon Azem</actor>
-      <actor role="Lieutenant Roxane Janin">Julie Fournier</actor>
-      <actor role="Procureur Thierry Calvi">Christian Vadim</actor>
-      <actor role="Léon">Julien Courbey</actor>
-      <actor role="Capitaine">Kamel Belghazi</actor>
-      <writer>Cristina Arellano</writer>
-      <writer>Sylvie Coquart</writer>
-    </credits>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p11519800_e_v9_aa.jpg" />
-    <episode-num system="onscreen">S9 E12</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20240822014600 +0000" stop="20240822022900 +0000" channel="Ultra Macho">
-    <title lang="en">Avenue 14</title>
-    <desc lang="en">La aspirante a periodista Thursday Soh y el investigador especial Daniel Wu indagan una serie de sucesos sobrenaturales en Singapur. A medida que avanzan, Thursday descubre una intrincada red de secretos relacionada a la muerte de su madre.(n)</desc>
-    <credits>
-      <actor role="Thursday Soh">Marianne Tan</actor>
-      <actor role="Daniel Wu">Alan Wong</actor>
-      <actor role="Ting Ting">Michelle Saram</actor>
-      <actor role="Inspector Sathia">Mathi Alagan</actor>
-      <actor role="Auntie Lynn">Swee Lin Neo</actor>
-      <actor role="Avery Bodee">Bront Palarae</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p21639295_b_v9_aa.jpg" />
-    <episode-num system="onscreen">S1 E15</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20240822022900 +0000" stop="20240822031100 +0000" channel="Ultra Macho">
-    <title lang="en">Avenue 14</title>
-    <sub-title lang="en">Pied Piper</sub-title>
-    <desc lang="en">La aspirante a periodista Thursday Soh y el investigador especial Daniel Wu indagan una serie de sucesos sobrenaturales en Singapur. A medida que avanzan, Thursday descubre una intrincada red de secretos relacionada a la muerte de su madre.(n)</desc>
-    <credits>
-      <actor role="Thursday Soh">Marianne Tan</actor>
-      <actor role="Daniel Wu">Alan Wong</actor>
-      <actor role="Ting Ting">Michelle Saram</actor>
-      <actor role="Inspector Sathia">Mathi Alagan</actor>
-      <actor role="Auntie Lynn">Swee Lin Neo</actor>
-      <actor role="Avery Bodee">Bront Palarae</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p21639295_b_v9_aa.jpg" />
-    <episode-num system="onscreen">S1 E16</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20240822031100 +0000" stop="20240822044000 +0000" channel="Ultra Macho">
     <title lang="en">Mortuary</title>
     <desc lang="en">Una familia se muda a un pueblo rural y deciden adquirir una funeraria abandonada. Sin embargo, se dice que la funeraria está embrujada.(n)</desc>
@@ -8586,111 +8175,6 @@
     <previously-shown />
     <rating system="MPAA">
       <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20240822000000 +0000" stop="20240822002100 +0000" channel="Ultra Kidz">
-    <title lang="en">Unite-2-Blast</title>
-    <desc lang="en">Con la ayuda de sus compañeros mecánicos, Sea, Ducan, Thom y Kay protegen la ciudad de los ataques de las bestias mecánicas. Los héroes descubren que detrás de la agresión se oculta un peligro mayor del que suponían.(n)</desc>
-    <credits>
-      <director>Shen Chenqi</director>
-    </credits>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p20715067_e_v4_aa.jpg" />
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20240822002100 +0000" stop="20240822004300 +0000" channel="Ultra Kidz">
-    <title lang="en">Furia Spiner</title>
-    <desc lang="en">Uno de los deportes más populares del mundo, en donde varios participantes son invitados a la isla misteriosa junto a otros jugadores del mundo para una aventura de supervivencia.(n)</desc>
-    <category lang="en">Adventure</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p23360136_b_v9_aa.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20240822004300 +0000" stop="20240822010300 +0000" channel="Ultra Kidz">
-    <title lang="en">Slash://</title>
-    <desc lang="en">Las aventuras de Chen, Paula, Matilde, Tomoya e Isaia, cinco amigos de distintos lugares del mundo. Gracias a los poderes de una misteriosa piedra verde, los chicos emprenden un viaje por la web para derrotar al malvado Cobra.(n)</desc>
-    <credits>
-      <director>Sergio Manfio</director>
-      <writer>Sergio Manfio</writer>
-      <writer>Francesco Manfio</writer>
-    </credits>
-    <category lang="en">Adventure</category>
-    <category lang="en">Children</category>
-    <category lang="en">Fantasy</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p15261738_st_v9_aa.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20240822010300 +0000" stop="20240822012600 +0000" channel="Ultra Kidz">
-    <title lang="en">Inspector Chingum</title>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <category lang="en">Comedy</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p22860912_b_v13_aa.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20240822012600 +0000" stop="20240822014800 +0000" channel="Ultra Kidz">
-    <title lang="en">Inspector Chingum</title>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <category lang="en">Comedy</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p22860912_b_v13_aa.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20240822014800 +0000" stop="20240822021200 +0000" channel="Ultra Kidz">
-    <title lang="en">Smarty-Pants Eric</title>
-    <category lang="en">Comedy</category>
-    <category lang="en">Educational</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p21963544_st_v9_aa.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20240822021200 +0000" stop="20240822023500 +0000" channel="Ultra Kidz">
-    <title lang="en">ViR: The Robot Boy</title>
-    <sub-title lang="en">Vir vs Cemento + Go Cart Race</sub-title>
-    <desc lang="en">Durante una visita escolar rutinaria a una construcción local, Vir es atacado por cemento inteligente. Los gestores del parque de Fursatganj organizan una carrera de carritos y Vir está deseando participar.(n)</desc>
-    <credits>
-      <director>Suhas Kadav</director>
-    </credits>
-    <category lang="en">Adventure</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p14039932_b_v9_ab.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20240822023500 +0000" stop="20240822025700 +0000" channel="Ultra Kidz">
-    <title lang="en">Boonie Bears: The Adventurers</title>
-    <desc lang="en">Un grupo de animales emprenden divertidas aventuras que les dejan como resultado buenas enseñanzas y una linda amistad.(n)</desc>
-    <credits>
-      <director>Leon Ding</director>
-    </credits>
-    <category lang="en">Adventure</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p17723039_b_v9_ad.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-G</value>
     </rating>
   </programme>
   <programme start="20240822025700 +0000" stop="20240822031900 +0000" channel="Ultra Kidz">
@@ -11399,65 +10883,6 @@
       <value>TV-G</value>
     </rating>
   </programme>
-  <programme start="20240822002300 +0000" stop="20240822010500 +0000" channel="Ultra Cine">
-    <title lang="en">UNO (Unidad Nacional Operativa)</title>
-    <desc lang="en">Investigadores arriesgan sus vidas para poner tras las rejas a los criminales más buscados.(n)</desc>
-    <category lang="en">Action</category>
-    <category lang="en">Drama</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p12233233_b_v9_aa.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20240822010500 +0000" stop="20240822015600 +0000" channel="Ultra Cine">
-    <title lang="en">Godunov</title>
-    <desc lang="en">La muerte misteriosa del heredero al trono de una antigua dinastía rusa provoca el ascenso al poder de Godunov y las conspiraciones.(n)</desc>
-    <credits>
-      <director>Aleksey Andrianov</director>
-      <director>Timur Alpatov</director>
-      <actor role="Boris Godunov">Sergey Bezrukov</actor>
-      <actor role="Ivan Groznyy">Sergey Makovetskiy</actor>
-      <actor role="Mariya Godunova">Svetlana Khodchenkova</actor>
-      <actor role="Irina Godunova">Anna Mikhalkova</actor>
-      <actor role="Vasiliy Shuyskiy">Andrey Merzlikin</actor>
-      <actor role="Mariya Nagaya">Irina Pegova</actor>
-      <actor role="Malyuta Skuratov">Viktor Sukhorukov</actor>
-      <writer>Ilya Tilkin</writer>
-    </credits>
-    <category lang="en">Historical drama</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p17329655_e_v9_aa.jpg" />
-    <episode-num system="onscreen">S2 E5</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20240822015600 +0000" stop="20240822023900 +0000" channel="Ultra Cine">
-    <title lang="en">The Truth Will Out</title>
-    <desc lang="en">El detective Peter Wendel regresa después de una larga ausencia por enfermedad para formar un equipo y reabrir casos sin resolver.(n)</desc>
-    <credits>
-      <director>Kjell-Åke Andersson</director>
-      <director>Lisa Farzaneh</director>
-      <actor role="Peter Wendel">Robert Gustafsson</actor>
-      <actor role="Björn Stenius">Johan Ulveson</actor>
-      <actor role="Caijsa Bergholm">Louise Peterhoff</actor>
-      <actor role="Marcus Johansson">Maria Langhammer</actor>
-      <actor role="Jorma Virttanen">Christopher Wagelin</actor>
-      <actor role="Marcus Johansson">Erik Johansson</actor>
-      <actor role="Ann-Marie Wendel">Maria Sundbom</actor>
-      <actor role="Freshteh Laurell">Ala Riani</actor>
-      <writer>Leif Persson</writer>
-      <writer>Aron Levander</writer>
-    </credits>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p15825940_b_v9_ai.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
   <programme start="20240822023900 +0000" stop="20240822032300 +0000" channel="Ultra Cine">
     <title lang="en">Class</title>
     <sub-title lang="en">The Metaphysical Engine, or What Quill Did</sub-title>
@@ -11839,15 +11264,6 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20240822150000 +0000" stop="20240822152400 +0000" channel="Ultra Cine">
-    <title lang="en">Bluetick</title>
-    <category lang="en">Drama</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p24364332_st_v9_aa.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20240822152400 +0000" stop="20240822161900 +0000" channel="Ultra Cine">
     <title lang="en">Acusados</title>
     <sub-title lang="en">La historia de Nathalie</sub-title>
@@ -12200,8 +11616,16 @@
   </programme>
   <programme start="20240823035200 +0000" stop="20240823041600 +0000" channel="Ultra Cine">
     <title lang="en">Bluetick</title>
+    <desc lang="en">El destino cambia después de que un mensaje enviado a un amigo fallecido se marca como leído.(n)</desc>
+    <credits>
+      <actor role="Si Dong">Desmond Tan</actor>
+      <actor role="Chen Fangxing">Wong You-nam</actor>
+      <actor role="Li Mushi">Kar-Ying Law</actor>
+      <actor role="Song Haoran">Kai Chi Liu</actor>
+    </credits>
     <category lang="en">Drama</category>
     <icon src="https://zap2it.tmsimg.com/assets/p24364332_st_v9_aa.jpg" />
+    <episode-num system="onscreen">S1 E14</episode-num>
     <previously-shown />
     <rating system="MPAA">
       <value>TV-14</value>
@@ -13361,28 +12785,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20240822011200 +0000" stop="20240822023100 +0000" channel="Ultra Clásico">
-    <title lang="en">Las luchadoras contra el médico asesino</title>
-    <desc lang="en">Una mujer luchadora (Elizabeth Campbell) ayuda a otra (Lorena Velázquez) a enfrentar al loco enmascarado que robó el cerebro de su hermana.(n)</desc>
-    <credits>
-      <director>René Cardona</director>
-      <actor role="Gloria Venus">Lorena Velázquez</actor>
-      <actor role="Golden Rubi">Elizabeth Campbell</actor>
-      <actor role="Armando Campos">Armando Silvestre</actor>
-      <actor role="Prof. Ruiz">Roberto Cañedo</actor>
-      <actor role="Alicia">Sonia Infante</actor>
-      <actor role="Chema">Chucho Salinas</actor>
-      <actor role="Carmela Camacho &quot;Vendetta&quot;">Chabela Romero</actor>
-      <actor role="Wrestler">Martha Solís</actor>
-    </credits>
-    <date>1962</date>
-    <category lang="en">Horror</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p45113_p_v13_aa.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
   <programme start="20240822023100 +0000" stop="20240822035800 +0000" channel="Ultra Clásico">
     <title lang="en">Los tres compadres</title>
     <desc lang="en">Un director de escuela es confundido por un ladrón que es físicamente idéntico, y acusado de un robo.(n)</desc>
@@ -14433,24 +13835,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20240822003000 +0000" stop="20240822020600 +0000" channel="Ultra Mex">
-    <title lang="en">Escolta suicida</title>
-    <desc lang="en">Tras la captura de Carrillo y de su padre, Rogelio y Emilio asumen el mando del cartel, pero ahora Carrillo recobró su libertad y quiere retomar el control. Las ansias de un poder absoluto desatarán una guerra sin cuartel que no respetará límites.(n)</desc>
-    <credits>
-      <director>Max Hernández</director>
-      <actor>Leonel González</actor>
-      <actor>Amador Granados</actor>
-      <actor>Victor Quirino</actor>
-      <actor>Max Hernández</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="en">Crime drama</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p17888833_b_v9_aa.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20240822020600 +0000" stop="20240822033900 +0000" channel="Ultra Mex">
     <title lang="en">Territorio salvaje</title>
     <desc lang="en">Un joven se introduce en el mundo de las peleas clandestinas para obtener dinero y ayudar a su madre a comprar los medicamentos que necesita. Un entrenador lo descubre y comienza a prepararlo para ser un luchador de verdad.(n)</desc>
@@ -15307,11 +14691,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20240822010000 +0000" stop="20240822023000 +0000" channel="TVN Chile">
-    <title lang="en">24 Horas Central</title>
-    <desc lang="en">Noticias globales y corresponsales. Perspectivas únicas, análisis diario. (New).(n)</desc>
-    <premiere lang="en" />
-  </programme>
   <programme start="20240822023500 +0000" stop="20240822034000 +0000" channel="TVN Chile">
     <title lang="en">Yo decido amar</title>
     <desc lang="en">Dos jóvenes de familias con costumbres muy distintas se casan en forma clandestina.(n)</desc>
@@ -15482,18 +14861,6 @@
   <programme start="20240823233000 +0000" stop="20240824010000 +0000" channel="TVN Chile">
     <title lang="en">Ahora caigo</title>
     <desc lang="en">¡Ahora caigo! es la adaptación española del exitoso concurso israelí Lauf Al Hamilion de Arutz 10, producido en España por Gestmusic. Es un programa de televisión emitido por Antena 3 y presentado por Arturo Valls, siendo Silvia Abril su sustituta en los meses de verano.(n)</desc>
-  </programme>
-  <programme start="20240822000000 +0000" stop="20240822010000 +0000" channel="Telemicro">
-    <title lang="en">Marea de pasiones</title>
-    <desc lang="en">La trama gira en torno a Luisa y Marcelo.(n)</desc>
-  </programme>
-  <programme start="20240822010000 +0000" stop="20240822020000 +0000" channel="Telemicro">
-    <title lang="en">Reyes</title>
-    <desc lang="en">Basado en los libros bíblicos de Samuel, Reyes, Crónicas, Proverbios, Cantares.(n)</desc>
-  </programme>
-  <programme start="20240822020000 +0000" stop="20240822030000 +0000" channel="Telemicro">
-    <title lang="en">Noticias Telemicro</title>
-    <desc lang="en">Noticias e informaciones de actualidad.(n)</desc>
   </programme>
   <programme start="20240822030000 +0000" stop="20240822040000 +0000" channel="Telemicro">
     <title lang="en">Las buchonas</title>
@@ -15688,22 +15055,6 @@
     <title lang="en">Amor a la luz de la Luna</title>
     <desc lang="en">Hong Ra On se disfraza de hombre desde pequeña y bajo el nombre de Hong Sam Nom aconseja a los hombres en las citas.(n)</desc>
     <date>2016</date>
-  </programme>
-  <programme start="20240822000000 +0000" stop="20240822003000 +0000" channel="Megavisión">
-    <title lang="en">Cibao news</title>
-  </programme>
-  <programme start="20240822003000 +0000" stop="20240822010000 +0000" channel="Megavisión">
-    <title lang="en">Mundo Noticias</title>
-    <desc lang="en">Presenta todo el acontecer local de las comunas del gran Concepción y la Provincia de Arauco.(n)</desc>
-    <date>2015</date>
-  </programme>
-  <programme start="20240822010000 +0000" stop="20240822020000 +0000" channel="Megavisión">
-    <title lang="en">De buenas a primeras</title>
-    <desc lang="en">Un programa informativo que aborda los hechos más destacados vinculados a la comunidad dominicana.(n)</desc>
-    <date>2009</date>
-  </programme>
-  <programme start="20240822020000 +0000" stop="20240822030000 +0000" channel="Megavisión">
-    <title lang="en">Por el medio</title>
   </programme>
   <programme start="20240822030000 +0000" stop="20240822040000 +0000" channel="Megavisión">
     <title lang="en">Bayly</title>
@@ -15900,44 +15251,6 @@
     <title lang="en">Circumax, Soltimex, Puricolon</title>
     <desc lang="en">Un espacio que presenta diversos productos y sus características para que el público los compre.(n)</desc>
     <date>2022</date>
-  </programme>
-  <programme start="20240822000000 +0000" stop="20240822003000 +0000" channel="DW Español">
-    <title lang="en">DW Noticias</title>
-    <desc lang="en">Información actual y noticias de relevancia diaria. (New).(n)</desc>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20240822003000 +0000" stop="20240822010000 +0000" channel="DW Español">
-    <title lang="en">Enfoque Europa</title>
-    <desc lang="en">Descubriendo qué mueve a los habitantes de Europa y los motiva política, social y culturalmente. A su vez, de presenta su estilo de vida, opiniones, esperanzas y miedos. En este programa se destacan todos estos aspectos que caracterizan a los habitantes del viejo continente. (New).(n)</desc>
-    <date>2015</date>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20240822010000 +0000" stop="20240822011500 +0000" channel="DW Español">
-    <title lang="en">DW Noticias</title>
-    <desc lang="en">Información actual y noticias de relevancia diaria. (New).(n)</desc>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20240822011500 +0000" stop="20240822013000 +0000" channel="DW Español">
-    <title lang="en">Economía</title>
-    <desc lang="en">Reportajes, noticias y análisis desde los centros financieros más importantes, los mercados más versátiles y los consorcios líderes en el mundo. (New).(n)</desc>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20240822013000 +0000" stop="20240822020000 +0000" channel="DW Español">
-    <title lang="en">Enlaces</title>
-    <desc lang="en">Temas relevantes del mundo digital con un profundo enfoque periodístico. (Repeat).(n)</desc>
-    <previously-shown />
-  </programme>
-  <programme start="20240822020000 +0000" stop="20240822021500 +0000" channel="DW Español">
-    <title lang="en">Todo Deporte</title>
-    <desc lang="en">Resumen deportivo. (Repeat).(n)</desc>
-    <date>2020</date>
-    <previously-shown />
-  </programme>
-  <programme start="20240822021500 +0000" stop="20240822030000 +0000" channel="DW Español">
-    <title lang="en">Benares</title>
-    <desc lang="en">Benarés, la ciudad sagrada de India a orillas del Ganges, es un mito. (Repeat).(n)</desc>
-    <date>2024</date>
-    <previously-shown />
   </programme>
   <programme start="20240822030000 +0000" stop="20240822033000 +0000" channel="DW Español">
     <title lang="en">Hecho en Alemania</title>
@@ -16441,73 +15754,6 @@
     <title lang="en">Euromaxx</title>
     <desc lang="en">Un espacio que transmite la esencia de la vida cotidiana y de la cultura europea. Conoce a interesantes artistas, que se destacan en diferentes artes: pintura, escultura, fotografía, música y danza, entre otras. También se repasan los eventos y las galas más importantes que se realizan en los países del Viejo Continente. (New).(n)</desc>
     <premiere lang="en" />
-  </programme>
-  <programme start="20240822000000 +0000" stop="20240822003000 +0000" channel="24h">
-    <title lang="es">Telediario Internacional</title>
-    <desc lang="es">Un noticiario que prima la información de ámbito internacional y especialmente la que se produce o tiene relación con la América Iberoamericana. El espacio, eso sí, tampoco se olvida de la actualidad nacional española. Incluye previsión meteorológica de todo el planeta.(n)</desc>
-    <credits>
-      <presenter>Moisés Rodríguez</presenter>
-    </credits>
-    <date>2024</date>
-    <icon src="https://media.tvup.cloud/epg/ser_2506/bg_telediario_internacional_2024_moises_rodriguez_3.jpeg" />
-    <country lang="es">España</country>
-    <rating>
-      <value>SC</value>
-    </rating>
-  </programme>
-  <programme start="20240822003000 +0000" stop="20240822010000 +0000" channel="24h">
-    <title lang="es">Telediario Internacional</title>
-    <desc lang="es">Un noticiario que prima la información de ámbito internacional y especialmente la que se produce o tiene relación con la América Iberoamericana. El espacio, eso sí, tampoco se olvida de la actualidad nacional española. Incluye previsión meteorológica de todo el planeta.(n)</desc>
-    <credits>
-      <presenter>Moisés Rodríguez</presenter>
-    </credits>
-    <date>2024</date>
-    <icon src="https://media.tvup.cloud/epg/ser_2506/bg_telediario_internacional_2024_moises_rodriguez_3.jpeg" />
-    <country lang="es">España</country>
-    <rating>
-      <value>SC</value>
-    </rating>
-  </programme>
-  <programme start="20240822010000 +0000" stop="20240822013000 +0000" channel="24h">
-    <title lang="es">Telediario Internacional</title>
-    <desc lang="es">Un noticiario que prima la información de ámbito internacional y especialmente la que se produce o tiene relación con la América Iberoamericana. El espacio, eso sí, tampoco se olvida de la actualidad nacional española. Incluye previsión meteorológica de todo el planeta.(n)</desc>
-    <credits>
-      <presenter>Moisés Rodríguez</presenter>
-    </credits>
-    <date>2024</date>
-    <icon src="https://media.tvup.cloud/epg/ser_2506/bg_telediario_internacional_2024_moises_rodriguez_3.jpeg" />
-    <country lang="es">España</country>
-    <rating>
-      <value>SC</value>
-    </rating>
-  </programme>
-  <programme start="20240822013000 +0000" stop="20240822020000 +0000" channel="24h">
-    <title lang="es">Metrópolis</title>
-    <sub-title lang="es">Motores Del Clima</sub-title>
-    <desc lang="es">Espacio de cultura que se ha convertido en un punto de referencia obligado para todos aquellos inquietos por seguir las últimas tendencias en el campo de la creación artística. Temporada tras temporada, el programa ha sabido crear su propio lenguaje televisivo.(n)</desc>
-    <credits>
-      <director>María Pallier</director>
-    </credits>
-    <date>2023</date>
-    <icon src="https://media.tvup.cloud/epg/ser_1526183/bg_metropolis_1985.jpeg" />
-    <country lang="es">España</country>
-    <episode-num system="onscreen">E22</episode-num>
-    <rating>
-      <value>+12</value>
-    </rating>
-  </programme>
-  <programme start="20240822020000 +0000" stop="20240822023000 +0000" channel="24h">
-    <title lang="es">Telediario Internacional</title>
-    <desc lang="es">Un noticiario que prima la información de ámbito internacional y especialmente la que se produce o tiene relación con la América Iberoamericana. El espacio, eso sí, tampoco se olvida de la actualidad nacional española. Incluye previsión meteorológica de todo el planeta.(n)</desc>
-    <credits>
-      <presenter>Moisés Rodríguez</presenter>
-    </credits>
-    <date>2024</date>
-    <icon src="https://media.tvup.cloud/epg/ser_2506/bg_telediario_internacional_2024_moises_rodriguez_3.jpeg" />
-    <country lang="es">España</country>
-    <rating>
-      <value>SC</value>
-    </rating>
   </programme>
   <programme start="20240822023000 +0000" stop="20240822030000 +0000" channel="24h">
     <title lang="es">Conversatorios en Casa de América</title>
@@ -17016,31 +16262,6 @@
     <date>2022</date>
     <icon src="https://media.tvup.cloud/epg/ser_1160673/bg_c_conversatorios_en_casa_de_america_2.jpeg" />
     <country lang="es">España</country>
-    <rating>
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20240822000000 +0000" stop="20240822012000 +0000" channel="La 2">
-    <title lang="es">Festivales de verano</title>
-    <sub-title lang="es">59ª Jazzaldia: Gregory Porter</sub-title>
-    <desc lang="es">Un recorrido por los certámenes musicales españoles más destacados de este verano, como el FIB o el San Miguel Primavera Sound, así como las más destacadas citas de blues y jazz como el Continental Latin Jazz o el Festival Blues de Cazorla.(n)</desc>
-    <credits>
-      <presenter>Leyre Guerrero</presenter>
-    </credits>
-    <date>2024</date>
-    <icon src="https://media.tvup.cloud/epg/ser_2840203/bg_recurso_musica_gente.jpeg" />
-    <country lang="es">España</country>
-    <episode-num system="onscreen">E17</episode-num>
-    <rating>
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20240822012000 +0000" stop="20240822021000 +0000" channel="La 2">
-    <title lang="es">Attenborough cumple 90 años</title>
-    <desc lang="es">Este documental celebra el 90 cumpleaños del mítico naturalista Sir David Attenborough, con una entrevista que repasará su exitosa y premiada vida profesional. Filmado en un auditorio con público, Attenborough explica su historia desde que era un niño.(n)</desc>
-    <date>2016</date>
-    <icon src="https://media.tvup.cloud/epg/ser_391841/bg_david_attenborough_naturalista_2016.jpeg" />
-    <country lang="es">Reino Unido</country>
     <rating>
       <value>TP</value>
     </rating>
@@ -18373,31 +17594,6 @@
       <value>+12</value>
     </rating>
   </programme>
-  <programme start="20240822002000 +0000" stop="20240822010500 +0000" channel="Neox">
-    <title lang="es">JOKERBET: ¡Damos Juego!</title>
-    <desc lang="es">Programa de casino y apuestas deportivas.(n)</desc>
-    <date>2022</date>
-    <icon src="https://media.tvup.cloud/epg/ser_1125450/bg_jokerbet_damos_juego_s01-1-.jpeg" />
-    <episode-num system="onscreen">S1</episode-num>
-    <rating>
-      <value>+18</value>
-    </rating>
-  </programme>
-  <programme start="20240822010500 +0000" stop="20240822014000 +0000" channel="Neox">
-    <title lang="es">The game show</title>
-    <desc lang="es">Espacio conducido por Sofía del Prado, Marc Vila y Gemma Manzanero en el que se repasan las mejores estrategias de juego para la Ruleta, el Black Jack y el Poker.(n)</desc>
-    <credits>
-      <presenter>Gemma Manzanero</presenter>
-      <presenter>Marc Vila</presenter>
-      <presenter>Sofía del Prado</presenter>
-    </credits>
-    <date>2024</date>
-    <icon src="https://media.tvup.cloud/epg/ser_1589351/bg_the_game_show_s2122_sofia_del_padro.jpeg" />
-    <country lang="es">España</country>
-    <rating>
-      <value>+18</value>
-    </rating>
-  </programme>
   <programme start="20240822014000 +0000" stop="20240822040000 +0000" channel="Neox">
     <title lang="es">Minutos musicales</title>
     <desc lang="es">Emisión de videoclips y piezas musicales.(n)</desc>
@@ -18628,25 +17824,6 @@
     <icon src="https://media.tvup.cloud/epg/ser_3156/bg_recurso_arte_cine_claqueta.jpeg" />
     <rating>
       <value>+12</value>
-    </rating>
-  </programme>
-  <programme start="20240822000000 +0000" stop="20240822013000 +0000" channel="Nova">
-    <title lang="es">Rumbo al paraíso</title>
-    <desc lang="es">Serie ambientada en un crucero que se centra en las aventuras que viven dos organizadores de bodas y las parejas que les contratan para disfrutar de una boda y una luna de miel de ensueño, a bordo del Traumschiff (Deutschland y Amadea).(n)</desc>
-    <credits>
-      <actor>Heide Keller</actor>
-      <actor>Nick Wilder</actor>
-      <actor>Siegfried Rauch</actor>
-      <actor>Marcus Grüsser</actor>
-      <actor>Jan Hartmann</actor>
-      <actor>Eva-Maria Grein von Friedl</actor>
-    </credits>
-    <date>2017</date>
-    <icon src="https://media.tvup.cloud/epg/ser_1533424/bg_rumbo_al_paraiso_s01_2023.jpeg" />
-    <country lang="es">Alemania</country>
-    <episode-num system="onscreen">S12 E2</episode-num>
-    <rating>
-      <value>+7</value>
     </rating>
   </programme>
   <programme start="20240822013000 +0000" stop="20240822022000 +0000" channel="Nova">
@@ -19142,21 +18319,6 @@
     <episode-num system="onscreen">S1</episode-num>
     <rating>
       <value>+16</value>
-    </rating>
-  </programme>
-  <programme start="20240822004500 +0000" stop="20240822013000 +0000" channel="Mega">
-    <title lang="es">The game show</title>
-    <desc lang="es">Espacio conducido por Sofía del Prado, Marc Vila y Gemma Manzanero en el que se repasan las mejores estrategias de juego para la Ruleta, el Black Jack y el Poker.(n)</desc>
-    <credits>
-      <presenter>Gemma Manzanero</presenter>
-      <presenter>Marc Vila</presenter>
-      <presenter>Sofía del Prado</presenter>
-    </credits>
-    <date>2024</date>
-    <icon src="https://media.tvup.cloud/epg/ser_1589351/bg_the_game_show_s2122_sofia_del_padro.jpeg" />
-    <country lang="es">España</country>
-    <rating>
-      <value>+18</value>
     </rating>
   </programme>
   <programme start="20240822013000 +0000" stop="20240822021500 +0000" channel="Mega">
@@ -19766,28 +18928,6 @@
       <value>+7</value>
     </rating>
   </programme>
-  <programme start="20240822003000 +0000" stop="20240822011000 +0000" channel="LaSexta">
-    <title lang="es">Pokerstars casino</title>
-    <desc lang="es">El programa trae cada día toda la emoción de su ruleta en vivo, Spin &amp; Win, una versión exclusiva del clásico juego de casino.(n)</desc>
-    <date>2024</date>
-    <icon src="https://media.tvup.cloud/epg/ser_925445/bg_recurso_ocio_casino.jpeg" />
-    <country lang="es">España</country>
-    <episode-num system="onscreen">S1</episode-num>
-    <rating>
-      <value>+18</value>
-    </rating>
-  </programme>
-  <programme start="20240822011000 +0000" stop="20240822020000 +0000" channel="LaSexta">
-    <title lang="es">Play uzu nights</title>
-    <desc lang="es">Programa lleno de útiles recomendaciones para que tu juego en PlayUZU sea el más divertido que hayas podido tener en un casino online, Además cuenta celebridades que acompañan la velada con confesiones, anécdotas y momentos de juego.(n)</desc>
-    <date>2024</date>
-    <icon src="https://media.tvup.cloud/epg/ser_2828339/bg_c_play_uzu_nights.jpeg" />
-    <country lang="es">España</country>
-    <episode-num system="onscreen">S1 E72</episode-num>
-    <rating>
-      <value>+18</value>
-    </rating>
-  </programme>
   <programme start="20240822020000 +0000" stop="20240822044500 +0000" channel="LaSexta">
     <title lang="es">Minutos musicales</title>
     <desc lang="es">Emisión de videoclips y piezas musicales.(n)</desc>
@@ -20223,21 +19363,6 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20240822000000 +0000" stop="20240822010000 +0000" channel="ADN 40">
-    <title lang="en">Tu ciudad en tiempo real con Juan Manuel Jimenez</title>
-    <desc lang="en">La información local de las megalópolis del país: Ciudad de México, Monterrey y Guadalajara.(n)</desc>
-    <date>2021</date>
-  </programme>
-  <programme start="20240822010000 +0000" stop="20240822020000 +0000" channel="ADN 40">
-    <title lang="en">Ciudad desnuda con Yunue Cuevas y Mara Durón</title>
-    <desc lang="en">Una revista informativa que destaca el lado humano, impactante y asombroso de la noticia.(n)</desc>
-    <date>2023</date>
-  </programme>
-  <programme start="20240822020000 +0000" stop="20240822030000 +0000" channel="ADN 40">
-    <title lang="en">Red 360 con Lucy Bravo</title>
-    <desc lang="en">Información que abarca todas la plataformas, con Lucy Bravo.(n)</desc>
-    <date>2022</date>
-  </programme>
   <programme start="20240822030000 +0000" stop="20240822040000 +0000" channel="ADN 40">
     <title lang="en">Es noticia con Hannia Novell</title>
     <desc lang="en">Las informaciones más destacadas al momento, con un recorrido por los acontecimientos que han revolucionado al mundo, desde una óptica imparcial y objetiva.(n)</desc>
@@ -20566,11 +19691,6 @@
     <desc lang="en">Charla informativa cargada de sarcasmo a partir de la referencia a columnas y artículos de opinión.(n)</desc>
     <date>2023</date>
   </programme>
-  <programme start="20240822003500 +0000" stop="20240822021000 +0000" channel="Euro Channel">
-    <title lang="en">Niño en peligro</title>
-    <desc lang="en">Cuando un niño desaparece, su padre acusa a la madre de ser la secuestradora.(n)</desc>
-    <date>2024</date>
-  </programme>
   <programme start="20240822021000 +0000" stop="20240822035000 +0000" channel="Euro Channel">
     <title lang="en">Notas de libertad</title>
     <desc lang="en">URSS, 1950. Un grupo de rebeldes inicia un movimiento de resistencia en un club de jazz.(n)</desc>
@@ -20722,18 +19842,6 @@
     <title lang="en">Besos escondidos</title>
     <desc lang="en">Nathan (Bérenger Anceaux), un joven de 16 años, vive solo con su padre Stephane (Patrick Timsit). Recién llegado a la escuela secundaria, le invitan a una fiesta y se enamora de Luis, un joven de su clase. Ambos se encuentran solos y se besan, pero alguien les toma una foto. Pronto, la foto es publicada en Facebook y una tormenta comienza en sus vidas, enfrentando intimidación y rechazo.(n)</desc>
     <date>2016</date>
-  </programme>
-  <programme start="20240822000000 +0000" stop="20240822010000 +0000" channel="Antena 7">
-    <title lang="en">Doctor Milagro</title>
-    <desc lang="en">La poca experiencia social generarán tensos momentos entre los tutores de Ali Vefa. Pero los prejuicios de algunos de sus colegas no serán impedimento para convertirse en el mejor cirujano.(n)</desc>
-  </programme>
-  <programme start="20240822010000 +0000" stop="20240822020000 +0000" channel="Antena 7">
-    <title lang="en">AN7 2da Emisión</title>
-    <desc lang="en">Noticias e informaciones de actualidad.(n)</desc>
-  </programme>
-  <programme start="20240822020000 +0000" stop="20240822030000 +0000" channel="Antena 7">
-    <title lang="en">Tierra amarga</title>
-    <desc lang="en">Zuleyha y Yilmaz sueñan con casarse, hasta que un criminal intenta abusar de ella.(n)</desc>
   </programme>
   <programme start="20240822030000 +0000" stop="20240822040000 +0000" channel="Antena 7">
     <title lang="en">Confidencial</title>
@@ -21001,21 +20109,6 @@
     <title lang="en">La promesa</title>
     <desc lang="en">Cada año cientos de mujeres caen en las redes de reclutadores que trafican con personas, viéndose forzadas a una vida de esclavitud sexual y laboral. Esta es la historia de «Ana», «Frida» y «Seleni», tres bellas jóvenes engañadas bajo la promesa de alcanzar la vida soñada. Inocentes y vulnerables, con la férrea convicción de que pese a las condiciones adversas en las que viven, pueden alcanzar un mejor futuro.(n)</desc>
     <date>2013</date>
-  </programme>
-  <programme start="20240822001600 +0000" stop="20240822010800 +0000" channel="TNT Novelas">
-    <title lang="en">Recién divorciada</title>
-    <desc lang="en">Ekrem y Zeyno hacen un plan para separar a Timur y Elif,.(n)</desc>
-    <date>2023</date>
-  </programme>
-  <programme start="20240822010800 +0000" stop="20240822015800 +0000" channel="TNT Novelas">
-    <title lang="en">Traicionada, la venganza de la doctora Asya</title>
-    <desc lang="en">Volkan se pregunta si en verdad han secuestrado a Derin o si es todo un juego.(n)</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20240822015800 +0000" stop="20240822025100 +0000" channel="TNT Novelas">
-    <title lang="en">¿Y tú quién eres?</title>
-    <desc lang="en">Demir prepara el dinero del rescate, pero el verdadero plan es diferente: le pedirán otra cosa a cambio de la vida de las chicas. ¿Arriesgará todo e irá él solo a salvarlas?(n)</desc>
-    <date>2023</date>
   </programme>
   <programme start="20240822025100 +0000" stop="20240822035900 +0000" channel="TNT Novelas">
     <title lang="en">La promesa</title>
@@ -21329,342 +20422,6 @@
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
-  </programme>
-  <programme start="20240821001003 -0300" stop="20240821003502 -0300" channel="Tastemade en Español">
-    <title lang="es">Tacos placeros</title>
-    <sub-title lang="es">Tacos con todo</sub-title>
-    <desc lang="es">Tacos placeros, todos los hemos comido en la esquina del trabajo y llegó el momento de hacerlo en casa.(n)</desc>
-    <episode-num system="onscreen">S1 E6</episode-num>
-  </programme>
-  <programme start="20240821003503 -0300" stop="20240821010002 -0300" channel="Tastemade en Español">
-    <title lang="es">Tacos con chapulines</title>
-    <sub-title lang="es">Tacos con todo</sub-title>
-    <desc lang="es">Francisco le da un toque exótico al clásico platillo de pollo al chipotle.(n)</desc>
-    <episode-num system="onscreen">S1 E7</episode-num>
-  </programme>
-  <programme start="20240821010003 -0300" stop="20240821012502 -0300" channel="Tastemade en Español">
-    <title lang="es">Campeche</title>
-    <sub-title lang="es">CostoxDestino</sub-title>
-    <desc lang="es">San Francisco de Campeche, es una ciudad amurallada famosa por sus fuertes.(n)</desc>
-    <episode-num system="onscreen">S1 E1</episode-num>
-  </programme>
-  <programme start="20240821012503 -0300" stop="20240821015002 -0300" channel="Tastemade en Español">
-    <title lang="es">Atlixo y Chautla</title>
-    <sub-title lang="es">CostoxDestino</sub-title>
-    <desc lang="es">Atlixco es un pueblo mágico ubicado en Puebla que se engalana con el volcán Popocatépetl.(n)</desc>
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20240821015003 -0300" stop="20240821021502 -0300" channel="Tastemade en Español">
-    <title lang="es">Tlalpujahua</title>
-    <sub-title lang="es">CostoxDestino</sub-title>
-    <desc lang="es">¿Quieres vivir el espíritu de la Navidad al máximo? Entonces visita Tlalpujahua de Rayón.(n)</desc>
-    <episode-num system="onscreen">S1 E3</episode-num>
-  </programme>
-  <programme start="20240821021503 -0300" stop="20240821024002 -0300" channel="Tastemade en Español">
-    <title lang="es">Destilando Oaxaca: Mezcal</title>
-    <sub-title lang="es">Destilando México</sub-title>
-    <desc lang="es">En este viaje, a través del Mezcal, buscará el espíritu de dicha región tan diversa.(n)</desc>
-    <episode-num system="onscreen">S1 E1</episode-num>
-  </programme>
-  <programme start="20240821024003 -0300" stop="20240821030502 -0300" channel="Tastemade en Español">
-    <title lang="es">Destilando Chihuahua: Sotol</title>
-    <sub-title lang="es">Destilando México</sub-title>
-    <desc lang="es">Miguel se monta en un viaje épico por Chihuahua, sumando kilómetros en tren, carretera, a caballo y a pie.(n)</desc>
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20240821030503 -0300" stop="20240821033003 -0300" channel="Tastemade en Español">
-    <title lang="es">Destilando Puebla: Ancho Reyes</title>
-    <sub-title lang="es">Destilando México</sub-title>
-    <desc lang="es">El estado de todos los moles es también el origen de Ancho Reyes, un licor hecho a base de chile ancho.(n)</desc>
-    <episode-num system="onscreen">S1 E3</episode-num>
-  </programme>
-  <programme start="20240821033004 -0300" stop="20240821035503 -0300" channel="Tastemade en Español">
-    <title lang="es">Héroe de la ciudad natal de Los Ángeles</title>
-    <sub-title lang="es">Big Appetite en Español</sub-title>
-    <desc lang="es">Ben Hundreds recorre su ciudad natal Los Ángeles.(n)</desc>
-    <episode-num system="onscreen">S1 E1</episode-num>
-  </programme>
-  <programme start="20240821035504 -0300" stop="20240821042003 -0300" channel="Tastemade en Español">
-    <title lang="es">Sin dormir hasta Brooklyn</title>
-    <sub-title lang="es">Big Appetite en Español</sub-title>
-    <desc lang="es">Ben obtiene la bondad del vecindario en Bonnie's, un concepto estadounidense cantonés verdaderamente original.(n)</desc>
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20240821042004 -0300" stop="20240821044503 -0300" channel="Tastemade en Español">
-    <title lang="es">Tomando un gran bocado de Boston</title>
-    <sub-title lang="es">Big Appetite en Español</sub-title>
-    <desc lang="es">Ben Hundreds explora lugares inspirados en Boston.(n)</desc>
-    <episode-num system="onscreen">S1 E3</episode-num>
-  </programme>
-  <programme start="20240821044504 -0300" stop="20240821051003 -0300" channel="Tastemade en Español">
-    <title lang="es">Subiendo de nivel en la ciudad de Nueva York</title>
-    <sub-title lang="es">Big Appetite en Español</sub-title>
-    <desc lang="es">Ben Hundreds explora conceptos de vanguardia en Nueva York.(n)</desc>
-    <episode-num system="onscreen">S1 E4</episode-num>
-  </programme>
-  <programme start="20240821051004 -0300" stop="20240821053503 -0300" channel="Tastemade en Español">
-    <title lang="es">Junto al mar en Okinawa</title>
-    <sub-title lang="es">Básico vs. Lujoso</sub-title>
-    <desc lang="es">Brisa del mar, aguas turquesas y una cocina increíble.(n)</desc>
-    <episode-num system="onscreen">S1 E8</episode-num>
-  </programme>
-  <programme start="20240821053504 -0300" stop="20240821060000 -0300" channel="Tastemade en Español">
-    <title lang="es">Recorriendo Lyon</title>
-    <sub-title lang="es">Básico vs. Lujoso</sub-title>
-    <desc lang="es">Marko y Alex se dirigen a Lyon, Francia, una ciudad conocida por su gastronomía e historia interminable.(n)</desc>
-    <episode-num system="onscreen">S1 E7</episode-num>
-  </programme>
-  <programme start="20240821060001 -0300" stop="20240821062600 -0300" channel="Tastemade en Español">
-    <title lang="es">Mi nueva vida en España</title>
-    <sub-title lang="es">Embajadores</sub-title>
-    <desc lang="es">En este episodio conocemos a Rodrigo, brasileño que empezó una nueva vida en Madrid.(n)</desc>
-    <episode-num system="onscreen">S1 E1</episode-num>
-  </programme>
-  <programme start="20240821062601 -0300" stop="20240821065200 -0300" channel="Tastemade en Español">
-    <title lang="es">Mi nueva vida en Suiza</title>
-    <sub-title lang="es">Embajadores</sub-title>
-    <desc lang="es">Marina nos enseña que Suiza es mucho más que chocolate y fondue.(n)</desc>
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20240821065201 -0300" stop="20240821071800 -0300" channel="Tastemade en Español">
-    <title lang="es">Mi nueva vida en Holanda</title>
-    <sub-title lang="es">Embajadores</sub-title>
-    <desc lang="es">Manuel Rodríguez viajó desde Venezuela para empezar una nueva vida en Holanda.(n)</desc>
-    <episode-num system="onscreen">S1 E3</episode-num>
-  </programme>
-  <programme start="20240821071801 -0300" stop="20240821074400 -0300" channel="Tastemade en Español">
-    <title lang="es">Mi nueva vida en Turquia</title>
-    <sub-title lang="es">Embajadores</sub-title>
-    <desc lang="es">¿Cómo es realmente vivir en Turquía? Acompaña a Ana,boliviana de nacimiento, a que nos presente su nuevo hogar.(n)</desc>
-    <episode-num system="onscreen">S1 E4</episode-num>
-  </programme>
-  <programme start="20240821074401 -0300" stop="20240821081000 -0300" channel="Tastemade en Español">
-    <title lang="es">Apocalipsis de Hamburguesas</title>
-    <sub-title lang="es">Todo en mi parrilla</sub-title>
-    <desc lang="es">El chef Dale Talde comienza bien el verano con una explosión de hamburguesas.(n)</desc>
-    <episode-num system="onscreen">S2 E1</episode-num>
-  </programme>
-  <programme start="20240821081001 -0300" stop="20240821083600 -0300" channel="Tastemade en Español">
-    <title lang="es">Salchicha, huevo y queso todo el día</title>
-    <sub-title lang="es">Todo en mi parrilla</sub-title>
-    <desc lang="es">El chef Dale Talde saca lo mejor del brunch con éxitos dulces y salados.(n)</desc>
-    <episode-num system="onscreen">S2 E2</episode-num>
-  </programme>
-  <programme start="20240821083601 -0300" stop="20240821090200 -0300" channel="Tastemade en Español">
-    <title lang="es">Mar y tierra de verano</title>
-    <sub-title lang="es">Todo en mi parrilla</sub-title>
-    <desc lang="es">El chef Dale Talde le da un toque de estilo español a su típico surf 'n' turf al crear Cerdo y almejas.(n)</desc>
-    <episode-num system="onscreen">S2 E3</episode-num>
-  </programme>
-  <programme start="20240821090201 -0300" stop="20240821092800 -0300" channel="Tastemade en Español">
-    <title lang="es">Bistec perfectamente preparado</title>
-    <sub-title lang="es">Todo en mi parrilla</sub-title>
-    <desc lang="es">Dale Talde te muestra cómo preparar y asar a la parrilla los bistecs más grandes y mejores que existen.(n)</desc>
-    <episode-num system="onscreen">S2 E4</episode-num>
-  </programme>
-  <programme start="20240821092801 -0300" stop="20240821095400 -0300" channel="Tastemade en Español">
-    <title lang="es">Comidas Sagradas y Fast Food de la India</title>
-    <sub-title lang="es">Cosas Que Nunca Comí</sub-title>
-    <desc lang="es">Octavio viaja a la India para probar delicias que nunca imaginó.(n)</desc>
-    <episode-num system="onscreen">S3 E1</episode-num>
-  </programme>
-  <programme start="20240821095401 -0300" stop="20240821102000 -0300" channel="Tastemade en Español">
-    <title lang="es">Jama Masjid y curry picante</title>
-    <sub-title lang="es">Cosas Que Nunca Comí</sub-title>
-    <desc lang="es">Octavio conoce una Gaushala, una especie de "santuario de vacas".(n)</desc>
-    <episode-num system="onscreen">S3 E2</episode-num>
-  </programme>
-  <programme start="20240821102001 -0300" stop="20240821104600 -0300" channel="Tastemade en Español">
-    <title lang="es">Lujo y viaje en tren</title>
-    <sub-title lang="es">Cosas Que Nunca Comí</sub-title>
-    <desc lang="es">Octavio prueba la sofisticación culinaria India en el restaurante Lakhori en Old Delhi.(n)</desc>
-    <episode-num system="onscreen">S3 E3</episode-num>
-  </programme>
-  <programme start="20240821104601 -0300" stop="20240821111201 -0300" channel="Tastemade en Español">
-    <title lang="es">Yoga matutino y Thali en Kochi</title>
-    <sub-title lang="es">Cosas Que Nunca Comí</sub-title>
-    <desc lang="es">A orillas del río Ganges, Octavio participa en la primera clase de yoga de su vida.(n)</desc>
-    <episode-num system="onscreen">S3 E4</episode-num>
-  </programme>
-  <programme start="20240821111202 -0300" stop="20240821113801 -0300" channel="Tastemade en Español">
-    <title lang="es">Ayurveda, masaje y pescadores de kochi</title>
-    <sub-title lang="es">Cosas Que Nunca Comí</sub-title>
-    <desc lang="es">En Kochi, Octavio recibe una técnica de masaje hindú que promete armonizar cuerpo, mente y alma.(n)</desc>
-    <episode-num system="onscreen">S3 E5</episode-num>
-  </programme>
-  <programme start="20240821113802 -0300" stop="20240821120401 -0300" channel="Tastemade en Español">
-    <title lang="es">Jamón Ibérico, Sabores de San Sebastián, Quesos y Aceites en Granada</title>
-    <sub-title lang="es">Sofi en España</sub-title>
-    <desc lang="es">Recorremos España con Sofi Pachano para disfrutar de los sabores de este gran país.(n)</desc>
-    <episode-num system="onscreen">S1 E1</episode-num>
-  </programme>
-  <programme start="20240821120402 -0300" stop="20240821123001 -0300" channel="Tastemade en Español">
-    <title lang="es">Churros y Chocolate Caliente en Madrid, Cocktails y Tapas en Barcelona</title>
-    <sub-title lang="es">Sofi en España</sub-title>
-    <desc lang="es">Si ya el título te tentó, no sabes lo que son estas imágenes.(n)</desc>
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20240821123002 -0300" stop="20240821125601 -0300" channel="Tastemade en Español">
-    <title lang="es">Cochinillo Segoviano, Paella de Mariscos en Marbella y Bacalao en San Sebastián</title>
-    <sub-title lang="es">Sofi en España</sub-title>
-    <desc lang="es">Tres platos típicos y exquisitos que no podes dejar de probar si estás en España.(n)</desc>
-    <episode-num system="onscreen">S1 E3</episode-num>
-  </programme>
-  <programme start="20240821125602 -0300" stop="20240821132201 -0300" channel="Tastemade en Español">
-    <title lang="es">Puerto Vallarta</title>
-    <sub-title lang="es">CostoxDestino</sub-title>
-    <desc lang="es">En este Costo x Destino visitamos el malecón de Puerto Vallarta.(n)</desc>
-    <episode-num system="onscreen">S1 E9</episode-num>
-  </programme>
-  <programme start="20240821132202 -0300" stop="20240821134801 -0300" channel="Tastemade en Español">
-    <title lang="es">Zacatecas</title>
-    <sub-title lang="es">CostoxDestino</sub-title>
-    <desc lang="es">Ubicada al centro norte de la República Mexicana se encuentra Zacatecas, la capital del estado.(n)</desc>
-    <episode-num system="onscreen">S1 E10</episode-num>
-  </programme>
-  <programme start="20240821134802 -0300" stop="20240821141401 -0300" channel="Tastemade en Español">
-    <title lang="es">Holbox</title>
-    <sub-title lang="es">CostoxDestino</sub-title>
-    <desc lang="es">Hoy visitamos Holbox, una isla ubicada en el caribe mexicano, famosa por sus calles de arena blanca.(n)</desc>
-    <episode-num system="onscreen">S1 E11</episode-num>
-  </programme>
-  <programme start="20240821141402 -0300" stop="20240821144001 -0300" channel="Tastemade en Español">
-    <title lang="es">Mineral del Chico</title>
-    <sub-title lang="es">CostoxDestino</sub-title>
-    <desc lang="es">Ubicado en el estado de Hidalgo se encuentra Mineral del Chico. Un sitio con más de 200 formaciones rocosas.(n)</desc>
-    <episode-num system="onscreen">S1 E12</episode-num>
-  </programme>
-  <programme start="20240821144002 -0300" stop="20240821150601 -0300" channel="Tastemade en Español">
-    <title lang="es">Navidad mexicana en familia</title>
-    <sub-title lang="es">Hazlo esta noche</sub-title>
-    <desc lang="es">El chef Omar nos comparte las recetas que junto con su papá hacían en Navidad.(n)</desc>
-    <episode-num system="onscreen">S1 E19</episode-num>
-  </programme>
-  <programme start="20240821150602 -0300" stop="20240821153201 -0300" channel="Tastemade en Español">
-    <title lang="es">Cenas de fin de año</title>
-    <sub-title lang="es">Hazlo esta noche</sub-title>
-    <desc lang="es">Estos platillos son ideales para compartir con tus amigos en las fiestas de fin de año.(n)</desc>
-    <episode-num system="onscreen">S1 E20</episode-num>
-  </programme>
-  <programme start="20240821153202 -0300" stop="20240821155801 -0300" channel="Tastemade en Español">
-    <title lang="es">Dulce Navidad</title>
-    <sub-title lang="es">Hazlo esta noche</sub-title>
-    <desc lang="es">El momento del postre es el más esperado en una cena de Navidad.(n)</desc>
-    <episode-num system="onscreen">S1 E21</episode-num>
-  </programme>
-  <programme start="20240821155802 -0300" stop="20240821162401 -0300" channel="Tastemade en Español">
-    <title lang="es">Vino y fiestas</title>
-    <sub-title lang="es">Hazlo esta noche</sub-title>
-    <desc lang="es">Las fiestas de fin de año son el pretexto perfecto para tener una copa de vino en la mano.(n)</desc>
-    <episode-num system="onscreen">S1 E22</episode-num>
-  </programme>
-  <programme start="20240821162402 -0300" stop="20240821165001 -0300" channel="Tastemade en Español">
-    <title lang="es">Montaña de la Mesa, El Gran Gatsby, Prisión de Mandela y Barbacoa en Mama Africa</title>
-    <sub-title lang="es">Cosas Que Nunca Comí</sub-title>
-    <desc lang="es">Tavião comienza el día corriendo con la vista de Table Mountain y lo termina de una manera no tan saludable.(n)</desc>
-    <episode-num system="onscreen">S5 E1</episode-num>
-  </programme>
-  <programme start="20240821165002 -0300" stop="20240821171601 -0300" channel="Tastemade en Español">
-    <title lang="es">Pizza de Algas, Dip Frío y Carne Bizarra</title>
-    <sub-title lang="es">Cosas Que Nunca Comí</sub-title>
-    <desc lang="es">Octavio desafió aguas muy frías para pescar su propia comida, y el resultado fue un hermoso festín.(n)</desc>
-    <episode-num system="onscreen">S5 E2</episode-num>
-  </programme>
-  <programme start="20240821171602 -0300" stop="20240821174201 -0300" channel="Tastemade en Español">
-    <title lang="es">Cabeza de Oveja y Champiñón Silvestre</title>
-    <sub-title lang="es">Cosas Que Nunca Comí</sub-title>
-    <desc lang="es">Octavio pasa el día en una comunidad xhosa, donde vive experiencias increíbles.(n)</desc>
-    <episode-num system="onscreen">S5 E3</episode-num>
-  </programme>
-  <programme start="20240821174202 -0300" stop="20240821180801 -0300" channel="Tastemade en Español">
-    <title lang="es">Garnachas Veganas</title>
-    <sub-title lang="es">La Garnacha nunca Empacha</sub-title>
-    <desc lang="es">Junto con Andrés, saldremos buscando unas buenas garnachas callejeras, pero esta vez diferentes: veganas.(n)</desc>
-    <episode-num system="onscreen">S2 E1</episode-num>
-  </programme>
-  <programme start="20240821180802 -0300" stop="20240821183401 -0300" channel="Tastemade en Español">
-    <title lang="es">Garnachas Golosas</title>
-    <sub-title lang="es">La Garnacha nunca Empacha</sub-title>
-    <desc lang="es">La capital chilanga, gigante y con hambre a todas horas. y los mexicanos buscamos algo grande, y muy golozo.(n)</desc>
-    <episode-num system="onscreen">S2 E2</episode-num>
-  </programme>
-  <programme start="20240821183402 -0300" stop="20240821190001 -0300" channel="Tastemade en Español">
-    <title lang="es">Garnachas de Chilangos para Chilangos</title>
-    <sub-title lang="es">La Garnacha nunca Empacha</sub-title>
-    <desc lang="es">Vamos conocer lugares de comida que alimentan a los chilangos en busca de antojitos de otros estados del país.(n)</desc>
-    <episode-num system="onscreen">S2 E3</episode-num>
-  </programme>
-  <programme start="20240821190002 -0300" stop="20240821192601 -0300" channel="Tastemade en Español">
-    <title lang="es">Santiago y Tolantongo</title>
-    <sub-title lang="es">CostoxDestino</sub-title>
-    <desc lang="es">En este viaje visité la famosa cascada Cola de Caballo.(n)</desc>
-    <episode-num system="onscreen">S1 E4</episode-num>
-  </programme>
-  <programme start="20240821192602 -0300" stop="20240821195201 -0300" channel="Tastemade en Español">
-    <title lang="es">Tequisquiapan</title>
-    <sub-title lang="es">CostoxDestino</sub-title>
-    <desc lang="es">Tequisquiapan es un pueblo mágico y por supuesto degustamos las dos delicias locales.(n)</desc>
-    <episode-num system="onscreen">S1 E5</episode-num>
-  </programme>
-  <programme start="20240821195202 -0300" stop="20240821201801 -0300" channel="Tastemade en Español">
-    <title lang="es">Tlaxco</title>
-    <sub-title lang="es">CostoxDestino</sub-title>
-    <desc lang="es">Tlaxco en Tlaxcala, además es un pueblo mágico que vive entre montañas cubierta de magueyes.(n)</desc>
-    <episode-num system="onscreen">S1 E6</episode-num>
-  </programme>
-  <programme start="20240821201802 -0300" stop="20240821204401 -0300" channel="Tastemade en Español">
-    <title lang="es">Destilando Guerrero: Mezcal</title>
-    <sub-title lang="es">Destilando México</sub-title>
-    <desc lang="es">Un mole único en la romántica ciudad de Taxco.(n)</desc>
-    <episode-num system="onscreen">S1 E4</episode-num>
-  </programme>
-  <programme start="20240821204402 -0300" stop="20240821211001 -0300" channel="Tastemade en Español">
-    <title lang="es">Destilando Chiapas: Pox</title>
-    <sub-title lang="es">Destilando México</sub-title>
-    <desc lang="es">Miguel llega a Chiapas para una experiencia que lo acercará a sus raíces.(n)</desc>
-    <episode-num system="onscreen">S1 E5</episode-num>
-  </programme>
-  <programme start="20240821211002 -0300" stop="20240821213501 -0300" channel="Tastemade en Español">
-    <title lang="es">Destilando Jalisco: Tequila</title>
-    <sub-title lang="es">Destilando México</sub-title>
-    <desc lang="es">Migue llega hasta a una hacienda emblemática para conocer al maestro tequilero más importante del mundo.(n)</desc>
-    <episode-num system="onscreen">S1 E6</episode-num>
-  </programme>
-  <programme start="20240821213502 -0300" stop="20240821220001 -0300" channel="Tastemade en Español">
-    <title lang="es">Destilando Puebla: Ancho Reyes</title>
-    <sub-title lang="es">Destilando México</sub-title>
-    <desc lang="es">El estado de todos los moles es también el origen de Ancho Reyes, un licor hecho a base de chile ancho.(n)</desc>
-    <episode-num system="onscreen">S1 E3</episode-num>
-  </programme>
-  <programme start="20240821220002 -0300" stop="20240821222601 -0300" channel="Tastemade en Español">
-    <title lang="es">Santiago y Tolantongo</title>
-    <sub-title lang="es">CostoxDestino</sub-title>
-    <desc lang="es">En este viaje visité la famosa cascada Cola de Caballo.(n)</desc>
-    <episode-num system="onscreen">S1 E4</episode-num>
-  </programme>
-  <programme start="20240821222602 -0300" stop="20240821225202 -0300" channel="Tastemade en Español">
-    <title lang="es">Tequisquiapan</title>
-    <sub-title lang="es">CostoxDestino</sub-title>
-    <desc lang="es">Tequisquiapan es un pueblo mágico y por supuesto degustamos las dos delicias locales.(n)</desc>
-    <episode-num system="onscreen">S1 E5</episode-num>
-  </programme>
-  <programme start="20240821225203 -0300" stop="20240821231802 -0300" channel="Tastemade en Español">
-    <title lang="es">Tlaxco</title>
-    <sub-title lang="es">CostoxDestino</sub-title>
-    <desc lang="es">Tlaxco en Tlaxcala, además es un pueblo mágico que vive entre montañas cubierta de magueyes.(n)</desc>
-    <episode-num system="onscreen">S1 E6</episode-num>
-  </programme>
-  <programme start="20240821231803 -0300" stop="20240821234402 -0300" channel="Tastemade en Español">
-    <title lang="es">Destilando Guerrero: Mezcal</title>
-    <sub-title lang="es">Destilando México</sub-title>
-    <desc lang="es">Un mole único en la romántica ciudad de Taxco.(n)</desc>
-    <episode-num system="onscreen">S1 E4</episode-num>
-  </programme>
-  <programme start="20240821234403 -0300" stop="20240822001002 -0300" channel="Tastemade en Español">
-    <title lang="es">Destilando Chiapas: Pox</title>
-    <sub-title lang="es">Destilando México</sub-title>
-    <desc lang="es">Miguel llega a Chiapas para una experiencia que lo acercará a sus raíces.(n)</desc>
-    <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
   <programme start="20240822001003 -0300" stop="20240822003502 -0300" channel="Tastemade en Español">
     <title lang="es">Destilando Jalisco: Tequila</title>
@@ -22002,31 +20759,341 @@
     <desc lang="es">Ben Hundreds recorre su ciudad natal Los Ángeles.(n)</desc>
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
-  <programme start="20240822000000 +0000" stop="20240822003000 +0000" channel="TvAgro">
-    <title lang="en">El sembrador y la tierra</title>
-    <desc lang="en">Difusión de temas del campo y el sector agropecuario dentro de un contexto didáctico e informativo. Episodio sobre el tomate de árbol.(n)</desc>
+  <programme start="20240823001003 -0300" stop="20240823003502 -0300" channel="Tastemade en Español">
+    <title lang="es">Sin dormir hasta Brooklyn</title>
+    <sub-title lang="es">Big Appetite en Español</sub-title>
+    <desc lang="es">Ben obtiene la bondad del vecindario en Bonnie's, un concepto estadounidense cantonés verdaderamente original.(n)</desc>
+    <episode-num system="onscreen">S1 E2</episode-num>
   </programme>
-  <programme start="20240822003000 +0000" stop="20240822010000 +0000" channel="TvAgro">
-    <title lang="en">Vivencias</title>
-    <desc lang="en">Situaciones vividas por los humanos dentro de la maleza que pudieron ser fatales.(n)</desc>
+  <programme start="20240823003503 -0300" stop="20240823010002 -0300" channel="Tastemade en Español">
+    <title lang="es">Tomando un gran bocado de Boston</title>
+    <sub-title lang="es">Big Appetite en Español</sub-title>
+    <desc lang="es">Ben Hundreds explora lugares inspirados en Boston.(n)</desc>
+    <episode-num system="onscreen">S1 E3</episode-num>
   </programme>
-  <programme start="20240822010000 +0000" stop="20240822013000 +0000" channel="TvAgro">
-    <title lang="en">Transformadores de Campo</title>
-    <desc lang="en">Una mirada a la vida de los agricultores.(n)</desc>
+  <programme start="20240823010003 -0300" stop="20240823012502 -0300" channel="Tastemade en Español">
+    <title lang="es">Ballenas, ostras y la comunidad Zulú</title>
+    <sub-title lang="es">Cosas Que Nunca Comí</sub-title>
+    <desc lang="es">Octavio se enfrenta a la vida marina para intentar ver ballenas y delfines.(n)</desc>
+    <episode-num system="onscreen">S5 E4</episode-num>
   </programme>
-  <programme start="20240822013000 +0000" stop="20240822020000 +0000" channel="TvAgro">
-    <title lang="en">Manos y oficios</title>
-    <desc lang="en">Un programa con consejos y soluciones en el contexto agropecuario y ambiental.(n)</desc>
-    <date>2020</date>
+  <programme start="20240823012503 -0300" stop="20240823015003 -0300" channel="Tastemade en Español">
+    <title lang="es">Safari, olla africana y bungee en Johannesburgo</title>
+    <sub-title lang="es">Cosas Que Nunca Comí</sub-title>
+    <desc lang="es">Octavio va de safari en el parque nacional.(n)</desc>
+    <episode-num system="onscreen">S5 E5</episode-num>
   </programme>
-  <programme start="20240822020000 +0000" stop="20240822023000 +0000" channel="TvAgro">
-    <title lang="en">Vistazo agropecuario</title>
-    <desc lang="en">Somos el principal magazine informativo del sector agropecuario en nuestro país.(n)</desc>
-    <date>2013</date>
+  <programme start="20240823015004 -0300" stop="20240823021503 -0300" channel="Tastemade en Español">
+    <title lang="es">Casa de Gandhi, Bunny Chow</title>
+    <sub-title lang="es">Cosas Que Nunca Comí</sub-title>
+    <desc lang="es">Octavio visita la casa de Gandhi y luego disfruta de una comida picante.(n)</desc>
+    <episode-num system="onscreen">S5 E6</episode-num>
   </programme>
-  <programme start="20240822023000 +0000" stop="20240822030000 +0000" channel="TvAgro">
-    <title lang="en">Transformadores de Campo</title>
-    <desc lang="en">Una mirada a la vida de los agricultores.(n)</desc>
+  <programme start="20240823021504 -0300" stop="20240823024003 -0300" channel="Tastemade en Español">
+    <title lang="es">Comidas por horario</title>
+    <sub-title lang="es">La Garnacha nunca Empacha</sub-title>
+    <desc lang="es">En una de las ciudades más grandes del mundo, no todos los puestos se encuentran a toda hora.(n)</desc>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20240823024004 -0300" stop="20240823030503 -0300" channel="Tastemade en Español">
+    <title lang="es">El tamaño sí importa</title>
+    <sub-title lang="es">La Garnacha nunca Empacha</sub-title>
+    <desc lang="es">Aquí hay garnachas para todo apetito.(n)</desc>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20240823030504 -0300" stop="20240823033003 -0300" channel="Tastemade en Español">
+    <title lang="es">Comida con sabor de hogar</title>
+    <sub-title lang="es">La Garnacha nunca Empacha</sub-title>
+    <desc lang="es">A veces se antoja el sabor de hogar.(n)</desc>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20240823033004 -0300" stop="20240823035503 -0300" channel="Tastemade en Español">
+    <title lang="es">Ayurveda, masaje y pescadores de kochi</title>
+    <sub-title lang="es">Cosas Que Nunca Comí</sub-title>
+    <desc lang="es">En Kochi, Octavio recibe una técnica de masaje hindú que promete armonizar cuerpo, mente y alma.(n)</desc>
+    <episode-num system="onscreen">S3 E5</episode-num>
+  </programme>
+  <programme start="20240823035504 -0300" stop="20240823042003 -0300" channel="Tastemade en Español">
+    <title lang="es">Jamón Ibérico, Sabores de San Sebastián, Quesos y Aceites en Granada</title>
+    <sub-title lang="es">Sofi en España</sub-title>
+    <desc lang="es">Recorremos España con Sofi Pachano para disfrutar de los sabores de este gran país.(n)</desc>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20240823042004 -0300" stop="20240823044503 -0300" channel="Tastemade en Español">
+    <title lang="es">Churros y Chocolate Caliente en Madrid, Cocktails y Tapas en Barcelona</title>
+    <sub-title lang="es">Sofi en España</sub-title>
+    <desc lang="es">Si ya el título te tentó, no sabes lo que son estas imágenes.(n)</desc>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20240823044504 -0300" stop="20240823051003 -0300" channel="Tastemade en Español">
+    <title lang="es">Cochinillo Segoviano, Paella de Mariscos en Marbella y Bacalao en San Sebastián</title>
+    <sub-title lang="es">Sofi en España</sub-title>
+    <desc lang="es">Tres platos típicos y exquisitos que no podes dejar de probar si estás en España.(n)</desc>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20240823051004 -0300" stop="20240823053503 -0300" channel="Tastemade en Español">
+    <title lang="es">Yoga matutino y Thali en Kochi</title>
+    <sub-title lang="es">Cosas Que Nunca Comí</sub-title>
+    <desc lang="es">A orillas del río Ganges, Octavio participa en la primera clase de yoga de su vida.(n)</desc>
+    <episode-num system="onscreen">S3 E4</episode-num>
+  </programme>
+  <programme start="20240823053504 -0300" stop="20240823060000 -0300" channel="Tastemade en Español">
+    <title lang="es">Vinos espumosos</title>
+    <sub-title lang="es">Vino con Freddy</sub-title>
+    <desc lang="es">¡Bienvenido al especial de fiestas de Freddy Morales! Hoy vamos a aprender todo alrededor del vino espumoso.(n)</desc>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20240823060001 -0300" stop="20240823062600 -0300" channel="Tastemade en Español">
+    <title lang="es">#SofiEn: La Boca y el Barrio Chino</title>
+    <sub-title lang="es">Sofi en Buenos Aires</sub-title>
+    <desc lang="es">Sofi recorre el corazón de dos barrios emblemáticos de Buenos Aires.(n)</desc>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20240823062601 -0300" stop="20240823065200 -0300" channel="Tastemade en Español">
+    <title lang="es">#SofiEn: Calle Corrientes y San Telmo</title>
+    <sub-title lang="es">Sofi en Buenos Aires</sub-title>
+    <desc lang="es">Sofi Pachano recorre dos emblemas de Buenos Aires.(n)</desc>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20240823065201 -0300" stop="20240823071800 -0300" channel="Tastemade en Español">
+    <title lang="es">#SofiEn: Tigre, Palermo y Abasto</title>
+    <sub-title lang="es">Sofi en Buenos Aires</sub-title>
+    <desc lang="es">Buenos Aires es sinónimo de cerveza artesanal, pizza y empanadas. A disfrutar.(n)</desc>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20240823071801 -0300" stop="20240823074400 -0300" channel="Tastemade en Español">
+    <title lang="es">#SofiEn: Dulce de Leche, Helado, y sorpresa Española</title>
+    <sub-title lang="es">Sofi en Buenos Aires</sub-title>
+    <desc lang="es">Un tour por los mejores sabores de España.(n)</desc>
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20240823074401 -0300" stop="20240823081000 -0300" channel="Tastemade en Español">
+    <title lang="es">Fiesta de pizza a la parrilla</title>
+    <sub-title lang="es">Todo en mi parrilla</sub-title>
+    <desc lang="es">¡Es hora de pizza! El chef Dale Talde cocina increíbles pizzas para todos los paladares.(n)</desc>
+    <episode-num system="onscreen">S2 E5</episode-num>
+  </programme>
+  <programme start="20240823081001 -0300" stop="20240823083600 -0300" channel="Tastemade en Español">
+    <title lang="es">Asa estos sándwiches</title>
+    <sub-title lang="es">Todo en mi parrilla</sub-title>
+    <desc lang="es">El presentador de Mad Good Food, Derrell Smith, se une al chef Dale Talde en la parrilla.(n)</desc>
+    <episode-num system="onscreen">S2 E6</episode-num>
+  </programme>
+  <programme start="20240823083601 -0300" stop="20240823090200 -0300" channel="Tastemade en Español">
+    <title lang="es">Camarones y ostras al estilo de Nueva Orleans</title>
+    <sub-title lang="es">Todo en mi parrilla</sub-title>
+    <desc lang="es">El chef Dale Talde nos lleva al pantano mientras crea un menú inspirado en Nueva Orleans.(n)</desc>
+    <episode-num system="onscreen">S2 E7</episode-num>
+  </programme>
+  <programme start="20240823090201 -0300" stop="20240823092800 -0300" channel="Tastemade en Español">
+    <title lang="es">Domingo de brisket vietnamita con fideos</title>
+    <sub-title lang="es">Todo en mi parrilla</sub-title>
+    <desc lang="es">El chef Dale Talde nos muestra cómo le va bien el domingo.(n)</desc>
+    <episode-num system="onscreen">S2 E8</episode-num>
+  </programme>
+  <programme start="20240823092801 -0300" stop="20240823095400 -0300" channel="Tastemade en Español">
+    <title lang="es">Botanitas</title>
+    <sub-title lang="es">Probando el menú</sub-title>
+    <desc lang="es">En este reto Jackie va probar diferentes alimentos.(n)</desc>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20240823095401 -0300" stop="20240823102001 -0300" channel="Tastemade en Español">
+    <title lang="es">Dulces</title>
+    <sub-title lang="es">Probando el menú</sub-title>
+    <desc lang="es">¡Jackie está imparable! En este capítulo adivinará entre sabores dulces, esponjosos y muy chocolatosos.(n)</desc>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20240823102002 -0300" stop="20240823104601 -0300" channel="Tastemade en Español">
+    <title lang="es">Refrescos</title>
+    <sub-title lang="es">Probando el menú</sub-title>
+    <desc lang="es">¿Qué vamos a probar el día de hoy? Jackie se enfrenta a un reto de bebidas exóticas.(n)</desc>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20240823104602 -0300" stop="20240823111201 -0300" channel="Tastemade en Español">
+    <title lang="es">Recorriendo Asia</title>
+    <sub-title lang="es">Colombiajeros</sub-title>
+    <desc lang="es">Vamos a explorar otras culturas de la mano de Dur y Luis. Hoy nos adentramos a los rincones de Asia.(n)</desc>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20240823111202 -0300" stop="20240823113801 -0300" channel="Tastemade en Español">
+    <title lang="es">Recorriendo Asia - Parte Dos</title>
+    <sub-title lang="es">Colombiajeros</sub-title>
+    <desc lang="es">Sigue este viaje inolvidable con Dur y Luis para conocer todos los sabores y detalles de la cultura de Asia.(n)</desc>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20240823113802 -0300" stop="20240823120401 -0300" channel="Tastemade en Español">
+    <title lang="es">Hamburguesa Pulp Fiction, Pastelitos Game of Thrones y más</title>
+    <sub-title lang="es">Sabores de Ficción</sub-title>
+    <desc lang="es">Desde Pulp Fiction hasta Friends hoy recorreremos los platos más emblemáticos de las películas más geniales.(n)</desc>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20240823120402 -0300" stop="20240823123001 -0300" channel="Tastemade en Español">
+    <title lang="es">Pizza de las Tortugas Ninja y Costillas de House of Cards</title>
+    <sub-title lang="es">Sabores de Ficción</sub-title>
+    <desc lang="es">Con cuál te quedas tu.(n)</desc>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20240823123002 -0300" stop="20240823125601 -0300" channel="Tastemade en Español">
+    <title lang="es">Strudel de Bastardos sin Gloria, Pastel de Chocolate de Matilda</title>
+    <sub-title lang="es">Sabores de Ficción</sub-title>
+    <desc lang="es">Cristina Dacosta nos sigue sorprendiendo con los mejores platos de películas.(n)</desc>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20240823125602 -0300" stop="20240823132201 -0300" channel="Tastemade en Español">
+    <title lang="es">Val'quirico y Bernal</title>
+    <sub-title lang="es">CostoxDestino</sub-title>
+    <desc lang="es">Val'quirico en el estado de Tlaxcala que por su arquitectura nos transporta a la Toscana Italiana.(n)</desc>
+    <episode-num system="onscreen">S1 E17</episode-num>
+  </programme>
+  <programme start="20240823132202 -0300" stop="20240823134801 -0300" channel="Tastemade en Español">
+    <title lang="es">Vuelo en Globo y Cholula</title>
+    <sub-title lang="es">CostoxDestino</sub-title>
+    <desc lang="es">San Juan Teotihuacán y San Martín de las pirámides.(n)</desc>
+    <episode-num system="onscreen">S1 E18</episode-num>
+  </programme>
+  <programme start="20240823134802 -0300" stop="20240823141401 -0300" channel="Tastemade en Español">
+    <title lang="es">Campeche</title>
+    <sub-title lang="es">CostoxDestino</sub-title>
+    <desc lang="es">San Francisco de Campeche, es una ciudad amurallada famosa por sus fuertes.(n)</desc>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20240823141402 -0300" stop="20240823144001 -0300" channel="Tastemade en Español">
+    <title lang="es">Atlixo y Chautla</title>
+    <sub-title lang="es">CostoxDestino</sub-title>
+    <desc lang="es">Atlixco es un pueblo mágico ubicado en Puebla que se engalana con el volcán Popocatépetl.(n)</desc>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20240823144002 -0300" stop="20240823150601 -0300" channel="Tastemade en Español">
+    <title lang="es">Como pez en el agua</title>
+    <sub-title lang="es">Hazlo esta noche</sub-title>
+    <desc lang="es">Desde Perú hasta la cocina de Tastemade.(n)</desc>
+    <episode-num system="onscreen">S2 E2</episode-num>
+  </programme>
+  <programme start="20240823150602 -0300" stop="20240823153201 -0300" channel="Tastemade en Español">
+    <title lang="es">Pesca de Valparaiso</title>
+    <sub-title lang="es">Hazlo esta noche</sub-title>
+    <desc lang="es">La chef nos prepara palta cardenal, calugas de pescado frito con pebre y caldillo de pescado con mariscos.(n)</desc>
+    <episode-num system="onscreen">S2 E3</episode-num>
+  </programme>
+  <programme start="20240823153202 -0300" stop="20240823155801 -0300" channel="Tastemade en Español">
+    <title lang="es">Chile en un bocado</title>
+    <sub-title lang="es">Hazlo esta noche</sub-title>
+    <desc lang="es">Viaje por Chile con tres platillos: sopaipilla con criollita, pastel de choclo y corvina tartare.(n)</desc>
+    <episode-num system="onscreen">S2 E4</episode-num>
+  </programme>
+  <programme start="20240823155802 -0300" stop="20240823162401 -0300" channel="Tastemade en Español">
+    <title lang="es">Visita al litoral Argentino</title>
+    <sub-title lang="es">Hazlo esta noche</sub-title>
+    <desc lang="es">El chef Ramiro Solis nos presenta lo mejor del litoral argentino, empanadas de mandioca y tacos de Mbeyú.(n)</desc>
+    <episode-num system="onscreen">S2 E5</episode-num>
+  </programme>
+  <programme start="20240823162402 -0300" stop="20240823165001 -0300" channel="Tastemade en Español">
+    <title lang="es">Recetas para la cruda</title>
+    <sub-title lang="es">Aquiles Chávez Desafío Latinoamérica</sub-title>
+    <desc lang="es">Hoy el Chef Aquiles recibe a Kathe Martínez, para que juntos cocinen las mejores rectas para la resaca.(n)</desc>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20240823165002 -0300" stop="20240823171601 -0300" channel="Tastemade en Español">
+    <title lang="es">Antojo Preferido</title>
+    <sub-title lang="es">Aquiles Chávez Desafío Latinoamérica</sub-title>
+    <desc lang="es">Hoy Aquiles recibe a Jorge Espinal, cocinero peruano, para desafiarlo a un duelo por el mejor ceviche.(n)</desc>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20240823171602 -0300" stop="20240823174201 -0300" channel="Tastemade en Español">
+    <title lang="es">Reunión con amigos</title>
+    <sub-title lang="es">Aquiles Chávez Desafío Latinoamérica</sub-title>
+    <desc lang="es">Aquiles recibe a Ivanova Hidalgo, cocinera venezolana para preparar comida para los amigos.(n)</desc>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20240823174202 -0300" stop="20240823180801 -0300" channel="Tastemade en Español">
+    <title lang="es">Pescados y Mariscos</title>
+    <sub-title lang="es">Netas y Carbones</sub-title>
+    <desc lang="es">Hoy tocó echar mariscos a la parrilla, haremos pescada a la talla, aguacates rellenos y piñas asadas.(n)</desc>
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20240823180802 -0300" stop="20240823183401 -0300" channel="Tastemade en Español">
+    <title lang="es">Asado de Vegetales</title>
+    <sub-title lang="es">Netas y Carbones</sub-title>
+    <desc lang="es">¡Hoy nos toca una parrilla más ligera! Hoy Paco y Omar se rifan una parrillada vegetariana.(n)</desc>
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20240823183402 -0300" stop="20240823190001 -0300" channel="Tastemade en Español">
+    <title lang="es">Tacos a la parrilla</title>
+    <sub-title lang="es">Netas y Carbones</sub-title>
+    <desc lang="es">Paco y Omar son taqueros de profesión así que hoy se lucieron con taquitos a las brazas.(n)</desc>
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20240823190002 -0300" stop="20240823192601 -0300" channel="Tastemade en Español">
+    <title lang="es">Los Ángeles</title>
+    <sub-title lang="es">Burger Tour</sub-title>
+    <desc lang="es">¡Bienvenidos a Burger Tour! Hoy vamos a recorrer Los Ángeles para descubrir la mejor hamburguesa.(n)</desc>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20240823192602 -0300" stop="20240823195202 -0300" channel="Tastemade en Español">
+    <title lang="es">San Diego</title>
+    <sub-title lang="es">Burger Tour</sub-title>
+    <desc lang="es">Hoy vamos a estar recorriendo la maravillosa ciudad de San Diego, se vienen 3 hamburgueserías bien chéveres.(n)</desc>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20240823195203 -0300" stop="20240823201802 -0300" channel="Tastemade en Español">
+    <title lang="es">San Francisco</title>
+    <sub-title lang="es">Burger Tour</sub-title>
+    <desc lang="es">Nos encontramos en Golden Gate Bridge, y vamos a visitar restaurantes en busca de las mejores hamburguesas.(n)</desc>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20240823201803 -0300" stop="20240823204402 -0300" channel="Tastemade en Español">
+    <title lang="es">Verduras, pero deliciosas</title>
+    <sub-title lang="es">Todo en mi parrilla</sub-title>
+    <desc lang="es">Asar a la parrilla es la manera perfecta de comer verduras deliciosas.(n)</desc>
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20240823204403 -0300" stop="20240823211002 -0300" channel="Tastemade en Español">
+    <title lang="es">Brunch a la parrilla</title>
+    <sub-title lang="es">Todo en mi parrilla</sub-title>
+    <desc lang="es">¡Despierta, es hora de asar! El chef Dale da la bienvenida al día con un brunch al asador.(n)</desc>
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20240823211003 -0300" stop="20240823213502 -0300" channel="Tastemade en Español">
+    <title lang="es">El episodio del pollo</title>
+    <sub-title lang="es">Todo en mi parrilla</sub-title>
+    <desc lang="es">Si vas a asar pollo, querrás hacerlo bien.(n)</desc>
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20240823213503 -0300" stop="20240823220002 -0300" channel="Tastemade en Español">
+    <title lang="es">Pasadena</title>
+    <sub-title lang="es">Burger Tour</sub-title>
+    <desc lang="es">Estamos en la ciudad de Pasadena y hoy vamos a visitar 3 restaurantes con propuestas únicas.(n)</desc>
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20240823220003 -0300" stop="20240823222602 -0300" channel="Tastemade en Español">
+    <title lang="es">Los Ángeles</title>
+    <sub-title lang="es">Burger Tour</sub-title>
+    <desc lang="es">¡Bienvenidos a Burger Tour! Hoy vamos a recorrer Los Ángeles para descubrir la mejor hamburguesa.(n)</desc>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20240823222603 -0300" stop="20240823225202 -0300" channel="Tastemade en Español">
+    <title lang="es">San Diego</title>
+    <sub-title lang="es">Burger Tour</sub-title>
+    <desc lang="es">Hoy vamos a estar recorriendo la maravillosa ciudad de San Diego, se vienen 3 hamburgueserías bien chéveres.(n)</desc>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20240823225203 -0300" stop="20240823231802 -0300" channel="Tastemade en Español">
+    <title lang="es">San Francisco</title>
+    <sub-title lang="es">Burger Tour</sub-title>
+    <desc lang="es">Nos encontramos en Golden Gate Bridge, y vamos a visitar restaurantes en busca de las mejores hamburguesas.(n)</desc>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20240823231803 -0300" stop="20240823234402 -0300" channel="Tastemade en Español">
+    <title lang="es">Verduras, pero deliciosas</title>
+    <sub-title lang="es">Todo en mi parrilla</sub-title>
+    <desc lang="es">Asar a la parrilla es la manera perfecta de comer verduras deliciosas.(n)</desc>
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20240823234403 -0300" stop="20240824001002 -0300" channel="Tastemade en Español">
+    <title lang="es">Brunch a la parrilla</title>
+    <sub-title lang="es">Todo en mi parrilla</sub-title>
+    <desc lang="es">¡Despierta, es hora de asar! El chef Dale da la bienvenida al día con un brunch al asador.(n)</desc>
+    <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
   <programme start="20240822030000 +0000" stop="20240822033000 +0000" channel="TvAgro">
     <title lang="en">Entre establos y praderas</title>
@@ -22439,17 +21506,6 @@
     <desc lang="en">Programa con transmisión en vivo, en el cuál se ofrecen ganados de cualquier especie, permitiendo comprar los animales desde la comodidad de su casa sin tener que desplazarse.(n)</desc>
     <date>2015</date>
   </programme>
-  <programme start="20240822000000 +0000" stop="20240822003000 +0000" channel="WIN Sports">
-    <title lang="en">Previa: Fútbol colombiano Primera B</title>
-    <desc lang="en">Información previa al partido, datos de equipos y análisis de estadísticas entre Unión Magdalena vs. Cúcuta.(n)</desc>
-    <date>2024</date>
-  </programme>
-  <programme start="20240822003000 +0000" stop="20240822023000 +0000" channel="WIN Sports">
-    <title lang="en">Fútbol colombiano: Primera B</title>
-    <desc lang="en">Jornada 1 Unión Magdalena vs. Cúcuta. (Live).(n)</desc>
-    <date>2024</date>
-    <premiere lang="en" />
-  </programme>
   <programme start="20240822023000 +0000" stop="20240822033000 +0000" channel="WIN Sports">
     <title lang="en">Win Noticias</title>
     <desc lang="en">Un completo recorrido por el deporte nacional e internacional en un show dinámico e informativo. (Live).(n)</desc>
@@ -22586,26 +21642,6 @@
   </programme>
   <programme start="20240823233000 +0000" stop="20240824000000 +0000" channel="WIN Sports">
     <title lang="en">Previo - Mundial de beisbol - Sub 15</title>
-  </programme>
-  <programme start="20240822000000 +0000" stop="20240822003000 +0000" channel="Trece">
-    <title lang="en">Enlace Trece</title>
-    <desc lang="en">Somos un grupo de jovenes altruista pensando siempre en el bienestar de personas enfermas de escasos recursos con el fin de ofrecer un tratamiento digno y accesible para su recuperación .(n)</desc>
-  </programme>
-  <programme start="20240822003000 +0000" stop="20240822013000 +0000" channel="Trece">
-    <title lang="en">Campo de juego</title>
-    <date>2019</date>
-  </programme>
-  <programme start="20240822013000 +0000" stop="20240822020000 +0000" channel="Trece">
-    <title lang="en">Talento es lo que hay</title>
-    <desc lang="en">Conocemos a los colombianos que impactan positivamente en sus comunidades a través de su talento.(n)</desc>
-  </programme>
-  <programme start="20240822020000 +0000" stop="20240822023000 +0000" channel="Trece">
-    <title lang="en">Tonada al viento</title>
-    <desc lang="en">Ángel sale de la cárcel luego de una condena de veinte años. Su única opción es regresar a donde perdió todo. Al llegar pide trabajo en la hacienda en la que trabajo cuando era un muchacho, pero el patrón ha muerto y su hija está a cargo.(n)</desc>
-  </programme>
-  <programme start="20240822023000 +0000" stop="20240822030000 +0000" channel="Trece">
-    <title lang="en">Tan lejos como puedas</title>
-    <desc lang="en">Conoce a los miembros de El Diamante.(n)</desc>
   </programme>
   <programme start="20240822030000 +0000" stop="20240822034000 +0000" channel="Trece">
     <title lang="en">Music for Life</title>
@@ -22825,20 +21861,6 @@
   <programme start="20240823233000 +0000" stop="20240824000000 +0000" channel="Trece">
     <title lang="en">Hablemos de paz Y DDHH</title>
     <desc lang="en">El análisis del conflicto armado, el proceso de paz, las víctimas y los actores de la confrontación.(n)</desc>
-  </programme>
-  <programme start="20240822000000 +0000" stop="20240822010000 +0000" channel="INTI Network">
-    <title lang="en">De la Chancla al Nirvana</title>
-    <desc lang="en">Mediante un recorrido de amor y armonía aprenderemos acerca de la relación parental. Acepta esta invitación a analizar situaciones que ameritan serenidad en momentos de caos. Entrevistas a padres e hijos que debaten sobre los distintos puntos de vista de la crianza.(n)</desc>
-    <date>2017</date>
-  </programme>
-  <programme start="20240822010000 +0000" stop="20240822020000 +0000" channel="INTI Network">
-    <title lang="en">Crecer sin límites</title>
-    <desc lang="en">Profundo autoanálisis que te lleva al éxito, a la salud emocional y a la felicidad plena.(n)</desc>
-  </programme>
-  <programme start="20240822020000 +0000" stop="20240822030000 +0000" channel="INTI Network">
-    <title lang="en">Del huerto a la mesa</title>
-    <desc lang="en">El chef yogi Mariano Garcés te enseña trucos para una cocina sana, además de nuevas recetas en las que se fusiona la buena comida y la posibilidad de vivir en armonía con la naturaleza y los alimentos que ella provee.(n)</desc>
-    <date>2016</date>
   </programme>
   <programme start="20240822030000 +0000" stop="20240822033000 +0000" channel="INTI Network">
     <title lang="en">Sexualidad integral</title>
@@ -23114,36 +22136,6 @@
     <desc lang="en">Programa de entretenimiento.(n)</desc>
     <date>2020</date>
   </programme>
-  <programme start="20240822000000 +0000" stop="20240822010000 +0000" channel="Claro Sports 2">
-    <title lang="en">Deportes en claro</title>
-    <desc lang="en">Programa de contenido deportivo.(n)</desc>
-    <rating system="MPAA">
-      <value>B</value>
-    </rating>
-  </programme>
-  <programme start="20240822010000 +0000" stop="20240822013000 +0000" channel="Claro Sports 2">
-    <title lang="en">Claro Sports</title>
-  </programme>
-  <programme start="20240822013000 +0000" stop="20240822020000 +0000" channel="Claro Sports 2">
-    <title lang="en">Claro Sports</title>
-  </programme>
-  <programme start="20240822020000 +0000" stop="20240822023000 +0000" channel="Claro Sports 2">
-    <title lang="en">La jornada</title>
-    <desc lang="en">Un programa de actualidad que aborda lo más improtante del día a día en el mundo del deporte. (Live).(n)</desc>
-    <date>2019</date>
-    <premiere lang="en" />
-    <rating system="MPAA">
-      <value>A</value>
-    </rating>
-  </programme>
-  <programme start="20240822023000 +0000" stop="20240822030000 +0000" channel="Claro Sports 2">
-    <title lang="en">Deportes en claro</title>
-    <desc lang="en">Programa de contenido deportivo. (Live).(n)</desc>
-    <premiere lang="en" />
-    <rating system="MPAA">
-      <value>B</value>
-    </rating>
-  </programme>
   <programme start="20240822030000 +0000" stop="20240822040000 +0000" channel="Claro Sports 2">
     <title lang="en">Jugando Claro</title>
     <desc lang="en">Programa deportivo de Claro que te acerca a tus equipos favoritos, a los mejores jugadores y lo más exclusivo. El debate más pasional y las mejores entrevistas. (Live).(n)</desc>
@@ -23378,15 +22370,6 @@
       <value>A</value>
     </rating>
   </programme>
-  <programme start="20240822014500 +0000" stop="20240822024500 +0000" channel="Azteca Internacional">
-    <title lang="en">Acércate a Rocío</title>
-    <desc lang="en">Hablar de los problemas es el primer paso para superarlos, por eso, Rocío trae un programa único para hablar de todo lo que preocupa y, en conjunto, encontrar una solución.(n)</desc>
-  </programme>
-  <programme start="20240822024500 +0000" stop="20240822030000 +0000" channel="Azteca Internacional">
-    <title lang="en">Al extremo</title>
-    <desc lang="en">Al Extremo se atreve a decir lo que ningún otro programa. Redefine la televisión noticiosa intensificándola mientras lleva al espectador en un salvaje recorrido a través de los eventos más impactantes alrededor del mundo. Notas de interés...(n)</desc>
-    <date>2008</date>
-  </programme>
   <programme start="20240822030000 +0000" stop="20240822043000 +0000" channel="Azteca Internacional">
     <title lang="en">La academia: camino a la fama</title>
     <desc lang="en">Ricardo Casares y Vanessa Claudio mostrarán al público paso a paso el desarrollo de los alumnos.(n)</desc>
@@ -23590,27 +22573,6 @@
   <programme start="20240823233000 +0000" stop="20240824014500 +0000" channel="Azteca Internacional">
     <title lang="en">Acércate a Rocío</title>
     <desc lang="en">Hablar de tus problemas es el primer paso para superarlos, por eso Rocío Sánchez Azuara está de regreso con un programa único, en el cual, podrás acercarte, para que con ella, hables de todo lo que te preocupa, y juntas o juntos, puedan encontrar una solución.(n)</desc>
-    <date>2021</date>
-  </programme>
-  <programme start="20240822000000 +0000" stop="20240822004500 +0000" channel="AzCorazón">
-    <title lang="en">Destino</title>
-    <desc lang="en">Sebastián no le dice nada a Grecia sobre su enemigo.(n)</desc>
-    <date>2013</date>
-  </programme>
-  <programme start="20240822004500 +0000" stop="20240822013000 +0000" channel="AzCorazón">
-    <title lang="en">Destino - Parte 2</title>
-    <date>2019</date>
-  </programme>
-  <programme start="20240822013000 +0000" stop="20240822021500 +0000" channel="AzCorazón">
-    <title lang="en">Así en el barrio como en el cielo</title>
-    <sub-title lang="en">Expedito le declara su gran amor a Franceca</sub-title>
-    <desc lang="en">Expedito intenta asfixiar a Alfie cuando llega al hospital. Le reclama por dejar sola a Francesca en una habitación de hotel y por permitir que se aventara al vacío desde ahí.(n)</desc>
-    <date>2021</date>
-  </programme>
-  <programme start="20240822021500 +0000" stop="20240822030000 +0000" channel="AzCorazón">
-    <title lang="en">Así en el barrio como en el cielo</title>
-    <sub-title lang="en">María se entera que Cassandra está embarazada</sub-title>
-    <desc lang="en">Lucy Fer intenta asfixiar a Francesca mientras se recupera en el hospital, al despertar, Francesca no la ve y de repente se le vuelve aparecer, para decirle que se está volviendo loca después del intento de suicidio en el que falló, pues sólo está en su imaginación.(n)</desc>
     <date>2021</date>
   </programme>
   <programme start="20240822030000 +0000" stop="20240822034500 +0000" channel="AzCorazón">
@@ -23919,30 +22881,6 @@
   <programme start="20240823231500 +0000" stop="20240824000000 +0000" channel="AzCorazón">
     <title lang="en">Tengo Todo Excepto a Ti</title>
     <date>2018</date>
-  </programme>
-  <programme start="20240822000000 +0000" stop="20240822003000 +0000" channel="AzClic">
-    <title lang="en">Conecta</title>
-    <date>2024</date>
-  </programme>
-  <programme start="20240822003000 +0000" stop="20240822010000 +0000" channel="AzClic">
-    <title lang="en">Azteca Fit</title>
-    <date>2024</date>
-  </programme>
-  <programme start="20240822010000 +0000" stop="20240822013000 +0000" channel="AzClic">
-    <title lang="en">Mesa y cuchara</title>
-    <date>2024</date>
-  </programme>
-  <programme start="20240822013000 +0000" stop="20240822020000 +0000" channel="AzClic">
-    <title lang="en">Amor x México</title>
-    <date>2024</date>
-  </programme>
-  <programme start="20240822020000 +0000" stop="20240822023000 +0000" channel="AzClic">
-    <title lang="en">Mostro garage</title>
-    <date>2024</date>
-  </programme>
-  <programme start="20240822023000 +0000" stop="20240822030000 +0000" channel="AzClic">
-    <title lang="en">Conecta</title>
-    <date>2024</date>
   </programme>
   <programme start="20240822030000 +0000" stop="20240822033000 +0000" channel="AzClic">
     <title lang="en">Mesa y cuchara</title>
@@ -24304,23 +23242,6 @@
     <title lang="en">Mesa y cuchara</title>
     <date>2024</date>
   </programme>
-  <programme start="20240822000000 +0000" stop="20240822003000 +0000" channel="Concert Channel">
-    <title lang="en">360 Sessions</title>
-    <desc lang="en">Los miembros de la banda británica hablan de su vida mientras graban su disco en Los Ángeles.(n)</desc>
-    <date>2023</date>
-    <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20240822003000 +0000" stop="20240822013000 +0000" channel="Concert Channel">
-    <title lang="en">Memory Lane</title>
-    <date>2023</date>
-  </programme>
-  <programme start="20240822013000 +0000" stop="20240822023000 +0000" channel="Concert Channel">
-    <title lang="en">Other Voices</title>
-    <desc lang="en">Música en vivo de estrellas irlandesas e internacionales en un entorno único e íntimo.(n)</desc>
-    <date>2016</date>
-  </programme>
   <programme start="20240822023000 +0000" stop="20240822033000 +0000" channel="Concert Channel">
     <title lang="en">Later... with Jools Holland</title>
     <date>2024</date>
@@ -24526,20 +23447,6 @@
   <programme start="20240823230000 +0000" stop="20240824003800 +0000" channel="Concert Channel">
     <title lang="en">INXS: Live Baby Live</title>
     <date>2020</date>
-  </programme>
-  <programme start="20240822000000 +0000" stop="20240822010000 +0000" channel="Pasiones (LAT)">
-    <title lang="en">La gata</title>
-    <desc lang="en">Esmeralda, conocida como "la Gata" es una joven pobre que vive en un barrio deprimido. Doña Rita, quien le da vivienda a Esmeralda, la explotará para poder conseguir dinero a partir de las limosnas. A pesar de todo, la dulzura y la bondad siempre está en el carácter de "la Gata".(n)</desc>
-    <date>2019</date>
-  </programme>
-  <programme start="20240822010000 +0000" stop="20240822020000 +0000" channel="Pasiones (LAT)">
-    <title lang="en">Mi mentira más dulce</title>
-    <desc lang="en">La serie se centra en el inesperado romance entre Nejat, un ejecutivo de publicidad y la dueña de una pequeña pastelería, Suna. Nejat tiene una vida tranquila junto a su hija Kayra, ya que su mujer les abandonó cuando la niña era tan solo un bebé, así que ésta cree que su madre está en África ayudando a otros niños y que algún día volverá.(n)</desc>
-  </programme>
-  <programme start="20240822020000 +0000" stop="20240822030000 +0000" channel="Pasiones (LAT)">
-    <title lang="en">Orgullo y Pasión</title>
-    <desc lang="en">Teleserie brasileña sobre una joven rebelde y llena de sueños que lucha contra el destino del matrimonio sin amor.(n)</desc>
-    <date>2018</date>
   </programme>
   <programme start="20240822030000 +0000" stop="20240822040000 +0000" channel="Pasiones (LAT)">
     <title lang="en">La gata</title>
@@ -24753,15 +23660,6 @@
     <desc lang="en">Elif es separada de su madre y enviada a vivir con una amiga de ella que es ama de llaves de la magnifica mansión en la que vive su padre y la familia de este, sin que su progenitor sepa de la relación de parentesco que les une.(n)</desc>
     <date>2014</date>
   </programme>
-  <programme start="20240822000000 +0000" stop="20240822010000 +0000" channel="Canal RCN">
-    <title lang="en">Noticias RCN - La hora de todos</title>
-    <desc lang="en">Noticias RCN presenta las noticias más relevantes para todos.(n)</desc>
-    <date>2023</date>
-  </programme>
-  <programme start="20240822010000 +0000" stop="20240822023000 +0000" channel="Canal RCN">
-    <title lang="en">MasterChef Celebrity</title>
-    <desc lang="en">Diez famosos aspirantes deben mostrar su pericia culinaria, oculta hasta hoy y que solo sus familiares y amigos han disfrutado, mientras que otros empiezan casi desde cero y deben ponerse a su altura.(n)</desc>
-  </programme>
   <programme start="20240822023000 +0000" stop="20240822033000 +0000" channel="Canal RCN">
     <title lang="en">Betty la Fea</title>
     <desc lang="en">Una joven poco agraciada se dedica a estudiar y a prepararse profesionalmente, mientras sus conocidas se dedican a parrandear y a aventurar en el amor.(n)</desc>
@@ -24956,15 +23854,6 @@
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
-  </programme>
-  <programme start="20240822000000 +0000" stop="20240822010000 +0000" channel="Canal Uno">
-    <title lang="en">Sin carreta</title>
-    <desc lang="en">Una experiencia informativa sin igual.(n)</desc>
-    <date>2023</date>
-  </programme>
-  <programme start="20240822010000 +0000" stop="20240822030000 +0000" channel="Canal Uno">
-    <title lang="en">Noticentro 1 CM &amp; Emisión central</title>
-    <desc lang="en">Toda la información de Colombia y el mundo.(n)</desc>
   </programme>
   <programme start="20240822030000 +0000" stop="20240822040000 +0000" channel="Canal Uno">
     <title lang="en">Chicago Fire</title>
@@ -25245,16 +24134,6 @@
     <title lang="en">Caso cerrado: Edición estelar</title>
     <desc lang="en">En su edición estelar, este espacio te mostrará las historias más humanas y vivirás las emociones más intensas. Prepárate para llorar y conmoverte con casos que la doctora Polo buscará resolver de la manera más justa.(n)</desc>
   </programme>
-  <programme start="20240822000000 +0000" stop="20240822010000 +0000" channel="Caracol Televisión">
-    <title lang="en">Noticias 19:00 Caracol</title>
-    <desc lang="en">Servicio informativo con los acontecimientos más relevantes de Colombia y el mundo.(n)</desc>
-    <date>2009</date>
-  </programme>
-  <programme start="20240822010000 +0000" stop="20240822023000 +0000" channel="Caracol Televisión">
-    <title lang="en">Desafío XX</title>
-    <desc lang="en">Desafío vuelve a las pantallas de Caracol Televisión en su vigésima edición.(n)</desc>
-    <date>2024</date>
-  </programme>
   <programme start="20240822023000 +0000" stop="20240822033000 +0000" channel="Caracol Televisión">
     <title lang="en">Klass 95</title>
   </programme>
@@ -25438,18 +24317,6 @@
     <title lang="en">La Novia de Estambul</title>
     <desc lang="en">Una madre soltera de alrededor de 30 años trata de educar a su hija Olive. Sin embargo, su personalidad se sale de lo convencional y, en varias ocasiones, de lo "políticamente" correcto. Debido al profundo amor que siente por ella, se plantea la posibilidad de tener un segundo hijo con su archienemigo, el padre de la propia Olive.(n)</desc>
     <date>2017</date>
-  </programme>
-  <programme start="20240822020000 +0000" stop="20240822023000 +0000" channel="Bally Sports Great Lakes">
-    <title lang="en">Guardians Live Postgame</title>
-    <desc lang="en">Recapping Cleveland Guardians baseball, plus analysis and interviews. (Live).(n)</desc>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20240822023000 +0000" stop="20240822030000 +0000" channel="Bally Sports Great Lakes">
-    <title lang="en">Guardians Report</title>
-    <desc lang="en">Cleveland Guardians baseball news, features, player profiles and discussion.(n)</desc>
-    <date>2022</date>
-    <category lang="en">Pro Sports</category>
-    <category lang="en">Sports</category>
   </programme>
   <programme start="20240822030000 +0000" stop="20240822040000 +0000" channel="Bally Sports Great Lakes">
     <title lang="en">Come Get Some with Gregg Williams</title>
@@ -25746,11 +24613,6 @@
     <category lang="en">Pro Sports</category>
     <premiere lang="en" />
   </programme>
-  <programme start="20240822004500 +0000" stop="20240822023000 +0000" channel="Latina TV">
-    <title lang="en">El Gran Chef - Famosos</title>
-    <desc lang="en">El reality de competencia culinaria promete mostrar a un grupo de 12 famosos que no tienen experiencia alguna en la cocina, entre los cuales estarán conocidos cantantes, actores, conductores de TV, influencers y deportistas.(n)</desc>
-    <date>2023</date>
-  </programme>
   <programme start="20240822023000 +0000" stop="20240822033000 +0000" channel="Latina TV">
     <title lang="en">Pituca sin Lucas</title>
     <desc lang="en">Tichi es una mujer rica casada con José Antonio Risopatrón, con quien tiene tres hijas: María Jesús, María Belén, y la niña María Piedad. El conflicto surgirá cuando su marido tenga problemas económicos y abandone el país, dejándola en la más...(n)</desc>
@@ -25921,56 +24783,6 @@
   <programme start="20240823234500 +0000" stop="20240824004500 +0000" channel="Latina TV">
     <title lang="en">Todo por mi familia</title>
     <desc lang="en">La producción narra una inspiradora historia de superación protagonizada por Kadir, Omer,.(n)</desc>
-  </programme>
-  <programme start="20240822000000 +0000" stop="20240822010000 +0000" channel="MTV Live (USA)">
-    <title lang="en">Storytellers</title>
-    <sub-title lang="en">Bruce Springsteen</sub-title>
-    <desc lang="en">Bruce Springsteen performs and answers audience questions.(n)</desc>
-    <credits>
-      <director>Paul Dugdale</director>
-    </credits>
-    <category lang="en">Music</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p1895027_e_v9_aa.jpg" />
-    <episode-num system="onscreen">S8 E2</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20240822010000 +0000" stop="20240822020000 +0000" channel="MTV Live (USA)">
-    <title lang="en">MTV World Stage</title>
-    <sub-title lang="en">My Chemical Romance</sub-title>
-    <desc lang="en">My Chemical Romance performs in Valencia, Spain; songs include "Sing," "Na Na Na," "Welcome to the Black Parade," and "I'm Not Okay.".(n)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p11677187_b_v10_aa.jpg" />
-    <episode-num system="onscreen">E7</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20240822020000 +0000" stop="20240822023000 +0000" channel="MTV Live (USA)">
-    <title lang="en">MTV Brand New Live</title>
-    <sub-title lang="en">Tom Odell</sub-title>
-    <desc lang="en">Tom Odell performs; songs include "Another Love," "Hold Me," and "Can't Pretend.".(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Music</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p9748470_b_v9_aa.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20240822023000 +0000" stop="20240822030000 +0000" channel="MTV Live (USA)">
-    <title lang="en">I Want My MTV</title>
-    <sub-title lang="en">Lauren Spencer-Smith</sub-title>
-    <category lang="en">Music</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p25767953_b_v10_aa.jpg" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
   </programme>
   <programme start="20240822030000 +0000" stop="20240822040000 +0000" channel="MTV Live (USA)">
     <title lang="en">2024 MTV VMA Nominee Playlist</title>
@@ -26775,13 +25587,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20240822001500 +0000" stop="20240822023000 +0000" channel="ESPN (ARG)">
-    <title lang="en">Fútbol: Conmebol Sudamericana</title>
-    <sub-title lang="en">Deportivo Independiente Medellín vs. Palestino</sub-title>
-    <desc lang="en">Octavos de Final Vuelta Deportivo Independiente Medellín vs. Palestino. (Live).(n)</desc>
-    <date>2024</date>
-    <premiere lang="en" />
-  </programme>
   <programme start="20240822023000 +0000" stop="20240822033000 +0000" channel="ESPN (ARG)">
     <title lang="en">ESPN F90</title>
     <desc lang="en">Toda la información del campeonato nacional está en ESPN Fútbol 90. (Live).(n)</desc>
@@ -26930,13 +25735,6 @@
   <programme start="20240823230000 +0000" stop="20240824000000 +0000" channel="ESPN (ARG)">
     <title lang="en">SportsCenter</title>
     <desc lang="en">Las últimas noticias en materia deportiva con comentarios y entrevistas. (Live).(n)</desc>
-    <premiere lang="en" />
-  </programme>
-  <programme start="20240822001500 +0000" stop="20240822022500 +0000" channel="ESPN 2 (ARG">
-    <title lang="en">Fútbol: Conmebol Sudamericana</title>
-    <sub-title lang="en">Lanús vs. LDU Quito</sub-title>
-    <desc lang="en">Octavos de Final Vuelta Lanús vs. LDU Quito. (Live).(n)</desc>
-    <date>2024</date>
     <premiere lang="en" />
   </programme>
   <programme start="20240822022500 +0000" stop="20240822033000 +0000" channel="ESPN 2 (ARG">
@@ -27121,29 +25919,6 @@
   <programme start="20240823230000 +0000" stop="20240824000000 +0000" channel="ESPN 2 (ARG">
     <title lang="en">ESPN Knockout - El Show</title>
     <desc lang="en">Los mejores combates de boxeo y MMA.(n)</desc>
-  </programme>
-  <programme start="20240822000000 +0000" stop="20240822010000 +0000" channel="Claro Sports">
-    <title lang="en">Juegos Olímpicos París 2024</title>
-    <desc lang="en">Cobertura de los Juegos Olímpicos París 2024, evento multideportivo internacional que se llevará a cabo entre el 26 de julio y el 11 de agosto de 2024 en la ciudad de París, Francia.(n)</desc>
-  </programme>
-  <programme start="20240822010000 +0000" stop="20240822013000 +0000" channel="Claro Sports">
-    <title lang="en">Vuelta a España Highlights</title>
-    <desc lang="en">La 79º edición de la Vuelta a España será una carrera de ciclismo en ruta por etapas.(n)</desc>
-    <date>2024</date>
-  </programme>
-  <programme start="20240822013000 +0000" stop="20240822020000 +0000" channel="Claro Sports">
-    <title lang="en">One Championship Weekly</title>
-    <desc lang="en">En categorías masculinas y femeninas, disfruta de las peleas más esperadas del mundo de las artes marciales mixtas, dos contrincantes de diversos países se enfrentan entre sí para reclamar el título de campeones.(n)</desc>
-    <date>2017</date>
-  </programme>
-  <programme start="20240822020000 +0000" stop="20240822023000 +0000" channel="Claro Sports">
-    <title lang="en">Fórmula Latina</title>
-    <desc lang="en">Apasionados y periodistas de automovilismo comparten en un podcast semanal el análisis,.(n)</desc>
-    <date>2023</date>
-  </programme>
-  <programme start="20240822023000 +0000" stop="20240822030000 +0000" channel="Claro Sports">
-    <title lang="en">El golf es claro</title>
-    <desc lang="en">Espacio centrado en la actualidad del mundo del golf.(n)</desc>
   </programme>
   <programme start="20240822030000 +0000" stop="20240822040000 +0000" channel="Claro Sports">
     <title lang="en">Deportes en claro</title>
@@ -27786,27 +26561,6 @@
       <value>TVPG</value>
     </rating>
   </programme>
-  <programme start="20240822000000 +0000" stop="20240822010000 +0000" channel="Canal 6">
-    <title lang="en">C4 en alerta</title>
-    <desc lang="en">Información exclusiva, las imágenes y los rostros de los protagonistas de la noticia.(n)</desc>
-    <credits>
-      <presenter>Carlos Jiménez</presenter>
-    </credits>
-    <category lang="en">News</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p21010458_b_v9_aa.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20240822010000 +0000" stop="20240822030000 +0000" channel="Canal 6">
-    <title lang="en">Telediario nocturno Monterrey</title>
-    <desc lang="en">Las últimas novedades y la información más destacada del día en Monterrey.(n)</desc>
-    <credits>
-      <presenter>Héctor Benavides</presenter>
-      <presenter>Aliz Vera</presenter>
-    </credits>
-    <category lang="en">News</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p18068572_b_v9_aa.jpg" />
-    <previously-shown />
-  </programme>
   <programme start="20240822030000 +0000" stop="20240822033000 +0000" channel="Canal 6">
     <title lang="en">Multimedios deportes</title>
     <desc lang="en">Un programa de polémica donde se habla de lo más relevante del día relacionado con los equipos regios: Tigres y Rayados. Un espacio que se caracteriza por ver más allá de la nota con el fin de entretener.(n)</desc>
@@ -28162,12 +26916,6 @@
     <icon src="https://zap2it.tmsimg.com/assets/p8564673_st_v9_aa.jpg" />
     <previously-shown />
   </programme>
-  <programme start="20240822013000 +0000" stop="20240822020000 +0000" channel="San Diego Padres">
-    <title lang="en">Live: Padres Post Game</title>
-    <category lang="en">Baseball</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p24428619_st_v9_aa.jpg" />
-    <premiere lang="en" />
-  </programme>
   <programme start="20240822020000 +0000" stop="20240822050000 +0000" channel="San Diego Padres">
     <title lang="en">MLB Baseball</title>
     <sub-title lang="en">Minnesota Twins at San Diego Padres</sub-title>
@@ -28350,14 +27098,6 @@
     <category lang="en">Special</category>
     <icon src="https://zap2it.tmsimg.com/assets/p480440_b_v13_bw.jpg" />
     <previously-shown />
-  </programme>
-  <programme start="20240822013000 +0000" stop="20240822020000 +0000" channel="Arizona Diamondbacks">
-    <title lang="en">Diamondbacks Live! Post Game</title>
-    <desc lang="en">Postgame coverage for Arizona Diamondbacks.(n)</desc>
-    <category lang="en">Baseball</category>
-    <category lang="en">Sports talk</category>
-    <icon src="https://zap2it.tmsimg.com/assets/p650974_b_v13_ac.jpg" />
-    <premiere lang="en" />
   </programme>
   <programme start="20240822020000 +0000" stop="20240822050000 +0000" channel="Arizona Diamondbacks">
     <title lang="en">MLB Baseball</title>
@@ -28782,36 +27522,24 @@
   <programme start="20240823130000 +0000" stop="20240823133000 +0000" channel="Spectrum Sports Encore">
     <title lang="en">Paid Programming</title>
     <desc lang="en">Paid programming.(n)</desc>
-    <category lang="en">Consumer</category>
-    <category lang="en">Shopping</category>
-    <category lang="en">Variety</category>
     <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
     <previously-shown />
   </programme>
   <programme start="20240823133000 +0000" stop="20240823140000 +0000" channel="Spectrum Sports Encore">
     <title lang="en">Paid Programming</title>
     <desc lang="en">Paid programming.(n)</desc>
-    <category lang="en">Consumer</category>
-    <category lang="en">Shopping</category>
-    <category lang="en">Variety</category>
     <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
     <previously-shown />
   </programme>
   <programme start="20240823140000 +0000" stop="20240823143000 +0000" channel="Spectrum Sports Encore">
     <title lang="en">Paid Programming</title>
     <desc lang="en">Paid programming.(n)</desc>
-    <category lang="en">Consumer</category>
-    <category lang="en">Shopping</category>
-    <category lang="en">Variety</category>
     <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
     <previously-shown />
   </programme>
   <programme start="20240823143000 +0000" stop="20240823150000 +0000" channel="Spectrum Sports Encore">
     <title lang="en">Paid Programming</title>
     <desc lang="en">Paid programming.(n)</desc>
-    <category lang="en">Consumer</category>
-    <category lang="en">Shopping</category>
-    <category lang="en">Variety</category>
     <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
     <previously-shown />
   </programme>
