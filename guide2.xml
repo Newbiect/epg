@@ -387,10 +387,12 @@
   </channel>
   <channel id="Spectrum Sports Encore">
     <display-name lang="en">Spectrum Sports Encore</display-name>
+    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/73051/s73051_h3_aa.png" />
     <url>http://www.zap2it.com</url>
   </channel>
   <channel id="Spectrum Surf Channel">
     <display-name lang="en">Spectrum Surf Channel</display-name>
+    <icon src="https://zap2it.tmsimg.com/h3/NowShowing/65720/s65720_h3_aa.png" />
     <url>http://www.zap2it.com</url>
   </channel>
   <programme start="20240822013000 +0000" stop="20240822023000 +0000" channel="IVC Networks">
@@ -28543,6 +28545,568 @@
     <desc lang="en">Sign off.(n)</desc>
     <category lang="en">Special</category>
     <icon src="https://zap2it.tmsimg.com/assets/p480440_b_v13_bw.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240822021500 +0000" stop="20240822043000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">College Basketball</title>
+    <sub-title lang="en">UC San Diego at Hawaii</sub-title>
+    <desc lang="en">From Stan Sheriff Center in Honolulu.(n)</desc>
+    <category lang="en">Basketball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p25801199_tb2_v13_ac.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240822043000 +0000" stop="20240822050000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Live: Game On!</title>
+    <desc lang="en">An in-depth look at the game ahead, with insight from the head coach and players.(n)</desc>
+    <category lang="en">Sports talk</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p14456945_b_v13_ab.jpg" />
+    <premiere lang="en" />
+  </programme>
+  <programme start="20240822050000 +0000" stop="20240822070000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Live: Women's College Soccer</title>
+    <sub-title lang="en">Baylor at Hawaii</sub-title>
+    <desc lang="en">From Waipi'o Peninsula Soccer Stadium in Waipahu, Hawaii.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p27876051_tb2_v13_aa.jpg" />
+    <premiere lang="en" />
+  </programme>
+  <programme start="20240822070000 +0000" stop="20240822073000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Live: Post-Game Show</title>
+    <desc lang="en">Highlights, interviews, insight and analysis from the Game On crew.(n)</desc>
+    <category lang="en">Sports talk</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p14456892_b_v13_aa.jpg" />
+    <premiere lang="en" />
+  </programme>
+  <programme start="20240822073000 +0000" stop="20240822080000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Game On!</title>
+    <desc lang="en">An in-depth look at the game ahead, with insight from the head coach and players.(n)</desc>
+    <category lang="en">Sports talk</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p14456945_b_v13_ab.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240822080000 +0000" stop="20240822100000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Women's College Soccer</title>
+    <sub-title lang="en">Baylor at Hawaii</sub-title>
+    <desc lang="en">From Waipi'o Peninsula Soccer Stadium in Waipahu, Hawaii.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p27876051_tb2_v13_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240822100000 +0000" stop="20240822103000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Post-Game Show</title>
+    <desc lang="en">Highlights, interviews, insight and analysis from the Game On crew.(n)</desc>
+    <category lang="en">Sports talk</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p14456892_b_v13_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240822103000 +0000" stop="20240822110000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240822110000 +0000" stop="20240822113000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240822113000 +0000" stop="20240822120000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240822120000 +0000" stop="20240822123000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240822123000 +0000" stop="20240822130000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240822130000 +0000" stop="20240822133000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240822133000 +0000" stop="20240822140000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240822140000 +0000" stop="20240822143000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240822143000 +0000" stop="20240822150000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240822150000 +0000" stop="20240822153000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240822153000 +0000" stop="20240822160000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240822160000 +0000" stop="20240822163000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Game On!</title>
+    <desc lang="en">An in-depth look at the game ahead, with insight from the head coach and players.(n)</desc>
+    <category lang="en">Sports talk</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p14456945_b_v13_ab.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240822163000 +0000" stop="20240822183000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Women's College Soccer</title>
+    <sub-title lang="en">Baylor at Hawaii</sub-title>
+    <desc lang="en">From Waipi'o Peninsula Soccer Stadium in Waipahu, Hawaii.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p27876051_tb2_v13_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240822183000 +0000" stop="20240822190000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Post-Game Show</title>
+    <desc lang="en">Highlights, interviews, insight and analysis from the Game On crew.(n)</desc>
+    <category lang="en">Sports talk</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p14456892_b_v13_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240822190000 +0000" stop="20240822220000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">College Baseball</title>
+    <sub-title lang="en">Hawaii Pacific at Hawaii</sub-title>
+    <desc lang="en">From Les Murakami Stadium in Honolulu.(n)</desc>
+    <category lang="en">Baseball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p27035863_tb2_v13_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240822220000 +0000" stop="20240823000000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">College Softball</title>
+    <sub-title lang="en">Cal Poly-San Luis Obispo at Hawaii</sub-title>
+    <desc lang="en">From Rainbow Wahine Softball Stadium in Honolulu.(n)</desc>
+    <category lang="en">Softball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p27035867_tb2_v13_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240823000000 +0000" stop="20240823023000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Men's College Volleyball</title>
+    <sub-title lang="en">Cal State Northridge at Hawaii</sub-title>
+    <desc lang="en">From Stan Sheriff Center in Honolulu.(n)</desc>
+    <category lang="en">Volleyball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p26772005_tb2_v13_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240823023000 +0000" stop="20240823043000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Women's College Basketball</title>
+    <sub-title lang="en">Long Beach State at Hawaii</sub-title>
+    <desc lang="en">From Stan Sheriff Center in Honolulu.(n)</desc>
+    <category lang="en">Basketball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p25677114_tb2_v13_ab.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240823043000 +0000" stop="20240823050000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Game On!</title>
+    <desc lang="en">An in-depth look at the game ahead, with insight from the head coach and players.(n)</desc>
+    <category lang="en">Sports talk</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p14456945_b_v13_ab.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240823050000 +0000" stop="20240823070000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Women's College Soccer</title>
+    <sub-title lang="en">Baylor at Hawaii</sub-title>
+    <desc lang="en">From Waipi'o Peninsula Soccer Stadium in Waipahu, Hawaii.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p27876051_tb2_v13_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240823070000 +0000" stop="20240823073000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Post-Game Show</title>
+    <desc lang="en">Highlights, interviews, insight and analysis from the Game On crew.(n)</desc>
+    <category lang="en">Sports talk</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p14456892_b_v13_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240823073000 +0000" stop="20240823103000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">College Baseball</title>
+    <sub-title lang="en">UC Riverside at Hawaii</sub-title>
+    <desc lang="en">From Les Murakami Stadium in Honolulu.(n)</desc>
+    <category lang="en">Baseball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p27228156_tb2_v13_ab.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240823103000 +0000" stop="20240823110000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240823110000 +0000" stop="20240823113000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240823113000 +0000" stop="20240823120000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240823120000 +0000" stop="20240823123000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240823123000 +0000" stop="20240823130000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240823130000 +0000" stop="20240823133000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <category lang="en">Consumer</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Variety</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240823133000 +0000" stop="20240823140000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <category lang="en">Consumer</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Variety</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240823140000 +0000" stop="20240823143000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <category lang="en">Consumer</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Variety</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240823143000 +0000" stop="20240823150000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <category lang="en">Consumer</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Variety</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240823150000 +0000" stop="20240823153000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240823153000 +0000" stop="20240823160000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240823160000 +0000" stop="20240823191500 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">College Baseball</title>
+    <sub-title lang="en">Hawaii-Hilo at Hawaii</sub-title>
+    <desc lang="en">From Les Murakami Stadium in Honolulu.(n)</desc>
+    <category lang="en">Baseball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p27114911_tb2_v13_ab.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240823191500 +0000" stop="20240823210000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Men's College Volleyball</title>
+    <sub-title lang="en">Grand Canyon at Hawaii</sub-title>
+    <desc lang="en">From Stan Sheriff Center in Honolulu.(n)</desc>
+    <category lang="en">Volleyball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p26771992_tb2_v13_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240823210000 +0000" stop="20240824003000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Women's College Beach Volleyball</title>
+    <sub-title lang="en">Grand Canyon at Hawaii</sub-title>
+    <desc lang="en">Coverage of collegiate women's beach volleyball action.(n)</desc>
+    <category lang="en">Beach volleyball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p27159707_tb2_v13_ad.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240824003000 +0000" stop="20240824030000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">College Basketball</title>
+    <sub-title lang="en">Cal Poly-San Luis Obispo at Hawaii</sub-title>
+    <desc lang="en">From Stan Sheriff Center in Honolulu.(n)</desc>
+    <category lang="en">Basketball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p25678357_tb2_v13_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240824030000 +0000" stop="20240824044500 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Men's College Volleyball</title>
+    <sub-title lang="en">Emmanuel at Hawaii</sub-title>
+    <desc lang="en">From Stan Sheriff Center in Honolulu.(n)</desc>
+    <category lang="en">Volleyball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p26426584_tb2_v13_ab.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240824044500 +0000" stop="20240824063000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Women's College Basketball</title>
+    <sub-title lang="en">UC Irvine at Hawaii</sub-title>
+    <desc lang="en">From Stan Sheriff Center in Honolulu.(n)</desc>
+    <category lang="en">Basketball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p25845866_tb2_v13_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240824063000 +0000" stop="20240824083000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">College Softball</title>
+    <sub-title lang="en">Cal Poly-San Luis Obispo at Hawaii</sub-title>
+    <desc lang="en">From Rainbow Wahine Softball Stadium in Honolulu.(n)</desc>
+    <category lang="en">Softball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p27035867_tb2_v13_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240824083000 +0000" stop="20240824100000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Women's College Water Polo</title>
+    <sub-title lang="en">UC Santa Barbara at Hawaii</sub-title>
+    <desc lang="en">From Duke Kahanamoku Aquatic Complex in Honolulu.(n)</desc>
+    <category lang="en">Water polo</category>
+    <category lang="en">Watersports</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p27035862_tb2_v13_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240824100000 +0000" stop="20240824103000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240824103000 +0000" stop="20240824110000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240824110000 +0000" stop="20240824113000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240824113000 +0000" stop="20240824120000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240824120000 +0000" stop="20240824123000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240824123000 +0000" stop="20240824130000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240824130000 +0000" stop="20240824133000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240824133000 +0000" stop="20240824140000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240824140000 +0000" stop="20240824143000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240824143000 +0000" stop="20240824150000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240824150000 +0000" stop="20240824153000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240824153000 +0000" stop="20240824160000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://zap2it.tmsimg.com/assets/p459763_b_v13_ba.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240824160000 +0000" stop="20240824180000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">College Baseball</title>
+    <sub-title lang="en">Chaminade at Hawaii</sub-title>
+    <desc lang="en">From Les Murakami Stadium in Honolulu.(n)</desc>
+    <category lang="en">Baseball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p191259_b_v13_ag.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240824180000 +0000" stop="20240824200000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">College Softball</title>
+    <sub-title lang="en">Cal Poly-San Luis Obispo at Hawaii</sub-title>
+    <desc lang="en">From Rainbow Wahine Softball Stadium in Honolulu.(n)</desc>
+    <category lang="en">Softball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p27035867_tb2_v13_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240824200000 +0000" stop="20240824220000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">College Basketball</title>
+    <sub-title lang="en">Central Arkansas at Hawaii</sub-title>
+    <desc lang="en">From Stan Sheriff Center in Honolulu.(n)</desc>
+    <category lang="en">Basketball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p25670590_tb2_v13_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240824220000 +0000" stop="20240824234500 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Women's College Basketball</title>
+    <sub-title lang="en">UC San Diego at Hawaii</sub-title>
+    <desc lang="en">From Stan Sheriff Center in Honolulu.(n)</desc>
+    <category lang="en">Basketball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p25692679_tb2_v13_ac.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240824234500 +0000" stop="20240825013000 +0000" channel="Spectrum Sports Encore">
+    <title lang="en">Men's College Volleyball</title>
+    <sub-title lang="en">Sacred Heart at Hawaii</sub-title>
+    <desc lang="en">From Stan Sheriff Center in Honolulu.(n)</desc>
+    <category lang="en">Volleyball</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p26771981_tb2_v13_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240822030000 +0000" stop="20240822040000 +0000" channel="Spectrum Surf Channel">
+    <title lang="en">World Surf League</title>
+    <sub-title lang="en">2024 CORONA FIJI OPEN presented by Bonsoy Potential Surf Window: 9:00am HST - 6:00pm HST [LIVE]</sub-title>
+    <category lang="en">Surfing</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p17174694_st_v9_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240822040000 +0000" stop="20240822120000 +0000" channel="Spectrum Surf Channel">
+    <title lang="en">World Surf League</title>
+    <sub-title lang="en">2024 CORONA FIJI OPEN presented by Bonsoy</sub-title>
+    <category lang="en">Surfing</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p17174694_st_v9_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240822120000 +0000" stop="20240822160000 +0000" channel="Spectrum Surf Channel">
+    <title lang="en">World Surf League</title>
+    <sub-title lang="en">2024 CORONA FIJI OPEN presented by Bonsoy</sub-title>
+    <category lang="en">Surfing</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p17174694_st_v9_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240822160000 +0000" stop="20240822190000 +0000" channel="Spectrum Surf Channel">
+    <title lang="en">World Surf League</title>
+    <sub-title lang="en">2024 CORONA FIJI OPEN presented by Bonsoy</sub-title>
+    <category lang="en">Surfing</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p17174694_st_v9_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240822190000 +0000" stop="20240823030000 +0000" channel="Spectrum Surf Channel">
+    <title lang="en">World Surf League</title>
+    <sub-title lang="en">2024 CORONA FIJI OPEN presented by Bonsoy Potential Surf Window: 9:00am HST - 6:00pm HST [LIVE]</sub-title>
+    <category lang="en">Surfing</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p17174694_st_v9_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240823030000 +0000" stop="20240823040000 +0000" channel="Spectrum Surf Channel">
+    <title lang="en">World Surf League</title>
+    <sub-title lang="en">2024 CORONA FIJI OPEN presented by Bonsoy Potential Surf Window: 9:00am HST - 6:00pm HST [LIVE]</sub-title>
+    <category lang="en">Surfing</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p17174694_st_v9_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240823040000 +0000" stop="20240823120000 +0000" channel="Spectrum Surf Channel">
+    <title lang="en">World Surf League</title>
+    <sub-title lang="en">2024 CORONA FIJI OPEN presented by Bonsoy</sub-title>
+    <category lang="en">Surfing</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p17174694_st_v9_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240823120000 +0000" stop="20240823160000 +0000" channel="Spectrum Surf Channel">
+    <title lang="en">World Surf League</title>
+    <sub-title lang="en">2024 CORONA FIJI OPEN presented by Bonsoy</sub-title>
+    <category lang="en">Surfing</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p17174694_st_v9_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240823160000 +0000" stop="20240823190000 +0000" channel="Spectrum Surf Channel">
+    <title lang="en">World Surf League</title>
+    <sub-title lang="en">2024 CORONA FIJI OPEN presented by Bonsoy</sub-title>
+    <category lang="en">Surfing</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p17174694_st_v9_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240823190000 +0000" stop="20240824030000 +0000" channel="Spectrum Surf Channel">
+    <title lang="en">World Surf League</title>
+    <sub-title lang="en">2024 CORONA FIJI OPEN presented by Bonsoy Potential Surf Window: 9:00am HST - 6:00pm HST [LIVE]</sub-title>
+    <category lang="en">Surfing</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p17174694_st_v9_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240824030000 +0000" stop="20240824040000 +0000" channel="Spectrum Surf Channel">
+    <title lang="en">World Surf League</title>
+    <sub-title lang="en">2024 CORONA FIJI OPEN presented by Bonsoy Potential Surf Window: 9:00am HST - 6:00pm HST [LIVE]</sub-title>
+    <category lang="en">Surfing</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p17174694_st_v9_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240824040000 +0000" stop="20240824120000 +0000" channel="Spectrum Surf Channel">
+    <title lang="en">World Surf League</title>
+    <sub-title lang="en">2024 CORONA FIJI OPEN presented by Bonsoy</sub-title>
+    <category lang="en">Surfing</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p17174694_st_v9_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240824120000 +0000" stop="20240824160000 +0000" channel="Spectrum Surf Channel">
+    <title lang="en">World Surf League</title>
+    <sub-title lang="en">2024 CORONA FIJI OPEN presented by Bonsoy</sub-title>
+    <category lang="en">Surfing</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p17174694_st_v9_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240824160000 +0000" stop="20240824190000 +0000" channel="Spectrum Surf Channel">
+    <title lang="en">World Surf League</title>
+    <sub-title lang="en">2024 CORONA FIJI OPEN presented by Bonsoy</sub-title>
+    <category lang="en">Surfing</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p17174694_st_v9_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20240824190000 +0000" stop="20240825030000 +0000" channel="Spectrum Surf Channel">
+    <title lang="en">World Surf League</title>
+    <sub-title lang="en">2024 CORONA FIJI OPEN presented by Bonsoy Potential Surf Window: 9:00am HST - 6:00pm HST [LIVE]</sub-title>
+    <category lang="en">Surfing</category>
+    <icon src="https://zap2it.tmsimg.com/assets/p17174694_st_v9_aa.jpg" />
     <previously-shown />
   </programme>
 </tv>
