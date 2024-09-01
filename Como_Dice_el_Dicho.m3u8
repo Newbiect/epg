@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-INDEPENDENT-SEGMENTS
+
+#EXT-X-STREAM-INF:BANDWIDTH=6843200,RESOLUTION=1920x1080,FRAME-RATE=29.97,CODECS="avc1.640028",AUDIO="master_broadcast"
+https://d2vyndicy3pa3x.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l5i2uqyvvyga8/89d9b420-c55d-4de4-a005-81dde64db94e/4.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=3543200,RESOLUTION=1280x720,FRAME-RATE=29.97,CODECS="avc1.64001f",AUDIO="master_broadcast"
+https://d2vyndicy3pa3x.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l5i2uqyvvyga8/89d9b420-c55d-4de4-a005-81dde64db94e/1.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2443200,RESOLUTION=960x540,FRAME-RATE=29.97,CODECS="avc1.64001f",AUDIO="master_broadcast"
+https://d2vyndicy3pa3x.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l5i2uqyvvyga8/89d9b420-c55d-4de4-a005-81dde64db94e/0.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1123200,RESOLUTION=640x360,FRAME-RATE=29.97,CODECS="avc1.64001e",AUDIO="master_broadcast"
+https://d2vyndicy3pa3x.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l5i2uqyvvyga8/89d9b420-c55d-4de4-a005-81dde64db94e/2.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=683200,RESOLUTION=428x240,FRAME-RATE=29.97,CODECS="avc1.640015",AUDIO="master_broadcast"
+https://d2vyndicy3pa3x.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l5i2uqyvvyga8/89d9b420-c55d-4de4-a005-81dde64db94e/3.m3u8
