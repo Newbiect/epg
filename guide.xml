@@ -577,265 +577,16 @@
     <display-name lang="en">Telehit Música</display-name>
     <url>http://www.tvguide.com</url>
   </channel>
-  <programme start="20241209000000 +0000" stop="20241209001500 +0000" channel="Sky Sports F1">
-    <title lang="en">Ayao Komatsu &amp; Coventry City</title>
-    <desc lang="en">Haas F1 team boss Ayao Komatsu explains how he came to be an ardent Coventry City fan.(n)</desc>
-    <category lang="en">10053</category>
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20241209001500 +0000" stop="20241209003000 +0000" channel="Sky Sports F1">
-    <title lang="en">The F1 Wheelchair</title>
-    <desc lang="en">Set to compete at the Paris Games having won four gold medals in Tokyo, Swiss Paralympian Marcel Hug worked with the Sauber Formula 1 team to design his racing wheelchair.(n)</desc>
-    <category lang="en">10053</category>
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20241209003000 +0000" stop="20241209013000 +0000" channel="Sky Sports F1">
+  <programme start="20241212000000 +0000" stop="20241212010000 +0000" channel="Sky Sports F1">
     <title lang="en">F1 Academy: Race 3</title>
     <desc lang="en">An additional F1 Academy race following the cancellation of race two in Lusail last week, as the season draws to an end in Abu Dhabi. Abbi Pulling looks to make it three from three. (08.12).(n)</desc>
     <category lang="en">10053</category>
     <episode-num system="onscreen">E08</episode-num>
     <rating system="UK">
-      <value>--</value>
-    </rating>
-  </programme>
-  <programme start="20241209013000 +0000" stop="20241209025000 +0000" channel="Sky Sports F1">
-    <title lang="en">Abu Dhabi  F2: Feature Race</title>
-    <desc lang="en">The final Feature Race of the 2024 F2 season. Starting from P2, Gabriel Bortoleto leads championship rival Isack Hadjar, who starts fourth on the grid, by four and a half points. (08.12).(n)</desc>
-    <category lang="en">10053</category>
-    <episode-num system="onscreen">E08</episode-num>
-    <rating system="UK">
-      <value>--</value>
-    </rating>
-  </programme>
-  <programme start="20241209025000 +0000" stop="20241209030000 +0000" channel="Sky Sports F1">
-    <title lang="en">McLaren's Podium Boys</title>
-    <desc lang="en">After his Hungarian Grand Prix victory, McLaren's Lando Norris and race engineer Will Joseph were joined by Ted Kravitz to discuss the win.(n)</desc>
-    <category lang="en">10053</category>
-    <rating system="UK">
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20241209030000 +0000" stop="20241209033000 +0000" channel="Sky Sports F1">
-    <title lang="en">Prost on Senna</title>
-    <desc lang="en">Former Formula 1 star Alain Prost speaks in an interview about his former rival Ayrton Senna, remembering their battle for supremacy in one of the sport's greatest rivalries.(n)</desc>
-    <category lang="en">10053</category>
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20241209033000 +0000" stop="20241209043000 +0000" channel="Sky Sports F1">
-    <title lang="en">The Home of Formula One</title>
-    <desc lang="en">A look back at the best stories and features from the 2024 so far with Sky's Formula 1 presenters.(n)</desc>
-    <category lang="en">10053</category>
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20241209043000 +0000" stop="20241209060000 +0000" channel="Sky Sports F1">
-    <title lang="en">The Home of Formula One</title>
-    <desc lang="en">A look back at the best stories and features from the 2024 so far with Sky's Formula 1 presenters.(n)</desc>
-    <category lang="en">10053</category>
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20241209060000 +0000" stop="20241209072500 +0000" channel="Sky Sports F1">
-    <title lang="en">Grand Prix Sunday: Abu Dhabi</title>
-    <desc lang="en">Join Sky Sports F1 on the grid ahead of the start of the race at the season-ending Abu Dhabi Grand Prix at Yas Marina Circuit.(n)</desc>
-    <category lang="en">10053</category>
-    <rating system="UK">
-      <value>--</value>
-    </rating>
-  </programme>
-  <programme start="20241209072500 +0000" stop="20241209093000 +0000" channel="Sky Sports F1">
-    <title lang="en">Abu Dhabi F1 Grand Prix</title>
-    <desc lang="en">In what is Lewis Hamilton's final Mercedes race, it's Lando Norris and Oscar Piastri who lock out the front row in a bid to secure McLaren a first constructors' title since 1998. (08.12).(n)</desc>
-    <category lang="en">10053</category>
-    <episode-num system="onscreen">E08</episode-num>
-    <rating system="UK">
-      <value>--</value>
-    </rating>
-  </programme>
-  <programme start="20241209093000 +0000" stop="20241209103000 +0000" channel="Sky Sports F1">
-    <title lang="en">Chequered Flag: Abu Dhabi</title>
-    <desc lang="en">As the chequered flag comes down on the Abu Dhabi Grand Prix and the 2024 Formula 1 season, join Sky Sports F1 for all the reaction and analysis.(n)</desc>
-    <category lang="en">10053</category>
-    <rating system="UK">
-      <value>--</value>
-    </rating>
-  </programme>
-  <programme start="20241209103000 +0000" stop="20241209104000 +0000" channel="Sky Sports F1">
-    <title lang="en">Inside the Life of a Ferrari Drive</title>
-    <desc lang="en">Karun Chandhok gets to experience what life is like as a Ferrari driver in Monza by shadowing Charles Leclerc.(n)</desc>
-    <category lang="en">10053</category>
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20241209104000 +0000" stop="20241209110000 +0000" channel="Sky Sports F1">
-    <title lang="en">Chasing The Dream</title>
-    <desc lang="en">In this captivating series, step behind the scenes of Formula 2. Here, the development championship passed through Lusail in Qatar. Ep 15.(n)</desc>
-    <category lang="en">10053</category>
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20241209110000 +0000" stop="20241209122500 +0000" channel="Sky Sports F1">
-    <title lang="en">Abu Dhabi F1 GP: Practice 1</title>
-    <desc lang="en">The lights go green for the campaign's climactic race weekend with FP1 at the season-ending Abu Dhabi Grand Prix. World champion Max Verstappen surged to Qatar victory a week ago. (06.12).(n)</desc>
-    <category lang="en">10053</category>
-    <episode-num system="onscreen">E06</episode-num>
-    <rating system="UK">
-      <value>--</value>
-    </rating>
-  </programme>
-  <programme start="20241209123000 +0000" stop="20241209135500 +0000" channel="Sky Sports F1">
-    <title lang="en">Abu Dhabi F1 GP: Practice 2</title>
-    <desc lang="en">FP2 at the season-ending Abu Dhabi Grand Prix. With a costly grid penalty coming his way, Ferrari's Charles Leclerc topped opening practice from Lando Norris and Lewis Hamilton. (06.12).(n)</desc>
-    <category lang="en">10053</category>
-    <episode-num system="onscreen">E06</episode-num>
-    <rating system="UK">
-      <value>--</value>
-    </rating>
-  </programme>
-  <programme start="20241209140000 +0000" stop="20241209150000 +0000" channel="Sky Sports F1">
-    <title lang="en">The F1 Show: Abu Dhabi</title>
-    <desc lang="en">The F1 Show positions itself at the centre of the season-ending Abu Dhabi Grand Prix, providing a sneak peek of the paddock and the personalities involved at the heart of the race.(n)</desc>
-    <category lang="en">10053</category>
-    <rating system="UK">
-      <value>--</value>
-    </rating>
-  </programme>
-  <programme start="20241209150000 +0000" stop="20241209161500 +0000" channel="Sky Sports F1">
-    <title lang="en">Abu Dhabi F1 GP: Practice 3</title>
-    <desc lang="en">For the final time in 2024, the lights go green for an F1 practice session, as the drivers complete preparations ahead of qualifying for the season-ending Abu Dhabi Grand Prix. (07.12).(n)</desc>
-    <category lang="en">10053</category>
-    <episode-num system="onscreen">E07</episode-num>
-    <rating system="UK">
-      <value>--</value>
-    </rating>
-  </programme>
-  <programme start="20241209161500 +0000" stop="20241209181500 +0000" channel="Sky Sports F1">
-    <title lang="en">Abu Dhabi F1 GP: Qualifying</title>
-    <desc lang="en">The grid for the season-ending Abu Dhabi Grand Prix at Yas Marina Circuit is set with qualifying, as the drivers look to battle their way through to Q3 for a shot at pole position. (07.12).(n)</desc>
-    <category lang="en">10053</category>
-    <episode-num system="onscreen">E07</episode-num>
-    <rating system="UK">
-      <value>--</value>
-    </rating>
-  </programme>
-  <programme start="20241209181500 +0000" stop="20241209184500 +0000" channel="Sky Sports F1">
-    <title lang="en">Ted's Quali Notebook: Abu Dhabi</title>
-    <desc lang="en">Ted Kravitz is live as he gathers reaction from inside the paddock and reviews all the biggest stories from the final qualifying session of the season at the Abu Dhabi Grand Prix.(n)</desc>
-    <category lang="en">10053</category>
-    <rating system="UK">
-      <value>--</value>
-    </rating>
-  </programme>
-  <programme start="20241209184500 +0000" stop="20241209190000 +0000" channel="Sky Sports F1">
-    <title lang="en">Ayao Komatsu &amp; Coventry City</title>
-    <desc lang="en">Haas F1 team boss Ayao Komatsu explains how he came to be an ardent Coventry City fan.(n)</desc>
-    <category lang="en">10053</category>
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20241209190000 +0000" stop="20241209211500 +0000" channel="Sky Sports F1">
-    <title lang="en">Abu Dhabi F1 Grand Prix</title>
-    <desc lang="en">In what is Lewis Hamilton's final Mercedes race, it's Lando Norris and Oscar Piastri who lock out the front row in a bid to secure McLaren a first constructors' title since 1998. (08.12).(n)</desc>
-    <category lang="en">10053</category>
-    <episode-num system="onscreen">E08</episode-num>
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20241209211500 +0000" stop="20241209214500 +0000" channel="Sky Sports F1">
-    <title lang="en">Ted's Notebook: Abu Dhabi</title>
-    <desc lang="en">Ted Kravitz is live for the final time this season following the Abu Dhabi Grand Prix, as he shares his thoughts on the race while gathering reaction from the paddock.(n)</desc>
-    <category lang="en">10053</category>
-    <rating system="UK">
-      <value>--</value>
-    </rating>
-  </programme>
-  <programme start="20241209214500 +0000" stop="20241209220000 +0000" channel="Sky Sports F1">
-    <title lang="en">F1 &amp; the Silver Bullet</title>
-    <desc lang="en">Learn how Swiss Paralympian Marcel Hug worked with the Sauber F1 team to advance technology in wheelchair racing.(n)</desc>
-    <category lang="en">10053</category>
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20241209220000 +0000" stop="20241209231500 +0000" channel="Sky Sports F1">
-    <title lang="en">Abu Dhabi F2: Sprint</title>
-    <desc lang="en">Reversing the top 10 drivers from qualifying, the F2 Sprint Race grid at Yas Marina Circuit in Abu Dhabi is set. Amaury Cordeel holds reverse-grid pole. (07.12).(n)</desc>
-    <category lang="en">10053</category>
-    <episode-num system="onscreen">E07</episode-num>
-    <rating system="UK">
-      <value>--</value>
-    </rating>
-  </programme>
-  <programme start="20241209231500 +0000" stop="20241210004500 +0000" channel="Sky Sports F1">
-    <title lang="en">Abu Dhabi F2: Feature Race</title>
-    <desc lang="en">The final Feature Race of the 2024 F2 season. Starting from P2, Gabriel Bortoleto leads championship rival Isack Hadjar, who starts fourth on the grid, by four and a half points. (08.12).(n)</desc>
-    <category lang="en">10053</category>
-    <episode-num system="onscreen">E08</episode-num>
-    <rating system="UK">
-      <value>--</value>
-    </rating>
-  </programme>
-  <programme start="20241210004500 +0000" stop="20241210010000 +0000" channel="Sky Sports F1">
-    <title lang="en">The F1 Wheelchair</title>
-    <desc lang="en">Set to compete at the Paris Games having won four gold medals in Tokyo, Swiss Paralympian Marcel Hug worked with the Sauber Formula 1 team to design his racing wheelchair.(n)</desc>
-    <category lang="en">10053</category>
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20241210010000 +0000" stop="20241210020000 +0000" channel="Sky Sports F1">
-    <title lang="en">The Home of Formula One</title>
-    <desc lang="en">A look back at the best stories and features from the 2024 so far with Sky's Formula 1 presenters.(n)</desc>
-    <category lang="en">10053</category>
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20241210020000 +0000" stop="20241210033000 +0000" channel="Sky Sports F1">
-    <title lang="en">The Home of Formula One</title>
-    <desc lang="en">A look back at the best stories and features from the 2024 so far with Sky's Formula 1 presenters.(n)</desc>
-    <category lang="en">10053</category>
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20241210033000 +0000" stop="20241210050000 +0000" channel="Sky Sports F1">
-    <title lang="en">The Home of Formula One</title>
-    <desc lang="en">A look back at the best stories and features from the 2024 so far with Sky's Formula 1 presenters.(n)</desc>
-    <category lang="en">10053</category>
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20241210050000 +0000" stop="20241210060000 +0000" channel="Sky Sports F1">
-    <title lang="en">The Home of Formula One</title>
-    <desc lang="en">A look back at the best stories and features from the 2024 so far with Sky's Formula 1 presenters.(n)</desc>
-    <category lang="en">10053</category>
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20241210060000 +0000" stop="20241210073000 +0000" channel="Sky Sports F1">
-    <title lang="en">The Home of Formula One</title>
-    <desc lang="en">A look back at the best stories and features from the 2024 so far with Sky's Formula 1 presenters.(n)</desc>
-    <category lang="en">10053</category>
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20241210073000 +0000" stop="20241210083000 +0000" channel="Sky Sports F1">
+  <programme start="20241212010000 +0000" stop="20241212020000 +0000" channel="Sky Sports F1">
     <title lang="en">The Home of Formula One</title>
     <desc lang="en">Reflect back on some of the best Sky F1 features from 2024 so far, including moments from Bahrain, Saudi Arabia and Australia.(n)</desc>
     <category lang="en">10053</category>
@@ -843,7 +594,7 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20241210083000 +0000" stop="20241210093000 +0000" channel="Sky Sports F1">
+  <programme start="20241212020000 +0000" stop="20241212033000 +0000" channel="Sky Sports F1">
     <title lang="en">The Home of Formula One</title>
     <desc lang="en">A look back at the best stories and features from the 2024 so far with Sky's Formula 1 presenters.(n)</desc>
     <category lang="en">10053</category>
@@ -851,7 +602,7 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20241210093000 +0000" stop="20241210110000 +0000" channel="Sky Sports F1">
+  <programme start="20241212033000 +0000" stop="20241212050000 +0000" channel="Sky Sports F1">
     <title lang="en">The Home of Formula One</title>
     <desc lang="en">A look back at the best stories and features from the 2024 so far with Sky's Formula 1 presenters.(n)</desc>
     <category lang="en">10053</category>
@@ -859,40 +610,190 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20241210110000 +0000" stop="20241210122500 +0000" channel="Sky Sports F1">
-    <title lang="en">Grand Prix Sunday: Abu Dhabi</title>
-    <desc lang="en">Join Sky Sports F1 on the grid ahead of the start of the race at the season-ending Abu Dhabi Grand Prix at Yas Marina Circuit.(n)</desc>
+  <programme start="20241212050000 +0000" stop="20241212060000 +0000" channel="Sky Sports F1">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">A look back at the best stories and features from the 2024 so far with Sky's Formula 1 presenters.(n)</desc>
     <category lang="en">10053</category>
     <rating system="UK">
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20241210122500 +0000" stop="20241210143000 +0000" channel="Sky Sports F1">
-    <title lang="en">Abu Dhabi F1 Grand Prix</title>
-    <desc lang="en">In what is Lewis Hamilton's final Mercedes race, it's Lando Norris and Oscar Piastri who lock out the front row in a bid to secure McLaren a first constructors' title since 1998. (08.12).(n)</desc>
+  <programme start="20241212060000 +0000" stop="20241212073000 +0000" channel="Sky Sports F1">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">A look back at the best stories and features from the 2024 so far with Sky's Formula 1 presenters.(n)</desc>
+    <category lang="en">10053</category>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20241212073000 +0000" stop="20241212083000 +0000" channel="Sky Sports F1">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">Reflect back on some of the best Sky F1 features from 2024 so far, including moments from Bahrain, Saudi Arabia and Australia.(n)</desc>
+    <category lang="en">10053</category>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20241212083000 +0000" stop="20241212093000 +0000" channel="Sky Sports F1">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">A look back at the best stories and features from the 2024 so far with Sky's Formula 1 presenters.(n)</desc>
+    <category lang="en">10053</category>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20241212093000 +0000" stop="20241212100000 +0000" channel="Sky Sports F1">
+    <title lang="en">Lewis's Secret Cinema: Silverstone</title>
+    <desc lang="en">Lewis Hamilton sat down with Martin Brundle to reflect on some magic moments from F1 history ahead of the sport's 70th Anniversary Grand Prix at Silverstone.(n)</desc>
+    <category lang="en">10053</category>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20241212100000 +0000" stop="20241212110000 +0000" channel="Sky Sports F1">
+    <title lang="en">Ginetta Junior Brands Hatch Hlts</title>
+    <desc lang="en">Revisit all the action during the 2024 Ginetta race season with highlights from each event.(n)</desc>
+    <category lang="en">10053</category>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20241212110000 +0000" stop="20241212122000 +0000" channel="Sky Sports F1">
+    <title lang="en">Austrian F3: Feature Race</title>
+    <desc lang="en">Round six of the FIA F3 Championship sees the drivers take to the track for the sixth Feature Race of the season, held in Austria. Luke Browning has pole for the first time in F3. (30.06).(n)</desc>
+    <category lang="en">10053</category>
+    <episode-num system="onscreen">E30</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20241212122000 +0000" stop="20241212123000 +0000" channel="Sky Sports F1">
+    <title lang="en">Who is Franco Colapinto?</title>
+    <desc lang="en">Franco Colapinto replaced Logan Sargeant at Williams for what remained of the 2024 F1 season. Get to grips with who the young Argentinian is.(n)</desc>
+    <category lang="en">10053</category>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20241212123000 +0000" stop="20241212135000 +0000" channel="Sky Sports F1">
+    <title lang="en">British F3: Feature</title>
+    <desc lang="en">Round seven of the F3 Championship sees the drivers take to the track for the seventh Feature Race of the season, held at Silverstone. Hitech Pulse-Eight's Luke Browning has pole. (07.07).(n)</desc>
+    <category lang="en">10053</category>
+    <episode-num system="onscreen">E07</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20241212135000 +0000" stop="20241212140000 +0000" channel="Sky Sports F1">
+    <title lang="en">Why Newey Chose Aston Martin?</title>
+    <desc lang="en">Following his decision to leave Red Bull, Ted Kravitz sat down with Adrian Newey after he announced he would be joining the Aston Martin team.(n)</desc>
+    <category lang="en">10053</category>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20241212140000 +0000" stop="20241212151000 +0000" channel="Sky Sports F1">
+    <title lang="en">Hungarian F3: Feature</title>
+    <desc lang="en">Round eight of the FIA F3 Championship sees the drivers take to the track for the eighth Feature Race of the season, held at the Hungaroring. Laurens van Hoepen leads the field. (20.07).(n)</desc>
+    <category lang="en">10053</category>
+    <episode-num system="onscreen">E20</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20241212151500 +0000" stop="20241212163000 +0000" channel="Sky Sports F1">
+    <title lang="en">Belgian F3: Feature</title>
+    <desc lang="en">Round nine of F3 sees the drivers take to the track for the ninth Feature Race of 2024, held at Spa. Rodin Motorsport's Callum Voisin begins from pole for the first time in F3. (28.07).(n)</desc>
+    <category lang="en">10053</category>
+    <episode-num system="onscreen">E28</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20241212163000 +0000" stop="20241212175000 +0000" channel="Sky Sports F1">
+    <title lang="en">Italian F3: Feature</title>
+    <desc lang="en">The 10th and final round of the FIA F3 Championship sees the drivers take to the track for the last Feature Race of the season, held at Monza in Italy. Leonardo Fornaroli has pole. (01.09).(n)</desc>
+    <category lang="en">10053</category>
+    <episode-num system="onscreen">E01</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20241212175000 +0000" stop="20241212180000 +0000" channel="Sky Sports F1">
+    <title lang="en">McLaren's Podium Boys</title>
+    <desc lang="en">After his Hungarian Grand Prix victory, McLaren's Lando Norris and race engineer Will Joseph were joined by Ted Kravitz to discuss the win.(n)</desc>
+    <category lang="en">10053</category>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20241212180000 +0000" stop="20241212183000 +0000" channel="Sky Sports F1">
+    <title lang="en">F1 Academy: Weekend Wrapped</title>
+    <desc lang="en">Revisit the F1 Academy weekend with a recap of all the racing from Abu Dhabi, as the 2024 season came to an end with round seven.(n)</desc>
+    <category lang="en">10053</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20241212183000 +0000" stop="20241212185000 +0000" channel="Sky Sports F1">
+    <title lang="en">Chasing The Dream</title>
+    <desc lang="en">In this captivating series, step behind the scenes of Formula 2. Here, a look at the final race meet of the 2024 season in Abu Dhabi. Ep 16.(n)</desc>
+    <category lang="en">10053</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20241212185000 +0000" stop="20241212190000 +0000" channel="Sky Sports F1">
+    <title lang="en">Monza Hot Laps with Albon</title>
+    <desc lang="en">Rachel Brookes gets to race around the beautiful Monza Circuit with Williams' Alex Albon while grilling him on his season to date.(n)</desc>
+    <category lang="en">10053</category>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20241212190000 +0000" stop="20241212201000 +0000" channel="Sky Sports F1">
+    <title lang="en">Abu Dhabi F2: Sprint</title>
+    <desc lang="en">Reversing the top 10 drivers from qualifying, the F2 Sprint Race grid at Yas Marina Circuit in Abu Dhabi is set. Amaury Cordeel holds reverse-grid pole. (07.12).(n)</desc>
+    <category lang="en">10053</category>
+    <episode-num system="onscreen">E07</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20241212201000 +0000" stop="20241212214500 +0000" channel="Sky Sports F1">
+    <title lang="en">Abu Dhabi F2: Feature Race</title>
+    <desc lang="en">The final Feature Race of the 2024 F2 season. Starting from P2, Gabriel Bortoleto leads championship rival Isack Hadjar, who starts fourth on the grid, by four and a half points. (08.12).(n)</desc>
     <category lang="en">10053</category>
     <episode-num system="onscreen">E08</episode-num>
     <rating system="UK">
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20241210143000 +0000" stop="20241210153000 +0000" channel="Sky Sports F1">
-    <title lang="en">Chequered Flag: Abu Dhabi</title>
-    <desc lang="en">As the chequered flag comes down on the Abu Dhabi Grand Prix and the 2024 Formula 1 season, join Sky Sports F1 for all the reaction and analysis.(n)</desc>
+  <programme start="20241212214500 +0000" stop="20241212220500 +0000" channel="Sky Sports F1">
+    <title lang="en">Chasing The Dream</title>
+    <desc lang="en">In this captivating series, step behind the scenes of Formula 2. Here, a look at the final race meet of the 2024 season in Abu Dhabi. Ep 16.(n)</desc>
     <category lang="en">10053</category>
     <rating system="UK">
       <value>--</value>
     </rating>
   </programme>
-  <programme start="20241210153000 +0000" stop="20241210160000 +0000" channel="Sky Sports F1">
-    <title lang="en">Ted's Notebook: Abu Dhabi</title>
-    <desc lang="en">Ted Kravitz is live for the final time this season following the Abu Dhabi Grand Prix, as he shares his thoughts on the race while gathering reaction from the paddock.(n)</desc>
+  <programme start="20241212220500 +0000" stop="20241212221500 +0000" channel="Sky Sports F1">
+    <title lang="en">Monza Hot Laps with Albon</title>
+    <desc lang="en">Rachel Brookes gets to race around the beautiful Monza Circuit with Williams' Alex Albon while grilling him on his season to date.(n)</desc>
     <category lang="en">10053</category>
     <rating system="UK">
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20241210160000 +0000" stop="20241210170000 +0000" channel="Sky Sports F1">
+  <programme start="20241212221500 +0000" stop="20241212224500 +0000" channel="Sky Sports F1">
+    <title lang="en">F1 Academy: Weekend Wrapped</title>
+    <desc lang="en">Revisit the F1 Academy weekend with a recap of all the racing from Abu Dhabi, as the 2024 season came to an end with round seven.(n)</desc>
+    <category lang="en">10053</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20241212224500 +0000" stop="20241212234500 +0000" channel="Sky Sports F1">
     <title lang="en">F1 Academy: Race 1</title>
     <desc lang="en">The opening race of the season-ending F1 Academy weekend at Yas Marina Circuit. Abbi Pulling swept all three pole positions, while Chloe Chambers joins the champion at the front. (07.12).(n)</desc>
     <category lang="en">10053</category>
@@ -901,7 +802,7 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20241210170000 +0000" stop="20241210180000 +0000" channel="Sky Sports F1">
+  <programme start="20241212234500 +0000" stop="20241213004500 +0000" channel="Sky Sports F1">
     <title lang="en">F1 Academy: Race 2</title>
     <desc lang="en">The second race of the F1 Academy weekend at Yas Marina Circuit in Abu Dhabi starts here. Polesitter Abbi Pulling looks to add to her eighth win of the season earlier today. (08.12).(n)</desc>
     <category lang="en">10053</category>
@@ -910,33 +811,7 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20241210180000 +0000" stop="20241210185000 +0000" channel="Sky Sports F1">
-    <title lang="en">F1 Academy: Race 3</title>
-    <desc lang="en">An additional F1 Academy race following the cancellation of race two in Lusail last week, as the season draws to an end in Abu Dhabi. Abbi Pulling looks to make it three from three. (08.12).(n)</desc>
-    <category lang="en">10053</category>
-    <episode-num system="onscreen">E08</episode-num>
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20241210185000 +0000" stop="20241210191000 +0000" channel="Sky Sports F1">
-    <title lang="en">Chasing The Dream</title>
-    <desc lang="en">In this captivating series, step behind the scenes of Formula 2. Here, a look at the final race meet of the 2024 season in Abu Dhabi. Ep 16.(n)</desc>
-    <category lang="en">10053</category>
-    <rating system="UK">
-      <value>--</value>
-    </rating>
-  </programme>
-  <programme start="20241210191500 +0000" stop="20241210204500 +0000" channel="Sky Sports F1">
-    <title lang="en">Abu Dhabi F2: Feature Race</title>
-    <desc lang="en">The final Feature Race of the 2024 F2 season. Starting from P2, Gabriel Bortoleto leads championship rival Isack Hadjar, who starts fourth on the grid, by four and a half points. (08.12).(n)</desc>
-    <category lang="en">10053</category>
-    <episode-num system="onscreen">E08</episode-num>
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20241210204500 +0000" stop="20241210210000 +0000" channel="Sky Sports F1">
+  <programme start="20241213004500 +0000" stop="20241213010000 +0000" channel="Sky Sports F1">
     <title lang="en">Ayao Komatsu &amp; Coventry City</title>
     <desc lang="en">Haas F1 team boss Ayao Komatsu explains how he came to be an ardent Coventry City fan.(n)</desc>
     <category lang="en">10053</category>
@@ -944,26 +819,106 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20241210210000 +0000" stop="20241210231500 +0000" channel="Sky Sports F1">
-    <title lang="en">Abu Dhabi F1 Grand Prix</title>
-    <desc lang="en">In what is Lewis Hamilton's final Mercedes race, it's Lando Norris and Oscar Piastri who lock out the front row in a bid to secure McLaren a first constructors' title since 1998. (08.12).(n)</desc>
-    <category lang="en">10053</category>
-    <episode-num system="onscreen">E08</episode-num>
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20241210231500 +0000" stop="20241210234500 +0000" channel="Sky Sports F1">
-    <title lang="en">Ted's Notebook: Abu Dhabi</title>
-    <desc lang="en">Ted Kravitz is live for the final time this season following the Abu Dhabi Grand Prix, as he shares his thoughts on the race while gathering reaction from the paddock.(n)</desc>
+  <programme start="20241213010000 +0000" stop="20241213023000 +0000" channel="Sky Sports F1">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">A look back at the best stories and features from the 2024 so far with Sky's Formula 1 presenters.(n)</desc>
     <category lang="en">10053</category>
     <rating system="UK">
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20241210234500 +0000" stop="20241211000000 +0000" channel="Sky Sports F1">
-    <title lang="en">F1 &amp; the Silver Bullet</title>
-    <desc lang="en">Learn how Swiss Paralympian Marcel Hug worked with the Sauber F1 team to advance technology in wheelchair racing.(n)</desc>
+  <programme start="20241213023000 +0000" stop="20241213033000 +0000" channel="Sky Sports F1">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">Reflect back on some of the best Sky F1 features from 2024 so far, including moments from Bahrain, Saudi Arabia and Australia.(n)</desc>
+    <category lang="en">10053</category>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20241213033000 +0000" stop="20241213043000 +0000" channel="Sky Sports F1">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">A look back at the best stories and features from the 2024 so far with Sky's Formula 1 presenters.(n)</desc>
+    <category lang="en">10053</category>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20241213043000 +0000" stop="20241213060000 +0000" channel="Sky Sports F1">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">A look back at the best stories and features from the 2024 so far with Sky's Formula 1 presenters.(n)</desc>
+    <category lang="en">10053</category>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20241213060000 +0000" stop="20241213084500 +0000" channel="Sky Sports F1">
+    <title lang="en">WDC Final 2019: MVG v Smith</title>
+    <desc lang="en">The new year begins in style on the oche as Michael van Gerwen meets Michael Smith in the final of the 2019 William Hill World Darts Championship at Alexandra Palace.(n)</desc>
+    <category lang="en">10053</category>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20241213084500 +0000" stop="20241213113000 +0000" channel="Sky Sports F1">
+    <title lang="en">WDC Final 2020: MVG Wright</title>
+    <desc lang="en">It all comes down to this: Michael van Gerwen and Peter Wright go head-to-head in the final of the 2020 William Hill World Darts Championship at the Alexandra Palace.(n)</desc>
+    <category lang="en">10053</category>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20241213113000 +0000" stop="20241213141500 +0000" channel="Sky Sports F1">
+    <title lang="en">WDC Final 2021: Price v Anderson</title>
+    <desc lang="en">The curtain closes on darts' biggest event with the final of the 2021 PDC World Darts Championship at the Alexandra Palace. Here, Gerwyn Price and Gary Anderson go head to head.(n)</desc>
+    <category lang="en">10053</category>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20241213141500 +0000" stop="20241213170000 +0000" channel="Sky Sports F1">
+    <title lang="en">WDC Final 2022: Smith v Wright</title>
+    <desc lang="en">Michael Smith and Peter Wright meet as the two standout players in the final of 2022 World Darts Championship. Will it be 'Bully Boy' or 'Snakebite' who wins the Sid Waddell Trophy.(n)</desc>
+    <category lang="en">10053</category>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20241213170000 +0000" stop="20241213200000 +0000" channel="Sky Sports F1">
+    <title lang="en">WDC Final 2023: Smith v Van Gerwen</title>
+    <desc lang="en">Michael van Gerwen and Michael Smith clash in the final of the 2022/23 World Darts Championship at Alexandra Palace. MVG targets a fourth title, while Smith eyes his maiden win. (03.01).(n)</desc>
+    <category lang="en">10053</category>
+    <episode-num system="onscreen">E03</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20241213200000 +0000" stop="20241213210000 +0000" channel="Sky Sports F1">
+    <title lang="en">Luke v Luke: A Date With Destiny</title>
+    <desc lang="en">...Destiny. As darts gripped the UK, Luke Humphries and Luke Littler marched to the World Championship final. See behind the curtain and beyond the headlines as the two vied for glory.(n)</desc>
+    <category lang="en">10053</category>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20241213210000 +0000" stop="20241213231000 +0000" channel="Sky Sports F1">
+    <title lang="en">WDC 2024: Littler v Humprhies</title>
+    <desc lang="en">The eyes of a nation were fixed on the Ally Pally stage as one of the great sporting stories, told by Luke Littler and Luke Humphries, concluded during the World Darts Championship final.(n)</desc>
+    <category lang="en">10053</category>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20241213231500 +0000" stop="20241213234500 +0000" channel="Sky Sports F1">
+    <title lang="en">Bristow v Taylor: WDC SF 1997</title>
+    <desc lang="en">Revisit a semi-final from the 1997 World Darts Championship that pitted Eric Bristow, who was enjoying one of his greatest runs in the PDC, up against Phil Taylor. Contains flashing images.(n)</desc>
+    <category lang="en">10053</category>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20241213234500 +0000" stop="20241214001500 +0000" channel="Sky Sports F1">
+    <title lang="en">30 Years of the PDC World Champs'</title>
+    <desc lang="en">In celebration of 30 years of the PDC World Darts Championship, take a look back at the very first tournament, a classic final from 2007 and one of the greatest legs ever played. Ep 1.(n)</desc>
     <category lang="en">10053</category>
     <rating system="UK">
       <value>U</value>
